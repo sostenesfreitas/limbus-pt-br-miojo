@@ -18,19 +18,49 @@ Todos os arquivos de StoryData que estavam em inglês na base CLT foram traduzid
 Conteúdo fora da história (descrições de habilidades, combate, UI) **não** faz parte
 deste pacote.
 
+## Estrutura do repositório
+
+```
+translations/        Tradução pronta para instalar (espelha Lang/ptbr-CLT/)
+  StoryData/         Arquivos de história traduzidos
+  *.json             Outros arquivos traduzidos
+scripts/
+  story/             Fonte editável — texto PT por id, antes da montagem
+  build-story.mjs    Reconstrói translations/ a partir de scripts/story/ + base CLT
+  apply-to-game.mjs  Instala translations/ na pasta do jogo (faz backup .bak)
+```
+
 ## Como instalar
 
 Requer Limbus Company v1.73.0+ (suporte a tradução personalizada) e a localização
 **ptbr-CLT** já instalada.
 
-1. Feche o jogo.
-2. Copie o conteúdo deste repositório — a pasta `StoryData/` e os arquivos `.json`
-   da raiz — para dentro de:
-   ```
-   LimbusCompany_Data/Lang/ptbr-CLT/
-   ```
-   sobrescrevendo os arquivos existentes.
-3. No jogo, selecione **ptbr-CLT** como idioma.
+**Opção A — manual:** feche o jogo e copie o conteúdo de `translations/` (a pasta
+`StoryData/` e os `.json`) para dentro de `LimbusCompany_Data/Lang/ptbr-CLT/`,
+sobrescrevendo os arquivos existentes. Depois selecione **ptbr-CLT** no jogo.
+
+**Opção B — script:** com [Node.js](https://nodejs.org) instalado e o jogo no caminho
+padrão do Steam, rode na raiz do repositório:
+
+```
+node scripts/apply-to-game.mjs
+```
+
+Ele copia `translations/` para a pasta do jogo, criando um `.bak` de cada arquivo
+substituído.
+
+## Como editar / reconstruir
+
+A tradução editável fica em `scripts/story/<ID>.json` — um objeto cujas chaves são os
+`id` das falas e os valores, o texto em PT. Após editar, reconstrua o arquivo final:
+
+```
+node scripts/build-story.mjs <ID>
+```
+
+`build-story.mjs` mescla o texto de `scripts/story/` sobre o arquivo-base da ptbr-CLT
+e grava o resultado em `translations/StoryData/`. Ele lê a base CLT no caminho padrão
+de instalação do jogo no Steam (Windows).
 
 ## Créditos
 
