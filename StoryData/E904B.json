@@ -1,0 +1,860 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "The House of Spiders Forward Base",
+            "content": "O lugar para onde Hohenheim nos levou era um espaço parecido com uma instalação de pesquisa, repleto de toda sorte de fios, monitores e símbolos e figuras complicadas."
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Então existia um lugar destes.>"
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "content": "Este lugar é uma base avançada que a Limbus Company veio construir após a operação de incendiar a Teia. É um espaço que não existia na época."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Foi instalado para a investigação adicional das portas dos fundos e para pesquisar os fenômenos singulares que ocorreram durante a operação."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Fenômenos singulares?>"
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "…Por exemplo."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Pode-se dar como exemplo um tema de pesquisa como [Análise da correlação espacial entre o surgimento da marca da Pecadora nº 11 e o fenômeno de materialização das possibilidades futuras]."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<Ah…>"
+        },
+        {
+            "id": 8,
+            "content": "Ao olhar em volta, de fato se viam Sinclair e os pesquisadores que o cercavam. São os rostos das pessoas que, há pouco, levaram Sinclair quase à força."
+        },
+        {
+            "id": 9,
+            "content": "E ao lado deles… parece que se reuniram os Pecadores, que assistiam àquilo ou que vieram descansar depois de terminar o que estavam fazendo."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Hohenheim. Quanto tempo demora o exame?"
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "content": "Hum. Por sorte, como o exame biológico do senhor Sinclair terminou, dá para usar o analisador de imediato."
+        },
+        {
+            "id": 12,
+            "model": "호엔하임",
+            "content": "Bom, sendo assim… no máximo, há de ser umas uma hora."
+        },
+        {
+            "id": 13,
+            "content": "Diante da palavra 'uma hora', a espada balançou de novo de um lado para o outro."
+        },
+        {
+            "id": 14,
+            "content": "Eu não sei o motivo, mas aquele movimento, para mim, parecia até… uma criança a tremer."
+        },
+        {
+            "id": 15,
+            "model": "호엔하임",
+            "content": "Está se movendo de novo."
+        },
+        {
+            "id": 16,
+            "model": "호엔하임",
+            "content": "Senhora Ryōshū, você também, venha junto. Você há de querer acompanhar o andamento."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Pois sim."
+        },
+        {
+            "id": 18,
+            "content": "Ryōshū e Hohenheim, talvez para começar logo o exame, desapareceram para um dos lados."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Então o Sinclair… ué?>"
+        },
+        {
+            "id": 20,
+            "content": "Quando eu me aproximava de Sinclair, que sofria toda sorte de ataques de perguntas, uma figura inesperada, escondida atrás de uma coluna, saltou aos olhos de modo particular."
+        },
+        {
+            "id": 21,
+            "content": "Era… Vespa, com um papel grandão de letras tortas colado nas costas."
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Ladra… de… lanche?>"
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "content": "Ah. Gerente."
+        },
+        {
+            "id": 24,
+            "model": "카론",
+            "content": "…Este tiozão espigado comeu todo o lanche do Caronte."
+        },
+        {
+            "id": 25,
+            "model": "베스파",
+            "content": "…Peço desculpas. Houve algum equívoco…"
+        },
+        {
+            "id": 26,
+            "model": "카론",
+            "content": "Verg. Dê uma bronca nele."
+        },
+        {
+            "id": 27,
+            "model": "베르길리우스",
+            "content": "Aah…"
+        },
+        {
+            "id": 28,
+            "model": "베르길리우스",
+            "content": "…Não é nem um caso digno de se apurar quem está certo ou errado, e também não deixa de haver culpa de Caronte, que pôs em cima da mesa e se ausentou."
+        },
+        {
+            "id": 29,
+            "model": "베르길리우스",
+            "content": "Mas, da próxima vez, eu gostaria que você tomasse cuidado… porque depois disto a minha situação fica bem penosa."
+        },
+        {
+            "id": 30,
+            "model": "베스파",
+            "content": "…Sim."
+        },
+        {
+            "id": 31,
+            "model": "베르길리우스",
+            "content": "…Caronte."
+        },
+        {
+            "id": 32,
+            "model": "카론",
+            "content": "Está em modo de mega-emburramento. Pelas próximas doze horas, o Caronte não fala."
+        },
+        {
+            "id": 33,
+            "model": "베르길리우스",
+            "content": "Eu vou usar uma 'Superbala Passe-de-Amargura'."
+        },
+        {
+            "id": 34,
+            "model": "카론",
+            "content": "…Bip-bip. Modo desativado."
+        },
+        {
+            "id": 35,
+            "model": "베스파",
+            "content": "Hum… eu não sei se este pedido cabe, mas, agora, será que dá para tirar este papel das minhas costas? Está… um pouco incômodo."
+        },
+        {
+            "id": 36,
+            "model": "카론",
+            "content": "Caronte. Só desta vez eu perdoo. Da próxima não sobra nem o caldo."
+        },
+        {
+            "id": 37,
+            "model": "베르길리우스",
+            "content": "…Da próxima é melhor não deixar você ouvir aquele canal de rádio."
+        },
+        {
+            "id": 38,
+            "content": "Vergílio observava, com um olhar complexo, Caronte tirando o papel onde estava escrito 'ladra de lanche'."
+        },
+        {
+            "id": 39,
+            "model": "베르길리우스",
+            "content": "Para você não sentir que foi um desperdício eu ter usado o meu já escasso poder de adoçar palavras numa coisa ridícula destas… faça o favor de guardar isto na memória."
+        },
+        {
+            "id": 40,
+            "model": "베스파",
+            "content": "…Obrigada."
+        },
+        {
+            "id": 41,
+            "content": "Vespa, mesmo fazendo uma mesura cortês, já tinha pegado outra comida que estava num outro prato e a levado à boca."
+        },
+        {
+            "id": 42,
+            "model": "로쟈",
+            "content": "E-espera, aquilo eu tinha guardado para comer daqui a pouco~!"
+        },
+        {
+            "id": 43,
+            "model": "베스파",
+            "content": "…Eu pensei que a senhora fosse de comer seletivamente."
+        },
+        {
+            "id": 44,
+            "model": "로쟈",
+            "content": "Então pare a boca agora mesmo!"
+        },
+        {
+            "id": 45,
+            "model": "로쟈",
+            "content": "Aah…! Dê uma bronca também por ela ter roubado o meu lanche, Verg!"
+        },
+        {
+            "id": 46,
+            "model": "베르길리우스",
+            "content": "…Rodion. Rodion Romanovna."
+        },
+        {
+            "id": 47,
+            "model": "베르길리우스",
+            "content": "Eu sei que você usa metade do custo de alimentação calculado individualmente para cada Pecador pela empresa, mas você quer mesmo, ainda por cima, tomar conta até do lanche do departamento da LCE?"
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "content": "Não~ aquilo foi tudo~ feito com consentimento, viu~"
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "E uma coisa é uma coisa, outra coisa é outra coisa!"
+        },
+        {
+            "id": 50,
+            "model": "베르길리우스",
+            "content": "Aff…"
+        },
+        {
+            "id": 51,
+            "content": "Hoje, de modo particular, a ruga entre as sobrancelhas de Vergílio parece mais funda do que o normal…"
+        },
+        {
+            "id": 52,
+            "content": "Resolvi me aproximar de Vergílio e tiquetaquear, tanto para tirá-lo do ciclo infinito de lanche quanto para perguntar o que me intrigava."
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<…Sobre a marca do Sinclair, saiu alguma coisa?>"
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "Dante está perguntando sobre o resultado da pesquisa da marca."
+        },
+        {
+            "id": 55,
+            "model": "베르길리우스",
+            "content": "…Eu ouvi o que os pesquisadores tinham a dizer, mas não havia um resultado lá tão significativo."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Desde o início, a existência de algo chamado marca apenas é admitida, mas, afora o Gerente e o senhor Sinclair, ninguém aqui jamais viu a marca diretamente."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "A pesquisa sobre algo que não se pode confirmar não tem como não ser difícil."
+        },
+        {
+            "id": 58,
+            "content": "…Conforme as palavras de Faust, os Pecadores, afora Sinclair, não conseguem ver a marca de modo direto."
+        },
+        {
+            "id": 59,
+            "content": "E isso há de valer também para os pesquisadores. Sonya também disse que, se não for uma pessoa especial, não se pode ver a marca."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "Antes, se existissem mais portadores de marca, dava para comparar e estreitar os resultados da pesquisa, mas…"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Vendo os registros, como não há material de pesquisa de comparação, parece que estão apenas tentando reduzir as exceções, como verificar se há relação com o espaço da época do combate."
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Um portador de marca… seria como Demian, ou aquele, Sansão…>"
+        },
+        {
+            "id": 63,
+            "model": "로쟈",
+            "content": "Então essas pessoas também, como o nosso Sincl… podem de repente trazer um eu futuro absurdamente forte e lutar?!"
+        },
+        {
+            "id": 64,
+            "model": "로쟈",
+            "content": "Não me diga… a Sonya também…"
+        },
+        {
+            "id": 65,
+            "content": "…Antes que a feição de Rodion ficasse ainda mais sombria, é melhor cortar a conversa."
+        },
+        {
+            "id": 66,
+            "model": "단테",
+            "content": "<Isso… não há de ser o caso. Conforme a história que a gente viu e ouviu por meio de Ishmael e Faust naquela ocasião…>"
+        },
+        {
+            "id": 67,
+            "model": "이스마엘",
+            "content": "Sim. Naquela vez, o Sinclair do futuro disse que cada marca há de ter um poder diferente."
+        },
+        {
+            "id": 68,
+            "model": "이스마엘",
+            "content": "Talvez Demian… aquele sujeito ter envolto um número enorme daqueles anéis reluzentes, ou o poder daquele tal de Sansão, que usou um poder de nos enfiar para dentro de uma história, seja isso."
+        },
+        {
+            "id": 69,
+            "model": "돈키호테",
+            "content": "…Pois é, talvez tenha sido assim."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<Não são coisas que dá para confirmar agora.>"
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "Sim. Como o senhor disse, a conversa de agora não passa de conjetura forçada. Portanto, também não é preciso se apavorar de antemão com um fato que nem foi esclarecido."
+        },
+        {
+            "id": 73,
+            "model": "이상",
+            "content": "Hum…"
+        },
+        {
+            "id": 74,
+            "model": "이상",
+            "content": "É apenas uma suposição, mas parece que os pesquisadores estão estabelecendo uma hipótese através dos vestígios que o Sinclair do futuro deixou."
+        },
+        {
+            "id": 75,
+            "model": "히스클리프",
+            "content": "Ah… aquela coisa lá. Aquilo de que a marca talvez seja uma singularidade, ou sei lá o quê?"
+        },
+        {
+            "id": 76,
+            "model": "뫼르소",
+            "content": "Sendo rigoroso, era a hipótese de que há a possibilidade de o princípio fundamental de funcionamento da marca ser idêntico ao de uma singularidade ou de uma relíquia."
+        },
+        {
+            "id": 77,
+            "model": "뫼르소",
+            "content": "Só que, como também não se obteve nenhuma pista especial do próprio Sinclair, é uma situação em que não há como verificar a hipótese estabelecida."
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<Quer dizer que do Sinclair, mesmo levado, também não saiu nada.>"
+        },
+        {
+            "id": 79,
+            "model": "싱클레어",
+            "content": "Já que o senhor pensava que eu estava sendo levado, foi por isso que me mandou ir tão de boa, Gerente…?"
+        },
+        {
+            "id": 80,
+            "model": "단테",
+            "content": "<Ué… é, é que.>"
+        },
+        {
+            "id": 81,
+            "model": "싱클레어",
+            "content": "Haha. É brincadeira. Eu só me empolguei com o clima e tentei uma vez."
+        },
+        {
+            "id": 82,
+            "content": "Uma brincadeira que o Sinclair de antes nem imaginaria fazer… ultimamente, parece que ele mudou bastante. Embora pareça uma boa mudança."
+        },
+        {
+            "id": 83,
+            "model": "단테",
+            "content": "<Não aconteceu nada de ruim, né?>"
+        },
+        {
+            "id": 84,
+            "model": "이스마엘",
+            "content": "Eu também, por via das dúvidas, fiquei colada nele, mas não houve nada digno de virar problema."
+        },
+        {
+            "id": 85,
+            "model": "이스마엘",
+            "content": "Bom, no máximo, tiraram um pouco de sangue e arrancaram de leve uma amostra de pele? Acho que disseram que iam verificar se, dando um estímulo elétrico, o desenho aparecia."
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "Isso mesmo. E, hum… ah! Fizeram alguns questionários, coisas assim."
+        },
+        {
+            "id": 87,
+            "model": "싱클레어",
+            "content": "'Descreva a memória da época do combate tal como ela é.', ou… 'registre a sensação que sentiu quando recobrou os sentidos.', coisas assim…"
+        },
+        {
+            "id": 88,
+            "model": "이상",
+            "content": "A memória ainda não voltou?"
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "Não… talvez ela não volte. Pelo que a senhora Faust disse, as memórias daquele momento só o meu eu do futuro há de ter…"
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "Ué? Então, se é uma memória que o meu eu do futuro tem, eu também devia me lembrar… hum… qual é que vem primeiro…?"
+        },
+        {
+            "id": 91,
+            "model": "이상",
+            "content": "É um paradoxo. Hum, num caso destes…"
+        },
+        {
+            "id": 92,
+            "model": "파우스트",
+            "content": "É que aquele senhor Sinclair também não passa de uma das possibilidades futuras."
+        },
+        {
+            "id": 93,
+            "model": "이상",
+            "content": "Será a teoria de que, se o futuro se ramifica infinitamente em bifurcações… aquela informação se dispersa em algo menor que pó e não tem como voltar, ao contrário, para o meu eu de agora?"
+        },
+        {
+            "id": 94,
+            "model": "파우스트",
+            "content": "Não dá para afirmar com certeza, mas há essa possibilidade."
+        },
+        {
+            "id": 95,
+            "model": "히스클리프",
+            "content": "Lá vêm eles de novo com uma conversa difícil que só eles entendem…"
+        },
+        {
+            "id": 96,
+            "model": "히스클리프",
+            "content": "Ei. Mas, mesmo que a memória tenha voado embora, no fim foi do corpo dele que aquilo saltou."
+        },
+        {
+            "id": 97,
+            "model": "히스클리프",
+            "content": "Então não fica alguma experiência ou algum jeito guardado no corpo? Tipo, o que ele fez naquela hora ele também consegue fazer agora…"
+        },
+        {
+            "id": 98,
+            "model": "싱클레어",
+            "content": "O que… eu fiz?"
+        },
+        {
+            "id": 99,
+            "model": "히스클리프",
+            "content": "Bom, pelo que ouvi dizer, você aprontou uma boa. Aquilo… você usou até o que aprendeu com aquele velho beberrão, não foi?"
+        },
+        {
+            "id": 100,
+            "model": "이스마엘",
+            "content": "E não foi só isso. Aquela coisa chamada Aspiração (望), você usou com toda a naturalidade."
+        },
+        {
+            "id": 101,
+            "model": "히스클리프",
+            "content": "Hã?! Aquela coisa redonda e reluzente?!"
+        },
+        {
+            "id": 102,
+            "model": "이스마엘",
+            "content": "Sim, o senhor enrolou aquela coisa redonda e reluzente, viu? E foram duas."
+        },
+        {
+            "id": 103,
+            "model": "싱클레어",
+            "content": "Eu, aquela coisa redonda e reluzente?!"
+        },
+        {
+            "id": 104,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "model": "싱클레어",
+            "content": "…I-isto é a primeira vez que eu ouço, hoje…?"
+        },
+        {
+            "id": 105,
+            "model": "로쟈",
+            "content": "…Então. Aquela coisa redonda e reluzente, o que era exatamente — alguém sabe?"
+        },
+        {
+            "id": 106,
+            "model": "싱클레어",
+            "content": "Ã… não era algo tipo uma técnica de fortalecimento corporal?"
+        },
+        {
+            "id": 107,
+            "model": "로쟈",
+            "content": "Não. Que, envolvendo aquela aura faiscante, a pessoa fica super-resistente, isso até eu sei…"
+        },
+        {
+            "id": 109,
+            "model": "히스클리프",
+            "content": "Bom… não é alguma técnica ou equipamento transmitido pelos Dedos… algo assim?"
+        },
+        {
+            "id": 110,
+            "model": "히스클리프",
+            "content": "Tanto aquele chefe dos coelhos todo preto quanto aquele Leiheng, e os tais Pais que a gente encontrou aqui, eram todos de origem dos Dedos."
+        },
+        {
+            "id": 111,
+            "model": "이상",
+            "content": "Hum. Para isso, os que pertenciam à LCD também não a usavam?"
+        },
+        {
+            "id": 112,
+            "model": "이스마엘",
+            "content": "O senhor Vergílio também usava."
+        },
+        {
+            "model": "히스클리프",
+            "content": "Hum… então é uma técnica avançada que só uns sujeitos absurdamente fortes podem usar…"
+        },
+        {
+            "id": 113,
+            "content": "O olhar dos Pecadores se voltou, com naturalidade, para Vergílio e Vespa."
+        },
+        {
+            "id": 114,
+            "model": "베스파",
+            "content": "Hum…"
+        },
+        {
+            "id": 115,
+            "model": "베스파",
+            "content": "Eu também apenas aprendi por meio do chefe de equipe. Eu compreendo o Cerne (心) de modo intuitivo, mas não é que eu o conheça por completo."
+        },
+        {
+            "model": "베스파",
+            "content": "Ainda assim, eu acho que posso lhes contar alguns boatos de origem desconhecida."
+        },
+        {
+            "id": 116,
+            "model": "싱클레어",
+            "content": "Boatos… é?"
+        },
+        {
+            "id": 117,
+            "model": "베스파",
+            "content": "Eram boatos que circulavam entre Solucionadores de alta graduação e figuras de alto escalão das Associações."
+        },
+        {
+            "id": 118,
+            "model": "베스파",
+            "content": "De que existe um poder chamado Cerne, capaz de fortalecer o corpo até sem o custo caro de manutenção…"
+        },
+        {
+            "id": 119,
+            "model": "돈키호테",
+            "content": "Entre os Solucionadores, o senhor diz?"
+        },
+        {
+            "id": 120,
+            "model": "베스파",
+            "content": "Sim. Algo digno de se chamar de truque também circulava junto com os boatos."
+        },
+        {
+            "id": 121,
+            "model": "뉴키라",
+            "content": "Ah~ é verdade, aquele Solucionador que apareceu na seção de novatos de elite no vídeo extra da última edição da Fixer Magazine também enrolou uma Aspiração pra caramba, todo estiloso, né?"
+        },
+        {
+            "id": 122,
+            "model": "돈키호테",
+            "content": "Hum, hã? Eu nunca vi um vídeo com um conteúdo desses…"
+        },
+        {
+            "id": 123,
+            "model": "뉴키라",
+            "content": "Ué? Apareceu, sim, na edição mais recente da Fixer Magazine… você não viu a fita que vem grudada bem na parte de trás?"
+        },
+        {
+            "id": 124,
+            "model": "돈키호테",
+            "content": "Fi… ta…? Ah…"
+        },
+        {
+            "id": 125,
+            "model": "돈키호테",
+            "content": "É que… já se passaram algumas semanas desde que eu não consigo voltar para o Mephi… eu não vi nem a edição mais recente, que dirá a edição passada…"
+        },
+        {
+            "id": 126,
+            "model": "돈키호테",
+            "content": "Crgh… que coisa mais lastimável… quando eu voltar, eu vou, sem falta, virar a noite atrás das esplêndidas aventuras dos Solucionadores que ficaram atrasadas…"
+        },
+        {
+            "id": 127,
+            "content": "Enquanto Donquixote estava abatida, Outis se intrometeu na conversa com uma expressão cheia de desconfiança."
+        },
+        {
+            "id": 128,
+            "model": "오티스",
+            "content": "…Eu me lembro de que os que envolviam o Cerne, sem exceção, tinham obtido um fortalecimento corporal de alto nível."
+        },
+        {
+            "id": 129,
+            "model": "오티스",
+            "content": "Todo poder costuma vir acompanhado de um preço à sua altura. Não há de ser que um fortalecimento corporal daquele tamanho não tenha preço algum, certo?"
+        },
+        {
+            "id": 130,
+            "model": "베르길리우스",
+            "content": "Aquele poder…"
+        },
+        {
+            "id": 131,
+            "model": "베르길리우스",
+            "content": "Por se manifestar através das emoções e do coração, ao contrário de um procedimento de fortalecimento, não tem uma potência constante garantida."
+        },
+        {
+            "id": 132,
+            "model": "베르길리우스",
+            "content": "Conforme o modo como se usa, paga-se também um preço de nível parecido ao do E.G.O. que vocês usam."
+        },
+        {
+            "id": 133,
+            "model": "이상",
+            "content": "…Quer dizer que se tem de consumir uma energia mental considerável."
+        },
+        {
+            "id": 134,
+            "model": "베스파",
+            "content": "Se desejarem, eu posso lhes ensinar o truque."
+        },
+        {
+            "id": 135,
+            "model": "오티스",
+            "content": "…Pareceu uma técnica que só os fortes podem usar. Com o nível que nós temos… não é algo que não dá para usar?"
+        },
+        {
+            "id": 136,
+            "model": "베스파",
+            "content": "O chefe de equipe vem pesquisando essas partes a fundo, mas…"
+        },
+        {
+            "id": 137,
+            "model": "베스파",
+            "content": "Pelo que se ouve dizer, parece que, provavelmente, a força do corpo não tem influência no aprendizado do Cerne."
+        },
+        {
+            "id": 138,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 139,
+            "model": "베르길리우스",
+            "content": "Conforme as palavras do Arpão Amarelo."
+        },
+        {
+            "id": 140,
+            "model": "베르길리우스",
+            "content": "É fato que, sabendo o truque, é um poder que, em geral, qualquer um pode aprender."
+        },
+        {
+            "id": 141,
+            "model": "베스파",
+            "content": "……."
+        },
+        {
+            "id": 142,
+            "content": "Assim que foi chamada de Arpão Amarelo, as sobrancelhas de Vespa se contorceram."
+        },
+        {
+            "id": 143,
+            "content": "Será que ela não gosta? Arpão Amarelo… hum…"
+        },
+        {
+            "id": 144,
+            "content": "Acho que está bom. É amarela, e usa um arpão."
+        },
+        {
+            "id": 145,
+            "model": "베르길리우스",
+            "content": "Exagerando, a ponto de até um Pecador anterior ao andamento do contrato poder aprender."
+        },
+        {
+            "id": 146,
+            "model": "이상",
+            "content": "…U-uué, por que o objeto de comparação sou eu?"
+        },
+        {
+            "id": 147,
+            "model": "히스클리프",
+            "content": "Decerto… porque você é o lanterninha."
+        },
+        {
+            "id": 148,
+            "model": "싱클레어",
+            "content": "Não leve muito a sério…"
+        },
+        {
+            "id": 149,
+            "model": "이상",
+            "content": "Haaa…"
+        },
+        {
+            "id": 150,
+            "model": "베르길리우스",
+            "content": "Mas, mesmo assim, também é fato que não é um poder que qualquer um possa dominar com facilidade."
+        },
+        {
+            "id": 151,
+            "model": "베르길리우스",
+            "content": "Enquanto vocês estiverem presos a um contrato como 'Pecadores'… manejar esse poder vai ser difícil."
+        },
+        {
+            "id": 152,
+            "model": "베르길리우스",
+            "content": "A não ser que se sobreponham alguns personagens, ou que ocorra uma exceção descomunal."
+        },
+        {
+            "id": 153,
+            "model": "히스클리프",
+            "content": "Ts… que pena, isso."
+        },
+        {
+            "id": 154,
+            "model": "뉴키라",
+            "content": "…Escuta, então. Eu posso aprender?"
+        },
+        {
+            "id": 155,
+            "content": "Kira, que ouvia quieta mexendo os dedos, levantou a mão e perguntou."
+        },
+        {
+            "id": 156,
+            "content": "Agora que penso… aquele sujeito, o Pai do Dedo Médio, não usava nem Cerne nem Aspiração."
+        },
+        {
+            "id": 157,
+            "model": "뉴키라",
+            "content": "O papai… dizia que era forte o bastante mesmo sem essas coisas, e não me ensinou."
+        },
+        {
+            "id": 158,
+            "model": "베스파",
+            "content": "Ha. Não é que ele não tenha ensinado; há de ser que ele não conseguia ensinar."
+        },
+        {
+            "id": 159,
+            "model": "베스파",
+            "content": "Aquele lixo, que nunca uma vez sequer olhou para o próprio pecado… provavelmente nem chegava a compreender aquele poder."
+        },
+        {
+            "id": 160,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 161,
+            "content": "Quando se fala de assuntos ligados aos Dedos com Vespa, a resposta que vem costuma vir misturada de ódio."
+        },
+        {
+            "id": 162,
+            "content": "Talvez por Kira saber disso, ou então… por não lhe ter ocorrido nada com que rebater como devido o que Vespa disse, sei lá…"
+        },
+        {
+            "id": 163,
+            "content": "ela guardou silêncio, com uma expressão em que se mesclavam descontentamento e tristeza."
+        },
+        {
+            "id": 164,
+            "model": "베르길리우스",
+            "content": "Por esse critério, se respondo se dá ou não dá… eu diria que, com alta probabilidade, parece que dá para você aprender."
+        },
+        {
+            "id": 165,
+            "model": "베르길리우스",
+            "content": "Embora seja… uma conversa para quando esta empresa decidir aceitar a sua existência."
+        },
+        {
+            "id": 166,
+            "model": "뉴키라",
+            "content": "…Eu já sei disso, ué."
+        },
+        {
+            "id": 167,
+            "model": "베르길리우스",
+            "content": "Por ora, você não passa de um objeto de descarte suspenso; não é coisa nenhuma. Falando com rigor, você está mais perto de inimiga do que de aliada."
+        },
+        {
+            "id": 168,
+            "model": "베르길리우스",
+            "content": "Não vá se esquecer da sua condição só porque o Gerente e os Pecadores te tratam com brandura. Se, por descuido, você passar dos limites, quem vai se ver em apuros é você."
+        },
+        {
+            "id": 169,
+            "content": "Não havia ponto algum errado nas palavras de Vergílio."
+        },
+        {
+            "id": 170,
+            "content": "Kira, como integrante da Teia, ceifou a vida de vários pesquisadores da LCE…"
+        },
+        {
+            "id": 171,
+            "content": "e criou para nós também várias memórias nada agradáveis."
+        },
+        {
+            "id": 172,
+            "content": "Apenas, por ora, não há grande desgosto em trabalhar junto."
+        },
+        {
+            "id": 173,
+            "content": "Deixando para trás Kira, que parecia ter ficado com muita coisa na cabeça, enquanto os Pecadores conversavam, cada um, sobre os lanches ou sobre o que aconteceu na LCE."
+        },
+        {
+            "id": 174,
+            "model": "호엔하임",
+            "content": "O exame terminou."
+        },
+        {
+            "id": 175,
+            "model": "호엔하임",
+            "content": "Bom, não há problema em todos ouvirem juntos."
+        },
+        {
+            "id": 176,
+            "content": "Hohenheim e Ryōshū, que terminaram o exame, voltaram."
+        }
+    ]
+}

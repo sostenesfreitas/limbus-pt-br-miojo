@@ -1,0 +1,1728 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "료슈",
+            "content": "It's..."
+        },
+        {
+            "id": 1,
+            "model": "료슈",
+            "content": "It's a thread."
+        },
+        {
+            "id": 2,
+            "place": "Corredor do Mindinho",
+            "content": "Ryoshu agarra a espada que trespassou o Pai do Mindinho."
+        },
+        {
+            "id": 3,
+            "content": "E ela logo se transforma, não numa espada, mas num único fio."
+        },
+        {
+            "id": 4,
+            "place": -1,
+            "model": "료슈",
+            "content": "As crianças percebem como que por instinto."
+        },
+        {
+            "id": 5,
+            "model": "료슈",
+            "content": "Who loves them, who despises them,"
+        },
+        {
+            "id": 6,
+            "model": "료슈",
+            "content": "Se querem feri-las, ou cuidar delas."
+        },
+        {
+            "id": 7,
+            "model": "료슈",
+            "content": "The Nursefathers raised me."
+        },
+        {
+            "id": 8,
+            "model": "엄지아비",
+            "content": "Ticket, hngh, você já comeu arroz misturado com vodca?"
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "content": "Each in their own distinct way,"
+        },
+        {
+            "id": 10,
+            "model": "검지아비",
+            "content": "Filha, que conto de fadas eu leio para você hoje?"
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "Each unchanging and uncompromising,"
+        },
+        {
+            "id": 12,
+            "model": "중지아비",
+            "content": "Filhinha, se tiver alguma coisa que você quer, diga tudo, sem rodeios; o pai compra tudo!"
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "O tamanho do afeto também era diferente."
+        },
+        {
+            "id": 14,
+            "model": "약지아비",
+            "content": "Acompanhe bem as minhas aulas — tanto a beleza quanto a força se erguem sobre a rocha do conhecimento. Vamos começar agora o estudo da estética. Yoshihide também precisa, um dia, criar uma galeria só sua, não?"
+        },
+        {
+            "id": 15,
+            "model": "료슈",
+            "content": "O grau do cuidado também era diferente, mas..."
+        },
+        {
+            "id": 16,
+            "model": "소지아비2",
+            "content": "Don't you dare smile."
+        },
+        {
+            "id": 17,
+            "model": "소지아비2",
+            "content": "Como eu sou miserável, você também tem de ficar miserável, para ser justo."
+        },
+        {
+            "id": 18,
+            "model": "료슈",
+            "content": "De todo modo, os meus Pais."
+        },
+        {
+            "id": 19,
+            "model": "료슈",
+            "content": "Uma criaturinha pulsa dentro da palma da minha mão."
+        },
+        {
+            "id": 20,
+            "model": "료슈",
+            "content": "Depende de mim, alegra-se comigo e segue os meus movimentos com os olhos."
+        },
+        {
+            "id": 21,
+            "model": "료슈",
+            "content": "E sozinha não consegue sobreviver."
+        },
+        {
+            "id": 22,
+            "model": "료슈",
+            "content": "Se eu simplesmente a abandonar, ela não consegue dar continuidade à vida."
+        },
+        {
+            "id": 23,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "That feeling is called \"pity.\""
+        },
+        {
+            "id": 24,
+            "model": "과거료슈2",
+            "content": "Pity? What's that?"
+        },
+        {
+            "id": 25,
+            "model": "검지아비",
+            "content": "No livro que eu li ontem, quando a cobra estava engolindo o sapo..."
+        },
+        {
+            "id": 26,
+            "model": "검지아비",
+            "content": "...você se lembra da cena em que a cobra chorava em prantos enquanto engolia o sapo que se debatia?"
+        },
+        {
+            "id": 27,
+            "model": "과거료슈2",
+            "content": "Yeah."
+        },
+        {
+            "id": 28,
+            "model": "검지아비",
+            "content": "É esse o motivo pelo qual a cobra chorava."
+        },
+        {
+            "id": 29,
+            "model": "검지아비",
+            "content": "Ela ficou triste por saber a dor que o sapo sentiria ao ser engolido, e por saber que a vida do sapo não teria mais continuidade."
+        },
+        {
+            "id": 30,
+            "model": "과거료슈2",
+            "content": "Okay."
+        },
+        {
+            "id": 31,
+            "model": "과거료슈2",
+            "content": "Então, os outros papais também sentem isso por mim?"
+        },
+        {
+            "id": 32,
+            "model": "검지아비",
+            "content": "No, I don't know if..."
+        },
+        {
+            "id": 33,
+            "model": "검지아비",
+            "content": "Pessoas que tenham uma coisa dessas hão de ser raras, não?"
+        },
+        {
+            "id": 34,
+            "model": "검지아비",
+            "content": "Porque este lugar é a teia, filha."
+        },
+        {
+            "id": 35,
+            "model": "검지아비",
+            "content": "And Spiders... <i>hunt</i>."
+        },
+        {
+            "id": 36,
+            "model": "과거료슈2",
+            "content": "... Hunt."
+        },
+        {
+            "id": 37,
+            "model": "과거료슈2",
+            "content": "Eu também vou ter de fazer isso, não vou?"
+        },
+        {
+            "id": 38,
+            "model": "과거료슈2",
+            "content": "Com esta espada."
+        },
+        {
+            "id": 39,
+            "model": "검지아비",
+            "content": "Sim, quando chegar a hora."
+        },
+        {
+            "id": 40,
+            "model": "과거료슈2",
+            "content": "But it's weird."
+        },
+        {
+            "id": 41,
+            "model": "과거료슈2",
+            "content": "Por que vocês não deixam desembainhar esta? É uma espada."
+        },
+        {
+            "id": 42,
+            "model": "검지아비",
+            "content": "Isso também, quando chegar a hora."
+        },
+        {
+            "id": 43,
+            "model": "과거료슈2",
+            "content": "Am I gonna get a magic beeper like yours someday, Dad?"
+        },
+        {
+            "id": 44,
+            "model": "과거료슈2",
+            "content": "É por isso que aquele bipe avisa de tudo?"
+        },
+        {
+            "id": 45,
+            "model": "검지아비",
+            "content": "Não; você não vai ter um."
+        },
+        {
+            "id": 46,
+            "model": "과거료슈2",
+            "content": "...Entendi. Em vez disso, eu tenho a compaixão, só eu."
+        },
+        {
+            "id": 47,
+            "model": "과거료슈2",
+            "content": "Então, o Saru... eu posso criá-lo?"
+        },
+        {
+            "id": 48,
+            "model": "검지아비",
+            "content": "Pode, mas eu não recomendo."
+        },
+        {
+            "id": 49,
+            "model": "검지아비",
+            "content": "Pois, quando a gente se enche de coisas preciosas, um dia tudo isso acaba sendo arrancado, num tamanho maior do que o que se encheu."
+        },
+        {
+            "id": 50,
+            "model": "과거료슈2",
+            "content": "……."
+        },
+        {
+            "id": 51,
+            "place": -1,
+            "model": "료슈",
+            "content": "Nas palavras daquele sujeito havia sempre uma contemplação que se fazia passar por ternura."
+        },
+        {
+            "id": 52,
+            "model": "료슈",
+            "content": "Naquela época, eu estava num estado de cansaço por causa das palavras espinhosas dos outros Pais, e por isso..."
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "...eu gostava daquelas palavras difíceis de entender. Ao menos a mim soavam quentes, e..."
+        },
+        {
+            "id": 54,
+            "model": "료슈",
+            "content": "A genuine intention to convey something to me."
+        },
+        {
+            "id": 55,
+            "place": "Quarto de Ryoshu, no passado",
+            "model": "과거료슈2",
+            "content": "... No."
+        },
+        {
+            "id": 56,
+            "model": "소지아비2",
+            "content": "Você acha que isto se desfaz só com um 'não quero'?"
+        },
+        {
+            "id": 57,
+            "model": "소지아비2",
+            "content": "Não foi você que disse, com toda a confiança, que batia até ela obedecer? Valentina."
+        },
+        {
+            "id": 58,
+            "model": "엄지아비",
+            "content": "Ha... ei, este aqui é o desgraçado que você gerou."
+        },
+        {
+            "id": 59,
+            "model": "엄지아비",
+            "content": "Pelo visto herdou de você só o que presta menos."
+        },
+        {
+            "id": 60,
+            "model": "중지아비",
+            "content": "Ei, ei, o que é que vocês estão fazendo na frente da criança?"
+        },
+        {
+            "id": 61,
+            "model": "소지아비2",
+            "content": "... Rien, give me that."
+        },
+        {
+            "id": 62,
+            "model": "검지아비",
+            "content": "……."
+        },
+        {
+            "id": 63,
+            "model": "엄지아비",
+            "content": "Você ainda não conhece a Lüen?"
+        },
+        {
+            "id": 64,
+            "model": "엄지아비",
+            "content": "Aquela desgraçada é do tipo que finge não entender se você não diz o nome das coisas de forma concreta."
+        },
+        {
+            "id": 65,
+            "model": "소지아비2",
+            "content": "... Give me Zenon's Tortoise Spiral."
+        },
+        {
+            "id": 66,
+            "model": "검지아비",
+            "content": "Mm. Here you go."
+        },
+        {
+            "id": 67,
+            "model": "소지아비2",
+            "content": "……."
+        },
+        {
+            "id": 68,
+            "model": "과거료슈2",
+            "content": "…!"
+        },
+        {
+            "id": 69,
+            "model": "과거료슈2",
+            "content": "Saru!!"
+        },
+        {
+            "id": 70,
+            "model": "소지아비2",
+            "content": "Você sabe o método de desmontar, não sabe?"
+        },
+        {
+            "id": 71,
+            "model": "소지아비2",
+            "content": "A senha eu vou te dizer quando você terminar o serviço e voltar."
+        },
+        {
+            "id": 72,
+            "model": "소지아비2",
+            "content": "Se você se demorar, o Saru vai morrer."
+        },
+        {
+            "id": 73,
+            "model": "과거료슈2",
+            "content": "……."
+        },
+        {
+            "id": 74,
+            "model": "소지아비2",
+            "content": "Você sabe o que é morrer?"
+        },
+        {
+            "id": 75,
+            "model": "소지아비2",
+            "content": "E o que é cortar e matar uma coisa?"
+        },
+        {
+            "id": 76,
+            "place": -1,
+            "model": "료슈",
+            "content": "Eu sei onde e como apunhalar para cortar o fio da vida de um só golpe."
+        },
+        {
+            "id": 77,
+            "model": "료슈",
+            "content": "Pois eu treinei sem cessar com alvos, espantalhos, estátuas e pedaços de carne."
+        },
+        {
+            "id": 78,
+            "teller": "Alvo da Teia",
+            "title": "???",
+            "content": "Hrrk...!"
+        },
+        {
+            "id": 79,
+            "model": "료슈",
+            "content": "Um desconhecido, um sujeito vestido com um terno alaranjado."
+        },
+        {
+            "id": 80,
+            "model": "료슈",
+            "content": "What dreadful fashion sense."
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "De quem eu não sabia nada além de que trabalhava num banco de bom porte. De quem nem era preciso saber."
+        },
+        {
+            "id": 82,
+            "model": "료슈",
+            "content": "E eu também soube o que era morrer."
+        },
+        {
+            "id": 83,
+            "model": "료슈",
+            "content": "É tudo acabar."
+        },
+        {
+            "id": 84,
+            "place": "Corredor do Mindinho, no passado",
+            "model": "과거료슈2",
+            "content": "... The password. Now."
+        },
+        {
+            "id": 85,
+            "model": "소지아비2",
+            "content": "...Você o cortou?"
+        },
+        {
+            "id": 86,
+            "model": "소지아비2",
+            "content": "E olha que se passaram... apenas duas horas?"
+        },
+        {
+            "id": 87,
+            "model": "과거료슈2",
+            "content": "... The password."
+        },
+        {
+            "id": 88,
+            "model": "소지아비2",
+            "content": "Como você passou pelos Solucionadores que estavam de guarda em volta do alvo?"
+        },
+        {
+            "id": 89,
+            "model": "과거료슈2",
+            "content": "Cut them all dead. Doesn't matter how."
+        },
+        {
+            "id": 90,
+            "model": "소지아비2",
+            "content": "……."
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "content": "A boca daquele sujeito, que me olhava de cima com olhos estranhos..."
+        },
+        {
+            "id": 92,
+            "model": "료슈",
+            "content": "...abriu-se numa expressão indecifrável. Sem que se soubesse se era algo perto de um riso ou o seu oposto."
+        },
+        {
+            "id": 93,
+            "model": "료슈",
+            "content": "Saru was spared, as promised."
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "Mas, a cada respiração, um som de respiração ofegante e chiada se misturava, e..."
+        },
+        {
+            "id": 95,
+            "model": "료슈",
+            "content": "...ele, ao me ver, já não abanava mais o rabo."
+        },
+        {
+            "id": 96,
+            "place": "Corredor do Anelar, no passado",
+            "model": "약지아비",
+            "content": "Yoshihide, eu preparei um pequeno presente de aniversário."
+        },
+        {
+            "id": 97,
+            "model": "약지아비",
+            "content": "O nome desta espada é... Lâmina de Osso de Besta (畜生骨刀), Saru."
+        },
+        {
+            "id": 98,
+            "model": "약지아비",
+            "content": "É de um tamanho gracioso, que cabe certinho na palma da mão de Yoshihide."
+        },
+        {
+            "id": 99,
+            "model": "과거료슈2",
+            "content": "……."
+        },
+        {
+            "id": 100,
+            "model": "약지아비",
+            "content": "Yoshihide, sabe, um dia eu também quero concluir uma criança minha... um filho só meu, feito da minha verdadeira carne e do meu verdadeiro sangue."
+        },
+        {
+            "id": 101,
+            "model": "약지아비",
+            "content": "Eu vivo à espera apenas desse dia."
+        },
+        {
+            "id": 102,
+            "place": -1,
+            "model": "료슈",
+            "content": "Aquele cabo de espada era um afeto puro que só aquele sujeito poderia deixar."
+        },
+        {
+            "id": 103,
+            "model": "료슈",
+            "content": "Esse sentimento eu já o sentira antes, várias e várias vezes."
+        },
+        {
+            "id": 104,
+            "model": "료슈",
+            "content": "As marcas de hematoma que restavam no corpo, e o cheiro de bebida que emanava dele."
+        },
+        {
+            "id": 105,
+            "model": "료슈",
+            "content": "Aquele timbre de voz que, embora tentasse fechar o livro a partir das últimas páginas, não mostrava nem uma polegada de enfado ao ler para mim."
+        },
+        {
+            "id": 106,
+            "model": "료슈",
+            "content": "Aquele coração que, por desejar que houvesse apenas conforto em todos os lugares por onde eu passasse, só se satisfazia mandando para o abismo todos os que atrapalhassem isso."
+        },
+        {
+            "id": 107,
+            "model": "료슈",
+            "content": "Aquele anseio de me fazer assimilar, sem deixar resto, todo o conhecimento de arte que possuía, para que eu enfim me tornasse a única que o compreendia."
+        },
+        {
+            "id": 108,
+            "model": "료슈",
+            "content": "Aquele grito árido dele, que não conseguia olhar para mim e não suportava que eu olhasse para ele."
+        },
+        {
+            "id": 109,
+            "model": "료슈",
+            "content": "Portanto, estes cinco fios são as cordas que me sustentam."
+        },
+        {
+            "id": 110,
+            "model": "료슈",
+            "content": "E o caminho para onde essas cordas se dirigem."
+        },
+        {
+            "id": 111,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "Oh, this?"
+        },
+        {
+            "id": 112,
+            "model": "검지아비",
+            "content": "Filha. Isto... é uma espiral."
+        },
+        {
+            "id": 113,
+            "model": "검지아비",
+            "content": "Uma vez cravada, como ela continua penetrando ao menor movimento... não resta senão ficar imóvel no lugar."
+        },
+        {
+            "id": 114,
+            "model": "검지아비",
+            "content": "No começo, sente-se apenas como um espinho que arde, mas é uma arma que penetra cada vez mais quanto mais se tenta arrancá-la."
+        },
+        {
+            "id": 115,
+            "model": "검지아비",
+            "content": "Mas, embora continue penetrando, ela não chega de fato a trespassar e sair. \nQuanto mais ela tenta alcançar o fim, mais a espiral vai ficando lenta... e, no fim, não consegue tocar o fim."
+        },
+        {
+            "id": 116,
+            "model": "검지아비",
+            "content": "E você sabe o que há de parecido com isto?"
+        },
+        {
+            "id": 117,
+            "model": "검지아비",
+            "content": "\"Doubt.\""
+        },
+        {
+            "id": 118,
+            "model": "과거료슈1",
+            "content": "No, Dad."
+        },
+        {
+            "id": 119,
+            "model": "과거료슈1",
+            "content": "It's freeze tag!"
+        },
+        {
+            "id": 120,
+            "model": "검지아비",
+            "content": "... What's... freeze tag?"
+        },
+        {
+            "id": 121,
+            "model": "과거료슈1",
+            "content": "Quando o papai está de 'congelado', eu tenho que bater no papai e gritar 'descongela!' para ele poder se mexer."
+        },
+        {
+            "id": 122,
+            "model": "검지아비",
+            "content": "I see."
+        },
+        {
+            "id": 123,
+            "model": "검지아비",
+            "content": "Then I... I'll keep waiting until my darling daughter decides to unfreeze me."
+        },
+        {
+            "id": 124,
+            "place": -1,
+            "model": "료슈",
+            "content": "Naquela época, eu não entendia o que aquele sujeito dizia."
+        },
+        {
+            "id": 125,
+            "model": "료슈",
+            "content": "Aquela espiral, depois, trespassou o Saru, e depois trespassou dezenas de outras pessoas, e de novo dezenas, e então..."
+        },
+        {
+            "id": 126,
+            "model": "료슈",
+            "content": "...em mim também, a partir de um certo dia, cravou-se aquela dúvida em forma de espiral."
+        },
+        {
+            "id": 127,
+            "model": "료슈",
+            "content": "O fio faz nós, se emaranha, se enrola e se enrola de novo."
+        },
+        {
+            "id": 128,
+            "model": "료슈딸",
+            "content": "Isto é uma teia de aranha, mamãe. Mas olha, se a gente muda isto assim..."
+        },
+        {
+            "id": 129,
+            "model": "료슈딸",
+            "content": "Ta-da! It becomes a ladder. Cool, right?"
+        },
+        {
+            "id": 130,
+            "model": "과거료슈3",
+            "content": "Você..."
+        },
+        {
+            "id": 131,
+            "model": "과거료슈3",
+            "content": "... bored?"
+        },
+        {
+            "id": 132,
+            "model": "료슈딸",
+            "content": "Ué? Eu brinco super bem sozinha, sabia?"
+        },
+        {
+            "id": 133,
+            "model": "과거료슈3",
+            "content": "......."
+        },
+        {
+            "id": 134,
+            "model": "과거료슈3",
+            "content": "Você não... quer ir à escola?"
+        },
+        {
+            "id": 135,
+            "model": "료슈딸",
+            "content": "... Whoa."
+        },
+        {
+            "id": 136,
+            "model": "료슈딸",
+            "content": "I wanna! I wanna!"
+        },
+        {
+            "id": 137,
+            "model": "료슈",
+            "content": "Por alto, eu calculei que a Araya devia ter por volta de 8 anos."
+        },
+        {
+            "id": 138,
+            "model": "료슈",
+            "content": "Ao ver aqueles olhos brilharem, eu sentia falta do cigarro que eu largara e, ao mesmo tempo, não sentia."
+        },
+        {
+            "id": 139,
+            "model": "료슈",
+            "content": "O estômago se revirava, e eu tinha a sensação de cair sem fim para algum lugar."
+        },
+        {
+            "id": 140,
+            "model": "료슈",
+            "content": "I'd never once thought of wanting to go to school,"
+        },
+        {
+            "id": 141,
+            "model": "료슈",
+            "content": "Se, há muito tempo, alguém tivesse me perguntado, será que eu também teria respondido assim?"
+        },
+        {
+            "id": 142,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "료슈딸2",
+            "content": "Look, Mommy!"
+        },
+        {
+            "id": 143,
+            "model": "료슈딸2",
+            "content": "Esta é a mochila escolar que dizem estar na moda agora."
+        },
+        {
+            "id": 144,
+            "model": "과거료슈3",
+            "content": "Sim, fui eu que comprei pra você."
+        },
+        {
+            "id": 145,
+            "model": "료슈딸2",
+            "content": "Aqui dá pra pôr os livros didáticos, e o estojo, e... o crachá de nome, e... a marmita..."
+        },
+        {
+            "id": 146,
+            "place": -1,
+            "model": "료슈",
+            "content": "O que será que acontece quando se vai à escola?"
+        },
+        {
+            "id": 147,
+            "model": "료슈",
+            "content": "Tornando-se uma criança comum de 8 anos, aprendendo e dominando as letras... ela há de ir se tornando adulta."
+        },
+        {
+            "id": 148,
+            "model": "료슈",
+            "content": "Aquela criança, que gosta de música, vai andar por aí com um belo estojo de violão na mão, em vez de um punhal bem afiado."
+        },
+        {
+            "id": 149,
+            "model": "료슈",
+            "content": "A grown-up..."
+        },
+        {
+            "id": 150,
+            "model": "료슈",
+            "content": "Será que aquela criança poderá chegar à idade adulta?"
+        },
+        {
+            "id": 151,
+            "model": "료슈",
+            "content": "That's when my vision opened..."
+        },
+        {
+            "id": 152,
+            "model": "료슈",
+            "content": "Foi só então que o fato de o lugar onde estamos presas ser o centro da teia..."
+        },
+        {
+            "id": 153,
+            "model": "료슈",
+            "content": "... all along."
+        },
+        {
+            "id": 154,
+            "model": "료슈",
+            "content": "Por que será que os Pais deixaram a Araya entrar na teia sem cobrar preço algum?"
+        },
+        {
+            "id": 155,
+            "model": "료슈",
+            "content": "Desde quando a teia era um espaço tão misericordioso, sem expectativa nem preço?"
+        },
+        {
+            "id": 156,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "뇌횡",
+            "content": "A aula terminou sem problema nenhum, viu. Eita, esses movimentos de esgrima de agora, como envolvem o jeito de manejar baioneta, espada-pistola e tal, e um timing dos finos, deve ter sido bem complicado de acompanhar."
+        },
+        {
+            "id": 157,
+            "model": "과거료슈3",
+            "content": "... It wasn't. Fuck off if we're done here."
+        },
+        {
+            "id": 158,
+            "model": "뇌횡",
+            "content": "Êpa, esse olhar reluzente que você tem, não importa quando eu olhe — qualquer dia desses você vai me espetar primeiro, é?"
+        },
+        {
+            "id": 159,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 160,
+            "model": "뇌횡",
+            "content": "Ô, Yoshihide. Você tem talento, então vá afiando e polindo com um esforço dos brabos, ouviu?"
+        },
+        {
+            "id": 161,
+            "model": "뇌횡",
+            "content": "Deixa eu ver. A próxima aula, êita... vem todo tipo de gente, viu. Pelo visto têm mesmo muita expectativa."
+        },
+        {
+            "id": 162,
+            "model": "뇌횡",
+            "content": "O Sanguinário decano que está do lado do Anelar vem em pessoa, e ainda... este aqui, como eu nem sei quem é, deve ser o sujeito do Mindinho."
+        },
+        {
+            "id": 163,
+            "model": "뇌횡",
+            "content": "Êpa... mas, faz quantos meses que o Juramento dos Dedos acabou, e já puseram esses caras juntos? Até pouco tempo atrás eles deviam estar lá na periferia, brigando que era uma beleza."
+        },
+        {
+            "id": 164,
+            "model": "뇌횡",
+            "content": "Bom, mesmo assim, como são uns caras de primeira e a habilidade deles é coisa certa, dá pra você aprender, com certeza, até o que os Pais daqui não conseguem ensinar."
+        },
+        {
+            "id": 165,
+            "model": "과거료슈3",
+            "content": "Você vai continuar tagarelando? Então eu saio."
+        },
+        {
+            "id": 166,
+            "model": "뇌횡",
+            "content": "Ei, ei. Que pressa é essa? Pelo visto até tempo é o que não falta."
+        },
+        {
+            "id": 167,
+            "model": "뇌횡",
+            "content": "E, pensando bem, sabe. A sua relíquia... dizem que é uma coisa e tanto, é? Dizem que, fora a Estrela Dihui do Mindinho, aquele pão-duro, os caras mais fodões todos tentaram desembainhar e não conseguiram, e viraram uns acabados."
+        },
+        {
+            "id": 168,
+            "model": "뇌횡",
+            "content": "Eu... te deixo brandir umas vezes a Cheontoeseong, esta espada e tudo; então aquela lâmina sua, você não podia me deixar dar uma olhadinha nela uma vez?"
+        },
+        {
+            "id": 169,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 170,
+            "model": "과거료슈3",
+            "content": "De novo movendo a língua com uma artimanha reles?"
+        },
+        {
+            "id": 171,
+            "model": "뇌횡",
+            "content": "……."
+        },
+        {
+            "id": 172,
+            "model": "뇌횡",
+            "content": "Hwell, butter my butt 'n call me a biscuit!"
+        },
+        {
+            "id": 173,
+            "model": "뇌횡",
+            "content": "Duas vezes você não cai mesmo, viu. E eu que achava que você tinha esquecido tudinho aquelas memórias."
+        },
+        {
+            "id": 174,
+            "place": "Corredor do Indicador, há muito tempo",
+            "model": "검지아비",
+            "content": "……."
+        },
+        {
+            "id": 175,
+            "model": "뇌횡",
+            "content": "Eita, bom, foi assim que acabou."
+        },
+        {
+            "id": 176,
+            "model": "뇌횡",
+            "content": "Eu, no treino, pensei em só dar uma olhadinha, mas não imaginava que a minha cabeça ia ser cortada assim, de qualquer jeito."
+        },
+        {
+            "id": 177,
+            "model": "검지아비",
+            "content": "A desculpa de 'não imaginava' é desleixada demais."
+        },
+        {
+            "id": 178,
+            "model": "검지아비",
+            "content": "Daqui em diante... vamos ter de fazer um dispositivo de travamento para que a espada só possa ser sacada com a permissão de todos os Pais."
+        },
+        {
+            "id": 179,
+            "model": "검지아비",
+            "content": "……."
+        },
+        {
+            "id": 180,
+            "model": "검지아비",
+            "content": "Ah, agora que penso, já se passaram três anos desde que você veio parar neste lugar, não foi?"
+        },
+        {
+            "id": 181,
+            "model": "뇌횡",
+            "content": "3 years? Been more like 5—"
+        },
+        {
+            "id": 182,
+            "model": "뇌횡",
+            "content": "...Êpa, foi natural, né? Por um triz eu caía, achando que era uma saudação cortês. Eita, toda vez que eu ouço essa frase, agora o meu coração fica todo apertadinho, não dá pra viver."
+        },
+        {
+            "id": 183,
+            "model": "뇌횡",
+            "content": "Always gets me thinkin' maybe it's a Prescript tellin' ya to crack my head open like a watermelon."
+        },
+        {
+            "id": 184,
+            "model": "검지아비",
+            "content": "Não me diga — ainda que você quisesse rachar a cabeça de alguém como quem parte uma melancia... se a arma para isso não saísse..."
+        },
+        {
+            "id": 185,
+            "model": "뇌횡",
+            "content": "É isso, a culpa de ter feito a piada é minha."
+        },
+        {
+            "id": 186,
+            "model": "과거료슈3",
+            "content": "Dad..."
+        },
+        {
+            "id": 187,
+            "model": "과거료슈3",
+            "content": "Do Saru... está vindo um som... de ar escapando..."
+        },
+        {
+            "id": 188,
+            "model": "검지아비",
+            "content": "Você voltou para aquela época."
+        },
+        {
+            "id": 189,
+            "model": "검지아비",
+            "content": "Don't worry. Saru..."
+        },
+        {
+            "id": 190,
+            "model": "검지아비",
+            "content": "Ele está dormindo tranquilo dentro da sua mão."
+        },
+        {
+            "id": 191,
+            "model": "과거료슈3",
+            "content": "Okay..."
+        },
+        {
+            "id": 192,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "과거료슈3",
+            "content": "Eu não quero entrar no jogo das tramoias de você nem das coisas que se autoproclamam mestres."
+        },
+        {
+            "id": 193,
+            "model": "과거료슈3",
+            "content": "Por uma curiosidade barata dessas, jamais a minha espada será desembainhada diante de você."
+        },
+        {
+            "id": 194,
+            "model": "과거료슈3",
+            "content": "Por isso, não me dirija a palavra, e..."
+        },
+        {
+            "id": 195,
+            "model": "료슈딸2",
+            "content": "Mamãe, sabe o que eu aprendi na escola hoje...!"
+        },
+        {
+            "id": 196,
+            "model": "과거료슈3",
+            "content": "Get inside."
+        },
+        {
+            "id": 197,
+            "model": "뇌횡",
+            "content": "Êita, e essa aí, que criancinha é?"
+        },
+        {
+            "id": 198,
+            "model": "료슈딸2",
+            "content": "O-olá! Eu me chamo Araya, e hoje na escola teve uma coisa de letras que eu aprendi..."
+        },
+        {
+            "id": 199,
+            "model": "과거료슈3",
+            "content": "I said get inside, Araya."
+        },
+        {
+            "id": 200,
+            "model": "뇌횡",
+            "content": "Tá, isso, vai logo lá pra dentro cuidar das suas coisas."
+        },
+        {
+            "id": 201,
+            "model": "료슈딸2",
+            "content": "Ookay..."
+        },
+        {
+            "id": 202,
+            "model": "뇌횡",
+            "content": "Eita, que coisa, viu... como é que você não apresenta a menina pro tio, nem uma vez?"
+        },
+        {
+            "id": 203,
+            "model": "과거료슈3",
+            "content": "Eu mandei sumir."
+        },
+        {
+            "id": 204,
+            "model": "뇌횡",
+            "content": "Então, é ela a sua coleira, viu."
+        },
+        {
+            "id": 205,
+            "model": "과거료슈3",
+            "content": "What?"
+        },
+        {
+            "id": 206,
+            "model": "뇌횡",
+            "content": "Vendo você viver assim, grudada nela, é isso mesmo."
+        },
+        {
+            "id": 207,
+            "model": "뇌횡",
+            "content": "Aqueles caras da teia, a cabeça deles funciona muito bem mesmo, viu."
+        },
+        {
+            "id": 208,
+            "model": "과거료슈3",
+            "content": "Você, essas palavras de agora."
+        },
+        {
+            "id": 209,
+            "model": "과거료슈3",
+            "content": "Você consegue arcar com elas?"
+        },
+        {
+            "id": 210,
+            "model": "뇌횡",
+            "content": "...Que jeito de falar é esse com o seu mestre?"
+        },
+        {
+            "id": 211,
+            "place": -1,
+            "model": "뇌횡",
+            "content": "Bom, o que se há de fazer — eu já sou um corpo que foi pro beleléu faz tempo."
+        },
+        {
+            "id": 212,
+            "model": "뇌횡",
+            "content": "Pelo menos aquelas aulas que eu te dei foram de coração, viu?"
+        },
+        {
+            "id": 213,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 214,
+            "model": "뇌횡",
+            "content": "O fio que está grudado em você, você está seguindo ele direito?"
+        },
+        {
+            "id": 215,
+            "model": "뇌횡",
+            "content": "Hang onto it tight like yer life depends on it, Kiddo. I ain't helpin' if ya lose yer way."
+        },
+        {
+            "id": 216,
+            "model": "료슈딸2",
+            "content": "That's not it."
+        },
+        {
+            "id": 217,
+            "model": "료슈딸2",
+            "content": "Não é assim que se amarra, eu já disse."
+        },
+        {
+            "id": 218,
+            "model": "과거료슈3",
+            "content": "W.I.?"
+        },
+        {
+            "id": 219,
+            "model": "료슈딸2",
+            "content": "What?"
+        },
+        {
+            "id": 220,
+            "model": "과거료슈3",
+            "content": "Quer dizer: 'O que é que não está certo?'"
+        },
+        {
+            "id": 221,
+            "model": "료슈딸2",
+            "content": "Nooo..."
+        },
+        {
+            "id": 222,
+            "model": "료슈딸2",
+            "content": "You're doing it wrong, Mommy!"
+        },
+        {
+            "id": 223,
+            "model": "료슈딸2",
+            "content": "Just follow after me."
+        },
+        {
+            "id": 224,
+            "model": "료슈딸2",
+            "content": "Mommy, ILY so much!"
+        },
+        {
+            "id": 225,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 226,
+            "model": "료슈딸2",
+            "content": "...Você não entendeu de novo, né?"
+        },
+        {
+            "id": 227,
+            "model": "과거료슈3",
+            "content": "Nope."
+        },
+        {
+            "id": 228,
+            "model": "과거료슈3",
+            "content": "Have some watermelon, Araya."
+        },
+        {
+            "id": 229,
+            "model": "료슈딸2",
+            "content": "Numa hora dessas a gente diz 'sumiô'! Hmm, ou não era assim?"
+        },
+        {
+            "id": 230,
+            "model": "료슈딸2",
+            "content": "Mmhmm. Anyway..."
+        },
+        {
+            "id": 231,
+            "model": "료슈딸2",
+            "content": "Let's try again later."
+        },
+        {
+            "id": 232,
+            "model": "료슈",
+            "content": "As luzes que flutuam dentro de uma tela velha se dispersam e se juntam, incontáveis."
+        },
+        {
+            "id": 233,
+            "model": "료슈",
+            "content": "Diante daquela paisagem que se via em mil cores, sem conseguir dizer palavra, o meu estômago se revirou outra vez."
+        },
+        {
+            "id": 234,
+            "model": "료슈딸2",
+            "content": "It's pretty, right, Mommy?"
+        },
+        {
+            "id": 235,
+            "model": "과거료슈3",
+            "content": "Yeah."
+        },
+        {
+            "id": 236,
+            "model": "과거료슈3",
+            "content": "M. thinks it's P."
+        },
+        {
+            "id": 237,
+            "model": "료슈딸2",
+            "content": "Wrong again...!"
+        },
+        {
+            "id": 238,
+            "model": "과거료슈3",
+            "content": "Heh..."
+        },
+        {
+            "id": 239,
+            "model": "뇌횡",
+            "content": "Então, é ela a sua coleira, viu."
+        },
+        {
+            "id": 240,
+            "model": "료슈",
+            "content": "Eu tenho de sair deste lugar. E..."
+        },
+        {
+            "id": 241,
+            "model": "료슈",
+            "content": "...tenho de fazê-la sair."
+        },
+        {
+            "id": 242,
+            "model": "료슈",
+            "content": "Antes que o prazo de validade na teia se esgote..."
+        },
+        {
+            "id": 243,
+            "place": "Corredor do Anelar, no passado",
+            "model": "약지아비",
+            "content": "Dearest Yoshihide, that blade..."
+        },
+        {
+            "id": 244,
+            "model": "약지아비",
+            "content": "Must never be drawn on a whim."
+        },
+        {
+            "id": 245,
+            "model": "약지아비",
+            "content": "Este Pai vai logo fazer uma espada só para Yoshihide... então mantenha-a sempre junto ao corpo."
+        },
+        {
+            "id": 246,
+            "model": "과거료슈2",
+            "content": "Nem se for o papai a desembainhar pode?"
+        },
+        {
+            "id": 247,
+            "model": "약지아비",
+            "content": "No, I cannot."
+        },
+        {
+            "id": 248,
+            "model": "약지아비",
+            "content": "Fora uma única pessoa, entre estes Pais, não há ninguém que possa desembainhar aquela espada."
+        },
+        {
+            "id": 249,
+            "model": "약지아비",
+            "content": "E... somente você pode brandi-la de forma plena."
+        },
+        {
+            "id": 250,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "O nome da espada é Arayashiki."
+        },
+        {
+            "id": 251,
+            "model": "검지아비",
+            "content": "Entre as relíquias, ela tem a categoria mais rara e mais elevada."
+        },
+        {
+            "id": 252,
+            "model": "검지아비",
+            "content": "É por isso que aquela espada pode cortar o que for, e..."
+        },
+        {
+            "id": 253,
+            "model": "검지아비",
+            "content": "...o que ela corta não torna a cicatrizar, mas..."
+        },
+        {
+            "id": 254,
+            "place": -1,
+            "model": "료슈",
+            "content": "Naquele dia, depois de eu ter sacado a espada de repente..."
+        },
+        {
+            "id": 255,
+            "model": "료슈",
+            "content": "...só me era permitido sacar aquela espada no instante em que os cinco, todos, declarassem unanimidade."
+        },
+        {
+            "id": 256,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "Em troca disso, o interior da sua cabeça também é cortado junto."
+        },
+        {
+            "id": 257,
+            "model": "검지아비",
+            "content": "Tão afiada que nem se sabe que memória foi cortada."
+        },
+        {
+            "id": 258,
+            "model": "검지아비",
+            "content": "Nós, ou seja, a teia, vamos administrar com muito cuidado e rigor os instantes em que você saca aquela espada."
+        },
+        {
+            "id": 259,
+            "place": -1,
+            "model": "료슈",
+            "content": "Por isso, eu usei aquela espada um número de vezes que não chega aos dez dedos."
+        },
+        {
+            "id": 260,
+            "model": "료슈",
+            "content": "Antes de a Araya chegar, quatro vezes; depois disso, cinco."
+        },
+        {
+            "id": 261,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "료슈딸2",
+            "content": "Uma semana atrás... a gente foi passear junto e comprou aquele lanche super estranho que eu nunca tinha visto!"
+        },
+        {
+            "id": 262,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 263,
+            "model": "료슈딸2",
+            "content": "Ugh, why can't you remember?"
+        },
+        {
+            "id": 264,
+            "model": "료슈딸2",
+            "content": "Naquela hora a mamãe, dizendo que era doce demais, comeu cinco seguidinhos. E eu só consegui comer três!"
+        },
+        {
+            "id": 265,
+            "place": -1,
+            "model": "료슈",
+            "content": "Agora, memórias que eu não queria esquecer iam se acumulando e se sobrepondo, e..."
+        },
+        {
+            "id": 266,
+            "model": "료슈",
+            "content": "...eu me dei conta de que o tempo vinha se aproximando, aos poucos."
+        },
+        {
+            "id": 267,
+            "model": "료슈",
+            "content": "Os Pais, que fingiam não se importar nem um pouco com a Araya."
+        },
+        {
+            "id": 268,
+            "model": "료슈",
+            "content": "Mas a dúvida em forma de espiral... viria me trespassar a qualquer momento."
+        },
+        {
+            "id": 269,
+            "model": "료슈",
+            "content": "Provavelmente no momento em que se julgasse que o grilhão de vocês cumprira todo o seu papel."
+        },
+        {
+            "id": 270,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "과거료슈3",
+            "content": "Araya."
+        },
+        {
+            "id": 271,
+            "model": "과거료슈3",
+            "content": "Quando você crescer... o que você quer ser?"
+        },
+        {
+            "id": 272,
+            "model": "료슈딸2",
+            "content": "Hum... mamãe, quando eu crescer eu..."
+        },
+        {
+            "id": 273,
+            "model": "료슈딸2",
+            "content": "I wanna be..."
+        },
+        {
+            "id": 274,
+            "place": -1,
+            "model": "료슈",
+            "content": "Para que a Araya pudesse, com a sua mochila na mão, se tornar o que desejasse."
+        },
+        {
+            "id": 275,
+            "model": "료슈",
+            "content": "Para que ela pudesse sair da teia e ir aonde quisesse."
+        },
+        {
+            "id": 276,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "Pois então, esta operação foi decidida por unanimidade."
+        },
+        {
+            "id": 277,
+            "model": "검지아비",
+            "content": "De que você tem de desembainhar a espada."
+        },
+        {
+            "id": 278,
+            "model": "료슈",
+            "content": "Os cinco nós, cada um de seu jeito, atados à espada vão se desfazendo um a um."
+        },
+        {
+            "id": 279,
+            "model": "검지아비",
+            "content": "Hoje você está sem dizer grande coisa, filha."
+        },
+        {
+            "id": 280,
+            "model": "과거료슈3",
+            "content": "... What questions?"
+        },
+        {
+            "id": 281,
+            "model": "검지아비",
+            "content": "A cada operação destas, você costumava perguntar, como um cacoete."
+        },
+        {
+            "id": 282,
+            "model": "검지아비",
+            "content": "Até quando isto se repete. Se é que há um fim. Se há um fim..."
+        },
+        {
+            "id": 283,
+            "model": "검지아비",
+            "content": "...qual é a sua substância."
+        },
+        {
+            "id": 284,
+            "model": "과거료슈3",
+            "content": "Eu fazia isso?"
+        },
+        {
+            "id": 285,
+            "model": "검지아비",
+            "content": "Dizem que, quando chega a adolescência, o filho fala cada vez menos e deixa de ser afetuoso como antes."
+        },
+        {
+            "id": 286,
+            "model": "검지아비",
+            "content": "Será que ela enfim chegou a você também?"
+        },
+        {
+            "id": 287,
+            "model": "과거료슈3",
+            "content": "Ha... cada vez que eu uso esta espada, a minha existência é cortada junto, e..."
+        },
+        {
+            "id": 288,
+            "model": "과거료슈3",
+            "content": "...não tem como sobrar memória direito."
+        },
+        {
+            "id": 289,
+            "model": "검지아비",
+            "content": "……."
+        },
+        {
+            "id": 290,
+            "model": "과거료슈3",
+            "content": "Por quê — aquele troço de máquina ficou de novo tagarelando... para você fechar a boca numa situação desfavorável como esta?"
+        },
+        {
+            "id": 291,
+            "model": "검지아비",
+            "content": "You've gotten a bit snappy, sweetie."
+        },
+        {
+            "id": 292,
+            "model": "검지아비",
+            "content": "Como seria doloroso se a sua filha, mais tarde, falasse desse jeito também."
+        },
+        {
+            "id": 293,
+            "model": "과거료슈3",
+            "content": "Não toque no assunto da Araya."
+        },
+        {
+            "id": 294,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "과거료슈3",
+            "content": "Araya."
+        },
+        {
+            "id": 295,
+            "model": "료슈딸2",
+            "content": "……."
+        },
+        {
+            "id": 296,
+            "model": "료슈딸2",
+            "content": "A mamãe... toda vez que sai levando aquela espada, fica com uma cara assustadora."
+        },
+        {
+            "id": 297,
+            "model": "과거료슈3",
+            "content": "Come here."
+        },
+        {
+            "id": 298,
+            "model": "과거료슈3",
+            "content": "Espere aqui dentro só um instante."
+        },
+        {
+            "id": 299,
+            "model": "료슈딸2",
+            "content": "Mommy?"
+        },
+        {
+            "id": 300,
+            "model": "과거료슈3",
+            "content": "It'll be..."
+        },
+        {
+            "id": 301,
+            "model": "과거료슈3",
+            "content": "É silencioso e escuro, mas... tudo passa depressa."
+        },
+        {
+            "id": 302,
+            "model": "과거료슈3",
+            "content": "A mamãe... já se escondeu um monte de vezes."
+        },
+        {
+            "id": 303,
+            "model": "과거료슈3",
+            "content": "Por isso, fique esperando, Araya."
+        },
+        {
+            "id": 304,
+            "model": "과거료슈3",
+            "content": "Pois eu vou voltar, sem falta."
+        },
+        {
+            "id": 305,
+            "model": "료슈딸2",
+            "content": "Tá, tudo bem! Eu vou ficar esperando, mamãe."
+        },
+        {
+            "id": 306,
+            "model": "료슈",
+            "content": "E assim, eu fui seguindo um a um os fios a que estou atada."
+        },
+        {
+            "id": 307,
+            "place": "Corredor do Polegar, no passado",
+            "model": "엄지아비",
+            "content": "Qual foi o motivo de você ter tentado sair da teia?"
+        },
+        {
+            "id": 308,
+            "model": "엄지아비",
+            "content": "Ha. Não, não, não. Pode não dizer. Vá, continue assim, de boca fechada, vai."
+        },
+        {
+            "id": 309,
+            "model": "엄지아비",
+            "content": "Essa coisa que é a sua filha... eu vou procurar aquele fardinho em pessoa... e abrir ela ao meio e matar."
+        },
+        {
+            "id": 310,
+            "model": "엄지아비",
+            "content": "My eye...! No!!!!!"
+        },
+        {
+            "id": 311,
+            "model": "과거료슈3",
+            "content": "Eyeball, cut."
+        },
+        {
+            "id": 312,
+            "place": "Corredor do Mindinho, no passado",
+            "model": "중지아비",
+            "content": "Você estava com alguma raiva do pai... hã?"
+        },
+        {
+            "id": 313,
+            "place": "Corredor do Anelar, no passado",
+            "model": "약지아비",
+            "content": "Aah, não corte mais em pedaços, Yoshihide. A minha, que eu montei por mais de dez anos só para você..."
+        },
+        {
+            "id": 314,
+            "model": "과거료슈3",
+            "content": "S.T.F.U."
+        },
+        {
+            "id": 315,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "Sweetheart."
+        },
+        {
+            "id": 316,
+            "model": "검지아비",
+            "content": "You've hurt me enough. I'm in a lot of pain."
+        },
+        {
+            "id": 317,
+            "model": "검지아비",
+            "content": "Por isso, agora pare de brandi-la."
+        },
+        {
+            "id": 318,
+            "model": "검지아비",
+            "content": "Ainda resta mais uma pessoa, não resta?"
+        },
+        {
+            "id": 319,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 320,
+            "place": -1,
+            "model": "료슈",
+            "content": "Cambaleando, eu fui até o meu último Pai."
+        },
+        {
+            "id": 321,
+            "model": "료슈",
+            "content": "Arranquei aquela língua que só me deixara cicatrizes, e..."
+        },
+        {
+            "id": 322,
+            "model": "료슈",
+            "content": "And then..."
+        },
+        {
+            "id": 323,
+            "place": "Corredor do Mindinho, no passado",
+            "model": "소지아비2",
+            "content": "... Canno- be f-ee -rom -ere... wi-hou-..."
+        },
+        {
+            "id": 324,
+            "model": "소지아비2",
+            "content": "... wi-hou- -evering... -he spi-er's --read..."
+        },
+        {
+            "id": 325,
+            "model": "과거료슈3",
+            "content": "... No..."
+        },
+        {
+            "id": 326,
+            "model": "소지아비2",
+            "content": "Guh...!"
+        },
+        {
+            "id": 327,
+            "model": "과거료슈3",
+            "content": "Araya..."
+        },
+        {
+            "id": 328,
+            "place": -1,
+            "model": "료슈",
+            "content": "...a cabeça."
+        },
+        {
+            "id": 329,
+            "model": "료슈",
+            "content": "Não ter cortado direito o cérebro terá sido um resquício de compaixão?"
+        },
+        {
+            "id": 330,
+            "model": "료슈",
+            "content": "Ou terá sido que, no meio de brandir a espada, eu acabei esquecendo que era preciso cortar o cérebro para encerrar aquela vida por completo?"
+        },
+        {
+            "id": 331,
+            "model": "료슈",
+            "content": "Eu cortei o fôlego do meu Pai com as minhas próprias mãos."
+        },
+        {
+            "id": 332,
+            "model": "료슈",
+            "content": "A face like mine. A voice like mine. A sword style just like my own."
+        },
+        {
+            "id": 333,
+            "model": "료슈",
+            "content": "Sendo assim, será que eu vou me parecer até naquele destino?"
+        },
+        {
+            "id": 334,
+            "model": "료슈",
+            "content": "Com aquela espada que pode cortar o que for..."
+        },
+        {
+            "id": 335,
+            "model": "료슈",
+            "content": "...eu a cravei no seu coração e a torci com suavidade."
+        },
+        {
+            "id": 336,
+            "model": "료슈",
+            "content": "Se o pôr do sol que se apaga tivesse um som,"
+        },
+        {
+            "id": 337,
+            "model": "료슈",
+            "content": "...com certeza ele se pareceria com este som."
+        }
+    ]
+}

@@ -1,0 +1,459 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "content": "Dali em diante, vários testes despencaram sobre nós, a começar pelo teste de capacidade de comando que usava o Tipo-Pecado da Inveja."
+        },
+        {
+            "id": 1,
+            "model": "돈키호테",
+            "content": "Senhor Gerente! Eu tirei a nota máxima!"
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Hmm… quem diria que eu perderia para a senhorita Donquixote… preciso me aplicar mais aos estudos…"
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Não, senhor Yi Sang. Era uma questão sobre as associações de Solucionadores."
+        },
+        {
+            "id": 4,
+            "model": "로쟈",
+            "content": "Isso~ um maníaco por Solucionadores no ônibus já é o bastante."
+        },
+        {
+            "id": 5,
+            "content": "Começando pelo teste de conhecimentos gerais por área…"
+        },
+        {
+            "id": 6,
+            "model": "마튼",
+            "content": "Quando você conhece uma pessoa nova, em que é que você repara primeiro?"
+        },
+        {
+            "id": 7,
+            "model": "히스클리프",
+            "content": "...O olhar? O poder de combate? Aff... que difícil."
+        },
+        {
+            "id": 8,
+            "model": "알리사",
+            "content": "O estilo ao exercer a liderança é…"
+        },
+        {
+            "id": 9,
+            "model": "뫼르소",
+            "content": "Decidido e orientado para o objetivo."
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "O senhor Meursault...?"
+        },
+        {
+            "id": 11,
+            "content": "Só depois de fazermos um monte de testes de perfil de motivo indecifrável é que pudemos ter um breve tempo de descanso."
+        },
+        {
+            "id": 12,
+            "model": "호엔하임",
+            "content": "O próximo é o exame de aptidão física básica de todos os Pecadores. Só agora é que dá para começar o exame propriamente dito."
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "Então o que foi tudo o que a gente fez até agora?!"
+        },
+        {
+            "id": 14,
+            "model": "마튼",
+            "content": "Foi um tempo de... uma espécie de satisfazer interesses pessoais, para o departamento LCE coletar vários dados de que estava curioso até agora."
+        },
+        {
+            "id": 15,
+            "model": "알리사",
+            "content": "Ainda assim, foi um tempo proveitoso, em que se pôde coletar, a partir dos resultados do exame, várias informações necessárias para dar suporte a vocês."
+        },
+        {
+            "id": 16,
+            "model": "알리사",
+            "content": "Pois bem, agora a gente vai fazer depressa o exame em grupo primeiro, então reúnam-se aqui."
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "É a-assim que tem de ficar de pé?"
+        },
+        {
+            "id": 18,
+            "model": "이스마엘",
+            "content": "Parece que ainda falta muita coisa, então vamos fazer bem rápido."
+        },
+        {
+            "id": 19,
+            "model": "홍루",
+            "content": "Mas esta roupa que vocês distribuíram — o caimento é extremamente bom."
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "content": "Pois é, dá pra usar como pijama."
+        },
+        {
+            "id": 21,
+            "model": "알리사",
+            "content": "Pijama...? A roupa que distribuímos é de propriedade da LCE, então tem de ser devolvida imediatamente."
+        },
+        {
+            "id": 22,
+            "model": "로쟈",
+            "content": "Ah, antes de fazer a parte de verdade, dá uma olhada no meu pulso aqui. Está bem dolorido e ele não quer girar o relógio, viu..."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Querer girar o relógio por uma coisa dessas parece um mau hábito... eu acho que o senhor Meursault pode dar uma olhada."
+        },
+        {
+            "id": 24,
+            "model": "뫼르소",
+            "content": "Se você quiser, eu estou pronto a qualquer momento."
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "content": "Eh, deixa, de repente ficou tudo bom~"
+        },
+        {
+            "id": 26,
+            "model": "알리사",
+            "content": "Fiquem de pé direito. Quem está na ponta dos pés, dá para ver todo mundo, então abaixem."
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "É que... eu estava de pé direito, viu?"
+        },
+        {
+            "id": 28,
+            "model": "돈키호테",
+            "content": "Fie…"
+        },
+        {
+            "id": 29,
+            "model": "알리사",
+            "content": "E é que... antes do exame de aptidão física, vocês todos poderiam apagar os cigarros?"
+        },
+        {
+            "id": 30,
+            "model": "그레고르",
+            "content": "Ah, isto é só... eu estou segurando na boca de pose, então..."
+        },
+        {
+            "id": 31,
+            "model": "알리사",
+            "content": "Aha…"
+        },
+        {
+            "id": 32,
+            "model": "알리사",
+            "content": "...E aquela outra pessoa..."
+        },
+        {
+            "id": 33,
+            "model": "료슈",
+            "content": "A coragem foi louvável. Suma."
+        },
+        {
+            "id": 34,
+            "model": "알리사",
+            "content": "P-por ora... o exame básico em grupo terminou."
+        },
+        {
+            "id": 35,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 36,
+            "model": "호엔하임",
+            "content": "Antes de executar o exame, de tanto conduzir os testes às pressas, eu esqueci uma coisa importante."
+        },
+        {
+            "id": 37,
+            "model": "호엔하임",
+            "content": "Assistente."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Assistente?>"
+        },
+        {
+            "id": 39,
+            "model": "호엔하임",
+            "content": "É preciso um assistente que ajude a conduzir o teste com fluidez."
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "Quanto a isso... não tem atrás de você? Nada menos que dois."
+        },
+        {
+            "id": 41,
+            "model": "마튼",
+            "content": "Nós não somos assistentes do senhor Hohenheim. Somos pesquisadores auxiliares."
+        },
+        {
+            "id": 42,
+            "model": "호엔하임",
+            "content": "Isso, a diferença entre os dois é enorme."
+        },
+        {
+            "id": 43,
+            "model": "호엔하임",
+            "content": "Eu gostaria que um de vocês assumisse o papel de assistente para ajudar no exame, mas..."
+        },
+        {
+            "id": 44,
+            "content": "Rodion levantou a mão do nada."
+        },
+        {
+            "id": 45,
+            "model": "호엔하임",
+            "content": "Eu não tinha intenção de aceitar voluntários, mas, já que você levantou a mão, fale."
+        },
+        {
+            "id": 46,
+            "model": "로쟈",
+            "content": "A mim não escala, por favor. Uma coisa dessas não combina com a minha aptidão~ ah, se for para ser pesquisadora, aí vale a pena tentar. É que esta roupa eu gostei um pouco."
+        },
+        {
+            "id": 47,
+            "content": "Rodya falou, mexendo na roupa do pesquisador com um olhar cobiçoso."
+        },
+        {
+            "id": 48,
+            "model": "알리사",
+            "content": "Por que... por que a senhora está fazendo isso..."
+        },
+        {
+            "id": 49,
+            "model": "호엔하임",
+            "content": "...Era um assunto que eu nem tinha cogitado, mas eu vou levar em consideração."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Eu também declino."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "Pois, em geral, ser o assistente daquele sujeito há de significar possuir uma habilidade inferior à do pesquisador sênior chamado Hohenheim."
+        },
+        {
+            "id": 52,
+            "model": "호엔하임",
+            "content": "De fato, eu nem cogitei selecionar você, mas eu volto a expressar gratidão pela intenção fervorosa."
+        },
+        {
+            "id": 53,
+            "model": "히스클리프",
+            "content": "Tsc, de todo modo, esses dois se juntam e, se não apontarem o que está errado, fazem um espalhafato como quem pegou uma doença de brotar erupção no corpo todo."
+        },
+        {
+            "id": 54,
+            "model": "싱클레어",
+            "content": "É que... eu, nos tempos de estudante, como vice-líder de turma, assisti o líder de turma, e fui diligente e exemplar..."
+        },
+        {
+            "id": 55,
+            "model": "이상",
+            "content": "Hum… hum…"
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "content": "Por que é que todo mundo está tenso?"
+        },
+        {
+            "id": 57,
+            "model": "그레고르",
+            "content": "Vocês querem ser o assistente...? Se adiantar é um trabalho cansativo, viu?"
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "Mas é que, sei lá por quê, dava a sensação de que eu tinha de ser escolhido..."
+        },
+        {
+            "id": 59,
+            "model": "호엔하임",
+            "content": "Pois bem, eu decidi. A título de informação, todos os critérios de julgamento são totalmente o meu parecer subjetivo, então fica registrado."
+        },
+        {
+            "id": 60,
+            "model": "호엔하임",
+            "content": "Você aí, Pecador de cabelo alaranjado..."
+        },
+        {
+            "id": 61,
+            "content": "Como Ishmael saltou de repente para a frente, como quem esperava por isso, ela quase foi atirada longe."
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Oof…>"
+        },
+        {
+            "id": 63,
+            "model": "이스마엘",
+            "content": "Fique tranquilo, senhor Hohenheim. Se você viu os meus documentos, há de saber, mas é que eu, nas associações e escritórios em que trabalhei antes, também satisfiz a expectativa de muita gente."
+        },
+        {
+            "id": 64,
+            "model": "이스마엘",
+            "content": "Por acaso, se um dia surgir a oportunidade de solicitar uma transferência de posto para a sede... isso se reflete na carreira?"
+        },
+        {
+            "id": 65,
+            "model": "그레고르",
+            "content": "Essa ambição ainda estava de pé? Eu achava que você tinha desistido."
+        },
+        {
+            "id": 66,
+            "model": "호엔하임",
+            "content": "...Eu me referi ao Pecador que está atrás do Pecador de cabelo alaranjado. É que você estava à frente demais e não dava para vê-lo."
+        },
+        {
+            "id": 67,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 68,
+            "content": "O olhar de todos se concentrou em Heathcliff, que coçava o dorso do nariz."
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Huh?"
+        },
+        {
+            "id": 70,
+            "model": "히스클리프",
+            "content": "Eu… eu?"
+        },
+        {
+            "id": 71,
+            "content": "Apenas... quem ficou mais chocada do que Heathcliff parecia ser Ishmael."
+        },
+        {
+            "id": 72,
+            "model": "이스마엘",
+            "content": "Por... por quê? Por que, deixando a mim de lado, aque... aquele ali..."
+        },
+        {
+            "id": 73,
+            "model": "호엔하임",
+            "content": "A maior parte dos pesquisadores costuma, vez ou outra, cometer um erro equivocado."
+        },
+        {
+            "id": 74,
+            "model": "호엔하임",
+            "content": "Quanto mais alto o nível de educação concluído e mais vistosa a experiência, mais excelente é o talento — é o que eu digo."
+        },
+        {
+            "id": 75,
+            "model": "이스마엘",
+            "content": "Isso n-não é uma fala extremamente de senso comum? Pelo menos no que se refere a um trabalho como o de pesquisa..."
+        },
+        {
+            "id": 76,
+            "model": "호엔하임",
+            "content": "Mas você sabe do fato de que a maioria das grandes descobertas se realiza pela improvisação e pela intuição?"
+        },
+        {
+            "id": 77,
+            "model": "호엔하임",
+            "content": "Isso, em suma, encaixa-se perfeitamente neste sujeito."
+        },
+        {
+            "id": 78,
+            "model": "히스클리프",
+            "content": "Ã… ã…"
+        },
+        {
+            "id": 79,
+            "model": "호엔하임",
+            "content": "Que tal, senhor Heathcliff? Eu considero que a sua intuição impetuosa e aquele ímpeto transbordante de paixão têm qualificação de sobra para, no meu lugar, comandar e conduzir estes aqui."
+        },
+        {
+            "id": 80,
+            "model": "히스클리프",
+            "content": "Ã… é… é mesmo?"
+        },
+        {
+            "id": 81,
+            "content": "Heathcliff respondeu, coçando a cabeça com força."
+        },
+        {
+            "id": 82,
+            "model": "로쟈",
+            "content": "Fale a verdade, senhor Yi Sang. Você também, no fundo, estava com expectativa, não estava?"
+        },
+        {
+            "id": 83,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 84,
+            "model": "이상",
+            "content": "Que a corrente principal de uma época sempre vá mudando há de ser inevitável..."
+        },
+        {
+            "id": 85,
+            "model": "이상",
+            "content": "Um dia, dar lugar e se retirar para o domínio das recordações e do passado também é o dever de um intelectual..."
+        },
+        {
+            "id": 86,
+            "content": "Yi Sang respondeu, baixando os olhos de modo especialmente abatido."
+        },
+        {
+            "id": 87,
+            "model": "호엔하임",
+            "content": "Eu lhe dou as boas-vindas como meu assistente."
+        },
+        {
+            "id": 88,
+            "model": "히스클리프",
+            "content": "Então... o que é que eu faço primeiro... hum... ué?"
+        },
+        {
+            "id": 89,
+            "model": "호엔하임",
+            "content": "Não há nada de difícil. É só você exercer, tal como é, esse temperamento desbragado que você tem."
+        },
+        {
+            "id": 90,
+            "model": "마튼",
+            "content": "Ah, é este o momento."
+        },
+        {
+            "id": 91,
+            "model": "마튼",
+            "content": "É que o senhor Hohenheim sabe muito bem de quem ele precisa ter as rédeas para ficar à vontade."
+        },
+        {
+            "id": 92,
+            "content": "Marten murmurou baixinho, de modo que só eu ouvisse."
+        }
+    ]
+}

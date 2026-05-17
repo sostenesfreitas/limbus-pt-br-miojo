@@ -1,0 +1,788 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Fábrica de Relógios da T Corp.",
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Vejamos... a terceira vítima deste caso era desta fábrica de relógios..."
+        },
+        {
+            "id": 1,
+            "model": "탐정로쟈",
+            "content": "Espera um pouco...!"
+        },
+        {
+            "id": 2,
+            "model": "탐정로쟈",
+            "content": "Esse terno chique e extravagante... o bigode todo arrumadinho... A terceira vítima é o dono dessa fábrica. Assistente, confirme minhas deduções!"
+        },
+        {
+            "id": 3,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Acertou em cheio, detetive."
+        },
+        {
+            "id": 4,
+            "model": "탐정홍루",
+            "content": "Que ótimo começo!"
+        },
+        {
+            "id": 5,
+            "model": "탐정로쟈",
+            "content": "Fuhu."
+        },
+        {
+            "id": 6,
+            "model": "탐정로쟈",
+            "content": "Ham, ham! Nós somos os detetives investigando o 'Caso do Tempo de Matar Tempo'. Eu me chamo—"
+        },
+        {
+            "id": 7,
+            "model": "범블",
+            "teller": "Proprietário da Fábrica de Relógios",
+            "title": "T Corp.",
+            "content": "#@$@$#(*&$^&*#&*^@!!@@$#@$?"
+        },
+        {
+            "id": 8,
+            "model": "탐정로쟈",
+            "content": "Eita— o que tá rolando?"
+        },
+        {
+            "id": 9,
+            "model": "탐정료슈",
+            "content": "Ryōshū. Detetive. "
+        },
+        {
+            "id": 10,
+            "model": "탐정홍루",
+            "content": "Ele com certeza é alguém que fala rápido. Ele está falando bem mais rápido que o Meursault quando avaliou aquelas galinhas."
+        },
+        {
+            "id": 11,
+            "model": "범블",
+            "teller": "Proprietário da Fábrica de Relógios",
+            "title": "T Corp.",
+            "content": "#@$@$#!%!#%#@!@#$#%^!#$@#@#!@$#@$!!!"
+        },
+        {
+            "id": 12,
+            "content": "Ele está falando tão rápido...! É como se apertassem um botão de acelerar o tempo só pra ele. Eu não consigo entender nada do que ele diz."
+        },
+        {
+            "id": 13,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ele é alguém com bastante tempo."
+        },
+        {
+            "id": 14,
+            "model": "탐정로쟈",
+            "content": "O que isso quer dizer?"
+        },
+        {
+            "id": 15,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "O cidadão comum da T corp tem aproximadamente 20 a 28 horas em um dia, mas de vez em quando podemos esbarrar com alguém como ele: gente com muito tempo de sobra. Por conta de terem tanto tempo adicional, eles conseguem acumular 40, 50 horas em um único dia. E para pessoas com poucas horas no dia... Vai parecer que ele está se movendo duas, três vezes mais velozmente que elas. Alguém com tudo isso de tempo pode tirar meleca do nariz em um piscar de olhos sem que ninguém perceba."
+        },
+        {
+            "id": 16,
+            "model": "탐정로쟈",
+            "content": "Eca..."
+        },
+        {
+            "id": 17,
+            "model": "범블",
+            "teller": "Proprietário da Fábrica de Relógios",
+            "title": "T Corp.",
+            "content": "#@$@(*%(*#^@))$&*^@%<@$!!!"
+        },
+        {
+            "id": 18,
+            "model": "탐정료슈",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "content": "Eu dei um olhar preocupado para a Rodya. Ela tinha que fazer algo antes da Ryōshū C.P.D.F."
+        },
+        {
+            "id": 20,
+            "content": "Uma olhada rápida... como um breve chamejar das chamas do meu relógio."
+        },
+        {
+            "id": 21,
+            "model": "탐정로쟈",
+            "content": "Ei, poderia diminuir um pouco a velocidade? Eu me preocupo que... você corre risco de se tornar a vítima de um crime diferente, e um pouco mais violento."
+        },
+        {
+            "id": 22,
+            "content": "Ele sacode sua cabeça de forma bem rápida, frustrado, antes de acionar algo que parece ser um gravador de voz. E começou a tocar sua voz para nós."
+        },
+        {
+            "id": 23,
+            "model": "범블",
+            "teller": "Proprietário da Fábrica de Relógios",
+            "title": "T Corp.",
+            "content": "É um prazer conhecer vocês-uh. Meu nome é Bumble, um orgulhoso proprietário desta fábrica de relógios-ah."
+        },
+        {
+            "id": 24,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Desculpem-me por este método não convencional de comunicação-uh."
+        },
+        {
+            "id": 25,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Vejam bem, meus dias duram cinquenta e duas horas-uh. No meu auge, eu tinha até 100 horas por dia, mas as coisas recentemente foram viradas de ponta-cabeça nesta fábrica-uh."
+        },
+        {
+            "id": 26,
+            "model": "탐정로쟈",
+            "content": "Cin-cinquenta e duas horas?!"
+        },
+        {
+            "id": 27,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Para mim, é como se todos estivessem falando muito, muito, muito lento-uh. Eu devo dizer-ah é irritante... mas eu estou disposto a passar por este inconveniente contanto que consigam resolver este caso-uh."
+        },
+        {
+            "id": 28,
+            "model": "탐정로쟈",
+            "content": "Você tem cinquenta e duas horas inteiras em um só dia? Caramba, Eu nem posso imaginar como que seria isso."
+        },
+        {
+            "id": 29,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Ah, eu posso te contar já que está tão curiosa-uh. É uma vida muito, muito produtiva. Eu devo dizer-ah. Ter mais tempo para usar em um dia quer dizer que eu posso fazer mais coisas em um dia-uh. Como dormir dez ou mais horas na noite e ainda ter mais de quarenta horas restantes-uh. Dormir é a chave para manter sua pele hidratada, de fato-ah. Eu posso deixar você tocar, se quiser-uh."
+        },
+        {
+            "id": 30,
+            "content": "Como se estivesse se mostrando, Bumble constantemente estava se movendo pelo quarto, checando seus documento, ligando para pessoas no telefone, e até escovando os dentes enquanto ouvíamos suas gravações."
+        },
+        {
+            "id": 31,
+            "model": "탐정료슈",
+            "content": "N.M.I. Direto ao assunto."
+        },
+        {
+            "id": 32,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Era tarde da noite-ah."
+        },
+        {
+            "id": 33,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Vejamos-uh. Como sempre, Eu estava ocupado descendo a rua-ah. Eu tinha uma reunião muito, muito importante para comparecer, sabe-uh."
+        },
+        {
+            "id": 34,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "E de repente...!"
+        },
+        {
+            "id": 35,
+            "model": "탐정로쟈",
+            "content": "Você foi atacado?!"
+        },
+        {
+            "id": 36,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Não-ah. Eu só lembrei que deixei o bacon no balcão da cozinha da minha casa-uh! Eu deveria ter deixado ele coberto com o sal roxo especial do Distrito 23-ah~!"
+        },
+        {
+            "id": 37,
+            "model": "탐정홍루",
+            "content": "Ha, minha segunda tia mais velha sempre usava este sal."
+        },
+        {
+            "id": 38,
+            "model": "탐정료슈",
+            "content": "Volte. Ao assunto."
+        },
+        {
+            "id": 39,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Enfim, eu rapidamente parei, olhando para a Torre do Relógio, eu me perguntei se devia voltar para casa e salgar aquele bacon-uh..."
+        },
+        {
+            "id": 40,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "... E foi quando o Estripador Temporal me atacou-ah!"
+        },
+        {
+            "id": 41,
+            "model": "탐정료슈",
+            "content": "Na Torre do Relógio?"
+        },
+        {
+            "id": 42,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Em cada zona da T Corp., temos uma Torre de Relógio que mostra o horário padrão da A Corp. Como todos têm diferentes horas em um dia, seus relógios sincronizam com suas respectivas escalas de tempo. Então, para checar o 'verdadeiro' objetivo tempo, o sujeito teria de checar a Torre de Relógio."
+        },
+        {
+            "id": 43,
+            "model": "탐정료슈",
+            "content": "Oho..."
+        },
+        {
+            "id": 44,
+            "model": "탐정홍루",
+            "content": "Isso é bem conveniente~"
+        },
+        {
+            "id": 45,
+            "model": "탐정로쟈",
+            "content": "Tá bom, vocês dois. Vamos focar nas coisas importantes. Vejamos... um... ah, e se começarmos com uma descrição física?"
+        },
+        {
+            "id": 46,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Hmm... um elegante, terno sob medida..."
+        },
+        {
+            "id": 47,
+            "model": "탐정로쟈",
+            "content": "Huh... um terno feito sob medida? Muito chique pra alguém denominado de 'Estripador Temporal', não acha?"
+        },
+        {
+            "id": 48,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Deve ter me custado pelo menos cinquenta e o oito milhões Ahn-uh. É claro, como foi feito sob medida, seu conforto está além da imaginação-ah."
+        },
+        {
+            "id": 49,
+            "model": "탐정로쟈",
+            "content": "Pera, quê...?"
+        },
+        {
+            "id": 50,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Oh, e como eu poderia esquecer-uh? Este impecável e perfeitamente penteado bigode-ah."
+        },
+        {
+            "id": 51,
+            "model": "탐정로쟈",
+            "content": "Ei, Eu não tava me referindo a sua descrição física..."
+        },
+        {
+            "id": 52,
+            "model": "탐정료슈",
+            "content": "Mais uma chance até que eu S.I.N.C."
+        },
+        {
+            "id": 53,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Ohh~ você quer saber a aparência do assasino-uh..."
+        },
+        {
+            "id": 54,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "... Eu não me lembro de nada-uh. Aconteceu tão, tão rápido que..."
+        },
+        {
+            "id": 55,
+            "model": "탐정료슈",
+            "content": "Como foi a sensação de ter seu tempo estripado? Doeu?"
+        },
+        {
+            "id": 56,
+            "model": "단테",
+            "content": "<Você poderia não perguntar algo do tipo com um sorriso tão grande no seu rosto?> "
+        },
+        {
+            "id": 57,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Não-uh, foi só..."
+        },
+        {
+            "id": 58,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Mm, cem horas se foram em um piscar de olhos-ah! Graças a isso não compareci à minha importantíssima reunião, para o seu saber-uh! Eu sofri tantos prejuízos-ah!"
+        },
+        {
+            "id": 59,
+            "model": "탐정로쟈",
+            "content": "Ah! Cem horas? Então uma semana inteira se foi em um piscar de olhos?"
+        },
+        {
+            "id": 60,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Huh? Não-uh. Cem horas para mim são só dois dias mais ou menos-ah. Mesmo assim, você não tem ideia o quanto que eu me prejudiquei por conta desses dois dias-uh!"
+        },
+        {
+            "id": 61,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Estripando o tempo, huh? Uma invenção que permite algo do tipo certamente ganharia o prêmio de 'Inventor do Ano' e todos os luxos que vêm com ele. A T Corp. valoriza e apoia muito os seus inventores, sabia?"
+        },
+        {
+            "id": 62,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Alguns dizem que, há um tempo atrás, o Diretor Chefe Executivo da T Corp. foi para prestigiar os prêmios. Acho que uma vez inventor, sempre inventor; meu palpite é que ele queria que as pessoas seguissem seu espírito curioso. Eu já fui à cerimônia uma vez, e ele estava dando autógrafos!"
+        },
+        {
+            "id": 63,
+            "model": "탐정로쟈",
+            "content": "Hm... Então talvez estejamos procurando por um inventor que ganhou um prêmio por sua invenção? Assistente?"
+        },
+        {
+            "id": 64,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Porém, todas as invenções na T Corp. têm que ser registradas na Agência de Administração de Tecnologia, mesmo que haja exceções de vez em quando. Uma vez, um grupo independente de inventores chamado 'A Liga dos Nove' fez invenções que eles negavam a registrar. E uau, isso foi um furdunço! Toda T Corp. estava alerta! Todos correndo em pânico, fazendo B.O.s, marcando reuniões importantes, enquanto eu—"
+        },
+        {
+            "id": 65,
+            "model": "탐정홍루",
+            "content": "Foi tão alarmante assim...? Eu nem imagino o quão duro deve ter sido pro Yi Sang..."
+        },
+        {
+            "id": 66,
+            "model": "탐정로쟈",
+            "content": "Tá bom, tá bom. Então? Tem algo assim registrado na Agência de Invenções da T Corp. ?"
+        },
+        {
+            "id": 67,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Não. É a primeira vez que eu soube de algo assim."
+        },
+        {
+            "id": 68,
+            "model": "탐정로쟈",
+            "content": "Haah... cê poderia ter dito isso antes, sabia."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<E se isso for uma habilidade concedida a uma Distorção...?> "
+        },
+        {
+            "id": 70,
+            "content": "Enquanto isso, Ryōshū, que estava desinteressada totalmente da conversa, encarava o horizonte. Ela olhava para a janela de fora da fábrica e exalava outra baforada de fumaça antes de resmungar silenciosamente para si."
+        },
+        {
+            "id": 71,
+            "model": "탐정료슈",
+            "content": "Sem assassino, sem defuntos."
+        },
+        {
+            "id": 72,
+            "model": "단테",
+            "content": "<Bem, é... Ninguém morreu, e nós não sabemos onde está o assassino.>"
+        },
+        {
+            "id": 73,
+            "model": "탐정홍루",
+            "content": "Eu me pergunto, quem poderia ser?"
+        },
+        {
+            "id": 74,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Alguém que gostou muito do meu terno caríssimo, Devo dizer-uh!"
+        },
+        {
+            "id": 75,
+            "model": "탐정료슈",
+            "content": "Discordo. Seu trapo é uma merda."
+        },
+        {
+            "id": 76,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Ah..."
+        },
+        {
+            "id": 77,
+            "model": "탐정료슈",
+            "content": "Além de tudo, se eu realmente quisesse te matar..."
+        },
+        {
+            "id": 78,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "... E-eu-ah? Por que você—"
+        },
+        {
+            "id": 79,
+            "model": "탐정료슈",
+            "content": "... Eu teria de ser tão rápida quanto você."
+        },
+        {
+            "id": 80,
+            "model": "탐정료슈",
+            "content": "Eu não seria capaz de atingir seus órgãos vitais de outra forma."
+        },
+        {
+            "id": 81,
+            "content": "Ryōshū caminha na direção dele... antes de repentinamente avançar rapidamente."
+        },
+        {
+            "id": 82,
+            "content": "Bumble rapidamente tropeça pra traz com medo, mas Ryōshū consegue encurralar ele e pressionar sua bainha em seu pescoço independente da disparidade em seu tempo."
+        },
+        {
+            "id": 83,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Aii!"
+        },
+        {
+            "id": 84,
+            "model": "탐정료슈",
+            "content": "... Desse jeito."
+        },
+        {
+            "id": 85,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 86,
+            "model": "탐정로쟈",
+            "content": "Uau... Eu achei que ela realmente ia espancar ele com aquela bainha..."
+        },
+        {
+            "id": 87,
+            "model": "탐정홍루",
+            "content": "Então podemos concluir o caso, hm? Tudo que precisamos fazer é prender a Ryōshū~"
+        },
+        {
+            "id": 88,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "V-Você quase me mata do coração-uh!"
+        },
+        {
+            "id": 89,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Bem... Eu suponho que aquele malfeitor realmente não feriu meus órgãos vitais, ou sei lá-ah..."
+        },
+        {
+            "id": 90,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Mas ele avançou repentinamente, assim como você-uh."
+        },
+        {
+            "id": 91,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Saquei. Então o assassino não tá só estripando o tempo de pessoas aleatórias de cá pra lá."
+        },
+        {
+            "id": 92,
+            "model": "탐정료슈",
+            "content": "Sim. O assassino estava indo especificamente para aquele RABO."
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 94,
+            "content": "O rombo deixado pela ausência do Sinclair é muito maior do que eu pensava."
+        },
+        {
+            "id": 95,
+            "model": "탐정료슈",
+            "content": "... Eu quis dizer aquele 'Ridículo Arrogante Bigode Obsoleto'. Tsk, não ter aquela criança aqui é frustrante."
+        },
+        {
+            "id": 96,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Sem chance-uh... Você consegue pensar de alguém que odiaria alguém como eu-ah... ?"
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<Eu consigo pensar em mais de uma...>"
+        },
+        {
+            "id": 98,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Eu diria que é a obra de um ladrão que queria provar meu terno à medida-uh!"
+        },
+        {
+            "id": 99,
+            "model": "탐정홍루",
+            "content": "Oh, e os seus funcionários?"
+        },
+        {
+            "id": 100,
+            "model": "탐정홍루",
+            "content": "O livro da Senhora Agatha diz que... para achar o culpado, devemos olhar ao círculo social imediato da vítima!"
+        },
+        {
+            "id": 101,
+            "content": "Eu não tinha ideia de que o livro que Don Quixote nos deu mais cedo ajudaria, mas... Acho que é pelo menos um ótimo passatempo. Hong Lu não desgruda os olhos dele."
+        },
+        {
+            "id": 102,
+            "content": "... Talvez eu devia dar uma olhada também, assim que voltarmos para o ônibus."
+        },
+        {
+            "id": 103,
+            "model": "탐정로쟈",
+            "content": "Sim, isso serve...!"
+        },
+        {
+            "id": 104,
+            "model": "탐정로쟈",
+            "content": "Então, o culpado!"
+        },
+        {
+            "id": 105,
+            "model": "탐정로쟈",
+            "content": "... deve ser um funcionário que odeia o chefe tanto, mas tanto, que tentaria roubar o seu tempo!"
+        },
+        {
+            "id": 106,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Nã-ã. Isso parece ser implausível-ah. Como você pode ver..."
+        },
+        {
+            "id": 107,
+            "model": "탐정로쟈",
+            "content": "O-o que...? Os funcionários dessa fábrica..."
+        },
+        {
+            "id": 108,
+            "model": "탐정로쟈",
+            "content": "... Eles estão trabalhando tão lentamente como se... estivessem andando por cima de melaço..."
+        },
+        {
+            "id": 109,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Oh, a maioria dos funcionários como eles tendem a viver dias de apenas dez horas. Estas que a maioria passa em seus trabalhos nas fábricas."
+        },
+        {
+            "id": 110,
+            "model": "탐정로쟈",
+            "content": "... O que você disse?"
+        },
+        {
+            "id": 111,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Todo mundo, escuta-ah! Nossa produção aumentou em apenas 13% comparado ao crescimento do últimos mês-uh! Eu não expliquei o quão importante é isso-ah? Nós vamos ficar para trás na margem de lucro nesse ritmo-uh!"
+        },
+        {
+            "id": 112,
+            "content": "Bumble exclama frustrado para eles. Os trabalhadores, bem, bem lentamente, movem suas cabeças para olharem para o proprietário da fábrica, mesmo uma ação tão simples como essa demora uma eternidade para ser executada."
+        },
+        {
+            "id": 113,
+            "model": "감속더미",
+            "teller": "Trabalhador da Fábrica",
+            "title": "T Corp.",
+            "content": "C...h...e...f...e... É... I...m...p...o...s...s...í...v...e...l... t...r...a...b...a...l...h...a...r... m...a...i...s... r...á...p...i...d...o... q...u...e..."
+        },
+        {
+            "id": 114,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Ufa. que estressante-ah! Menos reclamações, mais montagem-uh! Façam bom uso de seus tempo-ah! Monta monta-uh!"
+        },
+        {
+            "id": 115,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "$#%%><*()(&*&^(&%*(&$#^$^%!"
+        },
+        {
+            "id": 116,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Você não tem ideia do quão frustrante está sendo para mim recentemente-ah! Sabia que a próxima leva de engrenagens parou de repente?"
+        },
+        {
+            "id": 117,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "$#%#$^$#^$$#(&*^%$&^*(&&><%#^!"
+        },
+        {
+            "id": 118,
+            "content": "Nós podíamos entendê-lo por conta do gravador próximo de nós. Mas... todos fora de alcance dele não teria nenhuma chance de entender qualquer coisa que ele diz."
+        },
+        {
+            "id": 119,
+            "model": "탐정로쟈",
+            "content": "Ei, Senhor Bumble."
+        },
+        {
+            "id": 120,
+            "model": "탐정로쟈",
+            "content": "Cê tá falando muito rápido para eles entenderem, sabia? Como você espera que eles entendam o que você tá falando?"
+        },
+        {
+            "id": 121,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "E daí-ah?? Não sou eu que sou muito rápido; eles que são muito lentos-uh. Apenas golpistas e formiguinhas como eu sabemos usar nosso tempo para ascendermos nessa caótica, movimentada Cidade-ah!"
+        },
+        {
+            "id": 122,
+            "model": "탐정로쟈",
+            "content": "Eu... quê? Você sabe que isso é um monte de asneira."
+        },
+        {
+            "id": 123,
+            "model": "탐정로쟈",
+            "content": "Como que eles devem se 'empenhar' ou 'usar bem os seus tempos' quando eles estão praticamente imóveis? E com que tempo?"
+        },
+        {
+            "id": 124,
+            "model": "단테",
+            "content": "<Rodya, ei...>"
+        },
+        {
+            "id": 125,
+            "model": "단테",
+            "content": "<Eu não acho que alguém como ele vá entender do que você está falando. Ele nasceu e cresceu na T Corp., apesar de tudo.>"
+        },
+        {
+            "id": 126,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 127,
+            "model": "탐정로쟈",
+            "content": "Ei, Assistente. Você é um funcionário de Classe 5, certo? Você não deveria ser um figurão? Você realmente acha que ele está tratando a situação claramente?"
+        },
+        {
+            "id": 128,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "'Claramente?'"
+        },
+        {
+            "id": 129,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Caros detetives. Por acaso vocês estão voltando de uma longa viagem passando por todos os Ninhos da Cidade, de A até Z? Vocês podem dizer com confiança que já viram tudo que há para ver?"
+        },
+        {
+            "id": 130,
+            "model": "탐정로쟈",
+            "content": "Realmente... não, mas..."
+        },
+        {
+            "id": 131,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Então pense nessa ideia, por que não? Essa noção de o que é 'aceitável' é apenas uma miragem aplicada pela opressão e sofrimento?"
+        },
+        {
+            "id": 132,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Quer dizer que... sofrer é apenas uma parte da vida na Cidade, independente de qual Ninho você está."
+        },
+        {
+            "id": 133,
+            "model": "탐정로쟈",
+            "content": "Hah. Eu não vejo um pingo de sofrimento nessa lata de Senhor cinquenta horas por dia aqui."
+        },
+        {
+            "id": 134,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Que palavras duras-uh! Eu já tive minha parcela de sofrimento, pra sua informação-ah!"
+        },
+        {
+            "id": 135,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Eu estive esperando para concluir algo por um tempo-uh. Você sabe a dor de esperar por algo, mas ter tanto tempo no seu dia-ah? É um tédio de matar!"
+        },
+        {
+            "id": 136,
+            "content": "Bumble gentilmente ajusta seu cabelo e bigode antes de acariciar seu casaco chique com cuidado."
+        }
+    ]
+}

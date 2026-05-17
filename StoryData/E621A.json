@@ -1,0 +1,196 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "model": "싱클레어",
+            "content": "Haa... Lutar em lugares estreitos é tão cansativo..."
+        },
+        {
+            "id": 1,
+            "model": "홍루",
+            "content": "Não tem jeito~ Nós que usamos armas maiores, ficamos bem mais cansados lutando em lugares mais estreitos."
+        },
+        {
+            "id": 2,
+            "content": "Estes inimigos não eram muito diferentes daqueles que lutamos contra mais cedo, mas apenas sua quantidade já foi suficiente para cansar os Pecadores."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "Srta. Faust, afinal... O quê são essas... Coisas?"
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 5,
+            "model": "로쟈",
+            "content": "Sim, eu também tô me perguntando isso. Por quê você tá com o bico tão fechado?"
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Essas entidades são..."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Essas entidades são...?"
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "O que vocês acham que são estas entidades?"
+        },
+        {
+            "id": 9,
+            "model": "싱클레어",
+            "content": "Hein?"
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "B-bem, não foi isso que eu acabei de te perguntar...?"
+        },
+        {
+            "id": 11,
+            "model": "싱클레어",
+            "content": "Eh, será que você..."
+        },
+        {
+            "id": 12,
+            "model": "싱클레어",
+            "content": "Está nos dando uma chance de pensar por conta própria?!"
+        },
+        {
+            "id": 13,
+            "content": "Claro, Faust não confirmou nem negou, mas Sinclair interpretou da maneira que Faust queria."
+        },
+        {
+            "id": 14,
+            "model": "싱클레어",
+            "content": "Hum... Depois de lutar contra vários deles, acho que descobri algo."
+        },
+        {
+            "id": 15,
+            "model": "싱클레어",
+            "content": "Estes monstros... Não estão nos atacando como se estivessem bravos com a gente ou por estarmos bloqueando o caminho deles."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Certamente! Furiosamente estavam avançando em direção nós, como se estivessem famintos!"
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "Verdade... Mas isso é estranho. Neste trem não deveriamos sentir sede nem fome..."
+        },
+        {
+            "id": 18,
+            "model": "뫼르소",
+            "content": "O padrão de ataque destas entidades não é baseado em julgamento racional. A única interpretação seria a de que eles estão descontando uma agressividade instintiva contra nós."
+        },
+        {
+            "id": 19,
+            "model": "오티스",
+            "content": "Hm..."
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "Sim, e? O que mais vocês notaram?"
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Mais alguma coisa...? Também acho que... Hum... Os olhos de todos eles eram vermelhos..."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "Não havia um lugar em seus corpos que não estavam cobertos por vermelho."
+        },
+        {
+            "id": 23,
+            "model": "료슈",
+            "content": "Eles cheiram a sangue. Certamente são feitos disso."
+        },
+        {
+            "id": 24,
+            "model": "이상",
+            "content": "Nesse caso... Suas partes cobertas de vermelho devem ser feitas de sangue coagulado e enrigecido."
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Muito obrigada. As informações coletadas por todos vocês foi de muita ajuda."
+        },
+        {
+            "id": 26,
+            "content": "Desta vez eu fui até Faust e sussurrei."
+        },
+        {
+            "id": 27,
+            "model": "단테",
+            "content": "<Qual... Qual foi a sua conclusão?>"
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Nós estamos com sorte desta vez, Dante."
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Antes de embarcarmos neste trem, li por acaso algumas informações sobre nosso próximo destino, e estas informações acabaram sendo úteis, mas..."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Seguindo seu conselho... Os Pecadores também foram capazes de extrair informações extremamente úteis."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Quer dizer... Que você sabe de uma forma de resolver este caso?!> "
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "Isto eu não posso garantir... Mas ao menos isto será um ponto de partida para nós."
+        },
+        {
+            "id": 33,
+            "content": "Após dizer isso, Faust se vira para o resto dos Pecadores."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "... Agora apresentarei a solução para este caso."
+        },
+        {
+            "id": 35,
+            "model": "로쟈",
+            "content": "Ué? Tem mais alguma coisa além de só abrir o caminho e avançar?"
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "Esta parte em si não mudará, mas, como resultado nós poderemos entender qual o real propósito deste contrato... E assim enfim teremos uma ideia de como concluir este contrato da W Corp."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "Neste trem... As entidades que vem causando estes incidentes são..."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "Com uma probabilidade razoável, Sanguemônios."
+        }
+    ]
+}

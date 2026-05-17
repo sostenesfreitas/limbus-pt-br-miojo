@@ -1,0 +1,352 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Nós, que descemos do ônibus, entramos em seguida num dispositivo de transporte nunca visto."
+        },
+        {
+            "id": 1,
+            "content": "Dentro de um espaço de metal, densamente preenchido por maquinários complexos... e, do outro lado, uma porta imensa que preenchia uma parede inteira."
+        },
+        {
+            "id": 2,
+            "place": "Veículo de Transporte Misterioso",
+            "model": "싱클레어",
+            "content": "Aqui é…"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Para o desenvolvimento deste dispositivo, foi necessária também a colaboração da Firma P."
+        },
+        {
+            "id": 4,
+            "model": "싱클레어",
+            "content": "Ã, então…"
+        },
+        {
+            "id": 5,
+            "model": "돈키호테",
+            "content": "...Você se conluiou com o senhor Cesara?"
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 7,
+            "model": "돈키호테",
+            "content": "Aaaii~ e olha que eu também, assim que recobrasse as forças, queria encontrá-lo logo e me gabar da conclusão heroica do encargo! E logo você ir encontrá-lo sozinha — a senhorita Faust também tem um lado mesquinho!"
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "...Da próxima vez eu vou levar isso um pouco mais em consideração."
+        },
+        {
+            "id": 9,
+            "content": "No seu íntimo, Faust parecia aliviada…"
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Bom, em troca! Como eu pude chegar à sede da Límbus Cãmpani, que tanto me deixava curiosa! Estamos quites! Eu declaro!"
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "...De nunca terem chamado vocês à sede até agora, há muitos motivos, mas... como enumerá-los um a um é desperdício de tempo, eu vou omitir."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Ufa... ainda bem que você vai omitir."
+        },
+        {
+            "id": 13,
+            "model": "파우스트",
+            "content": "Falando só do motivo principal: por causa da natureza do nosso departamento, com deslocamentos frequentes entre Cidades e uma alocação de operações irregular, havia muitas restrições para se conseguir trazer alguém à sede."
+        },
+        {
+            "id": 14,
+            "model": "로쟈",
+            "content": "Mas você acaba contando, hein...?"
+        },
+        {
+            "id": 15,
+            "model": "오티스",
+            "content": "Espera, isso à parte... por que foi necessária a colaboração da Firma P?"
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "content": "Aff, lá vai ficar comprido de novo…"
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "A Singularidade da Firma P, resumindo numa palavra, é a tecnologia de expansão e distorção espacial."
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Agora que penso... o senhor disse que a senhora Cesara contou que o princípio da Singularidade da Firma P é parecido com o da La Manchaland."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<...É verdade. A La Manchaland era, por dentro, muito mais ampla do que parecia por fora.>"
+        },
+        {
+            "id": 20,
+            "model": "이스마엘",
+            "content": "Ah, por sinal havia uma coisa de que eu estava curiosa."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "A tecnologia de expansão de espaço não era uma singularidade que outras Asas também usam com frequência?"
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "Como dizer... é que, para se chamar de uma especialidade exclusiva da Firma P, parece ser uma tecnologia já comercializada de modo comum por toda a Cidade."
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "Essa... é uma pergunta de nível bem alto."
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "Que bom, ainda ouve elogio~"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Tal como a senhora Ishmael disse, a tecnologia de expansão espacial é uma tecnologia que outras Asas também aproveitam e usam."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Assim como este Mephistopheles também é um ônibus feito aproveitando a tecnologia de expansão espacial, mas não é a Singularidade da Firma P."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "O objetivo final da tecnologia de expansão espacial que só a Firma P possui é..."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "...criar o lugar mais seguro do mundo."
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Um lugar que possa ser protegido por completo, de modo que, por qualquer impacto vindo de fora, o edifício não desabe e o seu interior não se danifique."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Portanto, quanto mais capital se investe na tecnologia da Firma P, mesmo que se aplique uma pressão ou um impacto externos extremos, o interior pode ser protegido por completo."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "content": "É um efeito semelhante a, como o espaço de uma outra dimensão, promover um corte total com o exterior."
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "Por isso, o exterior do veículo, aproveitando a Singularidade da Firma P, ficou capaz de proteger contra qualquer impacto durante o deslocamento até a sede. Ao mesmo tempo, ficou também possível garantir um espaço capaz de comportar mais de 13 pessoas."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "Ã, se é um meio que transfere para um espaço de outra dimensão… não tem também aquilo, a bolsa dimensional?"
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "Nnnnngh..."
+        },
+        {
+            "id": 35,
+            "model": "로쟈",
+            "content": "Hã? Sin, por que você de repente solta um gemido de moribunda?"
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "É que, quando eu ia à escola, havia uma espécie de história de terror que circulava entre os colegas..."
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "Um funcionário da Associação Jebyatchi entregou uma encomenda na casa, e, num pequeno instante de distração..."
+        },
+        {
+            "id": 38,
+            "model": "싱클레어",
+            "content": "...uma criança muito curiosa entrou na tal carregadeira de entrega e então..."
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "Eu n-não consigo falar mais... por causa daquela história de terror eu dormi mal por uma semana. Porque, no sonho, aquela cena ficava aparecendo..."
+        },
+        {
+            "id": 40,
+            "model": "그레고르",
+            "content": "Eita, história de terror é só história de terror, ora…"
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Nem sempre é bem assim, viu…"
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "content": "É lamentável, mas o conteúdo do pesadelo de uma semana do senhor Sinclair provavelmente é tudo verdade."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "Depois daquele incidente, foram acrescentados vários regulamentos à Associação Hana e à Associação Jebyatchi, para que não houvesse de uma pessoa ser despachada, por engano, dentro de uma bolsa dimensional."
+        },
+        {
+            "id": 44,
+            "model": "이상",
+            "content": "De certo modo, a tecnologia de Warp que a Firma W praticava também parece ter uma natureza parecida."
+        },
+        {
+            "id": 45,
+            "model": "이상",
+            "content": "Pois é uma tecnologia que envia para outra dimensão, mas, embalando de modo mais seguro, desloca a pessoa intacta."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Pode-se considerar que o contexto se comunica."
+        },
+        {
+            "id": 47,
+            "model": "로쟈",
+            "content": "Enfim, bastando este dispositivo de transporte, dá para ir à sede a qualquer momento, é isso?"
+        },
+        {
+            "id": 48,
+            "model": "오티스",
+            "content": "A comunicação e o abastecimento com o alto escalão hão de ficar mais fáceis. Apenas, para arrastar este dispositivo de transporte por todos os cantos do Ninho, o procedimento há de consumir um tempo considerável; essa parte foi concluída?"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "No."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Em vez disso, está previsto posicionar gradualmente, em cada Ninho da Cidade, dispositivos de transporte eficientes, feitos aproveitando a tecnologia da Firma P e a tecnologia da nova Firma W."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "De modo a tornar possível uma comunicação física com a sede da Limbus Company."
+        },
+        {
+            "id": 52,
+            "model": "이스마엘",
+            "content": "E-em todos os Ninhos?"
+        },
+        {
+            "id": 53,
+            "model": "베르길리우스",
+            "content": "De jeito nenhum. Ainda é um modelo experimental, em fase de teste. Quer dizer que o preço que se gasta nele também é descomunal."
+        },
+        {
+            "id": 54,
+            "content": "Vergílio falou de modo categórico."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Pois bem, vou pôr em funcionamento."
+        },
+        {
+            "id": 56,
+            "content": "Quando Faust manipulou um e outro dispositivo do interior, junto com um som estridente, a porta imensa que vimos antes vibrou."
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "content": "Po-por que é que aquela porta está tremendo de repente?!"
+        },
+        {
+            "id": 58,
+            "model": "이상",
+            "content": "A energia conectada... está se reunindo naquela porta."
+        },
+        {
+            "id": 59,
+            "content": "A porta, que emitia luz sem parar, quando o medidor exibido no painel ao redor se encheu, abriu-se devagar."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "Eu vou na frente."
+        },
+        {
+            "id": 61,
+            "content": "Em seguida, quando aquela porta se abriu por completo, Faust caminhou para dentro dela com naturalidade."
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Va-vamos atrás.>"
+        },
+        {
+            "id": 63,
+            "place": "-1",
+            "content": "Depois de um som de máquina complexo e um som singular de zumbido..."
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "…Sim, chegamos."
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Sejam bem-vindos à sede da Limbus Company. Este lugar é..."
+        },
+        {
+            "id": 66,
+            "content": "Várias pessoas que andavam de um lado para outro, atarefadas, vestindo equipamentos singulares."
+        },
+        {
+            "id": 67,
+            "content": "Entre isso, sentem-se também um som de portas pesadas se abrindo e fechando, e uma sensação destoante que eu já tinha sentido de vez em quando."
+        },
+        {
+            "id": 68,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "파우스트",
+            "content": "...É o andar do departamento LCE."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<…LCE?>"
+        },
+        {
+            "id": 70,
+            "model": "로쟈",
+            "content": "Haa... tomara que um dia chegue o dia de entrar com orgulho até pelo portão principal da sede."
+        }
+    ]
+}

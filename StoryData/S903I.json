@@ -1,0 +1,372 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "싱클레어",
+            "content": "Ugh... o lado onde fica a porta traseira... aqueles ali tomaram. Assim, mesmo que o portal se abra..."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "...A situação é a mesma. Basta dar conta daquele sujeito, pegar o senhor motorista e ir para a sede."
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Droga... a gente tinha que pressionar mais..."
+        },
+        {
+            "id": 3,
+            "content": "Ainda que estivesse certa a fala de Ryoshu de que não fariam mal ao Charon, como não se podia descartar a possibilidade de lhe causarem dano..."
+        },
+        {
+            "id": 4,
+            "content": "...os Pecadores apenas davam conta dos cadáveres que se moviam, sem conseguir se entregar ao combate de modo ativo."
+        },
+        {
+            "id": 5,
+            "content": "Naquele campo de batalha pouco amplo, a única a brandir a espada contra o agressor sem hesitação era Ryoshu."
+        },
+        {
+            "id": 6,
+            "place": -1,
+            "model": "엄지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Bothersome little halfwit. Arms straight, I said. How many times... Just how many times must I repeat myself?"
+        },
+        {
+            "id": 7,
+            "model": "엄지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Que drama, só porque levou uma dessas. Levanta. Não vai levantar? O que foi que você fez de bom pra ficar... deitada aí..."
+        },
+        {
+            "id": 8,
+            "model": "엄지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Para de bancar a figura deplorável e pega a espada de novo. Corta direito. Isso. Você consegue."
+        },
+        {
+            "id": 9,
+            "model": "엄지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Se fizer drama mais uma vez... aí eu vou te arrancar os cabelos todos, então faz direito."
+        },
+        {
+            "id": 10,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "료슈",
+            "content": "... You."
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "Você conhece esta esgrima."
+        },
+        {
+            "id": 12,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Sim. 'Palermo' — pois eu também aprendi essa esgrima."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "Você aprendeu com aquele sujeito, o Valentina, que vive encharcado de bebida?"
+        },
+        {
+            "id": 14,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Não desonre aquela pessoa com palavras tão vulgares. ...O mestre, ao me transmitir o Palermo, deixou uma ordem encarecida."
+        },
+        {
+            "id": 15,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "'Treina até te tornares infinitamente parecido com a esgrima dela.'"
+        },
+        {
+            "id": 16,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Agora o meu Palermo... alcançou um nível parecido com o da senhora do passado, quando estava na Teia."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Não é nem aprender a esgrima e compreendê-la... apenas tentar me copiar... então."
+        },
+        {
+            "id": 18,
+            "model": "료슈",
+            "content": "Wasting time over such mimicry... It's beyond ridiculous."
+        },
+        {
+            "id": 19,
+            "model": "료슈",
+            "content": "Se é só imitação, então — o ângulo do pulso que segura a espada, a distância entre os dois pés, o centro de gravidade da lâmina. No instante em que um só desses estiver fora de lugar..."
+        },
+        {
+            "id": 20,
+            "place": -1,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Por que, mesmo sabendo que vai apanhar, a sua postura vive mudando?"
+        },
+        {
+            "id": 21,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Para de usar essa cabecinha ridícula e faz só do jeito que eu ensinei! Sem pular nada do que decorou, simplesmente se move."
+        },
+        {
+            "id": 22,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Quanto antes você se completar como a espada que tudo retalha, mais cedo eu também..."
+        },
+        {
+            "id": 23,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "료슈",
+            "content": "Uma esgrima como um equilibrismo na corda bamba, sem se saber quando vai ruir."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "Ufa... você não é diferente daquele boneco ali."
+        },
+        {
+            "id": 25,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...Não me importo de ser um boneco de corda."
+        },
+        {
+            "id": 26,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Como a senhora também não consegue nem se lembrar do Palermo direito, nem empunhá-lo..."
+        },
+        {
+            "id": 27,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...eu torno a me convencer da minha necessidade."
+        },
+        {
+            "id": 28,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Repetindo a mesma postura mil vezes, e, se não bastar, dez mil vezes, eu preciso ser capaz de reproduzir com perfeição todas as posturas que a senhora aprendeu, para que..."
+        },
+        {
+            "id": 29,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...eu possa me tornar o manual perfeito, feito só para a senhora."
+        },
+        {
+            "id": 30,
+            "model": "료슈",
+            "content": "E se eu não precisar de um manual de apostila infantil como você?"
+        },
+        {
+            "id": 31,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Recusar não tem sentido. Pois o meu papel como manual já começou."
+        },
+        {
+            "id": 32,
+            "model": "료슈",
+            "content": "Ha. Sendo assim, com a minha própria arte..."
+        },
+        {
+            "id": 33,
+            "model": "료슈",
+            "content": "...vou ter de te fatiar de modo que nem a forma reste."
+        },
+        {
+            "id": 34,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Ha, droga. Vendo que o olho voltou a se estragar todo, é aqui mesmo. O lugar onde está o nosso Ticket."
+        },
+        {
+            "id": 35,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "료슈",
+            "content": "Gah...!"
+        },
+        {
+            "id": 36,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "I told you, Lucio."
+        },
+        {
+            "id": 37,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Por mais anos que você ainda se esforce..."
+        },
+        {
+            "id": 38,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "...ainda falta muito para alcançar a nossa Yoshihide."
+        },
+        {
+            "id": 39,
+            "model": "엄지제자",
+            "content": "......."
+        },
+        {
+            "id": 40,
+            "content": "A cabeça do sujeito pendeu sem forças, e ele cambaleou um pouco."
+        },
+        {
+            "id": 41,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "E aí, vendo de perto, você não sente?"
+        },
+        {
+            "id": 42,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "O quão lastimável é o seu nível agora."
+        },
+        {
+            "id": 43,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "É por isso... é por isso que quem nunca passou nem por uma guerra... tinha que rolar na lama num lugar onde basta desviar o olhar um instante pra ter o pescoço estourado..."
+        },
+        {
+            "id": 44,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Quando enfrentar um forte, não revide com força — engancha a ponta da lâmina e desvia o ataque; quantas vezes eu não enfatizei isso?"
+        },
+        {
+            "id": 45,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "E também: quando enfrentar muitos, abaixa a postura e brande num arco amplo, na horizontal... eu te disse até a voz ficar rouca, e você esquece isso?"
+        },
+        {
+            "id": 46,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Secure a corner,"
+        },
+        {
+            "id": 47,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Atraindo-os um a um,"
+        },
+        {
+            "id": 48,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "eu mandei você escolher bem o posicionamento, também."
+        },
+        {
+            "id": 49,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Para que a nossa Yoshihide se lembre de ao menos mais uma coisa que eu ensinei... o manual não pode ter defeito."
+        },
+        {
+            "id": 50,
+            "model": "엄지제자",
+            "content": "... Forgive me, Master."
+        },
+        {
+            "id": 51,
+            "model": "엄지아비",
+            "title": "???",
+            "content": "Ainda assim... a ordem de pegar isto aqui você ouviu direitinho. Não é de todo inútil."
+        },
+        {
+            "id": 52,
+            "content": "Contra o outro agressor, que indicava o Charon com um gesto de queixo, Ryoshu, murmurando a palavra 'Pai do Polegar' como quem a esmaga, tomou posição como quem vai sacar a lâmina da bainha a qualquer instante."
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 54,
+            "model": "엄지아비",
+            "content": "Ora, tudo bem, Ticket?"
+        },
+        {
+            "id": 55,
+            "model": "엄지아비",
+            "content": "Como eu esperava, no tempo em que não nos vimos a sua postura virou uma porcaria... Vendo você segurar a espada desse jeito, nem me sai um suspiro. Você apanhou tanto de mim pra mudar esse vício; você se lembra?"
+        },
+        {
+            "id": 56,
+            "model": "엄지아비",
+            "content": "Tsc, mas... como é um reencontro depois de muito tempo, vou te conceder ao menos a cortesia básica. Já passou da idade de você só cair em si depois de levar um tabefe na cara, como antigamente, não?"
+        },
+        {
+            "id": 57,
+            "model": "료슈",
+            "content": "\"Ticket?\""
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "A julgar pelo fato de você ainda me chamar assim..."
+        },
+        {
+            "id": 59,
+            "model": "료슈",
+            "content": "...pelo visto você também ainda não conseguiu escapar daquele abismo."
+        },
+        {
+            "id": 60,
+            "model": "엄지아비",
+            "content": "...'Você'? Foi comigo... que você falou agora?"
+        },
+        {
+            "id": 61,
+            "model": "엄지아비",
+            "content": "Ha... essa cadela agora se atreve, sem saber quem está acima e quem está abaixo?"
+        },
+        {
+            "id": 62,
+            "model": "엄지아비",
+            "content": "...!"
+        },
+        {
+            "id": 63,
+            "content": "Talvez por ter sentido alguma presença vinda de fora, o sujeito chamado Pai do Polegar agarra depressa o Charon e muda a postura do corpo."
+        },
+        {
+            "id": 64
+        }
+    ]
+}

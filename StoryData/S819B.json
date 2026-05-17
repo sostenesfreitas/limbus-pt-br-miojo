@@ -1,0 +1,376 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Reunião da 2ª Seleção",
+            "model": "하인2",
+            "content": "Chegamos à entrada do local da 2ª seleção!"
+        },
+        {
+            "id": 1,
+            "content": "O lugar aonde chegamos era um subsolo onde se reuniam vários elevadores."
+        },
+        {
+            "id": 2,
+            "content": "Entre os participantes, havia quem subisse primeiro pelo elevador, mas a maioria não partia, e ficava trocando conversas sigilosas entre si."
+        },
+        {
+            "id": 3,
+            "content": "Eu fui me acostumando, aos poucos, com a maior parte dos olhares se cravando no nosso lado."
+        },
+        {
+            "id": 4,
+            "model": "하인2",
+            "content": "Os senhores participantes, depois de cada um embarcar num elevador, é só subirem."
+        },
+        {
+            "id": 5,
+            "model": "싱클레어",
+            "content": "Então, nós também... vamos embarcar?"
+        },
+        {
+            "id": 6,
+            "model": "싱클레어",
+            "content": "I feel like we're drawing way too much attention, so let's—"
+        },
+        {
+            "id": 7,
+            "content": "Naquele momento, a voz de alguém nos deteve."
+        },
+        {
+            "id": 8,
+            "model": "임대옥",
+            "content": "... Big brother Baoyu."
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Ah, Daiyu."
+        },
+        {
+            "id": 10,
+            "model": "임대옥",
+            "content": "O senhor passou bem este tempo todo?"
+        },
+        {
+            "id": 11,
+            "content": "Era uma mulher idêntica à menina que eu vira várias vezes na memória de Hong Lu. Ela, que num tempo desabrochava em sorrisos para Hong Lu e empilhava pétalas numa das mãos..."
+        },
+        {
+            "id": 12,
+            "content": "...agora segurava uma lança naquela mão e fitava Hong Lu sem estampar expressão alguma."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 14,
+            "model": "홍루",
+            "content": "Daiyu, eu não imaginava que você fosse participar do Grande Confronto pelo Patriarcado."
+        },
+        {
+            "id": 15,
+            "model": "임대옥",
+            "content": "O senhor esqueceu, irmão? Antes como agora, a minha família estava na condição de só se manter estando sob o comando de alguém."
+        },
+        {
+            "id": 16,
+            "model": "임대옥",
+            "content": "Agora eu apenas empunho a lâmina a serviço da casa Seol."
+        },
+        {
+            "id": 17,
+            "model": "홍루",
+            "content": "Ah, sim, na casa da mana Baochai..."
+        },
+        {
+            "id": 18,
+            "model": "임대옥",
+            "content": "Sim. Por isso, durante os dias que me restam daqui em diante, eu acabarei morrendo lutando por outra pessoa."
+        },
+        {
+            "id": 19,
+            "model": "홍루",
+            "content": "... Daiyu."
+        },
+        {
+            "id": 20,
+            "content": "Hong Lu deu um passo em direção a ela, mas ela, ao contrário, ergueu o braço e barrou a aproximação de Hong Lu."
+        },
+        {
+            "id": 21,
+            "content": "Aquele gesto não constituía ameaça alguma, mas, diante daquele movimento resoluto, Hong Lu não conseguiu se aproximar mais e parou."
+        },
+        {
+            "id": 22,
+            "place": "Passado, Grande Jardim - Pátio de Yihongyuan",
+            "model": "과거홍루",
+            "content": "Daiyu. Eu vou deixar o Grande Jardim em breve. É que os anciãos disseram para eu sair pelo mundo e vir depois de vivenciar um pouco mais de coisas."
+        },
+        {
+            "id": 23,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "You're leaving Daguanyuan?"
+        },
+        {
+            "id": 24,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "No fim, sem me ter dado resposta alguma sobre aquele dia, o senhor parte assim."
+        },
+        {
+            "id": 25,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "Why..."
+        },
+        {
+            "id": 27,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "Por que o senhor continua aí, só sorrindo desse jeito?"
+        },
+        {
+            "id": 28,
+            "model": "임대옥",
+            "title": "Guarda-costas",
+            "content": "Then... I hope you'll never come back here again."
+        },
+        {
+            "id": 29,
+            "place": "Local de Reunião da 2ª Seleção",
+            "model": "임대옥",
+            "content": "Num tempo fomos um laço afetuoso, mas tudo não passou de algo vão."
+        },
+        {
+            "id": 30,
+            "model": "임대옥",
+            "content": "Agora não há vínculo nem com o céu nem com a terra,"
+        },
+        {
+            "id": 31,
+            "model": "임대옥",
+            "content": "e neste coração não resta nem alegria nem tristeza."
+        },
+        {
+            "id": 32,
+            "model": "임대옥",
+            "content": "Quando a flor desabrocha, isso é adorável, mas, quando ela murcha, só se acrescenta tristeza, então..."
+        },
+        {
+            "id": 33,
+            "model": "임대옥",
+            "content": "...teria sido melhor não nos termos encontrado, desde o início."
+        },
+        {
+            "id": 34,
+            "model": "홍루",
+            "content": "...Você sempre diz palavras difíceis e tristes de se ouvir."
+        },
+        {
+            "id": 35,
+            "model": "임대옥",
+            "content": "O meu funeral eu já realizei faz tempo, e, ainda que tardiamente, eu ao menos saudei o senhor, irmão, então..."
+        },
+        {
+            "id": 36,
+            "model": "임대옥",
+            "content": "...peço que, quando nós nos matarmos um ao outro neste lugar..."
+        },
+        {
+            "id": 37,
+            "model": "임대옥",
+            "content": "...que nós nos tornemos um fio de fumaça que nem a forma deixa, e que nos dispersemos ao vento — é o que eu vou desejar."
+        },
+        {
+            "id": 38,
+            "content": "Daiyu, terminada a fala, deu meia-volta e se foi caminhando."
+        },
+        {
+            "id": 39,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 40,
+            "model": "홍루",
+            "content": "Ah, eu não cheguei a apresentá-la a vocês."
+        },
+        {
+            "id": 41,
+            "model": "홍루",
+            "content": "É uma menina com quem eu travei um laço, ainda que breve, na infância. Agora, como vocês veem, nós nos reencontramos numa situação não muito boa."
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "content": "O fato de ela ter vindo a este lugar como escolta de alguém..."
+        },
+        {
+            "id": 43,
+            "content": "...significa que somos uma relação que, ao se cruzar daqui em diante, apontará as armas um contra o outro."
+        },
+        {
+            "id": 44,
+            "content": "Com certeza ele há de ter pensado isso, mas Yi Sang engoliu as palavras e apenas soltou um pequeno suspiro."
+        },
+        {
+            "id": 45,
+            "model": "홍루",
+            "content": "É que os laços são uma coisa que se transforma assim, ao seu bel-prazer."
+        },
+        {
+            "id": 46,
+            "place": "Elevador de Estilo Antigo",
+            "content": "Junto com as palavras um tanto solitárias de Hong Lu, nós entramos num elevador imenso, de quatro colunas."
+        },
+        {
+            "id": 47,
+            "content": "The lift rises ploddingly."
+        },
+        {
+            "id": 48,
+            "content": "Olhando para baixo, os participantes que ainda não tinham embarcado num elevador, e, ao mesmo tempo, os participantes que não sabiam pelo que iriam passar ao logo se confrontarem conosco, nos fitavam."
+        },
+        {
+            "id": 49,
+            "model": "설반",
+            "content": "Jia Baoyu!"
+        },
+        {
+            "id": 50,
+            "model": "설반",
+            "content": "Você jamais vai conseguir sair vivo deste lugar!"
+        },
+        {
+            "id": 51,
+            "model": "설반",
+            "content": "Nós, apostando a vida, vamos cortar o seu pescoço, maldito!"
+        },
+        {
+            "id": 52,
+            "content": "Ouve-se o grito enfurecido de alguém. O elevador, indiferente, continuou a subir."
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "content": "Young Hong Lu..."
+        },
+        {
+            "id": 54,
+            "model": "돈키호테",
+            "content": "Os que iremos encontrar daqui em diante são todos malfeitores?"
+        },
+        {
+            "id": 55,
+            "model": "홍루",
+            "content": "Hum... para aqueles ali, somos nós os malfeitores."
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "Sendo assim, para nós também, eles seriam malfeitores? Hehe, é uma distinção sem sentido."
+        },
+        {
+            "id": 57,
+            "model": "이스마엘",
+            "content": "O que é certo é que... entre os que vamos encontrar daqui em diante..."
+        },
+        {
+            "id": 58,
+            "model": "이스마엘",
+            "content": "...não há coisa tão sem sentido quanto distinguir inimigo de aliado."
+        },
+        {
+            "id": 59,
+            "content": "Por fim, o elevador, como se tivesse chegado ao destino final, foi diminuindo a velocidade aos poucos."
+        },
+        {
+            "id": 60,
+            "place": "Algum Lugar de Hongwon",
+            "content": "O que se estendeu diante dos olhos foi, apesar de ser dentro de Hongwon, um céu azul decorado como se fosse o exterior."
+        },
+        {
+            "id": 61,
+            "content": "E, sob ele, a entrada de um edifício imenso... onde uma iluminação vermelha piscava, criando um clima agourento."
+        },
+        {
+            "id": 62,
+            "model": "이스마엘",
+            "content": "Para decorar este espaço amplo como se fosse o exterior de um edifício, afinal... ha, quanto dinheiro não terão despejado nisto."
+        },
+        {
+            "id": 63,
+            "model": "가원춘",
+            "content": "Family Hierarch Evaluations round 2."
+        },
+        {
+            "id": 64,
+            "content": "De um alto-falante, junto com um chiado, ouviu-se a voz de alguém, e..."
+        },
+        {
+            "id": 65,
+            "model": "가원춘",
+            "content": "... Begins now."
+        },
+        {
+            "id": 66,
+            "content": "...a porta do elevador que nos transportara se fechou por completo."
+        },
+        {
+            "id": 67,
+            "model": "홍루",
+            "content": "Ah... agora eu sei que lugar é este."
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "content": "You've been here before?"
+        },
+        {
+            "id": 69,
+            "model": "홍루",
+            "content": "... This place is~"
+        },
+        {
+            "id": 70,
+            "model": "홍루",
+            "content": "É o terreno da antiga Firma H, que a casa Gong administrava antigamente."
+        },
+        {
+            "id": 71,
+            "model": "홍루",
+            "content": "Há de ser um lugar onde as feridas daquela época ainda não cicatrizaram por completo, e, agora, será que sangue novo vai recobri-lo de novo?"
+        },
+        {
+            "id": 72,
+            "place": "-1",
+            "content": "Um espaço agitado, em meio a uma multidão incontável."
+        },
+        {
+            "id": 73,
+            "content": "Será que Hong Lu continua sorrindo com o mesmo aspecto do início?"
+        },
+        {
+            "id": 74,
+            "content": "O Hong Lu que eu fitei, erguendo a cabeça..."
+        },
+        {
+            "id": 75,
+            "content": "...com um aspecto muito mais jovem que o de agora."
+        },
+        {
+            "id": 76,
+            "content": "...estava com uma expressão imersa numa profunda angústia, como se fosse chorar."
+        }
+    ]
+}

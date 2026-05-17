@@ -1,0 +1,495 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Quarto Pessoal do Dante",
+            "model": "파우스트",
+            "content": "Então, que tal encerrarmos por aqui, Dante?"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Hmm… vamos fazer isso então.>"
+        },
+        {
+            "id": 2,
+            "content": "Embora eu também entreviste os Pecadores por necessidade, é claro que existem, à parte, entrevistas regulares."
+        },
+        {
+            "id": 3,
+            "content": "Como o conteúdo da entrevista é óbvio — recitar uma lista entediante como nenhuma, do tipo 'como vão as coisas ultimamente', 'há alguma oscilação de emoções' —, em geral ela acaba degenerando para o rumo de uma conversa fiada, mas..."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Bom… não há nenhum problema em particular, né?>"
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "Pelo que Faust pensa, é isso."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Embora, em cada entrevista, se observe um crescimento contínuo, no momento atual não há nada que tenha decaído, nem nenhum ponto problemático enquanto Gerente."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<Que bom…>"
+        },
+        {
+            "id": 8,
+            "content": "A última vez da entrevista é sempre Faust e, quando a entrevista de Faust termina, Faust me entrevista."
+        },
+        {
+            "id": 9,
+            "content": "Por ser o único momento em que eu posso, sem cerimônia, pôr para fora aquilo que me atormenta e refletir sobre uma solução, é também um momento importante para mim."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Sim. Não há algo mais que o senhor queira saber?"
+        },
+        {
+            "id": 11,
+            "content": "Enquanto eu, arrumando os documentos espalhados sobre a mesa, ouvia a voz de Faust, de súbito chamou-me a atenção um calendário pousado a um canto."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Agora que penso… logo vem aquilo.>"
+        },
+        {
+            "id": 13,
+            "model": "파우스트",
+            "content": "...Se o senhor diz que é isso."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<É sobre a Noite de Valpúrgis. É que pareceu ser um ciclo mais ou menos deste tamanho...>"
+        },
+        {
+            "id": 15,
+            "content": "O ciclo em si é curto, e como parece chegar de uns dias em uns dias, eu até me pergunto se é mesmo tão raro... mas, de algum modo, é como se uma intuição me viesse de leve."
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "Pelo visto o senhor encontrou uma regularidade, à sua maneira, Dante."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Mas... a Noite de Valpúrgis ocorre puramente por acaso, e mais nada. Não existe regra."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Ã, é mesmo…?>"
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Ainda assim, pela intuição, está quase... parece que de verdade não falta muito.>"
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "A Faust compreende que a sua intuição, Dante, às vezes ultrapassa a lógica e a compreensão e extrai resultados excelentes."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Mas, ainda assim, prever uma ordem que, para começar, nunca se estabeleceu..."
+        },
+        {
+            "id": 22,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 23,
+            "content": "Sobre as palavras de Faust, que falava chegando a esboçar um leve sorriso, uma luz verde e um som de alarme familiar ressoaram com estardalhaço."
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Faust? Você não ia dizer mais alguma coisa?>"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "…A incerteza é coisa prazerosa, Dante."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<Não é uma expressão que pareça alegre, mas...>"
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Vamos ao banco do motorista."
+        },
+        {
+            "id": 28,
+            "content": "...Faust, terminada a fala, abriu a porta às pressas e saiu."
+        },
+        {
+            "id": 29,
+            "content": "Pouco depois…"
+        },
+        {
+            "id": 30,
+            "place": "???",
+            "model": "로쟈",
+            "content": "Desta vez é outro lugar curioso... parece também um pouco com... uma prisão?"
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "O ar está meio acre... é um subsolo?"
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "E olha que eu achava que a gente ia poder visitar de novo a sede da Firma L."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Hum... eu acho que, provavelmente, na próxima Noite de Valpúrgis vai ser a sede da Firma L.>"
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Hã? Como é que você...?"
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<É que a ordem parece ser uma vez de cada. Eu acho que, provavelmente, este lugar é dentro de um livro da Biblioteca... acho.>"
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<O que você acha? Faust?>"
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "...Eu já disse agora há pouco, mas a Noite de Valpúrgis ocorre por uma coincidência..."
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "Que que ela tá dizendo... para de ficar falando coisa que ninguém entende e responde logo o que perguntaram, ué?"
+        },
+        {
+            "id": 39,
+            "model": "오티스",
+            "content": "A resposta a um superior, com a conclusão à frente. Não é mais eficiente assim?"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "...Sim, este lugar parece ser um acontecimento da época em que a Biblioteca existia."
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "Apenas, este lugar não parece ser um lugar de enfrentar uma Abnormalidade que existe dentro de um livro, como antes."
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "content": "Hã? Então…"
+        },
+        {
+            "id": 43,
+            "model": "오티스",
+            "content": "Espera, psiu…"
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "Ouve-se um som de vozes à frente."
+        },
+        {
+            "id": 45,
+            "content": "Quando o som das vozes de todos diminuiu, do fim de um corredor um pouco afastado veio um som de burburinho."
+        },
+        {
+            "id": 46,
+            "place": "Casa de Reunião do Culto da Engrenagem",
+            "model": "파우스트",
+            "content": "...Este lugar parece ser o local de reunião de uma religião emergente que, no passado, se chamava Culto da Engrenagem."
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "Seita… da Engrenagem?"
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "content": "Eles adoram engrenagens...? O valor sagrado do trabalho... tipo, uma coisa assim?"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "…Um instante."
+        },
+        {
+            "id": 50,
+            "content": "Faust, fitando o vazio e piscando os olhos, então, como quem percebeu algo, voltou a nos falar, prosseguindo."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "A orientação é um pouco diferente. Eles consideram a si mesmos, vivendo na Cidade, como engrenagens, e..."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "...são gente que acredita que a infelicidade de agora surge porque pertencem a um outro lugar... hum, e não à posição em que originalmente deveriam estar."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "…No momento, a opinião de Faust é a seguinte."
+        },
+        {
+            "id": 54,
+            "content": "Será que ela está verificando a informação da Gesellschaft de que falou antes?"
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Bom... não me parece uma coisa tão errada, não? O povo da Cidade que vive com um emprego que não combina com ele tem aos montes."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Pode-se sentir assim também."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Apenas, os leigos chamados engrenagens de carne reverenciarem a 'engrenagem composta de corpos humanos', chamada engrenagem de pensamento, e remexerem o próprio cérebro..."
+        },
+        {
+            "id": 58,
+            "model": "로쟈",
+            "content": "Pa-para... para com isso."
+        },
+        {
+            "id": 59,
+            "model": "로쟈",
+            "content": "Pois é, não hão de ser gente no juízo perfeito~ que expectativa foi essa que eu criei..."
+        },
+        {
+            "id": 60,
+            "content": "Rodya, como quem ia vomitar a qualquer instante, tapou a boca e sacudiu a cabeça de um lado para o outro."
+        },
+        {
+            "id": 61,
+            "model": "히스클리프",
+            "content": "Enfim... e então, o que é que a gente tem de fazer?"
+        },
+        {
+            "id": 62,
+            "model": "히스클리프",
+            "content": "É só pegar e moer todos aqueles malucos, e pronto?"
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "Hm..."
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "Onde está definido o fim deste 'cenário', isso ainda não se pode saber."
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Apenas, como em geral foi feito assim, desta vez também não há de ser diferente."
+        },
+        {
+            "id": 66,
+            "model": "이상",
+            "content": "Um momento... que história é essa de cenário?"
+        },
+        {
+            "id": 67,
+            "content": "Isso também me incomoda um pouco…"
+        },
+        {
+            "id": 68,
+            "model": "파우스트",
+            "content": "Isto... ainda é uma espécie de hipótese, mas: no instante em que nós, em algum ponto, atingimos o objetivo que o cenário definiu... voltamos para o corredor do ônibus."
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "E, pelo fato de o conteúdo do ponto de início até o ponto de fim ser sempre o mesmo, como se houvesse um reset, eu conjeturo que 'estamos percorrendo uma volta de um conteúdo predeterminado'."
+        },
+        {
+            "id": 70,
+            "model": "파우스트",
+            "content": "Como existe também, com frequência, na porta traseira do ônibus... a sala em que um trecho específico se repete, e até a sala que se repete até que se cumpra uma certa condição, isso tecnicamente também não é impossível."
+        },
+        {
+            "id": 71,
+            "model": "이상",
+            "content": "Hum. Pensando bem, parece que, mesmo travando o combate de maneiras um pouco diferentes, no fim o resultado sempre desembocava numa coisa só."
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "content": "Sei...! Com certeza, a senhorita Faust também disse antes que, embora as ações feitas na Noite de Valpurguís sejam coisas de um ponto no passado, elas não chegam a se refletir na história. Não é mesmo?"
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "Isso mesmo. Isso também corrobora a hipótese do cenário."
+        },
+        {
+            "id": 74,
+            "model": "싱클레어",
+            "content": "En... então, mesmo se a gente ferir aqueles senhores fiéis, eles não morrem de verdade, é isso...?"
+        },
+        {
+            "id": 75,
+            "model": "오티스",
+            "content": "Você ainda não conseguiu se livrar desse coração mole... maldito."
+        },
+        {
+            "id": 76,
+            "model": "싱클레어",
+            "content": "M-mas atacar de repente alguém que fala como gente, sem nem conhecer as circunstâncias... isso me pesa um pouco no coração."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Eu entendo a intenção da pergunta. Sim, é isso mesmo."
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "Phew..."
+        },
+        {
+            "id": 79,
+            "teller": "???",
+            "title": "???",
+            "content": "Alô, alô, ei. Vocês estão ouvindo, não?"
+        },
+        {
+            "id": 80,
+            "content": "Naquele momento, uma voz desconhecida nos dirigiu a palavra num sussurro."
+        },
+        {
+            "id": 81,
+            "model": "이스마엘",
+            "content": "Q-quem é?"
+        },
+        {
+            "id": 82,
+            "model": "그레고르",
+            "content": "O que é isto, desde quando tem uma coisa dessas grudada na minha orelha...?"
+        },
+        {
+            "id": 83,
+            "content": "Só então, ao verificar os Pecadores, pude perceber que algo como um pequeno transmissor estava encaixado numa das orelhas de todos."
+        },
+        {
+            "id": 84,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Que baboseira é essa...?! Eu, Stefan! Vocês não vão prestar atenção direito?"
+        },
+        {
+            "id": 85,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Originalmente era um trabalho do nosso escritório, e a gente, de olhos marejados, terceirizou para vocês porque disseram que vocês são muito mais especializados num ataque-surpresa destes!"
+        },
+        {
+            "id": 86,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Façam direito... ou vocês estão fazendo birra porque a gente fica com nada menos que 60% do pagamento?"
+        },
+        {
+            "id": 87,
+            "model": "파우스트",
+            "content": "...Sei. Pelo visto, neste cenário, nos foi atribuído um papel destes."
+        },
+        {
+            "id": 88,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Que o Culto da Engrenagem é uma corja de doidos, todo mundo pensa mais ou menos igual, mas... não tragam esse tipo de emoção para dentro da missão."
+        },
+        {
+            "id": 89,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Entenderam? Este é um trabalho que o chefe de seção Eugene, da 2ª Seção da Associação Si, encarregou. O líder do culto tem de ser capturado vivo, sem falta."
+        },
+        {
+            "id": 90,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Só assim a gente vai poder receber por inteiro aquele pagamento descomunal... eu confio em vocês, viu?"
+        },
+        {
+            "id": 91,
+            "model": "오티스",
+            "content": "Ei, qual é o aspecto do líder do culto?"
+        },
+        {
+            "id": 92,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "...Vocês endoidaram, é? Vocês se infiltraram sem nem ler o documento que a gente mandou?"
+        },
+        {
+            "id": 93,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Haa... ou não. Vendo que vocês fazem uma infiltração silenciosa destas sem nem aquele documento, vocês devem ser só uns veteranos mesmo..."
+        },
+        {
+            "id": 94,
+            "model": "오티스",
+            "content": "Não há motivo para negar o título de veterano."
+        },
+        {
+            "id": 95,
+            "teller": "Stefan",
+            "title": "???",
+            "content": "Bom, tá... dá pra ver de cara que ele parece o líder do culto mesmo. Porque ele tem um véu no rosto e uma engrenagem grande cravada na cabeça."
+        },
+        {
+            "id": 96,
+            "model": "뫼르소",
+            "content": "Pelo visto, foi apreendida a informação capaz de identificá-lo."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<Certo… então.>"
+        },
+        {
+            "id": 98,
+            "content": "Vamos lá."
+        }
+    ]
+}

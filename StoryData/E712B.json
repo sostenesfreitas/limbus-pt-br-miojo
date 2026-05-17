@@ -1,0 +1,342 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "호엔하임",
+            "content": "Como parece que o reparo terminou, Pecadores, reúnam-se aqui."
+        },
+        {
+            "id": 1,
+            "content": "Hohenheim, depois de pôr os Pecadores numa fila, falou."
+        },
+        {
+            "id": 2,
+            "model": "호엔하임",
+            "content": "Pois bem, o exame terminou todo."
+        },
+        {
+            "id": 3,
+            "model": "호엔하임",
+            "content": "Com isto, ficou possível comparar de modo significativo os dados de antes do ingresso de vocês com o estado de agora."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Isso quer dizer, ou seja…"
+        },
+        {
+            "id": 5,
+            "model": "호엔하임",
+            "content": "Sim, foi possível medir até os atributos de combate de cada um de antes do ingresso."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Ohh... e qual é o resultado?"
+        },
+        {
+            "id": 7,
+            "model": "호엔하임",
+            "content": "Eu vou dizer antes: enumerar isso, na verdade, não tem grande sentido. Como vocês sabem, todos não têm como não estar num estado mais ou menos parecido, e..."
+        },
+        {
+            "id": 8,
+            "model": "후디히스",
+            "content": "Tem sentido sim! A gente tem de saber quem é o verdadeiro mano!"
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "É apenas uma hipótese, mas, quando o Gerente vier a se ausentar por uma circunstância inevitável, não é preciso verificar quem teria a qualificação de conduzir os Pecadores?!"
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<I-isso é…>"
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "Eu não dou ouvidos ao que dizem os mais fracos do que eu."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Hum... eu ter ficado com o primeiro lugar na ordem das apresentações talvez não tenha sido por acaso..."
+        },
+        {
+            "id": 13,
+            "content": "Uma curiosidade intensa de querer verificar a classificação original vai se espalhando entre os Pecadores."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<E-eu também, antes de perder a memória, talvez…>"
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "content": "Isto não é moda."
+        },
+        {
+            "id": 17,
+            "model": "호엔하임",
+            "content": "...Seja qual for o grupo, sempre há o desejo de querer comparar a hierarquia."
+        },
+        {
+            "id": 18,
+            "model": "호엔하임",
+            "content": "Se esse desejo se exprime de modo errado, nos tempos de estudante ele leva até ao ato de roubar e comer a marmita dos outros ao seu bel-prazer. Só pela razão de a pessoa ter tirado uma nota mais alta que você."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Não me diga que é um relato de experiência própria...?"
+        },
+        {
+            "id": 20,
+            "model": "호엔하임",
+            "content": "E assim eu pensei que esconder esse resultado de vocês não teria sentido."
+        },
+        {
+            "id": 21,
+            "model": "호엔하임",
+            "content": "Como falar comprido também é incômodo, é só considerarem que a ordem em que eu pus vocês é essa classificação."
+        },
+        {
+            "id": 23,
+            "content": "Num instante, um silêncio se acumulou sobre todos os Pecadores enfileirados, e..."
+        },
+        {
+            "id": 24,
+            "content": "...ao mesmo tempo, o olhar foi para uma figura que estava de pé bem à frente."
+        },
+        {
+            "id": 25,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "content": "Eu afirmo categoricamente: aquele silêncio do momento há de ter sido o mais longo e, ao mesmo tempo, o mais pesado de todos os silêncios que vivenciei até agora."
+        },
+        {
+            "id": 27,
+            "model": "이상",
+            "content": "Hum-hum…"
+        },
+        {
+            "id": 28,
+            "model": "이상",
+            "content": "Eu tentei não revelar muitas coisas, e quis dar a saber que o que se vê por fora não é tudo."
+        },
+        {
+            "id": 29,
+            "model": "이상",
+            "content": "E, além disso, como eu tenho uma fartura dentro do coração... a prova de hoje, parece, mostrou as duas coisas em conjunto."
+        },
+        {
+            "id": 30,
+            "model": "이상",
+            "content": "A explicação afora isso… é tudo o que tenho a dizer."
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "Hã… senhor Yi Sang…"
+        },
+        {
+            "id": 32,
+            "model": "이상",
+            "content": "Eu desejo que um dia vós também... ganheis asas."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Senhor Yi Sang... isto... parece que a ordem está ao contrário..."
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "Ah, é que eu enumerei na ordem vista do meu ponto de vista."
+        },
+        {
+            "id": 35,
+            "model": "호엔하임",
+            "content": "Visto deste lado, o Pecador que segura aquela lança grande aparece bem à frente."
+        },
+        {
+            "id": 36,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "Foram palavras esplêndidas, isso foram. Vamos ter... ânimo juntos, senhor Yi Sang..."
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "I-isto, francamente... que vergonha... hum... se vocês me fitam fervorosamente, todos assim..."
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "Não é fervorosamente, e sim... como dizer, com aflição?"
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "…Eu vou tomar cuidado…"
+        },
+        {
+            "id": 42,
+            "content": "Talvez por causa do incidente de agora há pouco, já não havia Pecadores que questionassem o resultado."
+        },
+        {
+            "id": 43,
+            "model": "오티스",
+            "content": "Repensando, parece que vai ser bom confiar o comãndo... à Ishmael... àquela ali, do jeito que vinha sendo feito até agora."
+        },
+        {
+            "id": 44,
+            "content": "Outis, cerrando os dentes, prosseguiu a custo."
+        },
+        {
+            "id": 47,
+            "model": "돈키호테",
+            "content": "Eu concordo — também para mim, mais do que a chefe, o Solucionador que protege a chefe! Um papel desses me parece melhor! Desde tempos antigos, um personagem desses costuma ser mais popular."
+        },
+        {
+            "id": 50,
+            "model": "호엔하임",
+            "content": "Ainda bem que se chegou a um acordo de modo pacífico. Então, que tal passarmos à etapa seguinte?"
+        },
+        {
+            "id": 51,
+            "model": "그레고르",
+            "content": "Espera…"
+        },
+        {
+            "id": 52,
+            "model": "그레고르",
+            "content": "Vocês não estavam deixando passar uma coisa importante?"
+        },
+        {
+            "id": 53,
+            "model": "로쟈",
+            "content": "É da natureza do mundo a gente só precisar lembrar do primeiro e do último lugar, Greg... eu também já nem lembro qual era a minha colocação..."
+        },
+        {
+            "id": 54,
+            "model": "그레고르",
+            "content": "Não, não é isso…"
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "E olha que eu nem sequer estava na classificação..."
+        },
+        {
+            "id": 56,
+            "model": "로쟈",
+            "content": "Eh, foi?"
+        },
+        {
+            "id": 57,
+            "model": "후디히스",
+            "content": "Que isso, são 12, e você fica averiguando um por um? É só passar adiante."
+        },
+        {
+            "id": 58,
+            "model": "그레고르",
+            "content": "N-não, por mais que seja... e logo me descartar assim, feito uma mosquinha incômoda..."
+        },
+        {
+            "id": 59,
+            "model": "이스마엘",
+            "content": "Bom, há de ser um nível parecido com o meu ou o do senhor Heathcliff."
+        },
+        {
+            "id": 60,
+            "content": "Ishmael, que parecia ter perdido todo o interesse, respondeu de modo indiferente."
+        },
+        {
+            "id": 61,
+            "model": "호엔하임",
+            "content": "Ah, então você é o Pecador que tem aquele braço de inseto singular."
+        },
+        {
+            "id": 62,
+            "model": "호엔하임",
+            "content": "Quanto a você, eu não tive como não usar aquela palavra que os pesquisadores mais detestam."
+        },
+        {
+            "id": 63,
+            "model": "호엔하임",
+            "content": "Exceptions."
+        },
+        {
+            "id": 64,
+            "model": "마튼",
+            "content": "Ugh…"
+        },
+        {
+            "id": 65,
+            "model": "알리사",
+            "content": "Ughh…"
+        },
+        {
+            "id": 66,
+            "model": "이상",
+            "content": "Mmmhhhh…"
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Pelo visto ele detesta mesmo...>"
+        },
+        {
+            "id": 69,
+            "model": "호엔하임",
+            "content": "Ou seja, por estar num estado em que não se pode enumerar a classificação de modo precipitado, eu não o incluí na classificação."
+        },
+        {
+            "id": 70,
+            "model": "호엔하임",
+            "content": "Digamos que é um estado de quem tem potencial."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "Esse... potencial, bastando ele se exprimir bem, dá para virar 1º lugar?"
+        },
+        {
+            "id": 72,
+            "model": "호엔하임",
+            "content": "Pode-se tornar o contrário, também. Pois é apenas um potencial."
+        },
+        {
+            "id": 73,
+            "model": "이상",
+            "content": "Não se preocupe demais, senhor Gregor. Pois a hora há de chegar um dia."
+        },
+        {
+            "id": 74,
+            "model": "그레고르",
+            "content": "E logo ouvir um consolo de quem ficou em último — o sentimento é, francamente, meio... esquisito..."
+        }
+    ]
+}

@@ -1,0 +1,777 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A Torre Do Relógio",
+            "model": "다친시간살인마변신",
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "\"Se eu apenas tivesse mais 10 minutos...! Não, um minuto não, alguns segundos já servia...!\""
+        },
+        {
+            "id": 2,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "\"Eu poderia ter mudado muito mais se apenas tivesse mais tempo...!\""
+        },
+        {
+            "id": 3,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "... Ou era assim que eu pensava, antigamente."
+        },
+        {
+            "id": 4,
+            "model": "다친시간살인마변신",
+            "content": "En...tão..."
+        },
+        {
+            "id": 5,
+            "model": "다친시간살인마변신",
+            "content": "O que... você fez...? Você... ao menos tentou mudar... algo...?"
+        },
+        {
+            "id": 6,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Acredite ou não..."
+        },
+        {
+            "id": 7,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu sou o catalisador de cada mudança que vê ao seu redor."
+        },
+        {
+            "id": 8,
+            "model": "다친시간살인마변신",
+            "content": "……."
+        },
+        {
+            "id": 9,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu sei, eu sei. Eu sei qual é a verdadeira pergunta.\"O que mudou?!\", não é? Afinal, no fim do dia, este local não se tornou diferente dos outros terríveis Ninhos. Há tanta dor aqui... como em qualquer outro lugar da Cidade."
+        },
+        {
+            "id": 10,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Então... ouça-me, com atenção. Pois há apenas uma maneira de realmente se livrar do sofrimento."
+        },
+        {
+            "id": 11,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Parando o tempo."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Parando o tempo...?>"
+        },
+        {
+            "id": 13,
+            "content": "A expressão do nosso Assistente se tornou amargurada. Sem nada a elaborar."
+        },
+        {
+            "id": 14,
+            "content": "Bem, não é como se ele pudesse me entender. E os Pecadores estavam muito ocupados se concentrando no Estripador Temporal para transmitir minha pergunta."
+        },
+        {
+            "id": 15,
+            "content": "Como sempre, a unidade de operações especiais LCA chegou e discutiu algumas coisas com o funcionário..."
+        },
+        {
+            "id": 16,
+            "content": "Rotulado de Estripador Temporal, uma Distorção, com um código de classificação complicado..."
+        },
+        {
+            "id": 17,
+            "content": "... e foi assim que o Caso do Tempo de Matar Tempo finalizou."
+        },
+        {
+            "id": 18,
+            "content": "Mas..."
+        },
+        {
+            "id": 19,
+            "place": "Fábrica de Relógios da T Corp.",
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Olha só, estou feliz que finalmente pegaram o infrator-uh~"
+        },
+        {
+            "id": 20,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Ahá, contemple -ah! Meu retrato está finalmente completo -uh~ Não é maravilhoso -ah?"
+        },
+        {
+            "id": 21,
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Tão devagar, galera-uh! Vamos deixar de preguiça e começar a trabalhar, sim-ah? Cho chop-uh~"
+        },
+        {
+            "id": 22,
+            "content": "Aquilo que nosso assistente disse bem mais cedo... Estava certo. A T Corp. Não mudou, nem um pouquinho."
+        },
+        {
+            "id": 23,
+            "place": "Escritório local de Coleta de Tempo",
+            "model": "탐정로쟈",
+            "content": "Por quê você... Se voluntariou para servir de isca pro Estripador, Hong Lu?"
+        },
+        {
+            "id": 24,
+            "model": "탐정로쟈",
+            "content": "E-eu vou ser honesta. Eu tava assustada para caramba. Na hora que eu comecei a pensar sobre como meu próprio tempo poderia só... Ser arrancado de mim, eu..."
+        },
+        {
+            "id": 25,
+            "model": "탐정홍루",
+            "content": "Eu... Apenas queria compreender."
+        },
+        {
+            "id": 26,
+            "model": "탐정홍루",
+            "content": "Porque, para mim, o mundo estava cheio de coisas que eu não conseguia compreender."
+        },
+        {
+            "id": 27,
+            "model": "탐정홍루",
+            "content": "Na verdade, ainda entendo muito pouco disso. Por quê as pessoas se apegam tão desesperadamente a algo como o Tempo? Algo tão.... Efêmero."
+        },
+        {
+            "id": 28,
+            "model": "탐정로쟈",
+            "content": ".... Sim?"
+        },
+        {
+            "id": 29,
+            "model": "탐정홍루",
+            "content": "Mas... Eu sei de uma coisa."
+        },
+        {
+            "id": 30,
+            "model": "탐정홍루",
+            "content": "Você entendeu o culpado, Rodya. Não foi somente o medo que te segurou."
+        },
+        {
+            "id": 31,
+            "model": "탐정홍루",
+            "content": "Enquanto havia algum medo, um lado diferente de você sentiu que poderia entendê-lo. Foi isso que segurou sua mão."
+        },
+        {
+            "id": 32,
+            "model": "탐정로쟈",
+            "content": "Como... Como você sabe disso?"
+        },
+        {
+            "id": 33,
+            "model": "탐정홍루",
+            "content": "Observando você, Rodya, me lembrou do porquê eu não resisti quando meus irmãos tentaram me matar pela primeira vez."
+        },
+        {
+            "id": 34,
+            "model": "탐정홍루",
+            "content": "Eu não apenas estava assustado."
+        },
+        {
+            "id": 35,
+            "model": "탐정홍루",
+            "content": "Eu senti como se... Eu pudesse entendê-los. "
+        },
+        {
+            "id": 36,
+            "model": "탐정료슈",
+            "content": "Quando o medo cresce tanto que acaba voltando de volta a suas origens."
+        },
+        {
+            "id": 37,
+            "model": "탐정료슈",
+            "content": "Esse momento é tão precioso e tão... Lindo."
+        },
+        {
+            "id": 38,
+            "teller": "Repórter da T Corp.",
+            "title": "T Corp.",
+            "content": "Beleza, rapazes e moçoilas. Reúnam-se!"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Ohhh... Ooooohhh....!"
+        },
+        {
+            "id": 40,
+            "teller": "Repórter da T Corp.",
+            "title": "T Corp.",
+            "content": "Nós faremos uma reportagem especial sobre as pessoas que tiveram o maior papel na solução do caso do \"Tempo de Matar Tempo\". E para isso, adoraríamos tirar uma foto em grupo. Estaria tudo bem para vocês, detetives às?"
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "Qu- quê dia mais auspicioso é esse!"
+        },
+        {
+            "id": 42,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 43,
+            "model": "단테",
+            "content": "<qual o motivo desse rosto amargurado, Rodya? Tá tudo bem?>"
+        },
+        {
+            "id": 44,
+            "model": "탐정로쟈",
+            "content": "Ha ha... Eu não sei nem se mereço aparecer nessa foto."
+        },
+        {
+            "id": 45,
+            "model": "탐정로쟈",
+            "content": "Eu realmente não conseguir fazer nada lá, não é?"
+        },
+        {
+            "id": 46,
+            "model": "탐정홍루",
+            "content": "Mas Rodya, nós eventualmente pegamos o culpado, não foi~? Isso só foi possível pois trabalhamos em equipe!"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Eu diria que todos fizeram um excelente trabalho lá. Rodya, Hong Lu, Ryōshū, todos os três... Ótimo trabalho.>"
+        },
+        {
+            "id": 48,
+            "model": "탐정로쟈",
+            "content": "Você quis dizer Hong Lu e Ryōshū. Eu só me acovardei assim que fiquei cara a cara com o culpado... Eu fui ridícula."
+        },
+        {
+            "id": 49,
+            "model": "탐정홍루",
+            "content": "Bom, dizem que todos os grandes detetives estão cercados de grandes assistentes."
+        },
+        {
+            "id": 50,
+            "model": "탐정로쟈",
+            "content": "Haha, que engraçado. Isso foi algo que essa \"Senhora Agatha\" disse?"
+        },
+        {
+            "id": 51,
+            "model": "탐정홍루",
+            "content": "Não, eu disse isso. Agorinha mesmo."
+        },
+        {
+            "id": 52,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 53,
+            "model": "탐정료슈",
+            "content": "Eu sou a única que tem permissão pra fazer esse R.A."
+        },
+        {
+            "id": 54,
+            "model": "탐정료슈",
+            "content": "Sorria, detetive."
+        },
+        {
+            "id": 55,
+            "model": "탐정로쟈",
+            "content": "Ha.... Ha ha..."
+        },
+        {
+            "id": 56,
+            "teller": "Repórter da T Corp.",
+            "title": "T Corp.",
+            "content": "Certo, podemos nos aproximar um pouquinho mais?"
+        },
+        {
+            "id": 57,
+            "model": "탐정로쟈",
+            "content": "... Que direito eu tinha de parar aqueles que estavam lutando para mudar as coisas, não importa o quão pequenas..."
+        },
+        {
+            "id": 58,
+            "model": "탐정로쟈",
+            "content": "... Quando eu nem sequer fiz nada."
+        },
+        {
+            "id": 59,
+            "content": "Parecia que eu fui a única pessoa que a ouviu sussurrar. "
+        },
+        {
+            "id": 60,
+            "teller": "Repórter da T Corp.",
+            "title": "T Corp.",
+            "content": "Certo, então! Um... Dois..."
+        },
+        {
+            "id": 61,
+            "model": "돈키호테",
+            "content": "Aguarde, Aguardeeee!"
+        },
+        {
+            "id": 62,
+            "content": "Click!"
+        },
+        {
+            "id": 63,
+            "place": "Becos da T Corp.",
+            "model": "마이",
+            "teller": "Mai",
+            "title": "T Corp.",
+            "content": "Chefe Diretor Executivo, está na hora."
+        },
+        {
+            "id": 64,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Ah, Mai. Obrigado por me emprestar suas roupas. Eu tive a certeza de não deixar um grãozinho de poeira cair sobre elas, então você não precisa se preocupar com ter que lavá-las na máquina."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "Chefe Diretor Executivo...? Quando que ele...>"
+        },
+        {
+            "id": 66,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Já faz tanto tempo desde que tive um dia tão emocionante. Obrigado, Troféu de Participação."
+        },
+        {
+            "id": 67,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Eu apenas gosto de experimentar como é o lado de fora do prédio da empresa de vez em quando, sabe?"
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Ele não deveria estar nos agradecendo por resolver o caso, ao invés de... Você sabe...>"
+        },
+        {
+            "id": 69,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Hmm~ Vamos ver. Considerando seus comandos deveras competentes no campo de batalha, e essa sua habilidade especial, talvez você possa até mesmo conseguir o Troféu \"Esplen—\", não. Talvez você conseguisse o Troféu \"Distinto\" ao invés, já que você não pode explicar o mecanismo por detrás de seus próprios poderes. Seu relógio parece ser bem especial, mas o tempo que flui através dele não parece diferente do conceito de tempo com o qual estou acostumado."
+        },
+        {
+            "id": 70,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Bom, eu não tenho nenhum prêmio em dinheiro para entregar, mas... Permita-me lhes dar uma pequena dica no lugar.\nLembre-se. Usar o poder do Tempo vem com um custo. Sempre. É algo que vem me perturbando também."
+        },
+        {
+            "id": 71,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Oh, e outra coisa pela qual eu deveria te agradecer."
+        },
+        {
+            "id": 72,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Meu sonho voltou a fluir novamente."
+        },
+        {
+            "id": 73,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "No dia em que me aventurei até a borda e desejei algo a uma estrela, eu pensei que meu sonho havia acabado alí, para nunca mais fluir."
+        },
+        {
+            "id": 74,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Eu teria desejado por algo completamente diferente caso pudesse ter a chance de desejar novamente, mas... Eu acreditei que havia gasto minha única chance."
+        },
+        {
+            "id": 75,
+            "content": "Uma estrela... Eu não entendo o porque, mas a mera menção dela de repente me trouxe de volta as memórias da estrela que vi quando fiz o pacto com os Pecadores."
+        },
+        {
+            "id": 76,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Eu pensava que aquela estrela não poderia ser ligada novamente, que eu nunca mais voltaria no Tempo. Homens vis como eu sabem quando seus sonhos acabam. Quando não há mais um caminho para o sonho seguir."
+        },
+        {
+            "id": 77,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Mas eu estava enganado. Ali estava, rebobinando o tempo bem em frente aos meus olhos de uma forma que eu sequer poderia contemplar. Bom, é minha hipótese atual que você nas esteja esteja realmente*rebobinando* o tempo, mas um potencial continua sendo um potencial."
+        },
+        {
+            "id": 78,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "E aquela Distorção que rasga o Tempo... É outra prova de quê eu ainda não sei tudo oque há para saber sobre o tempo, ainda não."
+        },
+        {
+            "id": 79,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Então meu sonho, outrora parado como um lago, tornou-se selvagem como um rio corrente outra vez."
+        },
+        {
+            "id": 80,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Sua atitude indiferente e sem medo com relação ao Tempo? Também me deixou supreendido."
+        },
+        {
+            "id": 81,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Eu penso dia após dia sobre o quão indiferente é a natureza do Tempo; que ele continuará a correr e correr e correr mesmo após minha morte. E eu penso sobre como isso é tão, tão..."
+        },
+        {
+            "id": 82,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "... Aterrorizante."
+        },
+        {
+            "id": 83,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Eu tenho medo da morte, sim. Mas não estou interessado em pesquisas sobre a imortalidade. O fluxo do Tempo é o equivalente de mudanças constantes; aqueles que ousam trilhar a estrada para tentar iludir a morte e aniquilação irão em breve encontrar diante de si outra parede feita daquilo do que eles estevam fugindo em primeiro lugar."
+        },
+        {
+            "id": 84,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "O que deve-se fazer para conter a mudança quando a própria natureza da mudança em si está ligada a algo tão imutável quanto o fluxo do Tempo? É necessário parar o próprio Tempo, obviamente."
+        },
+        {
+            "id": 85,
+            "model": "진짜T사대표",
+            "teller": "Diretor Executivo?",
+            "title": "T Corp.",
+            "content": "Sim, de fato. Aí está a charada. Até que o Tempo em si pare de se mexer, toda mudança eventualmente se torna um enorme fluxo."
+        },
+        {
+            "id": 86,
+            "model": "단테",
+            "content": "<Eu estou com dificuldade em acompanhar sua linha de raciocínio...>"
+        },
+        {
+            "id": 87,
+            "model": "파우스트",
+            "content": "Dante disse que está com dificuldade em acompanhar sua linha de raciocínio."
+        },
+        {
+            "id": 88,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "Hum? Oh, aah, desculpa! Eu devo ter pensado alto. Entenda, é fácil se esquecer com quem você está falando quando o ouvinte não tem nada além de intermináveis Tiques e Taques para responder. Suponho que isso foi demais para um gerente de um negócio iniciante entender, não é?"
+        },
+        {
+            "id": 89,
+            "model": "파우스트",
+            "content": "Isto conclui o negócio referente ao Impostos Temporal de dez bilhões de Ahn?"
+        },
+        {
+            "id": 90,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "Hmm, vocês estão todos isentos. Vocês conseguem imaginar o que teria acontecido se um caso como esse não existisse para vocês resolverem? Podem acreditar que vocês quase tiveram que viver o resto de suas vidas esticando minúsculas quatro horas durante um dia inteiro? Inacreditável. Uma pequena soneca e você acordaria dois dias inteiros depois. Bom, isso é, se a lei de quatro-horas diárias sequer pudesse ser aplicada a vocês."
+        },
+        {
+            "id": 91,
+            "model": "파우스트",
+            "content": "Sim, é difícil de acreditar, mas eu entendo. Então..."
+        },
+        {
+            "id": 92,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "Ah, quase que me escapou da memória. Se lembra daquele catálogo de compras que a Limbus Company me entregou? Aquele \"Monólito\" alí... Realmente me chamou a atenção. Eu gostaria de comprá-lo. Tantos quanto você tiver no estoque."
+        },
+        {
+            "id": 93,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 94,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "Oba, uma venda feita. E foi bem carinha também. Quem sabe, talvez isso lhes dê aquela recomendação ou alguma coisa assim."
+        },
+        {
+            "id": 95,
+            "model": "파우스트",
+            "content": "... Entendido. Suas intenções de compra serão repassadas."
+        },
+        {
+            "id": 96,
+            "model": "베르길리우스",
+            "content": "O Monólito...? O que você está planejando fazer com—"
+        },
+        {
+            "id": 97,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "É um segredo. Coisas que ainda devem ser feitas precisam permanecer encobertas em corações sob esse céu sem estrelas."
+        },
+        {
+            "id": 98,
+            "model": "진짜T사대표",
+            "teller": "Chefe Executivo?",
+            "title": "T Corp.",
+            "content": "Vamos, Mai."
+        },
+        {
+            "id": 99,
+            "model": "마이",
+            "teller": "Mai",
+            "title": "T Corp.",
+            "content": "Sim, Diretor Herbert."
+        },
+        {
+            "id": 100,
+            "model": "베르길리우스",
+            "content": "Esta empresa está ficando cada vez mais bizarra, Senhorita Faust."
+        },
+        {
+            "id": 101,
+            "model": "베르길리우스",
+            "content": "Não apenas estamos fornecendo serviços de gerenciamento de Distorções, como também investindo na venda de artefatos como o Monólito?"
+        },
+        {
+            "id": 102,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 103,
+            "model": "베르길리우스",
+            "content": "E não acho que os Monólitos devem ser comprados ou vendidos tão facilmente. E os vejo como algo que devemos recuperar, não por a venda."
+        },
+        {
+            "id": 104,
+            "model": "베르길리우스",
+            "content": "Você entende as... Ramificações de vender artefatos que podem forçar uma Distorção, creio eu?"
+        },
+        {
+            "id": 105,
+            "model": "파우스트",
+            "content": "O mundo está repleto de tecnologias que são capazes de mutilar ou massacrar outros seres humanos."
+        },
+        {
+            "id": 106,
+            "model": "파우스트",
+            "content": "Nem todas elas começaram com a intenção de causar mal. Na verdade, a maioria começou como projetos altruístas para a melhora da humanidade."
+        },
+        {
+            "id": 107,
+            "model": "파우스트",
+            "content": "Em outras palavras... Depende."
+        },
+        {
+            "id": 108,
+            "model": "베르길리우스",
+            "content": "Você realmente acredita que isso é um assunto que você simplesmente pode deixar de lado com—"
+        },
+        {
+            "id": 109,
+            "model": "파우스트",
+            "content": "Vergilius."
+        },
+        {
+            "id": 110,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 111,
+            "model": "파우스트",
+            "content": "Você sabe o meu lugar. O seu também."
+        },
+        {
+            "id": 112,
+            "model": "파우스트",
+            "content": "Você tem noção de que não fomos providenciados com o luxo da escolha."
+        },
+        {
+            "id": 113,
+            "model": "베르길리우스",
+            "content": "Haah."
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "Nós dois iremos alcançar aquilo que desejamos. Isto é uma garantia."
+        },
+        {
+            "id": 115,
+            "model": "베르길리우스",
+            "content": "... Tá."
+        },
+        {
+            "id": 116,
+            "content": "Com essa conversa peculiar entre Faust e Vergilius, o ônibus parte rumo a outra viagem."
+        },
+        {
+            "id": 117,
+            "place": "A Bordo do Mefistófeles",
+            "model": "로쟈",
+            "content": "... Oooh~ você já está emoldurando? "
+        },
+        {
+            "id": 118,
+            "content": "Desde que voltamos ao ônibus, Rodya estava ocupada se mexendo entre os Pecadores, animadamente conversando sobre qualquer assunto que eles tivessem interesse."
+        },
+        {
+            "id": 119,
+            "model": "돈키호테",
+            "content": "Bastante... Bastante...! Ahá! Assim, esta conquista memorializada foi, por toda a eternidade que virá! "
+        },
+        {
+            "id": 120,
+            "model": "이상",
+            "content": "Ah, você tá pensando em exibir ela?"
+        },
+        {
+            "id": 121,
+            "content": "Em suas mãos está a notícia na qual aparecemos. Don Quixote dedicou uma quantia considerável de tempo e esforço para meticulosamente alisar os vincos, cobrindo-os com uma película fina, e a exibindo cuidadosamente em uma moldura."
+        },
+        {
+            "id": 122,
+            "content": "Mal podíamos dizer que era ela devido ao desfoque, mas... Ela aparentava estar muito feliz por ser parte da fotografia."
+        },
+        {
+            "id": 123,
+            "model": "돈키호테",
+            "content": "Hm hm~ Deveras é meu desejo de pendura-la aqui a vista de todos, entretanto isto carrega um gigantesco significado, de fato, é minha primeira grande façanha! Assim, deverei eu guarda-la em meus aposentos a fim de a proteger! "
+        },
+        {
+            "id": 124,
+            "model": "그레고르",
+            "content": "Cara, você realmente tá empolgada com uma foto toda tremida sua, hein?"
+        },
+        {
+            "id": 125,
+            "model": "로쟈",
+            "content": "Ah, não seja um estraga prazeres, querido~ a Chiquita tá feliz e é isso que importa, né~?"
+        },
+        {
+            "id": 126,
+            "model": "돈키호테",
+            "content": "Não importa, pois isto é um símbolo de nossas conquistas!"
+        },
+        {
+            "id": 127,
+            "model": "로쟈",
+            "content": "É ~ N-nossas... Conquistas! Ha ha..."
+        },
+        {
+            "id": 128,
+            "content": "Rodya estava rindo e comemorando junto dela, como se nada houvesse acontecido..."
+        },
+        {
+            "id": 129,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 130,
+            "content": "... Mas nunca foi tão claro que aquela alegria toda não passava de uma encenação. E... Eu acho que isso fez meu coração doer."
+        },
+        {
+            "id": 131,
+            "content": "Ainda assim, eu era impotente demais para fazer algo. O máximo que eu poderia fazer era mudar o clima e esperançosamente, desviar a atenção de todos para outra coisa."
+        },
+        {
+            "id": 132,
+            "model": "단테",
+            "content": "<... Faust, você pode perguntar ao Vergilius para onde estaremos indo?>"
+        },
+        {
+            "id": 133,
+            "model": "파우스트",
+            "content": "Vergilius, Dante perguntou—"
+        },
+        {
+            "id": 134,
+            "content": "Pelo menos quando falamos de nosso próximo destino, o passado parece virar um borrão, mesmo que apenas por um instante."
+        },
+        {
+            "id": 135,
+            "content": "Essa era a intenção por detrás da minha pergunta."
+        },
+        {
+            "id": 136,
+            "model": "베르길리우스",
+            "content": "Sim, sim. Percebi que já estava na hora do Gerente me perguntar sobre algumas informações envolvendo nosso próximo destino."
+        },
+        {
+            "id": 137,
+            "content": "Que sorte. Eu estava certo—o assunto da nossa próxima parada foi o suficiente para desviar a atenção dos Pecadores. Todos ficaram em silêncio devido a antecipação."
+        },
+        {
+            "id": 138,
+            "model": "베르길리우스",
+            "content": "Nosso próximo destino..."
+        },
+        {
+            "id": 139,
+            "content": "Que pena que ganhei mais do que estava esperando."
+        },
+        {
+            "id": 140,
+            "model": "베르길리우스",
+            "content": "... é para um trem WARP, Dante."
+        },
+        {
+            "id": 141,
+            "content": "Eu não apenas mudei o clima... Aquela declaração causou uma comoção entre os Pecadores."
+        }
+    ]
+}

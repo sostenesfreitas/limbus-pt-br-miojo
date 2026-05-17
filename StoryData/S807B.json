@@ -1,0 +1,453 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Daguanyuan - Salão de Banquetes da Dahuating",
+            "content": "Pensava que haveria mais momentos de jantar constrangedor, mas Jia Mu e os Heishou pareceram não ter razão para continuar aqui e partiram do salão de banquetes rapidamente."
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "content": "É estranho — assim que viram Hong Lu, perguntaram quando partiria."
+        },
+        {
+            "id": 2,
+            "model": "이스마엘",
+            "content": "É verdade……e há pouco davam-lhe tanto valor……"
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "content": "Mesmo a sua expressão afável era de alguma forma diferente do carinho que os pais de famílias comuns demonstram pelos filhos."
+        },
+        {
+            "id": 4,
+            "teller": "???",
+            "title": "???",
+            "content": "Baoyu."
+        },
+        {
+            "id": 5,
+            "content": "Nesse momento, uma voz animada desconhecida interveio de repente na nossa conversa."
+        },
+        {
+            "id": 6,
+            "model": "설보차",
+            "content": "Por que não vieste ver-me primeiro? A minha residência não mudou desde que partiste de casa."
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "Ah, é a irmã Baochai. Há tanto tempo."
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Vieste de propósito para me receber. Muito obrigado."
+        },
+        {
+            "id": 9,
+            "model": "설보차",
+            "content": "Se soubesse que Baoyu ia vir, teria convocado os outros da família Xue também. O irmão Pan preocupava-se imensamente com a segurança de Baoyu."
+        },
+        {
+            "id": 10,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……Pois não."
+        },
+        {
+            "id": 11,
+            "content": "Xichun, que se mantivera em silêncio, murmurou em voz baixa."
+        },
+        {
+            "id": 12,
+            "model": "설보차",
+            "content": "Baoyu, quem é que encontraste depois de regressar?"
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Há pouco prestei cumprimentos aos meus pais e a Jia Mu."
+        },
+        {
+            "id": 14,
+            "model": "설보차",
+            "content": "A sério? Então sou a primeira."
+        },
+        {
+            "id": 15,
+            "content": "Disse com alegria, aproximando o seu rosto dos olhos de Hong Lu."
+        },
+        {
+            "id": 16,
+            "model": "설보차",
+            "content": "O teu jade brilha sempre tão vividamente, puro e imaculado, Baoyu."
+        },
+        {
+            "id": 17,
+            "model": "설보차",
+            "content": "Depois de partires, para não me esquecer de ti, mandei fazer um colar da mesma cor e uso-o todos os dias. Como está, vês?"
+        },
+        {
+            "id": 18,
+            "model": "홍루",
+            "content": "Que bom. Obrigado por continuares a lembrar-te de mim."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Hem, hem, então……quem é esta?"
+        },
+        {
+            "id": 20,
+            "model": "그레고르",
+            "content": "Ai……rara é a vez que o ambiente fica assim tão bom, como não se consegue resistir……"
+        },
+        {
+            "id": 21,
+            "content": "No final, a curiosidade ganhou e Rodya deu um passo em frente."
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "content": "Ah, ela é——"
+        },
+        {
+            "id": 23,
+            "model": "설보차",
+            "content": "Chamo-me Baochai, Xue Baochai. Tenho uma ligação muito profunda com Baoyu."
+        },
+        {
+            "id": 24,
+            "model": "로쟈",
+            "content": "Uma ligação muito profunda?"
+        },
+        {
+            "id": 25,
+            "model": "설보차",
+            "content": "Hehe, já estamos prometidos em casamento, como poderia a ligação não ser profunda?"
+        },
+        {
+            "id": 26,
+            "model": "로쟈&히스",
+            "content": "O quê??!!"
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "content": "Não há necessidade de tanto espanto. Ligações formadas por acordos casuais entre os mais velhos são uma coisa perfeitamente normal."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "N-não é isso! Devias pelo menos ter-nos preparado para isso!"
+        },
+        {
+            "id": 29,
+            "model": "홍루",
+            "content": "Mm……de qualquer forma, mesmo que eu me case, será depois de sair da Limbus Company."
+        },
+        {
+            "id": 30,
+            "model": "홍루",
+            "content": "Apenas achei que não havia necessidade de avisar especificamente."
+        },
+        {
+            "id": 31,
+            "model": "설보차",
+            "content": "A propósito, ouvi algumas coisas há pouco……vocês são amigos de Baoyu, não é?"
+        },
+        {
+            "id": 32,
+            "model": "설보차",
+            "content": "Estou demasiado curiosa sobre como Baoyu tem vivido até agora — se for possível, poderiam contar-me as histórias da vossa viagem?"
+        },
+        {
+            "id": 33,
+            "model": "료슈",
+            "content": "Miúda. Vai brincar. Estas não são. Histórias para ouvires."
+        },
+        {
+            "id": 34,
+            "model": "설보차",
+            "content": "Por quê? Eu adoro mesmo histórias sangrentas!"
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "Ah, um dos passatempos da irmã Baochai é colecionar livros de histórias de lendas urbanas."
+        },
+        {
+            "id": 36,
+            "model": "료슈",
+            "content": "Humf……Está bem. Conto um pouco."
+        },
+        {
+            "id": 37,
+            "model": "설보차",
+            "content": "Uau~ e os outros? Adoro histórias de aventura."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "Dizes isso com a confiança de que não vais arrepender-te?"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Pois então……Senta-te, que eu narro agora uma história de aventura de heroísmo incomparável. Era uma vez, numa caverna, uma terrível ursa……"
+        },
+        {
+            "id": 40,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ha……!"
+        },
+        {
+            "id": 41,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Já que acabámos de jantar, que tal regressarmos às nossas respetivas residências?"
+        },
+        {
+            "id": 42,
+            "model": "설보차",
+            "content": "Xichun está de mau humor outra vez. Ouvi dizer que as pessoas da tua facção sofreram baixas pesadas numa grande batalha. É verdadeiramente angustiante — gastei mais de três lenços a enxugar as lágrimas."
+        },
+        {
+            "id": 43,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Parece que a notícia já chegou aos ouvidos da família Xue."
+        },
+        {
+            "id": 44,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Tens razão. No entanto……isso não tem nada a ver com o meu desempenho na disputa pelo Patriarca."
+        },
+        {
+            "id": 45,
+            "model": "설보차",
+            "content": "Xichun tem sempre um ar tão confiante, é um prazer para os olhos vê-la assim."
+        },
+        {
+            "id": 46,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "E mais……a irmã Baochai devia também tomar cuidado pelas costas. Vejo o irmão Baoyu — mantém sempre esse ar de sorriso tolo, mas já aperfeiçoou ao máximo a arte de apunhalar pelas costas."
+        },
+        {
+            "id": 47,
+            "model": "설보차",
+            "content": "Que história é essa de de repente ter a arte de apunhalar pelas costas?"
+        },
+        {
+            "id": 48,
+            "model": "홍루",
+            "content": "Haha, é apenas que a relação entre Xichun e eu ficou um pouco tensa."
+        },
+        {
+            "id": 49,
+            "model": "설보차",
+            "content": "Ahá, então Xichun queria aliciar-te antes!"
+        },
+        {
+            "id": 50,
+            "model": "설보차",
+            "content": "Com razão queria aliciar-te — Baoyu sempre sorriu de forma ingénua e despreocupada, mas a sua capacidade cresceu dia a dia, aprimorando-se mais rápido do que qualquer outro."
+        },
+        {
+            "id": 51,
+            "model": "홍루",
+            "content": "É apenas que, fazendo, foi correndo cada vez melhor~"
+        },
+        {
+            "id": 52,
+            "model": "로쟈",
+            "content": "É um tipo de personalidade que irrita um bocado, não é?"
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "……Este tipo de pessoa é raro, mas não inexistente."
+        },
+        {
+            "id": 54,
+            "model": "설보차",
+            "content": "Ah! A propósito disso, aquele……mm……"
+        },
+        {
+            "id": 55,
+            "model": "설보차",
+            "content": "Não me diga que encontraram Qiu……o irmão Jia Qiu?"
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "Embora eu não tenha visto, parece que eles encontraram."
+        },
+        {
+            "id": 57,
+            "model": "설보차",
+            "content": "Ainda b-bem……"
+        },
+        {
+            "id": 58,
+            "content": "Xue Baochai suspirou fundo com a mão no peito, como se acabasse de escapar de uma grande desgraça, e depois lançou-nos um olhar rápido com um ar ansioso."
+        },
+        {
+            "id": 59,
+            "model": "설보차",
+            "content": "Então……o que aconteceu?"
+        },
+        {
+            "id": 60,
+            "model": "설보차",
+            "content": "Sei que ele queria aliciar Shi Yihua. Mas além da própria Yihua, parece que ninguém acreditou que isso fosse aliciamento."
+        },
+        {
+            "id": 61,
+            "content": "Parece que a tentativa de Jia Qiu de aliciar Shi Yihua já circulava secretamente entre os candidatos."
+        },
+        {
+            "id": 62,
+            "model": "홍루",
+            "content": "Mm……quando estava connosco, cortou a cabeça do irmão Yihua."
+        },
+        {
+            "id": 63,
+            "model": "설보차",
+            "content": "Nossa, foi cortada na horizontal ou na vertical?"
+        },
+        {
+            "id": 64,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 65,
+            "model": "료슈",
+            "content": "Horizontal."
+        },
+        {
+            "id": 66,
+            "model": "설보차",
+            "content": "Mm……é a terceira vez, não é? Yihua é mesmo assim, ainda não consegue livrar-se do hábito de agir impulsivamente."
+        },
+        {
+            "id": 67,
+            "model": "설보차",
+            "content": "O irmão Qiu……antecipei que, com a disputa pelo Patriarca a aproximar-se, ele voltaria em breve. A estranha canção que circula pelos becos traseiros deve ser conhecida por todos no Daguanyuan."
+        },
+        {
+            "id": 68,
+            "model": "설보차",
+            "content": "Ai. Cada vez que chegam notícias, o ambiente no Daguanyuan fica sombrio e assustador, é mesmo aterrorizante."
+        },
+        {
+            "id": 69,
+            "model": "설보차",
+            "content": "Ainda assim é uma sorte……o irmão Jia Qiu provavelmente não me visará a mim em primeiro lugar na disputa."
+        },
+        {
+            "id": 70,
+            "model": "오티스",
+            "content": "……Por quê?"
+        },
+        {
+            "id": 71,
+            "model": "설보차",
+            "content": "Naturalmente porque sou tão adorável que seria uma pena matar-me cedo demais."
+        },
+        {
+            "id": 72,
+            "model": "오티스",
+            "content": "……"
+        },
+        {
+            "id": 73,
+            "model": "설보차",
+            "content": "E mais……embora não saiba qual é o objetivo do irmão Jia Qiu, pelo menos não tem nada a ver com a nossa família Xue."
+        },
+        {
+            "id": 74,
+            "model": "홍루",
+            "content": "Mm, talvez seja assim."
+        },
+        {
+            "id": 75,
+            "model": "설보차",
+            "content": "……"
+        },
+        {
+            "id": 76,
+            "content": "Baochai deu mais um passo em frente, aproximando o rosto do de Hong Lu."
+        },
+        {
+            "id": 77,
+            "model": "설보차",
+            "content": "Baoyu, ainda consegues sentir o meu perfume agradável?"
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "A irmã Baochai nunca emanou um cheiro desagradável."
+        },
+        {
+            "id": 79,
+            "model": "설보차",
+            "content": "……"
+        },
+        {
+            "id": 80,
+            "model": "설보차",
+            "content": "Baoyu, eu continuo sempre a residir em <ruby=Pátio das Ervas Aromáticas>Hengwuyuan</ruby>. Garante que vens ver-me antes de partir."
+        },
+        {
+            "id": 81,
+            "content": "Xue Baochai deixou apenas essas palavras e saiu a passo apressado."
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "Nós também devíamos regressar em breve. Quando chega a hora hai aqui, torna-se de imediato escuro como breu."
+        },
+        {
+            "id": 83,
+            "model": "히스클리프",
+            "content": "Tu……por que razão abandonaste a casa……"
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "Hehe……não é nada de especial. É apenas uma irmã que brincou comigo desde pequeno."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "No Daguanyuan, ela é uma das poucas pessoas que me trata com gentileza."
+        },
+        {
+            "id": 86,
+            "model": "단테",
+            "content": "<……Então, para onde vamos a seguir?>"
+        },
+        {
+            "id": 87,
+            "model": "로쟈",
+            "content": "É verdade, não é? Este jardim é tão luxuoso……desta vez podemos mesmo ter expectativas, não é?"
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Já que são meus convidados, por favor fiquem no meu quarto no Daguanyuan."
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "content": "Não fica longe daqui, e podemos chegar rapidamente sem precisar de palanquim."
+        }
+    ]
+}

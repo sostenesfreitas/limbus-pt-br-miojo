@@ -1,0 +1,226 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "place": "Linha de Coleta da Fábrica de Presentes",
+            "model": "단테",
+            "content": "<Acho que estou ouvindo uns barulhos estranhos vindos de lá dentro.>"
+        },
+        {
+            "id": 2,
+            "model": "료슈",
+            "content": "Heh. Uns S.O.S. bem agudos. É sempre um bom indicador de acontecimentos maravilhosos."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "Você pode parar de rir dos sons ofegantes de sofrimento, por favor?!"
+        },
+        {
+            "id": 4,
+            "model": "뫼르소",
+            "content": "Esse tom é familiar. A faixa de decibéis destes gritos corresponde aos de Don Quixote."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Esperem. Nós ainda não conduzimos uma avaliação das ameaças na área de combate. Parece ser um espaço fechado, o que significa que—"
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "Outis. Se Heathcliff estivesse conosco, ele teria dito o seguinte."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Dito o quê?"
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Acho que eu sei.>"
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Que lerdeza infernal. Para de chorar, pega essa arma logo e bate no que tiver na sua frente!>"
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Heh, foi uma imitação bem fiel."
+        },
+        {
+            "id": 12,
+            "content": "Ishmael logo abriu a porta com um chute estrondoso."
+        },
+        {
+            "id": 13,
+            "content": "Enquanto isso..."
+        },
+        {
+            "id": 14,
+            "place": "Montagem de Presentes",
+            "model": "히스클리프",
+            "content": "AAAHHH! Que merda de lugar é esse?! Por que eu estou amarrado?!"
+        },
+        {
+            "id": 15,
+            "model": "돈키호테",
+            "content": "Lamento muito dizer-vos, mas, ao que tudo aponta, estamos... em sérios apuros..."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Em verdade, estamos fadados a virar brinquedos perante aquela prensa hidráulica..."
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Aparenta-me que, quando chegar minha hora, serei transformada em um João Bobo... Que se ergue mesmo quando derrubado... Kegh.."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Ei! Fecha a matraca e faz alguma coisa!"
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "content": "Senhor Heathcliff, mil perdões vos peço...! É verdade que havia uma das menores partes de egoísmo dentre mim quando busquei procurar pelo cosplay do Saco Vermelho para mim mesma... Contudo..."
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "... não era uma mentira que eu adoraria ter lhe achado uma vestimenta das mais impecáveis!"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Desgraçada, eu sabia que isso ia acontecer. Quando eu sair dessas amarras, eu..."
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Snif, snif... Ao menos farão de vós um belíssimo relógio de bolso..."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Augh...! Pra mim já deu de relógios...!"
+        },
+        {
+            "id": 24,
+            "model": "크레용",
+            "title": "???",
+            "content": "Eu acho que vão me transformar numa caixa de lápis coloridos... Snif, snif... De 24 cores vibrantes e naturais..."
+        },
+        {
+            "id": 25,
+            "model": "빨간노움",
+            "teller": "Gnomo Cerejinha",
+            "title": "Fábrica de Presentes",
+            "content": "Faz tempo que não vemos matérias-primas vivas-omo!"
+        },
+        {
+            "id": 26,
+            "model": "검은노움",
+            "teller": "Gnomo Sombrinha",
+            "title": "Fábrica de Presentes",
+            "content": "Mas eles são um pouco barulhentos-omo. Vê se meu ouvido tá sangrando-omo?"
+        },
+        {
+            "id": 27,
+            "model": "초록노움",
+            "teller": "Gnomo Folhinha",
+            "title": "Fábrica de Presentes",
+            "content": "Omo! Não seria melhor para os recipientes receberem um presente feito entre gritos-omo?"
+        },
+        {
+            "id": 28,
+            "model": "빨간노움",
+            "teller": "Gnomo Cerejinha",
+            "title": "Fábrica de Presentes",
+            "content": "Omo, omo! Então vamos começar a cortar-omo?"
+        },
+        {
+            "id": 29,
+            "content": "Bum!"
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "Heathcliff! Don Quixote! Que alívio, eles ainda não viraram presentes!"
+        },
+        {
+            "id": 31,
+            "model": "료슈",
+            "content": "Fiuuuu. Que lugar aconchegante."
+        },
+        {
+            "id": 32,
+            "model": "돈키호테",
+            "content": "Pessoal...!"
+        },
+        {
+            "id": 33,
+            "model": "히스클리프",
+            "content": "C-como..."
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<Estamos aqui para te salvar, Heathcliff.>"
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "content": "Cabeça de Relógio...!"
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Droga, nunca pensei que ficaria tão feliz de ver essa sua cara..."
+        },
+        {
+            "id": 37,
+            "content": "Parece que chegamos bem na hora. Heathcliff estava prestes a ser empurrado para a prensa hidráulica de presentes."
+        },
+        {
+            "id": 38,
+            "model": "이상",
+            "content": "Talhei suas amarras. Desçam!"
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "content": "Hum... Eu não sou do tipo de falar essas coisas, mas... Agora que vocês salvaram o meu couro de virar um relógio de bolso, eu tenho que dizer obriga—"
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "Seus idiotas! Vocês tinham UM trabalho: ficar ao lado de nosso Gerente Executivo! E vocês se deixaram ser capturados desse jeito?!"
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "content": "... Quer saber? Esquece."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Certo. Preparem-se, vocês dois."
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Gerente... E agora?"
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Bem... temos que acabar com esse lugar. Vamos lá. Preparem-se para usar suas Identidades.>"
+        }
+    ]
+}

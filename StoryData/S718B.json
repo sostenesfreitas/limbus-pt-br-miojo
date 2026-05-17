@@ -1,0 +1,92 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "-1",
+            "content": "<color=#3e7fed>[EP 3] - 'Don Quixote e o Elmo'</color>"
+        },
+        {
+            "id": 1,
+            "place": "Aldeia do Pasto de Ovelhas",
+            "model": "산손",
+            "content": "A aventura de Don Quixote prosseguiu, depois disso, sem parar."
+        },
+        {
+            "id": 2,
+            "model": "말레고르",
+            "content": "\"Essa tal relíquia, ou o que quer que seja, vai mesmo aparecer? Pode ser que aqueles caras tenham mentido.\""
+        },
+        {
+            "id": 3,
+            "model": "기사돈키",
+            "content": "\"Não é possível. Não é possível que aqueles sujeitos me declarassem uma mentira. Com certeza está em algum lugar por aqui perto.\""
+        },
+        {
+            "id": 4,
+            "model": "산손",
+            "content": "Pelo visto eles procuram alguma coisa. Afinal, o que será que eles procuram com tanta aflição?"
+        },
+        {
+            "id": 5,
+            "model": "기사돈키",
+            "content": "\"Ó viajante que passas, conheces o 'elmo de Mambrino, absoluto e de brilho resplandecente, do nobre cavaleiro', que se diz estar em algum lugar destas redondezas?\""
+        },
+        {
+            "id": 6,
+            "model": "주민오티스",
+            "content": "“…….”"
+        },
+        {
+            "id": 7,
+            "model": "주민오티스",
+            "content": "\"Esse elmo nobre... e o escambau, há gente que diz tê-lo visto no ponto mais profundo de uma caverna — aqui à frente há uma montanha não muito alta, e, seguindo o caminho, chega-se a essa caverna.\""
+        },
+        {
+            "id": 8,
+            "place": "Diante da Caverna",
+            "model": "기사돈키",
+            "content": "\"Que ótimo! Sendo assim, eu sigo agora mesmo para essa caverna!\""
+        },
+        {
+            "id": 9,
+            "place": "O Ponto Mais Profundo da Caverna",
+            "model": "기사돈키",
+            "content": "E assim eu segui, junto com Rocinante, para a caverna onde dizem estar o lendário elmo. É claro que não foi uma aventura fácil. Lá dentro a gente encontrou até um urso medonho, e..."
+        },
+        {
+            "id": 10,
+            "model": "곰스클리프",
+            "content": "\"G-grrr...\""
+        },
+        {
+            "id": 11,
+            "model": "기사돈키",
+            "content": "\"Rocinante, está vendo? Pelo visto aquilo é o urso que devora até pessoas, de que a gente só ouvia falar.\""
+        },
+        {
+            "id": 12,
+            "model": "곰스클리프",
+            "content": "Ei, eu tenho que continuar com isto? Estou ficando meio irritado."
+        },
+        {
+            "id": 13,
+            "model": "곰스클리프",
+            "content": "Listen, you sod. It's— \"Grrrr.\""
+        },
+        {
+            "id": 14,
+            "model": "말레고르",
+            "content": "\"I am... beholding it...\""
+        },
+        {
+            "id": 15,
+            "model": "말레고르",
+            "content": "\"...O senhor vai conseguir desta vez também, não vai?\""
+        },
+        {
+            "id": 16,
+            "model": "기사돈키",
+            "content": "\"Claro! Um mero urso não há de ser páreo para nós.\""
+        }
+    ]
+}

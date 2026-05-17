@@ -1,0 +1,726 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corridor of the Ring Nursefather",
+            "model": "앨런",
+            "content": "Ah. O senhor voltou."
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "…Só uma pergunta."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Qual é a verdadeira intenção de verificar as portas dos fundos desta Teia com tanto afinco?"
+        },
+        {
+            "id": 3,
+            "model": "앨런",
+            "content": "O senhor não ouviu do senhor Hohenheim?"
+        },
+        {
+            "id": 4,
+            "model": "앨런",
+            "content": "É que a informação sobre as portas é, para nós, uma informação extremamente valiosa. E houve uma instrução da cúpula de que era bom concluir, ainda que com certa pressa, o trabalho de transformar esta Teia numa base."
+        },
+        {
+            "id": 5,
+            "model": "앨런",
+            "content": "Eu acho que deve ser, provavelmente, para se preparar para um conflito. Numa operação, cada uma destas zonas seguras é importante. Vocês também hão de sa…"
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "…Espera, você, o que você disse agora? Conflito? Operação? O quê… vocês vão fazer uma guerra, é?"
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Para algo dito com tanta serenidade, o conteúdo… não é estranho? Preparar-se, afinal, para o quê…"
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Pelo visto, agora, eles não têm nem intenção de esconder."
+        },
+        {
+            "id": 9,
+            "model": "앨런",
+            "content": "Hum? O que foi, gente?"
+        },
+        {
+            "id": 10,
+            "model": "이상",
+            "content": "…É de verdade por não saber que o senhor pergunta?"
+        },
+        {
+            "id": 11,
+            "model": "앨런",
+            "content": "Ah… eu pensei que vocês soubessem de tudo. Na verdade, eu acho que é uma coisa que, mesmo sem saber, se sabe."
+        },
+        {
+            "id": 12,
+            "model": "앨런",
+            "content": "A Firma L, já decaída. E a Firma W, em processo de decair."
+        },
+        {
+            "id": 13,
+            "model": "앨런",
+            "content": "Assim como vocês nos chamam de nova Firma W, nós chamamos a Limbus Company de nova Firma L. Quer dizer que a posição que se almeja é a mesma."
+        },
+        {
+            "id": 14,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 15,
+            "model": "앨런",
+            "content": "Só que, ao contrário da Firma L, a Firma W apenas está em processo de decair; ela ainda nem decaiu por completo."
+        },
+        {
+            "id": 16,
+            "model": "앨런",
+            "content": "Como todos hão de saber, para uma empresa ter significado na Cidade, ela tem de possuir também força bélica suficiente, então…"
+        },
+        {
+            "id": 17,
+            "model": "앨런",
+            "content": "quando duas se chocam, é um desdobramento natural eclodir um conflito de força bélica."
+        },
+        {
+            "id": 18,
+            "model": "앨런",
+            "content": "Bom, é só, no máximo, a conjetura de um mero chefe de equipe. Os figurões da empresa talvez tenham uma ideia diferente."
+        },
+        {
+            "id": 19,
+            "model": "앨런마스크",
+            "content": "A colaboração de hoje foi boa. Parece que os resultados também vão sair acima da expectativa, e a taxa de perdas foi baixa."
+        },
+        {
+            "id": 20,
+            "model": "앨런마스크",
+            "content": "O relatório de avaliação da vossa empresa como empresa parceira eu vou redigir de modo positivo."
+        },
+        {
+            "id": 21,
+            "content": "Depois de me despedir de Allen e voltar à base avançada."
+        },
+        {
+            "id": 22,
+            "place": "The House of Spiders Forward Base",
+            "content": "nós contamos a Hohenheim tudo o que aconteceu até então."
+        },
+        {
+            "id": 23,
+            "content": "Quanto ao conflito, talvez por não quererem lá muito falar, tanto Hohenheim quanto Faust evitaram o assunto, e…"
+        },
+        {
+            "id": 24,
+            "content": "em troca, decidiu-se que Ryōshū faria um exame adicional da memória perdida e da espada."
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "…Ei. Hohenheim. Aquele… o resultado do exame…"
+        },
+        {
+            "id": 26,
+            "model": "호엔하임",
+            "content": "Ainda não, Assistente. Faz só 3 minutos que eu disse que ia levar uns 20 minutos, e nesse meio-tempo você já esqueceu, pelo visto."
+        },
+        {
+            "id": 27,
+            "model": "료슈",
+            "content": "Você está sendo barulhento."
+        },
+        {
+            "id": 28,
+            "content": "Ryōshū repreendeu Heathcliff com uma voz de quem o achava lamentável, mas, ela própria, talvez também estivesse ansiosa, pois a velocidade com que fumava o cigarro todo e acendia um novo estava mais alta do que o normal."
+        },
+        {
+            "id": 29,
+            "model": "호엔하임",
+            "content": "Cof… a densidade da fumaça do cigarro não dá sinal de querer baixar… será que dá para você fumar com mais calma. É que parece que vai virar uma defumação."
+        },
+        {
+            "id": 30,
+            "model": "료슈2",
+            "content": "Basta dizer logo o resultado, óculos. Depois de ouvir, eu vou embora."
+        },
+        {
+            "id": 31,
+            "model": "호엔하임",
+            "content": "…Vocês todos não têm respeito algum pelo tempo. Por mais que seja relativo, resolver a análise profunda de um objeto deste porte em menos de um dia é uma velocidade de processamento extraordinariamente rápida."
+        },
+        {
+            "id": 32,
+            "model": "호엔하임",
+            "content": "Ultimamente eu venho tentando me conter, mas desta vez eu vou dizer com franqueza. Um resultado destes não teria como ser alcançado sem o meu cérebro genial. Algo que faria qualquer pesquisador que passasse na rua perguntar 'Hec, o senhor já terminou tudo?'…"
+        },
+        {
+            "id": 33,
+            "model": "료슈2",
+            "content": "Ca.la.bo."
+        },
+        {
+            "id": 34,
+            "content": "Talvez por não querer mais ser apressado pelos dois, Hohenheim, muito mais rápido do que o tempo que ele dissera, fez soar um alarme de exame concluído, tlim."
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "content": "O quê, terminou?!"
+        },
+        {
+            "id": 36,
+            "model": "호엔하임",
+            "content": "Vez ou outra há momentos em que um trabalho termina mais rápido do que o tempo previsto. Em geral, há de ser graças a mim, que sou um gênio."
+        },
+        {
+            "id": 37,
+            "model": "료슈2",
+            "content": "…Mas por que você está aí parado? Diga logo o re.sul.exa."
+        },
+        {
+            "id": 38,
+            "model": "호엔하임",
+            "content": "Como você mandou eu fechar o bico, eu estou nessa."
+        },
+        {
+            "id": 39,
+            "model": "료슈2",
+            "content": "……."
+        },
+        {
+            "id": 40,
+            "model": "뉴키라",
+            "content": "Ha. Não é possível que Yoshihide abrevie tão direito assim."
+        },
+        {
+            "id": 41,
+            "model": "뉴키라",
+            "content": "Não foi tipo isso? 'Eu sei que você está penando muito, então faça primeiro o que está na sua frente'… algo nesse sentido?"
+        },
+        {
+            "id": 42,
+            "model": "호엔하임",
+            "content": "…Responda-me o que você acha daquela fala."
+        },
+        {
+            "id": 43,
+            "model": "료슈",
+            "content": "Ufa… conforme aquele sujeito disse, era esse o sentido. Tem um ponto melhor do que a tra.Sincl."
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<…Ela é bem cara de pau.>"
+        },
+        {
+            "id": 45,
+            "content": "A bainha posta em cima do aparelho de exame pareceu se mexer, com um estalo."
+        },
+        {
+            "id": 46,
+            "content": "Como se tivesse rido."
+        },
+        {
+            "id": 47,
+            "model": "호엔하임",
+            "content": "Bom, eu vou explicar. Primeiro, a memória de ter ouvido, no passado, um elogio de que cozinhava bem desapareceu."
+        },
+        {
+            "id": 48,
+            "model": "뉴키라",
+            "content": "Hã? É só isso?!"
+        },
+        {
+            "id": 49,
+            "model": "호엔하임",
+            "content": "É claro que tem mais."
+        },
+        {
+            "id": 50,
+            "model": "호엔하임",
+            "content": "Segundo… ela esqueceu o nome de alguém."
+        },
+        {
+            "id": 51,
+            "model": "호엔하임",
+            "content": "Você. Está se lembrando do nome de quem trabalha junto com a Chefe de Seção Sword?"
+        },
+        {
+            "id": 52,
+            "model": "료슈",
+            "content": "…Effie?"
+        },
+        {
+            "id": 53,
+            "model": "호엔하임",
+            "content": "Nesse caso, a pergunta há de ter sido não 'quem trabalha junto', e sim 'quem trabalhava junto'."
+        },
+        {
+            "id": 54,
+            "model": "싱클레어",
+            "content": "Que bom que a senhora Sword não está aqui…"
+        },
+        {
+            "id": 55,
+            "model": "료슈2",
+            "content": "…Aquele novato. De fato, eu não me lembro do nome."
+        },
+        {
+            "id": 56,
+            "model": "단테",
+            "content": "<Você esqueceu… o nome do Pilot?>"
+        },
+        {
+            "id": 57,
+            "model": "호엔하임",
+            "content": "Afora isso, desapareceram as 172 horas de histórias de aventura da senhora Donquixote que ela ouviu dentro do ônibus e a memória do tipo de comida que se deu à gaivota."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "content": "I-isso não pode ser… as preciosas lembranças minhas e do senhor Ryōshū… desapareceram todinhas?!"
+        },
+        {
+            "id": 59,
+            "model": "로쟈",
+            "content": "Aquilo… é uma história muuuito triste para a Donqui, mas…"
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "É… bem decente, não é? Para o preço de desembainhar aquela espada absurda…?"
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "A quantidade que se esvaiu em si… parece ter um custo-benefício bem ruim, viu. Não é que, com uma só brandida, desapareceram dias de memória?"
+        },
+        {
+            "id": 62,
+            "model": "로쟈",
+            "content": "É verdade, mas, como dizer… é tipo, esquecer não tem problema? Não é diferente das coisas que o Greg ou o Heath vivem dizendo que esqueceram e não lembram."
+        },
+        {
+            "id": 63,
+            "model": "호엔하임",
+            "content": "Não é um resultado que saiu simplesmente por sorte."
+        },
+        {
+            "id": 64,
+            "model": "호엔하임",
+            "content": "É a bainha da Araya-shiki. Sendo exato, dizer que é um poder que se origina do E.G.O. de Araya há de ser mais fácil de explicar."
+        },
+        {
+            "id": 65,
+            "model": "료슈2",
+            "content": "…É mesmo."
+        },
+        {
+            "id": 66,
+            "content": "Ryōshū continuava a fitar a bainha com um olhar vago, como quem acha tudo nebuloso."
+        },
+        {
+            "id": 67,
+            "content": "Quem Araya foi, que existência foi para ela… os fragmentos que iam preenchendo aquele vão foram, mais uma vez, todos cortados, mas."
+        },
+        {
+            "id": 68,
+            "model": "호엔하임",
+            "content": "Parece que consome bastante tempo, mas… confirmou-se que ela está selecionando as memórias da Pecadora Ryōshū que serão consumidas como preço da Araya-shiki."
+        },
+        {
+            "id": 69,
+            "model": "료슈9장",
+            "content": "Isso… é coisa de se agradecer."
+        },
+        {
+            "id": 70,
+            "content": "Como quem tenta, ainda que pela moldura que só tem o vão, conjeturar aquela memória."
+        },
+        {
+            "id": 71,
+            "content": "Ryōshū fitava a bainha com um olhar complexo."
+        },
+        {
+            "id": 72,
+            "model": "뉴키라",
+            "content": "Então, é só esperar o tempo de recarga e dá para usar, fazendo voar embora só umas memórias inúteis?"
+        },
+        {
+            "id": 73,
+            "model": "호엔하임",
+            "content": "Não é bem assim. Só o 'elogio sobre a culinária' que desapareceu hoje… não era uma memória bem preciosa?"
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "…O senhor calculou o preço da relíquia de trás para a frente."
+        },
+        {
+            "id": 75,
+            "model": "호엔하임",
+            "content": "Pois é. Ao mensurar, descobri que, na hora de pagar o preço, cada memória tem um peso diferente."
+        },
+        {
+            "id": 76,
+            "model": "호엔하임",
+            "content": "Só com memórias leves, não há de dar para cortar."
+        },
+        {
+            "id": 77,
+            "model": "호엔하임",
+            "content": "Então, a memória voltou um pouco?"
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Como se previa, recordar de novo a existência que desapareceu… fracassou."
+        },
+        {
+            "id": 79,
+            "model": "호엔하임",
+            "content": "Isso… é um resultado lamentável."
+        },
+        {
+            "id": 80,
+            "model": "단테",
+            "content": "<Não é um resultado puramente lamentável.>"
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Só de saber que naquele lugar vazio da memória havia alguma coisa…>"
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<dá para recordar muita coisa.>"
+        },
+        {
+            "id": 83,
+            "model": "단테",
+            "content": "<Conforme as palavras de Ryōshū: esqueceu, mas não perdeu.>"
+        },
+        {
+            "id": 84,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "model": "료슈9장",
+            "content": "…Relógio."
+        },
+        {
+            "id": 86,
+            "model": "료슈9장",
+            "content": "Você pôs o pé na Ar.te. Su.pre.ma. Con.ci.sa."
+        },
+        {
+            "id": 87,
+            "content": "No lugar onde um breve sorriso se dispersou junto com a fumaça do cigarro…"
+        },
+        {
+            "id": 88,
+            "model": "료슈2",
+            "content": "De qualquer modo, se encontrar o Ra.Dou., dá para recuperar."
+        },
+        {
+            "id": 89,
+            "model": "료슈",
+            "content": "…Aquilo que ocupava este vão, o mais precioso."
+        },
+        {
+            "id": 90,
+            "content": "Ali dentro, o olhar de Ryōshū perseguia algo que não se podia nem ver, nem perceber."
+        },
+        {
+            "id": 91,
+            "place": -1,
+            "content": "Dali em diante também se passaram alguns dias."
+        },
+        {
+            "id": 92,
+            "content": "Nesse meio-tempo houve, esparsos, pequenos episódios — fomos visitar Sword e Pilot no hospital, ajudamos a subjugar uma Distorção que escapou por um erro de um pesquisador novato recém-chegado à LCE… mas…"
+        },
+        {
+            "id": 93,
+            "content": "no fim das contas demos um nó em tudo e nós, depois de muito tempo…"
+        },
+        {
+            "id": 94,
+            "place": "Aboard Mephistopheles",
+            "model": "단테",
+            "content": "<É uma sensação… meio de quem chegou em casa.>"
+        },
+        {
+            "id": 95,
+            "content": "conseguimos voltar para o ônibus."
+        },
+        {
+            "id": 96,
+            "model": "로쟈",
+            "content": "Ahh~ o tato desta cadeira… não é nem lá muito bom, mas, de novo, não tem nada que a substitua! Upa!"
+        },
+        {
+            "id": 97,
+            "model": "뉴키라",
+            "content": "Vocês andavam por aí numa coisa destas? É estiloso pra caramba…"
+        },
+        {
+            "id": 98,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 99,
+            "model": "카론",
+            "content": "Hunf."
+        },
+        {
+            "id": 100,
+            "content": "Entre os dois, que de propósito sacudiam os ombros diante da impressão de Kira, Hohenheim começou a passar os avisos."
+        },
+        {
+            "id": 101,
+            "model": "호엔하임",
+            "content": "Eu pedi ao chefe de equipe Allen e ajustei as coordenadas para uma posição perto de um Ninho. Eu fiz a configuração para que, indo em frente assim, vocês possam atravessar para cima da via."
+        },
+        {
+            "id": 102,
+            "model": "호엔하임",
+            "content": "Se vocês hesitarem à toa ou pisarem no freio, podem colidir com um carro que venha correndo atrás, então tomem cuidado com este ponto."
+        },
+        {
+            "id": 103,
+            "model": "카론",
+            "content": "(aceno)."
+        },
+        {
+            "id": 104,
+            "model": "히스클리프",
+            "content": "Mas o que é que vocês estão fazendo aqui dentro? Vão se entocar de vez agora? Hã?"
+        },
+        {
+            "id": 105,
+            "model": "호엔하임",
+            "content": "Receber o relato da jornada de vocês é uma coisa bem interessante, mas acompanhar é outra história, não é. Eu só vim visitar por um instante, por causa da configuração das coordenadas."
+        },
+        {
+            "id": 106,
+            "model": "호엔하임",
+            "content": "…Você não devia poder sair do quarto por conta própria; eu quero perguntar com que artifício você saiu."
+        },
+        {
+            "id": 107,
+            "model": "뉴키라",
+            "content": "Como você disse que ia me ajudar, mandaram preencher uns documentos e me deixaram sair, sabe?"
+        },
+        {
+            "id": 108,
+            "model": "뉴키라",
+            "content": "É que, sozinha na cela individual, estava entediada pra caramba, então eu só vim. Como vocês iam embora… um cumprimento, sei lá, é bom dar."
+        },
+        {
+            "id": 109,
+            "model": "호엔하임",
+            "content": "…Você se aproveitou bem do fato de os novatos não terem mágoa de você e escapou."
+        },
+        {
+            "id": 110,
+            "model": "호엔하임",
+            "content": "Eu acho que dei uma boa ênfase em mandar avisarem que aos prisioneiros se deve aplicar a cláusula de exceção… ah, quem ia dizer isso estava na sala de tratamento de longa duração. A reação em cadeia da falta de pessoal não cessa. Isto também eu vou ter de pôr no relatório."
+        },
+        {
+            "id": 111,
+            "model": "단테",
+            "content": "<Haha… você veio nos despedir, então.>"
+        },
+        {
+            "id": 112,
+            "model": "호엔하임",
+            "content": "Bom… então, boa viagem."
+        },
+        {
+            "id": 113,
+            "model": "호엔하임",
+            "content": "Hum. Como a gente conviveu por mais tempo do que eu pensava, uma despedida destas é meio constrangedora, pois é."
+        },
+        {
+            "id": 114,
+            "model": "이상",
+            "content": "Há de haver um dia de a gente se ver de novo em breve, não?"
+        },
+        {
+            "id": 115,
+            "model": "파우스트",
+            "content": "Eu gostaria que essa probabilidade fosse baixa."
+        },
+        {
+            "id": 116,
+            "model": "호엔하임",
+            "content": "Eu detesto a teoria das probabilidades, mas me vem o pensamento de que uma probabilidade dessas seria bom que acertasse sem falta."
+        },
+        {
+            "id": 117,
+            "model": "호엔하임",
+            "content": "Bem."
+        },
+        {
+            "id": 118,
+            "model": "뉴키라",
+            "content": "…Yoshihide."
+        },
+        {
+            "id": 119,
+            "model": "료슈",
+            "content": "O que foi?"
+        },
+        {
+            "id": 120,
+            "model": "뉴키라",
+            "content": "Considerar uma à outra como família… é meio exagero, mas…"
+        },
+        {
+            "id": 121,
+            "model": "뉴키라",
+            "content": "Mesmo assim, ainda tem muita história que a gente não contou, e tem muita coisa que eu quero ouvir de você. Então…"
+        },
+        {
+            "id": 122,
+            "model": "뉴키라",
+            "content": "A.té.mais.ver."
+        },
+        {
+            "id": 123,
+            "model": "뉴키라",
+            "content": "É assim que se abrevia, né?"
+        },
+        {
+            "id": 124,
+            "model": "료슈2",
+            "content": "Ufa…"
+        },
+        {
+            "id": 125,
+            "model": "료슈",
+            "content": "Isso se abrevia 'A.té.ver'."
+        },
+        {
+            "id": 126,
+            "model": "료슈",
+            "content": "E me chame de Ryōshū, não de Yoshihide."
+        },
+        {
+            "id": 127,
+            "model": "료슈",
+            "content": "É que esse nome tem uma sonoridade melhor."
+        },
+        {
+            "id": 128,
+            "content": "Os dois, terminado o cumprimento, desceram do Mephistopheles, e…"
+        },
+        {
+            "id": 129,
+            "content": "ouviu-se o som de um maquinário se encaixando com estalos, e as rodas começaram a girar devagar."
+        },
+        {
+            "id": 130,
+            "content": "À frente, um portal enorme, a ponto de engolir o ônibus, ondulava emitindo uma luz ofuscante."
+        },
+        {
+            "id": 131,
+            "content": "Agora, para a próxima jornada…"
+        },
+        {
+            "id": 132,
+            "model": "단테",
+            "content": "<…Ã, agora que penso, para onde a gente vai a seguir?>"
+        },
+        {
+            "id": 133,
+            "model": "파우스트",
+            "content": "Dante está perguntando o próximo destino, Vergílio."
+        },
+        {
+            "id": 134,
+            "model": "히스클리프",
+            "content": "Ha, dá mesmo a sensação de ter voltado para o ônibus. Esta pergunta também tem um cheiro meio saudoso."
+        },
+        {
+            "id": 135,
+            "model": "이스마엘",
+            "content": "Por que você embrulha isso como se fosse uma boa pergunta. Quando vem uma pergunta dessas, sempre… a gente vai parar num lugar mirabolante."
+        },
+        {
+            "id": 136,
+            "content": "Vergílio, como que para dar razão àquela fala, virou-se para mim com um leve sorriso e abriu a boca de leve."
+        },
+        {
+            "id": 137,
+            "model": "베르길리우스",
+            "content": "Hum. Mirabolante… bom, chegou a hora de encarar. Há de ser melhor dizer só até esse ponto."
+        },
+        {
+            "id": 138,
+            "model": "베르길리우스",
+            "content": "O próximo destino é o Distrito 14."
+        },
+        {
+            "id": 139,
+            "model": "베르길리우스",
+            "content": "É a Firma N. Gerente Dante."
+        },
+        {
+            "id": 140,
+            "teller": "Sinners",
+            "title": "LCB",
+            "content": "……."
+        },
+        {
+            "id": 141,
+            "model": "싱클레어",
+            "content": "Vamos, então. Para a Firma N."
+        },
+        {
+            "id": 142,
+            "model": "그레고르",
+            "content": "…É um lugar com bastante gente que eu não queria encontrar, eu falo."
+        },
+        {
+            "id": 143,
+            "content": "Entre os Pecadores, que exprimiam, cada um por seu motivo, a inquietação quanto à Firma N."
+        },
+        {
+            "id": 144,
+            "content": "Meursault, que há de ter a ligação mais profunda, abriu o jornal e começou a ler, com uma expressão serena, igual à de sempre."
+        },
+        {
+            "id": 145,
+            "model": "뫼르소",
+            "content": "……."
+        },
+        {
+            "id": 146,
+            "content": "Como se nada fosse diferente em coisa alguma."
+        },
+        {
+            "id": 147,
+            "model": "카론",
+            "content": "Eu vou partir. Vrum-vrum."
+        },
+        {
+            "id": 148,
+            "content": "O ônibus, assim, começou a rodar devagar, rumo a um lugar onde há mais uma história."
+        }
+    ]
+}

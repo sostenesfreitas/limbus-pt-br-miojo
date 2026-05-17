@@ -1,0 +1,78 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor que Leva a Cheolhamsa",
+            "content": "Tal como Rodya disse."
+        },
+        {
+            "id": 1,
+            "content": "... It didn't take very long before another faction appeared before us."
+        },
+        {
+            "id": 2,
+            "model": "설씨사병네임드",
+            "content": "Stop. Who is your master?"
+        },
+        {
+            "id": 3,
+            "model": "설씨사병네임드",
+            "content": "Por que vocês estão perambulando por um lugar destes?"
+        },
+        {
+            "id": 4,
+            "model": "홍루",
+            "content": "É que há um lugar aonde a gente precisa ir."
+        },
+        {
+            "id": 5,
+            "model": "홍루",
+            "content": "E vocês, por que estão perambulando por um lugar destes?"
+        },
+        {
+            "id": 6,
+            "model": "설씨사병네임드",
+            "content": "...Vocês são a facção do lado de Ga Chiu?"
+        },
+        {
+            "id": 7,
+            "model": "설씨사병네임드",
+            "content": "Pretendem ir àquele lugar onde dizem que estão os Imortais. Para definir depressa a cadeira de patriarca..."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Você achou que, fingindo que ia nos barrar para nos sondar, a gente não perceberia? Pivete..."
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "...e olha que vocês mesmos só ficam rodando em círculos pelo mesmo lugar, por não encontrarem aquele lugar."
+        },
+        {
+            "id": 10,
+            "model": "설씨사병네임드",
+            "content": "...É que este lugar é desgraçadamente vasto."
+        },
+        {
+            "id": 11,
+            "model": "설씨사병네임드",
+            "content": "Se vocês simplesmente nos disserem o caminho, quietinhos, e sumirem, nós não os perseguiremos."
+        },
+        {
+            "id": 12,
+            "model": "설씨사병네임드",
+            "content": "Uma coisa sem qualificação se tornar patriarca... desistam dessa ideia descabida."
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "Essa ameaça... a gente já ouviu agora há pouco."
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "content": "Might wanna get some new material."
+        }
+    ]
+}

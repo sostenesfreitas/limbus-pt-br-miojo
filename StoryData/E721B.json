@@ -1,0 +1,394 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Periferia do Distrito 8, Entrada",
+            "teller": "Voz Cantarolando",
+            "title": "???",
+            "content": "Se há um rancor profundo, é forçoso lavá-lo até escorrer~"
+        },
+        {
+            "id": 1,
+            "teller": "Voz Cantarolando",
+            "title": "???",
+            "content": "Quando o que está longe vier procurar, por entre a porta queimada uma estrela vem cair~"
+        },
+        {
+            "id": 2,
+            "model": "싱클레어",
+            "content": "É, é por aqui mesmo que se vai? De um tempo para cá eu também escuto uma canção estranha…"
+        },
+        {
+            "id": 3,
+            "model": "경도",
+            "content": "Nas ruas, há gente de sobra mirando o jovem patrão, então, decerto, não se pode andar por um caminho comum."
+        },
+        {
+            "id": 4,
+            "content": "Conforme as palavras dele, por ser um lugar bastante escurecido, as emboscadas não tiveram continuidade."
+        },
+        {
+            "id": 5,
+            "content": "Que haja tão pouca presença de gente é inquietante, mas, na situação de agora, talvez seja até melhor."
+        },
+        {
+            "id": 6,
+            "model": "경도",
+            "content": "E aquilo é… uma canção que, nos becos, vem circulando desde alguns meses atrás."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Para uma canção famosa, a letra é meio… arrepiante."
+        },
+        {
+            "id": 8,
+            "model": "경도",
+            "content": "A partir de certo dia, as pessoas começaram a cantá-la, uma a uma… na família Kong, que foi dizimada…"
+        },
+        {
+            "id": 9,
+            "model": "경도",
+            "content": "Hum. Este não é um lugar bom para se falar disso. Quando houver oportunidade, eu lhes contarei."
+        },
+        {
+            "id": 10,
+            "model": "홍루",
+            "content": "Então existia uma canção dessas?"
+        },
+        {
+            "id": 11,
+            "model": "싱클레어",
+            "content": "Senhor Hong Lu, é uma canção que o senhor também ouve pela primeira vez?"
+        },
+        {
+            "id": 12,
+            "model": "히스클리프",
+            "content": "Sendo um jovem patrão criado em berço nobre, ele há de ter vindo aos becos pela primeira vez. Então uma canção dessas também é a primeira vez."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Hum~ não é que eu tenha vindo aos becos pela primeira vez… mas o que o senhor Heathcliff disse também não está errado."
+        },
+        {
+            "id": 14,
+            "model": "홍루",
+            "content": "É que eu passava a maior parte do tempo no meu quarto."
+        },
+        {
+            "id": 15,
+            "model": "경도",
+            "content": "Isso é porque o jovem patrão é uma pessoa assim tão preciosa, não é mesmo."
+        },
+        {
+            "id": 16,
+            "model": "경도",
+            "content": "Tal como se esconde o jade mais caro e reluzente no ponto mais fundo da casa principal, num lugar que ninguém alcança!"
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 18,
+            "model": "오티스",
+            "content": "Eu sou daquele nível…?"
+        },
+        {
+            "id": 19,
+            "model": "이상",
+            "content": "…Ultimamente, é verdade que tem sido menos."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Hum…>"
+        },
+        {
+            "id": 21,
+            "content": "Agora que penso, parece que aquela pessoa também disse que trabalhou para a família Jia…"
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Hong Lu, por acaso é alguém que você conhece?>"
+        },
+        {
+            "id": 23,
+            "model": "홍루",
+            "content": "Sim? Ã…"
+        },
+        {
+            "id": 24,
+            "model": "경도",
+            "content": "…Jovem patrão? Por que o senhor examina assim o meu rosto…"
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "content": "Ah…"
+        },
+        {
+            "id": 26,
+            "content": "Hong Lu, talvez por algo lhe ter ocorrido de súbito, ia dizer algo, mas parou e me lançou um olhar de relance."
+        },
+        {
+            "id": 27,
+            "content": "E então…"
+        },
+        {
+            "id": 28,
+            "model": "홍루",
+            "content": "Não é nada. Nós podemos continuar caminhando por aqui?"
+        },
+        {
+            "id": 29,
+            "model": "경도",
+            "content": "Assim é. Este servo é perito na geografia destas redondezas, então não se preocupem."
+        },
+        {
+            "id": 30,
+            "content": "Desviando a conversa de leve para outro rumo, ele balançou a cabeça para mim, em negativa."
+        },
+        {
+            "id": 31,
+            "content": "Aquilo parecia… uma atitude de não querer compartilhar com aquele sujeito a informação que nós tínhamos."
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<…Tem algum ponto suspeito nele?>"
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "…Não há mal em ter cautela. Por mais que se diga colaborador, é algo provisório."
+        },
+        {
+            "id": 35,
+            "model": "오티스",
+            "content": "A julgar pelo jeito como aquele sujeito chamado Pilot fala, há motivo de sobra para desconfiar."
+        },
+        {
+            "id": 36,
+            "content": "No lugar de Hong Lu, que ao lado do guia ia correspondendo às várias conversas, Faust e Outis, sem que se notasse, aproximaram-se de mim."
+        },
+        {
+            "id": 37,
+            "content": "Bem, pensando nas coisas que aconteceram até aqui…"
+        },
+        {
+            "id": 38,
+            "content": "Não se há de poder confiar em alguém só por ser chamado de colaborador."
+        },
+        {
+            "id": 39,
+            "content": "Por causa da desconfiança que assim surgiu, foi só depois de pôr um pouco mais de distância em relação ao guia que eu pude perguntar a Faust o que me intrigava."
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<Agora que penso, o que era aquilo que o Vergílio mandou explicar há pouco? Ele disse que vai ajudar num trabalho…>"
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "…É uma medida decorrente do que aconteceu em Wuthering Heights."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "…Aah."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "Como ele violou uma cláusula grave que havia sido contratada com a empresa, o senhor pode entender que ele está, agora, arcando com a responsabilidade por isso."
+        },
+        {
+            "id": 44,
+            "content": "…Eu recordo aquele acontecimento, que parece já ter ficado muito no passado."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<É até um pouco lamentável… ele ajudou no momento mais perigoso.>"
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "content": "O quê?! É por causa daquilo de então que aquele cara está sendo levado embora?!"
+        },
+        {
+            "id": 47,
+            "model": "경도",
+            "content": "…Aconteceu alguma coisa com os ilustres convidados?"
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "content": "A-ahaha! Não é nada! Não é, Ryōshū?"
+        },
+        {
+            "id": 49,
+            "model": "히스클리프",
+            "content": "Cuc!"
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "content": "Pes.co.ço. Mor.te. Coisa pela metade."
+        },
+        {
+            "id": 51,
+            "model": "로쟈",
+            "content": "Meursault, o nosso Heath parece estar meio cansado; você pode dar uma mãozinha, né?"
+        },
+        {
+            "id": 52,
+            "model": "뫼르소",
+            "content": "Não há problema."
+        },
+        {
+            "id": 53,
+            "content": "Num piscar de olhos, o cabo da espada de Ryōshū cutucou a barriga de Heathcliff e, ao Heathcliff que perdeu o equilíbrio, Meursault carregou nas costas sem mais nem menos."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Rodion…?>"
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Eu~ não gosto de gente que, numa conversa secreta, sem o menor tato, levanta a voz~"
+        },
+        {
+            "id": 56,
+            "model": "로쟈",
+            "content": "Dante também acha, não é?"
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<S-sim…>"
+        },
+        {
+            "id": 58,
+            "content": "Diante de um clima em que parecia que eu não tinha como não concordar, eu assenti depressa com a cabeça."
+        },
+        {
+            "id": 59,
+            "content": "Ainda que eu não o fizesse, Rodion não me faria a mesma coisa, mas…"
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "…Neste caso, o julgamento da senhora Rodion e da senhora Ryōshū está certo. É que não se pode deixar um estranho ao quadro ouvir um assunto sigiloso da empresa."
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "Pensando bem, antigamente, no ônibus também, ele perguntou sem levantar a mão e ficou desmaiado por um bom tempo. Sei lá por que o tato dele não melhora."
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Hum. Como não chegou a haver morte, eu considero que é uma boa política de segurança."
+        },
+        {
+            "id": 63,
+            "model": "로쟈",
+            "content": "Hehe, eu fui bem, não fui?"
+        },
+        {
+            "id": 64,
+            "content": "…Eu só lamentava que o tratamento dado a Heathcliff tivesse caído por terra."
+        },
+        {
+            "id": 65,
+            "model": "경도",
+            "content": "Se não for nada de mais, ainda bem, mas…"
+        },
+        {
+            "id": 66,
+            "model": "경도",
+            "content": "Para minha vergonha, parece que logo vai acontecer algo de mais, então eu também estou preocupado."
+        },
+        {
+            "id": 67,
+            "content": "Ao olhar em volta diante das palavras do guia, um bando que, sem que se notasse, surgira empunhando ferramentas estava bloqueando a passagem."
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "content": "Ei, você não disse que indo por aqui não haveria emboscada?"
+        },
+        {
+            "id": 69,
+            "model": "경도",
+            "content": "Eu creio que uma boa quantidade de emboscadas nós evitamos. Que alguns sujeitos de faro apurado tenham pisado no nosso rastro… é deplorável, mas não há o que fazer."
+        },
+        {
+            "id": 70,
+            "model": "오티스",
+            "content": "Maldição. Prevenir isso não era o motivo pelo qual nós buscamos a tua colaboração?"
+        },
+        {
+            "id": 71,
+            "model": "이스마엘",
+            "content": "Suspiro… quem está certo e quem está errado, a gente discute daqui a pouco. Antes de tudo… derrubar todos eles sem deixar nenhum, isso é que parece ser a prioridade."
+        },
+        {
+            "id": 72,
+            "model": "뫼르소",
+            "content": "Hum. Temos de impedir que eles espalhem para fora o fato de que estamos aqui."
+        },
+        {
+            "id": 73,
+            "model": "로쟈",
+            "content": "Isso. Mas, escuta, senhor Gyeongdo. Aonde é que você está indo, assim de fininho?"
+        },
+        {
+            "id": 74,
+            "model": "경도",
+            "content": "Como este servo não tem o menor jeito para o combate, eu pretendo recuar um pouco. Mas, sendo o jovem patrão e os ilustres convidados fortes…"
+        },
+        {
+            "id": 75,
+            "content": "Gyeongdo, sem que se notasse, já tinha se afastado para ainda mais atrás do que eu."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<…Faust, não tem nenhuma informação sobre aqueles sujeitos?>"
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Não. Mas, mesmo sem recorrer à Gesellschaft, parece dar para saber que não há margem de negociação com eles."
+        },
+        {
+            "id": 78,
+            "model": "오티스",
+            "content": "…Estão vindo."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<Meursault… acorda o Heathcliff de novo e põe ele no chão.>"
+        },
+        {
+            "id": 80,
+            "model": "뫼르소",
+            "content": "Entendido."
+        }
+    ]
+}

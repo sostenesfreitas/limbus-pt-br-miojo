@@ -1,0 +1,305 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine de Primeira Classe do Trem WARP",
+            "model": "단테",
+            "content": "<Você está sem conseguir... acessar?>"
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "content": "Exatamente o que disse. Eu não consigo... Acessar nenhum conhecimento ou informação oferecida por Faust."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<... Ah! Então é como aquela vez, quando você disse que era conhecimento que ainda não podia ser acessado...?>"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Esta possibilidade não pode ser descartada, mas... Nem eu tenho certeza agora..."
+        },
+        {
+            "id": 4,
+            "content": "Faust sempre dava respostas metódicas e precisas quando era necessário compartilhar informações."
+        },
+        {
+            "id": 5,
+            "content": "Acho que ela nunca havia falado com base em tantas suposições... e muito menos com este tom de incerteza."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Então, a \"Faust\", agora é...>"
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "content": "Sim. Neste exato momento, eu estou... utilizando apenas o conhecimento que eu mesma possuo."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "content": "A cusa disso é desconhecida... Precauções contra situações de saltos dimensionais deveriam ter sidos suficientes, mas Faust não conseguiu prever que a conexão seria tão instável em uma dimensão imprevisível deste jeito. Ou, mesmo que já houvesse sido previsto, talvez ainda não tenha conseguido realizar uma solução."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Se não for este o caso... Não, esqueça."
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "Não tinha nada que indicasse que a conexão com Faust seria cortada no momento que embarcamos neste trem. Para ser sincera..."
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "Eu sinto que estou... em um estado de perplexidade."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<... Certo, por agora eu te entendo.>"
+        },
+        {
+            "id": 14,
+            "content": "A situação virou de cabeça para baixo."
+        },
+        {
+            "id": 15,
+            "content": "Eu me lembrei de Faust dizendo para que não me preocupasse, logo antes das cápsulas serem fechadas."
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<A situação só está um pouco tensa. Mas nós vamos conseguir sair dessa...>"
+        },
+        {
+            "id": 17,
+            "content": "Sussuro para mim como se estivesse tentando me convencer."
+        },
+        {
+            "id": 18,
+            "content": "Como Gerente, minha função agora é acalmar vocês e planejar nossos passos. Assim como Faust fez no momento antes das cápsulas fecharem."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Se sua suposição estiver correta, assim que descermos deste trem, sua conexão deve ser reestabelecida na hora e...>"
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Se nada disso funcionar, eu sempre posso rebobinar o relógio.>"
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<Não fique muito preocupada. Nós temos o seu conhecimento... O meu relógio... E o resto dos Pecadores...>"
+        },
+        {
+            "id": 22,
+            "content": "Embora sentindo minha confiança diminuir a cada palavra dita, esta resposta parece ter bastado para Faust, que levemente assena."
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "... Sim, compreendo."
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "E... Quanto ao resto dos Pecadores..."
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Eles já parecem estar muito ansiosos pelo fato de estarem à deriva em um trem Warp... Portanto acho que compartilhar o estado de Faust nesse momento é desnecessário."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<Hum...>"
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "content": "Em? Se tá dizendo que se eu arrombar essa porta fodeu pra todo mundo?"
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Pelo amor, quantas vezes já disse que mesmo com toda sua força você não vai conseguir arrombar essa porta!"
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "Bi-bilhões... de anos dentro daqui, haha..."
+        },
+        {
+            "id": 30,
+            "model": "단테",
+            "content": "<... Sim. Talvez este seja o melhor.>"
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "E então? E agora? A gente vai passar um pente fino em cada vagão... ou algo do tipo?"
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "Pode-se dizer que sim, em geral, você está correto."
+        },
+        {
+            "id": 33,
+            "content": "Faust limpa sua garganta antes de chamar a atenção de todos, para que possa continuar com sua explicação."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Este trem... Está em operação há três dias, pelo menos nos padrões de tempo da A Corp."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Conforme o contrato da Limbus Company e da W Corp., eu obtive o cartão mestre e o programei para abrir minha cápsula em três dias. "
+        },
+        {
+            "id": 36,
+            "model": "그레고르",
+            "content": "Hã... Três dias."
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "Parece que só dei uma piscada... Então é assim que é a hibernação."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "Conforme já foi informado a nós, é impossível que passageiros nos vagões econômicos consigam entrar no vagão de primeira classe, por conta disso que este lugar ainda está intacto."
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Juntando as minhas suposições e as poucas informações que temos sobre a W corp. ... Podemos concluir que os vagões de classe econômica já devem estar sob uma situação problemática."
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Hein... Você tá falando daquelas coisas dos passageiros ficarem arrancado os membros uns dos outros?"
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Não, não deve ser isso... Eu acho que as coisas não ficariam tão feias em só três dias... Sem dizer que eles não nos colocariam em uma fria dessas."
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "content": "Precisamente. Na minha opinião, provavelmente..."
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "Oh, aquietem-se por um breve instante. Aguardai, vo-lo peço!"
+        },
+        {
+            "id": 44,
+            "content": "Assim que Faust ia continuar sua fala, Dom Quixote coloca seu dedo indicador sob seus lábios, sinalizando para que todos façam silêncio."
+        },
+        {
+            "id": 45,
+            "model": "돈키호테",
+            "content": "Há algo... porventura ouvis algo há ecoar?!"
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "content": "Sinto um arranhar... ou porventura um golpe? Decerto, além desta porta há..."
+        },
+        {
+            "id": 47,
+            "content": "Dom Quixote, que estava com a orelha encostada na porta, olha para nós com uma expressão que misturava curiosidade e medo igualmente."
+        },
+        {
+            "id": 48,
+            "model": "돈키호테",
+            "content": "Decerto, algo jaz ali... Hum? Senhorita Faust?"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 50,
+            "content": "Ao ouvirem estes sons peculiares, simultaneamente, todos os Pecadores viram seus olhares para Faust..."
+        },
+        {
+            "id": 51,
+            "content": "... Ela que fecha seus olhos, totalmente imersa em seus pensamentos."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "Com licença, Don Quixote. Seria melhor eu observar esta situação eu mesma antes de decidirmos nossos próximos passos."
+        },
+        {
+            "id": 53,
+            "content": "Dito isso, Faust pega o cartão em seu bolso e se aproxima do painel instalado perto da porta."
+        },
+        {
+            "id": 54,
+            "model": "히스클리프",
+            "content": "Ei, calmou. Você vai mesmo abrir essa porta?"
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Por esta vez seguirei a sugestão habitual de Heathcliff."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Às vezes pode ser melhor encarar situações com força física além de hesitar."
+        },
+        {
+            "id": 57,
+            "model": "히스클리프",
+            "content": "Hã, minha sugestão? Bem, não é como se você estivesse errada... Mas assim do nada?"
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "Afinal... Não seria capaz de deduzir sem antes observar a situação."
+        },
+        {
+            "id": 59,
+            "content": "Biiipe—"
+        },
+        {
+            "id": 60,
+            "content": "Um bipe ecoou uma única vez."
+        },
+        {
+            "id": 61,
+            "teller": "???",
+            "title": "???",
+            "content": "KAAAGGHHHH!!!"
+        },
+        {
+            "id": 62,
+            "content": "Criaturas medonhas avançam até nós."
+        }
+    ]
+}

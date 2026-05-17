@@ -1,0 +1,558 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Palanquim",
+            "model": "가마꾼",
+            "content": "Entering Daguanyuan now!"
+        },
+        {
+            "id": 1,
+            "content": "Houve percalços aqui e ali, mas... sem que se notasse, parecia que nós tínhamos chegado ao lugar que era o nosso objetivo."
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 3,
+            "content": "Daguanyuan, Hong Lu's old home."
+        },
+        {
+            "id": 4,
+            "model": "뉴소드",
+            "content": "Oof, we’re running out of time."
+        },
+        {
+            "id": 5,
+            "model": "뉴소드",
+            "content": "Senhora Faust. A senhora já deve ter entendido o ponto central do meu plano, não?"
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "content": "It is... unlikely to be a pleasant sight to behold."
+        },
+        {
+            "id": 8,
+            "model": "뉴소드",
+            "content": "O ponto central está em, mesmo que eles tentem matar vocês, esperarem sem se desesperar."
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "content": "Pode ser que, por medo prematuro, caia uma ordem de nos eliminar. Mas eu acho que a coragem de quem seleciona o patriarca de Hongwon não há de ser tão pequena assim."
+        },
+        {
+            "id": 10,
+            "model": "뉴소드",
+            "content": "Pois é. Contanto que a têmpera do adversário seja grande."
+        },
+        {
+            "id": 11,
+            "model": "히스클리프",
+            "content": "Nnh? Execution? Wha?"
+        },
+        {
+            "id": 12,
+            "model": "뉴소드",
+            "content": "Então o próximo contato fica... para depois de a gente concluir a 1ª rodada em segurança."
+        },
+        {
+            "id": 13,
+            "content": "Depois que uma conversa estranha foi trocada por um instante, Sword, deixando para trás apenas a voz de Heathcliff embriagado de sono, saltou para fora do palanquim com a fluidez da água que corre."
+        },
+        {
+            "id": 14,
+            "content": "...Na direção em que ela se afastava, só havia, enfileiradas, as figuras das pessoas desalojadas por causa do Dia do Recadastramento, esmagadas aqui e ali, rastejando pelo chão e soluçando."
+        },
+        {
+            "id": 15,
+            "model": "싱클레어",
+            "content": "Que coisa atroz... ainda que não haja nada que a gente possa fazer para ajudar..."
+        },
+        {
+            "id": 16,
+            "model": "뫼르소",
+            "content": "Essa sensação de impotência afeta a eficiência no trabalho."
+        },
+        {
+            "id": 17,
+            "model": "뫼르소",
+            "content": "Eu até recomendaria experimentar isso de modo repetido até se acostumar."
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "model": "싱클레어",
+            "content": "S-senhor Hong Lu, como é a sensação de voltar para casa?"
+        },
+        {
+            "id": 20,
+            "content": "Sinclair changed the subject."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "Hmm… I don’t know..."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "Isso lá é pergunta? ...Há de ser confuso, ora."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Eu, no meio do caminho, pensei centenas de vezes em simplesmente voltar atrás."
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "Se eu batesse na porta e aquela menina me..."
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "content": "Heathcliff, enquanto falava, parou por um instante, como se a garganta se fechasse."
+        },
+        {
+            "id": 27,
+            "content": "Os Pecadores fitavam Heathcliff, imóveis, com uma expressão de quem não entendia o motivo."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "O que foi, por que você para no meio da frase..."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<Hum... esse cenário da janela aqui~ pelo visto dá pra trocar por outro também?!>"
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Sigh..."
+        },
+        {
+            "id": 31,
+            "content": "Eu tentei depressa desviar a atenção, mas Ishmael me lançou um olhar reprovador, como quem dizia 'é hora de falar uma coisa dessas?'."
+        },
+        {
+            "id": 32,
+            "model": "홍루",
+            "content": "Fuhu, I remember."
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "Quando seguimos para a Cidade, onde cada um teve as suas alegrias e tristezas, vocês todos olhavam, no ônibus, cada um a sua própria paisagem."
+        },
+        {
+            "id": 34,
+            "model": "홍루",
+            "content": "A senhora Rodya ficava o tempo todo tentando fazer piadas desajeitadas,"
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "...o senhor Sinclair tentou engolir o choro algumas vezes."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "E o senhor Yi Sang manteve os olhos fechados por um longo tempo."
+        },
+        {
+            "id": 37,
+            "model": "홍루",
+            "content": "A senhora Ishmael ficava falando sozinha, olhando para baixo, para o lago, e..."
+        },
+        {
+            "id": 38,
+            "model": "홍루",
+            "content": "...o senhor Heathcliff, de tão amedrontado, ajeitou o cabelo inúmeras vezes."
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Você... reparou bem em detalhe.>"
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "Did... we?"
+        },
+        {
+            "id": 41,
+            "model": "홍루",
+            "content": "Quando a primavera passa, todas as pétalas se dispersam e, cada uma procurando a sua própria porta, retornam de seu modo."
+        },
+        {
+            "id": 42,
+            "model": "홍루",
+            "content": "Eu, sabe, acho que cada um de vocês tem as suas próprias pétalas, que juntou."
+        },
+        {
+            "id": 43,
+            "model": "히스클리프",
+            "content": "...Eu não tenho, viu? Por que é que alguém juntaria uma coisa dessas?"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Então é apenas que você ainda não as jogou fora."
+        },
+        {
+            "id": 45,
+            "content": "Hong Lu continuava esboçando um sorriso transparente, mas era como se também se refletisse nele uma sombra de algo trancado."
+        },
+        {
+            "id": 46,
+            "place": "-1",
+            "model": "단테",
+            "content": "<Oh...>"
+        },
+        {
+            "id": 47,
+            "content": "Quando senti isso, de súbito uma luz familiar entrou no meu campo de visão."
+        },
+        {
+            "id": 48,
+            "content": "Eu pude perceber logo."
+        },
+        {
+            "id": 49,
+            "content": "Que o Ramo Dourado se aproximara, e que entrava em ressonância com a imagem interior de Hong Lu."
+        },
+        {
+            "id": 50,
+            "teller": "???",
+            "title": "???",
+            "content": "<i>Veem-me a enterrar pétalas e os outros zombam de mim,</i>"
+        },
+        {
+            "id": 51,
+            "place": "Passado, Algum Lugar do Grande Jardim",
+            "teller": "???",
+            "title": "???",
+            "content": "<i>Who lays me to rest once I die?</i>"
+        },
+        {
+            "id": 52,
+            "teller": "???",
+            "title": "???",
+            "content": "<i>quando a primavera se for e o rosto formoso envelhecer,</i>"
+        },
+        {
+            "id": 53,
+            "teller": "???",
+            "title": "???",
+            "content": "<i>as flores caem, as pessoas partem, e não há como um saber do outro.</i>"
+        },
+        {
+            "id": 54,
+            "model": "어린홍루",
+            "title": "Família Jia",
+            "content": "Por que a Daiyu só recita poemas difíceis de entender?"
+        },
+        {
+            "id": 55,
+            "model": "어린홍루",
+            "title": "Família Jia",
+            "content": "Não tem um monte de meios de não envelhecer, por aí?"
+        },
+        {
+            "id": 56,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "Porque, mesmo que o cabelo não fique branco, a primavera passa."
+        },
+        {
+            "id": 57,
+            "model": "어린홍루",
+            "title": "Família Jia",
+            "content": "Por que você está recolhendo as pétalas com as próprias mãos?"
+        },
+        {
+            "id": 58,
+            "model": "어린홍루",
+            "title": "Família Jia",
+            "content": "É só deixá-las flutuar e levá-las pela água, ora. E olha que a sua mão vai ficar toda suja de terra..."
+        },
+        {
+            "id": 59,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "And be so wasteful?"
+        },
+        {
+            "id": 60,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "Se a gente varrer todas as pétalas, aonde é que a gente vai para ouvir o som da chuva?"
+        },
+        {
+            "id": 61,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "Isto é uma lembrança. A lembrança de um dia de chuva. Por isso eu não vou jogá-las fora."
+        },
+        {
+            "id": 62,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "E, se elas forem levadas pela correnteza, a gente acaba sujando as flores, não é?"
+        },
+        {
+            "id": 63,
+            "model": "어린임대옥",
+            "teller": "Daiyu?",
+            "title": "???",
+            "content": "Irmão Book, você também, por favor, não disperse todas as pétalas que tinha no peito."
+        },
+        {
+            "id": 64,
+            "place": "Interior do Palanquim",
+            "model": "단테",
+            "content": "<Hong Lu...>"
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<Não há ninguém que você queira ver no Grande Jardim?>"
+        },
+        {
+            "id": 66,
+            "model": "홍루",
+            "content": "Hmm…"
+        },
+        {
+            "id": 67,
+            "model": "홍루",
+            "content": "No, there isn't."
+        },
+        {
+            "id": 68,
+            "model": "싱클레어",
+            "content": "...Como é que pode ser assim? O senhor há de ter deixado para trás a família... e várias pessoas queridas..."
+        },
+        {
+            "id": 69,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 70,
+            "model": "홍루",
+            "content": "Well, as long as I believe them to be doing well…"
+        },
+        {
+            "id": 71,
+            "model": "홍루",
+            "content": "É que não há razão para se ter, de propósito, um coração saudoso."
+        },
+        {
+            "id": 72,
+            "model": "단테",
+            "content": "<……. > "
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<As suas pétalas, você as guarda... bem?>"
+        },
+        {
+            "id": 74,
+            "model": "홍루",
+            "content": "Não, eu dispersei todas elas quando parti de casa."
+        },
+        {
+            "id": 75,
+            "model": "홍루",
+            "content": "Por isso, agora, nos dias de chuva não se ouve som nenhum."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<I see... >"
+        },
+        {
+            "id": 77,
+            "model": "홍루",
+            "content": "O senhor viu, não foi? Senhor Dante."
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "You saw my memory."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<... I did.>"
+        },
+        {
+            "id": 80,
+            "model": "홍루",
+            "content": "Hehe."
+        },
+        {
+            "id": 81,
+            "content": "Hong Lu apenas sorriu. Não se assustou, nem se irritou, por terem espiado a sua memória."
+        },
+        {
+            "id": 82,
+            "model": "싱클레어",
+            "content": "Uhm..."
+        },
+        {
+            "id": 83,
+            "model": "싱클레어",
+            "content": "Como são os pais do senhor Hong Lu? Ou então aquela... aquela senhora que o senhor mencionou às vezes, a vovó..."
+        },
+        {
+            "id": 84,
+            "content": "Sinclair added carefully."
+        },
+        {
+            "id": 85,
+            "content": "Talvez ele estivesse tentando captar, ainda que vagamente, um senso de afinidade. Pois era o caminho rumo à casa onde estava a família."
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "Os dois são lúcidos quanto à razão das coisas."
+        },
+        {
+            "id": 87,
+            "model": "홍루",
+            "content": "Grandmother always treated me preciously."
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Tanto a minha mãe quanto o meu pai me trataram com carinho."
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "Uh, uhm..."
+        },
+        {
+            "id": 90,
+            "model": "홍루",
+            "content": "Ah, we're almost there."
+        },
+        {
+            "id": 91,
+            "model": "홍루",
+            "content": "Dá para ver o jardim."
+        },
+        {
+            "id": 92,
+            "model": "단테",
+            "content": "<This is one massive garden...>"
+        },
+        {
+            "id": 93,
+            "model": "홍루",
+            "content": "Para entrar na casa principal ainda falta um pouco."
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "É que antigamente cervos e coelhos também corriam e brincavam no jardim. Hehe."
+        },
+        {
+            "id": 95,
+            "model": "이스마엘",
+            "content": "Isto aqui, para passear, dá para caminhar o dia inteiro..."
+        },
+        {
+            "id": 96,
+            "model": "홍루",
+            "content": "Eu, em geral, só andava em volta do quarto em que eu morava. Porque é perigoso de vários modos."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<It’s dangerous? Why?>"
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Caminhando por um caminho errado, a gente pode encontrar até pessoas inesperadas~ e pode virar alvo também. À noite, a gente pode até não enxergar o que tem à frente."
+        },
+        {
+            "id": 99,
+            "model": "히스클리프",
+            "content": "Que isso... a gente simplesmente corre no quintal, pode é ralar o joelho e arranhar um pouco a cara num galho, e é isso."
+        },
+        {
+            "id": 100,
+            "model": "홍루",
+            "content": "Hehe, sendo o senhor Heathcliff, eu acho que o senhor corria livremente. Ainda assim, é melhor ter sempre cuidado."
+        },
+        {
+            "id": 101,
+            "model": "홍루",
+            "content": "Quando eu tinha cinco anos, alguém passou um veneno mortal num galho de árvore."
+        },
+        {
+            "id": 102,
+            "model": "로쟈",
+            "content": "Ack... poison?!"
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "Eu tinha uma irmã mais nova que, como o senhor Heathcliff, gostava de correr e brincar, e..."
+        },
+        {
+            "id": 104,
+            "model": "홍루",
+            "content": "...por acaso ou não, era justo no galho ao redor dela que o veneno estava impregnado."
+        },
+        {
+            "id": 105,
+            "model": "돈키호테",
+            "content": "E... e o que aconteceu com ela?"
+        },
+        {
+            "id": 106,
+            "model": "홍루",
+            "content": "I'm sure he got better."
+        },
+        {
+            "id": 107,
+            "model": "홍루",
+            "content": "Xiren told me he’ll be just fine after a hundred nights' rest."
+        },
+        {
+            "id": 108,
+            "model": "홍루",
+            "content": "Xiren foi sempre inteligente, então deve ter acabado assim."
+        }
+    ]
+}

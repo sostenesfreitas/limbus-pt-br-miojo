@@ -1,0 +1,407 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "검지제자2",
+            "content": "Ah, é-é só virar aquela esquina ali e já é o elevador."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<É verdade, a presença do Ramo Dourado vai se sentindo cada vez mais perto, mas...>"
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Huh...?>"
+        },
+        {
+            "id": 4,
+            "content": "Mas, ao contrário de antes, a presença do Ramo Dourado não me chega de forma íntegra."
+        },
+        {
+            "id": 5,
+            "content": "É como se finas paredes tivessem sido sobrepostas em várias camadas..."
+        },
+        {
+            "id": 6,
+            "place": "Equipe de Pesquisa da LCE\nElevador",
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 7,
+            "model": "료슈",
+            "content": "You..."
+        },
+        {
+            "id": 8,
+            "model": "소지아비3",
+            "content": "......."
+        },
+        {
+            "id": 9,
+            "content": "Segurando o recipiente em que estavam os feixes de Ramo Dourado, o Pai do Mindinho estava de pé diante do elevador."
+        },
+        {
+            "id": 10,
+            "content": "Como na cena de agora há pouco, qual quem sabia que viríamos... aquele sujeito nos observa sem o menor movimento."
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Chiado... Aah, estão me ouvindo? Tomara que isto, por favor... não venha a ser o meu décimo primeiro monólogo. E olha que eu até pus em funcionamento um amplificador de sinal."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "... Yeah, we read you."
+        },
+        {
+            "id": 13,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "...Sim, é uma sorte. Do nosso lado, o restabelecimento da energia está prestes a se concluir."
+        },
+        {
+            "id": 14,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "O Ramo Dourado... vocês o encontraram?"
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "... Yeah. They're right in front of us."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "O problema é que ele não está em nossas mãos... Estamos em confronto, diante do elevador, com o cara que roubou o Ramo Dourado."
+        },
+        {
+            "id": 17,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "... I see."
+        },
+        {
+            "id": 18,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Vocês conseguem impedir que ele tome o elevador? Pois, quando a energia for restabelecida... aquele sujeito poderá fugir para outro andar."
+        },
+        {
+            "id": 19,
+            "content": "Hohenheim's voice sounded off..."
+        },
+        {
+            "id": 20,
+            "content": "Parecia estar um pouco trêmula, ou então como quem, a custo, suportava alguma coisa."
+        },
+        {
+            "id": 21,
+            "model": "이상",
+            "content": "Hohenheim."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "A vossa voz... está tudo bem?"
+        },
+        {
+            "id": 23,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Bom, nem aqui nem aí a situação é, de parte a parte, nada agradável, não é?"
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "Isso é verdade, mas, do seu lado... como está a situação?"
+        },
+        {
+            "id": 25,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "...É melhor vocês se preocuparem com a situação de vocês do que com a daqui."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Right... At least it's just a single enemy here—we'll manage."
+        },
+        {
+            "id": 27,
+            "model": "료슈",
+            "content": "Não — fiquem tensos. Um Pai..."
+        },
+        {
+            "id": 28,
+            "model": "료슈",
+            "content": "...é diferente dos peixinhos miúdos que ele andava levando."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<.......>"
+        },
+        {
+            "id": 30,
+            "content": "De fato, com a força atual... mesmo que fosse um inimigo que normalmente conseguiríamos vencer, é certo que ela mal daria conta."
+        },
+        {
+            "id": 31,
+            "content": "Ao menos se todos os Pecadores estivessem aqui, a situação estaria melhor, mas..."
+        },
+        {
+            "id": 32,
+            "content": "...Nem por isso, porém, dá para deixar o Ramo Dourado escapar diante dos nossos olhos."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Be ready... to die more than a few times.>"
+        },
+        {
+            "id": 34,
+            "model": "라비",
+            "content": "O clima... não parece nada bom. Os senhores vão lutar?"
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "... It seems unavoidable."
+        },
+        {
+            "id": 36,
+            "model": "라비",
+            "content": "Se a mim também tivessem fornecido um equipamento E.G.O adequado, eu poderia ter ajudado vocês, mas..."
+        },
+        {
+            "id": 37,
+            "model": "라비",
+            "content": "...parece não haver nada que eu possa fazer. Peço desculpas."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "Right. Smart call."
+        },
+        {
+            "id": 39,
+            "model": "라비",
+            "content": "A senhora Sora... colega de turma, como já possui aquele E.G.O com aparência de grilhão, decerto pretende ajudar, não?"
+        },
+        {
+            "id": 40,
+            "model": "검지제자2",
+            "content": "U-ué...? Mas... a gente não ia tomar o elevador e fugir todo mundo junto?"
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "Como você está vendo, o sujeito que assaltou este lugar levou o Ramo Dourado."
+        },
+        {
+            "id": 42,
+            "model": "검지제자2",
+            "content": "Ma-mas aquela pessoa... deve ser muito forte... Mes-mesmo juntando todos os meus colegas, diante dela seríamos pouco mais que uma vela ao vento."
+        },
+        {
+            "id": 43,
+            "model": "라비",
+            "content": "Como é que a senhora sabe disso...?"
+        },
+        {
+            "id": 44,
+            "model": "그레고르",
+            "content": "Deixa pra lá. Senhora Sora, senhor Ravi, fiquem só escondidos o mais atrás possível, abriguem o corpo direitinho..."
+        },
+        {
+            "id": 45,
+            "model": "검지제자2",
+            "content": "Nã-não. Se eu fizer isso, depois posso levar bronca."
+        },
+        {
+            "id": 46,
+            "model": "검지제자2",
+            "content": "Eu não gosto de levar bronca. Até agora eu vinha me saindo be-bem... e eu só quero receber elogios..."
+        },
+        {
+            "id": 47,
+            "model": "라비",
+            "content": "Sora...?"
+        },
+        {
+            "id": 48,
+            "model": "라비",
+            "content": "Kergh..."
+        },
+        {
+            "id": 49,
+            "model": "검지제자2",
+            "content": "Desculpem. É que a senhora Lüen disse que, quando eu encontrasse a fa-família... eu devia ajudar sem falta... foi o que ela disse."
+        },
+        {
+            "id": 50,
+            "content": "No instante em que Sora, dando meia-volta, correu na minha direção, Yi Sang e Meursault se postaram diante dela, e..."
+        },
+        {
+            "id": 51,
+            "content": "...Ryoshu me empurrou para o lado."
+        },
+        {
+            "id": 52,
+            "model": "그레고르",
+            "content": "Yeah, figured that's how this'd go down."
+        },
+        {
+            "id": 53,
+            "model": "이상",
+            "content": "Dante!"
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<...!>"
+        },
+        {
+            "id": 55,
+            "content": "Ryoshu brandiu a bainha da espada com o ímpeto de cortar Sora ali mesmo, mas..."
+        },
+        {
+            "id": 56,
+            "content": "...quando soou, vindo das minhas costas, um tilintar de corrente, logo uma dor intensa veio em seguida na junta do ombro."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Gah...!>"
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "Esse movimento... você dever ser a N.C. do Padrinho do Indicador."
+        },
+        {
+            "id": 59,
+            "content": "O que vi depois de perder o equilíbrio e cair foi... a figura de Sora, numa nítida postura de ataque."
+        },
+        {
+            "id": 61,
+            "model": "검지제자",
+            "content": "E-eu não tinha a intenção de fazer mal a vocês. Se houvesse oportunidade, eu queria tomar o elevador e sair junto, mas..."
+        },
+        {
+            "id": 62,
+            "model": "검지제자",
+            "content": "A-a vontade da ordem diz que não pode ser assim. E-eu também... é melhor que eu sig-siga as palavras da senhora Lüen, e..."
+        },
+        {
+            "id": 63,
+            "model": "이상",
+            "content": "...De fato, vós éreis um membro da Teia."
+        },
+        {
+            "id": 64,
+            "model": "검지제자",
+            "content": "Teria sido bom se eu pudesse ter apresentado o sorvete de baunilha ao se-senhor Ravi..."
+        },
+        {
+            "id": 65,
+            "model": "검지제자",
+            "content": "É que os outros fi-filhos... não me tratavam com gentileza assim."
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "content": "...Aquele sujeito te tratava assim porque acreditava que você era colega da mesma turma de admissão."
+        },
+        {
+            "id": 67,
+            "model": "검지제자",
+            "content": "Ah, e-era isso. Eu só tinha pegado emprestado, por um instante, o equipamento do cadáver de outra pessoa... Sendo assim, o senhor Ravi também não teria tomado sorvete comigo..."
+        },
+        {
+            "id": 68,
+            "model": "이상",
+            "content": "And Ravi..."
+        },
+        {
+            "id": 69,
+            "model": "료슈",
+            "content": "O.O.F. He's gone."
+        },
+        {
+            "id": 70,
+            "model": "뫼르소",
+            "content": "Por meio de um pacto tácito, foi possível afastar daquele sujeito o senhor Gerente e a pesquisadora novata, mas não foi uma surpresa simples a ponto de se poder proteger os dois por inteiro."
+        },
+        {
+            "id": 71,
+            "content": "...Ravi estava caído num canto do corredor, com metade do corpo dilacerada."
+        },
+        {
+            "id": 72,
+            "model": "료슈",
+            "content": "Relógio. Você consegue se levantar?"
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Hrrk... Don't think so.>"
+        },
+        {
+            "id": 74,
+            "model": "검지제자",
+            "content": "Co-como disseram que era o líder, eu pensei que tinha de dar conta dele primeiro; des-desculpe."
+        },
+        {
+            "id": 75,
+            "model": "검지제자",
+            "content": "O-o som do seu relógio... era bom de ouvir. Que pena... era parecido com o som do bi-bipe da senhora Lüen."
+        },
+        {
+            "id": 76,
+            "content": "Sora, como se de fato sentisse pena, fez uma cara de choro e me olhou de cima."
+        },
+        {
+            "id": 77,
+            "model": "검지제자",
+            "content": "I-infelizmente, o ferimento que você sofreu, ninguém vai curar."
+        },
+        {
+            "id": 78,
+            "content": "...São palavras difíceis de negar."
+        },
+        {
+            "id": 79,
+            "content": "Se eu tivesse um pouco mais de força... talvez tivesse salvado até Ravi, e, se não isso, ao menos não teria me ferido."
+        },
+        {
+            "id": 80,
+            "content": "Talvez eu também devesse ter feito alguma coisa na época em que Sinclair treinava."
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "Ainda assim, você consegue fazer tique-taque, suponho."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<... Yeah.>"
+        },
+        {
+            "id": 83,
+            "content": "Mas não é um motivo de aflição para se ponderar neste exato momento."
+        },
+        {
+            "id": 84,
+            "content": "Por ora... vamos fazer o que se deve fazer, o que se pode fazer."
+        }
+    ]
+}

@@ -1,0 +1,494 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Confirming: Railway status Unobstructed."
+        },
+        {
+            "id": 1,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Anuncia-se na estação a chegada do trem em 5 minutos."
+        },
+        {
+            "id": 2,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Os agentes de limpeza a bordo do trem devem concluir a arrumação com presteza."
+        },
+        {
+            "id": 3,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Repetimos o aviso. Em 5 minutos..."
+        },
+        {
+            "id": 4,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Whew…"
+        },
+        {
+            "id": 5,
+            "content": "O vagão traseiro de um trem Warp, onde estavam de pé um Fixer sem nome, ataviado da cabeça aos pés com equipamento de oficina, e alguns agentes de limpeza que o observavam."
+        },
+        {
+            "id": 6,
+            "content": "Depois que uma lâmina de luz azulada, brotada do cotovelo, trespassou o coração do Fixer."
+        },
+        {
+            "id": 7,
+            "content": "O rapaz descarregava a manopla sobrecarregada e soltava um suspiro alvíssimo, como quem se tranquiliza."
+        },
+        {
+            "id": 8,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "É isto aqui, né? O que aquele cara usava. Parece luva de oficina... É cara?"
+        },
+        {
+            "id": 9,
+            "content": "No chão, para onde se voltava o olhar irritado do rapaz, rolava uma luva de material refinado."
+        },
+        {
+            "id": 10,
+            "content": "Talvez fosse mais acertado dizer que era um punho a rolar, e não uma luva, mas..."
+        },
+        {
+            "id": 11,
+            "content": "o que de fato interessava ao rapaz era aquela luva, que à primeira vista não parecia coisa comum."
+        },
+        {
+            "id": 12,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Pelo número de série que está gravado, parece ser, mesmo entre as luvas da Oficina Koori, um artigo de primeiríssima qualidade."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Oficina Koori? Não sei o que é, mas é artigo de primeira entre os produtos de oficina, né? Com razão era forte pra caramba. Qual era o grau de Fixer desse desgraçado?"
+        },
+        {
+            "id": 14,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Deixa eu ver... pela carteira de registro dentro da carteira... é grau 4."
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "O quê?! Aquele toco de mão ali era grau 4?"
+        },
+        {
+            "id": 16,
+            "content": "Os milhares de anos escondidos por trás do nome '10 segundos' seriam suficientes para enlouquecer todos os passageiros a bordo do trem."
+        },
+        {
+            "id": 17,
+            "content": "Madness, however... comes in different forms."
+        },
+        {
+            "id": 18,
+            "content": "Enquanto uns, esfregando o próprio sangue e a própria carne pelas paredes, anseiam pela morte..."
+        },
+        {
+            "id": 19,
+            "content": "...há também passageiros que, ainda que tomados pela loucura, não cessaram de brandir as armas."
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Quer dizer, que diabo um Fixer de grau 4 fez durante todo esse tempo pra..."
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Cara, é a primeira vez que vejo um sujeito tão difícil até usando a CCA."
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "O senhor não disse a mesma coisa da última vez, quando o trem foi cancelado?"
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Ei. Naquela vez eu só fui um instante dar apoio à galera de grau 5. Isso e isto aqui são a mesma coisa?"
+        },
+        {
+            "id": 24,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Hehe. Hoje o senhor teve mesmo bastante trabalho, fazendo a limpeza sozinho."
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... Huh?"
+        },
+        {
+            "id": 26,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "...? O que foi. Quê, é algum tipo raro que ninguém nunca viu nem ouviu falar...?"
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Uau~ É um histórico de pontos de penalidade! Com tantos pontos de penalidade assim, o grau de Fixer dele devia ter caído..."
+        },
+        {
+            "id": 28,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... Nothin' unusual, then. Just another bloody stowaway."
+        },
+        {
+            "id": 29,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Tanto pelos itens de penalidade quanto pelos documentos de contrato, parece que até poucos dias atrás ele era Fixer de grau 2. Aff... com razão era osso duro."
+        },
+        {
+            "id": 30,
+            "content": "Nos tempos em que a W Corp. ia bem, chamava-se de passageiro clandestino a gente folgada que embarcava às escondidas na classe comum sem bilhete, ou que comprava bilhete da classe comum e tentava se enfiar na primeira classe."
+        },
+        {
+            "id": 31,
+            "content": "Mas hoje esse sentido é um tanto diferente."
+        },
+        {
+            "id": 32,
+            "content": "Como o trem Warp é algo que se toma, no máximo, três ou quatro vezes por ano, antigamente quase toda pessoa com algum dinheiro preferia a luxuosa primeira classe."
+        },
+        {
+            "id": 33,
+            "content": "Mas... quando passaram a ocorrer, um atrás do outro, acidentes de segurança — como o desaparecimento de passageiros da primeira classe —, essa procura foi diminuindo..."
+        },
+        {
+            "id": 34,
+            "content": "...e, hoje em dia, mesmo quando a W Corp. recomenda ativamente, são muitos os que relutam em embarcar na primeira classe."
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Esses caras cheios da grana, mesquinhos desse jeito... vai doer alguma coisa se andarem na primeira classe?"
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Mesmo que o preço da classe comum e o da primeira classe sejam parecidos, é que ultimamente os boatos andam muito ruins."
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Parecidos...? Não, deixa pra lá."
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Pensando bem, a primeira classe era um negócio em que, uma vez arruinada a imagem, é o fim — então talvez seja natural."
+        },
+        {
+            "id": 39,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Ainda assim, com o tempo, será que não vão todos voltar a embarcar?"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "O slogan desta empresa é aquele, né. O trem que chega em 10 segundos."
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Pagar várias vezes mais caro pra andar na primeira classe numa viagem que acaba num piscar de olhos..."
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "...era só assunto pra mesa de bar, do tipo 'eu já andei na primeira classe~'."
+        },
+        {
+            "id": 43,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Quem é que, a esta altura, vai pagar mais caro pra andar numa primeira classe sinistra, sem nem segurança garantida?"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Seria bom que, assim como põem os passageiros especiais em outros vagões, fizessem o mesmo com os veteranos hábeis em combate... Será que a sede não pensa nisso?"
+        },
+        {
+            "id": 45,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Se pensasse, já teria feito faz tempo."
+        },
+        {
+            "id": 46,
+            "content": "...O custo da primeira classe é o lucro mínimo que a W Corp. recolhe em troca dessas emoções e desse tempo."
+        },
+        {
+            "id": 47,
+            "content": "Depois da queda da Lobotomy Corporation, numa situação de aperto para cobrir os prejuízos imediatos..."
+        },
+        {
+            "id": 48,
+            "content": "...a W Corp. anseia desesperadamente por emoções mais intensas e numerosas, para uso próprio, e pelo imenso tempo que tem de pagar à T Corp., com quem mantém um acordo."
+        },
+        {
+            "id": 49,
+            "content": "Por isso, ainda que aumentem os sacrifícios dos agentes de limpeza, jamais haverá de se baixar o preço da primeira classe ou de se destinar um vagão à parte."
+        },
+        {
+            "id": 50,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Viu aqueles desgraçados dos executantes que vieram uns dias atrás?  Apareceram em bando dizendo que iam todos andar na classe comum, que era diretriz do Indicador."
+        },
+        {
+            "id": 51,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "E, no dia anterior, teve também aquele Capo do Polegar que disse que, como o seu superior tinha embarcado na primeira classe, ele andaria no vagão de trás."
+        },
+        {
+            "id": 52,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Ah~ O senhor está falando daqueles cadáveres que estavam com o queixo todo em pedacinhos."
+        },
+        {
+            "id": 53,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Hehe. Quanto a mim, foi bom porque ao menos não foi entediante."
+        },
+        {
+            "id": 54,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Você é grau 2, nem pôde sair pra dar apoio naquela vez..."
+        },
+        {
+            "id": 55,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... Forget it. I'm off—good luck puttin' 'em back together."
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Como você vê, vestido com esse troço, não dá pra eu te ajudar a juntar os fragmentos, né."
+        },
+        {
+            "id": 57,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Clocking out early today?"
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Isso. Faz tempo que não saio no ponto, na hora certa."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Catch ya later."
+        },
+        {
+            "id": 60,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Confirmada a intenção de devolução da Armadura de Limpeza de Congestionamento por parte do agente de limpeza."
+        },
+        {
+            "id": 61,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Armor disengagement in progress."
+        },
+        {
+            "id": 62,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Oi, be gentle with it!"
+        },
+        {
+            "id": 63,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "...Vou ter de trocar o ombro por um membro protético, sei lá. Por que é que um equipamento tão caro é pesado desse jeito?"
+        },
+        {
+            "id": 64,
+            "content": "A Armadura de Limpeza de Congestionamento, comumente chamada de CCA, é um equipamento especial cujo uso, por causa de seu preço exorbitante, só é permitido a agentes de limpeza de grau 4 ou superior — e, mesmo entre esses, apenas aos de alto desempenho."
+        },
+        {
+            "id": 65,
+            "content": "Originalmente, era mais usada em atividades externas, como atritos entre as Asas ou a varredura de grandes organizações da Periferia, mas..."
+        },
+        {
+            "id": 66,
+            "content": "...ultimamente, os casos em que é usada para subjugar passageiros dentro do trem Warp aumentaram bruscamente."
+        },
+        {
+            "id": 67,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Hããã... Mas, hoje, na volta, eu passo no pub e..."
+        },
+        {
+            "id": 68,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Congestion detected in Car 3 of Train PW-24."
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... and grab a pint..."
+        },
+        {
+            "id": 70,
+            "content": "'Congestionamento' é um dos cinco níveis de risco do trem que a W Corp. comunica aos agentes de limpeza."
+        },
+        {
+            "id": 71,
+            "content": "'Tranquilo', que indica a situação normal do trem. 'Atraso', em que, além do trabalho de limpeza, é indispensável subjugar passageiros."
+        },
+        {
+            "id": 72,
+            "content": "E... 'Congestionamento', que exige numerosos agentes de limpeza de grau 3 e 4 — ou um agente de grau 4 equipado com a CCA — para lidar com tipos raros e passageiros de forte resistência."
+        },
+        {
+            "id": 73,
+            "content": "Claro, se houvesse um agente de limpeza de grau 5... uma situação de 'Congestionamento' como esta se resolveria num instante, mas..."
+        },
+        {
+            "id": 74,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "No momento, não há agentes de limpeza de grau 5 na estação."
+        },
+        {
+            "id": 75,
+            "content": "Eles costumam estar ocupados dando apoio aos trens em 'Cancelamento' ou 'Descarrilamento' — que indicam uma ameaça de Fixer de grau 1, ou ainda maior."
+        },
+        {
+            "id": 76,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "......."
+        },
+        {
+            "id": 77,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Autorizado o uso da 'Armadura de Limpeza de Congestionamento' pelo agente de limpeza de grau 4."
+        },
+        {
+            "id": 78,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... Hold on a sec—me?"
+        },
+        {
+            "id": 79,
+            "content": "Ao ouvir o anúncio interno, o rapaz, com uma expressão de incredulidade, percorreu a lista de agentes de limpeza presentes na estação, e..."
+        },
+        {
+            "id": 80,
+            "content": "logo se deu conta de que o único agente de limpeza capaz de entrar em ação naquele momento era ele mesmo."
+        },
+        {
+            "id": 81,
+            "content": "O doce sonho de ir para casa fugiu de vez, junto com o estridente som do alarme."
+        },
+        {
+            "id": 82,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Attention, all Agents. Railway Congestion detected. Railway Congestion detected."
+        },
+        {
+            "id": 83,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "Attention, all Agents."
+        },
+        {
+            "id": 84,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "O agente de limpeza de grau 4 mais próximo deve embarcar imediatamente no próximo trem e dar conta da linha congestionada."
+        },
+        {
+            "id": 85,
+            "teller": "Anúncio",
+            "title": "W Corp.",
+            "content": "125 seconds until next arrival."
+        },
+        {
+            "id": 86,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "......."
+        },
+        {
+            "id": 87,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Ué? O senhor não foi para casa? Eu, hoje à noite, como vai sair o novo cardápio do HamHamPangPang, vou comer..."
+        },
+        {
+            "id": 88,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "... Go."
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "What?"
+        },
+        {
+            "id": 90,
+            "model": "히스클리프",
+            "title": "Agente de Limpeza da W Corp.",
+            "content": "Para de me provocar e vai logo."
+        },
+        {
+            "id": 91,
+            "content": "É uma pena, mas, hoje também... parece que o rapaz não vai conseguir ir para casa na hora."
+        }
+    ]
+}

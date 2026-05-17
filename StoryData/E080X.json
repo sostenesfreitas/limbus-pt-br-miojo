@@ -1,0 +1,624 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Pavilhão de Daguanyuan",
+            "model": "단테",
+            "content": "<Como que é o sabor? Eles disseram que fermentaram com as folhas de chá que a Xichun deu. É chamado de Baihao Yinzhen... ou algo assim, eu acho?>"
+        },
+        {
+            "id": 1,
+            "model": "홍루",
+            "content": "Mm~ É um chá muito gostoso e fácil de beber. Entretanto, não tão bom quanto o da Xiren."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<... Sério?>"
+        },
+        {
+            "id": 3,
+            "content": "A brisa suave de Daguanyuan sopra sob o pavilhão."
+        },
+        {
+            "id": 4,
+            "content": "Agora que sobrevivemos a outro grande incidente, eu estava planejando ter algumas sessões de consulta com os Pecadores, como sempre faço. Mas..."
+        },
+        {
+            "id": 5,
+            "content": "... Eu não tinha certeza de quando que o Mefistófeles voltaria, então decidi fazê-las ao ar livre."
+        },
+        {
+            "id": 6,
+            "content": "Bem... uma mudança de ares é boa de vez em quando."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<Por mais que eu adoraria fazer parte desta conversa... essa coisa não veio com uma boca.>"
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Ah... esse deve ser um ponto sensível, não é, Dante?"
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Você já expressou esse sentimento antes, lembra? Sempre que comíamos juntos, você dizia coisas assim."
+        },
+        {
+            "id": 10,
+            "model": "홍루",
+            "content": "Você também deu a comida gratuita do trem WARP para a Rodya, e... hm, você deve ter pensado sobre o sabor na época."
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<B-bem, sabe... não é tão ruim.>"
+        },
+        {
+            "id": 12,
+            "model": "홍루",
+            "content": "Acho que eu sentiria pesar e tristeza. É um pouco trágico, de fato..."
+        },
+        {
+            "id": 13,
+            "content": "Desde que Hong Lu cortou o ciclo que percorria os Hierarcas de Daguanyuan, e selou os Xianren em seu templo..."
+        },
+        {
+            "id": 14,
+            "content": "... ele vem fazendo várias expressões que eu nunca vi antes."
+        },
+        {
+            "id": 15,
+            "content": "Ademais, recentemente, tenho tido a impressão de que ele está ativamente tentando expressar seus sentimentos e pensamentos, até mesmo para coisas que o seu eu do passado apenas aceitaria como são."
+        },
+        {
+            "id": 16,
+            "content": "Como a quebra de uma barragem antiga, com sua água cristalina fluindo livremente..."
+        },
+        {
+            "id": 17,
+            "model": "홍루",
+            "content": "Eu não posso lhe dar uma boca, mas você pode contar comigo para fazer uma explicação bem detalhada dos sabores. Então sinta-se livre para me perguntar quando quiser~"
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Certo, valeu.>"
+        },
+        {
+            "id": 19,
+            "content": "E honestamente, acho que isso é uma coisa boa. Especialmente porque, mais que qualquer coisa, eu conseguia sentir que o Hong Lu estava gentilmente aproveitando estes momentos."
+        },
+        {
+            "id": 20,
+            "content": "Acho que eu posso marcá-lo como alguém passando por 'mudanças muito positivas' nas minhas notas de consulta sem me preocupar..."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "Embora eu não tenha certeza se vai fazer sentido para você... dado que provavelmente você não se lembra do gosto de comida mesmo~"
+        },
+        {
+            "id": 22,
+            "content": "... Vou mudar para \"está no caminho de ter algumas mudanças muito positivas\"."
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "content": "C-com licença! Gerente!"
+        },
+        {
+            "id": 24,
+            "content": "Foi então que Sinclair repentinamente correu até nós no pavilhão."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<... O que está acontecendo?>"
+        },
+        {
+            "id": 26,
+            "model": "싱클레어",
+            "content": "E-eu sei que você está no meio de uma consulta, mas, é... tem um caminhão grande, do tamanho de uma casa na entrada, que..."
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "De qualquer forma, acho que você deveria ver isso!"
+        },
+        {
+            "id": 28,
+            "place": "Portões de Daguanyuan",
+            "model": "히스클리프",
+            "content": "Ei, Cabeça de Relógio."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<Aquilo é...?>"
+        },
+        {
+            "id": 30,
+            "content": "O caminhão era, de fato, gigante... certamente fazia sentido o alarde do Sinclair. Mas..."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "Rapaz... é de se impressionar, né não?"
+        },
+        {
+            "id": 32,
+            "content": "... não parecia que os outros Pecadores estavam tão preocupados assim."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Tá tudo bem por aqui...? Espero que não seja outro ataque a Daguanyuan...>"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Huh? Não, nem é. Bem... a gente suspeitou um pouco, mas tá de boa."
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "É porque ninguém do ônibus sabe usar os olhos. Está tudo nos detalhes, entende?"
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "Olha, bem ali. O logotipo da empresa."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<... Onde?>"
+        },
+        {
+            "id": 38,
+            "model": "이스마엘",
+            "content": "Sério? Tá bem ali, naquele cantinho."
+        },
+        {
+            "id": 39,
+            "content": "Ishmael apontou para algo no veiculo, com uma clara irritação em sua voz. Eu encarei bem profundamente para o que ela estava apontando..."
+        },
+        {
+            "id": 40,
+            "content": "... e consegui achar a logotipo da Limbus Company desenhada no ônibus."
+        },
+        {
+            "id": 41,
+            "content": "Era do tamanho de uma mão."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Eles estavam <i>por aqui</i> de deixar o caminhão em um milhão de pedaços até eu avisar."
+        },
+        {
+            "id": 43,
+            "model": "그레고르",
+            "content": "Devo dizer, tô impressionado que você sequer conseguiu entender o que era aquilo... Não parece com nada além de sujeira pra mim. Acho que a vista é uma das primeiras coisas a se ir com a idade."
+        },
+        {
+            "id": 44,
+            "model": "로쟈",
+            "content": "Assiiiiim~ é meio que culpa deles por fazerem algo tão pequenininho e escondididinho, sabe?"
+        },
+        {
+            "id": 45,
+            "model": "뉴소드",
+            "content": "Porque não é um veículo para chamar atenção."
+        },
+        {
+            "id": 46,
+            "content": "Saude caminhou até nosso grupo, limpando suas mãos e ignorando alguns comentários displicentes."
+        },
+        {
+            "id": 47,
+            "model": "뉴소드",
+            "content": "Este é um veiculo de pesquisa usado pelo Departamento LCE. Vocês já usaram isso antes, lembram?"
+        },
+        {
+            "id": 48,
+            "model": "뫼르소",
+            "content": "... Mm. Extrapolando a partir do material e da cor do painel de cobertura do caminhão, pode-se determinar que se trata do mesmo dispositivo de transporte utilizado para o cheque médico."
+        },
+        {
+            "id": 49,
+            "model": "뉴소드",
+            "content": "Exatamente."
+        },
+        {
+            "id": 50,
+            "model": "뉴소드",
+            "content": "Desde que vocês o usaram para chegar de forma segura na LCE, nós estivemos o usando para mover a base da LCC por aí."
+        },
+        {
+            "id": 51,
+            "model": "히스클리프",
+            "content": "... Calma aí, quer dizer que a gente era as suas cobaias de teste?"
+        },
+        {
+            "id": 52,
+            "model": "뉴소드",
+            "content": "E, adivinha! Logo hoje, quando abrimos o caminhão para transportar uma equipe diferente..."
+        },
+        {
+            "id": 53,
+            "model": "히스클리프",
+            "content": "Ei, não me ignora!"
+        },
+        {
+            "id": 54,
+            "content": "Ao invés de responder a pergunta do Heathcliff..."
+        },
+        {
+            "id": 55,
+            "place": "-1",
+            "content": "... Saude andou até o caminhão e abriu suas portas traseiras."
+        },
+        {
+            "id": 56,
+            "place": "Veículo de Pesquisa do LCE",
+            "content": "Nele, nós vimos a mesma bagunça de maquinários que vimos naquela época, e..."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Ei, essa luz...>"
+        },
+        {
+            "id": 58,
+            "content": "... Aquela luz verde, agora tão familiar."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "... Entendo."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "Saude, houve mais alguma modificação neste veículo desde então?"
+        },
+        {
+            "id": 61,
+            "model": "뉴소드",
+            "content": "Hmm... Bom, não tenho certeza dos detalhes, mas o chefe de pesquisa do LCE—"
+        },
+        {
+            "id": 62,
+            "model": "파우스트",
+            "content": "Hohenheim."
+        },
+        {
+            "id": 63,
+            "model": "뉴소드",
+            "content": "Sim, ele mesmo. Vocês dois são... Próximos?"
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "Não muito. Porém me esforço para me lembrar de seus pequenos, mas inúmeros erros."
+        },
+        {
+            "id": 65,
+            "content": "... Ela parece estranhamente feliz."
+        },
+        {
+            "id": 66,
+            "model": "뉴소드",
+            "content": "De qualquer forma, de acordo com o relatório de pesquisa que ele nos deu, o veículo foi modificado para permitir o uso universal entre outros departamentos da Limbus Company."
+        },
+        {
+            "id": 67,
+            "model": "뉴소드",
+            "content": "O ônibus da LCB... Mefistófeles, certo? O relatório disse algo sobre usar a Porta Traseira daquele ônibus como referência para equipar este veículo com várias funções. E..."
+        },
+        {
+            "id": 68,
+            "model": "파우스트",
+            "content": "Isso esclarece por que esse fenômeno está ocorrendo neste lugar..."
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "Noite de Walpurgis."
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "Porém... Como isso é possível quando não estamos montados nos assentos do ônibus?"
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "Não é uma impossibilidade teórica."
+        },
+        {
+            "id": 72,
+            "model": "파우스트",
+            "content": "Certas partes importantes da tecnologia que compõe seu motor foram compartilhadas com Hohenheim; está dentro do campo das possibilidades que a influência do motor também tenha sido transferida para lá."
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "... Entretanto, os meios pelos quais isso afetou este veículo ainda têm de ser estudados."
+        },
+        {
+            "id": 74,
+            "model": "이상",
+            "content": "Parece compreender a nossa ausência e posteriormente a separação do ônibus..."
+        },
+        {
+            "id": 75,
+            "model": "이상",
+            "content": "Poderia isto, talvez, estar reagindo à presença de um Ramo de Ouro...?"
+        },
+        {
+            "id": 76,
+            "model": "파우스트",
+            "content": "Neste momento, Mefistófeles está atualmente sendo usado por Vergilius, Charon, e outros membros da LCCB incluindo Pilot. Portanto..."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "... se eles viajaram para longe, sua conjectura pode ser verdadeira."
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Ou então... Existe um fluxo que assegura nosso encontro com a Noite de Walpurgis independente do ambiente em que estamos... talvez."
+        },
+        {
+            "id": 79,
+            "content": "Faust falou consigo mesma, encarando reflexivamente à distância, antes de se virar para nós com uma leve resignação."
+        },
+        {
+            "id": 80,
+            "model": "파우스트",
+            "content": "Lidere o caminho, Dante."
+        },
+        {
+            "id": 81,
+            "place": "-1",
+            "model": "파우스트",
+            "content": "Se isso nos achou, então deve ser observado."
+        },
+        {
+            "id": 82,
+            "place": "Corredores da Sede da L Corp.",
+            "model": "홍루",
+            "content": "Ahá, eu sabia. É a vez da L Corp.!"
+        },
+        {
+            "id": 83,
+            "model": "단테",
+            "content": "<Huh? O quê você quer dizer com \"eu sabia\"?>"
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "Ah, Heathcliff abriu uma aposta para saber onde nossa próxima Noite de Walpurgis seria."
+        },
+        {
+            "id": 85,
+            "model": "단테",
+            "content": "<... Uma aposta?>"
+        },
+        {
+            "id": 86,
+            "model": "히스클리프",
+            "content": "Beleza, beleza! Que que eu falei? Agora anda, paguem logo."
+        },
+        {
+            "id": 87,
+            "model": "싱클레어",
+            "content": "Nngh... você me disse que estava na hora dos padrões mudarem!"
+        },
+        {
+            "id": 88,
+            "model": "로쟈",
+            "content": "Nem ferrando... mas era o tempo perfeito pra apostar contra todas as probabilidades!"
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 90,
+            "content": "Pelo que parece, a aposta era sobre se a Noite de Walpurgis nos levaria à Biblioteca ou à Sede da Lobotomy Corp."
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<Ei... algo sobre esse local parece um pouco diferente dos outros corredores da L Corp. que vimos antes.>"
+        },
+        {
+            "id": 92,
+            "model": "돈키호테",
+            "content": "Vós sentistes isso também, Vossa Gerência? Hoh... é familiar, porém... inusitado, de fato."
+        },
+        {
+            "id": 93,
+            "model": "이상",
+            "content": "Um palco para uma peça, de certa forma..."
+        },
+        {
+            "id": 94,
+            "model": "이스마엘",
+            "content": "Parece que ficou um pouco maior, também... Ainda é o mesmo corredor longo e estreito, mas um pouquinho maior."
+        },
+        {
+            "id": 95,
+            "model": "파우스트",
+            "content": "Embora seja desconhecido quantos dias já passaram dentro dessa Sede..."
+        },
+        {
+            "id": 96,
+            "model": "돈키호테",
+            "content": "Mm? Poderíeis, por favor, repetir o que disse?"
+        },
+        {
+            "id": 97,
+            "model": "파우스트",
+            "content": "Ah... não. Esse assunto pode ser discutido mais tarde, quando sua veracidade se tornar mais clara."
+        },
+        {
+            "id": 98,
+            "model": "파우스트",
+            "content": "Dado a atual circunstância deste local..."
+        },
+        {
+            "id": 99,
+            "place": "Corredores do Comando Central da Sede da L Corp.",
+            "model": "파우스트",
+            "content": "... Nós nos encontramos na Sede da Lobotomy Corp., em um certo dia... no Comando Central, para ser exata."
+        },
+        {
+            "id": 100,
+            "model": "파우스트",
+            "content": "Bem no centro da camada média."
+        },
+        {
+            "id": 101,
+            "model": "이스마엘",
+            "content": "Então aqueles que visitamos devem ser a camada superior."
+        },
+        {
+            "id": 102,
+            "model": "파우스트",
+            "content": "Correto. É dito que os departamentos da Sede da Lobotomy Corporation são progressivamente desbloqueados conforme a passagem do tempo."
+        },
+        {
+            "id": 103,
+            "model": "오티스",
+            "content": "... Hm. De acordo com os relatórios, quando a Sede caiu e atirou aquela luz ao céu, foi..."
+        },
+        {
+            "id": 104,
+            "model": "파우스트",
+            "content": "... De fato. Parece que a cada visita, nós nos encontramos em um ponto mais longe no tempo. Assim que o 'dia' atual possa ser confirmado..."
+        },
+        {
+            "id": 105,
+            "model": "오티스",
+            "content": "... talvez possamos até experienciar aquele dia."
+        },
+        {
+            "id": 106,
+            "model": "파우스트",
+            "content": "Talvez. Então—"
+        },
+        {
+            "id": 107,
+            "content": "BEEP—BEEP—BEEP—"
+        },
+        {
+            "id": 108,
+            "model": "그레고르",
+            "content": "Bem... esse foi rápido. Estamos aqui para lidar com alguma 'Provação' ou coisa parecida, não é?"
+        },
+        {
+            "id": 109,
+            "model": "이스마엘",
+            "content": "Hm, eu não reclamo. A gente ficou de bobeira sem fazer nada enquanto a Jia Xichun saiu para a grande conferência para decidir o futuro de Daguanyuan ou coisa do tipo."
+        },
+        {
+            "id": 110,
+            "model": "오티스",
+            "content": "Tsk, mas a gente tem tão pouco tempo... Eu devo preparar um regime de treinamento intenso para compensar o tempo perdido."
+        },
+        {
+            "id": 111,
+            "model": "료슈",
+            "content": "Seja lá o que for... heh. Vai ser F.O.D.A."
+        },
+        {
+            "id": 112,
+            "model": "티페리트",
+            "teller": "???",
+            "title": "???",
+            "content": "Por que todo mundo tá enrolando?"
+        },
+        {
+            "id": 113,
+            "model": "로쟈",
+            "content": "E parece que a Sefirá... É uma irritadinha desta vez."
+        },
+        {
+            "id": 114,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "É! O que, você esperava outra voz falando através do alto-falante do Comando Central além da Tiphereth?"
+        },
+        {
+            "id": 115,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Tiphereth, os agentes estão confusos. Por favor, explique a situação para eles."
+        },
+        {
+            "id": 116,
+            "model": "로쟈",
+            "content": "Hein...? Tem dois deles?"
+        },
+        {
+            "id": 117,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Sim, eu também sou Tiphereth."
+        },
+        {
+            "id": 118,
+            "model": "파우스트",
+            "content": "O Comando Central, diferente dos outros departamentos, possui um tamanho bastante significativo; é grande o suficiente para ser comandado em duas áreas: A e B. E é por isso que eles possuem dois Sefirot separadamente administrando este departamento."
+        },
+        {
+            "id": 119,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Isso, e é bastante, até mesmo pra nós dois... E é por isso que cabe a vocês serem mais meticulosos!"
+        },
+        {
+            "id": 120,
+            "model": "히스클리프",
+            "content": "Sim, sim... traz logo essa Provação. O que a gente vai quebrar dessa vez?"
+        },
+        {
+            "id": 121,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Como eu disse, por que vocês estão enrolando?!"
+        },
+        {
+            "id": 122,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Teve uma quebra de contenção de Anormalidade...! Toda a empresa vai começar a implodir porque todo mundo está tentando suprimir a bagunça do outro lado!"
+        },
+        {
+            "id": 123,
+            "content": "Então, o alarme que estava ressoando por toda a empresa repentinamente ficou quieto..."
+        },
+        {
+            "id": 124,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "... Ah, não. O Segundo Alarme."
+        },
+        {
+            "id": 125,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Ugh... Ótimo, olha o que fizeram, seu bando de desleixados! Vão pra nossa sede, agora! Lidem com a entidade azul!"
+        }
+    ]
+}

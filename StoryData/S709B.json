@@ -1,0 +1,326 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Talvez por ter chegado a hora, os Solucionadores foram se reunindo, um a um, e..."
+        },
+        {
+            "id": 1,
+            "place": "Portão Principal da La Manchaland",
+            "model": "알레시오",
+            "content": "La Manchaland is beginning to manifest."
+        },
+        {
+            "id": 2,
+            "model": "알레시오",
+            "content": "Tomando como referência o momento em que o som da música começou a se ouvir — 16h12 —, a La Manchaland fica aberta até cerca de 22h12."
+        },
+        {
+            "id": 3,
+            "place": "-1",
+            "content": "<color=#84a79d>Ainda que chegue a hora em que você queira desistir de si mesma.</color>"
+        },
+        {
+            "id": 4,
+            "content": "<color=#84a79d>I promise.</color>"
+        },
+        {
+            "id": 5,
+            "content": "<color=#8cc4e1>É só isso?</color>"
+        },
+        {
+            "id": 6,
+            "content": "<color=#8cc4e1>De agora em diante, como... você vai viver?</color>"
+        },
+        {
+            "id": 7,
+            "content": "<color=#ffef23>Eu te agradeci...</color>"
+        },
+        {
+            "id": 8,
+            "content": "<color=#ffef23>Não se esqueça da revista de Solucionador.</color>"
+        },
+        {
+            "id": 9,
+            "content": "<color=#ffef23>Please, please! I don't want an adventure, stop! Please!</color>"
+        },
+        {
+            "id": 10,
+            "content": "<color=#cc2424>Eu tive uma ideia espetacular.</color>"
+        },
+        {
+            "id": 11,
+            "place": "Portão Principal da La Manchaland",
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 12,
+            "content": "É aquele fenômeno que eu vivi no Grande Lago."
+        },
+        {
+            "id": 13,
+            "content": "Mas é uma memória muito mais fragmentária do que a daquela vez, e extremamente... turva."
+        },
+        {
+            "id": 14,
+            "content": "A Don Quixote da memória que passou de relance é tão diferente que não dá para crer que seja a mesma pessoa, mas..."
+        },
+        {
+            "id": 15,
+            "content": "Se eu seguir esta jornada até o fim..."
+        },
+        {
+            "id": 16,
+            "place": "Becos da P Corp., um terreno baldio",
+            "model": "베르길리우스",
+            "content": "Por exemplo... algo como 'o que será do Pecador nº 3 daqui em diante'."
+        },
+        {
+            "id": 17,
+            "place": "Portão Principal da La Manchaland",
+            "content": "...eu virei a saber o significado da memória, como antes."
+        },
+        {
+            "id": 18,
+            "content": "E assim nós caminhamos rumo à La Manchaland."
+        },
+        {
+            "id": 19,
+            "model": "싱클레어",
+            "content": "Aqui é a La Manchaland... tem algo... arrepiante."
+        },
+        {
+            "id": 20,
+            "model": "료슈",
+            "content": "I smell blood."
+        },
+        {
+            "id": 21,
+            "model": "폴라",
+            "content": "Este lugar produziu dezenas de desaparecidos. Que não haja ninguém baixando a guarda."
+        },
+        {
+            "id": 22,
+            "model": "혈귀사냥꾼",
+            "content": "Enfim se mostram, os malditos Sanguinários..."
+        },
+        {
+            "id": 23,
+            "model": "엑스트라해결사1",
+            "teller": "Solucionador Resmungão",
+            "title": "???",
+            "content": "W-woah. Look, survivors!"
+        },
+        {
+            "id": 24,
+            "model": "까미유",
+            "content": "Ha... com um enquadramento daqueles, eu poderia ter mirado o recorde de espectadores simultâneos."
+        },
+        {
+            "id": 25,
+            "model": "폴라",
+            "content": "...Eles estão portando armas. Não são civis."
+        },
+        {
+            "id": 26,
+            "model": "오티스",
+            "content": "Senhor Gerente. As vestes daqueles sujeitos... não são estranhas? Em geral, não se costuma usar roupas antiquadas como aquelas."
+        },
+        {
+            "id": 27,
+            "model": "뫼르소",
+            "content": "Veem-se também trajes que são difíceis de vestir sozinho."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Quer dizer que alguém pode ter trocado a roupa deles à força."
+        },
+        {
+            "id": 29,
+            "content": "Quando os Solucionadores, avançando aos poucos, começaram a fazer alvoroço, Alessio, como que para mediar, gritou alto, lá de trás, que aguardassem."
+        },
+        {
+            "id": 30,
+            "model": "알레시오",
+            "content": "Ainda não podem se aproximar. Cerca de 10 minutos depois de a La Manchaland surgir é o tempo em que caem cargas, então, por segurança, é preciso aguardar lá atrás."
+        },
+        {
+            "id": 31,
+            "teller": "Solucionador Maravilhado",
+            "title": "???",
+            "content": "Quem é... de que escritório é?"
+        },
+        {
+            "id": 32,
+            "teller": "Solucionador Sussurrante",
+            "title": "???",
+            "content": "É de uma associação?"
+        },
+        {
+            "id": 33,
+            "content": "Ouvem-se perguntas, misturadas de excitação, tentando adivinhar a filiação do sobrevivente."
+        },
+        {
+            "id": 34,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "... They're all..."
+        },
+        {
+            "id": 35,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "É do Escritório Punho de Fogo! Aquela vestimenta é a vestimenta do nosso Escritório Punho de Fogo!"
+        },
+        {
+            "id": 36,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Haha! Viram, o que eu disse? Eu disse que as manas iam voltar sem falta, não disse?"
+        },
+        {
+            "id": 37,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Eu tinha certeza — mesmo sem subjugar, se sobrevivesse e desse um testemunho de mais de 15 minutos, havia uma gratificação..."
+        },
+        {
+            "id": 38,
+            "model": "알레시오",
+            "content": "Não se recomenda a aproximação durante os 10 minutos, até a queda das cargas terminar..."
+        },
+        {
+            "id": 39,
+            "content": "Mas o Solucionador, que ignorou as palavras de Alessio e correu, ampara o sobrevivente que vinha caminhando, cambaleante."
+        },
+        {
+            "id": 40,
+            "model": "불주먹",
+            "content": "Big sis, big sis...!"
+        },
+        {
+            "id": 41,
+            "model": "피주머니",
+            "teller": "Solucionador Sobrevivente?",
+            "title": "Escritório do Punho de Fogo",
+            "content": "La.... la..."
+        },
+        {
+            "id": 42,
+            "model": "알레시오",
+            "content": "……."
+        },
+        {
+            "id": 43,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Agora deu certo — o nosso escritório também pode escapar do meio-subsolo e ver a luz."
+        },
+        {
+            "id": 44,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Vocês sabem o quanto os outros nos desprezavam? Agora a gente vai aparecer em entrevistas e receber a gratificação... só resta erguer bem alto a nossa fama..."
+        },
+        {
+            "id": 45,
+            "model": "혈귀사냥꾼",
+            "content": "Hah. Survivors, my ass."
+        },
+        {
+            "id": 46,
+            "model": " 로메로",
+            "content": "……."
+        },
+        {
+            "id": 47,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "So just hold on a little longer, okay?"
+        },
+        {
+            "id": 48,
+            "model": "피주머니",
+            "teller": "Solucionador Sobrevivente?",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Laaaahhh..."
+        },
+        {
+            "id": 49,
+            "model": "피주머니",
+            "teller": "Solucionador Sobrevivente?",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Para a La Manchaland livre, onde desabrocham sorrisos felizes... para sonhar juntos..."
+        },
+        {
+            "id": 50,
+            "model": "피주머니",
+            "teller": "Solucionador Sobrevivente?",
+            "title": "Escritório do Punho de Fogo",
+            "content": "... away from here...!"
+        },
+        {
+            "id": 51,
+            "model": "불주먹",
+            "teller": "Solucionador Comovido",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Guh— Hurk—"
+        },
+        {
+            "id": 52,
+            "model": " 로메로",
+            "content": "...Vendo que as bolsas de sangue se amontoaram até a entrada, parece que se transformaram pouco antes de escapar."
+        },
+        {
+            "id": 53,
+            "model": "혈귀사냥꾼",
+            "content": "Pela velocidade da transformação, pelo visto foram mordidos por um Sanguinário medíocre qualquer. Quanto mais alto o vassalo, mais rápida a velocidade da transformação — e ele consegue até controlar o momento."
+        },
+        {
+            "id": 54,
+            "model": "로쟈",
+            "content": "Olha... você parece saber tudinho sobre Sanguinários; não tem um conselho pra dar a uns novatos como a gente?"
+        },
+        {
+            "id": 55,
+            "model": " 로메로",
+            "content": "Hm, pro tips? ... Ah, I've got one."
+        },
+        {
+            "id": 56,
+            "model": " 로메로",
+            "content": "É aceitar com humildade o fato de que, se faltar habilidade, vocês vão morrer."
+        },
+        {
+            "id": 57,
+            "model": " 로메로",
+            "content": "Pois, se um Sanguinário transformar vocês em bolsa de sangue, isso equivale a estar morto."
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "Um..."
+        },
+        {
+            "id": 59,
+            "model": "홍루",
+            "content": "Esse é um fato que a gente sempre aceita."
+        },
+        {
+            "id": 60,
+            "model": "피주머니",
+            "teller": "Bolsa de Sangue",
+            "title": "La Manchaland",
+            "content": "Keeagggh!"
+        }
+    ]
+}

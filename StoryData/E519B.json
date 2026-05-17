@@ -1,0 +1,199 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Masmorra Espelhada das Contemplações",
+            "model": "단테",
+            "content": "<Então aquela coisa atrás dele é...>"
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "content": "De fato, é o Monólito. O artefato deve ter entrado nas contemplações de seu ego no momento em que imbuiu Kim do Chapéu de Bambu com sua força."
+        },
+        {
+            "id": 2,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Esta mansão... sem dúvida era onde o último protegido do mentor residia antes de deixarmos a S Corp."
+        },
+        {
+            "id": 3,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Ah... que massacre..."
+        },
+        {
+            "id": 4,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mentor, seria essa carnificina a memória que assombrou seus dias e noites por tanto tempo...?"
+        },
+        {
+            "id": 5,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mas... mesmo assim... as mortes de nossos queridos companheiros..."
+        },
+        {
+            "id": 6,
+            "content": "Lágrimas começam a se acumular no canto dos olhos de Aeng-du."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<... Ah.>"
+        },
+        {
+            "id": 8,
+            "content": "Novamente, ouço algo murmurando em minha mente."
+        },
+        {
+            "id": 9,
+            "content": "Seria isso... o passado de Kim do Chapéu de Bambu?"
+        },
+        {
+            "id": 10,
+            "content": "Uma voz sombria, cheia de angústia, ecoa em minha cabeça."
+        },
+        {
+            "id": 11,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Outrora tive uma coisa que as pessoas chamam de \"honra\"."
+        },
+        {
+            "id": 12,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Diante de oficiais íntegros, sempre houve aqueles que se aproximavam com más intenções."
+        },
+        {
+            "id": 13,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "E eu considerava um ofício honroso ser protetor dos virtuosos, repelindo com minha espada as garras malignas dos que buscavam machucá-los."
+        },
+        {
+            "id": 14,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "... No entanto, ser virtuoso em um mundo governado pela perversidade era se fazer vulnerável à sua inclemência."
+        },
+        {
+            "id": 15,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Minha força era insignificante diante do poder avassalador dos incorrigíveis oficiais corruptos."
+        },
+        {
+            "id": 16,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Não tive outra escolha senão deixar a S Corp., levando meu espírito quebrado junto aos meus companheiros."
+        },
+        {
+            "id": 17,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Deixei minha honra cicatrizada para trás, na terra do meu fracasso."
+        },
+        {
+            "id": 18,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Nos tornamos andarilhos, perambulando de um lado para o outro até a exaustão."
+        },
+        {
+            "id": 19,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "À medida que a fé dos que me seguiram e confiaram em mim começou a se esvair, a minha própria seguiu o mesmo caminho, sem retorno."
+        },
+        {
+            "id": 20,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Eu comecei a... desmoronar."
+        },
+        {
+            "id": 21,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Como eu, que já falhei uma vez, poderia ter certeza de que não decepcionaria meus companheiros de novo?..."
+        },
+        {
+            "id": 22,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "O mínimo que podia fazer era guiá-los a uma vida estável..."
+        },
+        {
+            "id": 23,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Mas aquele \"convite\" que recebi... apenas levou-os à ruína."
+        },
+        {
+            "id": 24,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "No fim, eu falhei com minha missão. Com minha honra. Com meus caros companheiros."
+        },
+        {
+            "id": 25,
+            "model": "최종김삿갓",
+            "teller": "Kim do Chapéu de Bambu?",
+            "title": "Pacto da Lâmina?",
+            "content": "E agora, mais uma vez, retorno à terra do meu fracasso..."
+        },
+        {
+            "id": 26,
+            "content": "A voz continuou a murmurar, mas... havia se transformado em um grunhido baixo, um choro incoerente e silencioso."
+        },
+        {
+            "id": 27,
+            "content": "Não pude deixar de simpatizar um pouco com seu passado doloroso e sufocante..."
+        },
+        {
+            "id": 28,
+            "content": "Mas é exatamente por isso que devemos enfrentá-lo e libertá-lo de sua Distorção."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<Pessoal, hora de colocar um ponto final nisso. Aqui e agora.>"
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "De fato. Parece que não temos outra escolha."
+        },
+        {
+            "id": 31,
+            "content": "Aeng-du está abalada demais para poder participar deste combate."
+        },
+        {
+            "id": 32,
+            "content": "Agora... está tudo em nossas mãos."
+        }
+    ]
+}

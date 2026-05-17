@@ -1,0 +1,271 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "place": "Sala de Recepção da Fábrica de Presentes",
+            "model": "단테",
+            "content": "<Valeu, pessoal... Mas como vocês chegaram aqui?>"
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Entramos através da Porta Traseira."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Os sinais de três pessoas, incluindo o Gerente, não foram detectados dentro do ônibus."
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "Então, todos os Pecadores foram convocados imediatamente de seus respectivos quartos para te buscar."
+        },
+        {
+            "id": 5,
+            "model": "로쟈",
+            "content": "E tão pouco depois da gente começar nosso descanso... Você só complicou as coisas, Dante~"
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Mesmo que você seja o Gerente Executivo... Entenda que esse tipo de comportamento isolado traz um grande risco. Por favor, tenha mais cuidado."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<Mil perdões... E-então como foi que nos acharam?>"
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "... Eu deduzi tudo."
+        },
+        {
+            "id": 9,
+            "model": "이상",
+            "content": "Nestes tempos passados, Heathcliff se encontrava numa inquietude constante. Considerando a natureza de nossas circunstâncias, conjecturei que tinha algo a fazer antes de nossa chegada à T Corp."
+        },
+        {
+            "id": 10,
+            "model": "이상",
+            "content": "Don Quixote fez um retorno relativamente tardio à Porta Traseira no dia em que a sirene ecoou."
+        },
+        {
+            "id": 11,
+            "model": "이상",
+            "content": "E, ao raiar do dia seguinte, ela fez a petição a mim e à Senhora Faust, de uma enciclopédia contendo símbolos comuns usados na Cidade."
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "Sim, então Faust lhe emprestou alguns volumes."
+        },
+        {
+            "id": 13,
+            "model": "이상",
+            "content": "A Senhora Don Quixote sentava-se próxima a mim e folheava o livro com uma expressão um tanto entusiasmada desde que recebera os volumes. Embora eu não pudesse dialogar com ela, dada minha... condição..."
+        },
+        {
+            "id": 14,
+            "model": "이상",
+            "content": "Eu me lembro que as seguintes palavras foram proferidas repetidamente: cosplay, fantasias, saco..."
+        },
+        {
+            "id": 15,
+            "model": "이상",
+            "content": "Em suma, concluí que a Senhora Don Quixote testemunhou uma série de símbolos que chamaram sua atenção quando o alarme tocou..."
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "... e Faust estava ciente da porta na qual esses símbolos estavam gravados. Baseando-se nessas informações, os Pecadores conseguiram achar o caminho até aqui."
+        },
+        {
+            "id": 17,
+            "model": "뫼르소",
+            "content": "Entramos em combate com diversas entidades do corredor em nosso caminho até essa porta."
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "content": "Ainda bem que só encontramos fracotes~"
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "Se um Pecador tivesse falecido nesse processo, sua morte teria sido irreversível."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Ah...>"
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Você entende? Enfrentar forças hostis em sua ausência traz um risco extremamente alto."
+        },
+        {
+            "id": 22,
+            "model": "뫼르소",
+            "content": "Podíamos ter nos perdido para sempre, como corpos, em algum canto do corredor, e nunca seríamos encontrados ou revividos."
+        },
+        {
+            "id": 23,
+            "model": "오티스",
+            "content": "Por favor, compreenda o peso da sua responsabilidade e os riscos que suas ações independentes acarretam."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "O Gerente Executivo precisa sobreviver a todo custo."
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "... Fui clara?"
+        },
+        {
+            "id": 26,
+            "content": "Eu nunca tinha visto a Outis me olhar daquele jeito. Seus olhos eram frios e implacáveis."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Você sobreviveu por mera sorte, Dante. A sequência daqueles símbolos não deve ser interpretada de forma tão descuidada."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Eu sinto muito mesmo... Não sei o que mais posso dizer.>"
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "... Acredito que seja o suficiente. Mas..."
+        },
+        {
+            "id": 30,
+            "model": "료슈",
+            "content": "S.S.D."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "É verdade. A Don Quixote e o Heathcliff... Para onde foram os dois?"
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<Ah, então...>"
+        },
+        {
+            "id": 33,
+            "content": "... Relatei-lhes exatamente os eventos que aconteceram."
+        },
+        {
+            "id": 34,
+            "model": "그레고르",
+            "content": "Ainda bem que você sobreviveu…"
+        },
+        {
+            "id": 35,
+            "model": "그레고르",
+            "content": "Tudo bem, Chefia. Eu sei que os outros já puxaram sua orelha, então não vou dizer nada. Mas onde nós estamos?"
+        },
+        {
+            "id": 36,
+            "model": "오티스",
+            "content": "Ei, que distrito é este? Esse frio... deve ser algum lugar no norte da Cidade. Ou..."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "Não nos encontramos na Cidade."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "... Espera, como assim?"
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Exatamente o que disse. Aqueles organismos inteligentes, chamados de \"gnomos\", são uma espécie que sobrevive nas Redondezas."
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "Comumente, estes são conhecidos como monstros das Redondezas."
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "Aaah... Monstros de novo? Depois de tudo que passamos no Lago?"
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<Mas eles não eram exatamente como as Baleias... Conseguimos falar com os gnomos. Eles eram que nem pessoas... só que pequenas.>"
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Então estamos numa região completamente diferente das Redondezas... Eu gostaria de poder explorar a área se as circunstâncias permitissem. Olha, essa estrutura parece ter sido construída especificamente para os gnomos, considerando quão pequeno tudo é aqui."
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Se isso são as Redondezas... Nós ainda podemos voltar, né?"
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Desde que a porta pela qual entramos continue aberta, sim."
+        },
+        {
+            "id": 46,
+            "model": "뫼르소",
+            "content": "Está aberta. Por enquanto."
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "E se ela... fechar?"
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Então, teríamos que começar uma viagem inesperada. Caminharíamos toda a distância das Redondezas de volta para a Cidade, o que seria um grande gasto de ambos tempo e esforço."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Isso não é meio perigo—>"
+        },
+        {
+            "id": 50,
+            "model": "검은노움",
+            "teller": "Gnomo Sombrinha",
+            "title": "Fábrica de Presentes",
+            "content": "Da onde tá vindo esse som-omo... Hã?"
+        },
+        {
+            "id": 51,
+            "model": "빨간노움",
+            "teller": "Gnomo Cerejinha",
+            "title": "Fábrica de Presentes",
+            "content": "Nomo!! Encontrei ouro-omo! Peguem suas ferramentas-omo!!!"
+        },
+        {
+            "id": 52,
+            "model": "이상",
+            "content": "Dante, venha para o fundo da formação."
+        },
+        {
+            "id": 53,
+            "content": "... A porta abriu com força e vários gnomos começaram a invadir a sala. Nos preparamos para a batalha."
+        }
+    ]
+}

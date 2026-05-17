@@ -1,0 +1,524 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Depósito de Peças da Equipe de Pesquisa da LCE",
+            "model": "그레고르",
+            "teller": "Rádio",
+            "content": "*tzzzt*... how... *bzzt* the others... "
+        },
+        {
+            "id": 1,
+            "model": "호엔하임",
+            "content": "Pronto, com isto as peças hão de ser suficientes."
+        },
+        {
+            "id": 2,
+            "model": "돈키호테",
+            "content": "...O som do rádio vai ficando cada vez mais turvo..."
+        },
+        {
+            "id": 3,
+            "model": "호엔하임",
+            "content": "É inevitável, pois o alcance da comunicação vai ficando cada vez mais distante."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "E os sobreviventes desta área... lamentavelmente, não se veem."
+        },
+        {
+            "id": 5,
+            "model": "호엔하임",
+            "content": "Isso também... é inevitável. Basta ver a forma dos cadáveres para saber."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "...Na situação atual, a Faust também pensa que não há meio algum de ajudá-los."
+        },
+        {
+            "id": 7,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 8,
+            "model": "히스클리프",
+            "content": "Tsk..."
+        },
+        {
+            "id": 9,
+            "model": "돈키호테",
+            "content": "Há de... ser assim. E quem deve estar mais magoado sois vós. Perdoai-me."
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "...A-agora basta voltarmos à sala de controle, não é?"
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "content": "Sim... basta atravessar este corredor, suponho."
+        },
+        {
+            "id": 12,
+            "model": "호엔하임",
+            "content": "Assistente. Andar de um lado para o outro de modo disperso e coçar a cabeça com ar intrigado são ações proibidas no instituto de pesquisa."
+        },
+        {
+            "id": 13,
+            "model": "마튼",
+            "content": "Acrescentando, franzir a cara desse jeito e inclinar a cabeça, ou olhar a tela e dizer 'hã?', também é proibido."
+        },
+        {
+            "id": 14,
+            "model": "히스클리프",
+            "content": "...Não, não estou com um bom pressentimento. O clima também está esquisito..."
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "…!"
+        },
+        {
+            "id": 16,
+            "model": "히스클리프",
+            "content": "Oi, stop! Don't go out yet."
+        },
+        {
+            "id": 17,
+            "model": "히스클리프",
+            "content": "There's somethin' outside."
+        },
+        {
+            "id": 18,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "약지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Hn~ Hnhnhn~ Hn~"
+        },
+        {
+            "id": 19,
+            "model": "약지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Não... dilatando um pouco mais os vasos sanguíneos... isso, assim é que fica um pouco melhor."
+        },
+        {
+            "id": 20,
+            "place": "Depósito de Peças da Equipe de Pesquisa da LCE",
+            "model": "싱클레어",
+            "content": "É... é verdade mesmo... Se a gente tivesse saído direto assim... teríamos esbarrado nele na hora."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Inferindo pela situação até aqui, o correto é considerá-lo a figura encarregada do lado do Anelar."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "...Um Pai. Então é absurdamente forte, igual ao sujeito que sequestrou a Caron."
+        },
+        {
+            "id": 23,
+            "model": "호엔하임",
+            "content": "...Vocês, para onde foi aquele ímpeto que mostraram quando me encheram de pancada no experimento do Monólito?"
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "Ei, fala uma coisa dessas que quem ouvir vai entender errado... Naquela hora a gente estava batendo numa Distorção. Não... não era bater, droga. Enfim!"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "A julgar pelos vestígios que restam nos corpos expostos... a probabilidade de vencê-lo num confronto direto é baixa."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "A Faust não recomenda travar um combate sem chance de vitória numa situação em que estamos completamente separados do Gerente Dante."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Como estamos num estado em que nem sequer podemos usar as Personalidades, um combate neste momento não passará de uma guerra de desgaste sem sentido..."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Agora, quando faltam até informações sobre o inimigo, se por acaso sofrermos um ferimento fatal a ponto de nada se poder fazer..."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "Quereis dizer que, quando o senhor Gerente voltar, poderá ver o senhor Sinclair esfriando, gélido?!"
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "E o senhor Don Quixote, também gélido, poderia estar junto...!"
+        },
+        {
+            "id": 31,
+            "model": "마튼",
+            "content": "...Chefe de equipe. Se aquele sujeito continuar instalado neste corredor..."
+        },
+        {
+            "id": 32,
+            "model": "호엔하임",
+            "content": "Que situação difícil. Para chegar à sala de controle, a probabilidade de esbarrar nele é alta..."
+        },
+        {
+            "id": 33,
+            "model": "히스클리프",
+            "content": "...Você. Quanto tempo leva pra consertar aquele equipamento avariado, ou o que quer que seja?"
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "Este ataque se aproxima de uma sabotagem... então não é como um conserto comum de defeito; é preciso ir desfazendo e consertando uma coisa de cada vez."
+        },
+        {
+            "id": 35,
+            "model": "호엔하임",
+            "content": "Não posso dar uma resposta certa antes de ver com os olhos o grau do dano... mas, ainda que o estrago seja pequeno, não vai se concluir depressa."
+        },
+        {
+            "id": 36,
+            "model": "호엔하임",
+            "content": "...Droga, Marton. Quantas vezes eu não disse que um distribuidor de energia que não segue o modelo padrão é difícil de manter e reparar?"
+        },
+        {
+            "id": 37,
+            "model": "마튼",
+            "content": "Ah, o projeto desta área do instituto foi o senhor, chefe de equipe, que elaborou."
+        },
+        {
+            "id": 38,
+            "model": "호엔하임",
+            "content": "...Pelo visto foi quando faltava cerca de uma semana para o prazo do relatório. Provavelmente era o melhor que se podia fazer dentro do tempo disponível."
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "Não haveria um jeito de ganhar tempo... ou de atraí-lo?"
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "content": "Ocorrem-me uns cinco ou seis métodos. Se eu for propor um deles..."
+        },
+        {
+            "id": 41,
+            "model": "호엔하임",
+            "content": "...é tirar os sapatos daquele sujeito."
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 43,
+            "model": "히스클리프",
+            "content": "Q-quê?! Você passou por aquele alvoroço todo naquela vez e ainda diz uma coisa dessas?"
+        },
+        {
+            "id": 44,
+            "model": "호엔하임",
+            "content": "Vocês não conseguem usar as Personalidades, e nem mesmo com o equipamento E.G.O que eu visto agora há outro meio de subjugar ou matar aquele sujeito, presumido como o Maestro do Anelar, não é?"
+        },
+        {
+            "id": 45,
+            "model": "돈키호테",
+            "content": "If need be... I shall step fo— I'll do it."
+        },
+        {
+            "id": 46,
+            "model": "싱클레어",
+            "content": "D-Don Quixote...!"
+        },
+        {
+            "id": 47,
+            "model": "히스클리프",
+            "content": "I... I ain't havin' it."
+        },
+        {
+            "id": 48,
+            "model": "히스클리프",
+            "content": "Já houve situações piores que esta. E não é que, em cada uma delas, eu não pensasse em tirar aqueles sapatos fedidos... mas isso é uma coisa que não se pode fazer, né..."
+        },
+        {
+            "id": 49,
+            "model": "돈키호테",
+            "content": "Já o disse repetidas vezes: o Rocinante mantém em ação permanente uma função de limpeza para conservar a própria higiene... Não, deixemos isto de lado."
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "content": "...Recorrer ao poder de Sanguinário... não me agrada, mas não há outro jeito, não é?"
+        },
+        {
+            "id": 51,
+            "model": "돈키호테",
+            "content": "E eu confio. Em que vós me trareis de volta outra vez."
+        },
+        {
+            "id": 52,
+            "model": "히스클리프",
+            "content": "Tch..."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "A Faust também concorda com a opinião do senhor Heathcliff. O plano de o senhor Don Quixote tirar os sapatos fica rejeitado."
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "Há vários motivos, mas, acima de tudo... o senhor Don Quixote não deve descer do Rocinante."
+        },
+        {
+            "id": 55,
+            "model": "호엔하임",
+            "content": "Você acha que com isso é impossível? Considerando o resultado do exame... e a capacidade de combate que aquele sujeito demonstrou..."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Não. Que o senhor Don Quixote tire os sapatos e resolva a situação atual não é uma ideia descabida. Mas..."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "...esse rumo é uma escolha que se afasta da jornada de reaver o Ramo Dourado, para a qual o senhor Dante se dirige; e, ainda que se tirem os sapatos, essa escolha tem de ser feita pelo Gerente."
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "Eh, espere um momento. Está rápido demais... A senhora precisa explicar um pouco mais..."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "Para dar um exemplo direto: no caso de o senhor Don Quixote, fora de controle, não vencer o impulso e criar vassalos indiscriminadamente, aumentando as bolsas de sangue..."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "...mesmo que o Gerente rebobine o relógio quantas vezes for, há a possibilidade de não se poder voltar ao senhor Don Quixote de agora."
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Um Pecador não ser recuperável nem mesmo pela capacidade do Gerente equivale a fracassar sem conseguir reunir o Ramo Dourado deste mundo. Isso se torna algo que eu não consigo comprovar e, por consequência..."
+        },
+        {
+            "id": 62,
+            "model": "호엔하임",
+            "content": "Entendi. Rejeitado. Compreendi. Passemos ao próximo plano."
+        },
+        {
+            "id": 63,
+            "model": "돈키호테",
+            "content": "...Está tudo bem? Numa situação em que não há um meio adequado de vencer aquele sujeito."
+        },
+        {
+            "id": 64,
+            "model": "호엔하임",
+            "content": "Era apenas o plano A para romper a situação. De início, fazer um jogo de probabilidades num ambiente fora de controle nunca me foi agradável."
+        },
+        {
+            "id": 65,
+            "model": "히스클리프",
+            "content": "Faça o que for, faça depressa. Aqueles sapatos de bico fino... sumiram por um instante, mas..."
+        },
+        {
+            "id": 66,
+            "model": "호엔하임",
+            "content": "...O plano B é: enquanto eu ganho um pouco de tempo, vocês ajudam o Marton e concluem o reparo do equipamento."
+        },
+        {
+            "id": 67,
+            "model": "호엔하임",
+            "content": "Se eu elevar a sensibilidade deste equipamento E.G.O Centopeia de Choque, mesmo que o coração pare, dá para se mover por um tempo."
+        },
+        {
+            "id": 68,
+            "model": "호엔하임",
+            "content": "Por ter passado por alguns combates, o estado não está bom, mas, com sorte, não dá para tentar atordoá-lo com uma corrente de alta tensão?"
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Ha! Um sujeito que dá pra duvidar se já brigou uma vez na vida, falando o quê..."
+        },
+        {
+            "id": 70,
+            "model": "호엔하임",
+            "content": "Vocês já não lutaram contra alguém que vestia um equipamento E.G.O? Mesmo com pouca experiência de combate, vestindo este equipamento..."
+        },
+        {
+            "id": 71,
+            "model": "히스클리프",
+            "content": "Ufa... deixa pra lá. A gente é que ganha tempo, e ponto."
+        },
+        {
+            "id": 72,
+            "model": "히스클리프",
+            "content": "Mesmo que a gente morra... o Relógio vai cuidar deste ponto. Aí a gente volta à vida, suponho."
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "Eh... mesmo que a gente fique igual àquelas figuras a que chamam de 'obra'... dá pra voltar, né...?"
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Sim. Claro que a dor que, nesse processo, acompanhará o envolvido e o senhor Dante há de ultrapassar de longe a usual, então é melhor que não se chegue a isso."
+        },
+        {
+            "id": 75,
+            "model": "호엔하임",
+            "content": "Vocês, pelo visto, não sabem que potência de fogo eu desenvolvo quando visto o equipamento direito..."
+        },
+        {
+            "id": 76,
+            "model": "호엔하임",
+            "content": "Talvez seja melhor deixá-los sem saber."
+        },
+        {
+            "id": 77,
+            "model": "히스클리프",
+            "content": "...Você também vai junto? Sem ajudar a consertar aquilo?"
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Não sei quem o projetou, mas seria um desperdício uma genial como eu se dedicar a reparar uma instalação elétrica tão malfeita."
+        },
+        {
+            "id": 79,
+            "model": "호엔하임",
+            "content": "Ela diz isso. Acrescentando: não era malfeita; era o melhor projeto dentro do tempo disponível. Ou seja, naquela época era o projeto perfeito."
+        },
+        {
+            "id": 80,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 81,
+            "model": "호엔하임",
+            "content": "Conto com vocês. Espero que saiam ilesos, como da última vez."
+        },
+        {
+            "id": 82,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "model": "돈키호테",
+            "content": "Young Sinclair, art thou well?"
+        },
+        {
+            "id": 84,
+            "model": "히스클리프",
+            "content": "Se a coisa parecer que não vai dar certo de jeito nenhum, a gente ganha tempo primeiro, então..."
+        },
+        {
+            "id": 85,
+            "model": "싱클레어",
+            "content": "... No."
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "I can't just... keep wandering around aimlessly..."
+        },
+        {
+            "id": 87,
+            "model": "싱클레어",
+            "content": "Wandering... aimlessly—"
+        },
+        {
+            "id": 88,
+            "place": -1,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 89
+        },
+        {
+            "id": 90
+        },
+        {
+            "id": 91
+        },
+        {
+            "id": 93,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Ah, of course...!"
+        },
+        {
+            "id": 94,
+            "model": "싱클레어",
+            "content": "…!"
+        },
+        {
+            "id": 95,
+            "model": "히스클리프",
+            "content": "Bloody hell..."
+        },
+        {
+            "id": 96,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Um salão de exposição que acumulou o ápice da estética, mesmo sem espalhar convites à parte, atrai naturalmente uma multidão de espectadores."
+        },
+        {
+            "id": 97,
+            "model": "히스클리프",
+            "content": "...Ei, você acha que a gente veio só pra ver uma porcaria dessas?"
+        },
+        {
+            "id": 98,
+            "model": "히스클리프",
+            "content": "Eu não tenho lá olho pra esse tipo de coisa, mas... é a pior exposição que eu vi desde que nasci."
+        },
+        {
+            "id": 99,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Sendo assim, eu mesmo terei de fazer a curadoria para os nossos espectadores tolos e tão jovenzinhos."
+        },
+        {
+            "id": 100,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Tal como ensinei à Yoshihide... do kitsch à vanguarda."
+        },
+        {
+            "id": 101,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Gravando, com minhas próprias mãos, uma corrente artística em cada pedaço de carne."
+        },
+        {
+            "id": 102,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Uma exposição comentada pelo próprio Maestro... bem podem considerá-la uma honra, não?"
+        }
+    ]
+}

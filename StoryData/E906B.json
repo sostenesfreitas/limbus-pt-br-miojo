@@ -1,0 +1,811 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corridor of the Ring Nursefather",
+            "model": "앨런",
+            "content": "O senhor chegou. Eu estava esperando."
+        },
+        {
+            "id": 1,
+            "model": "앨런",
+            "content": "Bem na hora, terminou a seleção de todas as portas com alta probabilidade de levarem à galeria."
+        },
+        {
+            "id": 2,
+            "model": "앨런",
+            "content": "Agora, é preciso entrar pelas outras portas sobre as quais o senhor nos deu informação…"
+        },
+        {
+            "id": 3,
+            "model": "뉴키라",
+            "content": "Espera."
+        },
+        {
+            "id": 4,
+            "model": "뉴키라",
+            "content": "…Eu tenho mais história pra contar."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Ã…?>"
+        },
+        {
+            "id": 6,
+            "model": "앨런",
+            "content": "História… seria informação sobre as portas?"
+        },
+        {
+            "id": 7,
+            "model": "뉴키라",
+            "content": "É."
+        },
+        {
+            "id": 8,
+            "model": "뉴키라",
+            "content": "Aquela porta ali parece que ligava com um Ninho da Firma N. Eu vi a Albina entrando pra comprar uns negócios de lata… dizendo que tinha interesse."
+        },
+        {
+            "id": 9,
+            "model": "뉴키라",
+            "content": "Aquela porta de madeira com a maçaneta enfaixada, eu vi o papai entrando pra cuidar do livro-registro. Pelo que estava escrito no livro, devia ser a zona de proteção de alguma organização sob o domínio do Polegar."
+        },
+        {
+            "id": 10,
+            "content": "Ao contrário de antes, quando contava de modo vago sobre uma única porta…"
+        },
+        {
+            "id": 11,
+            "content": "Kira explicou ao chefe de equipe Allen, por um tempo, informações de boa qualidade, até para um leigo como eu."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Hum… ela é mais cooperativa do que parece. Eu tinha ouvido dizer que ela apanhou daquele sujeito chamado Allen."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Pois é. Eu achei que, por despeito, ela ia, pelo contrário, ficar mais sem vontade de falar…>"
+        },
+        {
+            "id": 14,
+            "model": "오티스",
+            "content": "Mas não se deve baixar a guarda, Gerente. Não se sabe quando ela vai trair…"
+        },
+        {
+            "id": 15,
+            "model": "뉴키라",
+            "content": "Ah, droga. Mostra ao menos o esforço de falar mais baixo. Dá pra ouvir tudo o que você está dizendo, viu?"
+        },
+        {
+            "id": 16,
+            "model": "앨런",
+            "content": "Então, peço que verifiquem primeiro os lugares com alta probabilidade de segurança."
+        },
+        {
+            "id": 17,
+            "model": "앨런",
+            "content": "Os lugares com alta probabilidade de perigo, depois de checar, eu aponto separadamente só os que precisam ser visitados."
+        },
+        {
+            "id": 18,
+            "content": "Allen mexeu para lá e para cá num terminal que havia por perto e fez algumas portas se iluminarem de azul."
+        },
+        {
+            "id": 19,
+            "content": "É só verificar aquelas ali primeiro, então."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Por onde a gente vai?>"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Estão todas mais ou menos parecidas, então vai logo pela mais perto."
+        },
+        {
+            "id": 22,
+            "content": "Bem, como ele disse que todas têm alta probabilidade de serem seguras… deve dar no mesmo, então."
+        },
+        {
+            "id": 23,
+            "content": "No instante em que eu ia abrir a porta mais próxima, conforme as palavras de Heathcliff, Ryōshū caminhou até uma porta dos fundos um pouco afastada e parou."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "Esta porta… me é familiar."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<…! Por acaso é uma porta que você conhece?>"
+        },
+        {
+            "id": 26,
+            "model": "료슈",
+            "content": "Parece que eu entrei e saí por ela algumas vezes na infância…"
+        },
+        {
+            "id": 27,
+            "content": "Naquele instante, um fragmento de memória recoberto, sabe-se lá onde, entrou na minha cabeça."
+        },
+        {
+            "id": 28,
+            "place": "???",
+            "model": "과거료슈2",
+            "content": "Desculpa… doeu muito, né?"
+        },
+        {
+            "id": 29,
+            "model": "과거료슈2",
+            "content": "Eu… devia ter terminado o dever de casa um pouco mais rápido…"
+        },
+        {
+            "id": 30,
+            "model": "과거료슈2",
+            "content": "Ah. Passeio… vamos passear?"
+        },
+        {
+            "id": 31,
+            "place": "Corridor of the Ring Nursefather",
+            "model": "료슈",
+            "content": "Ufa… não me lembro bem."
+        },
+        {
+            "id": 32,
+            "content": "A memória de agora há pouco… será que tem a ver com Araya?"
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Vamos investigar aquela porta primeiro.>"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Okay… é esta, né?"
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "content": "Abro?"
+        },
+        {
+            "id": 36,
+            "place": -1,
+            "content": "Heathcliff, de temperamento apressado, abriu a porta e entrou primeiro, e eu também, junto com os Pecadores e Kira, levei os passos para dentro da porta."
+        },
+        {
+            "id": 37,
+            "place": "A Park, Somewhere",
+            "model": "단테",
+            "content": "<Aqui é…?>"
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "A julgar pelo estado de conservação… parece ser uma instalação de bem-estar de algum Ninho, provavelmente um parque."
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "content": "Vendo que tem um monte de gente vivendo com um bicho cada um, dá pra ter uma ideia. É um bairro rico, ora."
+        },
+        {
+            "id": 40,
+            "content": "A palavra 'passeio' que passou pela memória de Ryōshū, e a paisagem deste lugar."
+        },
+        {
+            "id": 41,
+            "content": "Depois de encaixar esse fragmento na cabeça, eu pus na boca uma certa memória que eu vira quando estivemos na Teia."
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<Você já veio aqui com um cachorrinho chamado… Saru?>"
+        },
+        {
+            "id": 43,
+            "model": "료슈9장",
+            "content": "…Pois é. Havia uma memória dessas."
+        },
+        {
+            "id": 44,
+            "model": "료슈",
+            "content": "Mas não era um cachorrinho."
+        },
+        {
+            "id": 45,
+            "model": "료슈",
+            "content": "Naquela época… ele já era um pouco grande."
+        },
+        {
+            "id": 46,
+            "place": "Corridor of the Ring Nursefather, Past",
+            "model": "과거료슈2",
+            "content": "Desculpa… doeu muito, né?"
+        },
+        {
+            "id": 47,
+            "model": "과거료슈2",
+            "content": "Eu… devia ter terminado o dever de casa um pouco mais rápido…"
+        },
+        {
+            "id": 48,
+            "model": "사루",
+            "teller": "Saru",
+            "title": "The House of Spiders",
+            "content": "Ganin…"
+        },
+        {
+            "id": 49,
+            "model": "과거료슈2",
+            "content": "Mesmo dando um monte de comida, a energia não volta…"
+        },
+        {
+            "id": 50,
+            "model": "과거료슈2",
+            "content": "Ah. Passeio… vamos passear? O Saru gosta de correr."
+        },
+        {
+            "id": 51,
+            "model": "사루",
+            "teller": "Saru",
+            "title": "The House of Spiders",
+            "content": "…Au!"
+        },
+        {
+            "id": 52,
+            "model": "과거료슈2",
+            "content": "Tem uma oficina aonde o papai vai todo dia, e a porta que leva pra lá liga com o parque."
+        },
+        {
+            "id": 53,
+            "model": "과거료슈2",
+            "content": "Vamos lá agora mesmo e voltamos."
+        },
+        {
+            "id": 54,
+            "model": "사루",
+            "teller": "Saru",
+            "title": "The House of Spiders",
+            "content": "Heq, heq…"
+        },
+        {
+            "id": 55,
+            "place": "A Park, Somewhere",
+            "content": "A memória da infância de Ryōshū passou nítida pela minha cabeça."
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "content": "…Aquilo de agora era esse infeliz?"
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "content": "Ooh… aquilo me pareceu muito impróprio da senhora Ryōshū, mas."
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 59,
+            "model": "료슈2",
+            "content": "Ei, relógio. Quem disse que você podia mostrar à vontade?"
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<Não… você sabe. Eu já disse que não é algo que eu controle ao meu bel-prazer.>"
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "content": "Tch… es.tar.re.ce.dor."
+        },
+        {
+            "id": 62,
+            "content": "Ao contrário da época do incidente da Teia, quando eu sozinho vi alguns dos fragmentos de memória estilhaçados…"
+        },
+        {
+            "id": 63,
+            "content": "desta vez, parecia que a memória recomposta de Ryōshū se mostrava até às pessoas ao redor, como em Hongwon."
+        },
+        {
+            "id": 64,
+            "content": "Se é assim, então provavelmente…"
+        },
+        {
+            "id": 65,
+            "model": "뉴키라",
+            "content": "O que é. Por que você está me olhando? Que coisa mais sem cabimento."
+        },
+        {
+            "id": 66,
+            "model": "오티스",
+            "content": "Agora… você não viu nada?"
+        },
+        {
+            "id": 67,
+            "model": "뉴키라",
+            "content": "Eu só vi vocês ficarem todos abobalhados, olhando para o nada."
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Pelo visto, ao menos para a Kira, não aparece.>"
+        },
+        {
+            "id": 69,
+            "content": "Bem, ao contrário de Lin Daiyu, Kira não é uma pessoa diretamente ligada a Ryōshū, então talvez seja natural."
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "O cãozinho fofo da memória era um amigo da senhora Ryōshū?"
+        },
+        {
+            "id": 71,
+            "model": "료슈",
+            "content": "Pois é. Era o melhor amigo, sem igual."
+        },
+        {
+            "id": 72,
+            "model": "료슈",
+            "content": "Mas, por causa disso, o Saru, toda vez…"
+        },
+        {
+            "id": 73,
+            "model": "료슈2",
+            "content": "Ufa… toda vez que eu saía para um encargo, ele era posto num cofre com uma rosca cravada."
+        },
+        {
+            "id": 74,
+            "model": "료슈9장",
+            "content": "…A primeira coleira. Pensando agora, teria sido melhor ele ter morrido mais cedo."
+        },
+        {
+            "id": 75,
+            "model": "돈키호테",
+            "content": "Como… alguém pôde fazer uma maldade dessas com um pobre animal que nem fala…"
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Agora que penso, o cãozinho chamado Saru… no fim, o que aconteceu com ele?>"
+        },
+        {
+            "id": 77,
+            "model": "료슈",
+            "content": "Ufa… morreu sem nem chegar a cumprir o tempo de vida."
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "content": "Um dia… eu não me lembro do motivo, mas houve um dia em que o Saru ficava soltando um gemido de dor sem parar. Por isso… eu me tranquei no quarto e fiquei chorando."
+        },
+        {
+            "id": 79,
+            "model": "히스클리프",
+            "content": "Chorando? Quem…?"
+        },
+        {
+            "id": 80,
+            "model": "료슈",
+            "content": "É claro que era eu."
+        },
+        {
+            "id": 81,
+            "content": "Talvez por aquilo ser, mesmo visto pela memória, tão diferente da figura de sempre, a expressão de Heathcliff estava cheia de descrença."
+        },
+        {
+            "id": 82,
+            "model": "료슈",
+            "content": "Eu estava sofrendo tanto que… Calisto, aquele sujeito, disse que havia um jeito e me pediu para esperar, que no dia seguinte me daria um bom presente."
+        },
+        {
+            "id": 83,
+            "model": "료슈2",
+            "content": "E o que eu recebi foi…"
+        },
+        {
+            "id": 84,
+            "model": "료슈",
+            "content": "Chuksaenggoldo… era um punhal do qual, a cada vez que se brandia, vinha o som do choro do Saru."
+        },
+        {
+            "id": 85,
+            "model": "뉴키라",
+            "content": "Eca. É sério?"
+        },
+        {
+            "id": 86,
+            "model": "뉴키라",
+            "content": "…Aquele tio da prótese mecânica era esquisito mesmo… e, depois disso, ele matou o cachorro?"
+        },
+        {
+            "id": 87,
+            "model": "료슈",
+            "content": "Não, não matou. Pois aquele punhal estava vivo."
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<Estava… vivo…?>"
+        },
+        {
+            "id": 89,
+            "model": "히스클리프",
+            "content": "Esse desgraçado não é maluco…"
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "content": "Os olhos cravados feito enfeite me fitavam como quem guarda rancor, e o pequeno coração batia como quem se debate."
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "content": "Eu pensei que era horrível e, ao mesmo tempo, senti compaixão."
+        },
+        {
+            "id": 92,
+            "model": "료슈2",
+            "content": "Ufa… por isso… com as minhas próprias mãos, eu encurtei o tempo que restava ao Saru."
+        },
+        {
+            "id": 93,
+            "model": "히스클리프",
+            "content": "…De tanto ouvir, me deu curiosidade. Por que você… faz isso, essa tal arte? Não, falando sem rodeios… depois de passar por uma coisa dessas, dá nojo até de olhar, ora."
+        },
+        {
+            "id": 94,
+            "model": "뉴키라",
+            "content": "É o que eu digo! Aquilo que aquele tio traz dizendo que é obra é só nojento mesmo."
+        },
+        {
+            "id": 95,
+            "model": "뉴키라",
+            "content": "Eu quase não vi obra do Anelar afora as daquele tio e da Albina, mas… sei lá se é por eu ser leigo, eu não entendo nadinha o que é que tem de artístico."
+        },
+        {
+            "id": 96,
+            "model": "료슈",
+            "content": "Comigo era a mesma coisa."
+        },
+        {
+            "id": 97,
+            "model": "료슈",
+            "content": "Bom, no começo eu tinha medo, mas, de tanto aprender, havia partes que combinavam bastante com o meu gosto, só isso."
+        },
+        {
+            "id": 98,
+            "model": "돈키호테",
+            "content": "Aquelas… obras horríveis… o senhor diz?"
+        },
+        {
+            "id": 99,
+            "model": "료슈",
+            "content": "Pelo que eu ouço vocês dizerem, pelo visto vocês não conseguiram guardar e esqueceram, mas…"
+        },
+        {
+            "id": 100,
+            "model": "료슈",
+            "content": "Calisto. Havia uma frase que aquele sujeito vivia repetindo."
+        },
+        {
+            "id": 101,
+            "model": "료슈",
+            "content": "Que a arte é extremamente subjetiva, então não se deve esperar a compreensão de ninguém."
+        },
+        {
+            "id": 102,
+            "model": "료슈",
+            "content": "Ufa… é bizarro e aterrador, mas há uma beleza que se enxerga dentro daquela hediondez."
+        },
+        {
+            "id": 103,
+            "model": "히스클리프",
+            "content": "…Eu não entendo bem, mas… bom, se é assim…"
+        },
+        {
+            "id": 104,
+            "model": "히스클리프",
+            "content": "Não, mas, droga, por mais que se olhe, como é que alguém se acostuma com uma coisa daquelas…"
+        },
+        {
+            "id": 105,
+            "model": "료슈",
+            "content": "Sem nem ser artista, há necessidade de entender, à força?"
+        },
+        {
+            "id": 106,
+            "model": "료슈",
+            "content": "Agora mesmo, com medo da obra que aquele Calisto instalou, eu chorava toda noi…"
+        },
+        {
+            "id": 107,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 108,
+            "content": "Tlec."
+        },
+        {
+            "id": 109,
+            "content": "A bainha se move como que reagindo às palavras de Ryōshū."
+        },
+        {
+            "id": 110,
+            "content": "Aquela figura parecia ao mesmo tempo tremer de medo e estar um pouco animada."
+        },
+        {
+            "id": 111,
+            "model": "료슈",
+            "content": "…Na Teia… ter pesadelo toda noite e chorar."
+        },
+        {
+            "id": 112,
+            "model": "뉴키라",
+            "content": "Quem é que haveria de ter medo da obra do Anelar naquela época?"
+        },
+        {
+            "id": 113,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 114,
+            "model": "료슈",
+            "content": "Há uma coisa que eu quero confirmar… aqui parece que a gente já viu tudo, então vamos voltar."
+        },
+        {
+            "id": 115,
+            "model": "단테",
+            "content": "<Ah. Vamos. É que não tem nada por perto que valha a pena examinar mesmo.>"
+        },
+        {
+            "id": 116,
+            "content": "Como o exame tinha terminado, nós também voltamos depressa, seguindo Ryōshū, e…"
+        },
+        {
+            "id": 117,
+            "place": "Corridor of the Ring Nursefather",
+            "content": "Ryōshū, fitando as obras cobertas por um pano, estava mergulhada em cismas."
+        },
+        {
+            "id": 118,
+            "model": "료슈",
+            "content": "Aqui… uma vez foi exposta uma obra muito grande."
+        },
+        {
+            "id": 119,
+            "model": "료슈",
+            "content": "…Pois é. Sei lá que mosca o picou, mas ele andava agitado dizendo que a mão estava enrijecida."
+        },
+        {
+            "id": 120,
+            "place": "Corridor of the Ring Nursefather, Past",
+            "model": "아라야공백",
+            "content": "Buá… mamãe…"
+        },
+        {
+            "id": 121,
+            "model": "과거료슈3",
+            "content": "…O que houve."
+        },
+        {
+            "id": 122,
+            "model": "아라야공백",
+            "content": "A-ali…"
+        },
+        {
+            "id": 123,
+            "model": "과거료슈3",
+            "content": "…Eu disse para você expor as obras só no seu quarto."
+        },
+        {
+            "id": 124,
+            "model": "약지아비",
+            "content": "Ah, você voltou, Yoshihide."
+        },
+        {
+            "id": 125,
+            "model": "약지아비",
+            "content": "Desta vez eu resolvi tentar uma instalação artística de escala um pouco maior. E aí acabou faltando espaço na galeria, ora."
+        },
+        {
+            "id": 126,
+            "model": "료슈딸2",
+            "content": "M-mamãe… as pessoas… gritando…"
+        },
+        {
+            "id": 127,
+            "model": "약지아비",
+            "content": "Yoshihide. A Araya também já está na hora de ser iniciada na estética, então não tem problema, tem?"
+        },
+        {
+            "id": 128,
+            "model": "과거료슈3",
+            "content": "Tem problema, sim."
+        },
+        {
+            "id": 129,
+            "model": "과거료슈3",
+            "content": "…Lá por você ter gostado, e por eu, no fim, ter passado a gostar, onde está a garantia de que com a Araya vai ser assim também?"
+        },
+        {
+            "id": 130,
+            "model": "료슈딸2",
+            "content": "Buááá… buá…"
+        },
+        {
+            "id": 131,
+            "model": "과거료슈3",
+            "content": "…Vamos voltar para o quarto."
+        },
+        {
+            "id": 132,
+            "place": "Corridor of the Ring Nursefather",
+            "model": "료슈",
+            "content": "…Havia algo aninhado no peito dela, chorando."
+        },
+        {
+            "id": 133,
+            "place": -1,
+            "model": "료슈",
+            "content": "Saru…? Não. O Saru não é tão grande assim."
+        },
+        {
+            "id": 134,
+            "content": "Uma memória retalhada, por mais que se junte, não tem como se tornar uma memória inteira."
+        },
+        {
+            "id": 135,
+            "content": "É por isso que, por mais que nós contemos a Ryōshū sobre Araya, isso não há de tocá-la muito, mas."
+        },
+        {
+            "id": 136,
+            "model": "료슈9장",
+            "content": "…É mesmo. Este vão vazio… é Araya."
+        },
+        {
+            "id": 137,
+            "place": "Corridor of the Ring Nursefather",
+            "content": "A emoção e a sensação sobre aquilo que está vazio começam a se entrelaçar à memória de Ryōshū."
+        },
+        {
+            "id": 138,
+            "content": "É assim que se pode recordar Araya em conjunto."
+        },
+        {
+            "id": 139,
+            "content": "Araya, como quem se alegra com esse progresso, soltou um som de estalo."
+        },
+        {
+            "id": 140,
+            "model": "단테",
+            "content": "<Então… vamos investigar a próxima porta também.>"
+        },
+        {
+            "id": 141,
+            "content": "Dali em diante também entramos por várias portas dos fundos que o chefe de seção Allen designou,"
+        },
+        {
+            "id": 142,
+            "content": "mas, infelizmente, não surgiu mais nenhum lugar digno de estimular a memória de Ryōshū."
+        },
+        {
+            "id": 143,
+            "model": "뉴키라",
+            "content": "Não tem nada de mais. Com isto… ué?"
+        },
+        {
+            "id": 144,
+            "model": "뉴키라",
+            "content": "O-o que é isso. Como é que aqueles ali vieram parar aqui de novo?"
+        },
+        {
+            "id": 145,
+            "content": "No lugar que Kira, sobressaltada, apontava, sujeitos com máscaras de animais carregavam grandes pedaços de carne cobertos por uma lona."
+        },
+        {
+            "id": 146,
+            "model": "단테",
+            "content": "<Aqueles do Anelar de agora há pouco…?>"
+        },
+        {
+            "id": 147,
+            "model": "돈키호테",
+            "content": "Com certeza… eles não disseram, há pouco, que tinham bloqueado a porta? Como é que aqueles rufiões vieram parar aqui…"
+        },
+        {
+            "id": 148,
+            "model": "앨런마스크",
+            "content": "Parece que invadiram por uma rota totalmente diferente… por outra porta dos fundos."
+        },
+        {
+            "id": 149,
+            "model": "앨런마스크",
+            "content": "O que eles visam, como podem ver… parece ser levar embora a obra do tal Pai do Anelar."
+        },
+        {
+            "id": 150,
+            "model": "야수파1",
+            "content": "Carrega, carrega, rápido!"
+        },
+        {
+            "id": 151,
+            "model": "야수파2",
+            "content": "A gente leva nem que seja mais uma peça e volta!"
+        },
+        {
+            "id": 152,
+            "model": "뉴키라",
+            "content": "Aquele tio… não era um caduco? É popular pra caramba."
+        },
+        {
+            "id": 153,
+            "model": "료슈",
+            "content": "…Ha. Talvez seja porque tem alto valor como obra."
+        },
+        {
+            "id": 154,
+            "model": "료슈",
+            "content": "Ou então talvez a notícia de que um artista morreu tenha grudado e elevado o valor… pensem bem."
+        },
+        {
+            "id": 155,
+            "model": "앨런마스크",
+            "content": "Parece que eles já fugiram com algumas peças."
+        },
+        {
+            "id": 156,
+            "model": "앨런마스크",
+            "content": "É claro… que não são objetos lá tão valiosos, nem para nós nem para a vossa empresa, mas…"
+        },
+        {
+            "id": 157,
+            "model": "료슈",
+            "content": "Ver eles arrastando, com esforço, obras medíocres sem valor algum… é bem ridículo, mas."
+        },
+        {
+            "id": 158,
+            "model": "료슈",
+            "content": "Ao imaginar que vão expor isso enxertando uma herança ridícula, citando o meu nome… fico um pouco contrariada."
+        },
+        {
+            "id": 159,
+            "model": "오티스",
+            "content": "Agora eles estão concentrados em carregar aquilo, mas… há alta probabilidade de ferirem os funcionários da Wayfarer ou os pesquisadores da LCE que trabalham aqui, Gerente."
+        },
+        {
+            "id": 160,
+            "model": "오티스",
+            "content": "Pensando na reputação, parece que é melhor exterminar todos eles agora mesmo."
+        },
+        {
+            "id": 161,
+            "model": "단테",
+            "content": "<Pois é. Conforme as palavras de Outis, é melhor varrê-los de antemão, antes que aprontem alguma.>"
+        },
+        {
+            "id": 162,
+            "model": "단테",
+            "content": "<…Pessoal. Surgiu trabalho de novo, então vou pedir uma força.>"
+        },
+        {
+            "id": 163,
+            "content": "Desta vez eu não recebi resposta pelo rádio, mas, provavelmente… vai dar tudo certo."
+        }
+    ]
+}

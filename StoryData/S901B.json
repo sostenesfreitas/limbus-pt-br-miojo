@@ -1,0 +1,401 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "<i><color=#cf0000>Havia um novelo de fio, enrolado de modo que o início e o fim se tocavam.</i></color>"
+        },
+        {
+            "id": 1,
+            "content": "<i><color=#cf0000>Cada instante se tece, tornando-se trama e urdidura,</i></color>"
+        },
+        {
+            "id": 2,
+            "content": "<i><color=#cf0000>e o tempo, em vez de fluir, se emaranha num só lugar.</i></color>"
+        },
+        {
+            "id": 3,
+            "model": "과거료슈3",
+            "teller": "???",
+            "title": "???",
+            "content": "Go on, read it."
+        },
+        {
+            "id": 4,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "Uh... Ryō... shū...?"
+        },
+        {
+            "id": 5,
+            "content": "<i><color=#cf0000>Entre o teu primeiro pranto e o teu último suspiro.</i></color>"
+        },
+        {
+            "id": 6,
+            "content": "<i><color=#cf0000>No centro de cada instante, eu estou a te ver.</i></color>"
+        },
+        {
+            "id": 7,
+            "model": "과거료슈3",
+            "teller": "???",
+            "title": "???",
+            "content": "Não. Essa letra não se lê assim..."
+        },
+        {
+            "id": 8,
+            "model": "과거료슈3",
+            "teller": "???",
+            "title": "???",
+            "content": "Lê-se 'Yoshihide'."
+        },
+        {
+            "id": 9,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "\"Ryō-shū!\""
+        },
+        {
+            "id": 10,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "It's prettier and easier!"
+        },
+        {
+            "id": 11,
+            "content": "<i><color=#cf0000>Minha filha que se perdeu, se não sabes a direção de volta...</i></color>"
+        },
+        {
+            "id": 12,
+            "content": "<i><color=#cf0000>tateia e refaz o caminho até o primeiro nó, o que mais doeu.</i></color>"
+        },
+        {
+            "id": 13,
+            "content": "<i><color=#cf0000>No lugar onde aquele tremor cessa,</i></color>"
+        },
+        {
+            "id": 14,
+            "content": "<i><color=#cf0000>é onde eu estou.</i></color>"
+        },
+        {
+            "id": 15,
+            "model": "마튼",
+            "content": "Today's the day."
+        },
+        {
+            "id": 16,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "알리사",
+            "content": "Sim, é hoje. Chefe de equipe, por acaso..."
+        },
+        {
+            "id": 17,
+            "model": "호엔하임",
+            "content": "Um momento. Não me faça a pergunta se estou nervoso. Isso é coisa de gente comum, que não tem confiança nos próprios resultados de pesquisa."
+        },
+        {
+            "id": 18,
+            "model": "호엔하임",
+            "content": "Falando nisso, lembrei-me de um sujeito que, no último congresso, mesmo engolindo cheongsimhwan aos punhados, tremia as mãos cinco vezes a cada três segundos — sinceramente, foi um espetáculo deplorável."
+        },
+        {
+            "id": 19,
+            "model": "호엔하임",
+            "content": "Ah — se eu remoer a inquietação de 'será que eles vão conseguir entender mais da metade do que eu digo?', talvez, com a tensão apropriada, ao menos as pernas me tremam. Ainda assim, é um alívio e tanto vocês terem revisado tudo uma vez. Se vocês entenderam, o resto da plateia há de conseguir, pelo menos, acompanhar a exposição."
+        },
+        {
+            "id": 20,
+            "model": "마튼",
+            "content": "Ao menos não vão, como da última vez, dormir um sono profundo, mais da metade deles."
+        },
+        {
+            "id": 21,
+            "model": "호엔하임",
+            "content": "Falando nisso... vocês sabem por que o pedido de cooperação para a pesquisa adicional ainda não foi aprovado?"
+        },
+        {
+            "id": 22,
+            "model": "알리사",
+            "content": "...É que a equipe de Pesquisa e Desenvolvimento da LCA fica devolvendo o pedido. Dizem para nos concentrarmos na pesquisa que já fazemos..."
+        },
+        {
+            "id": 23,
+            "model": "호엔하임",
+            "content": "Que gente difícil. Vocês sabem quem é o responsável que devolveu o pedido?"
+        },
+        {
+            "id": 24,
+            "model": "알리사",
+            "content": "...É aquele subchefe de equipe que, no último congresso, tremia as mãos mesmo engolindo cheongsimhwan aos punhados. Parece que o ressentimento pelo riso de escárnio do senhor ainda não passou."
+        },
+        {
+            "id": 25,
+            "model": "호엔하임",
+            "content": "... Is that so?"
+        },
+        {
+            "id": 26,
+            "model": "호엔하임",
+            "content": "Provavelmente, depois desta apresentação, aquele sujeito vai aprovar sem ter mais o que dizer. Pois a pesquisa atual já avançou a um ponto em que não há mais o que desejar."
+        },
+        {
+            "id": 27,
+            "model": "알리사",
+            "content": "Of course, Boss. Of course..."
+        },
+        {
+            "id": 28,
+            "model": "호엔하임",
+            "content": "...Definitivamente não vai dar. Embora seja uma pesquisa adicional para satisfazer uma curiosidade pessoal, não há dúvida de que é uma pesquisa que trará lucro à empresa."
+        },
+        {
+            "id": 29,
+            "model": "호엔하임",
+            "content": "Marton, por acaso você pegou o plano de pesquisa adicional que elaborei ontem? Se eu lhes puser diante dos olhos os resultados previstos, a LCA não terá como deixar de aprovar."
+        },
+        {
+            "id": 30,
+            "model": "마튼",
+            "content": "Ah... achei que aquilo não seria necessário e o deixei no laboratório..."
+        },
+        {
+            "id": 31,
+            "model": "호엔하임",
+            "content": "Se essa pesquisa der resultado, dá para aumentar também a eficiência energética da sala de instalações. Até porque o experimento que estamos fazendo agora consome tanta energia que a energia disponível anda mesmo no limite."
+        },
+        {
+            "id": 32,
+            "model": "알리사",
+            "content": "Achando que era desperdício até a energia do aquecedor do laboratório, fizemos os experimentos todos juntos, tremendo de frio. Eu estava quentinha graças ao equipamento E.G.O, mas..."
+        },
+        {
+            "id": 33,
+            "model": "알리사",
+            "content": "Enfim, eu vou buscar o plano. O senhor e o Marton, concentrem-se nos preparativos da apresentação."
+        },
+        {
+            "id": 34
+        },
+        {
+            "id": 35,
+            "model": "LCE연구원1",
+            "content": "P-pedido de reforços, aqui é o departamento da LCE, próximo ao c-corredor YS-4. Solicitamos reforços com urgência. Agora é, quer dizer... código... código... ah...!"
+        },
+        {
+            "id": 36,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Sinto muito; eu não queria amputar de modo tão desnecessário. Como, lamentavelmente, ele parece ter perdido a consciência, transmitirei em seu lugar. 'Código' é palavra grandiosa demais para isto, e..."
+        },
+        {
+            "id": 37,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "'Aqui não restou nem um vislumbre de esperança'... era isso, provavelmente, que ele queria dizer."
+        },
+        {
+            "id": 38,
+            "content": "A few hours later..."
+        },
+        {
+            "id": 39,
+            "place": "Caminhão Móvel da LCCB",
+            "content": "...Embora tivesse passado um bom tempo desde a calorosa despedida que trocamos com Jia Sichun, nós ainda não havíamos conseguido deixar Hongyuan."
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "É hoje mesmo que a gente parte? Não foi engano de data?"
+        },
+        {
+            "id": 41,
+            "model": "싱클레어",
+            "content": "Não foi isso, mas... até o senhor Sword, que disse que traria o senhor Vergilius e o senhor Pilot, está atrasado..."
+        },
+        {
+            "id": 42,
+            "model": "오티스",
+            "content": "A estrada direta que leva para fora de Hongyuan está logo ali. A julgar pelo fato de aquele Sword ter rabiscado um bilhete mandando todos se reunirem neste lugar de caminhão, desta vez há de ser certo."
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Tomara que sim."
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "Quando saímos do Daguanyuan, os porteiros até perguntaram a que horas a gente voltava. Acharam que tínhamos virado moradores oficiais de Hongyuan."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Bem que faz sentido. A gente vive dizendo 'já vamos, já vamos' desde a última vez, e ainda comeu de dois banquetes e tanto, mas continua sem ir, só enrolando..."
+        },
+        {
+            "id": 46,
+            "model": "로쟈",
+            "content": "Pois é. Por essa altura o Verg sempre aparecia de modo enigmático e dizia 'é hora de ir para o próximo lugar, Dante...'!"
+        },
+        {
+            "id": 47,
+            "model": "로쟈",
+            "content": "E faz teee~mpo demais que a gente não ouve o Charon dizer 'o Mephi vai partir, vrum-vrum...'."
+        },
+        {
+            "id": 48,
+            "model": "홍루",
+            "content": "O senhor Vergilius alguma vez já tinha nos deixado por tanto tempo assim?"
+        },
+        {
+            "id": 49,
+            "model": "뫼르소",
+            "content": "Pode ser que a causa seja a designação de trabalho adicional decorrente da quebra de contrato; mas, mesmo levando isso em conta, o período de ausência está se prolongando."
+        },
+        {
+            "id": 50,
+            "model": "싱클레어",
+            "content": "Será que, por causa de ele ter nos ajudado, ainda..."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "Not necessarily."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "É verdade que ainda resta a punição decorrente da quebra de contrato de então; mas o trabalho com a LCC que se podia fazer na H Corp. foi todo concluído logo depois que o senhor Jia Sichun se tornou chefe do clã."
+        },
+        {
+            "id": 53,
+            "model": "이상",
+            "content": "Hum... Quanto a outro motivo, não me ocorre nada."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Sempre que mudávamos de região, ele se ausentava junto com o Charon... mas desta vez esse período parece estar especialmente longo.>"
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "Será que desta vez também ele se ausentou pelo mesmo motivo...?"
+        },
+        {
+            "id": 56,
+            "content": "Everyone turned to look at Faust."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Sobre o motivo pelo qual o senhor Vergilius se ausenta, ainda não há informação que eu possa compartilhar com vocês."
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<...Quando o Vergilius chegar, será que pergunto a ele diretamente?>"
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Aquele sujeito lá vai revelar o próprio destino? Ele só vive nos dizendo para onde a gente tem que ir..."
+        },
+        {
+            "id": 60,
+            "model": "돈키호테",
+            "content": "Isso mesmo! E vive saindo só ele e o Charon para comer sorvete!"
+        },
+        {
+            "id": 61,
+            "model": "돈키호테",
+            "content": "Arrá! Será que ele não anda percorrendo as regiões, devorando por completo todas as iguarias típicas de cada lugar antes de voltar...?"
+        },
+        {
+            "id": 62,
+            "model": "히스클리프",
+            "content": "Isto aqui não é um clube de turismo gastronômico; você acha que ia ser um motivo desses?"
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "...Independentemente de ele nos guiar pelo nosso caminho."
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "O senhor Vergilius simplesmente também há de ter o seu próprio caminho a seguir."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 66,
+            "content": "Não há nem ao menos uma suposição a fazer."
+        },
+        {
+            "id": 67,
+            "content": "Pois nós apenas seguimos o caminho que Vergilius nos aponta; do caminho que Vergilius quer trilhar, ou que já percorreu, nada sabemos."
+        },
+        {
+            "id": 68,
+            "content": "Será que um dia... chegará o dia em que ele revelará tudo também a nós?"
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "O guia vive se ausentando, então até passa... mas por que é que o Sword não chega?"
+        },
+        {
+            "id": 70,
+            "model": "히스클리프",
+            "content": "Se é pra alguém se atrasar, somos nós; ele é que vai chegar atrasado e nos largar plantados desse jeito?"
+        },
+        {
+            "id": 71,
+            "model": "로쟈",
+            "content": "Será que não houve alguma alteração no plano?"
+        },
+        {
+            "id": 72,
+            "model": "오티스",
+            "content": "...Em geral, o motivo de a comunicação se perder durante uma operação..."
+        },
+        {
+            "id": 73,
+            "model": "오티스",
+            "content": "...tem mais chance de ser um imprevisto, e não uma alteração."
+        },
+        {
+            "id": 74,
+            "content": "Como que a comprovar as palavras de Outis, a porta do caminhão se abre com violência."
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<Saude...!>"
+        },
+        {
+            "id": 76,
+            "model": "로쟈",
+            "content": "Arrá?! O que aconteceu com vo..."
+        },
+        {
+            "id": 77,
+            "content": "Sword, que entrou no caminhão, coberto de ferimentos grandes e pequenos, respirava com dificuldade, o olhar inquieto."
+        },
+        {
+            "id": 78,
+            "content": "A pistola quebrada à cintura e os vários ferimentos, grandes e pequenos."
+        },
+        {
+            "id": 79,
+            "content": "Dentre eles, o que mais saltava aos olhos era o braço esquerdo de Sword, que ficara completamente vazio."
+        }
+    ]
+}

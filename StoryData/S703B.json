@@ -1,0 +1,326 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da P Corp., diante da tenda",
+            "content": "O local escrito no papel que Cesara nos deu era uma espécie de terreno baldio nos becos."
+        },
+        {
+            "id": 1,
+            "model": "히스클리프",
+            "content": "...O que é isto, este lugar?"
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Os becos costumam ter os prédios apinhados pra caramba; por que só aqui está vazio?"
+        },
+        {
+            "id": 3,
+            "model": "로쟈",
+            "content": "Pois é, deixar um terreno deste tamanho ocioso nos becos não deve ser comum..."
+        },
+        {
+            "id": 4,
+            "model": "싱클레어",
+            "content": "Não sei o motivo, mas há faixas penduradas aqui e ali nos prédios também."
+        },
+        {
+            "id": 5,
+            "model": "베르길리우스",
+            "content": "Vocês fiquem observando o local. Eu vou, por um instante, com a senhora Faust, encontrar o responsável."
+        },
+        {
+            "id": 6,
+            "model": "베르길리우스",
+            "content": "Don't start any troub..."
+        },
+        {
+            "id": 7,
+            "model": "베르길리우스",
+            "content": "... Don't start too much trouble until we return."
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Thou mayest place thy faith in us!"
+        },
+        {
+            "id": 9,
+            "content": "...Pelo visto ele já não nutre a expectativa de que não vão arrumar confusão alguma."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Pois bem, então... vamos tentar entrar...?"
+        },
+        {
+            "id": 11,
+            "content": "No terreno baldio havia avisos para não se aproximar e fitas coladas por toda parte, e..."
+        },
+        {
+            "id": 12,
+            "content": "...quando estendemos a mão para passar por cima daquelas fitas..."
+        },
+        {
+            "id": 13,
+            "model": "휴고",
+            "teller": "???",
+            "title": "???",
+            "content": "Dude, hey! Dude!!!"
+        },
+        {
+            "id": 14,
+            "content": "...logo se ouviu uma voz que nos repreendia."
+        },
+        {
+            "id": 15,
+            "model": "싱클레어",
+            "content": "Yeah? ... I mean, what?"
+        },
+        {
+            "id": 16,
+            "model": "휴고",
+            "teller": "Solucionador Espalhafatoso",
+            "title": "???",
+            "content": "Olha, eu falo porque vocês parecem não saber direito. Não pode entrar aqui de qualquer jeito, não pode!"
+        },
+        {
+            "id": 17,
+            "model": "휴고",
+            "teller": "Solucionador Espalhafatoso",
+            "title": "???",
+            "content": "Tanto eu quanto o pessoal reunido aqui somos Solucionadores, So-lu-ci-o-na-do-res. Aqui é uma área de operação onde gente comum não pode ficar à toa! Francamente, que jeito é esse da P Corp administrar as coisas."
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Espera aí, o que é isso? Por que ele fica olhando só pra mim..."
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "content": "Oh, vós vos preocupais conosco? Está tudo bem, tudo bem!"
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "Embora ainda não sejamos Solucionadores, ao menos no coração de lutar sem hesitar diante da morte pela justiça somos todos iguais!"
+        },
+        {
+            "id": 21,
+            "content": "Don Quixote, a passos largos, passa por cima da corda e entra no terreno baldio."
+        },
+        {
+            "id": 22,
+            "model": "휴고",
+            "teller": "Solucionador Espalhafatoso",
+            "title": "???",
+            "content": "E-ei...? Você está entrando sabendo o que é este lugar...?"
+        },
+        {
+            "id": 23,
+            "model": "돈키호테",
+            "content": "Tal como vós, nós também recebemos um encargo! O encargo de subjugar a La Manchaland!"
+        },
+        {
+            "id": 24,
+            "model": "해결사들",
+            "teller": "Solucionadores Reunidos",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 25,
+            "content": "Ao brado retumbante de Don Quixote, até os Solucionadores que estavam longe olharam, todos ao mesmo tempo, para a entrada do terreno baldio."
+        },
+        {
+            "id": 26,
+            "content": "Como aqueles olhares eram intensos e, ao mesmo tempo, descaradíssimos, os Pecadores entraram no terreno baldio um a um, com um olhar de cautela."
+        },
+        {
+            "id": 27,
+            "content": "Naquele momento, um Solucionador que portava uma arma enorme se aproximou de nós a passos largos."
+        },
+        {
+            "id": 28,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "title": "???",
+            "content": "Vocês também... são gente que veio caçar?"
+        },
+        {
+            "id": 29,
+            "model": "휴고",
+            "teller": "Solucionador Espalhafatoso",
+            "title": "???",
+            "content": "E-eh... ah, caramba! Agora que reparo, esqueci de fazer a checagem da arma; não é hora para isto, melhor ir logo terminar de cuidar dela!"
+        },
+        {
+            "id": 30,
+            "content": "O sujeito que se gabava, gritando com afetação, fugiu depressa assim que o outro Solucionador se intrometeu, e..."
+        },
+        {
+            "id": 31,
+            "content": "...os outros Solucionadores, como quem sabia o que estava por vir, balançaram a cabeça e desviaram o rosto de nós."
+        },
+        {
+            "id": 32,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "title": "???",
+            "content": "Dá pra ver de cara que vocês não vêm de uma associação; parece que vieram de algum escritório medíocre e desconhecido..."
+        },
+        {
+            "id": 33,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "title": "???",
+            "content": "Afinal, quantos mais vão se arrastar pra cá? Vendo a quantidade de zé-ninguém aumentar, fico preocupado se o valor da subjugação que vocês esperam não vai encolhendo a ponto de, no fim, vocês só conseguirem segurar o troco na mão."
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "...A gente mal chegou e já são dois caras procurando briga?"
+        },
+        {
+            "id": 35,
+            "model": "돈키호테",
+            "content": "Na roupa está escrito 'Escritório Caçada de Presas', mas, falar em caçar presas..."
+        },
+        {
+            "id": 36,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "content": "Vocês, alguma vez viram um de verdade?"
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "content": "Prithee, seen what?"
+        },
+        {
+            "id": 38,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "content": "Bloodfiends."
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "Sanguinário? Quer dizer que este lugar tem relação com Sanguinários?"
+        },
+        {
+            "id": 40,
+            "model": "뫼르소",
+            "content": "Que houvesse Sanguinários ligados a esta missão era um fato que não nos havia sido transmitido."
+        },
+        {
+            "id": 41,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "content": "Veja só. Esses caras também entraram sem saber direito de nada."
+        },
+        {
+            "id": 42,
+            "model": "혈귀사냥꾼",
+            "teller": "Solucionador Fora do Comum",
+            "content": "Eu fico furioso quando vejo gente como vocês, que se atira de cabeça só de olho no dinheiro, sem saber de nada. Além de atrapalharem a caça aos Sanguinários, ainda esfriam toda a empolgação que estava em alta dentro de mim."
+        },
+        {
+            "id": 43,
+            "model": "로쟈",
+            "content": "Ué, por quê? Vir só de olho no dinheiro é errado?"
+        },
+        {
+            "id": 44,
+            "model": "싱클레어",
+            "content": "Senhora Rodya, provavelmente o alvo destes sujeitos não é a recompensa da subjugação, e sim..."
+        },
+        {
+            "id": 45,
+            "model": "오티스",
+            "content": "Sim, são gente que atribui um significado especial ao próprio caso. Um tipo mais incômodo do que os que se movem simplesmente por dinheiro."
+        },
+        {
+            "id": 46,
+            "model": "혈귀사냥꾼",
+            "content": "Eu não tenho a menor vontade de cumprir uma missão junto de gente que nem sabe o que é enfrentar um Sanguinário."
+        },
+        {
+            "id": 47,
+            "model": "료슈",
+            "content": "C.A.P.B."
+        },
+        {
+            "id": 48,
+            "model": "혈귀사냥꾼",
+            "content": "...Mesmo querendo ignorar, a curiosidade me faz perguntar de novo. O que foi que você disse?"
+        },
+        {
+            "id": 49,
+            "model": "싱클레어",
+            "content": "Cala A Porra da Boca, arrogante filho da p-!"
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "content": "... Era \"Cala a Palhaçada, babaca\"."
+        },
+        {
+            "id": 51,
+            "model": "싱클레어",
+            "content": "Oh...!"
+        },
+        {
+            "id": 52,
+            "model": "홍루",
+            "content": "Pelo visto, desta vez entrou um pouco mais do que vai por dentro, hein~"
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "Mas o seu não foi tão ruim. Heh."
+        },
+        {
+            "id": 54,
+            "model": "싱클레어",
+            "content": "A-ah, enfim, a gente também já enfrentou Sanguinários — não muitos, mas o nosso tanto... e não tem aqui uma só pessoa que mereça ser desprezada por vocês!"
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 56,
+            "model": "싱클레어",
+            "content": "Ao menos no que diz respeito a combate..."
+        },
+        {
+            "id": 57,
+            "model": "로쟈",
+            "content": "Estava tudo indo bem; precisava mesmo dar aquela engasgada...?"
+        },
+        {
+            "id": 58,
+            "model": "혈귀사냥꾼",
+            "content": "Então vocês têm experiência de lutar contra Sanguinários. Vamos ver a habilidade, então. Se são uns joões-ninguém, ou 'caçadores de verdade'."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Mas que... ha... a gente tem que gastar energia aqui antes mesmo de entrar pra subjugação? A gente veio com tudo autorizado, eu já disse!"
+        },
+        {
+            "id": 60,
+            "model": "혈귀사냥꾼",
+            "content": "Não se preocupem demais. Eu só vou fazer uns braços e pernas se quebrarem na medida certa. O bastante pra dar vontade de voltar pra casa."
+        },
+        {
+            "id": 61,
+            "model": "혈귀사냥꾼",
+            "content": "Agradeçam a nós enquanto pegam o trem de volta pra casa. Pois isto há de ser melhor do que ter o sangue sugado de modo miserável por um Sanguinário..."
+        }
+    ]
+}

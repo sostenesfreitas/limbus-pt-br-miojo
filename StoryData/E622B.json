@@ -1,0 +1,315 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "model": "단테",
+            "content": "<Espera, um Sanguemônio?>"
+        },
+        {
+            "id": 1,
+            "content": "O quê... É isso?"
+        },
+        {
+            "id": 2,
+            "model": "돈키호테",
+            "content": "Mas o quê... O quê exatamente é um Sanguemônio?"
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Ué... De todas as pessoas aqui não esperava que você não soubesse. Sempre achei que você sabia de todas essas coisas mais obscuras."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Jamais ouvi ou vi tal coisa! Teria eu, porventura, olvidado algum relato?!"
+        },
+        {
+            "id": 5,
+            "content": "Don Quixote franze sua testa, como se não houvesse ideia, parece tentar lembrar de algo."
+        },
+        {
+            "id": 6,
+            "model": "싱클레어",
+            "content": "Eu também nunca achei que eles existissem... Achei que fosse alguma coisa criada para histórias assustadoras... Dizem que eles tem medo da luz do Sol e de alho, não é...?"
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "Oh~ Isso é um pouco diferente do que eu ouvia. Pelo que diziam, os rumores do medo deles de Sol e alho são falsos. Dizem que o verdadeiro medo deles é de água."
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "...Eu também já recebi relatos sobre Sanguemônios. Isto foi na época que era Comandante."
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "Eu também já vi os tais... \"Resíduos\" daquilo que eles fazem."
+        },
+        {
+            "id": 11,
+            "model": "오티스",
+            "content": "... Minha memória é vaga, mas... Não era de forma alguma algo parecido com isso."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Nos Dedos havia alguém chamado de \"Sanguemônio\" também. Mas as criaturas controladas por ele não eram tão frágeis quanto estes."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "Mas tem algo me incomodando. Aquele sujeito não deixava resíduos de forma tão desordenada."
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "content": "Você já não sabe disso também?"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "...Sim. Vejo que dentre os Pecadores, alguns já se encontraram com Sanguemônios, portanto não alongarei mais a explicação."
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "Conforme dito por vocês, as entidades enfrentadas por nós não aparentam ser verdadeiros \"Sanguemônios\". "
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Estes são seres residuais dos Sanguemônios que falharam em se tornarem Parentes... Segundo às informações que possuo, estes são chamados de \"Bolsas de Sangue\"."
+        },
+        {
+            "id": 18,
+            "model": "료슈",
+            "content": "Humph, não é um nome ruim."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Por que dar um nome assim...?>"
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "Conforme já dito, por meios convencionais, um passageiro não pode desaparecer dentro de um trem WARP."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Mesmo que não possamos saber tudo sobre os trens WARP ou a W Corp... Apesar do grande volume de informações que temos, não conseguimos achar nenhuma excessão à regra."
+        },
+        {
+            "id": 22,
+            "model": "파우스트",
+            "content": "Foi então que concluí que, ao inserir nesta lógica esta variável desconhecida, uma hipótese passava a fazer sentido."
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "Pera, você tá dizendo que estes \"Sanguemônios\" podem fazer com que os passageiros deixem de existir?"
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Diria que seria mais correto dizer que eles \"evaporam\"."
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "content": "Evaporação... "
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Mesmo que os passageiros pratiquem quaisquer tipos de violência, o trem WARP vai restaurar eles a seu estado original."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Embora esta \"violência\" possa tomar muitas formas... Certamente, entre elas, o canibalismo está presente."
+        },
+        {
+            "id": 28,
+            "model": "싱클레어",
+            "content": "Eca... "
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Contudo, considerando que o tempo dos passageiros é suspenso durante a operação do trem WARP, o processo de digestão não ocorre, assim, podemos assumir que eles ainda estariam em um estado passível de restauração."
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "Hum. Se fosse algo simplesmente passando pelo trato digestivo, daria para abrir a barriga e restaurar os fragmentos por meio de algo semelhante a vasos sanguíneos."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "content": "Mas as \"Bolsas de Sangue\" são diferentes. Eles vagam cegamente à procura de sangue, eles conseguem manter sua existência se absorverem o sangue de suas vítimas."
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "Também é dito que para se manterem, eles também usam um pouco deste sangue."
+        },
+        {
+            "id": 33,
+            "model": "그레고르",
+            "content": "Ué? Mas você não acabou de dizer que a digestão não ocorre neste espaço?"
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Pelo que consegui deduzir... Para os Sanguemônios e Bolsas de Sangue, o processo de consumir sangue não é como o de obter energia por meio da alimentação. "
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Para eles, o sangue é uma parte essencial de sua existência, algo que engloba as emoções, realizações, sentido de existência... Por isso, se quiserem consumir sangue, é algo totalmente à parte de digestão."
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Então, seguinte. Não entendi nem metade do quê você disse, sabe?"
+        },
+        {
+            "id": 37,
+            "model": "이상",
+            "content": "... Mesmo estando em estado de suspensão temporal, Heathcliff, você ainda consegue sentir raiva, tristeza e até mesmo alegria, correto?"
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "Hã? Acho que sim... mas... "
+        },
+        {
+            "id": 39,
+            "model": "이상",
+            "content": "Não se sabe ao certo se isto trata-se de uma extinção ou transformação, mas pode-se considerar que as emoções passadas dissiparam-se."
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "content": "A vontade de viver dos passageiros não se esvai gradualmente, mesmo com o tempo suspenso? Foi isso que a senhorita Faust quis dizer: Para os Sanguemônios, o sangue é exatamente isso."
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "Entendi... Então é por causa disso que eles \"evaporam\", hein?"
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Os fragmentos dos passageiros... Como o sangue ligado à carne, desaparecem, então seria impossível reunir os pedaços para restaurar."
+        },
+        {
+            "id": 43,
+            "model": "뫼르소",
+            "content": "Não há incongruências nesta lógica."
+        },
+        {
+            "id": 44,
+            "content": "... Por um momento todos ficam em silêncio."
+        },
+        {
+            "id": 45,
+            "content": "A onda de informações que recebemos foi muita pra processar de uma vez só. Ainda não sei como juntar elas pra chegar em uma conclusão. "
+        },
+        {
+            "id": 46,
+            "model": "이상",
+            "content": "Gostaria de fazer algumas perguntas."
+        },
+        {
+            "id": 47,
+            "content": "O primeiro a quebrar o silêncio foi Yi Sang. "
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "content": "Essas entidades, as \"Bolsas de Sangue\" são criadas diretamente pelos Sanguemônios? Se isso for o caso, por qual método eles—"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "... Esta informação está restrita até este ponto."
+        },
+        {
+            "id": 50,
+            "content": "Faust responde, levemente desviando seu olhar de Yi Sang. "
+        },
+        {
+            "id": 51,
+            "content": "... Não tem nada que eu possa fazer. Explicar a situação de Faust para os Pecadores apenas aumentaria o estresse deles."
+        },
+        {
+            "id": 52,
+            "model": "이상",
+            "content": "Inacessível... Ah, verdade. Recordo-me daquilo dito anteriormente por você..."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Isto é apenas uma hipótese, mas... Assumo que uma forma de contato direto deve ser feito para transformar alguém em uma Bolsa de Sangue. Do contrário, não faria sentido que nós, os mais problemáticos para eles, permanecêssemos intactos."
+        },
+        {
+            "id": 54,
+            "model": "이상",
+            "content": "Hum, de fato. "
+        },
+        {
+            "id": 55,
+            "model": "돈키호테",
+            "content": "Se assim é! Este vil Sanguemônio oculta-se em algum lugar deste trem!"
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Provavelmente. Se nós confiarmos no que aquela Mandatária nos disse anteriormente, estas Bolsas de Sangue vêm se concentrado desde a traseira do trem..."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Ou seja, se avançarmos, certamente nos encontraremos com este Sanguemônio."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "content": "Ótimo! Tal é a ocasião de expiar o rancor dos inocentes passageiros em meu lugar, e por certo, não hei de desperdiçá-la!"
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "... Dante. "
+        },
+        {
+            "id": 60,
+            "content": "No meio de Don Quixote que estava confiante, e os outros Pecadores que estavam aliviados por pelo menos ter um objetivo mais claro agora. Faust acena levemente com sua cabeça."
+        },
+        {
+            "id": 61,
+            "model": "단테",
+            "content": "<... Então, vamos indo.>"
+        },
+        {
+            "id": 62,
+            "content": "Com base no que temos de informações até este momento, esta é a melhor forma de prosseguir no momento. "
+        },
+        {
+            "id": 63,
+            "content": "Por enquanto... Vamos seguir em frente."
+        }
+    ]
+}

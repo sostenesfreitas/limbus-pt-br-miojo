@@ -1,0 +1,245 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "model": "돈키호테",
+            "content": "Detende-vos, por um momento! V-vossa Gerência! Olhai bem eis aqui um sobrevivente!"
+        },
+        {
+            "id": 1,
+            "content": "Don Quixote, com seus olhos arregalados, começa a correr em direção a algum lugar."
+        },
+        {
+            "id": 2,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "O-o quê, não venham... Não venham aqui! Seus monstros..."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "E-ei, cara, nós não somos esses monstros. Você tá bem?"
+        },
+        {
+            "id": 4,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "... Hã?!"
+        },
+        {
+            "id": 5,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Você também começou a se transformar...? Mesmo com esse braço de inseto... Guh..."
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "Hein? Não, isso aqui é..."
+        },
+        {
+            "id": 7,
+            "content": "Gregor tentou responder algo, mas, como se não acreditasse naquilo que acabou de ouvir, dá uma leve risada e abaixa sua cabeça."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "Bem, né... Até dá pra entender a confusão, não dá pra saber de cara se isso é uma prótese ou uma parte de um monstro."
+        },
+        {
+            "id": 9,
+            "model": "뫼르소",
+            "content": "Mesmo entre os mesmo tipos de próteses biológicas, modelos mais antiquados como este são raramente vistos hoje em dia na Cidade, portanto compreendemos sua confusão."
+        },
+        {
+            "id": 10,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Ah... Uma prótese..."
+        },
+        {
+            "id": 11,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Ainda bem, fiquei com medo destes monstros invadirem aqui de novo... Como você vê... Minha perna tá muito ruim... Não tive outra escolha a não ser me esconder aqui."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Mas afinal, por quê funcionários da W Corp. estão embarcados neste trem?"
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Verdade... Se for como as Identidades nos revelam, assim que entendem como funciona este trem, não teria motivo para entrar em um por vontade própria...>"
+        },
+        {
+            "id": 14,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Vocês são os Mandatários que vieram pelo contrato...? Nós recebemos ordens para ajudar vocês a resolverem esse problema."
+        },
+        {
+            "id": 15,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "... Não faz nem mais sentido dizer \"nós\"... Eu sou o único sobrevivente. Todos os meus colegas perderam a razão dentro daquele outro vagão, um a um... E no fim... "
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Inacreditável... Senhorita Faust! Não existirá quaisquer outras vias para restaurar as Bolsas de Sangue a seus estados originais?"
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Peço desculpas. Esta informação ainda não pode ser consultada."
+        },
+        {
+            "id": 18,
+            "content": "Apesar de sua expressão e voz estarem calmos, percebia-se um tom sutil de tristeza enquanto ela falava."
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "... Pode ser que em muitos momentos eu estava dependendo muito de Faust. "
+        },
+        {
+            "id": 20,
+            "content": "Faust murmura em um volume quase inaudível. "
+        },
+        {
+            "id": 21,
+            "content": "... Eu também não consigo pensar em uma forma de como posso ajudar os Pecadores em uma situação como essa."
+        },
+        {
+            "id": 22,
+            "content": "Por já estar acostumado, eu também já tinha me acostumado a depender muito de Faust. E por conta disso não consigo ter autonomia em momentos como estes..."
+        },
+        {
+            "id": 23,
+            "content": "... Não, talvez eu sempre tivesse sido muito dependente dos Pecadores, em geral. "
+        },
+        {
+            "id": 24,
+            "content": "Se cada um dos Pecadores perdessem suas capacidades, será que coseguiria gerenciar eles? Seria eu capaz de os guiar às decisões corretas?"
+        },
+        {
+            "id": 25,
+            "content": "Por um momento, esta dúvida surge, mistuarada ao medo. "
+        },
+        {
+            "id": 26,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Ah... Tudo bem. Tsc."
+        },
+        {
+            "id": 27,
+            "content": "O funcionário, com muita dificuldade se arrasta, e puxa uma pequena alavanca..."
+        },
+        {
+            "id": 28,
+            "model": "료슈",
+            "content": "Então eles escondem algo assim neste lugar."
+        },
+        {
+            "id": 29,
+            "content": "A parede que parecia apenas um assento convencional da tripulação se abre."
+        },
+        {
+            "id": 30,
+            "model": "돈키호테",
+            "content": "Que artefato é este?! Será possível que aqui se oculte uma arma secreta capaz de aniquilar o Sanguemônio que ali diante se encontra...!"
+        },
+        {
+            "id": 31,
+            "model": "오티스",
+            "content": "Parece semelhante às capsulas que vimos na primeira classe, mas o quê está fazendo aqui...?"
+        },
+        {
+            "id": 32,
+            "content": "O Agente de Limpeza se atira na cápsula que apareceu da parede."
+        },
+        {
+            "id": 33,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Ufa... Agora consigo respirar melhor."
+        },
+        {
+            "id": 34,
+            "model": "돈키호테",
+            "content": "Hum? Que propósito tendes em mente para tal ação?"
+        },
+        {
+            "id": 35,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Para casos de emergência, a W Corp. instalou cápsulas de hibernação nos vagões para os funcionários usarem. "
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "content": "Ah, assim o é! Pois bem... Hein?"
+        },
+        {
+            "id": 37,
+            "model": "W사정리요원",
+            "teller": "Agente de Limpeza",
+            "title": "W Corp.",
+            "content": "Bem... Eu deixo o resto com vocês, boa sorte... "
+        },
+        {
+            "id": 38,
+            "content": "Com estas palavras, o agente entra na cápsula e fecha a escotilha."
+        },
+        {
+            "id": 39,
+            "content": "Pouco tempo depois, a parede que estava a cápsula se fecha por completo... O espaço volta a ser como era, uma simples cadeira e a parede coberta de sangue."
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<Se foi...>"
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "Lá ele se foi... "
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "content": "Ele saiu de cena. "
+        },
+        {
+            "id": 43,
+            "content": "Nós observamos, com um sentimento de vazio, o lugar no qual o agente da W Corp. tinha saído."
+        },
+        {
+            "id": 44,
+            "content": "Bem, nesses momentos, como sempre... "
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<... Vamos seguir para o próximo vagão.>"
+        },
+        {
+            "id": 46,
+            "content": "Avançar provavelmente é o caminho certo."
+        }
+    ]
+}

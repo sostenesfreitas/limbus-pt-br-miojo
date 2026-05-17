@@ -1,0 +1,366 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Comando Central da Sede da L Corp.",
+            "model": "마법소녀",
+            "teller": "Garota Mágica",
+            "title": "???",
+            "content": "Puff... Puff..."
+        },
+        {
+            "id": 1,
+            "model": "마법소녀",
+            "teller": "Garota Mágica",
+            "title": "???",
+            "content": "Eu me sinto mal, mas... ela não deve ser uma ameaça a vocês."
+        },
+        {
+            "id": 2,
+            "model": "돈키호테",
+            "content": "Hã..."
+        },
+        {
+            "id": 3,
+            "model": "마법소녀",
+            "teller": "Garota Mágica",
+            "title": "???",
+            "content": "Hmm?"
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Vós sois... verdadeiramente, uma... genuína Donzela... Encantada?"
+        },
+        {
+            "id": 5,
+            "model": "마법소녀",
+            "teller": "Garota Mágica",
+            "title": "???",
+            "content": "Heh, claro que sou~ Sou uma Garota Mágica, lutando para derrotar esses Arcanos malvados!"
+        },
+        {
+            "id": 6,
+            "model": "돈키호테",
+            "content": "<i>UOOOOOHHHHH!!!</i> "
+        },
+        {
+            "id": 7,
+            "model": "돈키호테",
+            "content": "E-então tal \"magia\" dos códices lendários existem, de verdade? E-e vossa fan-tasia deveras elegante deve ser, de facto, para juntar tais poderes mágicos—"
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "Don Quixote. Acalme-se."
+        },
+        {
+            "id": 9,
+            "model": "마법소녀",
+            "teller": "Garota Mágica",
+            "title": "???",
+            "content": "Hein? Onde vocês tão iiiindo~?"
+        },
+        {
+            "id": 10,
+            "content": "Faust de algum jeito conseguiu precisamente agarrar os braços velozmente balançantes de Don Quixote e a arrastou para longe da 'Garota Mágica' e de volta para nosso grupo."
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "P-por qual razão vós me arrastais desta consulta de grande importância? Tenho montes de perguntas para fazer a ela—"
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "Aquela coisa não é uma 'Garota Mágica'."
+        },
+        {
+            "id": 13,
+            "model": "돈키호테",
+            "content": "Por que falas com voz tão conspiratoriamente quieta, e esta— hoh?"
+        },
+        {
+            "id": 14,
+            "model": "파우스트",
+            "content": "O-01-04, Nível de Risco WAW. É uma autêntica Anormalidade... intitulada de 'A Rainha do Ódio' para fins de registro."
+        },
+        {
+            "id": 15,
+            "model": "돈키호테",
+            "content": "Mesmo...?! Aquela donzela logo ali é uma Anormalidade?! Mesmo com sua fala e... sua aparência idêntica a uma humana?"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "E para rotular alguém cuja própria aparência exala justiça, Rainha do <i>Ódio</i>...?"
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Creio que já foi enfatizado a você várias vezes no passado que Anormalidades não devem ser julgadas por seus exteriores."
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "content": "... De fato, elas possuem o senso de si; elas pensam, e elas sentem."
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "Talvez, pelos padrões da Cabeça, elas podem cumprir os critérios do que se considera um humano."
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "Porém, aquilo é... uma Anormalidade, nada mais, nada menos."
+        },
+        {
+            "id": 21,
+            "content": "Lentamente nos viramos para olhar para a... coisa de cabelos azuis, compelidos pelo tom rígido de Faust."
+        },
+        {
+            "id": 22,
+            "model": "마법소녀",
+            "teller": "A Rainha do Ódio",
+            "title": "O-01-04",
+            "content": "Hm~ Hm hm~"
+        },
+        {
+            "id": 23,
+            "content": "Mas ela só estava lá, cantarolando uma leve melodia, balançando aquele cajado..."
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<... Ah, as luzes.>"
+        },
+        {
+            "id": 25,
+            "model": "마법소녀",
+            "teller": "A Rainha do Ódio",
+            "title": "O-01-04",
+            "content": "Maravilha~ Parece que conseguimos proteger a paz novamente!"
+        },
+        {
+            "id": 26,
+            "content": "E quando as luzes vermelhas desligaram e o alarme parou de gritar em nossos ouvidos..."
+        },
+        {
+            "id": 27,
+            "content": "... ela sumiu com o mesmo raio de luz rosa que fez ela aparecer."
+        },
+        {
+            "id": 28,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Ufa... mas que chato. Por que essa Anormalidade teve que ser contida no nosso departamento?"
+        },
+        {
+            "id": 29,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Não tem o que fazer, Tiphereth. Nem mesmo o gerente sabe quais Anormalidade vão aparecer na Sede."
+        },
+        {
+            "id": 30,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "... É, isso é verdade."
+        },
+        {
+            "id": 31,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Mas ela me irrita, sabe? Ela sempre aparece no fim de uma bagunça, como o Segundo Alarme, mal faz nada pra ajudar, e sai da cena como se ela tivesse feito alguma coisa..."
+        },
+        {
+            "id": 32,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "... E você sabe como ela enlouquece completamente se a gente não mima ela o tempo todo, né?"
+        },
+        {
+            "id": 33,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "Tiphereth? O microfone ainda está ligado."
+        },
+        {
+            "id": 34,
+            "model": "티페리트",
+            "title": "Sefirá do Comando Central",
+            "content": "E daí? Deixa eles ouvirem! Os funcionários deviam saber que essa—"
+        },
+        {
+            "id": 35,
+            "content": "<i>Bzzt.</i> "
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<... Acho que uma Anormalidade ainda é uma Anormalidade no fim das contas.>"
+        },
+        {
+            "id": 37,
+            "model": "이상",
+            "content": "A sua gerência parece ser a fonte de muito estresse..."
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "content": "Mas há algo estranho aqui! A donzela nos ajudou graciosamente em batalha, não foi? Sugerir que ela não é de ajuda alguma é ridículo!"
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Por favor, revise esse documento. Ele é uma consolidação de relatos de gerenciamento daquela Anormalidade da última L Corp. Felizmente, parece que um período extenso de experiência de gerenciamento deixou para trás um relato bem detalhado."
+        },
+        {
+            "id": 40,
+            "model": "돈키호테",
+            "content": "Hup..."
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "Ah, nossa..."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Ela não tava brincando sobre ter que mimar essa aí, né..."
+        },
+        {
+            "id": 43,
+            "content": "As expressões dos Pecadores todas começam a se amargurar à medida que eles leem o relato."
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Dei uma lida por cima e... parece que ela tem essa obsessão compulsiva de que ela sempre precisa estar do lado da justiça.>"
+        },
+        {
+            "id": 45,
+            "model": "로쟈",
+            "content": "Ela fica mais e mais 'histérica' quanto mais longo for um período pacífico...? Qual o problema dela...?"
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "content": "Tem alguma coisa a dizer pra isso, Ó grande erudita dos Mandatários?"
+        },
+        {
+            "id": 47,
+            "model": "돈키호테",
+            "content": "... Ahem. De facto, é deveras... diferente do que antecipava."
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Como demos sorte, não encontramos a forma transformada da Rainha do Ódio hoje."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "No entanto, como ela também possui algo conhecido como estabilidade psicológica, ou... 'Sanidade'..."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "... parece que funcionários designados a esta Anormalidade tiveram a responsabilidade de mantê-la em níveis altos em todos os tempos."
+        },
+        {
+            "id": 51,
+            "model": "오티스",
+            "content": "Não deve ter sido... fácil agradar um monstro em pele humana."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "... Pelo menos 'agradá-la' é o limite do esforço requerido."
+        },
+        {
+            "id": 53,
+            "model": "오티스",
+            "content": "Hm?"
+        },
+        {
+            "id": 54,
+            "model": "뫼르소",
+            "content": "Você está insinuando que o gerenciamento de Anormalidades envolve algo bem mais complicado que simplesmente calibrar sua sanidade a um nível razoável."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Sim, isso é correto."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Parece que essa Sede ainda não extraiu uma maior quantia de Anormalidades."
+        },
+        {
+            "id": 57,
+            "model": "이상",
+            "content": "Um momento, se me permite. Dizer que eles extraem..."
+        },
+        {
+            "id": 58,
+            "content": "Yi Sang franziu as sobrancelhas e começou, percebendo uma estranheza em sua escolha de palavras, mas..."
+        },
+        {
+            "id": 59,
+            "place": "Veículo de Pesquisa do LCE",
+            "content": "Quando percebemos, já estávamos de volta à bagunça de maquinários que era o veículo do LCE."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "... Ah, parece que é aqui onde este 'roteiro' termina."
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Dante. Como se tem a possibilidade de conseguirmos extrair uma maior quantia de informação desta experiência, visitas repetidas a esta Noite de Walpurgis também são recomendadas."
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<... Okay, entendi.>"
+        },
+        {
+            "id": 63,
+            "content": "Yi Sang chegou perto de Faust para continuar sua pergunta anterior, mas Faust apenas chacoalhou sua cabeça como resposta, como se estivesse dizendo..."
+        },
+        {
+            "id": 64,
+            "content": "... que ela não tinha certeza, ou... que ela não podia respondê-lo ainda."
+        },
+        {
+            "id": 65,
+            "content": "Para mim, alguém que nem sabe o que está acontecendo com a empresa em que trabalho, todas essas histórias da antiga L Corp. e da Biblioteca não têm nada exceto mistérios confusos."
+        },
+        {
+            "id": 66,
+            "content": "Mas... algo sobre elas me dá a impressão de que tudo que aconteceu em ambos esses lugares são, ao mesmo tempo, a base e as pistas sobre o que estamos lidando agora."
+        },
+        {
+            "id": 67,
+            "content": "Talvez... talvez eu consiga utilizar esses momentos para entender as histórias que eu esqueci, o propósito desta empresa em que trabalho."
+        },
+        {
+            "id": 68,
+            "content": "Então..."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<Bem, vamos entrar mais uma vez?>"
+        },
+        {
+            "id": 70,
+            "content": "Como a Faust, vamos nos concentrar em procurar pelas pistas deixadas para trás."
+        }
+    ]
+}

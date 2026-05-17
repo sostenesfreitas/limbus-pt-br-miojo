@@ -1,0 +1,546 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da P Corp., diante da tenda",
+            "model": "폴라",
+            "teller": "???",
+            "title": "???",
+            "content": "Que coisa deplorável. Vir até aqui e fazer um vexame desses."
+        },
+        {
+            "id": 1,
+            "model": "까미유카메라",
+            "content": "Uau! Pessoal, estão vendo? Esta aqui é a Pola, da Associação Zwei, que assumiu o meu apoio nesta missão."
+        },
+        {
+            "id": 2,
+            "model": "폴라",
+            "content": "Não 'apoio', e sim..."
+        },
+        {
+            "id": 3,
+            "model": "까미유카메라",
+            "content": "Dá pra ver pela vestimenta, mas são Solucionadores que vieram do Oeste, igual a mim."
+        },
+        {
+            "id": 4,
+            "model": "까미유카메라",
+            "content": "De vez em quando a associação me coloca um apoio assim, sem me consultar, e eu resolvo o encargo numa operação cooperativa. Hã? É, isso, isso — eu sou do tipo que brilha mais quando está sozinho~ mas, se mandam lá de cima, o que se há de fazer~"
+        },
+        {
+            "id": 5,
+            "model": "까미유카메라",
+            "content": "Mas, enfim~ vamos lá, senhora Pola? Quer dar uma palavrinha de saudação para os nossos fãs?"
+        },
+        {
+            "id": 6,
+            "model": "폴라",
+            "content": "……."
+        },
+        {
+            "id": 7,
+            "model": "돈키호테",
+            "content": "Pensar que eu chegaria a ver a Associação Shank e a Associação Zwei cooperando num só lugar...!!!"
+        },
+        {
+            "id": 8,
+            "content": "I think she's tearing up..."
+        },
+        {
+            "id": 9,
+            "model": "돈키호테",
+            "content": "Como nada... mais... poderia me deixar — esta emoção que transborda. O peito... está em tumulto."
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Pessoas que eu via todo dia só em vídeo... que eu via só em revistas... que eu via só em action figures... estar vendo elas caminharem e conversarem em pessoa, diante dos meus olhos...!"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Don Quixote, então você conhece a maioria dos Solucionadores reunidos aqui?>"
+        },
+        {
+            "id": 12,
+            "model": "돈키호테",
+            "content": "Os Solucionadores que aparecem nas revistas de Solucionador que eu assino, a maioria, quase todos, todinhos eu conheço! Hehe."
+        },
+        {
+            "id": 13,
+            "content": "...É verdade. Se todas as pessoas aqui são Solucionadores."
+        },
+        {
+            "id": 14,
+            "content": "Aquela pessoa... que desde agora há pouco fica despejando olhares cortantes... ele também há de conhecer, não?"
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Então... quem são aqueles sujeitos que estão ali, encarando a gente fixamente desde agora há pouco?>"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Ah, allow me to observe!"
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Quer dizer que já há Solucionadores que reconhecem a Limbus Company! Uahaha, que situação difícil... Aii! Foi por isso que eu disse que pôr a minha foto na capa de propósito era exagero!"
+        },
+        {
+            "id": 18,
+            "model": "돈키호테",
+            "content": "Umm..."
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "content": "Uhmmm..."
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "Hmm...?"
+        },
+        {
+            "id": 21,
+            "model": "돈키호테",
+            "content": "Ora, vendo que são pessoas que não constam no meu conhecimento, parecem ser de um pequeno escritório registrado há pouco. Pela aparência, ainda assim, parecem ser oriundos do Leste, mas..."
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "content": "What a relief."
+        },
+        {
+            "id": 23,
+            "model": "홍루",
+            "content": "Quem são aquelas pessoas, por acaso eu sei."
+        },
+        {
+            "id": 24,
+            "model": "돈키호테",
+            "content": "O quê?!?! Vós conheceis um Solucionador que nem eu conheço? Vós?!"
+        },
+        {
+            "id": 25,
+            "content": "Don Quixote stares at Hong Lu in utter disbelief."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "... Meursault. C'mon, man. Don't look back at them."
+        },
+        {
+            "id": 27,
+            "model": "뫼르소",
+            "content": "Eu vinha encarando-os de frente desde agora há pouco. Não havia motivo para desviar os olhos."
+        },
+        {
+            "id": 28,
+            "model": "그레고르",
+            "content": "Isso, por aí, também se chama de duelo de olhares...? Então é melhor só..."
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "E-ei...? Agora eles estão vindo caminhando para o nosso lado. Será que a gente... acena, acena a mão?"
+        },
+        {
+            "id": 30,
+            "model": "그레고르",
+            "content": "Caramba... então, já que é assim, vamos encará-los de volta, pra eles não acharem que somos moles. Com firmeza."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Mesmo você falando como se fosse ventríloquo, dá pra ouvir tudo...>"
+        },
+        {
+            "id": 32,
+            "model": "싱클레어",
+            "content": "Yep, they're right in front of us..."
+        },
+        {
+            "id": 33,
+            "model": "히스클리프",
+            "content": "Ah, droga... que sufoco. Por que desviar os olhos?! Uma coisa dessas, se não rolar bem, é luta corpo a corpo na hora. Ei, vocês querem alguma coisa?"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Hã? E você, por que está aí sorrindo à toa, mesmo numa situação destas?"
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "Haha, é que eu não imaginava que iria apresentá-los a vocês tão depressa assim..."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "Please say hello..."
+        },
+        {
+            "id": 37,
+            "model": "홍루",
+            "content": "... to my little sister, Jia Xichun."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Little sister?>"
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "Little sister?"
+        },
+        {
+            "id": 40,
+            "model": "홍루",
+            "content": "Por pouco eu não te reconhecia. Da última vez que te vi, você ainda era do tamanho do meu joelho."
+        },
+        {
+            "id": 41,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Aquilo era porque eu era pequena."
+        },
+        {
+            "id": 42,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Eu pensei que você, depois de sair de casa, estava sozinho preparando alguma coisa grandiosa, e..."
+        },
+        {
+            "id": 43,
+            "model": "가시춘",
+            "title": "???",
+            "content": "É só isto? A facção que o mano formou?"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Haha. Não é uma facção, Shichun. Eu te apresento. Daqui, em ordem, o senhor Gregor..."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Y-yo..."
+        },
+        {
+            "id": 46,
+            "model": "로쟈",
+            "content": "Pfft, don't be shy! My name's Ro—"
+        },
+        {
+            "id": 47,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Deixa pra lá. Nem tenho tempo pra isso."
+        },
+        {
+            "id": 48,
+            "content": "Jia Xichun gave us a side-eye before dismissively cutting us off."
+        },
+        {
+            "id": 49,
+            "model": "그레고르",
+            "content": "Welp..."
+        },
+        {
+            "id": 50,
+            "model": "홍루",
+            "content": "...Tudo bem. Ah! Agora que vejo, não foi só a altura que cresceu, Shichun..."
+        },
+        {
+            "id": 51,
+            "model": "홍루",
+            "content": "...você também ficou com mais amigos, igual a mim. Fez amizades novas?"
+        },
+        {
+            "id": 52,
+            "content": "'Amigos' era uma avaliação muito otimista de Hong Lu."
+        },
+        {
+            "id": 53,
+            "content": "Because..."
+        },
+        {
+            "id": 54,
+            "content": "Pois os acompanhantes de Ga Shichun, desde o início, nos esquadrinhavam de cima a baixo com uma expressão ameaçadora."
+        },
+        {
+            "id": 55,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Você pergunta isso achando de verdade que são amigos?"
+        },
+        {
+            "id": 56,
+            "model": "가시춘",
+            "title": "???",
+            "content": "I'm still far behind my older siblings, anyway."
+        },
+        {
+            "id": 57,
+            "model": "홍루",
+            "content": "... Mhm, I see."
+        },
+        {
+            "id": 58,
+            "model": "가시춘",
+            "title": "???",
+            "content": "E. Você sabe que alguns membros da família ainda procuram o mano?"
+        },
+        {
+            "id": 59,
+            "model": "홍루",
+            "content": "Sei, e por sinal, da última vez, eu encontrei o mano Ga Hwan e a gente trocou umas palavras."
+        },
+        {
+            "id": 60,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Ha. Vendo que você encontrou aquele mano arruaceiro e continua inteiro, pelo visto a sua sorte é e tanto, ainda."
+        },
+        {
+            "id": 61,
+            "content": "Eu recordo o momento em que conhecemos o sujeito chamado Ga Hwan."
+        },
+        {
+            "id": 62,
+            "content": "Aquele momento em que ele nos deixou todos à beira da morte e cuspiu, com um olhar de desprezo, uma voz como a de uma víbora — dentro de Hong Lu, parece ter sido embrulhado como uma conversa amena."
+        },
+        {
+            "id": 63,
+            "content": "...Ou então, talvez aquilo fosse, de fato, para Hong Lu, uma conversa do dia a dia."
+        },
+        {
+            "id": 64,
+            "model": "홍루",
+            "content": "Shichun, eu ouvi agora há pouco que esta região é perigosa, ao que parece. Há pessoas desaparecendo e tudo. Que tal você e os seus acompanhantes se retirarem para um lugar seguro?"
+        },
+        {
+            "id": 65,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Hahaha... francamente. Não dá pra saber se é uma piada ou se é preocupação."
+        },
+        {
+            "id": 66,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Olha só. Eu cheguei aqui antes do mano avoado e da facção... humpf, não. Antes do bando de joões-ninguém dele, viu?"
+        },
+        {
+            "id": 67,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Está entendendo? Eu também sou participante da subjugação da La Manchaland. Como é este lugar, que tipo de lugar é, eu devo saber melhor."
+        },
+        {
+            "id": 68,
+            "model": "홍루",
+            "content": "Participante... como assim? Shichun, você não precisa participar de uma coisa dessas, não é? E não é possível que você precise da recompensa da subjugação."
+        },
+        {
+            "id": 69,
+            "model": "가시춘",
+            "title": "???",
+            "content": "É claro. E o mano também não veio se arrastar até aqui de olho num troco desses, não foi?"
+        },
+        {
+            "id": 70,
+            "model": "로쟈",
+            "content": "Pocket money, huh... Sure, whatever. 'Pocket money'..."
+        },
+        {
+            "id": 71,
+            "model": "홍루",
+            "content": "Ah, então... deixa pra lá. Nem você nem o senhor Wei parecem dispostos a responder."
+        },
+        {
+            "id": 72,
+            "content": "O olhar de Hong Lu, que fitava apenas a irmã, deteve-se por um instante no lugar onde estava a facção de Ga Shichun."
+        },
+        {
+            "id": 73,
+            "content": "Ali, uma pessoa de cabelo comprido olhou para Ga Shichun, como quem pede permissão, e..."
+        },
+        {
+            "id": 74,
+            "content": "...logo se aproximou e, fazendo uma reverência com a cabeça, dirigiu uma saudação a Hong Lu."
+        },
+        {
+            "id": 75,
+            "model": "웨이",
+            "title": "???",
+            "content": "...Como vai, jovem senhor?"
+        },
+        {
+            "id": 76,
+            "model": "홍루",
+            "content": "Uau~ quanto tempo, senhor Wei. Pelo visto o senhor ainda é o guarda-costas da Shichun?"
+        },
+        {
+            "id": 77,
+            "model": "웨이",
+            "title": "???",
+            "content": "Por mais que eu seja insuficiente, ainda sirvo à senhorita."
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "Hum... lá dentro pode ser perigoso..."
+        },
+        {
+            "id": 79,
+            "model": "홍루",
+            "content": "Ah! Shichun. Que tal você andar junto com a gente?"
+        },
+        {
+            "id": 80,
+            "model": "웨이",
+            "title": "???",
+            "content": "O jovem senhor... continua o mesmo de sempre."
+        },
+        {
+            "id": 81,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Não. Que tal cada um se concentrar apenas no próprio objetivo e a gente se separar aqui?"
+        },
+        {
+            "id": 82,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Pelo que eu vejo, vocês parecem ter um talento para atrair atenção desnecessária... e eu prefiro andar em silêncio."
+        },
+        {
+            "id": 83,
+            "model": "가시춘",
+            "title": "???",
+            "content": "E, lá dentro, melhor ainda se vocês não fizerem questão de fingir que me conhecem."
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "Tudo bem, se é o que você quer, Shichun... que seja assim."
+        },
+        {
+            "id": 85,
+            "model": "가시춘",
+            "title": "???",
+            "content": "...Eu pensava que, se a gente se reencontrasse, o mano ao menos estaria num estado melhor do que antes."
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "Entendi. Pelo visto, aos seus olhos, não foi o caso."
+        },
+        {
+            "id": 87,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Considere uma sorte ter encontrado a mim agora. Se fossem as outras manas ou os outros manos, essa cabecinha bonita já estaria rolando pelo chão."
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Sim, obrigado."
+        },
+        {
+            "id": 89,
+            "model": "가시춘",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 90,
+            "content": "Ga Shichun, que franziu a cara toda diante da saudação de Hong Lu, abriu a boca como quem ia lançar mais uma palavra, mas, em seguida, foi-se embora com o seu grupo."
+        },
+        {
+            "id": 91,
+            "model": "그레고르",
+            "content": "Bom... uma família que se dá bem não é tão comum quanto se imagina. Não é?"
+        },
+        {
+            "id": 92,
+            "model": "히스클리프",
+            "content": "...Por que está olhando pra mim? Eu nunca considerei aquele desgraçado como família."
+        },
+        {
+            "id": 93,
+            "model": "그레고르",
+            "content": "Ah, não, é que..."
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "O que você está olhando? Está esperando concordância?"
+        },
+        {
+            "id": 95,
+            "model": "그레고르",
+            "content": "Oh, man..."
+        },
+        {
+            "id": 96,
+            "model": "홍루",
+            "content": "Just like old times."
+        },
+        {
+            "id": 97,
+            "model": "로쟈",
+            "content": "Quer dizer que ela já era ríspida assim antes também?"
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Não; antes, a Shichun era mais apegada a mim do que aos outros irmãos."
+        },
+        {
+            "id": 99,
+            "model": "이상",
+            "content": "Hmmm... não foi 'antes', e sim... foi 'antes também' que dissestes, é isso?"
+        },
+        {
+            "id": 100,
+            "model": "홍루",
+            "content": "Yes."
+        },
+        {
+            "id": 101,
+            "model": "이상",
+            "content": "Ora essa... aquilo é... hummm."
+        },
+        {
+            "id": 102,
+            "content": "Yi Sang não conseguiu emendar mais palavra alguma e baixou a cabeça, com uma expressão de emoções misturadas."
+        },
+        {
+            "id": 103,
+            "model": "싱클레어",
+            "content": "Eh... pelo visto a reunião vai ser ali dentro."
+        },
+        {
+            "id": 104,
+            "model": "싱클레어",
+            "content": "We should probably join them."
+        },
+        {
+            "id": 105,
+            "content": "Ao virar a cabeça seguindo o dedo de Sinclair, vi que os Solucionadores estavam entrando numa espécie de tenda provisória."
+        },
+        {
+            "id": 106,
+            "model": "단테",
+            "content": "<... Yeah, we should.>"
+        }
+    ]
+}

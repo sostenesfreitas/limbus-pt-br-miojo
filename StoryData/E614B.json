@@ -1,0 +1,428 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Torre do Relógio ",
+            "model": "단테",
+            "content": "<Então...>"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Será que isso vai realmente funcionar?>"
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Acho que isso mal é um plano, tá mais pra algo que a gente acabou de pensar nos últimos 10 minutos, mas ainda assim...>"
+        },
+        {
+            "id": 3,
+            "model": "탐정료슈",
+            "content": "Tsk. Que irritante."
+        },
+        {
+            "id": 4,
+            "model": "탐정로쟈",
+            "content": "... Xiu. Vamos nos esconder."
+        },
+        {
+            "id": 5,
+            "model": "시간살인마",
+            "content": " ……."
+        },
+        {
+            "id": 6,
+            "model": "탐정홍루",
+            "content": "Oi. Estive esperando por você."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 8,
+            "model": "탐정로쟈",
+            "content": "... Ele acabou de dizer \"Oi\" pro Assassino...?"
+        },
+        {
+            "id": 9,
+            "model": "시간살인마",
+            "content": "Que interessante... Não apenas você tinha ciência de que eu estaria vindo até aqui, mas ainda teve a cortesia de me cumprimentar?"
+        },
+        {
+            "id": 10,
+            "model": "시간살인마",
+            "content": "Entendo. Você esteve nos seguindo todo este tempo."
+        },
+        {
+            "id": 11,
+            "model": "탐정홍루",
+            "content": "Hehe, claro. Você estava bem debaixo de nossos narizes esse tempo todo, não estava?"
+        },
+        {
+            "id": 12,
+            "model": "시간살인마",
+            "content": "Você é um daqueles tolos brincando de serem detetives, não é? Matando tempo..."
+        },
+        {
+            "id": 13,
+            "model": "탐정홍루",
+            "content": "Você está certo. Diga, você poderia me ensinar a como aproveitar o máximo possível do meu tempo?"
+        },
+        {
+            "id": 14,
+            "model": "시간살인마",
+            "content": "Nos dê seu tempo e poderemos te contar."
+        },
+        {
+            "id": 15,
+            "model": "시간살인마",
+            "content": "O quê, trinta horas? O quê é isso, a porra duma piada? Isso não é o bastante."
+        },
+        {
+            "id": 16,
+            "model": "시간살인마",
+            "content": "Apenas pense em todas as horas que perdemos fugindo desses paspalhos! Nós poderíamos ter usado esse tempo arrancando mais horas dos outros. Eu digo que é apenas justo que peguemos 300 horas dele."
+        },
+        {
+            "id": 17,
+            "model": "시간살인마",
+            "content": "Concordo. Ele é um dos lacaios do Ninho... Trabalhando com aquelas correntes de relógios imundas da T Corp... Ele merece isso. Se nós o deixarmos fugir, ele só trará mais problemas. Vamos mostrar pra eles o que acontece com quem se opõe a nós."
+        },
+        {
+            "id": 18,
+            "model": "시간살인마",
+            "content": "Apoiado. Vamos tentar extrair uma quantia exata de horas que seja igualmente dividida em doze partes."
+        },
+        {
+            "id": 19,
+            "model": "시간살인마",
+            "content": "Que se dane, vamos esfaquear o mais fundo que der! A gente não quer uma repetição daquilo com o gato gordo na fábrica, não é? Vamos mirar diretamente no centro. Não vamos deixar esse bastardo escapar com apenas um corte de cem horas!"
+        },
+        {
+            "id": 20,
+            "model": "시간살인마",
+            "content": "Silêncio. Eu decidirei o tempo. Nós vamos esfaquear o mais fundo possível e arrancar mil horas dele. Isso deve ser tempo o suficiente para compartilharmos alegremente."
+        },
+        {
+            "id": 21,
+            "model": "시간살인마",
+            "content": "Bem, suponho que vamos perder nosso paladar pelas próximas mil horas. Se dividirmos o fardo de mil horas igualmente entre nós... É, eu consigo aguentar isso."
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Huh... É quase como se tivesse múltiplas personalidades alí, todas se revezando para falar...>"
+        },
+        {
+            "id": 23,
+            "content": "O culpado não é o único que começou a agir estranhamente. Hong Lu também."
+        },
+        {
+            "id": 24,
+            "content": "O rosto dele relaxou em um olhar tranquilo, como se ele estivesse pronto para deixar algo ir.\n... Ou talvez... Aquela fosse uma expressão de libertação."
+        },
+        {
+            "id": 25,
+            "model": "탐정홍루",
+            "content": "Mil horas..."
+        },
+        {
+            "id": 26,
+            "model": "탐정홍루",
+            "content": "Terão mil horas passado num piscar de olhos?"
+        },
+        {
+            "id": 27,
+            "model": "시간살인마",
+            "content": "Sim. E não haverá dor. Apenas o desespero que te aguarda ao despertar."
+        },
+        {
+            "id": 28,
+            "model": "탐정홍루",
+            "content": "Então... Eu gosto disso."
+        },
+        {
+            "id": 29,
+            "model": "탐정홍루",
+            "content": "Arranque meu tempo."
+        },
+        {
+            "id": 30,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 31,
+            "model": "탐정로쟈",
+            "content": "Ele... Não quis dizer isso, quis?"
+        },
+        {
+            "id": 32,
+            "model": "탐정료슈",
+            "content": "Uma serra que corta o tempo, não é?"
+        },
+        {
+            "id": 33,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Então esse é o cerne do seu poder de extrair o tempo. Embora não tenha sido uma invenção, mas sim uma Distorção..."
+        },
+        {
+            "id": 34,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Nossa, ainda assim é muito fascinante! Então esse é o tipo de poder que uma Distorção pode conceder a alguém? Poderes quais alguém pode apenas sonhar..."
+        },
+        {
+            "id": 35,
+            "model": "시간살인마",
+            "content": "…!"
+        },
+        {
+            "id": 36,
+            "model": "탐정홍루",
+            "content": "……."
+        },
+        {
+            "id": 37,
+            "content": "Depois de um longo silêncio, como se o mundo em si tivesse parado..."
+        },
+        {
+            "id": 38,
+            "model": "시간살인마",
+            "content": "Por quê... Nós não podemos arrancar fora o seu tempo?"
+        },
+        {
+            "id": 39,
+            "model": "탐정홍루",
+            "content": "Entendo. Tudo foi como planejado. Está tudo tão... Igual."
+        },
+        {
+            "id": 40,
+            "model": "탐정홍루",
+            "content": "Eu pisquei, mas o mundo continua tão familiar e imutável como sempre."
+        },
+        {
+            "id": 41,
+            "model": "시간살인마",
+            "content": "O-o quê...?!"
+        },
+        {
+            "id": 42,
+            "model": "시간살인마",
+            "content": "A gente caiu direto numa armadilha, seus idiotas de merda! Ainda não entenderam?!"
+        },
+        {
+            "id": 43,
+            "model": "탐정료슈",
+            "content": "Detetives. A.L.D.C."
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Ufa... Mas que alívio. Fiquei preocupado por alguns momentos aqui...>"
+        },
+        {
+            "id": 45,
+            "content": "Cerca de 30 minutos atrás..."
+        },
+        {
+            "id": 46,
+            "place": "Beco da T Corp., 30 minutos atrás ",
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Como eu falei ontem... A Forca de Escala Temporal não está quebrada. Esse erro foi causado apenas por você."
+        },
+        {
+            "id": 47,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Seu tempo—e isso se aplica a todos os doze de vocês—já estava ligado ao tempo de outra pessoa."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<O tempo de outra pessoa...? Eu?>"
+        },
+        {
+            "id": 49,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "... Isso causou um erro de multi referência na Forca de Escala Temporal, que deveria ter \"travado\" seu tempo.\n"
+        },
+        {
+            "id": 50,
+            "model": "탐정로쟈",
+            "content": "Então o que você quer dizer é... Porque estamos vivendo no tempo de Dante... A força não conseguiu \"enforcar\" nosso tempo?"
+        },
+        {
+            "id": 51,
+            "model": "단테",
+            "content": "<Eu não fazia ideia...>"
+        },
+        {
+            "id": 52,
+            "model": "탐정홍루",
+            "content": "Bom, se tudo isso é novidade pra nós..."
+        },
+        {
+            "id": 53,
+            "model": "탐정홍루",
+            "content": "... Então não tem jeito do Estripador Temporal saber disso também."
+        },
+        {
+            "id": 54,
+            "model": "탐정홍루",
+            "content": "Então, quando o Estripador Temporal chegar e tentar arrancar meu tempo..."
+        },
+        {
+            "id": 55,
+            "model": "탐정홍루",
+            "content": "... É aí que Rodya e Ryoshu podem aparecer como as pessoas incríveis que vocês são e prender o culpado."
+        },
+        {
+            "id": 56,
+            "content": "... E foi assim que essa armadilha nasceu."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Mas e se... Sério mesmo, e se...>"
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<... E se o Estripador Temporal conseguir arrancar o tempo do Hong Lu?>"
+        },
+        {
+            "id": 59,
+            "model": "탐정홍루",
+            "content": "Não se preocupe, Dante."
+        },
+        {
+            "id": 60,
+            "model": "탐정홍루",
+            "content": "Vai ficar tudo bem."
+        },
+        {
+            "id": 61,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Haah... Me pergunto quanto tempo vai durar a barulheira quando as notícias de uma Torre do Relógio com defeito forem divulgadas."
+        },
+        {
+            "id": 62,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Não seria um excelente entretenimento assistir a confiança das pessoas na instituição, da supostamente infalível Torre do Relógio, cair por terra? Vai ser um show muito divertido."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<... Vou tentar o meu melhor para não ter problemas.>"
+        },
+        {
+            "id": 64,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Tique taque... tique taque..."
+        },
+        {
+            "id": 65,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ei, troféu de participação. Eu realmente odiava o barulho dos relógios."
+        },
+        {
+            "id": 66,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu não sei bem quando isso começou, mas eu comecei a associar esse barulho com o ciclo perpétuo de dor. Como se fosse uma... Premonição que uma lâmina pontiaguda em forma de ponteiro de relógio um dia iria me cortar completamente. Uma lâmina do Tempo, se preferir."
+        },
+        {
+            "id": 67,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Mas o seu barulho...? É algo um pouquinho diferente. É o tipo de barulho que me faz sonhar algo novo, algo diferente. Algo que não seja... Dor."
+        },
+        {
+            "id": 68,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Bem, é por isso que quero expressar minha gratidão."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<Não tenho certeza sobre o que ele quer agradecer mas... Alguém pode fazer uma pergunta a ele por mim?>"
+        },
+        {
+            "id": 70,
+            "model": "탐정홍루",
+            "content": "Dante tem um pedido."
+        },
+        {
+            "id": 71,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Certo, peça a vontade."
+        },
+        {
+            "id": 72,
+            "model": "단테",
+            "content": "<Acho que já tenho experiência o suficiente para inferir quando uma luta das grandes vai acontecer... Eu eu estou tendo essa exata sensação de que algo vai acontecer agora mesmo.>"
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Então, é hora de você nos devolver os outros Pecadores.>"
+        },
+        {
+            "id": 74,
+            "place": "Torre do Relógio ",
+            "model": "이스마엘",
+            "content": "Não consigo acreditar que eles realmente nos deixaram presos o tempo todo, só pra nos liberar logo antes de pegarem o culpado..."
+        },
+        {
+            "id": 75,
+            "model": "이스마엘",
+            "content": "E então, como foi, Gerente? Aventurar-se com apenas três Pecadores. Foi divertido?"
+        },
+        {
+            "id": 76,
+            "model": "오티스",
+            "content": "Espero que você tenha aprendido sua lição, e que minha ausência tenha sido... Profundamente sentida."
+        },
+        {
+            "id": 77,
+            "model": "싱클레어",
+            "content": "Aff, to me doendo todo de ficar sentado naquela cela de prisão. Não quero voltar prum lugar daqueles nunca mais."
+        },
+        {
+            "id": 78,
+            "model": "히스클리프2",
+            "content": "Certo, então esse sujeito é o tal do Estripador Temporal ou alguma coisa assim?"
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "Uma Distorção que devemos derrotar."
+        }
+    ]
+}

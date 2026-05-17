@@ -1,0 +1,88 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Aldeia do Pasto de Ovelhas",
+            "model": "기사돈키",
+            "content": "No fim das contas, os bandidos foram aniquilados e aquela aldeia recobrou a paz!"
+        },
+        {
+            "id": 1,
+            "model": "주민로쟈",
+            "content": "\"Senhor Don Quixote, muitíssimo obrigada por proteger a nossa aldeia; como poderemos retribuir este favor?\""
+        },
+        {
+            "id": 2,
+            "model": "산손",
+            "content": "O povo da aldeia perguntou sobre a recompensa."
+        },
+        {
+            "id": 3,
+            "model": "산손",
+            "content": "Era algo natural. Em geral, é da natureza humana atender a um encargo recebendo uma contrapartida; quem faria um trabalho tão árduo de graça?"
+        },
+        {
+            "id": 4,
+            "model": "기사돈키",
+            "content": "\"Não vos preocupeis; eu apenas cumpri o que cabe a um Solucionador justo.\""
+        },
+        {
+            "id": 5,
+            "model": "주민로쟈",
+            "content": "\"O quê, o senhor nos ajuda de graça, sem desejar contrapartida alguma? Sem receber um tostão? De verdade?\""
+        },
+        {
+            "id": 6,
+            "model": "기사돈키",
+            "content": "\"Claaaro! Um Solucionador é assim, por natureza. Ah, mas, se fazeis questão de ajudar... há sim uma única coisa...\""
+        },
+        {
+            "id": 7,
+            "model": "주민로쟈",
+            "content": "\"Basta dizer, seja o que for!\""
+        },
+        {
+            "id": 8,
+            "model": "기사돈키",
+            "content": "\"Trata-se de...! Não é grande coisa... o que é, vede bem...\""
+        },
+        {
+            "id": 9,
+            "model": "기사돈키",
+            "content": "“…….”"
+        },
+        {
+            "id": 10,
+            "model": "주민로쟈",
+            "content": "\"... Huh?\""
+        },
+        {
+            "id": 11,
+            "place": "-1",
+            "content": "<color=#ebcaa2>É que, então, o pagamento... não sabemos como devemos dá-lo... é que nós não temos dinheiro...</color>"
+        },
+        {
+            "id": 12,
+            "content": "<color=#ffef23>Ao menos esse tênis que você está calçando... parece valer um bom dinheiro...</color>"
+        },
+        {
+            "id": 13,
+            "content": "<color=#cc2424>Que é isso. ...não pratica a justiça em troca de dinheiro!</color>"
+        },
+        {
+            "id": 14,
+            "content": "<color=#cc2424>Still, if thou truly wishest to help, then...</color>"
+        },
+        {
+            "id": 15,
+            "place": "Aldeia do Pasto de Ovelhas",
+            "model": "단테",
+            "content": "<Esta memória... é da... Don Quixote?>"
+        },
+        {
+            "id": 16,
+            "model": "산손",
+            "content": "Ora, o palco ficou silencioso. Que tal passarmos, aos poucos, para a próxima história?"
+        }
+    ]
+}

@@ -1,0 +1,449 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "???",
+            "content": "<color=#9b111e>……Nós desejamos. Os sete pecados.</color>"
+        },
+        {
+            "id": 1,
+            "content": "<color=#9b111e>……Nós lembramos. De #&#(!@&$.</color>"
+        },
+        {
+            "id": 2,
+            "place": "#*% de #&*()!#%",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Acho que não é este o fio. Ei, alguém..."
+        },
+        {
+            "id": 3,
+            "content": "Foi como se uma voz pouco familiar tivesse ressoado uma vez."
+        },
+        {
+            "id": 4,
+            "content": "Onde é aqui? Quem sou eu…?"
+        },
+        {
+            "id": 5,
+            "content": "Por volta de quando esse pensamento ia me ocorrer, diante dos olhos tudo chiou e clareou."
+        },
+        {
+            "id": 6,
+            "place": "???",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "…te-se."
+        },
+        {
+            "id": 7,
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Levante-se, professor."
+        },
+        {
+            "id": 8,
+            "content": "Quando a visão se abriu, aquele lugar era um espaço estranho."
+        },
+        {
+            "id": 9,
+            "content": "Onde havia dezenas de mesas e cadeiras..."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Uma escola?>"
+        },
+        {
+            "id": 11,
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Pelo visto você está bem confuso, professor."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Professor? Eu?>"
+        },
+        {
+            "id": 13,
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Sim, é isso mesmo. A julgar pelo seu estado, você há de ter esquecido até o que eu vinha explicando agora há pouco."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Eh... é, parece que sim. Não... mas, espera, você consegue ouvir a minha voz?>"
+        },
+        {
+            "id": 15,
+            "model": "베르길리우스",
+            "content": "Eu sou o Ver. gí. li. o. Eu estava aqui esperando, esse tempo todo, que o professor chegasse."
+        },
+        {
+            "id": 16,
+            "model": "베르길리우스",
+            "content": "Conto com você."
+        },
+        {
+            "id": 17,
+            "content": "Como a resposta à pergunta não voltava, eu naturalmente acabei desistindo de qualquer expectativa de conversa."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Por que você está fazendo isso... você...>"
+        },
+        {
+            "id": 19,
+            "content": "Eu apenas sentia um pavor remoto, contra o qual eu nada podia fazer, e um arrepio singular percorrendo o corpo todo..."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "Então... eu vinha explicando o procedimento de autenticação biométrica."
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<Bio… o quê?>"
+        },
+        {
+            "id": 22,
+            "model": "베르길리우스",
+            "content": "Explicar de novo também é um incômodo… vamos simplesmente prosseguir."
+        },
+        {
+            "id": 23,
+            "content": "Estranhamente... para alguém que me chamou de professor, há uma sensação de menosprezo; será impressão minha?"
+        },
+        {
+            "id": 24,
+            "model": "베르길리우스",
+            "content": "Pois bem… professor."
+        },
+        {
+            "id": 25,
+            "model": "베르길리우스",
+            "content": "Encoste aqui o dedo do professor no meu dedo."
+        },
+        {
+            "id": 26,
+            "content": "…"
+        },
+        {
+            "id": 27,
+            "place": "#*% de #&*()!#%",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "...mael! Não é dando pancada que se conserta. Se não sabe, cale a boca e fique no seu canto."
+        },
+        {
+            "id": 28,
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Tch, então…"
+        },
+        {
+            "id": 29,
+            "content": "Sem nem haver tempo de sentir uma sensação desagradável percorrer o corpo, diante dos olhos tudo foi recoberto por outra cor."
+        },
+        {
+            "id": 30,
+            "place": "???",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Doutor, doutor!"
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<…Vergilius?>"
+        },
+        {
+            "id": 32,
+            "model": "베르길리우스",
+            "content": "O doutor falou! Se-segure firme a minha mão, e..."
+        },
+        {
+            "id": 33,
+            "content": "...quem está apertando como se fosse esmagar parece ser você..."
+        },
+        {
+            "id": 34,
+            "model": "베르길리우스",
+            "content": "Eu vim para salvar o doutor..."
+        },
+        {
+            "id": 35,
+            "content": "Não, eu não sou o doutor... eu não era o Gerente?"
+        },
+        {
+            "id": 36,
+            "content": "Mas, como se houvesse uma força cujo motivo eu não sabia, eu apenas estalava o relógio, como que conduzido a uma resposta predeterminada."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<……Eu……?>"
+        },
+        {
+            "id": 38,
+            "model": "베르길리우스",
+            "content": "O doutor…"
+        },
+        {
+            "id": 39,
+            "model": "베르길리우스",
+            "content": "Você é um membro da nossa 'Ilha Limbus'."
+        },
+        {
+            "id": 40,
+            "content": "Eh...? Parece que devia ser empresa, e não ilha?"
+        },
+        {
+            "id": 41,
+            "content": "……."
+        },
+        {
+            "id": 42,
+            "place": "#*% de #&*()!#%",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "...nhora st! Como é que esta cabeça-de-relógio se move?!"
+        },
+        {
+            "id": 43,
+            "content": "De novo... uma voz estranha e uma paisagem desagradável."
+        },
+        {
+            "id": 44,
+            "content": "Mas que…"
+        },
+        {
+            "id": 45,
+            "place": "???",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Magnífico... magnífico! E logo vencer mesmo!"
+        },
+        {
+            "id": 46,
+            "content": "E agora, o que é isto... eu nem sou mais uma pessoa..."
+        },
+        {
+            "id": 47,
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Esta é a corrida de Mephistopheles... do 'Ace'..."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<Que baboseira é essa que você está dizendo... você...>"
+        },
+        {
+            "id": 49,
+            "model": "베르길리우스",
+            "content": "Ah! Como vai, professor treinador!"
+        },
+        {
+            "id": 50,
+            "content": "Agora ele nem escuta."
+        },
+        {
+            "id": 51,
+            "model": "단테",
+            "content": "<Afinal, que lugar é este?! É dentro do Ninho? E, para começar, por que de repente uma cabeça de cavalo...>"
+        },
+        {
+            "id": 52,
+            "content": "No instante em que eu, estalando com afinco, ia protestar com ele..."
+        },
+        {
+            "id": 53,
+            "content": "…"
+        },
+        {
+            "id": 54,
+            "place": "#*% de #&*()!#%",
+            "model": "???",
+            "teller": "???",
+            "title": "???",
+            "content": "Módulo de memória... ...deu certo? Então... por que isto..."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<A-a minha cabeça…>"
+        },
+        {
+            "id": 56,
+            "place": "???",
+            "content": "Producer…"
+        },
+        {
+            "id": 57,
+            "content": "Leader…"
+        },
+        {
+            "id": 58,
+            "content": "Commander…"
+        },
+        {
+            "id": 59,
+            "content": "Master…"
+        },
+        {
+            "id": 60,
+            "content": "Professor…"
+        },
+        {
+            "id": 61,
+            "content": "Vários títulos indecifráveis rodopiam, sem ordem, dentro da minha cabeça."
+        },
+        {
+            "id": 62,
+            "content": "S-se continuar assim…"
+        },
+        {
+            "id": 63,
+            "content": "#&*()@%&!)$&8%&*%#%#!"
+        },
+        {
+            "id": 64,
+            "model": "베르길리우스",
+            "content": "Você voltou."
+        },
+        {
+            "id": 65,
+            "place": "Interior do Mephistopheles",
+            "model": "베르길리우스",
+            "content": "Eu fiquei preocupado, Gerente."
+        },
+        {
+            "id": 66,
+            "model": "베르길리우스",
+            "content": "É que de repente, dentro do ônibus... você desabou."
+        },
+        {
+            "id": 67,
+            "model": "단테",
+            "content": "<Vergil…?!>"
+        },
+        {
+            "id": 68,
+            "content": "Não, não aguento mais...!"
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<Hiec! Hiiiec!!>"
+        },
+        {
+            "id": 70,
+            "model": "베르길리우스",
+            "content": "Que significa isto, Gerente? Por que você está fugindo?"
+        },
+        {
+            "id": 71,
+            "model": "단테",
+            "content": "<Pare de me chamar por nomes estranhos!!!>"
+        },
+        {
+            "id": 72,
+            "model": "베르길리우스",
+            "content": "...Você emite um som de despertador quebrado."
+        },
+        {
+            "id": 73,
+            "model": "베르길리우스",
+            "content": "Eu mexi numa coisa e noutra para tentar consertar, mas..."
+        },
+        {
+            "id": 74,
+            "model": "베르길리우스",
+            "content": "Ha, eu desperdicei tempo à toa, sem saber que era uma coisa que se resolveria simplesmente girando o relógio."
+        },
+        {
+            "id": 75,
+            "content": "Vergílio… não está conseguindo entender a minha voz."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Eu… voltei?>"
+        },
+        {
+            "id": 77,
+            "model": "베르길리우스",
+            "content": "...Eu não entendo o que você está tiquetaqueando. Você ao menos se acalmou?"
+        },
+        {
+            "id": 78,
+            "model": "베르길리우스",
+            "content": "A senhora Faust disse... que há também a possibilidade de você ter percorrido, em sonho, vários cantos do mundo dos espelhos, mas..."
+        },
+        {
+            "id": 79,
+            "model": "베르길리우스",
+            "content": "Bom, uma coisa dessas não é importante, não é?"
+        },
+        {
+            "id": 80,
+            "model": "베르길리우스",
+            "content": "Os Pecadores já desembarcaram."
+        },
+        {
+            "id": 81,
+            "model": "베르길리우스",
+            "content": "Em vez de ficar rolando aí…"
+        },
+        {
+            "id": 82,
+            "model": "베르길리우스",
+            "content": "Saia correndo, rápido."
+        },
+        {
+            "id": 83,
+            "content": "O que eram aquelas visões estapafúrdias que eu vi, qual era o motivo de Vergílio ter me chamado por tantos nomes estranhos..."
+        },
+        {
+            "id": 84,
+            "content": "...as coisas que eu queria saber eram muitas, mas."
+        },
+        {
+            "id": 85,
+            "model": "베르길리우스",
+            "content": "……"
+        },
+        {
+            "id": 86,
+            "content": "Não parecia uma boa hora para falar com ele, que limpava com irritação a graxa que se grudara na sua mão."
+        },
+        {
+            "id": 87,
+            "content": "...De todo modo, ele só vai ouvir um som de tique-taque..."
+        },
+        {
+            "id": 88,
+            "content": "Agora... eu quero me consolar com o fato de que este Vergílio de agora é melhor do que aqueles incontáveis Vergílios."
+        },
+        {
+            "id": 89,
+            "content": "Pois é... esse aspecto rabugento é muito melhor, isso sim."
+        }
+    ]
+}

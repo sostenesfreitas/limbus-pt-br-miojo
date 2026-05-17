@@ -1,0 +1,528 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine de Primeira Classe do Trem WARP",
+            "model": "단테",
+            "content": "<Nós já chegamos...?>"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Nossa, não era exagero nenhum... Realmente chegamos num piscar de olhos.>"
+        },
+        {
+            "id": 2,
+            "content": "Faust me olhava com seu mesmo olhar inexpressivo de sempre."
+        },
+        {
+            "id": 3,
+            "content": "Suponho que deva ter sido este o motivo de eu não ter notado que algo estava errado."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "Não, ainda não chegamos ao nosso destino."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Huh?>"
+        },
+        {
+            "id": 6,
+            "content": "Mas assim que meus pensamentos ficaram mais claros... Eu comecei a me perguntar sobre essa resposta inesperada e levantei meu rosto para vê-la..."
+        },
+        {
+            "id": 7,
+            "content": "... acabei percebendo que sua expressão estava um pouco mais ansiosa do que o normal, mesmo que se fosse em um nível microscópico."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Ok... então esse trem ainda está \"rodando\"?>"
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "content": "Sim."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Então... onde estamos agora?>"
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "... Acredito que estamos em alguma dimensão não identificada, as coordenadas são desconhecidas."
+        },
+        {
+            "id": 12,
+            "content": "Respirei profundamente ao ouvir essa frase, que foi dita com tanta calma mas ainda me causou um certo desespero."
+        },
+        {
+            "id": 13,
+            "content": "A primeira coisa que me veio à mente foi o pensamento que teríamos que enfrentar aquela exata coisa e situação com a qual eu estava tão preocupado."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<... Entendi.>"
+        },
+        {
+            "id": 15,
+            "content": "Mas me veio a mente algo que me acalmou..."
+        },
+        {
+            "id": 16,
+            "content": "Sim, tudo isso tem que ser parte dos planos da Faust."
+        },
+        {
+            "id": 17,
+            "content": "Com certeza ela irá começar a me dizer todos os mínimos detalhes de seu plano para sairmos dessa situação."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<... E isso tudo estava dentro dos planos, certo, Faust?>"
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "…………."
+        },
+        {
+            "id": 20,
+            "content": "Por alguma razão, Faust ficou em silêncio por um bom tempo."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "Você está metade correto e metade incorreto."
+        },
+        {
+            "id": 22,
+            "content": "Me deixando com essas palavras que acabaram me estupefando, Faust começou a abrir cada uma das cápsulas e acordar os Pecadores."
+        },
+        {
+            "id": 23,
+            "model": "그레고르",
+            "content": "Ooh, já chegamos? Nossa cara, realmente foi num piscar de olh-"
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Não."
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "content": "Oh, o que foi? A gente já chegou? Foi num piscar de olhos mesm-"
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Não."
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "N-nossa, já acabou? Eu estava preocupado com nad-"
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Não."
+        },
+        {
+            "id": 29,
+            "model": "이상",
+            "content": "O—"
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Não."
+        },
+        {
+            "id": 31,
+            "model": "이상",
+            "content": "Mas mal me saíram as palavras..."
+        },
+        {
+            "id": 32,
+            "content": "Após uma pequena comemoração, dado retorno de nossas cores, seguido por uma explicação, novamente calma, da situação atual e um longo e pesado silêncio... Fos quais eu tive a honra de presenciar esses mesmos eventos serem repetidoa algumas dez vezes..."
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "Dante, eu entendo sua confusão, porém... acredito que uma nova explicação da situação atual seja necessária."
+        },
+        {
+            "id": 34,
+            "content": "... E isso nos traz ao presente."
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "Bem, se eu entendi direito..."
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "Este trem ainda está rodando..."
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "content": "E a gente tá numa dimensão que ninguém conhece...?"
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "content": "Ooo... vejo tal situação como algo um tanto aventuresco..."
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "Mas, por cima de tudo... Você tá dizendo que já sabia que isso tudo ia acontecer, Faust?"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "... Sim."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Haaaaah..."
+        },
+        {
+            "id": 42,
+            "model": "그레고르",
+            "content": "Mas... O que que tem de errado com você? Hein?"
+        },
+        {
+            "id": 43,
+            "content": "Queixas começaram a serem feitas pelos Pecadores."
+        },
+        {
+            "id": 44,
+            "content": "Claro, houveram outras instâncias onde ou a Faust ou o Vergilius omitiram de propósito certos detalhes sobre as missões."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Você acha que há sentido nisso? Não é como se pudéssemos só pular pra aquela porta quando tudo for por água abaixo!"
+        },
+        {
+            "id": 46,
+            "model": "뫼르소",
+            "content": "A abertura desta respectiva porta resultará na destruição imediata de seu corpo físico."
+        },
+        {
+            "id": 47,
+            "model": "로쟈",
+            "content": "Mas, Faus... você já tem todo um plano feito como sempre, tudo certinho, né?"
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "... Né?"
+        },
+        {
+            "id": 50,
+            "content": "Faust, na qual em seu cotidiano respondia toda questão sem mal hesitar, caiu em silêncio por alguns longos segundos."
+        },
+        {
+            "id": 51,
+            "model": "히스클리프",
+            "content": "Uh, o que deu nela? A moça quebrou, tá tonta?"
+        },
+        {
+            "id": 52,
+            "content": "Faust me lança um olhar de soslaio."
+        },
+        {
+            "id": 53,
+            "content": "Deve ser... algo que ela não pode dizer na frente dos outros Pecadores."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<... Ok, pessoal, só um minutinho.>"
+        },
+        {
+            "id": 55,
+            "content": "Antes ela me dissera que algo inesperado havia acontecido..."
+        },
+        {
+            "id": 56,
+            "content": "Eu entendo a raiva dos outros Pecadores, faz sentido eles perderem a confiança na Faust se as coisas continuarem assim."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Certo, vamos repassar as informações desde o começo.>"
+        },
+        {
+            "id": 58,
+            "content": "Mas se eu ignorar esse tipo de situação, todos irão ficar contra a Faust, algo difícil de voltar atrás."
+        },
+        {
+            "id": 59,
+            "content": "Além do mais..."
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 61,
+            "content": "Duvido muito que a Faust tenha feito todas essas coisas de má-fé."
+        },
+        {
+            "id": 62,
+            "content": "Primeiramente, tenho que acalmar os Pecadores. Então perguntarei para Faust explicar exatamente que aconteceu. Se houver algum problema, lidaremos com ele durante o processo."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<Faust, explique o que está acontecendo desde o começo. Para nós entendermos a situação.>"
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Antes de julgarmos, vamos primeiro ouvir toda a explicação. Ok pessoal?>"
+        },
+        {
+            "id": 65,
+            "model": "이스마엘",
+            "content": "... Já que você disse. Vou te acompanhar."
+        },
+        {
+            "id": 66,
+            "model": "히스클리프",
+            "content": "É... Acho que ficar puto agora não vai adiantar nada."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Obrigada. Então..."
+        },
+        {
+            "id": 68,
+            "content": "Passado algum tempo..."
+        },
+        {
+            "id": 69,
+            "content": "Resumidamente, a situação explicada por Faust era esta."
+        },
+        {
+            "id": 70,
+            "content": "Como esperado, no início de toda esta situação, o contrato e as orden do alto escalão da Limbus Company eram prioridade."
+        },
+        {
+            "id": 71,
+            "content": "As histórias que a Limbus Company estava lidando com Distorções acabou chegando nos ouvidos da W Corp."
+        },
+        {
+            "id": 72,
+            "content": "E por conta disso, a W Corp que não estava conseguindo lidar com um problema parecido com uma distorção, acabou nos enviando uma solicitação de contrato. "
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "O fenômeno da Distorção em si não seria uma ameaça para a W Corp. De acordo com as informações que possuímos, assim que o Trem Warp chegasse em sua próxima estação, o indivíduo distorcido passaria pelo processo de reversão da W Corp, e assim voltaria a seu estado normal."
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Porém..."
+        },
+        {
+            "id": 75,
+            "content": "O motivo desta solicitação é o desaparecimento de passageiros."
+        },
+        {
+            "id": 76,
+            "model": "돈키호테",
+            "content": "Desaparecimento...?! Porventura não seria impossível tal ato dentro deste vagão?!"
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "É exatamente isto que devemos solucionar."
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<A W Corp. não compartilhou nenhuma suspeita deles?>"
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "... Este é exatamente o motivo pelo qual ocorreu este mal-entendido."
+        },
+        {
+            "id": 80,
+            "content": "Ela explicou que a W Corp. não compartilhou nenhuma informação com nós pois temiam que sua Singularidade fosse vazada."
+        },
+        {
+            "id": 81,
+            "content": "Talvez seja por causa disso que eles contrataram uma empresa recente como a Limbus Company para lidar com esta situação, mas..."
+        },
+        {
+            "id": 82,
+            "content": "Se não tivéssemos o mínimo de informações descobertas através das Identidades, talvez nem saberíamos como lidar com esta situação."
+        },
+        {
+            "id": 83,
+            "content": "Enquanto Faust continuava explicando a situação para nós, ela nos mostrar um cartão com a logo da W Corp. estampada nele."
+        },
+        {
+            "id": 84,
+            "model": "파우스트",
+            "content": "Entretanto, como recebemos este cartão de acesso mestre que nos permite a abrir e fechar as cápsulas de hibernação..."
+        },
+        {
+            "id": 85,
+            "model": "파우스트",
+            "content": "Assim que concluírmos este contrato, nós vamos poder retornar às cápsulas, e chegar em segurança ao nosso destino, conforme discutido em Mephistopheles."
+        },
+        {
+            "id": 86,
+            "model": "히스클리프",
+            "content": "As malditas Asas são todas assim, ah..."
+        },
+        {
+            "id": 87,
+            "model": "홍루",
+            "content": "Humm~ Eles ocultam todas as pistas e ainda nos pedem para solucionar este problema... Isso é muito descortês... "
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Pelo menos quando estávamos na T Corp. eles nos deram aqueles distintivos legais, e o Diretor deles agiu como nosso assistente durante todo o caso."
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "S-senhorita Faust, parece que você também tá muito estressada com essa situação..."
+        },
+        {
+            "id": 90,
+            "content": "Depois de sua explicação, alguns Pecadores aceitaram a situação mesmo que com um suspiro estressado."
+        },
+        {
+            "id": 91,
+            "model": "그레고르",
+            "content": "... Haah. Pelo menos eles podiam ter avisado que tinha uma coisa de errado."
+        },
+        {
+            "id": 92,
+            "model": "이스마엘",
+            "content": "É. Não que eu não te entenda, mas não é como se cada ação da Senhorita Faust estivesse sendo monitorado, entende?"
+        },
+        {
+            "id": 93,
+            "model": "파우스트",
+            "content": "Quanto a isso..."
+        },
+        {
+            "id": 94,
+            "model": "이스마엘",
+            "content": "Haaah..."
+        },
+        {
+            "id": 95,
+            "content": "Mas ainda assim, alguns Pecadores fizeram questão de expressarem suas insatisfações com a situação."
+        },
+        {
+            "id": 96,
+            "model": "파우스트",
+            "content": "... Levarei isto em consideração na próxima vez."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 98,
+            "content": "... Não tem amis nada que possa fazer por ela. Pois é fato que as ações tomadas por ela decepcionaram o resto dos Pecadores."
+        },
+        {
+            "id": 99,
+            "content": "Mas sendo Faust, será que ela já não pensou em alguma solução para resolver a nossa situação?"
+        },
+        {
+            "id": 100,
+            "model": "오티스",
+            "content": "Hum, Então, qual será nossa próxima ação?"
+        },
+        {
+            "id": 101,
+            "model": "로쟈",
+            "content": "Fazer o quê~ Nós já estamos na pior. Pelo menos a gente evitou ficar apodrecendo aqui para sempre."
+        },
+        {
+            "id": 102,
+            "model": "파우스트",
+            "content": "... Isto é algo que terei de discutir com o Gerente por um momento."
+        },
+        {
+            "id": 103,
+            "content": "Discutir?"
+        },
+        {
+            "id": 104,
+            "content": "Isso é uma escolha de palavras bem estranha da Faust..."
+        },
+        {
+            "id": 105,
+            "model": "단테",
+            "content": "<Do que vamos... discutir sobre, Faust?>"
+        },
+        {
+            "id": 106,
+            "model": "파우스트",
+            "content": "Dante, seria melhor se abaixasse o tom de sua voz."
+        },
+        {
+            "id": 107,
+            "model": "단테",
+            "content": "<Por quê... Por quê estamos sussurando...?>"
+        },
+        {
+            "id": 108,
+            "content": "Quando Faust disse para abaixar o tom de minha voz, o clima ficou ainda mais pesado..."
+        },
+        {
+            "id": 109,
+            "model": "파우스트",
+            "content": "... O Gesellschaft... Não, a conexão de Faust com ele foi cortada."
+        },
+        {
+            "id": 110,
+            "model": "단테",
+            "content": "<... Como?>"
+        },
+        {
+            "id": 111,
+            "model": "파우스트",
+            "content": "Eu... Não estou em condições para acessar o conhecimento de Faust."
+        },
+        {
+            "id": 112,
+            "content": "E foi assim que, o meu mau pressentimento foi confirmado."
+        }
+    ]
+}

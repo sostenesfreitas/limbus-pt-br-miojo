@@ -1,0 +1,471 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "content": "Heathcliff, assumindo a vontade de Hohenheim, parecia querer mesmo aproveitar, sem deixar nada, o temperamento que ele tem."
+        },
+        {
+            "id": 1,
+            "model": "후디히스",
+            "content": "Ei! Todos, fiquem na fila direito. Em fila única!"
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "Mas o senhor Heathcliff não vai fazer o exame junto com a gente também?"
+        },
+        {
+            "id": 3,
+            "model": "후디히스",
+            "content": "I-isso é verdade, mas... eu sou o assistente!"
+        },
+        {
+            "id": 4,
+            "model": "이스마엘",
+            "content": "Desde quando você está de óculos?"
+        },
+        {
+            "id": 5,
+            "model": "호엔하임",
+            "content": "É um dos requisitos básicos de um pesquisador."
+        },
+        {
+            "id": 6,
+            "model": "호엔하임",
+            "content": "Em especial, ajeitando os óculos assim, dá para criar um clima de quem tem um pouco mais de cultura acadêmica e intelectual."
+        },
+        {
+            "id": 7,
+            "model": "마튼",
+            "content": "É o mesmo princípio de, mexendo na armação dos óculos enquanto se pensa 'o que será bom comer hoje no almoço?', parecer estar refletindo sobre algo de um nível mais elevado."
+        },
+        {
+            "id": 8,
+            "model": "후디히스",
+            "content": "Ei, se não quer arranjar uma coisa cansativa para os dois lados, apaga o cigarro."
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "content": "Faz tempo que não se ouvia um leitão grunhindo."
+        },
+        {
+            "id": 10,
+            "model": "후디히스",
+            "content": "Eita, quando eu digo pra apagar, apaga!!!!"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Inesperadamente, isso é até útil…?>"
+        },
+        {
+            "id": 12,
+            "model": "호엔하임",
+            "content": "Hum... só agora é que dá, a custo, para realizar o teste."
+        },
+        {
+            "id": 13,
+            "model": "알리사",
+            "content": "O ponto central deste teste é..."
+        },
+        {
+            "id": 14,
+            "model": "알리사",
+            "content": "...o quanto a capacidade física de agora se diferencia da de antes do ingresso."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Hum, então quer dizer o quanto a gente cresceu em relação a antes do ingresso...>"
+        },
+        {
+            "id": 16,
+            "content": "Embora fosse uma deixa que eu lancei já sabendo que seria assim, 'crescimento' era uma palavra suficiente para fazer os Pecadores murmurarem."
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "Eu, sabe, Gerente. Eu posso me orgulhar de viver carregando sempre comigo a palavra 'crescimento'."
+        },
+        {
+            "id": 18,
+            "model": "오티스",
+            "content": "E assim, agora eu fiquei capaz de brandir contra o adversário a vara das críticas de modo mais ríspido e afiado do que antes."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<É isso que se chama de crescimento?>"
+        },
+        {
+            "id": 20,
+            "model": "이상",
+            "content": "Mm..."
+        },
+        {
+            "id": 21,
+            "model": "이상",
+            "content": "Eu, parece, aprendi a ceder um pouco mais o lugar do pensamento."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "Por exemplo, antes eu apenas era corroído pelo pensamento, atribuindo sentido a um pouco mais de coisas, mas..."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "...agora eu venho vivendo aceitando um pouco mais."
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Ooh…>"
+        },
+        {
+            "id": 25,
+            "model": "이상",
+            "content": "E assim, às vezes... eu acabei passando a pensar um pouco mais à vontade."
+        },
+        {
+            "id": 26,
+            "model": "이상",
+            "content": "Conforme... o escoar. Não é bom?"
+        },
+        {
+            "id": 27,
+            "model": "단테",
+            "content": "<Ah... isso... é, também pode haver um crescimento desses...>"
+        },
+        {
+            "id": 28,
+            "model": "싱클레어",
+            "content": "Eu… passei a ser menos seletivo com a comida do que antes."
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "A força de preensão também parece ter aumentado bastante…"
+        },
+        {
+            "id": 30,
+            "model": "로쟈",
+            "content": "Ooh~"
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "Olha aqui. Parece que até criou um pouco de calo na palma da mão."
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Bom, mesmo sem se esforçar de propósito para provar assim..."
+        },
+        {
+            "id": 33,
+            "model": "이스마엘",
+            "content": "...é um fato sem dúvida que os inimigos que a gente vem enfrentando estão ficando cada vez mais fortes."
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Pois o nosso 1 ano há de ter sido diferente do 1 ano dos outros."
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Foi 1 ano cruel, mas, ao mesmo tempo, significativo."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<Hum, de todo modo, o tempo inevitavelmente acompanha o que se chama de crescimento, então...>"
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "Pois é, e a gente também ficou um pouco mais grudada um no outro, e tal."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "'Grude', é um bom vocábulo, esse."
+        },
+        {
+            "id": 39,
+            "model": "호엔하임",
+            "content": "Aah. Como, junto com essa conversa calorosa, parece que está surgindo algum mal-entendido, eu vou me intrometer."
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "content": "Falando primeiro a conclusão..."
+        },
+        {
+            "id": 41,
+            "model": "호엔하임",
+            "content": "...todos os atributos de vocês, no mesmo instante do ingresso, foram rebaixados. É um nivelamento por baixo."
+        },
+        {
+            "id": 42,
+            "model": "후디히스",
+            "content": "Nivelamento… por baixo?"
+        },
+        {
+            "id": 43,
+            "model": "호엔하임",
+            "content": "Explicando de modo simples, todos ficaram mais ou menos iguais ao... isso, ao Pecador nº 11 aqui presente."
+        },
+        {
+            "id": 44,
+            "model": "싱클레어",
+            "content": "...Por que é que justo eu sou o objeto dessa comparação?"
+        },
+        {
+            "id": 45,
+            "model": "호엔하임",
+            "content": "Ah, se aquele 'grudado' que você disse agora há pouco por acaso significava isto, parece que foi uma escolha de palavra nada má."
+        },
+        {
+            "id": 46,
+            "model": "후디히스",
+            "content": "Ei, retire o que disse."
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "…Retirado."
+        },
+        {
+            "id": 48,
+            "model": "싱클레어",
+            "content": "Para dizer isso, quer dizer que o senhor Heathcliff também, no fim, é do mesmo nível que eu?"
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "Uau, eu acho que ouvi agora há pouco o som do nosso Sin perdendo o medo de vez..."
+        },
+        {
+            "id": 50,
+            "model": "후디히스",
+            "content": "Seu… des…"
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "Espera! Eu vou ter de perguntar o motivo."
+        },
+        {
+            "id": 52,
+            "model": "이스마엘",
+            "content": "O motivo de ter havido um nivelamento por baixo é o Ramo Dourado? Aquela corrente que nos ligava na hora em que a gente fez o contrato com o senhor Dante..."
+        },
+        {
+            "id": 53,
+            "model": "호엔하임",
+            "content": "Isso, um dos poderes que o Ramo Dourado tem é o poder de ligar."
+        },
+        {
+            "id": 54,
+            "model": "호엔하임",
+            "content": "De modo igualitário, equânime, constante."
+        },
+        {
+            "id": 55,
+            "model": "호엔하임",
+            "content": "mediocre."
+        },
+        {
+            "id": 56,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 57,
+            "content": "...Tenho a sensação de que o olhar de Hohenheim se crava de modo enviesado."
+        },
+        {
+            "id": 58,
+            "model": "호엔하임",
+            "content": "Considera-se também que é de uma linhagem parecida com a força de contenção Qliphoth que se aproveitava na Lobotomy Corporation."
+        },
+        {
+            "id": 59,
+            "model": "오티스",
+            "content": "Ainda bem que se esclareceu. Então, foi por isso que esta Outis, no mesmo instante do ingresso, ficou frágil deste jeito."
+        },
+        {
+            "id": 60,
+            "model": "돈키호테",
+            "content": "Quer dizer que você sabia?"
+        },
+        {
+            "id": 61,
+            "model": "오티스",
+            "content": "Sim! Se fosse como o normal, eu poderia, em poucos segundos, pôr todos vocês fora de combate."
+        },
+        {
+            "id": 62,
+            "model": "이스마엘",
+            "content": "E por que é que você poria a gente fora de combate...?"
+        },
+        {
+            "id": 63,
+            "model": "그레고르",
+            "content": "Francamente, lá porque você não consegue provar, não dá para cuspir qualquer coisa assim."
+        },
+        {
+            "id": 64,
+            "model": "그레고르",
+            "content": "Ha... eu achava que este braço, que matava várias pessoas a cada golpe, tinha se aquietado depois do ingresso. Não era um problema do espírito, então..."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<Gregor…>"
+        },
+        {
+            "id": 66,
+            "model": "후디히스",
+            "content": "De que adianta tagarelar agora! No fim, quer dizer que a gente ficou igual àquele ali."
+        },
+        {
+            "id": 67,
+            "model": "싱클레어",
+            "content": "Até criou… calo…"
+        },
+        {
+            "id": 68,
+            "model": "이상",
+            "content": "M-mas, ainda assim... com certeza há de haver coisas que foram positivas graças ao poder do Ramo Dourado."
+        },
+        {
+            "id": 69,
+            "content": "Em meio a um clima sensível de 'que alguém ouse dar bobeira', Yi Sang abriu a pedra fundamental com cautela."
+        },
+        {
+            "id": 70,
+            "model": "이상",
+            "content": "Termos conseguido repelir a baleia pálida no lago também não foi graças ao Ramo Dourado estar cravado no coração dela?"
+        },
+        {
+            "id": 71,
+            "model": "로쟈",
+            "content": "O quê, era isso?"
+        },
+        {
+            "id": 72,
+            "model": "파우스트",
+            "content": "Isso mesmo. Se aquela baleia pálida tivesse o poder original, pode ser que nós estivéssemos travando uma luta de vida ou morte no ventre da baleia até agora."
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "E, além disso, também não se pode considerar que foi um rebaixamento completamente igualitário e idêntico."
+        },
+        {
+            "id": 74,
+            "model": "로쟈",
+            "content": "Pois é... se a gente fosse do mesmo nível que o Sin, não dava para fazer o Hees ficar quieto com um peteleco. E olha que isso é bem cômodo."
+        },
+        {
+            "id": 75,
+            "model": "후디히스",
+            "content": "……."
+        },
+        {
+            "id": 76,
+            "model": "파우스트",
+            "content": "Continuando a fala, alguns atributos também não são suprimidos nem pelo poder do Ramo Dourado."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Ou seja, nos atributos considerados a 'individualidade' de cada um."
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "Aah~ então foi por isso que a habilidade com a espada que a senhora Ryoshu mostrou ao senhor Bumble, na fábrica da Firma T, foi tão espetacular."
+        },
+        {
+            "id": 79,
+            "model": "료슈",
+            "content": "Hunf… eu não vou me alongar."
+        },
+        {
+            "id": 80,
+            "model": "단테",
+            "content": "<Você nunca se alongou mesmo.>"
+        },
+        {
+            "id": 81,
+            "model": "호엔하임",
+            "content": "Ainda assim, se vocês ficaram mais fortes depois do ingresso, essa média também há de ter subido uma certa quantia. Medir esse tanto é um dos propósitos deste teste."
+        },
+        {
+            "id": 82,
+            "model": "이스마엘",
+            "content": "Com o que está previsto conduzir o teste? Em certas zonas havia até uma máquina que, dizem, basta escanear a pessoa rapidamente para apurar a maior parte do estado de saúde."
+        },
+        {
+            "id": 83,
+            "model": "호엔하임",
+            "content": "Há dezenas, centenas de métodos de apurar os atributos mesmo sem tomar emprestado o poder de uma máquina. Em especial, há um método que cai perfeitamente para vocês."
+        },
+        {
+            "id": 84,
+            "model": "단테",
+            "content": "<Um método que serve à perfeição…?>"
+        },
+        {
+            "id": 85,
+            "model": "호엔하임",
+            "content": "Mesmo em meio à correria, eu, espremendo tempo especialmente, deixei isto concebido sob medida para os Pecadores da LCB."
+        },
+        {
+            "id": 86,
+            "model": "알리사",
+            "content": "Houve muito esforço."
+        },
+        {
+            "id": 87,
+            "model": "그레고르",
+            "content": "Sob medida para os Pecadores... isso não soa lá muito como uma coisa boa de se ouvir..."
+        },
+        {
+            "id": 88,
+            "model": "호엔하임",
+            "content": "We…"
+        },
+        {
+            "id": 89,
+            "model": "호엔하임",
+            "content": "Eu vou aproveitar os Tipo-Pecado e as Distorções."
+        },
+        {
+            "id": 90,
+            "model": "로쟈",
+            "content": "Que isso... eu achava que ele ia dizer uma coisa e tanto, e meio que esfriou o ânimo..."
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "Pois é... eu achava que ele tinha concebido um método mais inovador."
+        },
+        {
+            "id": 92,
+            "model": "호엔하임",
+            "content": "… Assistant?"
+        },
+        {
+            "id": 93,
+            "model": "후디히스",
+            "content": "Ei, todos, silêncio! Sem mais resmungo, entrem!"
+        }
+    ]
+}

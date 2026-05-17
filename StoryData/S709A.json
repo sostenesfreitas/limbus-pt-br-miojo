@@ -1,0 +1,60 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Portão Principal da La Manchaland",
+            "model": "라만차내레이션",
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "O lugar onde desabrocham sorrisos felizes~ um espaço livre, para sonhar junto com os Sanguinários. Bem-vindos à La Manchaland~"
+        },
+        {
+            "id": 1,
+            "model": "라만차내레이션",
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "A entrada será encerrada daqui a cinco minutos, então, visitantes, mantenham a ordem e entrem por turnos, por favor. A entrada por onde vão passar fica à esquerda, atrás. A saída também fica à esquerda, atrás~"
+        },
+        {
+            "id": 2,
+            "model": "라만차내레이션",
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Depois do encerramento, será difícil entrar, então tragam sem falta a sua bolsa de sangue e aguardem na entrada, sem se atrasar~"
+        },
+        {
+            "id": 3,
+            "model": "한울",
+            "content": "Tomara que haja, daqui a algumas horas, alguns que se possam tornar a ver."
+        },
+        {
+            "id": 4,
+            "content": "À parte do comunicado sereno, o tom do Solucionador era terrivelmente frio."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "She really likes making things ominous, doesn't she..."
+        },
+        {
+            "id": 6,
+            "content": "Vergílio apenas nos despediu com um aceno de cabeça."
+        },
+        {
+            "id": 7,
+            "content": "Pelo contrário, aquela atitude indiferente, de um modo estranho, parecia até... tranquilizadora."
+        },
+        {
+            "id": 8,
+            "content": "E, antes de se fechar, a última coisa que me entrou nos olhos foi..."
+        },
+        {
+            "id": 9,
+            "content": "...aqueles que, como quem não queria perder uma só polegada, fitavam a La Manchaland que se fechava sem desviar nem um pouco os olhos..."
+        },
+        {
+            "id": 10,
+            "content": "...o olhar de assombro infinito de todos os funcionários da P Corp."
+        }
+    ]
+}

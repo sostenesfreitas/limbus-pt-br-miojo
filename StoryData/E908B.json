@@ -1,0 +1,1041 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corridor of the Middle Nursefather",
+            "model": "앨런",
+            "content": "Com isto, o trabalho do corredor do Dedo Médio também terminou."
+        },
+        {
+            "id": 1,
+            "model": "앨런",
+            "content": "Graças à informação, o trabalho de seleção também teve um efeito de redução do tempo gasto de cerca de 80%, e, como vocês ainda verificam em pessoa, é de fato cômodo."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "É graças à condução excelente do Gerente."
+        },
+        {
+            "id": 3,
+            "model": "앨런",
+            "content": "O próximo é o corredor do Polegar… mas aqui restou mais material do que se pensava, então parece que basta vocês verificarem só algumas portas que ficam mais embaixo."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Material…?>"
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "O Gerente diz que está curioso sobre que tipo de coisa é o material."
+        },
+        {
+            "id": 6,
+            "model": "앨런",
+            "content": "Ah. Havia um maço de papéis onde estava anotado quem veio do lado do Polegar, que ordens houve, coisas assim. Vinha sendo redigido até recentemente."
+        },
+        {
+            "id": 7,
+            "model": "앨런",
+            "content": "Pelo conteúdo não era nada de mais, mas dava para estimar a região aproximada à qual a porta se liga."
+        },
+        {
+            "id": 8,
+            "model": "료슈",
+            "content": "…São os pedacinhos de papel que aquela sujeita, a Valentina, juntou, então."
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "content": "E pensar que ela continuava com aquele ato sem sentido. Ha."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Ato sem sentido?>"
+        },
+        {
+            "id": 11,
+            "model": "료슈2",
+            "content": "Ufa… aquele papel escrito ali é o vestígio do esperneio de ver se havia uma corda em que se agarrar."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Há de ser um dos inúmeros bilhetes de reserva daquele sujeito."
+        },
+        {
+            "id": 13,
+            "model": "앨런",
+            "content": "As portas que precisam de serviço eu marquei com drones. São umas três ou quatro, mas, como o serviço que eu tenho de tratar aqui é um pouco demais…"
+        },
+        {
+            "id": 14,
+            "content": "Eu vinha sentindo isso de um tempo para cá…"
+        },
+        {
+            "id": 15,
+            "content": "Allen, se não é uma conversa necessária ao serviço, parece desviar do assunto com naturalidade, como quem não ouviu."
+        },
+        {
+            "id": 16,
+            "content": "Recordando a conversa que eu tive com Cesara na Firma P, aquela figura sem curiosidade talvez seja… uma espécie de virtude para se viver como funcionário de empresa nesta Cidade."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Sim. Depois de passar um tempo qualquer, eu irei procurá-lo."
+        },
+        {
+            "id": 18,
+            "model": "앨런",
+            "content": "Obrigado. Então…"
+        },
+        {
+            "id": 19,
+            "content": "Depois de Allen ir até os outros funcionários da Wayfarer, nós também, devagar, caminhamos seguindo o corredor sempre para a esquerda."
+        },
+        {
+            "id": 20,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "model": "단테",
+            "content": "<Quem está aí? Será que de novo o Anelar…>"
+        },
+        {
+            "id": 21,
+            "model": "오티스",
+            "content": "A julgar pelo contorno que se identifica… não parece ser o Anelar."
+        },
+        {
+            "id": 22,
+            "model": "뉴키라",
+            "content": "Mas que droga. Não dá pra ver direito, então sai da frente."
+        },
+        {
+            "id": 23,
+            "model": "뉴키라",
+            "content": "Ã… o detetive… e um tio que eu não conheço… e aquele sujeito sem graça, parece que é só isso?"
+        },
+        {
+            "id": 24,
+            "content": "Moses, Gregor e Hong Lu… é?"
+        },
+        {
+            "id": 25,
+            "content": "Quando nos aproximamos um pouco mais, o som da conversa começou a se ouvir com relativa nitidez."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "A cabeça está mais ou menos?"
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "content": "Haha… está intacta, ora. Eu só caí por um instante, viu?"
+        },
+        {
+            "id": 28,
+            "model": "모제스4",
+            "content": "…Com esta, já é a terceira vez."
+        },
+        {
+            "id": 29,
+            "model": "모제스4",
+            "content": "Quando a consulta terminar, é melhor avisar o Gerente."
+        },
+        {
+            "id": 30,
+            "content": "…Olhando bem, parece que num dos lados da cabeça de Hong Lu nasceu até um galo."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "Enfim… aquilo… você sabe, né? Se por acaso…"
+        },
+        {
+            "id": 32,
+            "model": "홍루",
+            "content": "O senhor se preocupa demais, senhor Gregor."
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "O senhor ouviu bem a explicação, e fez força e assistiu ao vídeo todo. Desta vez também vai dar tudo certo."
+        },
+        {
+            "id": 34,
+            "model": "홍루",
+            "content": "Olhe agora. Estamos no campo e o braço do senhor Gregor está intacto, ora."
+        },
+        {
+            "id": 35,
+            "model": "모제스4",
+            "content": "Ufa… um medo que fica só lá longe costuma crescer com facilidade."
+        },
+        {
+            "id": 36,
+            "model": "모제스4",
+            "content": "Eu sei o que você teme, mas nem um indício desses… eu vejo em você."
+        },
+        {
+            "id": 37,
+            "model": "모제스4",
+            "content": "Portanto… simplesmente, conforme te vier à cabeça, ponha para fora da boca o que te ocorrer neste lugar."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "Eu vi o vídeo, mas ainda não consigo acreditar. Não, talvez seja que eu não queira acreditar."
+        },
+        {
+            "id": 40,
+            "model": "그레고르",
+            "content": "Aquele cara, o Donquixote… contanto que o sapato não saia, não tem problema, mas eu… não é o caso, ora."
+        },
+        {
+            "id": 41,
+            "model": "뉴키라",
+            "content": "…Isto parece uma conversa bem profunda pra caramba."
+        },
+        {
+            "id": 42,
+            "model": "뉴키라",
+            "content": "Tudo bem a gente ouvir?"
+        },
+        {
+            "id": 43,
+            "model": "단테",
+            "content": "<Hum…>"
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "…É que aquele tio, por mais inesperado que pareça, nem morto conta a história dele em detalhe. Numa hora destas… não é melhor ouvir um pouco?"
+        },
+        {
+            "id": 45,
+            "model": "료슈",
+            "content": "Eu não vejo razão para deixar passar uma his.in.te.res.san.te dessas."
+        },
+        {
+            "id": 46,
+            "content": "Kira, que faz uma expressão de repulsa diante da abreviação de Ryōshū, e Donquixote, que dá uma interpretação errada."
+        },
+        {
+            "id": 47,
+            "content": "Entre eles, Outis, sem nem responder ao que eu disse, ouve a história de Moses e Gregor com uma expressão indecifrável, como que enfeitiçada."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<…Por ora, vamos continuar ouvindo.>"
+        },
+        {
+            "id": 49,
+            "model": "그레고르",
+            "content": "Aquele cara, o Outis, estava certo no que disse."
+        },
+        {
+            "id": 50,
+            "model": "그레고르",
+            "content": "A guerra… ainda não tinha terminado. Enquanto este maldito presente… estiver no meu braço."
+        },
+        {
+            "id": 51,
+            "model": "모제스4",
+            "content": "…São palavras feito espinho."
+        },
+        {
+            "id": 52,
+            "model": "모제스4",
+            "content": "Com aquele braço, até agora você há de ter lutado bem. Aquela razão, que você não conseguiu dizer quando viu o vídeo… eu quero perguntar se agora você consegue dizer."
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Ufa…"
+        },
+        {
+            "id": 54,
+            "model": "그레고르",
+            "content": "…Lutar com o adversário com quem se deve lutar, eu não me importo. Eu… não sou um homem bom o bastante para me preocupar até com esse tipo de gente."
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Mas matar um companheiro é outra questão, não é? E ainda por cima não é nem da minha vontade. Por mais que eu me cuide e tome cuidado… não dá para impedir; é só… uma doença que não se sabe quando vai estourar, isto."
+        },
+        {
+            "id": 56,
+            "content": "Mesmo Heathcliff, que costumava se adiantar e brigar toda vez que alguém falava algo que parecia se autodepreciar…"
+        },
+        {
+            "id": 57,
+            "content": "talvez, quanto ao estado de Gregor, esteja de coração complicado, pois apenas observa de boca bem fechada."
+        },
+        {
+            "id": 58,
+            "content": "De fato… não me ocorre nenhum meio de impedir aquela transformação de Gregor."
+        },
+        {
+            "id": 59,
+            "content": "Na nossa jornada, nós vamos encontrar inúmeras pessoas, e… um dia…"
+        },
+        {
+            "id": 60,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 61,
+            "place": "Fathoms of Ego - La Mancha Eye, Past",
+            "model": "오티스",
+            "content": "Mesmo que os Pecadores… tenham um passado qualquer."
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Ainda que tenham matado centenas, milhares, dezenas de milhares de pessoas inocentes… o senhor os acolheria?"
+        },
+        {
+            "id": 63,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "content": "Quanto àquela guerra também, há de chegar o dia de encarar uma história mais profunda e sombria."
+        },
+        {
+            "id": 64,
+            "content": "Naquela hora, dentro daquele ambiente, será que Gregor vai conseguir aguentar."
+        },
+        {
+            "id": 65,
+            "model": "홍루",
+            "content": "Quer dizer que o senhor passou a ter medo de nos ferir."
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "content": "Bom, no começo… bom, eu pensava que não me importava nem de morrer."
+        },
+        {
+            "id": 67,
+            "model": "홍루",
+            "content": "Isso… é uma fala um pouco triste, viu?"
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "content": "Você sabe, senhor Hong Lu. Sinceramente, a gente não começou numa relação lá muito boa."
+        },
+        {
+            "id": 69,
+            "model": "그레고르",
+            "content": "Agora… eu te considero um companheiro de armas. E o motivo de, mesmo assim, eu estar bem…"
+        },
+        {
+            "id": 70,
+            "model": "그레고르",
+            "content": "há de ser porque eu tinha confiança demais no meu eu, que ficou mediano."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "Quando eu soube que, por mais que eu brandisse este braço, eu não conseguia matar com facilidade nem um simples membro de organização de beco… eu fiquei um pouco aliviado."
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "content": "Este meu braço, que trespassou o coração de inúmeras pessoas na Guerra da Fumaça…"
+        },
+        {
+            "id": 73,
+            "model": "그레고르",
+            "content": "Quando o senhor Hohenheim disse que não dava para mensurar, sinceramente eu fiquei um pouco esperançoso."
+        },
+        {
+            "id": 74,
+            "place": -1,
+            "model": "그레고르",
+            "content": "Impossível de mensurar. Em tese… poder ficar mais fraco do que o senhor Yi Sang, eu pensei: que coisa… não seria uma vida decente?"
+        },
+        {
+            "id": 75,
+            "model": "그레고르",
+            "content": "Mas, no fim, estourou para o lado ruim."
+        },
+        {
+            "id": 76,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "model": "그레고르",
+            "content": "E, depois disso… eu não consegui mais lutar de modo algum. Sem saber quando, e de que jeito, este medo vai me devorar e o maldito presente vai mostrar a cara."
+        },
+        {
+            "id": 77,
+            "model": "모제스4",
+            "content": "……."
+        },
+        {
+            "id": 78,
+            "model": "모제스4",
+            "content": "Aquele medo não há de ter surgido agora."
+        },
+        {
+            "id": 79,
+            "model": "모제스4",
+            "content": "Antes, como você aguentava?"
+        },
+        {
+            "id": 80,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 81,
+            "model": "그레고르",
+            "content": "Com o pensamento de que quem está vivo tem de viver, eu a custo me livrava dele."
+        },
+        {
+            "id": 82,
+            "model": "그레고르",
+            "content": "Hã. Ouvindo isso, dá a sensação de eu ter voltado a alguns anos atrás. Essas memórias ressuscitam tão vívidas."
+        },
+        {
+            "id": 83,
+            "model": "그레고르",
+            "content": "…Aff, no fim, antes de estourar é melhor eu mesmo descer do…"
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "Esse não é um bom método, senhor Gregor."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Mesmo que o senhor Gregor desça do ônibus, o senhor Dante e nós… vamos nos chocar inúmeras vezes com situações perigosas."
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "E nem por isso o senhor Gregor, descido do ônibus, vai poder viver com o coração tranquilo."
+        },
+        {
+            "id": 87,
+            "model": "홍루",
+            "content": "É que nós… graças a o senhor Dante arcar com a dor, conseguimos ressuscitar mesmo que haja um acidente, mas a maioria das pessoas que vivem na Cidade não há de poder fazer isso."
+        },
+        {
+            "id": 88,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 89,
+            "model": "그레고르",
+            "content": "Hã-hã. Chega a vir o dia de eu ouvir uma fala destas de você."
+        },
+        {
+            "id": 90,
+            "model": "그레고르",
+            "content": "Pois é. Mesmo que se busque uma solução, é melhor buscar aqui. É que na Cidade… quase não há um lugar tão cheio de humanidade quanto este."
+        },
+        {
+            "id": 91,
+            "model": "그레고르",
+            "content": "Esta coisa de consulta, é meio constrangedor, sabe."
+        },
+        {
+            "id": 92,
+            "model": "그레고르",
+            "content": "É que eu não… também não tive uma experiência tão terrível quanto a do senhor Hong Lu…"
+        },
+        {
+            "id": 93,
+            "model": "그레고르",
+            "content": "Sinceramente… eu acho que qualquer pessoa que participou da guerra… teve uma experiência parecida com a minha. O senhor Moses, o senhor Outis, e até aquele sujeito, a Valentina."
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "Não há como atribuir um grau à desgraça por que se passou."
+        },
+        {
+            "id": 95,
+            "model": "홍루",
+            "content": "Ao contrário de mim, que sem parar desviava o olhar e fugia, o senhor Gregor… eu acho que era alguém que, mesmo fugindo, sem parar parava os passos e olhava para trás."
+        },
+        {
+            "id": 96,
+            "model": "홍루",
+            "content": "Tanto quanto os anos que eu não consegui encarar, os anos que o senhor Gregor teve de passar à deriva também hão de ter sido uma desgraça funda, sem fim à vista, eu acho."
+        },
+        {
+            "id": 97,
+            "model": "모제스4",
+            "content": "Ufa… na medida em que as experiências de cada um são diferentes, a desgraça também não tem como não ser diferente."
+        },
+        {
+            "id": 98,
+            "model": "모제스4",
+            "content": "Quanto a um ponto em comum, no máximo, há de ser carregar pela vida uma sequela que não vai se apagar por muito tempo."
+        },
+        {
+            "id": 99,
+            "model": "그레고르",
+            "content": "…Você também tem uma?"
+        },
+        {
+            "id": 100,
+            "model": "모제스4",
+            "content": "Eu… ainda detesto barulho, e detesto gente que fala muito."
+        },
+        {
+            "id": 101,
+            "model": "모제스4",
+            "content": "Todos aqueles sons parecem o som da guerra, parecem um grito de quem me amaldiçoa… há de ser porque sangrou no meu coração."
+        },
+        {
+            "id": 102,
+            "model": "홍루",
+            "content": "Hum. Mas o senhor Moses não gosta do senhor Ezra?"
+        },
+        {
+            "id": 103,
+            "model": "모제스4",
+            "content": "…Eu tagarelei demais."
+        },
+        {
+            "id": 104,
+            "model": "모제스4",
+            "content": "Mudando de assunto…"
+        },
+        {
+            "id": 105,
+            "model": "모제스4",
+            "content": "A esta altura vocês já devem ter ouvido o bastante, então não é melhor saírem de uma vez?"
+        },
+        {
+            "id": 106,
+            "model": "뉴키라",
+            "content": "O quê. Você sabia."
+        },
+        {
+            "id": 107,
+            "model": "단테",
+            "content": "<Ah… eu meio que tinha de dizer alguma coisa, porque a gente apareceu no meio… mas eu não peguei o momento certo…>"
+        },
+        {
+            "id": 108,
+            "model": "그레고르",
+            "content": "Não, bom… no fim era uma história que de qualquer modo eu teria de contar ao caro Gerente e a esses aí, então tudo bem, mas…"
+        },
+        {
+            "id": 109,
+            "model": "그레고르",
+            "content": "Aquela sujeita é…?"
+        },
+        {
+            "id": 110,
+            "model": "료슈",
+            "content": "É uma 'a.com.pro.'."
+        },
+        {
+            "id": 111,
+            "model": "홍루",
+            "content": "Ã… acordo provisório…?"
+        },
+        {
+            "id": 112,
+            "model": "료슈",
+            "content": "Não. Quer dizer que ela está em acompanhamento provisório."
+        },
+        {
+            "id": 113,
+            "model": "뉴키라",
+            "content": "…Ela está ajudando pra caramba, então não fica criticando à toa."
+        },
+        {
+            "id": 114,
+            "model": "홍루",
+            "content": "Hehe… conto com vocês, viu."
+        },
+        {
+            "id": 115,
+            "model": "모제스4",
+            "content": "Ufa… caiu bem na hora."
+        },
+        {
+            "id": 116,
+            "model": "모제스4",
+            "content": "Há pontos que eu conjeturo, mas não há pistas o bastante para se ter certeza. Por isso eu estava justamente para perguntar a quem sabe."
+        },
+        {
+            "id": 117,
+            "model": "모제스4",
+            "content": "Kira. Você sabe alguma coisa sobre a 'porta' à qual o Pai do Polegar tinha apego?"
+        },
+        {
+            "id": 118,
+            "model": "뉴키라",
+            "content": "Hã? Não sei, ué. É claro."
+        },
+        {
+            "id": 119,
+            "model": "히스클리프",
+            "content": "…'É claro', é?"
+        },
+        {
+            "id": 120,
+            "model": "뉴키라",
+            "content": "Aquela tia, eu nem vi tudo, né? De medo, eu nem cheguei a dirigir a palavra a ela."
+        },
+        {
+            "id": 121,
+            "model": "뉴키라",
+            "content": "Toda vez que ela via aquele sujeito, o Lucio, estava dando uma surra nele… era assustador pra caramba, eu falo."
+        },
+        {
+            "id": 122,
+            "model": "뉴키라",
+            "content": "Agora que penso, aquele sujeito, dizem que morreu lutando, é?"
+        },
+        {
+            "id": 123,
+            "model": "그레고르",
+            "content": "Ufa…"
+        },
+        {
+            "id": 124,
+            "model": "히스클리프",
+            "content": "Bom, ele lutou até o fim, com aquela de que tinha de pagar uma graça, sei lá."
+        },
+        {
+            "id": 125,
+            "model": "뉴키라",
+            "content": "Que coisa mais inesperada."
+        },
+        {
+            "id": 126,
+            "model": "뉴키라",
+            "content": "Sinceramente, falando com franqueza, eu achei que ele ia logo passar para o lado de vocês."
+        },
+        {
+            "id": 127,
+            "model": "히스클리프",
+            "content": "Hã? Aquele sujeito?"
+        },
+        {
+            "id": 128,
+            "model": "료슈",
+            "content": "Por que você pensou assim."
+        },
+        {
+            "id": 129,
+            "model": "뉴키라",
+            "content": "Olhando, dá pra sentir uma coisa, ora. É porque vocês não viram o olhar dele quando a tia não estava."
+        },
+        {
+            "id": 130,
+            "place": "Corridor of the Thumb Nursefather, Past",
+            "model": "엄지제자",
+            "content": "……."
+        },
+        {
+            "id": 131,
+            "model": "중지제자",
+            "content": "O quê? Vai querer apunhalar pelas costas?"
+        },
+        {
+            "id": 132,
+            "model": "엄지제자",
+            "content": "…! Você é…"
+        },
+        {
+            "id": 133,
+            "model": "중지제자",
+            "content": "Você treina pra caramba, mas a eficiência não é ruim demais? Olha aqui, neste mangá olha, brandir mais assim é que é…"
+        },
+        {
+            "id": 134,
+            "model": "엄지제자",
+            "content": "Isso é diferente do que o mestre me ensinou."
+        },
+        {
+            "id": 135,
+            "model": "엄지제자",
+            "content": "Para pagar a graça… no manual não pode haver nem um pingo de erro."
+        },
+        {
+            "id": 136,
+            "model": "중지제자",
+            "content": "Você nem gosta daquela tia, e ainda vai até esse ponto."
+        },
+        {
+            "id": 137,
+            "model": "엄지제자",
+            "content": "……."
+        },
+        {
+            "id": 138,
+            "model": "엄지제자",
+            "content": "Você também… não é igual a mim?"
+        },
+        {
+            "id": 139,
+            "model": "중지제자",
+            "content": "Q-que baboseira é essa. Eu gosto pra caramba do meu pai, viu?"
+        },
+        {
+            "id": 140,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "model": "뉴키라",
+            "content": "Antes de Yoshihide voltar para casa, eu achei mesmo que ia dar alguma encrenca."
+        },
+        {
+            "id": 141,
+            "model": "료슈",
+            "content": "Ha. Você falou em manual, mas, ainda assim, nesse ponto vocês se parecem."
+        },
+        {
+            "id": 142,
+            "model": "모제스4",
+            "content": "Hum. Como parece que deste lado ela não sabe… então, Pecadora Ryōshū."
+        },
+        {
+            "id": 143,
+            "model": "모제스4",
+            "content": "Eu pergunto torcendo para que, entre as memórias estilhaçadas, esta esteja encaixada… quando você era criança, você sabe de alguma 'porta' por onde o Pai do Polegar entrava e saía com frequência fora do comum, ou pela qual tinha apego?"
+        },
+        {
+            "id": 144,
+            "model": "료슈2",
+            "content": "Por que você pergunta isso a mim?"
+        },
+        {
+            "id": 145,
+            "model": "료슈",
+            "content": "…é o que eu queria dizer, mas, pois é… sem nem ser preciso o relógio encaixar os estilhaços… eu me lembro."
+        },
+        {
+            "id": 146,
+            "model": "료슈",
+            "content": "É aquela porta."
+        },
+        {
+            "id": 147,
+            "model": "료슈",
+            "content": "Aquela porta com pedaços de ferro pendurados em cachos…"
+        },
+        {
+            "id": 148,
+            "place": "Corridor of the Thumb Nursefather, Past",
+            "model": "엄지아비",
+            "content": "Ha, droga… eu achei que ia bater as botas…"
+        },
+        {
+            "id": 149,
+            "model": "엄지아비",
+            "content": "Mosquinhas… aqueles cachorros da Firma G, vão arrumar onde uma coisa maldita dessas."
+        },
+        {
+            "id": 150,
+            "model": "과거료슈2",
+            "content": "M-mamãe…? A senhora está bem…?"
+        },
+        {
+            "id": 151,
+            "model": "엄지아비",
+            "content": "Tíquete. Aos seus olhos isto parece estar bem?"
+        },
+        {
+            "id": 152,
+            "model": "과거료슈2",
+            "content": "N-não parece estar bem…"
+        },
+        {
+            "id": 153,
+            "model": "엄지아비",
+            "content": "Ha… estou bem. Não é possível que uma coisa dessas vá me deixar mal, ora?"
+        },
+        {
+            "id": 154,
+            "model": "엄지아비",
+            "content": "Droga, você, Tíquete, tinha de ter visto eu arrancar a cabeça daquele inseto da Firma G de uma só vez…"
+        },
+        {
+            "id": 155,
+            "model": "과거료슈2",
+            "content": "Mas, mamãe… a perna… está sangrando demais, viu…"
+        },
+        {
+            "id": 156,
+            "teller": "Radio",
+            "title": "???",
+            "content": "Tchhh…"
+        },
+        {
+            "id": 157,
+            "model": "엄지아비",
+            "content": "Francamente. Eu ia descansar um pouco, mas, sem mim, nada anda, ora."
+        },
+        {
+            "id": 158,
+            "model": "엄지아비",
+            "content": "O que é isto."
+        },
+        {
+            "id": 159,
+            "model": "과거료슈2",
+            "content": "U-uma faixa…"
+        },
+        {
+            "id": 160,
+            "model": "엄지아비",
+            "content": "…É de tirar o fôlego. De qualquer modo, ao voltar, mandam tratar com toda sorte de remédio caro… não, deixa pra lá."
+        },
+        {
+            "id": 161,
+            "model": "엄지아비",
+            "content": "Não é ruim, não."
+        },
+        {
+            "id": 162,
+            "model": "과거료슈2",
+            "content": "Mamãe…?"
+        },
+        {
+            "id": 163,
+            "model": "엄지아비",
+            "content": "Quando eu voltar eu ensino esgrima. Fica aí sem aprontar."
+        },
+        {
+            "id": 164,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "model": "모제스4",
+            "content": "…Foi na época em que ela participou da Guerra da Fumaça, então."
+        },
+        {
+            "id": 165,
+            "model": "료슈",
+            "content": "Pois é… foi quando ela estava bem cansada, indo e vindo do campo de batalha."
+        },
+        {
+            "id": 166,
+            "model": "료슈",
+            "content": "Mas aquele sujeito sorria toda vez. Não punha bebida na boca, e parou de bater."
+        },
+        {
+            "id": 167,
+            "model": "료슈",
+            "content": "De modo ridículo, como uma pessoa que esqueceu que tinha caído no atoleiro que é a Teia."
+        },
+        {
+            "id": 168,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 169,
+            "model": "료슈",
+            "content": "Bom, não durou muito tempo."
+        },
+        {
+            "id": 170,
+            "model": "료슈",
+            "content": "Há de ter sido a partir do dia em que, terminada a guerra, um sujeito chamado Consigliere do Polegar visitou como instrutor externo."
+        },
+        {
+            "id": 171,
+            "model": "료슈2",
+            "content": "Ela ficou dias e dias só entornando bebida."
+        },
+        {
+            "id": 172,
+            "model": "료슈2",
+            "content": "As surras também recomeçaram, e os xingamentos dirigidos a mim também aumentaram."
+        },
+        {
+            "id": 173,
+            "model": "료슈",
+            "content": "Era uma cena lamentável."
+        },
+        {
+            "id": 174,
+            "model": "그레고르",
+            "content": "Espera… eu, pois é, eu vá lá."
+        },
+        {
+            "id": 175,
+            "model": "그레고르",
+            "content": "Aquela sujeita, a Valentina… não era do lado que venceu? E ainda por cima era uma heroína de guerra, ora."
+        },
+        {
+            "id": 176,
+            "model": "모제스4",
+            "content": "……."
+        },
+        {
+            "id": 177,
+            "model": "모제스4",
+            "content": "Você já ouviu falar da regra de que quem participou da Guerra da Fumaça não pode residir nos Ninhos da Firma I e da Firma K?"
+        },
+        {
+            "id": 178,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 179,
+            "model": "모제스4",
+            "content": "Afora isso… aos participantes costumam estar presas, uma a uma, restrições bem sinistras. Quer seja vencedor, quer seja perdedor."
+        },
+        {
+            "id": 180,
+            "model": "단테",
+            "content": "<Tem… mais coisas enredadas por trás também.>"
+        },
+        {
+            "id": 181,
+            "model": "히스클리프",
+            "content": "Mas… se é assim… isso não quer dizer que o lugar ligado àquela porta dos fundos é uma das trincheiras que ficavam bem no meio do campo de batalha?"
+        },
+        {
+            "id": 182,
+            "model": "모제스4",
+            "content": "…Pois é, e eu vou fazer o Gregor abri-la em pessoa."
+        },
+        {
+            "id": 183,
+            "model": "그레고르",
+            "content": "Espera. Você está me mandando abrir isto?"
+        },
+        {
+            "id": 184,
+            "model": "모제스4",
+            "content": "Sim. Só tem sentido se for aberta com as suas próprias mãos."
+        },
+        {
+            "id": 185,
+            "model": "히스클리프",
+            "content": "…Isto ajuda mesmo no tratamento? Não é só aumentar memória ruim?"
+        },
+        {
+            "id": 186,
+            "model": "모제스4",
+            "content": "Gregor, não há meio de fazer alguma coisa com aquilo que está latente no braço daquele sujeito."
+        },
+        {
+            "id": 187,
+            "model": "모제스4",
+            "content": "Mas, para começar, a causa do problema não há de ser aquele braço."
+        },
+        {
+            "id": 188,
+            "model": "히스클리프",
+            "content": "Se não é isso a causa… o que é?"
+        },
+        {
+            "id": 189,
+            "model": "모제스4",
+            "content": "É o trauma. No fim, foi por recordar memórias terríveis e a mente desabar que o braço descontrolou, só isso."
+        },
+        {
+            "id": 190,
+            "model": "모제스4",
+            "content": "Não foi por o braço ter descontrolado que as memórias terríveis vieram à tona, não é?"
+        },
+        {
+            "id": 191,
+            "model": "모제스4",
+            "content": "Quando se compreender o fato de que a guerra terminou, o fato de que o sentido das palavras que alguém solta não está voltado para si mesmo…"
+        },
+        {
+            "id": 192,
+            "model": "모제스4",
+            "content": "da inquietação de não se saber quando aquele braço vai se transformar, será possível se libertar um pouco."
+        },
+        {
+            "id": 193,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 194,
+            "model": "파우스트",
+            "content": "Parece intransigente, mas é, na verdade, um dos princípios usados também na clínica de tratamento psíquico da Firma M."
+        },
+        {
+            "id": 195,
+            "model": "그레고르",
+            "content": "Ufa… pois é. Sendo assim…"
+        },
+        {
+            "id": 196,
+            "model": "그레고르",
+            "content": "Eu tenho de abrir."
+        },
+        {
+            "id": 197,
+            "content": "Gregor, que segurou a porta… em silêncio, regulando a respiração, fitou a porta de ferro."
+        },
+        {
+            "id": 198,
+            "content": "E, lentamente, com um braço, empurrou aquela porta."
+        },
+        {
+            "id": 199,
+            "place": -1,
+            "teller": "Tomah",
+            "title": "Reminisced Soldier",
+            "content": "Por que o senhor está fugindo? O senhor tem de erguer a bandeira da Firma G e lutar à frente!"
+        },
+        {
+            "id": 200,
+            "teller": "Kind Citizen",
+            "title": "Reminisced Person",
+            "content": "Eu não quero mo-morrer!"
+        },
+        {
+            "id": 201,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Grade 8 Fixer",
+            "content": "Hehe, ter um lugar para onde voltar é uma coisa boa."
+        },
+        {
+            "id": 202,
+            "model": "헤르만",
+            "teller": "Hermann",
+            "title": "???",
+            "content": "Ah, é mesmo. Parabéns pelo 15º aniversário!"
+        },
+        {
+            "id": 203,
+            "model": "엄지아비",
+            "content": "Mas, vendo isto, não dá para dizer que sou cruel."
+        },
+        {
+            "id": 204,
+            "model": "엄지아비",
+            "content": "Pois vocês, os insetos da Firma G, eram criaturas monstruosas que avançavam dilacerando as pessoas de modo muito mais cruel e comendo-as ali mesmo!"
+        },
+        {
+            "id": 205,
+            "place": "???",
+            "model": "그레고르",
+            "content": "Eu pensei que tinha despertado do sonho, mas…"
+        },
+        {
+            "id": 206,
+            "model": "그레고르",
+            "content": "eu ainda…"
+        }
+    ]
+}

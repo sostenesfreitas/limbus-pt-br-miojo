@@ -1,0 +1,855 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor do Anelar, no passado",
+            "model": "약지아비",
+            "content": "Então, o que acha, Yoshihide? O minimalismo é um conceito como este."
+        },
+        {
+            "id": 1,
+            "model": "약지아비",
+            "content": "É remover, com ousadia, o que é desnecessário, em prol da essência."
+        },
+        {
+            "id": 2,
+            "model": "약지아비",
+            "content": "Como você também sabe, o corpo humano traja ornamentos em excesso. Isso prejudica a pureza."
+        },
+        {
+            "id": 3,
+            "teller": "Vítima Aterrorizada",
+            "title": "Material de Arte do Anelar",
+            "content": "I'm scared..."
+        },
+        {
+            "id": 4,
+            "teller": "Vítima Aterrorizada",
+            "title": "Material de Arte do Anelar",
+            "content": "Pai... onde o senhor está..."
+        },
+        {
+            "id": 5,
+            "model": "과거료슈1",
+            "content": "Dad..."
+        },
+        {
+            "id": 6,
+            "model": "과거료슈1",
+            "content": "É cruel demais... eu não quero ver...!"
+        },
+        {
+            "id": 7,
+            "model": "과거료슈1",
+            "content": "......."
+        },
+        {
+            "id": 8,
+            "model": "약지아비",
+            "content": "Yoshihide, isso é por você se concentrar apenas no fenômeno. A dor que este material vai sentir é um instante, mas a forma que nós deixaremos é eterna."
+        },
+        {
+            "id": 9,
+            "model": "약지아비",
+            "content": "Vamos rever mais uma vez. Esta cisão de linhas retas e concisas é o estruturalismo primordial."
+        },
+        {
+            "id": 10,
+            "model": "약지아비",
+            "content": "Eu vou fazer de você crescer como uma discípula preciosa, com quem partilharei toda a arte daqui em diante; portanto, Yoshihide, você também precisa acompanhar bem todas as minhas aulas."
+        },
+        {
+            "id": 11,
+            "model": "약지아비",
+            "content": "Para revelar ao mundo a bela forma original do corpo... é preciso arrancar a pele e seccionar a coluna, mas... aí a composição se estabiliza em excesso."
+        },
+        {
+            "id": 12,
+            "model": "약지아비",
+            "content": "No fim, a arte é a repetição da escolha e da dor que se faz a cada instante... Yoshihide, aos seus olhos, esta obra... como ela se mostra?"
+        },
+        {
+            "id": 13,
+            "model": "과거료슈3",
+            "content": "I'd say my tastes lean closer to..."
+        },
+        {
+            "id": 14,
+            "model": "과거료슈3",
+            "content": "É o lado que tem a beleza do vazio. Não este abate de açougue."
+        },
+        {
+            "id": 15,
+            "model": "약지아비",
+            "content": "Abate de açougue, como assim, Yoshihide. Eu pretendia a intensidade do Fauvismo."
+        },
+        {
+            "id": 16,
+            "teller": "Vítima Agonizante",
+            "title": "Material de Arte do Anelar",
+            "content": "Hngh... vocês, acham que vão ficar impunes depois disto? Eu... eu...!"
+        },
+        {
+            "id": 17,
+            "model": "과거료슈3",
+            "content": "Her squealing's getting... real grating."
+        },
+        {
+            "id": 18,
+            "model": "과거료슈3",
+            "content": "I prefer my canvases quiet."
+        },
+        {
+            "id": 19,
+            "model": "약지아비",
+            "content": "Ah, agora nós chegamos a um nível em que podemos discutir o gosto um do outro."
+        },
+        {
+            "id": 20,
+            "model": "약지아비",
+            "content": "I'm so happy, Yoshihide..."
+        },
+        {
+            "id": 21,
+            "model": "약지아비",
+            "content": "Você, quem sabe, para além de assimilar todos os movimentos criados pelos outros Maestros do Anelar..."
+        },
+        {
+            "id": 22,
+            "model": "약지아비",
+            "content": "...poderá um dia criar um movimento só seu."
+        },
+        {
+            "id": 23,
+            "place": "Corredor do Anelar",
+            "model": "약지아비",
+            "content": "How I miss those days."
+        },
+        {
+            "id": 24,
+            "model": "알리사",
+            "content": "Nngh..."
+        },
+        {
+            "id": 25,
+            "model": "약지아비",
+            "content": "Embora houvesse a diferença subjetiva de pontos de vista que é o gosto... o senso estético que Yoshihide possui se consolidou por meio do conhecimento e a fez capaz de ver a beleza de modo estrutural."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘다침",
+            "content": "Alyssa...!"
+        },
+        {
+            "id": 27,
+            "model": "호엔하임2",
+            "content": "......."
+        },
+        {
+            "id": 28,
+            "model": "알리사",
+            "content": "Agh... nngh... It... hurts... so much..."
+        },
+        {
+            "id": 29,
+            "model": "약지아비",
+            "content": "Eu não gosto muito de pessoas que, deste jeito... deixam apenas a emoção ir à frente."
+        },
+        {
+            "id": 30,
+            "model": "약지아비",
+            "content": "Essas pessoas... na maioria das vezes têm ossos moles e uma constituição nada notável."
+        },
+        {
+            "id": 31,
+            "model": "약지아비",
+            "content": "As pessoas verdadeiramente fortes procuram um pouco mais a brecha, são ágeis e cultivam a paciência."
+        },
+        {
+            "id": 32,
+            "model": "약지아비",
+            "content": "Pois o corpo não mente."
+        },
+        {
+            "id": 33,
+            "model": "약지아비",
+            "content": "É uma figura ao mesmo tempo parecida e diferente dos meus bonecos. Só que a questão-chave é aquilo."
+        },
+        {
+            "id": 34,
+            "model": "싱클레어다침",
+            "content": "Se sente todos os sentidos... de forma íntegra..."
+        },
+        {
+            "id": 35,
+            "model": "약지아비",
+            "content": "Precisely."
+        },
+        {
+            "id": 36,
+            "model": "약지아비",
+            "content": "Pelo visto vocês já apreciaram uma obra parecida em algum outro lugar; eu admito. É clássica demais, sim."
+        },
+        {
+            "id": 37,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Ah..."
+        },
+        {
+            "id": 38,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Apologies, everyone. Let me continue."
+        },
+        {
+            "id": 39,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "...Pessoal, os bonecos-cadáver vão atacar de novo."
+        },
+        {
+            "id": 40,
+            "model": "이스마엘다침",
+            "content": "Dammit..."
+        },
+        {
+            "id": 41,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Senhor Sinclair, vamos... pensar só na operação."
+        },
+        {
+            "id": 42,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Don't look down, don't look away—look ahead."
+        },
+        {
+            "id": 43,
+            "model": "싱클레어다침",
+            "content": "B-but..."
+        },
+        {
+            "id": 44,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Eu sei que paisagem você está recordando. Na aldeia onde ecoava aquela canção natalina medonha... naquele lugar onde estava a Effie... eu também estava, lembra?"
+        },
+        {
+            "id": 45,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Mas... é um tempo que já passou. Acabou... isso. Como acabou, não dá para reverter, como o senhor Dante faz."
+        },
+        {
+            "id": 46,
+            "model": "약지제자2",
+            "content": "Senhor Maestro, posso dividir um pouco do material que sobrou com a Fáscia também? Ela vai ficar feliz."
+        },
+        {
+            "id": 47,
+            "model": "약지아비",
+            "content": "Pode sim, Albina."
+        },
+        {
+            "id": 48,
+            "model": "알리사",
+            "content": "Hnngh..."
+        },
+        {
+            "id": 49,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Agora chega... saia daquela aldeia em chamas, senhor Sinclair."
+        },
+        {
+            "id": 50,
+            "model": "9장소드다침2",
+            "teller": "Rádio",
+            "content": "Vamos deixá-la apenas como um passado doloroso."
+        },
+        {
+            "id": 51,
+            "model": "싱클레어다침",
+            "content": "The past..."
+        },
+        {
+            "id": 52,
+            "model": "약지아비",
+            "content": "Com o que foi que você sentiu raiva?"
+        },
+        {
+            "id": 53,
+            "model": "약지아비",
+            "content": "O que foi que apressou o fim da sua vida?"
+        },
+        {
+            "id": 54,
+            "model": "알리사",
+            "content": "Why..."
+        },
+        {
+            "id": 55,
+            "model": "알리사",
+            "content": "Se o objetivo era o Ramo Dourado... por quê..."
+        },
+        {
+            "id": 56,
+            "model": "알리사",
+            "content": "...por que vocês mataram todo mundo?"
+        },
+        {
+            "id": 57,
+            "model": "약지아비",
+            "content": "Ahá, é amor pelos companheiros. Até o motivo é feio."
+        },
+        {
+            "id": 58,
+            "model": "약지아비",
+            "content": "Perguntar o motivo de se caçar na teia equivale a perguntar o motivo da própria existência."
+        },
+        {
+            "id": 59,
+            "model": "약지아비",
+            "content": "Eu não me irrito. Irritar-se traz tédio. Portanto, a esta altura, eu vou tratar de concluir você."
+        },
+        {
+            "id": 60,
+            "model": "호엔하임2",
+            "content": "...É uma obra com significado; eu penso isso de coração."
+        },
+        {
+            "id": 61,
+            "model": "약지아비",
+            "content": "Pardon?"
+        },
+        {
+            "id": 62,
+            "model": "호엔하임2",
+            "content": "Mas, se for para dar um conselho..."
+        },
+        {
+            "id": 63,
+            "model": "호엔하임2",
+            "content": "...ocorre-me que algo deste nível é um tanto entediante."
+        },
+        {
+            "id": 64,
+            "model": "약지아비",
+            "content": "......."
+        },
+        {
+            "id": 65,
+            "model": "이스마엘다침",
+            "content": "Senhor Hohenheim, o que o senhor está dizendo... agora..."
+        },
+        {
+            "id": 66,
+            "model": "이스마엘다침",
+            "content": "......."
+        },
+        {
+            "id": 67,
+            "model": "이스마엘다침",
+            "content": "Conforme a situação, eu vou usar uma ampola para recuperar a senhora Faust, que perdeu a consciência. Pois o Gerente, agora... parece estar concentrado em outra coisa."
+        },
+        {
+            "id": 68,
+            "model": "호엔하임2",
+            "content": "Por mais que eu não pareça... eu já vi cadáveres até enjoar."
+        },
+        {
+            "id": 69,
+            "model": "호엔하임2",
+            "content": "Não é motivo de orgulho, mas eu passei alguns anos enfurnado numa empresa que estava abarrotada dessas coisas chamadas Anormalidades."
+        },
+        {
+            "id": 70,
+            "model": "호엔하임2",
+            "content": "Havia muitas delas que mataram funcionários de modo muito mais artístico e versado do que você."
+        },
+        {
+            "id": 71,
+            "model": "호엔하임2",
+            "content": "Let me think... ah, of course."
+        },
+        {
+            "id": 72,
+            "model": "호엔하임2",
+            "content": "Houve até uma que, fazendo-se em pessoa a protagonista de uma peça, completou um espetáculo que tocava e tanto as cordas do coração."
+        },
+        {
+            "id": 73,
+            "model": "호엔하임2",
+            "content": "Era o papel de cortar o pescoço do chefe de equipe a quem mais respeitava e, arrastando o tronco dele por duas horas, confessar os pecados a todos com quem se cruzava."
+        },
+        {
+            "id": 74,
+            "model": "호엔하임2",
+            "content": "Pensando que era uma sorte eu não ter uma boa amizade com aquele sujeito, eu assisti até o pano cair. Pois, uma vez começada a peça, não havia outro jeito senão assistir até ela terminar."
+        },
+        {
+            "id": 75,
+            "model": "약지아비",
+            "content": "Você... teve êxito em chamar o meu interesse."
+        },
+        {
+            "id": 76,
+            "model": "약지아비",
+            "content": "Então, sobre esta obra que eu estou concluindo... o senhor tem algo a dizer?"
+        },
+        {
+            "id": 77,
+            "model": "호엔하임2",
+            "content": "A few things."
+        },
+        {
+            "id": 78,
+            "model": "호엔하임2",
+            "content": "Você, agora, não está aproveitando o material de forma plena, não é?"
+        },
+        {
+            "id": 79,
+            "model": "호엔하임2",
+            "content": "Isto não passa de um relatório de autópsia desleixado, do tipo que se vê com frequência até no meu escritório."
+        },
+        {
+            "id": 80,
+            "model": "호엔하임2",
+            "content": "Pois é só abrir o corpo e enfileirar os órgãos, e mais nada. Havia umas quantas Anormalidades pouco criativas assim."
+        },
+        {
+            "id": 81,
+            "model": "약지아비",
+            "content": "......."
+        },
+        {
+            "id": 82,
+            "model": "호엔하임2",
+            "content": "E você também escoou sangue demais, sem necessidade. Assim, a tonalidade fica monótona demais."
+        },
+        {
+            "id": 83,
+            "model": "호엔하임2",
+            "content": "Quando observei com atenção as suas obras, o que mais me agradou foi o dueto contrastante das veias e das artérias. Pensei que era uma técnica que só quem compreende com precisão o princípio de funcionamento do corpo conseguiria exprimir."
+        },
+        {
+            "id": 84,
+            "model": "약지아비",
+            "content": "Ah...!"
+        },
+        {
+            "id": 85,
+            "model": "약지아비",
+            "content": "O senhor reparou nisso. Eu dediquei nada menos que mais de três dias a essa expressão. Mas ninguém percebeu. Nem mesmo a Albina!"
+        },
+        {
+            "id": 86,
+            "model": "호엔하임2",
+            "content": "Um artista anseia por compreensão. Uma obra feita em solidão não tem sentido algum."
+        },
+        {
+            "id": 87,
+            "model": "약지아비",
+            "content": "É verdade; eu também vim a este lugar com o pensamento de que poderia criar, e ver, obras de arte mais inovadoras e comoventes."
+        },
+        {
+            "id": 88,
+            "model": "약지아비",
+            "content": "Mas os outros, todos eles, sem conseguir tirar os olhos das próprias ambições vãs e do mundo mundano, não fizeram sequer menção de tentar compreender as minhas criações..."
+        },
+        {
+            "id": 89,
+            "model": "약지아비",
+            "content": "Em especial a Valentina — aquela pessoa lastimável, que vivia todo santo dia com o corpo inteiro encharcado de álcool, por várias vezes quase danificou as minhas obras."
+        },
+        {
+            "id": 90,
+            "model": "약지아비",
+            "content": "E a Lüen... aquela também é uma imitação que se disfarçou. Sendo apenas algo que a Ordem moldou imitando o destino de algum Solucionador de dentro da biblioteca..."
+        },
+        {
+            "id": 91,
+            "model": "약지아비",
+            "content": "Hehe, eu me empolguei e falei demais. Peço que me perdoe."
+        },
+        {
+            "id": 92,
+            "model": "약지아비",
+            "content": "Sendo assim, no seu caso... de que modo o senhor acrescentaria arte a esta obra?"
+        },
+        {
+            "id": 93,
+            "model": "호엔하임2",
+            "content": "...O feixe de nervos de uma pessoa, se for seco por vários dias num lugar onde não chega oxigênio, começa a emitir uma luz tênue."
+        },
+        {
+            "id": 94,
+            "model": "호엔하임2",
+            "content": "Provavelmente dá para aproveitá-lo até como um adorno nada ruim."
+        },
+        {
+            "id": 95,
+            "model": "호엔하임2",
+            "content": "E, em vez de uma exibição rasa de crueldade, que tal inserir uma narrativa só sua?"
+        },
+        {
+            "id": 96,
+            "model": "호엔하임2",
+            "content": "An example:"
+        },
+        {
+            "id": 97,
+            "model": "호엔하임2",
+            "content": "Eu não tenho atributos físicos notáveis, mas sou a pessoa que possui o cérebro mais genial desta empresa."
+        },
+        {
+            "id": 98,
+            "model": "호엔하임2",
+            "content": "Que tal, depois de abrir o meu crânio, fazer o acabamento com o cérebro à mostra? Pelo que ouvi dizer, o conhecimento acumulado é proporcional às circunvoluções do cérebro. Eu também tinha curiosidade de saber se é verdade."
+        },
+        {
+            "id": 99,
+            "model": "호엔하임2",
+            "content": "E, como você sabe, o cérebro, comparado aos outros órgãos, tem uma complexidade e uma dificuldade consideráveis. Pode ser um bom desafio para você."
+        },
+        {
+            "id": 100,
+            "model": "약지아비",
+            "content": "De fato, quanto mais difícil de manejar é o material... maior é o êxtase quando o domestico com as minhas mãos..."
+        },
+        {
+            "id": 101,
+            "model": "약지아비",
+            "content": "Vamos... aproxime-se de mim. E diga-me o seu nome."
+        },
+        {
+            "id": 102,
+            "model": "호엔하임2",
+            "content": "... Hohenheim."
+        },
+        {
+            "id": 103,
+            "model": "호엔하임2",
+            "content": "Nunca o meu nome me envergonhou tanto quanto agora."
+        },
+        {
+            "id": 104,
+            "model": "싱클레어다침",
+            "content": "S-stop, Mister Hohenheim..."
+        },
+        {
+            "id": 105,
+            "model": "싱클레어다침",
+            "content": "O-o que o senhor pretende fazer?"
+        },
+        {
+            "id": 106,
+            "model": "싱클레어다침",
+            "content": "A senhora Faust, a senhora Ishmael... e eu também... estamos gravemente feridos."
+        },
+        {
+            "id": 107,
+            "model": "호엔하임2",
+            "content": "Well... my best, I suppose."
+        },
+        {
+            "id": 108,
+            "model": "싱클레어다침",
+            "content": "But—"
+        },
+        {
+            "id": 109,
+            "model": "호엔하임2",
+            "content": "Eu sei — comparados ao poder que aquele sujeito tem, este equipamento e esta arma... hão de ser irremediavelmente insuficientes."
+        },
+        {
+            "id": 110,
+            "model": "호엔하임2",
+            "content": "Mas o importante é que eu decidi, comigo mesmo, que não vou me arrepender daqui em diante."
+        },
+        {
+            "id": 111,
+            "model": "호엔하임2",
+            "content": "E uma aposta, mais do que se pensa, às vezes mostra resultados surpreendentes."
+        },
+        {
+            "id": 112,
+            "model": "싱클레어다침",
+            "content": "A classificação que o senhor mencionou no exame... o senhor se lembra dela..."
+        },
+        {
+            "id": 113,
+            "model": "싱클레어다침",
+            "content": "Da minha parte... eu não tenho como mudar esta situação..."
+        },
+        {
+            "id": 114,
+            "model": "호엔하임2",
+            "content": "Esqueça os números."
+        },
+        {
+            "id": 115,
+            "model": "호엔하임2",
+            "content": "Os números... à primeira vista parecem uma verdade que abrange a razão e a análise, mas, no fim, não passam de um signo para trazer fisicamente, para aqui e agora, um conceito abstrato."
+        },
+        {
+            "id": 116
+        },
+        {
+            "id": 117,
+            "model": "싱클레어다침",
+            "content": "The present..."
+        },
+        {
+            "id": 118,
+            "model": "약지아비",
+            "content": "It is time, dear Hohenheim."
+        },
+        {
+            "id": 119,
+            "model": "약지아비",
+            "content": "Obrigado por ter se tornado o único que me compreende."
+        },
+        {
+            "id": 120,
+            "model": "약지아비",
+            "content": "Eu vou conservar e guardar você pela vida toda."
+        },
+        {
+            "id": 121,
+            "model": "호엔하임공중",
+            "content": "Sim, e... eu digo isto por excesso de zelo... evite aquele seu chapéu de aba larga e coisas do gênero."
+        },
+        {
+            "id": 122,
+            "model": "약지아비",
+            "content": "Ah, this hat?"
+        },
+        {
+            "id": 123,
+            "model": "약지아비",
+            "content": "Há muito, muito tempo, eu tentei revolver o interior da minha própria cabeça e... ao perceber que, com a habilidade daquela época, era demais... eu o deixei como estava."
+        },
+        {
+            "id": 124,
+            "model": "호엔하임공중",
+            "content": "Ahá, como era difícil suturar por completo... você o usa como uma espécie de proteção."
+        },
+        {
+            "id": 125,
+            "model": "호엔하임공중",
+            "content": "E eu que achava... que era uma espécie de moda horrorosa."
+        },
+        {
+            "id": 126,
+            "model": "약지아비",
+            "content": "E se for esse o caso... o que muda?"
+        },
+        {
+            "id": 127,
+            "model": "호엔하임공중",
+            "content": "Ao menos o meu golpe decisivo..."
+        },
+        {
+            "id": 128,
+            "model": "호엔하임공중",
+            "content": "...por menos que seja... precisa ao menos te causar algum dano, não é?"
+        },
+        {
+            "id": 129
+        },
+        {
+            "id": 130,
+            "model": "호엔하임2",
+            "content": "E então? Provavelmente... você não conseguiu ver coisa alguma, eu imagino."
+        },
+        {
+            "id": 131,
+            "model": "호엔하임2",
+            "content": "É um E.G.O chamado Difração. Pertencia a uma Anormalidade problemática."
+        },
+        {
+            "id": 132,
+            "model": "호엔하임2",
+            "content": "Será que você também recebeu uma lição do tipo 'nem tudo é o que se vê' ou 'o que importa é invisível aos olhos'? Fico curioso."
+        },
+        {
+            "id": 133,
+            "model": "약지아비2",
+            "content": "........"
+        },
+        {
+            "id": 134,
+            "model": "약지제자2",
+            "content": "Maestro!"
+        },
+        {
+            "id": 135,
+            "model": "약지아비2",
+            "content": "...A amígdala está ressoando. A amígdala contém o tronco encefálico, onde se ativa o centro das emoções."
+        },
+        {
+            "id": 136,
+            "model": "약지아비2",
+            "content": "Ah... quando a nossa Yoshihide, há muito tempo, fez a minha espada em mil pedaços, também..."
+        },
+        {
+            "id": 137,
+            "model": "약지아비2",
+            "content": "...eu, ao que parece, senti uma emoção como esta."
+        },
+        {
+            "id": 138,
+            "model": "호엔하임공중",
+            "content": "Hnngh..."
+        },
+        {
+            "id": 139,
+            "model": "이스마엘다침",
+            "content": "Pronto... tanto eu quanto a senhora Faust nos recuperamos até certo ponto. De novo... ugh...!"
+        },
+        {
+            "id": 140,
+            "model": "약지제자2",
+            "content": "Não pode, vocês ainda não se aproximaram de mim."
+        },
+        {
+            "id": 141,
+            "model": "싱클레어다침",
+            "content": "... Ishmael! Faust!"
+        },
+        {
+            "id": 142,
+            "model": "약지아비2",
+            "content": "É aquela pessoa que desmaiou de repente no instituto, não é?"
+        },
+        {
+            "id": 143,
+            "model": "약지아비2",
+            "content": "O corpo... vai usar um pouco mais de força em prol da sua raiva, mas... isso também tem um limite."
+        },
+        {
+            "id": 144,
+            "model": "약지아비2",
+            "content": "O grau atual de dano do seu corpo é de 83%. Você está numa situação em que é difícil até fazer força direito numa arma."
+        },
+        {
+            "id": 145,
+            "model": "약지아비2",
+            "content": "O corpo é nobre justamente por isso. Pois a relação de causa e efeito é nítida."
+        },
+        {
+            "id": 146,
+            "model": "싱클레어다침",
+            "content": "Dante... if you're watching... do something—please, do something...!"
+        },
+        {
+            "id": 147,
+            "model": "싱클레어다침",
+            "content": "......."
+        },
+        {
+            "id": 148,
+            "model": "싱클레어다침",
+            "content": "I can't... rely on others to solve my problems... forever."
+        },
+        {
+            "id": 149,
+            "model": "약지제자2",
+            "content": "Não vá embora. Ao menos você precisa se aproximar de mim e da Fáscia."
+        },
+        {
+            "id": 150,
+            "model": "싱클레어다침",
+            "content": "... Get off me."
+        },
+        {
+            "id": 151,
+            "model": "약지아비2",
+            "content": "Eu, dispondo de um método mais rápido, estrangular esta pessoa com as minhas próprias mãos é..."
+        },
+        {
+            "id": 152,
+            "model": "약지아비2",
+            "content": "...porque, para sentir uma dor plena até o fim, sem dano ao corpo, não há método tão adequado quanto a asfixia."
+        },
+        {
+            "id": 153,
+            "model": "호엔하임공중",
+            "content": "*choke*"
+        },
+        {
+            "id": 154,
+            "model": "약지제자2",
+            "content": "É a benevolência só do senhor Maestro."
+        },
+        {
+            "id": 155,
+            "model": "약지제자2",
+            "content": "Ele nos mostra tudo, até criar a obra com as próprias mãos..."
+        },
+        {
+            "id": 156,
+            "model": "약지제자2",
+            "content": "Vamos, vamos apreciar juntos. Como é uma oportunidade rara, quanto mais arregalados os olhos, melhor."
+        },
+        {
+            "id": 157,
+            "model": "약지제자2",
+            "content": "Eu também, um dia, vou me tornar uma Maestra que supera o senhor Maestro. Qual é o seu sonho?"
+        },
+        {
+            "id": 158,
+            "model": "싱클레어다침",
+            "content": "The future..."
+        },
+        {
+            "id": 159
+        },
+        {
+            "id": 160,
+            "model": "싱클레어다침",
+            "content": "... Suffusing within me..."
+        },
+        {
+            "id": 161,
+            "model": "싱클레어다침",
+            "content": "... is a scent..."
+        },
+        {
+            "id": 162,
+            "model": "싱클레어다침",
+            "content": "A stench..."
+        },
+        {
+            "id": 163,
+            "model": "약지아비2",
+            "content": "...Do que você está falando? O meu espaço tem sempre a temperatura e a umidade ótimas, e matéria externa não consegue entrar nele."
+        },
+        {
+            "id": 164,
+            "model": "싱클레어다침",
+            "content": "Pegajoso... apodrecendo... um fedor terrível..."
+        },
+        {
+            "id": 165,
+            "model": "싱클레어다침",
+            "content": "I see..."
+        },
+        {
+            "id": 166,
+            "place": -1
+        },
+        {
+            "id": 167,
+            "model": "싱클레어다침",
+            "content": "Aquela fumaça... era azul."
+        },
+        {
+            "id": 168,
+            "place": -1
+        }
+    ]
+}

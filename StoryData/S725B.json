@@ -1,0 +1,607 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Confessionário",
+            "model": "가시춘",
+            "title": "???",
+            "content": "Não toquem. Aquilo ali é a minha presa.\n"
+        },
+        {
+            "id": 1,
+            "content": "Em contraste com o Padre, Shichun e o seu grupo, que pareciam intactos, sem um arranhão, se aproximaram.\n"
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "... Xichun."
+        },
+        {
+            "id": 3,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Não abram a boca. É que eu não quero desperdiçar tempo à toa de novo."
+        },
+        {
+            "id": 4,
+            "model": "홍루",
+            "content": "Ha ha."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "Você parece ter folga de sobra até para cortar o fôlego dele, então qual o motivo de simplesmente deixá-lo?"
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "...É óbvio. São vestígios de tortura."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "O dispositivo da zona 2 alguém já acionou... Mesmo já sendo possível seguir para a próxima zona, ainda restava algo a espremer?"
+        },
+        {
+            "id": 8,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Sim. Eu já devo ter dito."
+        },
+        {
+            "id": 9,
+            "model": "가시춘",
+            "title": "???",
+            "content": "A subjugação da La Manchaland não é o meu objetivo."
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "Nem por isso vocês parecem ter vindo apenas para se divertir torturando."
+        },
+        {
+            "id": 11,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Sim. Nós não somos caçadores de Sanguinários, e não nos divertimos com uma coisa dessas."
+        },
+        {
+            "id": 12,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Pois aqueles ali são um grupo que, sem relação com ganhar dinheiro... só dá valor a matar Sanguinários em maior número e de modo mais doloroso."
+        },
+        {
+            "id": 13,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Mas eu sou diferente. O que eu preciso é de informação. E eu entrei até aqui para obter essa informação."
+        },
+        {
+            "id": 14,
+            "content": "Como me pareceu que, mesmo eu perguntando que informação era, ela jamais me responderia, eu apenas repeti a pergunta dentro do meu coração."
+        },
+        {
+            "id": 15,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Mas, enfim, eu estava justamente prestes a estourar o cérebro desta coisa."
+        },
+        {
+            "id": 16,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Por mais dor que eu inflija, ele não cai em si. Como vocês podem ver..."
+        },
+        {
+            "id": 17,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Ele já deve ter enlouquecido pela dor faz muito tempo. Não te lembra os Heishou da nossa família, mano?"
+        },
+        {
+            "id": 18,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "content": "Ga Shichun apontou com o queixo o Padre, caído de modo atroz, e falou num tom carregado de desprezo."
+        },
+        {
+            "id": 20,
+            "content": "Mesmo diante de uma fala tão ameaçadora, o Padre apenas nos fitava com uma expressão serena, soltando, de quando em quando, uma respiração."
+        },
+        {
+            "id": 21,
+            "model": "신부다침",
+            "content": "Ao ver vocês... vem-me à mente um... aconselhado de outrora."
+        },
+        {
+            "id": 22,
+            "model": "신부다침",
+            "content": "A partir de um certo dia, um Sanguinário chamado Lorenzo passou a visitar este lugar com frequência. No início, ele tinha um espírito positivo a ponto de não precisar de aconselhamento."
+        },
+        {
+            "id": 23,
+            "model": "신부다침",
+            "content": "'Oh... Padre, hoje eu estou em boa forma; a barra de sangue é mesmo uma invenção e tanto.'"
+        },
+        {
+            "id": 24,
+            "model": "신부다침",
+            "content": "'Padre, hoje eu devorei nada menos que 110 barras de sangue, todas de uma vez, sem me levantar... isto, pelo visto, deve ser um recorde entre os Sanguinários.'"
+        },
+        {
+            "id": 25,
+            "model": "신부다침",
+            "content": "Mas esse espírito não durou lá muito tempo."
+        },
+        {
+            "id": 26,
+            "model": "신부다침",
+            "content": "'Padre, hoje eu... lambi uma agulha de sangue por três horas; o gosto daquela agulha, com uma gota de sangue impregnada, não sai da minha cabeça.'"
+        },
+        {
+            "id": 27,
+            "model": "신부다침",
+            "content": "'A barra de sangue, hoje eu... não comi nem uma, todos já sabem disso faz tempo, de que é que um tijolo desses serve para nós?'"
+        },
+        {
+            "id": 28,
+            "model": "신부다침",
+            "content": "'Até quando é que nós... temos de viver de modo tão miserável?'"
+        },
+        {
+            "id": 29,
+            "model": "신부다침",
+            "content": "Como eu sabia a resposta, eu lhe disse. \"Você sabe, não sabe, Lorenzo...\""
+        },
+        {
+            "id": 30,
+            "model": "신부다침",
+            "content": "\"From endless forbearance comes coexistence.\""
+        },
+        {
+            "id": 31,
+            "model": "신부다침",
+            "content": "\"Por isso, quanto mais difícil, mais alto você deve aclamar! Para que, na La Manchaland, o som das risadas nunca cesse!\""
+        },
+        {
+            "id": 32,
+            "model": "신부다침",
+            "content": "Mas, depois disso, a vez em que eu vi Lorenzo rir de coração foi..."
+        },
+        {
+            "id": 33,
+            "model": "신부다침",
+            "content": "...com a cabeça estourada, no instante anterior a ser enterrado aqui embaixo."
+        },
+        {
+            "id": 34,
+            "model": "신부다침",
+            "content": "It made me curious."
+        },
+        {
+            "id": 35,
+            "model": "신부다침",
+            "content": "Que sentido afinal há em enterrar alguém que nem morreu."
+        },
+        {
+            "id": 36,
+            "model": "신부다침",
+            "content": "É algo que nem você nem eu jamais saberemos na vida, não é?"
+        },
+        {
+            "id": 37,
+            "model": "신부다침",
+            "content": "O fugitivo Cassetti também enterrou aquele cadáver com as próprias mãos? Hã?"
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "content": "...! U-unhand me...!"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Don Quixote!>"
+        },
+        {
+            "id": 40,
+            "model": "가시춘",
+            "title": "???",
+            "content": "Pelo visto eu o deixei vivo tempo demais. Saiam da frente."
+        },
+        {
+            "id": 41,
+            "content": "O leque de Ga Shichun começou a ser brandido em direção à cabeça do Sanguinário, mas..."
+        },
+        {
+            "id": 42,
+            "content": "...no lugar para onde ela o brandiu, não se via a figura do Sanguinário."
+        },
+        {
+            "id": 43,
+            "model": "웨이",
+            "title": "???",
+            "content": "Ngh..."
+        },
+        {
+            "id": 44,
+            "model": "가시춘",
+            "title": "???",
+            "content": "…!"
+        },
+        {
+            "id": 45,
+            "content": "O ataque-surpresa do Sanguinário, que sem que se notasse se deslocara para trás, Wei a custo conseguiu deter."
+        },
+        {
+            "id": 46,
+            "model": "산손",
+            "content": "O Padre era alguém de uma fé mais profunda que a de qualquer um."
+        },
+        {
+            "id": 47,
+            "model": "가시춘",
+            "title": "???",
+            "content": "When did...?"
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<...! The magician...!>"
+        },
+        {
+            "id": 49,
+            "model": "산손",
+            "content": "A fé de que tudo daria certo, a fé de que, no fim, as coisas se cumpririam conforme a vontade dele, a fé de que, em última instância, todos poderiam ser felizes."
+        },
+        {
+            "id": 50,
+            "model": "산손",
+            "content": "E o Padre era o único, entre nós, que não dava as costas aos que sofriam."
+        },
+        {
+            "id": 51,
+            "model": "산손",
+            "content": "Por isso... por volta da época em que, entre nós, começavam a surgir um a um os que iam soltar o fio da paciência, foi ele o primeiro a se adiantar e a lhes estender a mão."
+        },
+        {
+            "id": 52,
+            "model": "산손",
+            "content": "Mas quem cuida do coração dos outros tende, na mesma medida, a negligenciar o cuidado com o próprio coração."
+        },
+        {
+            "id": 53,
+            "model": "산손",
+            "content": "Dentro desta salinha de um só cômodo, o coração do Padre foi adoecendo."
+        },
+        {
+            "id": 54,
+            "model": "산손",
+            "content": "Quantos, entre nós, terão se dado conta disto?"
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "...Ei, esse negócio de se intrometer com naturalidade, agora tanto faz, mas."
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "content": "Se você pensou que desta vez também ia poder levar um companheiro com facilidade, fez mau cálculo."
+        },
+        {
+            "id": 57,
+            "model": "산손",
+            "content": "Para ser exato, eu vim para fazer com que a história prossiga."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "content": "Este malfeitor fica usando artimanhas pérfidas e tentando nos confundir!"
+        },
+        {
+            "id": 59,
+            "model": "산손",
+            "content": "No, no. Of course not."
+        },
+        {
+            "id": 60,
+            "model": "산손",
+            "content": "My vile tricks..."
+        },
+        {
+            "id": 61,
+            "model": "산손",
+            "content": "Não 'vocês', e sim você..."
+        },
+        {
+            "id": 62,
+            "model": "산손",
+            "content": "Unicamente para você, só você."
+        },
+        {
+            "id": 63,
+            "model": "돈키호테",
+            "content": "Wh-what...?"
+        },
+        {
+            "id": 64,
+            "model": "산손",
+            "content": "Pois bem, a história que deixa o clima melancólico para por aqui."
+        },
+        {
+            "id": 65,
+            "model": "산손",
+            "content": "Não restam ainda, para você, montes de histórias de aventura para contar?"
+        },
+        {
+            "id": 66,
+            "model": "산손",
+            "content": "Grande aventureiro, Don Quixote."
+        },
+        {
+            "id": 67,
+            "model": "돈키호테",
+            "content": "...Por mais grandiosas que tenham sido as aventuras que eu vivi, não há história que eu vá contar para um sujeito como tu."
+        },
+        {
+            "id": 68,
+            "model": "산손",
+            "content": "Ora... eu fui pouco atencioso. De fato, é vergonhoso para você fazer isso sozinho?"
+        },
+        {
+            "id": 69,
+            "model": "돈키호테",
+            "content": "Não é esse o sentido...!"
+        },
+        {
+            "id": 70,
+            "model": "산손",
+            "content": "Eu compreendo. De fato, conduzir o palco sozinho não é coisa fácil."
+        },
+        {
+            "id": 71,
+            "model": "산손",
+            "content": "Então eu vou lhe dar uma pequena ajuda."
+        },
+        {
+            "id": 72,
+            "place": "-1",
+            "content": "<color=#ffef23>Halt! Halt, Rocinante...!</color>"
+        },
+        {
+            "id": 73,
+            "content": "<color=#ffef23>Eu não quero ir embora; por que você se move contra a minha vontade...</color>"
+        },
+        {
+            "id": 74,
+            "content": "<color=#ffef23>STOP!!!!!</color>"
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<Aquela cena é...>"
+        },
+        {
+            "id": 76,
+            "model": "돈키호테",
+            "content": "Aquilo agora há pouco... o que foi...?"
+        },
+        {
+            "id": 77,
+            "model": "산손",
+            "content": "De tão tenso por um espetáculo depois de tanto tempo, eu cometi um erro."
+        },
+        {
+            "id": 78,
+            "model": "로쟈",
+            "content": "Slipped?"
+        },
+        {
+            "id": 79,
+            "model": "산손",
+            "content": "À medida que o espetáculo amadurece, embriagado pela emoção, às vezes a ordem se embaralha, é a regra."
+        },
+        {
+            "id": 80,
+            "model": "산손",
+            "content": "I offer my sincere apologies; let us begin anew."
+        },
+        {
+            "id": 81,
+            "model": "산손",
+            "content": "A começar pelo combate acirrado daquele dia, em que você mediu forças com o Cavaleiro da Lua Branca."
+        },
+        {
+            "id": 82,
+            "model": "돈키호테",
+            "content": "Aquele combate... foi um combate e tanto, dos que se contam nos dedos na minha vida."
+        },
+        {
+            "id": 83,
+            "content": "... Don Quixote's voice falters once again, falling unnaturally quiet."
+        },
+        {
+            "id": 84,
+            "content": "Sansón must be working his trickery again..."
+        },
+        {
+            "id": 85,
+            "model": "산손",
+            "content": "Aquele combate e tanto foi o primeiro encontro entre Don Quixote e o Cavaleiro da Lua Branca."
+        },
+        {
+            "id": 86,
+            "model": "산손",
+            "content": "Aquele cavaleiro que, no fim, conduziu o nosso aventureiro Don Quixote para algum lugar profundo... para o Rio do Esquecimento."
+        },
+        {
+            "id": 87,
+            "model": "가시춘",
+            "title": "???",
+            "content": "…….\n"
+        },
+        {
+            "id": 88,
+            "model": "가시춘",
+            "title": "???",
+            "content": "River in the deep..."
+        },
+        {
+            "id": 89,
+            "model": "싱클레어",
+            "content": "Manager, I think I know what's going on."
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "That man is—"
+        },
+        {
+            "id": 91,
+            "model": "산손",
+            "content": "Antes de tudo, concentre-se no papel."
+        },
+        {
+            "id": 92,
+            "model": "산손",
+            "content": "Let's see here..."
+        },
+        {
+            "id": 93,
+            "model": "산손",
+            "content": "Foi o primeiro adversário à sua altura que você encontrou."
+        },
+        {
+            "id": 94,
+            "model": "돈키호테",
+            "content": "É verdade, aquele sujeito..."
+        },
+        {
+            "id": 95,
+            "place": "Um Certo Castelo",
+            "model": "기사돈키",
+            "content": "... one of truly impressive might."
+        },
+        {
+            "id": 96,
+            "model": "히스클리프",
+            "content": "Shite, not again..."
+        },
+        {
+            "id": 97,
+            "model": "가시춘",
+            "title": "???",
+            "content": "…! \n"
+        },
+        {
+            "id": 98,
+            "model": "로쟈",
+            "content": "Uuh, que sufoco..."
+        },
+        {
+            "id": 99,
+            "model": "기사돈키",
+            "content": "O Cavaleiro da Lua Branca... era um sujeito de um senso de moda de verdade dos piores. Vestindo umas roupas nunca antes vistas..."
+        },
+        {
+            "id": 100,
+            "model": "기사돈키",
+            "content": "E quem primeiro me solicitou um duelo foi aquele cavaleiro. A coragem era louvável."
+        },
+        {
+            "id": 101,
+            "model": "기사돈키",
+            "content": "Eu suponho que, provavelmente, ele estava curioso quanto à minha habilidade, que vinha alardeando fama pela Cidade afora."
+        },
+        {
+            "id": 102,
+            "model": "산손",
+            "content": "...Sendo você um grande aventureiro, não há de ter recusado."
+        },
+        {
+            "id": 103,
+            "model": "기사돈키",
+            "content": "Que é isso! Eu bradei de bom grado. \"Um verdadeiro aventureiro não recusa um duelo que lhe é proposto! Vinde, ó cavaleiro!\""
+        },
+        {
+            "id": 104,
+            "model": "산손",
+            "content": "A sua lança e a espadagem do Cavaleiro da Lua Branca..."
+        },
+        {
+            "id": 105,
+            "model": "산손",
+            "content": "...se chocaram com toda a força."
+        },
+        {
+            "id": 106,
+            "model": "기사싱클2",
+            "content": "Mm..."
+        },
+        {
+            "id": 107,
+            "model": "산손",
+            "content": "Todo duelo, por dever, tem o que se chama de condição. Este duelo e tanto não há de ter sido exceção."
+        },
+        {
+            "id": 108,
+            "model": "기사싱클2",
+            "content": "\"Eu... não me importo de ser o vencedor ou o perdedor deste duelo.\""
+        },
+        {
+            "id": 109,
+            "model": "기사싱클2",
+            "content": "\"Apenas, ó Don Quixote... se você aceitar o duelo, cruzando as armas comigo de modo limpo e leal...\""
+        },
+        {
+            "id": 110,
+            "model": "기사싱클2",
+            "content": "\"Eu juro. Que eu porei na sua mão aquilo que você mais deseja, acima de tudo.\""
+        },
+        {
+            "id": 111,
+            "model": "산손",
+            "content": "De modo audaz e cheio de fúria, as armas dos dois duelistas se tocaram, e..."
+        },
+        {
+            "id": 112,
+            "model": "산손",
+            "content": "...Rocinante deu o sinal do duelo."
+        },
+        {
+            "id": 113,
+            "model": "산손",
+            "content": "Pois ao menos Rocinante há de ter assistido a este duelo."
+        },
+        {
+            "id": 114,
+            "model": "말레고르",
+            "content": "…….\n"
+        },
+        {
+            "id": 115,
+            "model": "말레고르",
+            "content": "\"Ready... Go!\""
+        },
+        {
+            "id": 116,
+            "model": "기사돈키",
+            "content": "Nós cruzamos as lâminas sem descanso por três dias e três noites."
+        },
+        {
+            "id": 117,
+            "model": "산손",
+            "content": "Um momento. Você não estava com uma lança, e não com uma lâmina?"
+        },
+        {
+            "id": 118,
+            "model": "기사돈키",
+            "content": "... 'Twas but a figure of speech!"
+        }
+    ]
+}

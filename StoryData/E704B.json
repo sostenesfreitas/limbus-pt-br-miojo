@@ -1,0 +1,340 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "호엔하임",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 2,
+            "model": "호엔하임",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 4,
+            "model": "호엔하임",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 5,
+            "model": "히스클리프",
+            "content": "Até quando você vai ficar de boca fechada desse jeito! Alguém tem de fazer as apresentações, ué!"
+        },
+        {
+            "id": 6,
+            "model": "호엔하임",
+            "teller": "???",
+            "title": "???",
+            "content": "Como parece que ninguém tem intenção de me apresentar, eu vou me apresentar sozinho."
+        },
+        {
+            "id": 7,
+            "model": "호엔하임",
+            "content": "Eu sou o pesquisador-chefe desta empresa, Hohenheim."
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "Para ser exato, ele é o pesquisador-chefe do departamento LCE."
+        },
+        {
+            "id": 9,
+            "model": "호엔하임",
+            "content": "Para ser um pouco mais exato, eu abranjo também a Limbus Company inteira."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Para falar com mais exatidão ainda, o motivo principal há de ser que eu e o senhor Yi Sang nos tornamos Pecadores e fomos excluídos do conjunto de pesquisadores."
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "Pois alguém tem de ficar e fazer pesquisa."
+        },
+        {
+            "id": 12,
+            "model": "홍루",
+            "content": "Então os dois são amigos, pelo visto?"
+        },
+        {
+            "id": 13,
+            "model": "파우스트",
+            "content": "Eu não tenho intenção de definir a relação, mas, se for para fazê-lo de propósito, parece que se poderia dizer que somos uma relação que, sem querer, mas sem poder evitar, tem de trocar contato periodicamente."
+        },
+        {
+            "id": 14,
+            "model": "호엔하임",
+            "content": "Foi a primeira coincidência de opiniões que se realizou depois de nos conhecermos."
+        },
+        {
+            "id": 15,
+            "model": "호엔하임",
+            "content": "Pelo que ouço, dizem que o nosso departamento entrou em contato várias vezes. Para este exame periódico."
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "Eu pensei que você já soubesse, mas o nosso departamento LCB, pela sua natureza, tem de andar continuamente por aqui e ali na Cidade. Não estava num estado de folga a ponto de responder de imediato a um contato."
+        },
+        {
+            "id": 17,
+            "model": "호엔하임",
+            "content": "Sim, eu sabia. Inclusive que vocês respondiam repetindo só uma fala igual a essa de agora, feito uma secretária eletrônica."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Uh…>"
+        },
+        {
+            "id": 19,
+            "model": "호엔하임",
+            "content": "Hum, sendo assim, este aqui há de ser o Gerente Dante, que ocupa o cargo de Gerente dos Pecadores da Limbus Company."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Prazer... mesmo eu fazendo essa saudação, você só vai ouvir um tique-taque.>"
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "O Gerente está dizendo que é um prazer."
+        },
+        {
+            "id": 22,
+            "model": "호엔하임",
+            "content": "O prazer é meu. Ter de conduzir alguém é sempre árduo e doloroso. Em especial trabalhar com gente com quem nem dá para se comunicar direito."
+        },
+        {
+            "id": 23,
+            "model": "호엔하임",
+            "content": "É que, conversando com os pesquisadores do nosso departamento, há vezes em que me ocorre a dúvida de se a gente usa mesmo a mesma língua."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "Mas... é um pouco peculiar. A roupa destes..."
+        },
+        {
+            "id": 25,
+            "model": "싱클레어",
+            "content": "Ah, deixa eu apresentar de antemão. São, respectivamente, Marten e Alisa. São pesquisadores sob o meu comando, e poucos."
+        },
+        {
+            "id": 26,
+            "model": "호엔하임",
+            "content": "Foi extraído de uma Abnormalidade? Mas como..."
+        },
+        {
+            "id": 27,
+            "model": "이스마엘",
+            "content": "Que bom que você reconheceu."
+        },
+        {
+            "id": 28,
+            "model": "뫼르소",
+            "content": "É um equipamento... da antiga Firma L?"
+        },
+        {
+            "id": 29,
+            "model": "호엔하임",
+            "content": "Em parte se captam aspectos semelhantes, mas pelo visto não é um indivíduo completamente idêntico."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Sim, eu tentei extrair pelo método exclusivo da Limbus Company. E, como se vê, deu certo."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "...Eu tinha ficado sabendo da notícia de que se fizeram equipamentos de E.G.O ao estilo da Limbus Company, mas é a primeira vez que vejo de perto."
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "Isso quer dizer... que vocês estão fazendo a contenção de Abnormalidades."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Era por isso que, desde agora há pouco, eu sentia a presença de Abnormalidades...>"
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "<...Eh, espera. Eu sinto junto também a presença de Distorções e Tipo-Pecado...>"
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Sim, porque aquilo também é, para o departamento LCE, objeto de contenção e de pesquisa."
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "Hmmm…"
+        },
+        {
+            "id": 37,
+            "content": "Faust, num tom de fala como quem fosse um jurado rigoroso, examinava em silêncio o equipamento de E.G.O que Hohenheim vestia."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "Hm…"
+        },
+        {
+            "id": 39,
+            "model": "호엔하임",
+            "content": "À exceção de o acabamento estar levemente desleixado, o grau de acabamento geral da extração de E.G.O não é mau."
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "content": "Obrigado pela impressão."
+        },
+        {
+            "id": 41,
+            "model": "호엔하임",
+            "content": "Para extrair isto sem falhas, houve milhares de experimentos repetidos e fracassos."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 44,
+            "model": "알리사",
+            "content": "Os seus funcionários estão atrás ouvindo claramente; o senhor não está dizendo 'eu' de modo descarado demais?"
+        },
+        {
+            "id": 45,
+            "model": "히스클리프",
+            "content": "Estou acostumado…"
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "content": "Vou enlouquecer... aqui ou lá, só tem sujeito que vive achando que é o máximo."
+        },
+        {
+            "id": 47,
+            "model": "호엔하임",
+            "content": "Desse jeito eu acho que sou capaz de surrar alguém de verdade; será que não dá para terminar logo e voltar para o ônibus?"
+        },
+        {
+            "id": 48,
+            "model": "호엔하임",
+            "content": "Este lado também tem uma vontade enorme de fazer exatamente isso."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "Como é o primeiro exame em grupo desde o ingresso, o que está atrasado não é uma coisa nem duas... gente."
+        },
+        {
+            "id": 50,
+            "model": "호엔하임",
+            "content": "A Faust também não quer deixar o tempo passar sem sentido aqui. Vamos começar."
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "Então... a primeira etapa é o teste de capacidade de resposta a crises."
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "Ué, parece que eu apertei alguma coisa agora há pouco…"
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<Capacidade de resposta a crises…?>"
+        },
+        {
+            "id": 54,
+            "content": "Mal Hohenheim terminou de falar, a antepara do laboratório se moveu com um estalo metálico e, assim mesmo, prendeu os Pecadores, à exceção de mim, Vergílio e Caronte."
+        },
+        {
+            "id": 55,
+            "model": "호엔하임",
+            "content": "Isto não é só uma emboscada?!"
+        },
+        {
+            "id": 56,
+            "model": "단테",
+            "content": "Ora, é que é um teste para apurar o modo de agir e a capacidade de reação numa emboscada."
+        },
+        {
+            "id": 57,
+            "model": "베르길리우스",
+            "content": "<Isto também foi tudo combinado, não foi, Vergílio?!>"
+        },
+        {
+            "id": 58,
+            "model": "베르길리우스",
+            "content": "Você parece aflito... Dante. Bom, quanto a não ter previsto, comigo é o mesmo que com você."
+        },
+        {
+            "id": 59,
+            "model": "베르길리우스",
+            "content": "Numa hora destas, é só pensar 'então é assim', conforme a intenção deles."
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 61,
+            "model": "카론",
+            "content": "<…….>"
+        },
+        {
+            "id": 62,
+            "model": "마튼",
+            "content": "Caronte. Eu quero comer bolo junto também."
+        },
+        {
+            "id": 63,
+            "model": "마튼",
+            "content": "Ah. Deve ter sobrado coisa da festa de comemoração da última vez. Venham por aqui."
+        },
+        {
+            "id": 64,
+            "content": "Vergílio e Caronte, conduzidos pelo funcionário, entraram num escritório próximo."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<...Já que dizem que é um exame. Antes de tudo, vamos dar conta disso.>"
+        }
+    ]
+}

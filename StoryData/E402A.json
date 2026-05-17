@@ -1,0 +1,237 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Periferia do Distrito 21",
+            "model": "히스클리프",
+            "content": "Hahh... Então, o que são esses insetos-caranguejo?"
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Ei... Por que está olhando para mim? O que te faz pensar que eu sei?"
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Mas eu nem olhei para você! Você é um paranoico, isso sim! Não pode nem falar sobre insetos que você começa..."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Ugh…"
+        },
+        {
+            "id": 4,
+            "model": "이스마엘",
+            "content": " ... Eles são caranguejos de lixo."
+        },
+        {
+            "id": 5,
+            "model": "단테2",
+            "content": "<Eles são o quê?>"
+        },
+        {
+            "id": 6,
+            "content": "Ishmael acrescentou de repente."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Caranguejos de lixo. Eles coletam lixo ou sucata desse tipo em suas conchas e as usam como abrigo e defesa."
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "Eles são realmente cansativos... Eles emboscam quem trabalha na água e atacam aqueles que vagam pela área, e a quantidade deles cresce a cada dia que passa..."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Mas eles são só mais um dos muitos perigos menores do Grande Lago. O que é realmente importante e perigoso é..."
+        },
+        {
+            "id": 10,
+            "model": "단테2",
+            "content": "<I-Ishmael?>"
+        },
+        {
+            "id": 11,
+            "content": "Eu sabia que eu não podia deixar isso de lado, então decidi falar com a Ishmael, mas..."
+        },
+        {
+            "id": 12,
+            "model": "미카",
+            "teller": "???",
+            "title": "???",
+            "content": "Oiii~ Vocês já tão trabalhando duro, né?"
+        },
+        {
+            "id": 13,
+            "content": "À distância, pude ver algumas pessoas vestidas como mecânicas se aproximando."
+        },
+        {
+            "id": 14,
+            "model": "무기레인",
+            "teller": "???",
+            "title": "???",
+            "content": "Mika, Mika! Esses são clientes valiosos, olha os modos..."
+        },
+        {
+            "id": 15,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Ah… Tá bom."
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "content": "Q.U.E"
+        },
+        {
+            "id": 17,
+            "model": "싱클레어",
+            "content": "Eu acho que ela disse \"Que uniformes escrotos\"..."
+        },
+        {
+            "id": 18,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Rain, olha o que eles estão falando... A gente realmente precisa ser educado?"
+        },
+        {
+            "id": 19,
+            "model": "무기레인",
+            "teller": "Rain",
+            "title": "???",
+            "content": "Shh, shh…"
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "Eles podem ser inimigos. Ei! Se identifiquem!"
+        },
+        {
+            "id": 21,
+            "model": "무기레인",
+            "teller": "Rain",
+            "title": "???",
+            "content": "Eles não lhes contaram nada sobre nós...?"
+        },
+        {
+            "id": 22,
+            "model": "오티스",
+            "content": "Não, nada. Por isso que vocês são suspeitos. Se apresentando com essas plausíveis mas inverificáveis identidades... como se fossem espiões."
+        },
+        {
+            "id": 23,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Desculpa, mas um espião de verdade não usaria um método mais estruturado...?"
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "De fato. Outis, esses são os colaboradores que nos ajudarão desta vez."
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "Ahem... Nos informe antes da próxima vez."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Prazer em conhecê-los, Mika, Rain. Somos a LCB, também conhecida como o Departamento do Ônibus da Limbus Company."
+        },
+        {
+            "id": 27,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Ônibus... Sim. A outra pessoa também mencionou isso; vocês são os caras do ônibus."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Fomos informados de que o Time Pré-Missão da LCC esteve aqui primeiro. Com \"outra pessoa\", você quer dizer…"
+        },
+        {
+            "id": 29,
+            "model": "무기레인",
+            "teller": "Rain",
+            "title": "???",
+            "content": "Ah, deixe-me dar uma olhada no cartão de visita novamente por um segundo... LCC... B. Bem, tudo em ordem."
+        },
+        {
+            "id": 30,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Agora que tudo tá em ordem, por que não continuamos essa conversa na loja? Vamos dar uma olhada no ônibus também."
+        },
+        {
+            "id": 31,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "???",
+            "content": "Esse lugar não é muito agradável pra uma conversa, sabe?"
+        },
+        {
+            "id": 32,
+            "model": "단테2",
+            "content": "<Nós... somos clientes?>"
+        },
+        {
+            "id": 33,
+            "model": "그레고르",
+            "content": "Tudo bem... Você poderia nos dizer o que temos que fazer aqui?"
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Nosso próximo destino, U Corp, é um Ninho composto de várias estruturas náuticas. Portanto, Mefistófeles não conseguirá chegar lá em seu estado atual."
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "E... os arredores do Grande Lago são imprevisíveis."
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "Vocês precisarão de um barco que possa... aguentar esses perigos."
+        },
+        {
+            "id": 37,
+            "model": "베르길리우스",
+            "content": "Sim, e é por isso que procuramos um contrato com a loja adequada para modificar o ônibus."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "Hmm... Loja... adequada?"
+        },
+        {
+            "id": 39,
+            "model": "베르길리우스",
+            "content": "... Hmph, vamos entrar."
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "Hm... O último jantar que tivemos ferrou tanto com o orçamento? Achei que podíamos comer o quanto quiséssemos..."
+        },
+        {
+            "id": 41,
+            "content": "Como Rodya disse, ao ver as condições precárias em que a loja se encontrava, fiquei com uma curiosidade sobre a situação financeira da empresa..."
+        },
+        {
+            "id": 42,
+            "content": "Percebi que não havia sentido em continuar falando sobre isso, então resolvi deixar pra lá."
+        }
+    ]
+}

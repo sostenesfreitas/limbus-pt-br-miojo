@@ -1,0 +1,628 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Grande Jardim - Salão de Banquetes de Aojingguan",
+            "content": "Ga Chiu e a sua facção saíram por um instante para fora do salão de banquetes, como quem queria apurar a situação, e agora, naquele espaço amplo, restávamos apenas eu e os Pecadores."
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Nós, em breve, poderemos obter o Ramo Dourado neste lugar. Isto é uma questão já decidida."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Bastando concluir a recolha, a nossa missão termina e, à exceção de esperar o contato da LCA, é como se tivéssemos concluído tudo o que tínhamos a fazer."
+        },
+        {
+            "id": 3,
+            "model": "오티스",
+            "content": "...Coisas que nem sequer vivenciaram uma Guerra das Asas mergulharem o corpo naquela correnteza, de modo precipitado, é um proceder leviano como nenhum. Não tenham ideias desnecessárias."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Se, com a nossa força, pudermos impedir a guerra deste lugar e salvar a vida dos inocentes."
+        },
+        {
+            "id": 5,
+            "model": "돈키호테",
+            "content": "Eu... eu gostaria de seguir as palavras daquele sujeito."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Não, não se envolver desde o início é a melhor política."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "Don Quixote. Eu falo acreditando que agora você tem discernimento: guerra e tumulto são coisas diferentes. Esse seu senso de justiça pode até resplandecer num tumulto, mas..."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "...numa guerra... uma motivação dessas ser pisoteada é mais fácil do que respirar."
+        },
+        {
+            "id": 9,
+            "model": "돈키호테",
+            "content": "Senhora Outis. Eu também vivi guerras a ponto de me dar enjoo. E, ainda assim... é por a vontade do senhor Ga Chiu ser justa que eu digo que vou ajudar."
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "Ainda...!"
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "Lutar do lado da justiça, por que é algo que mereça ser desprezado?!"
+        },
+        {
+            "id": 12,
+            "model": "돈키호테",
+            "content": "Isto não é simplesmente fazer birra! Eu falo do que se deve fazer, por dever!"
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Senhora Outis. Eu também tive experiências não poucas, então gostaria de acrescentar uma palavra."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Combate e guerra também são diferentes... o que não se vê no fluxo de uma guerra — dentro do campo de combate, emoções enormes se chocam umas com as outras."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "É esse calor que se junta e, no fim, se torna o fluxo. De modo algum é o contrário."
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 18,
+            "model": "이상",
+            "content": "Se sondarmos a intenção daquele sujeito, há de ser a de tapar depressa a fenda do dique, que agora começa a se romper."
+        },
+        {
+            "id": 19,
+            "model": "이상",
+            "content": "A vontade de vós dois é oposta, mas..."
+        },
+        {
+            "id": 20,
+            "model": "이상",
+            "content": "...o propósito de querer impedir a guerra não é o mesmo?"
+        },
+        {
+            "id": 21,
+            "model": "오티스",
+            "content": "... It is."
+        },
+        {
+            "id": 22,
+            "model": "그레고르",
+            "content": "Isso, você diz bem, senhor Yi Sang."
+        },
+        {
+            "id": 23,
+            "model": "뫼르소",
+            "content": "Lançar-se numa guerra que já avançou além de certo ponto não há de nos trazer proveito prático, então as palavras de Outis hão de estar certas."
+        },
+        {
+            "id": 24,
+            "model": "뫼르소",
+            "content": "Mas, se for possível sufocá-la na fase inicial, pode-se obter um benefício maior do que evitar esta operação."
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "content": "É, talvez todas estas coisas absurdas que estão acontecendo em Hongwon..."
+        },
+        {
+            "id": 26,
+            "model": "로쟈",
+            "content": "... inequities of Hongyuan."
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "Bom~ embora eu não saiba se o Hong Lu também deseja isso."
+        },
+        {
+            "id": 28,
+            "model": "싱클레어",
+            "content": "M-mas... por mais que aquelas pessoas sejam fortes, os inimigos são muitos demais. Se a gente realmente se lançar naquela operação, será que vai conseguir detê-los?"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Para ser rigorosa... isso a gente ainda não tem como saber. E nem há tempo para analisar com calma."
+        },
+        {
+            "id": 30,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 31,
+            "model": "이상",
+            "content": "Há algo que eu gostaria de propor, nosso Gerente."
+        },
+        {
+            "id": 32,
+            "content": "Em meio aos Pecadores, cujas opiniões começavam a se dividir, Yi Sang dirigiu-me a palavra com cautela."
+        },
+        {
+            "id": 33,
+            "model": "이상",
+            "content": "Como vês, as opiniões dos Pecadores não coincidem."
+        },
+        {
+            "id": 34,
+            "model": "이상",
+            "content": "Porém, segundo o meu pequeno discernimento, eu penso que ninguém está, simplesmente, impondo a sua opinião enviesado pela emoção."
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Como as palavras de ambos os lados têm razão, e não se pode julgar o certo e o errado, há de ser difícil para ti também decidir com facilidade."
+        },
+        {
+            "id": 36,
+            "model": "이상",
+            "content": "Thus..."
+        },
+        {
+            "id": 37,
+            "content": "Talvez por achar difícil escolher as palavras, Yi Sang não conseguiu prosseguir a fala com facilidade."
+        },
+        {
+            "id": 38,
+            "content": "Then, after a subtle nod, he continued."
+        },
+        {
+            "id": 39,
+            "model": "이상",
+            "content": "Dante, isto... eu penso, que tal deixarmos que seja o senhor Hong Lu a decidir?"
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 41,
+            "model": "이상",
+            "content": "Talvez eu esteja fazendo um pedido que não condiz com a minha posição, mas..."
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "content": "...ocorre-me que, se perder esta oportunidade, o senhor Hong Lu nunca mais conseguirá retirar o sorriso de agora."
+        },
+        {
+            "id": 43,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 44,
+            "model": "이상",
+            "content": "Tu também não sabes?"
+        },
+        {
+            "id": 45,
+            "model": "이상",
+            "content": "O sorriso do senhor Hong Lu, para mim, parece lágrimas."
+        },
+        {
+            "id": 46,
+            "content": "O que Yi Sang queria dizer, para mim, era muito claro e certo."
+        },
+        {
+            "id": 47,
+            "content": "E o que eu, como Gerente, devia fazer, o que devia pensar."
+        },
+        {
+            "id": 48,
+            "content": "Não era guerra e combate... nem proveito e benefício."
+        },
+        {
+            "id": 49,
+            "content": "...Era a gestão do Pecador Hong Lu."
+        },
+        {
+            "id": 50,
+            "model": "단테",
+            "content": "<Faust.>"
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "...Desta vez também, mais uma vez, eu não terei como não lhe transmitir informações objetivas e a posição da empresa."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "Dante, como você é um Gerente filiado à LCB, recomenda-se que, seguindo a rota apresentada pela LCCB, você proceda à recolha do Ramo Dourado e, em seguida, se retire com rapidez, sem se envolver em perigo."
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<That’s…>"
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "However."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<…?>"
+        },
+        {
+            "id": 56,
+            "content": "Faust continues... slowly."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "But if you..."
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "Se você puder suportar a ponto de aguentar tudo, e se considerar que o seu papel é conduzir aqueles ali e nós... pelo caminho adequado..."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "...conforme você agir... eu vou segui-lo."
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<... Thank you.>"
+        },
+        {
+            "id": 61,
+            "content": "Sendo assim, agora é a vez de Hong Lu responder."
+        },
+        {
+            "id": 62,
+            "model": "홍루",
+            "content": "Looks like things really got out of control."
+        },
+        {
+            "id": 63,
+            "model": "홍루",
+            "content": "Sorry, Dante."
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Agora há pouco, quando você trocou perguntas e respostas com Ga Chiu...>"
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<Eu acho que houve muitos motivos para você ter chegado àquela resposta.>"
+        },
+        {
+            "id": 66,
+            "content": "Hong Lu, ao fim daquela longuíssima história, acabou apresentando a sua própria resposta."
+        },
+        {
+            "id": 67,
+            "content": "O maior motivo de ele ter podido fazer isso foi..."
+        },
+        {
+            "id": 68,
+            "model": "홍루",
+            "content": "At first..."
+        },
+        {
+            "id": 69,
+            "model": "홍루",
+            "content": "Eu achei que não conseguiria dar uma resposta como deve ser à pergunta do irmão Chiu."
+        },
+        {
+            "id": 70,
+            "model": "홍루",
+            "content": "But suddenly, like a thick fog clearing..."
+        },
+        {
+            "id": 71,
+            "model": "홍루",
+            "content": "Era como se algo, que eu tinha esquecido há muito tempo, ficasse nítido."
+        },
+        {
+            "id": 72,
+            "model": "홍루",
+            "content": "Eu disse a palavra que me veio à mente, e... só depois de cuspi-la é que percebi que palavra eu tinha dito."
+        },
+        {
+            "id": 73,
+            "model": "홍루",
+            "content": "Ela, provavelmente, era uma palavra que permanecera por muito tempo dentro de mim."
+        },
+        {
+            "id": 74,
+            "content": "Kindness."
+        },
+        {
+            "id": 75,
+            "content": "Por ele querer acreditar que aquela palavra podia mudar Hongwon."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<...Isto é uma questão da qual depende o teu futuro e o futuro de Hongwon.>"
+        },
+        {
+            "id": 77,
+            "model": "단테",
+            "content": "<Por isso, eu quero confiar esta decisão a você.>"
+        },
+        {
+            "id": 78,
+            "content": "Hong Lu não era um Pecador que sempre cuspisse a sua opinião com clareza."
+        },
+        {
+            "id": 79,
+            "content": "Em geral, ele seguia o meu plano sem resmungar, e tampouco expressava pequenas queixas ou descontentamentos."
+        },
+        {
+            "id": 80,
+            "content": "Não falava da dor, dizendo que sofria, nem desabafava o sofrimento, e..."
+        },
+        {
+            "id": 81,
+            "content": "...mesmo quando observava incontáveis mortes e absurdos, Hong Lu sempre tinha os mesmos olhos."
+        },
+        {
+            "id": 82,
+            "content": "Aqueles olhos que apenas deixam tudo escoar."
+        },
+        {
+            "id": 83,
+            "content": "Olhos que apenas aceitam, por saberem que um dia tudo tem um fim."
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "content": "Eu espero as palavras que Hong Lu vai, devagar, pôr para fora."
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "Dante, I..."
+        },
+        {
+            "id": 87,
+            "content": "Hong Lu, para quem tudo se resumia a concordar com tudo e aceitar tudo..."
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "... I want to go to Tiekan Temple."
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "content": "Para o cômodo onde estão a Shichun e os anciãos... os Imortais."
+        },
+        {
+            "id": 90,
+            "model": "홍루",
+            "content": "I think Xichun might be in danger."
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<A vida... está em perigo?>"
+        },
+        {
+            "id": 92,
+            "model": "홍루",
+            "content": "A vida não há de estar em perigo, mas... pelo contrário, pode ser que só a vida fique a salvo."
+        },
+        {
+            "id": 93,
+            "model": "홍루",
+            "content": "Repensando o que o irmão Chiu disse."
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "Parece que a Shichun de antes, eu já não vou poder ver."
+        },
+        {
+            "id": 95,
+            "content": "Pela primeira vez, ele me falou do caminho que queria seguir."
+        },
+        {
+            "id": 96,
+            "content": "Os olhos cor de jade de Hong Lu se voltam para além do Grande Jardim."
+        },
+        {
+            "id": 97,
+            "model": "홍루",
+            "content": "Conforme o irmão Chiu disse, quem pode abrir livremente a porta de Cheolhamsa, agora, sou apenas eu."
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Eu quero acompanhar de perto a Shichun se tornar patriarca. Para que, se por acaso algo perigoso acontecer... eu possa impedi-lo."
+        },
+        {
+            "id": 99,
+            "model": "단테",
+            "content": "<Okay, sounds like a plan.>"
+        },
+        {
+            "id": 100,
+            "model": "오티스",
+            "content": "...Eu de fato presumia que o Gerente tomaria uma decisão dessas."
+        },
+        {
+            "id": 101,
+            "model": "오티스",
+            "content": "Como é regra que a base do julgamento varie conforme o modo de vida e o ambiente em que cada um viveu..."
+        },
+        {
+            "id": 102,
+            "model": "오티스",
+            "content": "...eu penso que o Gerente tomou esta decisão por ser alguém para quem o tempo passado conosco era tudo."
+        },
+        {
+            "id": 103,
+            "model": "단테",
+            "content": "<De algum modo... parece que eu sempre te decepciono.>"
+        },
+        {
+            "id": 104,
+            "model": "오티스",
+            "content": "Por ora... não."
+        },
+        {
+            "id": 105,
+            "content": "Outis replies sternly."
+        },
+        {
+            "id": 106,
+            "model": "히스클리프",
+            "content": "Bom... pegar o Ramo Dourado quietinho e ir embora nunca foi mesmo o nosso estilo."
+        },
+        {
+            "id": 107,
+            "model": "이스마엘",
+            "content": "That's... yeah, you're right..."
+        },
+        {
+            "id": 108,
+            "content": "Ishmael, depois de muito tempo, concorda com as palavras de Heathcliff."
+        },
+        {
+            "id": 109,
+            "model": "그레고르",
+            "content": "Bom, eu também fiquei um pouco sensível e me exaltei, mas... é só uma diferença de opinião, ora. Espero que não fique ressentimento. Senhora Outis."
+        },
+        {
+            "id": 110,
+            "model": "오티스",
+            "content": "...Se tivesse sido pura baboseira, eu teria te dado um chute no joelho."
+        },
+        {
+            "id": 111,
+            "model": "그레고르",
+            "content": "Heh."
+        },
+        {
+            "id": 112,
+            "content": "Outis e Gregor, que eram perfeitamente opostos, não resmungam um com o outro."
+        },
+        {
+            "id": 113,
+            "content": "...Todos iam, aos poucos, se acostumando uns com os outros."
+        },
+        {
+            "id": 114,
+            "model": "단테",
+            "content": "<... Perfect. Then let's do this.>"
+        },
+        {
+            "id": 115,
+            "content": "Em meio a uma atmosfera difícil de descrever, o destacamento foi assim formado."
+        },
+        {
+            "id": 116,
+            "model": "가치우",
+            "content": "Eu vou enviar para o vosso lado Jaro, a minha melhor lâmina."
+        },
+        {
+            "id": 117,
+            "model": "가치우",
+            "content": "O caminho que ele tomará será diferente, mas ele não chegará atrasado."
+        },
+        {
+            "id": 118,
+            "model": "히스클리프",
+            "content": "Agora há pouco você não disse que os Heishou todos viraram sujeitos sem dono?"
+        },
+        {
+            "id": 119,
+            "model": "가치우",
+            "content": "...A explicação se alongaria, então deixemos só registrado que Jaro não se aplica a isso."
+        },
+        {
+            "id": 120,
+            "model": "이스마엘",
+            "content": "Ah, então o seu lado..."
+        },
+        {
+            "id": 121,
+            "model": "가치우",
+            "content": "Deter o subchefe e Noe Hoeng, o seu braço armado principal, há de ser o mais urgente. Eu e Jagong seguimos para o campo de batalha principal, diante do Grande Jardim, onde eles estão."
+        },
+        {
+            "id": 122,
+            "content": "Não havia mais nada a acrescentar ao plano definido."
+        },
+        {
+            "id": 123,
+            "content": "E assim nós seguimos caminhando em direções opostas."
+        },
+        {
+            "id": 124,
+            "model": "자공",
+            "title": "Casa de Chiu",
+            "content": "...Meu senhor, eu vi não poucos que sorriem daquele jeito."
+        },
+        {
+            "id": 125,
+            "model": "자공",
+            "title": "Casa de Chiu",
+            "content": "É o sorriso de uma casca vazia."
+        },
+        {
+            "id": 126,
+            "model": "자공",
+            "title": "Casa de Chiu",
+            "content": "O senhor acha que um sujeito daqueles, de verdade, é capaz de se mover por uma grande causa?"
+        },
+        {
+            "id": 127,
+            "model": "가치우",
+            "content": "É regra que, para cada pessoa, o motivo pelo qual o coração se move seja diferente."
+        },
+        {
+            "id": 128,
+            "model": "가치우",
+            "content": "Olhando apenas para a superfície da água, como se poderia ousar sondar até a sua profundeza?"
+        },
+        {
+            "id": 129,
+            "model": "자공",
+            "title": "Casa de Chiu",
+            "content": "……."
+        }
+    ]
+}

@@ -1,0 +1,709 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A Bordo do Mefistófeles",
+            "model": "단테",
+            "content": "<Então era ligado diretamente ao Mephistopheles...>"
+        },
+        {
+            "id": 1,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "É, desde o início era isto o problema... este... este maldito ônibus atrapalhou o meu sono!"
+        },
+        {
+            "id": 2,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Se ao menos o vagão de carga não estivesse abarrotado com este ônibus... eu não teria nem o plano de abrir o desfile tão cedo, nem o plano de criar vassalos..."
+        },
+        {
+            "id": 3,
+            "model": "다친파우스트",
+            "content": "... Dante."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Hm?>"
+        },
+        {
+            "id": 5,
+            "model": "다친파우스트",
+            "content": "Parece que a ligação se restabeleceu."
+        },
+        {
+            "id": 6,
+            "content": "Connection...?"
+        },
+        {
+            "id": 7,
+            "content": "Quando eu, sem entender aquele sussurro repentino, inclinei a cabeça, Faust, sem desviar o olhar do Sanguinário, sussurrou ainda mais baixo."
+        },
+        {
+            "id": 8,
+            "model": "다친파우스트",
+            "content": "Por termos embarcado no Mephistopheles... a ligação com a Faust foi recuperada."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Você sabia?>"
+        },
+        {
+            "id": 11,
+            "model": "다친파우스트",
+            "content": "Não. Como eu disse agora há pouco, foi uma aposta. Era uma suposição minha incerta, cuja própria probabilidade era difícil de calcular."
+        },
+        {
+            "id": 12,
+            "model": "다친파우스트",
+            "content": "Vendo que de fato deu certo, eu acho que entendo um pouco por que a senhora Rodya gosta de apostar."
+        },
+        {
+            "id": 13,
+            "content": "Faust, que sorria debilmente enquanto lançava a piada, sabe-se lá o que lhe veio à cabeça, voltou a endurecer a expressão."
+        },
+        {
+            "id": 14,
+            "model": "다친파우스트",
+            "content": "Como a ligação se restabeleceu, eu gostaria de protestar de imediato com as Faust de cargo administrativo da Gesellschaft pela omissão da informação importante de que, ao se entrar no Trem do Warp, a ligação com a Faust se rompe, mas..."
+        },
+        {
+            "id": 15,
+            "model": "다친파우스트",
+            "content": "Eu encontrar um meio de superar esta situação é que há de ter prioridade. Eu penso que foi uma omissão bastante intencional, mas... espero que não."
+        },
+        {
+            "id": 16,
+            "content": "Faust, dito isso, avançou um pouco para a frente e falou com o Sanguinário."
+        },
+        {
+            "id": 17,
+            "model": "다친파우스트",
+            "content": "...Vamos conversar sobre uma negociação. O que é preciso para você devolver esse cartão-chave mestre?"
+        },
+        {
+            "id": 18,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Se fosse como o normal... eu pretendia transformar vocês, malditos, em bolsas de sangue e depois beber sem deixar nada, mas... vocês são diferentes dos humanos comuns..."
+        },
+        {
+            "id": 19,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Eu quero que este reino se mantenha em silêncio, sem ser descoberto... por muitíssimo tempo. E o objetivo de vocês é sair daqui, não é?"
+        },
+        {
+            "id": 20,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Se vocês pegarem o cartão-chave... e voltarem para a primeira classe... onde estavam, nós vamos ficar aqui como se nada tivesse acontecido!"
+        },
+        {
+            "id": 21,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Quando o trem chegar, vocês desembarcam. Cada um volta para o lugar onde tem de estar! Que tal?"
+        },
+        {
+            "id": 22,
+            "model": "다친파우스트",
+            "content": "Como se nada tivesse acontecido…"
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<...Faust, então o encargo que a gente recebeu originalmente...>"
+        },
+        {
+            "id": 24,
+            "model": "다친파우스트",
+            "content": "Nós, que vamos desaparecer por inteiro, memória e vestígios, não temos nem um meio de comunicar se o encargo foi bem ou malsucedido."
+        },
+        {
+            "id": 25,
+            "model": "다친파우스트",
+            "content": "Se a gente conseguisse liquidar aquele Sanguinário, pelo menos a Firma W poderia ser notificada de que o caso foi resolvido, mas..."
+        },
+        {
+            "id": 26,
+            "model": "다친파우스트",
+            "content": "Sendo assim, nós não vamos conseguir fornecer nem uma simples dica, e o encargo vai acabar como um fracasso."
+        },
+        {
+            "id": 27,
+            "model": "다친파우스트",
+            "content": "Mas, mais do que isso, garantir a estabilidade mental do senhor e dos Pecadores é mais importante."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 29,
+            "content": "Não é que os nossos trabalhos nunca tenham tido um fracasso. Mas..."
+        },
+        {
+            "id": 30,
+            "model": "단테",
+            "content": "<Então... os passageiros deste trem... e os passageiros que vão embarcar daqui em diante?>"
+        },
+        {
+            "id": 31,
+            "content": "De súbito, veio-me à mente o rosto de Don Quixote, que não suportava a injustiça e se adiantava."
+        },
+        {
+            "id": 32,
+            "model": "다친파우스트",
+            "content": "……."
+        },
+        {
+            "id": 33,
+            "content": "Faust não responde."
+        },
+        {
+            "id": 34,
+            "content": "E... eu sei o significado que aquele silêncio carrega."
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<A gente tem de... desistir?>"
+        },
+        {
+            "id": 36,
+            "content": "É o sacrifício de pessoas inocentes, mas ele não pode ter prioridade sobre a nossa segurança."
+        },
+        {
+            "id": 37,
+            "content": "Essa há de ser a diretriz que Faust... e, mais além, a empresa considera."
+        },
+        {
+            "id": 38,
+            "content": "Mas…"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테다침",
+            "content": "Isso não… pode ser…"
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<D-Donquixote…>"
+        },
+        {
+            "id": 41,
+            "content": "Don Quixote, que com certeza sofrera um golpe a ponto de não conseguir se mover direito, entrou no vagão de carga cambaleando."
+        },
+        {
+            "id": 42,
+            "model": "돈키호테다침",
+            "content": "Senhor... este sujeito covarde e cruel... não dá para deixá-lo ir como se nada tivesse acontecido..."
+        },
+        {
+            "id": 43,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "A-aquele infeliz, de novo…"
+        },
+        {
+            "id": 44,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "En... então você quer continuar preso aqui neste trem junto? Eu... eu sei... bastando eu destruir esta chave... vocês, por eras infinitas, aqui..."
+        },
+        {
+            "id": 45,
+            "model": "돈키호테다침",
+            "content": "Não importa... antes de fingir não ver a barbárie de um malfeitor e seguir em frente... eu hei de castigar você, maldito, sem parar, aqui..."
+        },
+        {
+            "id": 46,
+            "content": "Eu, junto com Faust, segurei Don Quixote, que se movia forçando o corpo. Normalmente ela teria se desvencilhado de nós e se atirado, mas a Don Quixote de agora não tinha tanta força."
+        },
+        {
+            "id": 47,
+            "model": "돈키호테다침",
+            "content": "Senhorita Faust... solte-me... o senhor também não pode fazer isso..."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<Don Quixote... se a chave desaparecer, os outros Pecadores vão sofrer por milhares de anos.>"
+        },
+        {
+            "id": 49,
+            "model": "돈키호테다침",
+            "content": "Eu... eu contaria montes de histórias divertidas que vi nas revistas... se todos nos esforçarmos juntos, por mais longos que sejam os anos... a gente não consegue suportar?"
+        },
+        {
+            "id": 50,
+            "model": "다친파우스트",
+            "content": "Que isso não vai resolver, eu acho que a senhora Don Quixote também sabe."
+        },
+        {
+            "id": 51,
+            "model": "돈키호테다침",
+            "content": "En-então há de haver um outro método... hã?"
+        },
+        {
+            "id": 52,
+            "model": "돈키호테다침",
+            "content": "Tanto a senhorita Faust quanto o senhor Gerente são pessoas inteligentes, não são... não há de fato um método de castigar aquele malfeitor... e de os Pecadores ficarem bem...?"
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 54,
+            "content": "O debater-se de Don Quixote começa a se aquietar aos poucos. Aquela figura parece mais próxima do desalento do que da aceitação."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<E-espera! Donquixote, desvia!>"
+        },
+        {
+            "id": 56,
+            "content": "Enquanto segurávamos Don Quixote, diante da figura do Sanguinário, que sem que se notasse se aproximara a um palmo, eu e Faust soltamos Don Quixote depressa."
+        },
+        {
+            "id": 57,
+            "content": "Mas… eu percebi tarde demais."
+        },
+        {
+            "id": 58,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Aah... ó Pai, perdoai-me criar mais um sem permissão..."
+        },
+        {
+            "id": 59,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "A partir de agora, você… vai se tornar o meu segundo Parente!"
+        },
+        {
+            "id": 60,
+            "content": "Cassetti, junto com um grito monstruoso indecifrável, de repente se atirou e cravou as presas afiadas, assim mesmo, no pescoço de Don Quixote."
+        },
+        {
+            "id": 61,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 62,
+            "model": "다친파우스트",
+            "content": "...Não me digam — eu não imaginava que se resolveria desta forma..."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<Faust...? Como assim, resolver...?>"
+        },
+        {
+            "id": 64,
+            "model": "다친파우스트",
+            "content": "...Segundo a informação que eu já tinha visto antes, mas que consultei mais uma vez..."
+        },
+        {
+            "id": 65,
+            "model": "다친파우스트",
+            "content": "Dante, não saia de trás de mim."
+        },
+        {
+            "id": 66,
+            "model": "다친파우스트",
+            "content": "E o que vai acontecer de agora em diante, de modo algum, os outros Pecad..."
+        },
+        {
+            "id": 67,
+            "model": "돈키호테다침",
+            "content": "Oh."
+        },
+        {
+            "id": 68,
+            "content": "Naquele instante, os cadarços do calçado de Don Quixote, que se ergueram de leve no ar, começam a se desatar por conta própria, e..."
+        },
+        {
+            "id": 69,
+            "content": "O calçado, que se desprendeu sozinho, cai no chão, e Don Quixote, agora descalça, fita o calçado com olhos confusos."
+        },
+        {
+            "id": 70,
+            "content": "And..."
+        },
+        {
+            "id": 71,
+            "model": "돈키호테다침",
+            "content": "AAAAAAAAGGGHHHHHHHH!"
+        },
+        {
+            "id": 72,
+            "model": "돈키호테다침",
+            "content": "Aaaaaaaaaaaaaah! Rocinante!!!!!!"
+        },
+        {
+            "id": 73,
+            "content": "Havia uma coisa de que eu sempre fiquei curioso."
+        },
+        {
+            "id": 74,
+            "place": "Passado, Interior do Mephistopheles",
+            "model": "단테",
+            "content": "<Don Quixote, por que é que você cuida tanto desse tênis no dia a dia?>"
+        },
+        {
+            "id": 75,
+            "model": "돈키호테",
+            "content": "Hum? Tênis? Ah…"
+        },
+        {
+            "id": 76,
+            "model": "돈키호테",
+            "content": "Você está falando do nosso Rocinante?"
+        },
+        {
+            "id": 77,
+            "model": "단테",
+            "content": "<Sim… aquilo…>"
+        },
+        {
+            "id": 78,
+            "model": "돈키호테",
+            "content": "Eu! Vivi incontáveis aventuras junto com este Rocinante. Nas horas tristes e nas alegres, é claro, e, viesse a mim qualquer provação, ele é um amigo que, desde não sei quando, não se afastou do meu lado e me protegeu."
+        },
+        {
+            "id": 79,
+            "content": "Desde não sei quando...?"
+        },
+        {
+            "id": 80,
+            "model": "돈키호테",
+            "content": "Vamos, senhor Gerente, cumprimente o Rocinante também!"
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Não, deixa…>"
+        },
+        {
+            "id": 82,
+            "model": "돈키호테",
+            "content": "Eita, não fique encabulado, vamos logo!"
+        },
+        {
+            "id": 83,
+            "model": "카론",
+            "content": "Parece que vai dar um cheiro de coisa encardida. A pirralha está torturando o tique-taque com cheiro."
+        },
+        {
+            "id": 84,
+            "model": "돈키호테",
+            "content": "O Rocinante não cheira mal! O Rocinante, embora pareça assim, é extremamente limpo...! E eu também não sou pirralh-"
+        },
+        {
+            "id": 85,
+            "model": "카론",
+            "content": "Evacuar, evacuar."
+        },
+        {
+            "id": 86,
+            "place": "Passado, Quarto Pessoal do Dante",
+            "model": "단테",
+            "content": "<Don Quixote, não me diga que você dorme calçando esse tên... não, o Rocinante?>"
+        },
+        {
+            "id": 87,
+            "model": "돈키호테",
+            "content": "Oh, senhor Gerente! E logo se importar até com o bem-estar do Rocinante — que gentileza!"
+        },
+        {
+            "id": 88,
+            "content": "Foi uma pergunta em que omiti que houve relatos de Pecadores que disseram tê-la testemunhado andando de pijama e calçando o Rocinante."
+        },
+        {
+            "id": 89,
+            "model": "돈키호테",
+            "content": "Na hora de dormir, é claro, e em qualquer situação que seja, eu e Rocinante somos uma relação inseparável."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "Quer dizer que não é uma relação de só se procurar quando se precisa, e sim de estar junto em todos os instantes."
+        },
+        {
+            "id": 91,
+            "content": "Em qualquer Identidade, a Identidade de Don Quixote estava calçando aquele calçado chamado Rocinante."
+        },
+        {
+            "id": 92,
+            "model": "단테",
+            "content": "<Você já tirou o Rocinante alguma vez?>"
+        },
+        {
+            "id": 93,
+            "model": "돈키호테",
+            "content": "'Tirar', que história é essa? Você quer dizer separar-me do Rocinante? E logo o senhor Gerente vir com uma coisa absurda dessas!"
+        },
+        {
+            "id": 94,
+            "place": "-1",
+            "content": "Don Quixote me fitou com olhos intrigados, como se a possibilidade de tirar o Rocinante fosse um senso comum que não pudesse existir."
+        },
+        {
+            "id": 95,
+            "content": "Uma atitude de considerar natural algo bem além do senso comum geral... mais do que um simples calçado de estimação..."
+        },
+        {
+            "id": 96,
+            "content": "Que significado tinha o Rocinante para Don Quixote?"
+        },
+        {
+            "id": 97,
+            "content": "Afinal, o que é aquela coisa chamada Rocinante?"
+        },
+        {
+            "id": 98,
+            "place": "A Bordo do Mefistófeles",
+            "model": "단테",
+            "content": "<Gnnngh…!>"
+        },
+        {
+            "id": 99,
+            "content": "Uma pressão poderosa se estendeu em todas as direções."
+        },
+        {
+            "id": 100,
+            "content": "Um cheiro intenso de sangue preencheu todo o interior do ônibus."
+        },
+        {
+            "id": 101,
+            "content": "…E restou a escuridão."
+        },
+        {
+            "id": 102,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "I-isso é um absurdo…"
+        },
+        {
+            "id": 103,
+            "content": "Na escuridão, uma voz acendeu a luz."
+        },
+        {
+            "id": 104,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Você é... um 2º vassalo... como é que, até agora, sem emanar uma só ondulação..."
+        },
+        {
+            "id": 105,
+            "content": "Pareceu até que se via algo como uma ondulação."
+        },
+        {
+            "id": 106,
+            "content": "Algo vermelho... como um longo enfeite de pelos."
+        },
+        {
+            "id": 107,
+            "content": "E, por entre aquela ondulação... parece que olhos vermelhos passaram de relance."
+        },
+        {
+            "id": 108,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "É uma perversão. E um tabu."
+        },
+        {
+            "id": 109,
+            "content": "Ouve-se uma voz familiar, mas bem grave e pesada."
+        },
+        {
+            "id": 110,
+            "content": "Aquela voz fala voltada para baixo."
+        },
+        {
+            "id": 111,
+            "content": "...para o Sanguinário, ajoelhado e encolhido, de aspecto de verdade frágil."
+        },
+        {
+            "id": 112,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Ó antepassado, um mínimo de misericórdia; ó segundo vassalo, um mínimo de misericórdia; ó segundo vassalo, um mínimo de misericórdia..."
+        },
+        {
+            "id": 113,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Sujeito malcriado."
+        },
+        {
+            "id": 114,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Kahhh..."
+        },
+        {
+            "id": 115,
+            "content": "No rosto do Sanguinário ajoelhado, coisas como coágulos de sangue sobem em borbulhas e, assim mesmo, apertam a boca e endurecem."
+        },
+        {
+            "id": 116,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Você, maldito, não tem palavra alguma que ouse trocar comigo."
+        },
+        {
+            "id": 117,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "No..."
+        },
+        {
+            "id": 118,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Já o fato de você estar de pé diante dos meus olhos, tendo cometido o pecado da perversão de ir contra o sangue, é inadmissível."
+        },
+        {
+            "id": 119,
+            "model": "카세티혈귀",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Hmf! Hmmf! Hmmmf!!!"
+        },
+        {
+            "id": 120,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Endurece e derrete de novo."
+        },
+        {
+            "id": 121,
+            "content": "Assim que aquelas palavras chegaram ao fim, o corpo de Cassetti começa a se transformar devagar em água de sangue e a escorrer."
+        },
+        {
+            "id": 122,
+            "content": "Depressa e, ao mesmo tempo, pesadamente. De modo cruel, como num certo dia em que o sorvete de que Don Quixote gostava caiu no chão quente e derreteu."
+        },
+        {
+            "id": 123,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 124,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "... Ah."
+        },
+        {
+            "id": 125,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "You."
+        },
+        {
+            "id": 126,
+            "content": "Em seguida, Don Quixote fitou a mim, que estava caído no chão."
+        },
+        {
+            "id": 127,
+            "content": "E então, com uma expressão, de algum modo, de pena..."
+        },
+        {
+            "id": 128,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Pois é... então tu és o relógio da promessa..."
+        },
+        {
+            "id": 129,
+            "content": "Disse palavras que não dava bem para entender."
+        },
+        {
+            "id": 130,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "A mim, o Rocinante…"
+        },
+        {
+            "id": 131,
+            "content": "Rocinante..."
+        },
+        {
+            "id": 132,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Eu lhe peço…"
+        },
+        {
+            "id": 133,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 134,
+            "content": "Eu, devagar, estendi a mão e peguei o calçado de Don Quixote, e..."
+        },
+        {
+            "id": 135,
+            "content": "...calcei-o, um a um, nos pés de Don Quixote, que pisava o chão descalça."
+        },
+        {
+            "id": 136,
+            "model": "실루엣돈키호테",
+            "teller": "Don Quixote?",
+            "title": "???",
+            "content": "Ah… um dia…"
+        },
+        {
+            "id": 137,
+            "content": "Logo em seguida, Donquixote soltou um suspiro baixo e cambaleou, e então…"
+        },
+        {
+            "id": 138,
+            "content": "Caiu no chão sem mais."
+        }
+    ]
+}

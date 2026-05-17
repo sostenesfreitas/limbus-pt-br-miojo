@@ -1,0 +1,179 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Bloody Mary Assombrada",
+            "model": "싱클레어",
+            "content": "Faz tempo que eu não ia a uma casa mal-assombrada... eu achava que, se voltasse, seria com a família... e estar assim, sozinho..."
+        },
+        {
+            "id": 1,
+            "model": "로쟈",
+            "content": "'Sozinho', que palavras magoadas... você veio junto com os companheiros~"
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Hum. Bom, somos uma espécie de família, né?"
+        },
+        {
+            "id": 3,
+            "model": "료슈",
+            "content": "…….\n"
+        },
+        {
+            "id": 4,
+            "model": "오티스",
+            "content": "A conversa fiada para por aqui. Há algo lá embaixo; que todos possam verificar."
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "...De fato, restam vestígios de que já ocorreram alguns combates."
+        },
+        {
+            "id": 6,
+            "model": "이상",
+            "content": "A julgar pelo cheiro de podridão que enche os pulmões... eu diria que se passou um bom tempo desde que os vestígios foram feitos."
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "...Parece não haver entre eles ninguém que aparente ser dos Solucionadores que participaram desta subjugação."
+        },
+        {
+            "id": 8,
+            "content": "...É claro que talvez estejam vagando pela casa mal-assombrada como bolsas de sangue, mas não há necessidade de mencionar essa possibilidade aqui."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<There's blood everywhere...>"
+        },
+        {
+            "id": 10,
+            "content": "Tzzzt... zzzt..."
+        },
+        {
+            "id": 11,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "A todos vocês que chegaram à Bloody Mary Assombrada, sejam de coração bem-vindos."
+        },
+        {
+            "id": 12,
+            "content": "O retrato de onde a voz escorria estava rasgado pela metade."
+        },
+        {
+            "id": 13,
+            "content": "A julgar pela parte que restou, pelo visto o conceito é... um retrato do rei deste castelo."
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "content": "... It's all torn up."
+        },
+        {
+            "id": 15,
+            "model": "뫼르소",
+            "content": "Pela forma do rasgo, apura-se que ele foi cortado de propósito, já desde quando foi pendurado aqui."
+        },
+        {
+            "id": 16,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Este lugar é o castelo antigo de um reino que agora decaiu, mas que num tempo alcançou uma prosperidade resplandecente."
+        },
+        {
+            "id": 17,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Pois bem. Agora, vocês devem explorar cada canto do castelo e desvendar o segredo do antigo reino."
+        },
+        {
+            "id": 18,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Como há muitos dispositivos que podem ser um tanto assustadores, talvez seja melhor que as pessoas de corpo e espírito frágeis reconsiderem a exploração."
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "content": "So he says."
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "E-eu-eu-eu não me amedronto com uma coisa dessas!"
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Ugh, dói se você apertar com tanta força, senhora Don Quixote... solte o meu braço, por favor..."
+        },
+        {
+            "id": 22,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Hã? Sancho, se tem algo a dizer, você precisa dizer de perto..."
+        },
+        {
+            "id": 23,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Como assim, eu pulei uma fala...? Ah, eu não fiz aquilo."
+        },
+        {
+            "id": 24,
+            "teller": "Narração",
+            "title": "La Manchaland",
+            "content": "Hum-hum. Que a vossa exploração não perca a coragem, mesmo em meio a um medo gélido."
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "content": "Pelo visto começa daqui... vendo a estrutura, provavelmente daquele espelho ali saltavam de repente os Sanguinários escondidos. E, pela folga desta junção do teto, provavelmente aqui também..."
+        },
+        {
+            "id": 26,
+            "model": "신부부하",
+            "teller": "Sanguinário Irritado",
+            "title": "La Manchaland",
+            "content": "Keeeeeh! I hate smartasses who can't keep their mouths shut! Stop explaining things!"
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "HEEAAAAGH!!!!!"
+        },
+        {
+            "id": 28,
+            "model": "히스클리프",
+            "content": "Bloody hell!"
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<Huh, she was right...>"
+        },
+        {
+            "id": 30,
+            "model": "신부부하",
+            "teller": "Sanguinário Irritado",
+            "title": "La Manchaland",
+            "content": "O encanto que a Bloody Mary Assombrada tem são hóspedes como aqueles, que gritam mesmo sabendo que vão levar o susto!"
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "É que eu não sou desse tipo gentil."
+        },
+        {
+            "id": 32,
+            "model": "신부부하",
+            "teller": "Sanguinário Irritado",
+            "title": "La Manchaland",
+            "content": "Eu ia ficar quieto, escondido, sem aparecer, mas, por causa deste aqui, eu me irritei e não dá mais...!"
+        }
+    ]
+}

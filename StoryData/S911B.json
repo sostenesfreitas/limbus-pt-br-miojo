@@ -1,0 +1,587 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Entrada do Setor de Transmissão da Equipe da LCE",
+            "model": "싱클레어",
+            "content": "I think it's this way."
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "Hum, só aqui é que há luz acesa... Está escrito 'Setor de Transmissão'."
+        },
+        {
+            "id": 2,
+            "model": "로쟈",
+            "content": "Vir para cá... foi a escolha certa, não foi?"
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "content": "Pode-se considerar, sem erro, que todos os caminhos, exceto o que leva ao Setor de Transmissão, estavam bloqueados."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "De um jeito ou de outro... não havia outra opção senão vir para cá."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Está tão escuro que mal dá para ver...>"
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "Como a energia está, na maior parte, cortada, as portas não devem estar trancadas."
+        },
+        {
+            "id": 7,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Stop."
+        },
+        {
+            "id": 8,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Se derem mais um passo que seja... a gente responde na força, na hora."
+        },
+        {
+            "id": 9,
+            "content": "Naquele momento, uma voz que parecia já termos ouvido em algum lugar nos lançou, por um alto-falante, um aviso cortante."
+        },
+        {
+            "id": 10,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Aqui na frente tem um monte de minas de segurança instaladas. E, mesmo que vocês passem por elas, vão ter que encarar o pessoal que está aqui dentro. Deste lado é só gente capaz de combater."
+        },
+        {
+            "id": 11,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Ah~ e, mesmo que estejam confiantes, a gente também tem um dispositivo de autodestruição. Uma bomba ultracompacta, microscópica... com engrenagens cravadas... uma bomba..."
+        },
+        {
+            "id": 12,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Espera, o que está escrito aqui? Esta... bom... o quê? É a primeira vez que vejo alguém com letra pior que a minha."
+        },
+        {
+            "id": 13,
+            "model": "마튼",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Ah, isto é... ao se arremessar esta bomba, ocorre uma explosão num raio de 100m..."
+        },
+        {
+            "id": 14,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Ei! Uma bomba dessas seria violação de um interdito, não faz o menor sentido... escreve uma coisa mais convincente..."
+        },
+        {
+            "id": 15,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Ah, enfim. Se vocês não querem ficar soterrados junto com a gente, numa instalação desabada, voltem agora mesmo!"
+        },
+        {
+            "id": 16,
+            "model": "싱클레어",
+            "content": "Dá pra ouvir tudo..."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Há boa chance de a bomba ser mentira. Pois toda bomba classificada como explosivo... conforme o que a Cabeça estabeleceu, tem obrigatoriamente de ser instalada em algo."
+        },
+        {
+            "id": 18,
+            "model": "이상",
+            "content": "Hum... o alcance também é absurdo. Fazer explodir num instante um raio daquele tamanho... violaria muitas regulamentações e acordos."
+        },
+        {
+            "id": 19,
+            "model": "에즈라",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "...Mas as minas de segurança são de verdade. Se chegarem mais perto... uma eletricidade sobrecarregada vai fritar vocês num instante."
+        },
+        {
+            "id": 20,
+            "content": "A voz, que se irrita como quem se exalta, vai me parecendo cada vez mais familiar. Decerto, em algum lugar..."
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "content": "Segundo a senhora Alisa, era para aquele sujeito, o Hohenheim, estar por estas redondezas, mas..."
+        },
+        {
+            "id": 22,
+            "model": "호엔하임",
+            "teller": "Alto-falante",
+            "title": "Setor de Transmissão",
+            "content": "Um momento, vocês disseram 'Alisa' agora há pouco?"
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "Esta voz... ao que parece, não é engano."
+        },
+        {
+            "id": 24,
+            "content": "Agora se ouvia uma voz inequivocamente familiar."
+        },
+        {
+            "id": 25,
+            "model": "호엔하임",
+            "teller": "Uma Voz Nada Acolhedora",
+            "title": "???",
+            "content": "A julgar por essa voz nada bem-vinda..."
+        },
+        {
+            "id": 26,
+            "model": "호엔하임",
+            "teller": "Uma Voz Nada Acolhedora",
+            "title": "???",
+            "content": "...vocês são, de fato, pessoas que se pode deixar entrar aqui."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "A julgar por se ouvir uma voz nada bem-vinda, parece que se trata de pessoas de quem podemos nos aproximar sem problema."
+        },
+        {
+            "id": 28,
+            "content": "A heavy thunk, and then..."
+        },
+        {
+            "id": 29,
+            "content": "A porta do Setor da Sala de Transmissão se abriu devagar e, antes que se pudesse identificar direito quem estava lá dentro..."
+        },
+        {
+            "id": 30,
+            "place": "Setor de Transmissão da Equipe da LCE",
+            "model": "에즈라",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, que isso! Eram vocês? Tinham dito logo!"
+        },
+        {
+            "id": 31,
+            "model": "에즈라",
+            "content": "Remember me?"
+        },
+        {
+            "id": 32,
+            "model": "싱클레어",
+            "content": "Oh! It's Miss Ezra!"
+        },
+        {
+            "id": 33,
+            "content": "Era Ezra, que, antes de irmos a La Manchaland, nos fornecera, por vídeo, um bom tanto de conhecimento sobre os Sanguinários."
+        },
+        {
+            "id": 34,
+            "model": "에즈라",
+            "content": "Soube que vocês fizeram um baita papel em La Manchaland, é?"
+        },
+        {
+            "id": 35,
+            "model": "에즈라",
+            "content": "Foi graças à ajuda que a gente deu, né? Ah, e quem é aquele Sanguinário absurdamente forte que dizem que está entre vocês?"
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "Huh? What? Oh... Well, that's..."
+        },
+        {
+            "id": 37,
+            "model": "모제스2",
+            "content": "As saudações ficam para depois, Ezra."
+        },
+        {
+            "id": 38,
+            "content": "Logo, a pessoa chamada Moses se mostrou."
+        },
+        {
+            "id": 39,
+            "content": "Era, ao que parece, a pessoa que víramos também pelo vídeo... a que dissera ocupar o papel de chefe de equipe da LCD."
+        },
+        {
+            "id": 40,
+            "model": "이스마엘",
+            "content": "...Foi você que, agora há pouco, fez toda aquela ameaça, falando de bomba e tal?"
+        },
+        {
+            "id": 41,
+            "model": "에즈라",
+            "content": "Não teve jeito~ A gente achava que não tinha sobrado ninguém por estas redondezas além da gente, e de repente ouviu o som de uma dúzia de pessoas chegando em bando... Olha, aquela tela ali nem liga; não sei se eles destruíram tudo..."
+        },
+        {
+            "id": 42,
+            "content": "Ezra apontou, com um gesto de queixo, os monitores parados que se encontravam no Setor de Transmissão."
+        },
+        {
+            "id": 43,
+            "model": "에즈라",
+            "content": "Pra constar, aquele sujeito ali, o tal absurdamente inteligente, está consertando as câmeras. Como a energia foi cortada, dizem que vai levar um tempinho."
+        },
+        {
+            "id": 44,
+            "model": "호엔하임",
+            "content": "Eu não esperava que voltássemos a nos cruzar por um bom motivo, mas tampouco imaginava reencontrá-los desta maneira."
+        },
+        {
+            "id": 45,
+            "content": "Sob o monitor que Ezra apontara, Hohenheim, que parecia ainda mais abatido, mexia num circuito complexo e, ao nos ver, acenou com a cabeça com um rosto nada acolhedor."
+        },
+        {
+            "id": 46,
+            "model": "마튼",
+            "content": "Olá. Que bom que não vejo ninguém ferido."
+        },
+        {
+            "id": 47,
+            "content": "O senhor Marton nos cumprimentou, fazendo isso também pela parte que cabia a ele."
+        },
+        {
+            "id": 48,
+            "model": "호엔하임",
+            "content": "Mudando de assunto, vocês disseram que Alisa lhes indicou a nossa localização? Hum. Vendo que não a trouxeram junto, ou está com um ferimento fatal, ou já morreu."
+        },
+        {
+            "id": 49,
+            "model": "이스마엘",
+            "content": "Eh... é um ferimento fatal. Mas estamos atrás de um jeito de salvá-la."
+        },
+        {
+            "id": 50,
+            "content": "Diante da atitude de quem decreta com frieza a vida de uma subordinada, Ishmael respondeu, como quem está farto."
+        },
+        {
+            "id": 51,
+            "model": "호엔하임",
+            "content": "'Atrás de um jeito', diz ela, como quem fala de uma brincadeira de caça ao tesouro."
+        },
+        {
+            "id": 52,
+            "model": "호엔하임",
+            "content": "Talvez tivesse sido mais útil para Alisa vocês terem encerrado a respiração dela e voltado."
+        },
+        {
+            "id": 53,
+            "model": "히스클리프",
+            "content": "Como assim... mesmo vendo o que a gente fez até agora, você não entende? Não é nem que seja um caso perdido; é pra não desistir fácil."
+        },
+        {
+            "id": 54,
+            "model": "마튼",
+            "content": "Compreendam, por favor. Alguns dos invasores... parecem ter prazer em infligir dor às pessoas; é por isso que ele está mais cauteloso..."
+        },
+        {
+            "id": 55,
+            "model": "마튼",
+            "content": "Eu e o chefe de equipe estávamos perto do laboratório no horário em que o assalto começou. Não havia muitos funcionários circulando, e era perto daqui, do Setor de Transmissão."
+        },
+        {
+            "id": 56,
+            "model": "마튼",
+            "content": "Apenas... foi só por esse motivo que conseguimos fugir até aqui com os membros intactos."
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "content": "... Verily, young Alyssa shall persevere steadfastly."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "content": "Nós prometemos. Que voltaríamos para salvá-la."
+        },
+        {
+            "id": 59,
+            "model": "마튼",
+            "content": "...Obrigado. A Alisa também... há de estar confiando."
+        },
+        {
+            "id": 60,
+            "model": "에즈라",
+            "content": "Esperem. Desculpem cortar o clima emocionante, mas... se vocês vieram, então aquele Excêntrico também está vindo para cá, certo?"
+        },
+        {
+            "id": 61,
+            "model": "에즈라",
+            "content": "Onde ele está agora? Será que já foi atrás dos sujeitos que atacaram...?"
+        },
+        {
+            "id": 62,
+            "model": "모제스2",
+            "content": "... Ezra."
+        },
+        {
+            "id": 63,
+            "content": "Desde que entramos, Moses, que, por alguma razão, fitava Outis, voltou o olhar para Ezra."
+        },
+        {
+            "id": 64,
+            "model": "에즈라",
+            "content": "Chefe de equipe! Se nos juntarmos ao Excêntrico Vermelho, mesmo sem a caçula não teríamos chance de sobra?"
+        },
+        {
+            "id": 65,
+            "model": "모제스2",
+            "content": "Sim. Mas... o Olhar Vermelho, ao que parece, não conseguiu vir junto."
+        },
+        {
+            "id": 66,
+            "model": "모제스2",
+            "content": "Sem necessidade de mencionar outro motivo, basta ver a expressão deles para saber."
+        },
+        {
+            "id": 67,
+            "model": "에즈라",
+            "content": "O quêêê?! Quer dizer, por que só vocês vieram?!"
+        },
+        {
+            "id": 68,
+            "content": "Num instante, com uma expressão de quem viu um intruso, Ezra deu um berro."
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Nós também... não viemos só porque a gente queria vir sozinha..."
+        },
+        {
+            "id": 70,
+            "model": "그레고르",
+            "content": "O senhor guia ficou preso pelo tornozelo... Pela fala de Ryoshu, era um sujeito chamado de Pai do Polegar da Teia, mas..."
+        },
+        {
+            "id": 71,
+            "model": "모제스2",
+            "content": "Como os que assaltaram o laboratório... ele devia dispor de uma força considerável."
+        },
+        {
+            "id": 72,
+            "model": "오티스",
+            "content": "...Era alguém com uma habilidade notável demais para se ignorar."
+        },
+        {
+            "id": 73,
+            "model": "모제스2",
+            "content": "Comparado a Euríalo, do esquadrão Argos, como ele se sai?"
+        },
+        {
+            "id": 74,
+            "model": "오티스",
+            "content": "Hum... não deve haver grande diferen..."
+        },
+        {
+            "id": 75,
+            "model": "오티스",
+            "content": "Um momento. Você... conhecer aquele esquadrão e aquele nome quer dizer..."
+        },
+        {
+            "id": 76,
+            "content": "Moses, talvez sem intenção de responder às palavras de Outis, fechou os olhos e mergulhou numa breve reflexão, e então,"
+        },
+        {
+            "id": 77,
+            "content": "logo, como quem pôs as ideias em ordem, voltou ao tema original e prosseguiu falando."
+        },
+        {
+            "id": 78,
+            "model": "모제스3",
+            "content": "... Charon—is she taken hostage?"
+        },
+        {
+            "id": 79,
+            "model": "싱클레어",
+            "content": "Hã? Como você sabe disso...?"
+        },
+        {
+            "id": 80,
+            "model": "모제스3",
+            "content": "Vocês descreveram o agressor no singular. Pode ser que tenham omitido algo; mas, ainda assim, deviam ser poucos indivíduos."
+        },
+        {
+            "id": 81,
+            "model": "모제스3",
+            "content": "E... mesmo sem terem trazido o motorista, vocês não demonstraram nem a fala nem a crença de que o Olhar Vermelho daria cabo do agressor e logo viria."
+        },
+        {
+            "id": 82,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "model": "에즈라",
+            "content": "O chefe de equipe, é só ele olhar que percebe quase tudo."
+        },
+        {
+            "id": 84,
+            "model": "에즈라",
+            "content": "Mas, vindo para cá, vocês não cruzaram com ninguém?"
+        },
+        {
+            "id": 85,
+            "model": "이스마엘",
+            "content": "Por sorte, fora os Pecados e os bonecos, não havia... Espera, a gente também vai fazer umas perguntas!"
+        },
+        {
+            "id": 86,
+            "content": "Em meio à enxurrada de perguntas, Ishmael, a custo, retomou a palavra."
+        },
+        {
+            "id": 87,
+            "model": "이스마엘",
+            "content": "Os senhores são do departamento da LCD. Por que estão aqui na sede, onde fica o departamento da LCE?"
+        },
+        {
+            "id": 88,
+            "model": "에즈라",
+            "content": "Ah, isso é o seguinte..."
+        },
+        {
+            "id": 89,
+            "model": "에즈라",
+            "content": "Hoje era o dia em que estava marcada, no departamento da LCE, uma importante apresentação de resultados."
+        },
+        {
+            "id": 90,
+            "model": "에즈라",
+            "content": "Como era uma apresentação supeer importante, chegavam vários avisos por dia dizendo que a presença era obrigatória... Não é, chefe de equipe? Pelo visto todo mundo esqueceu que o nosso departamento também é supeer ocupado."
+        },
+        {
+            "id": 91,
+            "model": "호엔하임",
+            "content": "Desculpe contestar, mas aquilo era, sim, uma apresentação supeer importante."
+        },
+        {
+            "id": 92,
+            "model": "에즈라",
+            "content": "Está bem, eu entendo bem que os resultados de vocês são importantes, mas o nosso departamento também é supeer, supeer..."
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<Esperem... o que importa agora não é se aquela apresentação é importante ou não...>"
+        },
+        {
+            "id": 94,
+            "model": "모제스2",
+            "content": "A apresentação, no fim, nem chegou a começar, de modo que nós não temos como avaliar a sua importância."
+        },
+        {
+            "id": 95,
+            "model": "모제스2",
+            "content": "Em conclusão: foi por causa desse evento que os membros da nossa equipe se reuniram aqui, no departamento da LCE."
+        },
+        {
+            "id": 96,
+            "model": "모제스2",
+            "content": "E há alguém a apresentar. É um novo membro de equipe que ingressou na LCD."
+        },
+        {
+            "id": 97,
+            "model": "에즈라",
+            "content": "O nosso departamento também cresceu de tamanho agora, é isso que eu digo!"
+        },
+        {
+            "id": 98,
+            "model": "모제스2",
+            "content": "Soube que vocês já se conhecem."
+        },
+        {
+            "id": 99,
+            "content": "Do lado oposto, aproximou-se uma figura familiar, mas que eu não imaginava encontrar aqui."
+        },
+        {
+            "id": 100,
+            "model": "LCD앵두",
+            "content": "Encontrar-me convosco é sempre em meio a uma refrega assim — sinto-me sem jeito. Tendes passado bem?"
+        },
+        {
+            "id": 101,
+            "model": "홍루",
+            "content": "Senhor Aengdu! Quanto tempo."
+        },
+        {
+            "id": 102,
+            "model": "홍루",
+            "content": "Is Mister Bamboo-hatted Kim... still in recovery?"
+        },
+        {
+            "id": 103,
+            "model": "LCD앵두",
+            "content": "Hum. Quanto ao Wudu... faz muito que o corpo dele sarou, mas parece que o espírito ainda há de levar tempo para clarear. A mim não resta senão esperar."
+        },
+        {
+            "id": 104,
+            "model": "LCD앵두",
+            "content": "Em breve ele há de melhorar. Até lá, a mim resta apenas expiar em silêncio o erro que cometi naquela ocasião..."
+        },
+        {
+            "id": 105,
+            "content": "...Aengdu, ao que tudo indica, parecia estar se recordando de quando, ao se ver tomado por uma Distorção transmitida, esfaqueara Kim Sat-gat."
+        },
+        {
+            "id": 106,
+            "model": "싱클레어",
+            "content": "Hum, ainda assim, que bom que o senhor parece estar se adaptando bem desde que se juntou à equipe da LCD."
+        },
+        {
+            "id": 107,
+            "content": "Sinclair, percebendo que a expressão de Aengdu começava a se ensombrecer de leve, interveio depressa para mudar o ar."
+        },
+        {
+            "id": 108,
+            "model": "LCD앵두",
+            "content": "Estou na condição de quem depende dos outros. Pois a nós já não resta um lugar decente para onde voltar..."
+        },
+        {
+            "id": 109,
+            "model": "LCD앵두",
+            "content": "But someday... we will..."
+        },
+        {
+            "id": 110,
+            "model": "LCD앵두",
+            "content": "... return to S Corp. together."
+        },
+        {
+            "id": 111,
+            "model": "이스마엘",
+            "content": "Pelo visto aqueles ali também estão se esforçando muito para se enturmar."
+        },
+        {
+            "id": 112,
+            "model": "그레고르",
+            "content": "Para onde quer que se vá, adaptar-se no início é sempre difícil."
+        },
+        {
+            "id": 113,
+            "model": "모제스2",
+            "content": "Como o pessoal daqui parece já ter, mais ou menos, travado conhecimento..."
+        },
+        {
+            "id": 114,
+            "model": "모제스2",
+            "content": "...vamos passar logo ao próximo ponto."
+        }
+    ]
+}

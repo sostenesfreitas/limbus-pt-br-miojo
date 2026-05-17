@@ -1,0 +1,1593 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Tiekansi, Há Pouco Tempo",
+            "content": "Partimos rapidamente, deixando para trás o <ruby=Templo do Limiar de Ferro>Tiekansi</ruby> que, inundado de água, se tornara uma verdadeira lagoa."
+        },
+        {
+            "id": 1,
+            "model": "에고가환",
+            "content": "Merda… deve ter sido arrastado para algum canto. Encontrem-no!"
+        },
+        {
+            "id": 2,
+            "model": "에고구보",
+            "content": "……Aqui! Aquele precioso espécime……"
+        },
+        {
+            "id": 3,
+            "content": "……Ao olhar para trás, Gubo movia-se em pânico lá dentro, como se estivesse à procura de algo. Jia Huan, que olhara fixamente para um ponto, começou a caminhar em direção ao centro do Tiekansi."
+        },
+        {
+            "id": 4,
+            "model": "에고가환",
+            "content": "……"
+        },
+        {
+            "id": 5,
+            "content": "Jia Huan cravou com força a sua arma no centro do chão do Tiekansi……"
+        },
+        {
+            "id": 6,
+            "content": "Toda a paisagem que os Xianren tinham estado a contemplar começou a tornar-se lenta, confusa e distorcida."
+        },
+        {
+            "id": 7,
+            "model": "에고가환",
+            "content": "……Hah."
+        },
+        {
+            "id": 8,
+            "model": "에고가환",
+            "content": "Vamos sair daqui por enquanto……"
+        },
+        {
+            "id": 9,
+            "content": "Os chamados Xianren rastejavam num estado deplorável, e Jia Huan lançou-lhes um olhar de desprezo antes de sair a correr. Gubo seguiu-o de perto."
+        },
+        {
+            "id": 10,
+            "place": "Entrada de Cheolhamsa",
+            "content": "Parece que foi o complexo campo de proteção do equipamento E.G.O que impediu os Pecadores de se aproximarem."
+        },
+        {
+            "id": 11,
+            "model": "에고가환",
+            "content": "Bah… só consegue dizer coisas desagradáveis……"
+        },
+        {
+            "id": 12,
+            "model": "에고구보",
+            "content": "Então esta é a forma verdadeira do Verme Imperial Xianhuang… Devíamos ter conseguido apanhá-lo vivo."
+        },
+        {
+            "id": 13,
+            "model": "에고구보",
+            "content": "Hm… não há nada a fazer. Mesmo em estado semimorto, é muito próximo da forma original do ser humano que ela busca — é um material de experiência altamente útil."
+        },
+        {
+            "id": 14,
+            "model": "에고가환",
+            "content": "Velhos… não me odeiem demasiado. Afinal, o Verme Imperial Xianhuang pertence ao herdeiro legítimo da família."
+        },
+        {
+            "id": 15,
+            "place": "Caminho de Descida para Cheolhamsa",
+            "model": "에고가환",
+            "content": "Espera, Gubo. Isso foi também uma capacidade daquele E.G.O?"
+        },
+        {
+            "id": 16,
+            "model": "에고구보",
+            "content": "……A rigor, não é a minha área de especialidade. Honestamente, achei apenas que poderia ser usado assim… e por sorte existia mesmo essa forma de utilização."
+        },
+        {
+            "id": 17,
+            "model": "에고구보",
+            "content": "Pensava que éramos nós a escolher os E.G.O, mas agora parece que desde o início fomos guiados a 'escolhê-los'."
+        },
+        {
+            "id": 18,
+            "model": "에고구보",
+            "content": "Hm, parece que a outra equipa já abriu a saída para nós."
+        },
+        {
+            "id": 19,
+            "model": "에고가환",
+            "content": "……A novata que foi chefe de mordomia? Humf, os seus métodos não são maus."
+        },
+        {
+            "id": 20,
+            "place": -1,
+            "content": "A superfície de um lago de uma limpidez incomparável foi perturbada por um instante……"
+        },
+        {
+            "id": 21,
+            "place": "Exterior de Cheolhamsa",
+            "content": "As ondulações na superfície da água silenciaram-se."
+        },
+        {
+            "id": 22,
+            "content": "Então, finalmente, viu-se o reflexo do Tiekansi na superfície do lago."
+        },
+        {
+            "id": 23,
+            "content": "A atmosfera era completamente diferente da que se sentira da primeira vez… era uma sensação de quietude."
+        },
+        {
+            "id": 24,
+            "model": "이스마엘",
+            "content": "……Assim o Tiekansi ficou completamente isolado do restante mundo."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<Já não consegue entrar ninguém… nem sair de lá.>"
+        },
+        {
+            "id": 26,
+            "model": "홍루",
+            "content": "Xichun e os futuros Patriarcas… nunca mais serão manipulados pelas pessoas lá de dentro."
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "content": "Assim… se quiserem, terão a oportunidade de mudar Hongyuan."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Então o que acontecer lá dentro no futuro… ninguém saberá. E se algo acontecer entre as pessoas lá dentro, ninguém poderá ajudá-los."
+        },
+        {
+            "id": 29,
+            "model": "뫼르소",
+            "content": "Até agora era o Patriarca quem fornecia o sustento. As suas vidas irão esgotando-se lentamente."
+        },
+        {
+            "id": 30,
+            "model": "료슈",
+            "content": "Hah… veneno de gu. É exatamente isso."
+        },
+        {
+            "id": 31,
+            "content": "O que eles poderão contemplar dali será provavelmente uma paisagem tão lenta e perturbada que será irritante até de se observar."
+        },
+        {
+            "id": 32,
+            "model": "다친가시춘2",
+            "title": "Família Jia",
+            "content": "Irmão……"
+        },
+        {
+            "id": 33,
+            "model": "다친가시춘2",
+            "title": "Família Jia",
+            "content": "Quando sairmos daqui, em que me tornarei?"
+        },
+        {
+            "id": 34,
+            "model": "다친가시춘2",
+            "title": "Família Jia",
+            "content": "Eu, que nada consegui fazer e não fiz senão tremer de medo às costas do irmão, posso mesmo tornar-me Patriarca para governar Hongyuan e as inúmeras famílias que lá habitam?"
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "É o que eu penso, Xichun."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "A pessoa que verdadeiramente deve ocupar o lugar de Patriarca……"
+        },
+        {
+            "id": 37,
+            "model": "홍루",
+            "content": "É precisamente aquela que teme tornar-se Patriarca, Xichun."
+        },
+        {
+            "id": 38,
+            "model": "다친가시춘2",
+            "title": "Família Jia",
+            "content": "……É?"
+        },
+        {
+            "id": 39,
+            "model": "다친가시춘2",
+            "title": "Família Jia",
+            "content": "Bem… já que o irmão diz isso, eu também vou pensar assim."
+        },
+        {
+            "id": 40,
+            "model": "홍루",
+            "content": "Vamos embora."
+        },
+        {
+            "id": 41,
+            "content": "……Calmo havia apenas o reflexo do Tiekansi na superfície do lago."
+        },
+        {
+            "id": 42,
+            "place": "Ponte que Leva a Cheolhamsa",
+            "content": "E ao regressarmos à superfície, deparámo-nos com uma paisagem ainda mais brutal do que a que encontrámos da primeira vez."
+        },
+        {
+            "id": 43,
+            "model": "가치우",
+            "content": "A hora chen prometida chegou."
+        },
+        {
+            "id": 44,
+            "content": "Jia Qiu continuava ali a agitar o seu longo bastão e, ao ver-nos, exibiu uma expressão que finalmente nos tranquilizou."
+        },
+        {
+            "id": 45,
+            "model": "가치우",
+            "content": "Conseguiste, irmão."
+        },
+        {
+            "id": 46,
+            "content": "À sua volta acumulavam-se cadáveres e feridos como montanhas……"
+        },
+        {
+            "id": 47,
+            "content": "O seu corpo e as suas roupas estavam cobertos de feridas e manchas de sangue tão numerosas que era difícil saber de quem era o sangue e quantas pessoas tinham sangrado sobre ele."
+        },
+        {
+            "id": 48,
+            "model": "임대옥다침2",
+            "content": "Bao……yu. Irmão."
+        },
+        {
+            "id": 49,
+            "model": "임대옥다침2",
+            "content": "Ainda bem……"
+        },
+        {
+            "id": 50,
+            "content": "Atrás dele seguia Daiyu, exausta."
+        },
+        {
+            "id": 51,
+            "content": "Para cumprirem a promessa de guardar aquele lugar… tinham resistido até à morte às ondas de inimigos que não paravam de chegar."
+        },
+        {
+            "id": 52,
+            "model": "다친뇌횡",
+            "content": "……Hah."
+        },
+        {
+            "id": 53,
+            "content": "Por fim, Jia Qiu e Lei Heng travaram um combate mortal."
+        },
+        {
+            "id": 54,
+            "model": "다친뇌횡",
+            "content": "Ora essa. Está tudo perdido."
+        },
+        {
+            "id": 55,
+            "model": "다친뇌횡",
+            "content": "Sem forças… os meus rapazes todos mortos… e agora aparecem-me doze reforços… já não há mesmo o que fazer……"
+        },
+        {
+            "id": 56,
+            "model": "다친뇌횡",
+            "content": "Quando essa rapariga se sentar no trono… os de lá fora vão apanhar um susto e dispersar sem dizer palavra."
+        },
+        {
+            "id": 57,
+            "content": "Lei Heng olhava-nos com uma expressão cansada e vazia."
+        },
+        {
+            "id": 58,
+            "model": "다친뇌횡",
+            "content": "Sejamos diretos. Como faço para sair daqui com vida?"
+        },
+        {
+            "id": 59,
+            "content": "Lei Heng pediu-nos a vida de forma surpreendentemente descarada."
+        },
+        {
+            "id": 60,
+            "model": "가치우",
+            "content": "……"
+        },
+        {
+            "id": 61,
+            "content": "……Achei que Jia Qiu não cederia facilmente ao seu pedido."
+        },
+        {
+            "id": 62,
+            "content": "Mas……"
+        },
+        {
+            "id": 63,
+            "content": "Em vez de rejeitar o pedido de Lei Heng, fincou o bastão no chão com um estrondo pesado e olhou para ele com autoridade."
+        },
+        {
+            "id": 64,
+            "model": "가치우",
+            "content": "……Então, <ruby=Estrela Tiantui>Chachihu</ruby>. Recebe de mim um único golpe. Assim como fizeste com <ruby=Estrela Tianjiu>Meizhelan</ruby>."
+        },
+        {
+            "id": 65,
+            "model": "다친뇌횡",
+            "content": "No final, nem sequer mereço que desates a ligadura desse bastão."
+        },
+        {
+            "id": 66,
+            "content": "Perante aquela resposta inesperada, Lei Heng esboçou um sorriso amargo e tirou um charuto do bolso."
+        },
+        {
+            "id": 67,
+            "model": "다친뇌횡",
+            "content": "Espera aí. Já acabo."
+        },
+        {
+            "id": 68,
+            "content": "Mordeu uma das pontas do charuto e cuspiu-a……"
+        },
+        {
+            "id": 69,
+            "content": "E acendeu-o lentamente, como se executasse um ritual precioso."
+        },
+        {
+            "id": 70,
+            "model": "다친뇌횡",
+            "content": "……Bate."
+        },
+        {
+            "id": 71,
+            "content": "Jia Qiu pousou levemente o enorme bastão no ombro direito de Lei Heng."
+        },
+        {
+            "id": 72,
+            "model": "가치우",
+            "content": "……"
+        },
+        {
+            "id": 73,
+            "content": "Então, anéis de luz de cor quente começaram a enrolar-se lentamente em torno do bastão……"
+        },
+        {
+            "id": 74,
+            "content": "Até que pararam aos cinco."
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 76,
+            "model": "다친뇌횡",
+            "content": "Então… é isso o Cinco Wang da Estrela Tiangang……"
+        },
+        {
+            "id": 77,
+            "model": "다친뇌횡",
+            "content": "Hah… filh——"
+        },
+        {
+            "id": 78,
+            "content": "Antes que Lei Heng terminasse de falar, o bastão deslizou horizontal e silenciosamente pelo seu ombro……"
+        },
+        {
+            "id": 79,
+            "content": "E a cabeça que devia estar no ombro explodiu no ar."
+        },
+        {
+            "id": 80,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "???",
+            "content": "……Prefere chamar-me pelo nome da estrela. Mas eu não sou senão Kong Qiu."
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "Hah… O Mindinho."
+        },
+        {
+            "id": 82,
+            "model": "료슈2",
+            "content": "Em·to·dos·os·lu·ga·res, sem·que·nin·guém·se·co·nhe·ça……"
+        },
+        {
+            "id": 83,
+            "content": "……Por um momento, todos ficaram em silêncio."
+        },
+        {
+            "id": 84,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……Não é hora de baixar a guarda."
+        },
+        {
+            "id": 85,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Enquanto aquela criança não se sentar no lugar de Patriarca e segurar firmemente as rédeas dos Heishou, isto não terminou."
+        },
+        {
+            "id": 86,
+            "content": "A voz inabalável de Jia Qiu despertou todos os que ficaram por um instante atordoados ao testemunhar aquela cena."
+        },
+        {
+            "id": 87,
+            "content": "Com ele à vanguarda, eliminámos um por um as forças que procuravam impedir a entronização da nova Patriarca."
+        },
+        {
+            "id": 88,
+            "content": "Foi de facto uma batalha árdua."
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 90,
+            "content": "Mas Hong Lu parecia mais descontraído do que alguma vez o vira……"
+        },
+        {
+            "id": 91,
+            "content": "E o meu humor também melhorou por isso."
+        },
+        {
+            "id": 92,
+            "content": "……Alguns dias depois."
+        },
+        {
+            "id": 93,
+            "place": "Portão Principal do Daguanyuan",
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "……"
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "Veio despedir-se de nós, Xichun?"
+        },
+        {
+            "id": 95,
+            "content": "……Embora a sua expressão fosse a de alguém um pouco aborrecido."
+        },
+        {
+            "id": 96,
+            "model": "싱클레어",
+            "content": "Nós… voltaremos a visitar de vez em quando."
+        },
+        {
+            "id": 97,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Ora, se vierem visitar, acham mesmo que me conseguem ver?"
+        },
+        {
+            "id": 98,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "A partir de agora vou estar tão ocupada que nem consigo falar."
+        },
+        {
+            "id": 99,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "A minha senhora diz que serão sempre recebidos de braços abertos."
+        },
+        {
+            "id": 100,
+            "model": "싱클레어",
+            "content": "Como é possível… mal nos vimos, e no entanto sinto uma estranha proximidade com o Senhor Wei……"
+        },
+        {
+            "id": 101,
+            "model": "로쟈",
+            "content": "Parece que o Senhor Wei também está muito ocupado."
+        },
+        {
+            "id": 102,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "Com efeito, há uma montanha de assuntos a resolver."
+        },
+        {
+            "id": 103,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "São demasiadas as informações transmitidas apenas através do Verme… só documentá-las levará sabe-se lá quanto tempo."
+        },
+        {
+            "id": 104,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "Mas vocês cortaram um dos elos deste ciclo, e a minha senhora certamente transformará este Hongyuan num lugar mais habitável."
+        },
+        {
+            "id": 105,
+            "content": "Embora muita coisa tivesse mudado, quem acabou por sentar-se no lugar de Patriarca foi Xichun."
+        },
+        {
+            "id": 106,
+            "content": "A Patriarca de Hongyuan que não possui o Verme."
+        },
+        {
+            "id": 107,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "As pessoas que restam no Daguanyuan… parece que ainda têm muitas perguntas a fazer-me."
+        },
+        {
+            "id": 108,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Mas também parece que só estão a observar. Afinal… eu sou a Patriarca."
+        },
+        {
+            "id": 109,
+            "model": "로쟈",
+            "content": "Bastante carismática desde o primeiro comando~ Algo como 'O Daguanyuan está mergulhado no caos. Heishou — ramos Chou, Chen, Shen e You, avançai!' não era?"
+        },
+        {
+            "id": 110,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "……Não me imites assim."
+        },
+        {
+            "id": 111,
+            "model": "이상",
+            "content": "Deu uma primeira impressão de alguém decidido — certamente haverá muita gente que depositará esperanças em si."
+        },
+        {
+            "id": 112,
+            "model": "이상",
+            "content": "Afinal é um tipo de líder nunca visto antes… por isso deve haver muita gente que quer perguntar sobre a nova ordem e sobre vários outros assuntos."
+        },
+        {
+            "id": 113,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "E então? A ordem só precisa de ser reestabelecida."
+        },
+        {
+            "id": 114,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Do começo… ao fim……"
+        },
+        {
+            "id": 115,
+            "content": "Jia Xichun soltou um suspiro sonoro enquanto olhava ao redor do Daguanyuan."
+        },
+        {
+            "id": 116,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Ah… sinto que envelheci dez anos de uma vez."
+        },
+        {
+            "id": 117,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Pensava que eu seria o pintor a segurar o pincel deste quadro, e no entanto……"
+        },
+        {
+            "id": 118,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Nem em sonhos imaginei ceder o pincel a mãos alheias, meu senhor."
+        },
+        {
+            "id": 119,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……"
+        },
+        {
+            "id": 120,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Ainda assim é uma sorte — a direção das pinceladas é a mesma."
+        },
+        {
+            "id": 121,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Um Patriarca que não anseia pela imortalidade… que mudanças trará a Hongyuan, pergunto eu."
+        },
+        {
+            "id": 122,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "É uma resolução muito mais pacífica do que o que o teu plano propunha. 'Arrancar o olho do meu irmão para usar como chave do templo', não era?"
+        },
+        {
+            "id": 123,
+            "model": "로쟈",
+            "content": "O quê?!"
+        },
+        {
+            "id": 124,
+            "model": "료슈2",
+            "content": "E·fi·ciên·cia na cru·el·da·de. Mi·ni·ma·lis·mo… hah."
+        },
+        {
+            "id": 125,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Era apenas uma brincadeira. Embora de facto tenha dito… que se não houvesse outro remédio, era assim que se faria."
+        },
+        {
+            "id": 126,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Ah. Meu senhor, o que tenciona fazer daqui em diante?"
+        },
+        {
+            "id": 127,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……O Mindinho distanciou-se do caminho da benevolência. Após reunir-me com Yan Hui, partirei para Liangshan e negociarei com os Moístas."
+        },
+        {
+            "id": 128,
+            "model": "자로",
+            "title": "O Mindinho",
+            "content": "Há ainda que discutir o assunto da posição vaga da Estrela Tiantui."
+        },
+        {
+            "id": 129,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Exato. Depois disso, partirei para a Q Corp."
+        },
+        {
+            "id": 130,
+            "model": "단테",
+            "content": "<O Mindinho?>"
+        },
+        {
+            "id": 131,
+            "model": "파우스트",
+            "content": "Sim. ……O Senhor Kong Qiu é de facto do Mindinho."
+        },
+        {
+            "id": 132,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Com efeito. Como membro do Mindinho, pretendo mudar o mundo tendo a benevolência como base."
+        },
+        {
+            "id": 133,
+            "model": "싱클레어",
+            "content": "Recordando o que a senhorita Ryōshū disse……"
+        },
+        {
+            "id": 134,
+            "model": "싱클레어",
+            "content": "O Senhor Lei Heng e a senhorita Zilu são ambos do Mindinho… então por que lutavam entre si?"
+        },
+        {
+            "id": 135,
+            "model": "파우스트",
+            "content": "Os membros do Mindinho se encontram e se dispersam quando certas condições se alinham. Porém, quando não há um chamado..."
+        },
+        {
+            "id": 136,
+            "model": "료슈2",
+            "content": "... eles apenas vivem as próprias vidas sem saber quem é quem. Sem chamado, sem solidariedade."
+        },
+        {
+            "id": 137,
+            "model": "료슈",
+            "content": "A.P.Ó.S."
+        },
+        {
+            "id": 138,
+            "model": "싱클레어",
+            "content": "Agindo Por Ordens Solitárias... certo?"
+        },
+        {
+            "id": 139,
+            "model": "파우스트",
+            "content": "Parece que a senhorita Zilu e Lei Heng conheciam a identidade um do outro, mas nenhum dos dois conhecia a informação sobre o Senhor Kong Qiu."
+        },
+        {
+            "id": 140,
+            "model": "자공",
+            "title": "Facção de Kong Qiu",
+            "content": "Percebe bem as coisas. Ouvi dizer que é quem transmite informações importantes nesta equipa."
+        },
+        {
+            "id": 141,
+            "model": "파우스트",
+            "content": "……"
+        },
+        {
+            "id": 142,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "Deve compreender que a informação de que o meu senhor e nós fazemos parte do Mindinho é de grande peso."
+        },
+        {
+            "id": 143,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "Acredito que guardarão segredo, pois é o que se impõe."
+        },
+        {
+            "id": 144,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Tenho algo a perguntar-lhe."
+        },
+        {
+            "id": 145,
+            "content": "Enquanto as pessoas reunidas à volta se dispersavam por um momento, Kong Qiu aproximou-se de mim."
+        },
+        {
+            "id": 146,
+            "content": "De início não pensei que fosse falar comigo, por isso não me apercebi logo."
+        },
+        {
+            "id": 147,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Gestora Dante."
+        },
+        {
+            "id": 148,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Seja qual for o companheiro, desde que queira abrir o seu próprio caminho……"
+        },
+        {
+            "id": 149,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Prestará a sua ajuda?"
+        },
+        {
+            "id": 150,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Tal como fez com o meu irmão."
+        },
+        {
+            "id": 151,
+            "content": "Acenei com a cabeça."
+        },
+        {
+            "id": 152,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Mesmo que um deles trilhe o caminho da Asura?"
+        },
+        {
+            "id": 153,
+            "content": "O olhar de Kong Qiu passou fugazmente por um dos Pecadores entre a multidão."
+        },
+        {
+            "id": 154,
+            "content": "Aquele Pecador exalou lentamente a fumaça que aspirara fundo, como um suspiro, e mexeu por hábito na espada que nunca desembainhava."
+        },
+        {
+            "id": 155,
+            "content": "Enquanto puderem continuar em frente, continuarei sempre a dar-lhes um empurrão. Esse pensamento não mudará."
+        },
+        {
+            "id": 156,
+            "content": "Acenei com a cabeça novamente."
+        },
+        {
+            "id": 157,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……Compreendo."
+        },
+        {
+            "id": 158,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "……Ah. Meu senhor, há mais um assunto — embora seja ainda uma conjetura, as informações indicam que Jia Yuanchun está em conluio com as forças rebeldes de Hongyuan, incluindo a família Xue e a família Shi."
+        },
+        {
+            "id": 159,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Embora seja ainda uma conjetura, Jia Yuanchun parece de facto ter ligações às forças rebeldes de Hongyuan."
+        },
+        {
+            "id": 160,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Desapareceu imediatamente após o fim da agitação… já vejo."
+        },
+        {
+            "id": 161,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "A pessoa que ordenou a decapitação de Shi Yihua pertence ao círculo de poder da família Shi… identificando-a e seguindo o rasto, conseguiremos delinear o quadro geral."
+        },
+        {
+            "id": 162,
+            "model": "홍루",
+            "content": "Continuará a vaguear, irmão mais velho?"
+        },
+        {
+            "id": 163,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Com efeito."
+        },
+        {
+            "id": 164,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Planeio percorrer a Cidade e dialogar com os senhores de cada Ninho."
+        },
+        {
+            "id": 165,
+            "content": "Respondeu calmamente a Hong Lu e depois virou levemente a cabeça na direção de Jia Xichun."
+        },
+        {
+            "id": 166,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……Ninguém pode afirmar com certeza que Jia Xichun nunca será tentada pela imortalidade ao longo do seu mandato como Patriarca."
+        },
+        {
+            "id": 167,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Ugh… não, eu!"
+        },
+        {
+            "id": 168,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "No entanto, se o coração se mantiver verdadeiramente voltado para a benevolência, dificilmente se cometerá o mal."
+        },
+        {
+            "id": 169,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Parece que vale a pena continuar a observar — estou muito satisfeito com isso."
+        },
+        {
+            "id": 170,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Quando nos voltarmos a encontrar……"
+        },
+        {
+            "id": 171,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Não, também não posso dizer que o nosso pensamento se manterá idêntico nessa altura……"
+        },
+        {
+            "id": 172,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Penso que ainda temos muito a aprender um com o outro."
+        },
+        {
+            "id": 173,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Zigong. O que acha?"
+        },
+        {
+            "id": 174,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Ficou satisfeito com esta lição?"
+        },
+        {
+            "id": 175,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "Sim… desta vez também… fui demasiado obtuso, meu senhor."
+        },
+        {
+            "id": 176,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Não há problema."
+        },
+        {
+            "id": 177,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Como sempre digo, aprender e refletir devem caminhar de mãos dadas."
+        },
+        {
+            "id": 178,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "Para mim, continua a ser um discípulo digno de conversa."
+        },
+        {
+            "id": 179,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "……Esforçar-me-ei por melhorar."
+        },
+        {
+            "id": 180,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "Agora compreendo que as suas repetidas advertências que me encheram os ouvidos de calos não eram palavras vãs."
+        },
+        {
+            "id": 181,
+            "model": "자공",
+            "title": "O Mindinho",
+            "content": "Insistia sempre que aquela pessoa era a única em Hongyuan em quem se podia verdadeiramente confiar e a quem se podia confiar uma missão importante……"
+        },
+        {
+            "id": 182,
+            "model": "가치우",
+            "teller": "Kong Qiu",
+            "title": "O Mindinho",
+            "content": "……Então, Zigong e Zilu. Afastem-se por um momento — tenho algo a pedir-vos……"
+        },
+        {
+            "id": 183,
+            "place": "Pátio do Grande Jardim",
+            "model": "습인",
+            "content": "……"
+        },
+        {
+            "id": 184,
+            "content": "Xiren olhava para nós com a mesma expressão de sempre."
+        },
+        {
+            "id": 185,
+            "model": "홍루",
+            "content": "O chá feminino preparado pela Xiren é sempre tão bom."
+        },
+        {
+            "id": 186,
+            "model": "홍루",
+            "content": "Obrigado, Xiren."
+        },
+        {
+            "id": 187,
+            "model": "습인",
+            "content": "Sim, jovem senhor."
+        },
+        {
+            "id": 188,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 189,
+            "model": "홍루",
+            "content": "Vou partir outra vez. E não sei quando regressarei."
+        },
+        {
+            "id": 190,
+            "model": "습인",
+            "content": "Compreendo."
+        },
+        {
+            "id": 191,
+            "model": "홍루",
+            "content": "……Cuide-se."
+        },
+        {
+            "id": 192,
+            "model": "홍루",
+            "content": "Ah… não, não é nada."
+        },
+        {
+            "id": 193,
+            "model": "홍루",
+            "content": "O que pensa a Xiren sobre o facto de eu voltar a partir do Daguanyuan?"
+        },
+        {
+            "id": 194,
+            "model": "습인",
+            "content": "……"
+        },
+        {
+            "id": 195,
+            "model": "습인",
+            "content": "Vá para onde o jovem senhor quiser ir."
+        },
+        {
+            "id": 196,
+            "content": "A resposta de Xiren soou fria, fazendo com que o tilintar das chávenas de chá que ela arrumava parecesse mais quente……"
+        },
+        {
+            "id": 197,
+            "model": "홍루",
+            "content": "Está bem, percebi."
+        },
+        {
+            "id": 198,
+            "content": "Hong Lu sorriu alegremente, como se tivesse obtido o que queria."
+        },
+        {
+            "id": 199,
+            "place": "Pavilhão do Daguanyuan",
+            "model": "임대옥",
+            "content": "O outrora esplendoroso Daguanyuan, até ele chegou a este estado."
+        },
+        {
+            "id": 200,
+            "model": "임대옥",
+            "content": "Ramos secos e folhas mortas… os pavilhões e as torres também se tornaram desolados e deteriorados."
+        },
+        {
+            "id": 201,
+            "model": "임대옥",
+            "content": "Tudo isto não é senão a repetição do ciclo de ascensão e declínio."
+        },
+        {
+            "id": 202,
+            "model": "홍루",
+            "content": "É verdade."
+        },
+        {
+            "id": 203,
+            "model": "홍루",
+            "content": "Por isso……"
+        },
+        {
+            "id": 204,
+            "model": "홍루",
+            "content": "Cada momento da vida é belo, não é?"
+        },
+        {
+            "id": 205,
+            "model": "임대옥",
+            "content": "……Tem razão."
+        },
+        {
+            "id": 206,
+            "model": "임대옥",
+            "content": "……"
+        },
+        {
+            "id": 207,
+            "model": "임대옥",
+            "content": "Não vou ficar à espera."
+        },
+        {
+            "id": 208,
+            "model": "임대옥",
+            "content": "Pois eu também poderei partir do Daguanyuan de repente um dia qualquer. Percebi que ficar e esperar não é a única resposta."
+        },
+        {
+            "id": 209,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 210,
+            "model": "홍루",
+            "content": "Daiyu, aquele dia em que fomos soltar papagaios de papel foi o mais divertido."
+        },
+        {
+            "id": 211,
+            "model": "홍루",
+            "content": "É o meu jogo preferido."
+        },
+        {
+            "id": 212,
+            "model": "임대옥",
+            "content": "……O meu também."
+        },
+        {
+            "id": 213,
+            "place": -1,
+            "content": "Hong Lu, que partiu do Daguanyuan, é talvez o descendente mais feliz de todos os que nasceram daquele lugar."
+        },
+        {
+            "id": 214,
+            "content": "Sentindo o significado de cada momento……"
+        },
+        {
+            "id": 215,
+            "content": "Já não é apenas um espectador passivo das mortes trágicas e das conspirações dos irmãos, como antes."
+        },
+        {
+            "id": 216,
+            "content": "Mas caminha com os seus amigos."
+        },
+        {
+            "id": 217,
+            "content": "Esta vida única e sem sentido há de um dia murchar."
+        },
+        {
+            "id": 218,
+            "content": "O destino final há de um dia desmoronar na solidão."
+        },
+        {
+            "id": 219,
+            "content": "Embora todos nós nos separemos um dia……"
+        },
+        {
+            "id": 220,
+            "content": "Há também a lei de que o que murcha floresce de novo, o que cai é reconstruído, e quem se separa há de se reencontrar."
+        },
+        {
+            "id": 221,
+            "content": "O tesouro incomparável que o Daguanyuan mais amou, Jia Baoyu."
+        },
+        {
+            "id": 222,
+            "content": "Vai subir ao autocarro uma vez mais, desta vez como Hong Lu."
+        },
+        {
+            "id": 223,
+            "content": "A sombra que uma vez vi refletida nos seus olhos de jade já não está."
+        },
+        {
+            "id": 224,
+            "content": "O que vejo agora é apenas um sorriso que irradia uma luz cristalina e vívida."
+        },
+        {
+            "id": 225
+        },
+        {
+            "id": 226,
+            "place": "Pavilhão do Daguanyuan",
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Ai……"
+        },
+        {
+            "id": 227,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "É uma pena deixar-vos ir assim."
+        },
+        {
+            "id": 228,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Para assinalar a minha tomada de posse, preparei requintadas iguarias sem poupar — esforçamo-nos o máximo……"
+        },
+        {
+            "id": 229,
+            "model": "로쟈",
+            "content": "Mmm, Hichuwn é a mewhor~!"
+        },
+        {
+            "id": 230,
+            "model": "이스마엘",
+            "content": "Já acabou o banquete há tanto tempo, como é que continuas a encontrar mais comida?"
+        },
+        {
+            "id": 231,
+            "model": "로쟈",
+            "content": "Não pwosso desperdiçar comida boa~!"
+        },
+        {
+            "id": 232,
+            "model": "그레고르",
+            "content": "Vá lá… ah, diga-se de passagem… o autocarro não vai arrancar?"
+        },
+        {
+            "id": 233,
+            "model": "싱클레어",
+            "content": "É verdade… qual é o nosso próximo destino?"
+        },
+        {
+            "id": 234,
+            "model": "히스클리프",
+            "content": "Como é que íamos saber? Não é sempre o guia que nos diz nestes momentos?"
+        },
+        {
+            "id": 235,
+            "model": "히스클리프",
+            "content": "Ah… falando nisso, onde foi aquela pessoa?"
+        },
+        {
+            "id": 236,
+            "model": "뉴소드",
+            "content": "É por isso que estou aqui~"
+        },
+        {
+            "id": 237,
+            "model": "로쟈",
+            "content": "Hm? Então podemos substituir o guia? Nesse caso desde o início a Senhorita Saude…"
+        },
+        {
+            "id": 238,
+            "model": "뉴소드",
+            "content": "Não, não é bem assim… hahaha."
+        },
+        {
+            "id": 239,
+            "model": "뉴소드",
+            "content": "É que ainda há assuntos por resolver aqui."
+        },
+        {
+            "id": 240,
+            "model": "뉴소드",
+            "content": "Por outro lado, o Olhar Carmesim tem negócios urgentes relacionados com a LCCB~ por isso está noutro lugar com o Piloto."
+        },
+        {
+            "id": 241,
+            "model": "이상",
+            "content": "Que sofrimento……"
+        },
+        {
+            "id": 242,
+            "model": "이상",
+            "content": "……? Ah, não quero dizer que trabalhar com o Piloto seja sofrimento."
+        },
+        {
+            "id": 243,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Ainda há assuntos por resolver no Daguanyuan……?"
+        },
+        {
+            "id": 244,
+            "model": "뉴소드",
+            "content": "Sim, há."
+        },
+        {
+            "id": 245,
+            "model": "뉴소드",
+            "content": "Um assunto muito, muito importante."
+        },
+        {
+            "id": 246,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "……Por que está a fazer essa cara? O que se passa?"
+        },
+        {
+            "id": 247,
+            "model": "뉴소드",
+            "content": "Pois, sabe que a nossa preciosa aliada — a senhorita Jia Xichun — se tornou chefe de uma ala, não sabe?"
+        },
+        {
+            "id": 248,
+            "model": "오티스",
+            "content": "……Oho?"
+        },
+        {
+            "id": 249,
+            "model": "오티스",
+            "content": "É esperta, não é?"
+        },
+        {
+            "id": 250,
+            "model": "뉴소드",
+            "content": "Claro que sim~ sou uma veterana com muita experiência de campo."
+        },
+        {
+            "id": 251,
+            "model": "오티스",
+            "content": "Hahaha! Muito bem, o erro do seu subordinado da última vez fica esquecido!"
+        },
+        {
+            "id": 252,
+            "model": "뉴소드",
+            "content": "Sabia que seria a primeira a perceber~ Sabemos ambas o que é mais importante para a empresa~"
+        },
+        {
+            "id": 253,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Estou mesmo a ficar preocupada… por que é que vocês duas têm essa cara assim tão suspeita……?"
+        },
+        {
+            "id": 254,
+            "model": "이스마엘",
+            "content": "Ah~"
+        },
+        {
+            "id": 255,
+            "model": "이스마엘",
+            "content": "Já percebi. Afinal até o peixe maior que se pesca apodrece se não for tratado a tempo."
+        },
+        {
+            "id": 256,
+            "model": "뉴소드",
+            "content": "Vamos anunciar a próxima missão dos membros da LCB~"
+        },
+        {
+            "id": 257,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "……Não, espera. Também tenho de estar presente?"
+        },
+        {
+            "id": 258,
+            "model": "뉴소드",
+            "content": "Para que a nossa preciosa aliada, a senhorita Jia Xichun, fique ainda mais digna do cargo de Patriarca~"
+        },
+        {
+            "id": 259,
+            "model": "뉴소드",
+            "content": "Vamos dedicar-nos a um treino com·ple·to e to·tal!"
+        },
+        {
+            "id": 260,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "……? ?? ?!?"
+        },
+        {
+            "id": 261,
+            "model": "뉴소드",
+            "content": "Ah, o tempo é limitado. Por isso terá de absorver o máximo de conteúdo de treino possível em pouco tempo."
+        },
+        {
+            "id": 262,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Qu-quem deu autorização? Eu ainda……"
+        },
+        {
+            "id": 263,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "Concordo plenamente que a minha senhora deve fortalecer-se para consolidar o seu lugar como Patriarca."
+        },
+        {
+            "id": 264,
+            "model": "웨이",
+            "title": "Facção de Xichun",
+            "content": "Para resistir com firmeza no Daguanyuan… hem, hem."
+        },
+        {
+            "id": 265,
+            "model": "오티스",
+            "content": "Nesse caso devemos agir o quanto antes."
+        },
+        {
+            "id": 266,
+            "model": "오티스",
+            "content": "Meursault! Você tem grande experiência no treino físico."
+        },
+        {
+            "id": 267,
+            "model": "뫼르소",
+            "content": "A vossa intenção foi compreendida, mas a decisão cabe à gestora."
+        },
+        {
+            "id": 268,
+            "model": "단테",
+            "content": "<……Porque não?>"
+        },
+        {
+            "id": 269,
+            "model": "뫼르소",
+            "content": "Compreendido."
+        },
+        {
+            "id": 270,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "O quê?! Por que é que me agarram!"
+        },
+        {
+            "id": 271,
+            "model": "오티스",
+            "content": "Primeiro, treino físico! A partir de agora, ao meu comando——"
+        },
+        {
+            "id": 272,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Não… não… não me amolam!!!"
+        },
+        {
+            "id": 273,
+            "model": "가시춘",
+            "title": "Patriarca de Hongwon",
+            "content": "Malditos parasitas que não largam a presa!!! Vomitem tudo o que comeram!!!"
+        },
+        {
+            "id": 274,
+            "place": -1,
+            "content": "— FIM —"
+        },
+        {
+            "id": 275,
+            "place": "???",
+            "model": "설보차",
+            "content": "Qu-que escuridão……"
+        },
+        {
+            "id": 276,
+            "model": "흑수사",
+            "teller": "???",
+            "title": "Heishou - Ramo Si",
+            "content": "Trouxemo-la, minha senhora."
+        },
+        {
+            "id": 277,
+            "model": "가원춘",
+            "content": "Quero ficar a sós com ela. Retirem-se."
+        },
+        {
+            "id": 278,
+            "model": "흑수사",
+            "teller": "???",
+            "title": "Heishou - Ramo Si",
+            "content": "Às suas ordens."
+        },
+        {
+            "id": 279,
+            "model": "설보차",
+            "content": "I-irmã Yuanchun……? Por que me trouxe……"
+        },
+        {
+            "id": 280,
+            "model": "가원춘",
+            "content": "Parece estar a sofrer muito."
+        },
+        {
+            "id": 281,
+            "model": "가원춘",
+            "content": "Afinal traiu a sua própria família Xue — seria estranho não sofrer."
+        },
+        {
+            "id": 282,
+            "model": "설보차",
+            "content": "Co-como é que sabe……!"
+        },
+        {
+            "id": 283,
+            "model": "설보차",
+            "content": "Com tanto caos naquela altura… pensei que ninguém se aperceberia……"
+        },
+        {
+            "id": 284,
+            "model": "가원춘",
+            "content": "Hahahahaha!"
+        },
+        {
+            "id": 285,
+            "model": "가원춘",
+            "content": "Baochai, ai Baochai. Que criança tão coitada."
+        },
+        {
+            "id": 286,
+            "model": "가원춘",
+            "content": "Pensa que tapando o céu com as palmas das mãos consegue escapar ao olhar de um falcão? Pensa que andando em bicos de pés consegue esconder-se da serpente que sente a terra?"
+        },
+        {
+            "id": 287,
+            "model": "설보차",
+            "content": "……N-não, irmã Yuanchun. Se os meus pais souberem……"
+        },
+        {
+            "id": 288,
+            "model": "설보차",
+            "content": "Não… então os dois já sabem?"
+        },
+        {
+            "id": 289,
+            "model": "가원춘",
+            "content": "Quer que saibam?"
+        },
+        {
+            "id": 290,
+            "model": "설보차",
+            "content": "……"
+        },
+        {
+            "id": 291,
+            "model": "가원춘",
+            "content": "Se não quiser, posso fazer com que não saibam."
+        },
+        {
+            "id": 292,
+            "model": "가원춘",
+            "content": "Não só os seus pais… não, até neste vasto Daguanyuan……"
+        },
+        {
+            "id": 293,
+            "model": "가원춘",
+            "content": "Posso fazer com que estas palavras fiquem apenas entre nós."
+        },
+        {
+            "id": 294,
+            "model": "설보차",
+            "content": "O que… o que quer que eu faça……"
+        },
+        {
+            "id": 295,
+            "model": "가원춘",
+            "content": "Hehe… não é isso. Baochai."
+        },
+        {
+            "id": 296,
+            "model": "가원춘",
+            "content": "Apenas… quero ajudá-la a realizar os seus desejos."
+        },
+        {
+            "id": 297,
+            "model": "가원춘",
+            "content": "Não foi para se tornar inimiga da família Xue que fez o que fez."
+        },
+        {
+            "id": 298,
+            "model": "가원춘",
+            "content": "Foi por Baoyu. Por alguém que talvez nunca regresse."
+        },
+        {
+            "id": 299,
+            "model": "설보차",
+            "content": "……A irmã vê-me de alto a baixo… apesar desta escuridão toda, é como se estivesse completamente exposta."
+        },
+        {
+            "id": 300,
+            "model": "설보차",
+            "content": "Baoyu… nunca mais vai regressar?"
+        },
+        {
+            "id": 301,
+            "model": "가원춘",
+            "content": "Baochai. Não há sentido algum em perguntar se vai ou não regressar."
+        },
+        {
+            "id": 302,
+            "model": "가원춘",
+            "content": "Basta fazê-lo regressar."
+        },
+        {
+            "id": 303,
+            "model": "설보차",
+            "content": "Co-como……?"
+        },
+        {
+            "id": 304,
+            "model": "가원춘",
+            "content": "Aproxime-se."
+        },
+        {
+            "id": 305,
+            "model": "가원춘",
+            "content": "Esta noite, temos muito de que falar."
+        }
+    ]
+}

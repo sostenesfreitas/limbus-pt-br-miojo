@@ -1,0 +1,447 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Mefistófeles",
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Onde...?"
+        },
+        {
+            "id": 1,
+            "model": "료슈",
+            "content": "O.O."
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "Bem-vinda ao ônibus~ Ah, e nós somos—"
+        },
+        {
+            "id": 3,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Uma Odachi...?! Hah!"
+        },
+        {
+            "id": 4,
+            "content": "A mulher do Pacto da Lâmina saltou de sua posição deitada, pegando a espada ao seu lado. Ela segurou firme o cabo de sua lâmina, pronta para desembainhá-la a qualquer momento."
+        },
+        {
+            "id": 5,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Quem são vocês?! Vocês estão com o Clã Kurokumo?!"
+        },
+        {
+            "id": 6,
+            "model": "료슈",
+            "content": "Não."
+        },
+        {
+            "id": 7,
+            "model": "싱클레어",
+            "content": "Ah, então, nós—"
+        },
+        {
+            "id": 8,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Então por que aquela mulher porta uma Odachi?!"
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "content": "Tch. Ela não vai escutar. Mais vale matá-la."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Ryōshū!>"
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "Ela me irrita por dois motivos."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Um. Ela se recusa a ouvir, tornando a conversa mais longa do que o necessário."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "Dois. Ela ousa comparar as sucatas daqueles vermes com a minha lâmina."
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "content": "Existe alguma razão para eu <i>não</i> prosseguir com a O.D.T. dela, Relógio?"
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Sim, tem! Ela não poderá nos dizer nada se estiver morta.>"
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "content": "... Tsk."
+        },
+        {
+            "id": 17,
+            "content": "Ryōshū costuma demonstrar emoções explosivas nos momentos mais inesperados... mas ela pelo menos escuta quando eu peço. O que é um alívio."
+        },
+        {
+            "id": 18,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "A-acho que sua lâmina não é exatamente igual à deles... Seus uniformes também são bastante diferentes..."
+        },
+        {
+            "id": 19,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "E você... quem seria? Está usando um relógio bem barulhento... Ele é seu único meio de comunicação?"
+        },
+        {
+            "id": 20,
+            "model": "이상",
+            "content": "Esta pessoa é nosso gerente. Suas palavras não chegarão a você."
+        },
+        {
+            "id": 21,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "... Hm."
+        },
+        {
+            "id": 22,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "... Sua voz carrega uma fragrância familiar."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Mesmo nos Distritos em que residi, jamais encontrei alguém que falasse como eu..."
+        },
+        {
+            "id": 24,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Não por sua maneira de falar, mas sinto certa familiaridade em seu vocabulário."
+        },
+        {
+            "id": 25,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Você deve ser do Distrito 19... Da S Corp., não é?"
+        },
+        {
+            "id": 26,
+            "model": "이상",
+            "content": "... Embora eu tenha fugido, lá é minha origem."
+        },
+        {
+            "id": 27,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Entendo... então você também deixou para trás sua terra natal."
+        },
+        {
+            "id": 28,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Meus compatriotas costumam compartilhar do mesmo destino que nós."
+        },
+        {
+            "id": 29,
+            "content": "Talvez encontrar alguém do mesmo Distrito tenha ajudado; a mulher visivelmente acabou relaxando e logo se encostou em um assento próximo. Sua respiração estava pesada."
+        },
+        {
+            "id": 30,
+            "model": "이상",
+            "content": "Meu nome é Yi Sang. Eu tratei os ferimentos que você sofreu."
+        },
+        {
+            "id": 31,
+            "model": "앵두",
+            "teller": "???",
+            "title": "Pacto da Lâmina",
+            "content": "Ah... Eu agi com tanta brutalidade, apesar de sua bondade. Por favor, aceite minhas desculpas."
+        },
+        {
+            "id": 32,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Me chame de Aeng-du. Sou uma Salsu do Pacto que lida com Lâminas."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "Ooh... Dante, talvez a gente possa deixar a conversa com o Yi Sang dessa vez?"
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<Mhm, parece que podemos relaxar um pouco e deixar isso com ele.>"
+        },
+        {
+            "id": 35,
+            "content": "Eu concordei, respondendo rapidamente aos sussurros da Rodya."
+        },
+        {
+            "id": 36,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Se você é do Distrito 19, território da S Corp... então deve estar ciente de quem somos."
+        },
+        {
+            "id": 37,
+            "model": "이상",
+            "content": "Eu tenho um pouco de conhecimento, mas estou longe de ser familiar com as histórias que passam pelas ruas."
+        },
+        {
+            "id": 38,
+            "model": "이상",
+            "content": "Ouvi dizer que o Pacto da Lâmina não se prende a mestres, tampouco a terras; por que, então, afirma-se uma fugitiva?"
+        },
+        {
+            "id": 39,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "É uma história longa demais para ser contada na íntegra. Tudo que posso dizer é que não tivemos escolha senão buscar um território mais próspero para nós."
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "content": "Talvez haja alguma parte em que possamos ajudar, caso nos permita ouvir os detalhes de suas circunstâncias."
+        },
+        {
+            "id": 41,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "……."
+        },
+        {
+            "id": 42,
+            "content": "Aeng-du examinou cada um de nós com um olhar amplo. Seus olhos traziam consigo um cansaço esmagador por trás deles."
+        },
+        {
+            "id": 43,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mm, se você e seus companheiros foram habilidosos o suficiente para derrotar esse grupo de inimigos... então vocês devem ser bastante competentes."
+        },
+        {
+            "id": 44,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "O Clã Kurokumo colocou uma recompensa em nossas cabeças. Nosso mentor, meus colegas... todos nós."
+        },
+        {
+            "id": 45,
+            "model": "히스클리프",
+            "content": "Espera, então isso não é só uma rixa qualquer...? Parece muito mais pessoal do que uma guerra por território comum."
+        },
+        {
+            "id": 46,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "... Como sempre, o Distrito 19 está entupido de corrupção e perturbações à vida pública."
+        },
+        {
+            "id": 47,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "E há muito pouco que nós, homens e mulheres da lâmina, que não buscam nada além de treinar e trilhar o caminho das artes marciais, possamos fazer para mudar a Asa conhecida como \"Salpippyeo Agroindústrias\"... ou S Corp."
+        },
+        {
+            "id": 48,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Portanto... para monges como nós, que abominávamos o próprio templo, a única opção que restava era partir."
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "... Então o povo da S Corp ainda sofre."
+        },
+        {
+            "id": 50,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Partimos em busca de um novo lar... no entanto, não foi uma jornada fácil."
+        },
+        {
+            "id": 51,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "A maioria dos territórios já haviam sido ocupados por outros; para que pudéssemos nos estabelecer, o conflito era inevitável."
+        },
+        {
+            "id": 52,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Na época desses conflitos, eu tenho a memória de nosso mentor trazer algo como um... \"convite\". Um convite para entrar em uma espécie de \"Biblioteca\"."
+        },
+        {
+            "id": 53,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 54,
+            "content": "Vergilius, que estava sentado em silêncio e com uma perna cruzada por cima da outra numa cadeira bem longe de nós, visivelmente havia reagido."
+        },
+        {
+            "id": 55,
+            "content": "Agora que paro para pensar... A palavra \"Biblioteca\" sempre tirou uma reação genuína de Vergilius."
+        },
+        {
+            "id": 56,
+            "model": "이상",
+            "content": "Você \"tem a memória\"... Uma maneira muito estranha de expressar suas próprias lembranças."
+        },
+        {
+            "id": 57,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mm. Chegamos à Biblioteca com esperanças de escapar das garras do Clã Kurokumo..."
+        },
+        {
+            "id": 58,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "... mas tudo que fizemos foi cair em outro campo de batalha. Fomos facilmente derrotados."
+        },
+        {
+            "id": 59,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Então, de repente, acordamos na Periferia da T Corp. Foi uma experiência tão bizarra que apenas consigo tê-la em minha mente como uma vaga lembrança..."
+        },
+        {
+            "id": 60,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "... Ah! Mentor Kim do Chapéu de Bambu!"
+        },
+        {
+            "id": 61,
+            "content": "Enquanto falava, de repente, os olhos de Aeng-du se arregalaram e ela pulou de seu assento."
+        },
+        {
+            "id": 62,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Nosso mentor ainda deve estar lá...! Depressa, precisamos ir ao Edifício Yong-jin!"
+        },
+        {
+            "id": 63,
+            "model": "이상",
+            "content": "Cuidado! Movimentos bruscos podem acabar abrindo as feridas que eu—"
+        },
+        {
+            "id": 64,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Kagh..."
+        },
+        {
+            "id": 65,
+            "model": "로쟈",
+            "content": "Hã?! Mas que—! E-ela morreu?"
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "... Não é de se surpreender que a escassez de sangue combinada a um aumento de pressão leve um indivíduo a desmaiar. Ela apenas perdeu a consciência."
+        },
+        {
+            "id": 67,
+            "model": "로쟈",
+            "content": "Ufa... "
+        },
+        {
+            "id": 68,
+            "model": "이스마엘",
+            "content": "Tinha razão, gerente. Ela tinha boas informações para nos dar."
+        },
+        {
+            "id": 69,
+            "model": "오티스",
+            "content": "Edifício Yong-jin... Imagino que tenhamos negócios a tratar por lá."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<Hmm... Talvez, mas não tenho certeza. Não parecia ter muita relação conosco ou nossa missão.>"
+        },
+        {
+            "id": 71,
+            "content": "Ou talvez seja essa tal de \"Biblioteca\" que deveríamos—"
+        },
+        {
+            "id": 72,
+            "model": "카론",
+            "content": "Perigo, perigo."
+        },
+        {
+            "id": 73,
+            "model": "카론",
+            "content": "Muita gente no caminho de Mefis. Roupas pretas. Com espadas."
+        },
+        {
+            "id": 74,
+            "model": "카론",
+            "content": "Passageiros, pra fora. Protejam o Mefis."
+        },
+        {
+            "id": 75,
+            "model": "오티스",
+            "content": "Hm... Gerente Executivo, eles aparentam ser reforços do Clã Kurokumo."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Bem, o que podemos fazer...>"
+        },
+        {
+            "id": 77,
+            "content": "Teremos que pensar nisso depois. Por enquanto, vamos cuidas dos reforços."
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Entrada do Edifício Yong-jin",
+            "teller": "Wakashu Derrotado",
+            "title": "Clã Kurokumo",
+            "content": "Argh... Desgraça!"
+        },
+        {
+            "id": 1,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Parece que foi o último deles."
+        },
+        {
+            "id": 2,
+            "model": "료슈",
+            "content": "Ah, o aroma de sangue... Alguns mais frescos, outros mais antigos e viscosos..."
+        },
+        {
+            "id": 3,
+            "model": "료슈",
+            "content": "Hm, já consigo imaginar uma colagem de diferentes manchas de sangue me esperando lá dentro."
+        },
+        {
+            "id": 4,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "... Esta mulher expressa pensamentos brutais com tanta indiferença."
+        },
+        {
+            "id": 5,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Bem, qualquer que seja o caso, o caminho está aberto! Devemos nos apressar!"
+        },
+        {
+            "id": 6,
+            "content": "Aeng-du não hesitou nem por um segundo antes de desaparecer em meio à entrada do prédio."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Cara, tô impressionado com essa energia dela. Ela não tava desmaiada até agora há pouco?"
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "O que a move é pura força de vontade. Que outra escolha ela tem quando seu superior foi capturado?"
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Hm... pelo nome, eu achei que o Edifício Yong-jin teria bem mais que só 6 andares. \"Edifício\", sabe?"
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "É uma denominação bastante comum nas Periferias."
+        },
+        {
+            "id": 11,
+            "content": "Olhei para o topo do edifício que o Hong Lu estava observando... e, de repente, algo atiçou minha curiosidade."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Uh... Que horas são?>"
+        },
+        {
+            "id": 13,
+            "model": "로쟈",
+            "content": "Tá precisando de um espelho?"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<... Você sabe que minha cabeça não diz as horas de verdade.>"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "São 2:10 da tarde."
+        },
+        {
+            "id": 16,
+            "content": "2 da tarde... Não é meio-dia, mas não é para estar tão escuro, é?"
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<Como pode estar tão escuro às 2 da tarde? Estou começando a perder minha noção de tempo neste lugar.>"
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "Esse lugar em específico parece muito mais escuro... Se bem que, comparado aos dias da Guerra da Fumaça, ainda tá bem ensolarado."
+        },
+        {
+            "id": 19,
+            "model": "오티스",
+            "content": "Hm... Acho que isso é verdade."
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "As Periferias da T Corp. são conhecidas por estarem em um estado perpétuo de cores apagadas."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "O funcionamento incessante das máquinas, que continuamente emitem plumas de fumaça, e o dreno constante das cores mantêm a Periferia da T Corp. escura e opaca."
+        },
+        {
+            "id": 22,
+            "model": "파우스트",
+            "content": "Claro, também devo informar-lhe que as condições melhoraram um pouco após as restrições impostas à produção de fumaça devido à Guerra da Fumaça. Antes da guerra, porém—"
+        },
+        {
+            "id": 23,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Não temos tempo para conversas triviais! Venham, agora!"
+        },
+        {
+            "id": 24,
+            "content": "Corremos em direção aos gritos de urgência da Aeng-du."
+        },
+        {
+            "id": 25,
+            "place": "1° Piso do Edifício Yong-jin",
+            "teller": "Wakashu Derrotado",
+            "title": "Clã Kurokumo",
+            "content": "Argh... Ainda tinha mais desses desgraçados do Pacto da Lâmina...?"
+        },
+        {
+            "id": 26,
+            "model": "히스클리프",
+            "content": "Mas o que... A moça acabou com todo mundo?"
+        },
+        {
+            "id": 27,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Não passavam de capangas."
+        },
+        {
+            "id": 28,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "O tamanho de sua bravata não combinava com suas habilidades imaturas. Eles tomaram a decisão tola de manter suas posições em vez de recuar para o andar de cima."
+        },
+        {
+            "id": 29,
+            "content": "Zzzt."
+        },
+        {
+            "id": 30,
+            "content": "Um tipo de ruído elétrico vinha do rádio que eu havia botado no meu bolso."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Alguém está chamando no rádio...?>"
+        },
+        {
+            "id": 32,
+            "content": "O som ficou muito mais claro quando puxei a antena do rádio."
+        },
+        {
+            "id": 33,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Aqui fala a LCD! Aqui fala a LCD! Câmbio, conseguem me ouvir? Vamos lá! Respondam aí~"
+        },
+        {
+            "id": 34,
+            "content": "A voz vinda do outro lado do rádio era... alegre, para dizer o mínimo. E muito enérgica."
+        },
+        {
+            "id": 35,
+            "content": "Certo, eu só tenho que apertar esse botão aqui..."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<B-bem, eu até posso falar. Mas não é como se você pudesse—>"
+        },
+        {
+            "id": 37,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Ahahaha! É um barulho de relógio mesmo!"
+        },
+        {
+            "id": 38,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "A-ah, claro, sem distrações. Tô te ligando pra repassar uma mensagem, então não precisa se dar o trabalho de responder!"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<O-okay...>"
+        },
+        {
+            "id": 40,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Não temos muito tempo, então vou falar rapidinho!"
+        },
+        {
+            "id": 41,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Lembra daquela estela negra que vocês foram enviados pra pegar? O Monólito?"
+        },
+        {
+            "id": 42,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Eu acabei de capitar um sinal super forte do Monólito numa área perto de vocês! E detalhe, esse sinal consegue forçar as pessoas a Distorcerem!"
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Forçar as pessoas a Distorcerem...?"
+        },
+        {
+            "id": 44,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "A gente PRECISA contê-lo antes que esse sinal vaze e fique fora de controle, entendeu?!"
+        },
+        {
+            "id": 45,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Argh, que merda é essa?!"
+        },
+        {
+            "id": 46,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Ah, foi mal! É que tô cuidando de umas coisinhas por aqui também, sabe? De qualquer jeito, tenho que ser breve, então vou enfatizar que não temos muito tempo! Câmbio e desligo!"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 48,
+            "content": "A transmissão caiu antes que qualquer um de nós tivesse a chance de falar algo."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Ela é bem animada, né?...>"
+        },
+        {
+            "id": 50,
+            "model": "히스클리프",
+            "content": "Não temos tempo pra ficar aqui com cara de bobo, Cabeça de Relógio. Vambora."
+        },
+        {
+            "id": 51,
+            "model": "싱클레어",
+            "content": "Hum, pessoal... Acho que o elevador está quebrado."
+        },
+        {
+            "id": 52,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Vejo que você e seus companheiros também têm uma razão para se apressarem agora."
+        },
+        {
+            "id": 53,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Sugiro que rompamos suas linhas de frente e subamos pela escadaria. O que me dizem?"
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Não temos escolha... Vamos lá, rápido!>"
+        },
+        {
+            "id": 55,
+            "content": "Coloquei o rádio de volta em meu bolso e comecei a correr para o próximo andar."
+        }
+    ]
+}

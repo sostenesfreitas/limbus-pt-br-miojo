@@ -1,0 +1,538 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "O estopim daquele incidente foi por causa de uma frase que Yi Sang lançou sem pensar."
+        },
+        {
+            "id": 1,
+            "content": "Quando ainda não se passara muito tempo desde que o último exame terminou..."
+        },
+        {
+            "id": 2,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "마튼",
+            "content": "É preciso arrumar a parte de dentro, então saiam logo, por favor."
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "content": "Aah, perdão... é que a senhorita Don Quixote, por um instante..."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Esperem só um pouco...! Os cadarços do Rocinante se desataram, e..."
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "content": "Hã...? Eu não dei nada menos que sete nós bem apertados da última vez?"
+        },
+        {
+            "id": 6,
+            "model": "돈키호테",
+            "content": "Aah, é que... de fato, para o nosso Rocinante, aquilo me parece um acessôrio meio feio... eu reamarrei um dos lados em formato de laço!"
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Pois é, aquilo era meio feinho mesmo~ um laço é fofo."
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "Ai, meu Deus…"
+        },
+        {
+            "id": 9,
+            "model": "이상",
+            "content": "…Foi algo que me deu curiosidade de repente, mas…"
+        },
+        {
+            "id": 10,
+            "model": "이상",
+            "content": "A senhorita Don Quixote de agora, se tirar o Rocinante, o que acontece?"
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "Hã? Que história é essa? O Rocinante é o meu corcel eterno e o meu destino de companhia! Nada pode nos separar!"
+        },
+        {
+            "id": 12,
+            "model": "이상",
+            "content": "Embora a pergunta fosse à senhorita Faust, obrigado por responder..."
+        },
+        {
+            "id": 13,
+            "content": "E o que ateou fogo no estopim, parece, foi a resposta de Faust."
+        },
+        {
+            "id": 14,
+            "model": "파우스트",
+            "content": "Eu não tenho como saber."
+        },
+        {
+            "id": 15,
+            "model": "로쟈",
+            "content": "Wha…?"
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "Como não há dados garantidos, é uma conclusão natural."
+        },
+        {
+            "id": 17,
+            "model": "로쟈",
+            "content": "Então... é só verificar agora! Onde mais se poderia descobrir, senão num laboratório como este?"
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "content": "Eu não recomendo."
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "É verdade, pelo que ouço, naquele trem também, depois que o calçado se soltou, dizem que aconteceu todo tipo de coisa medonha, não?"
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Era isso mesmo…>"
+        },
+        {
+            "id": 21,
+            "model": "돈키호테",
+            "content": "Isso é…!"
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Foi por um motivo inevitável, diferente da minha vontade, que o Rocinante se retirou por conta própria!"
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "Bom, tanto faz uma coisa quanto outra…"
+        },
+        {
+            "id": 24,
+            "model": "호엔하임",
+            "content": "Hum, que o calçado daquela sujeita é o mesmo que o miolo dela já era um fato que eu sabia, mas..."
+        },
+        {
+            "id": 25,
+            "model": "돈키호테",
+            "content": "Ora, não trate uma pessoa como se fosse uma casca!"
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Se for só tirar por um instante, não tem problema, não acha?"
+        },
+        {
+            "id": 27,
+            "model": "호엔하임",
+            "content": "O departamento LCE precisa de valores de teste precisos."
+        },
+        {
+            "id": 28,
+            "model": "호엔하임",
+            "content": "Quer dizer que um teste de mera casca não serve para nada."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "… Cas… caaaaaa…!"
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Evite uma provocação óbvia, Hohenheim. Você ainda está num estado de não ter recebido um relato claro do incidente que nós vivemos da última vez."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "content": "Quer dizer que pode ocorrer uma situação súbita que escapa da previsão."
+        },
+        {
+            "id": 32,
+            "model": "호엔하임",
+            "content": "O meu laboratório foi construído de modo sólido."
+        },
+        {
+            "id": 33,
+            "model": "호엔하임",
+            "content": "Nem a maioria das Abnormalidades consegue rompê-lo com facilidade."
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "Eu não vou forçar, mas, se você não quiser tirar o calçado, eu não terei como não escrever assim no diário de pesquisa."
+        },
+        {
+            "id": 35,
+            "model": "호엔하임",
+            "content": "'Como o referido Pecador se amedrontou de tirar o calçado, é lamentável, mas registra-se no diário de pesquisa apenas um resultado de teste pela metade...'"
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "content": "Cas…? Cas…?!"
+        },
+        {
+            "id": 37,
+            "model": "호엔하임",
+            "content": "A título de informação, o prazo de conservação do diário de pesquisa é..."
+        },
+        {
+            "id": 38,
+            "model": "알리사",
+            "content": "...no mínimo 10 anos."
+        },
+        {
+            "id": 39,
+            "model": "호엔하임",
+            "content": "Isso, quer dizer que você fica registrada como covarde por no mínimo 10 anos."
+        },
+        {
+            "id": 40,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 41,
+            "model": "마튼",
+            "content": "Valor de resultado N/A... motivo... o sujeito do experimento agiu assim porque ficou com medo."
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Pensando bem... o nosso Rocinante também há de precisar de um pouco de tempo de descanso."
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "E eu vou mostrar a todos. Que esta Don Quixote, mesmo sem o Rocinante, permanece intacta como miolo!"
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Faust, isto está mesmo tudo bem...?>"
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Hohenheim... se um dia chegar o dia em que você seja, enfim, expulso da Limbus Company, eu vou prever que o motivo será essa sua curiosidade sem senso de responsabilidade."
+        },
+        {
+            "id": 46,
+            "content": "Parece que não está tudo bem..."
+        },
+        {
+            "id": 47,
+            "model": "호엔하임",
+            "content": "É um feito honroso, como pesquisador."
+        },
+        {
+            "id": 48,
+            "model": "로쟈",
+            "content": "Se por acaso acontecer alguma coisa, o Yi Sang vai calçar o calçado de novo, bem rápido."
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Estou me preparando..."
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "content": "Não me olhem todos com esses olhos de expectativa exagerada, pois vai ser igual ao de sempre...!"
+        },
+        {
+            "id": 51,
+            "content": "Don Quixote, bufando, começou a desatar os cadarços do calçado."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "content": "Hmmm, nó sêxtuplo... é mesmo difícil de desatar... senhor Ishmael, afinal, por que você amarrou isto tão apertado?"
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "Porque eu desejava que ele nunca mais viesse a se desatar..."
+        },
+        {
+            "id": 55,
+            "model": "돈키호테",
+            "content": "Sei... pronto... está feito. Ó Rocinante, descanse por um instante..."
+        },
+        {
+            "id": 56,
+            "model": "돈키호테",
+            "content": "Agora eu…"
+        },
+        {
+            "id": 57,
+            "place": "-1",
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 58,
+            "content": "Tanto eu quanto os Pecadores. Embora intimamente inquietos... não impedimos o experimento de modo ativo."
+        },
+        {
+            "id": 59,
+            "content": "Será por, tanto no Trem do Warp quanto na La Manchaland, a Don Quixote sem o Rocinante não ter perdido a razão?"
+        },
+        {
+            "id": 60,
+            "content": "Ou será que pensamos que o Rocinante de agora... não passa de uma ferramenta para ocultar as características de Sanguinária, e não pode exercer influência relevante sobre a Don Quixote, que aceitou a si mesma, que fora Sancho?"
+        },
+        {
+            "id": 61,
+            "content": "De um jeito ou de outro, nós não devíamos ignorar a inquietação num canto do coração."
+        },
+        {
+            "id": 62,
+            "content": "Quem se deparou pessoalmente com Don Quixote enquanto 2º vassalo... com Sancho, e vivenciou a periculosidade, não foram estes pesquisadores, e sim..."
+        },
+        {
+            "id": 63,
+            "content": "Porque éramos nós."
+        },
+        {
+            "id": 64,
+            "content": "<color=#cc2424>Ó Pai…</color>"
+        },
+        {
+            "id": 65,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Ó Pai…</color>"
+        },
+        {
+            "id": 66,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Nós continuamos morrendo.</color>"
+        },
+        {
+            "id": 67,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Preencha-nos...!</color>"
+        },
+        {
+            "id": 68,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Por favor, sangue humano... sangue humano...</color>"
+        },
+        {
+            "id": 69,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "단테",
+            "content": "<Nngh…>"
+        },
+        {
+            "id": 70,
+            "content": "Incontáveis vozes clamam dentro da cabeça."
+        },
+        {
+            "id": 71,
+            "content": "Estas são as vozes de todos os filhos que ela trouxe em si..."
+        },
+        {
+            "id": 72,
+            "content": "Ao mesmo tempo, talvez seja um instinto que se gravou desde o instante em que ela se tornou Sanguinária."
+        },
+        {
+            "id": 73,
+            "content": "'Espalhe a doença, cobice sangue sem cessar e crie mais família.'"
+        },
+        {
+            "id": 74,
+            "content": "Aqueles gritos, aqueles anseios, aqueles desejos."
+        },
+        {
+            "id": 75,
+            "content": "Todos os vassalos que houve no agora, e ao mesmo tempo no passado..."
+        },
+        {
+            "id": 76,
+            "content": "Eles estavam ajoelhados diante de Donquixote."
+        },
+        {
+            "id": 77,
+            "place": "-1",
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Aah… ó Pai.</color>"
+        },
+        {
+            "id": 78,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Nós, que estamos sob o seu comando.</color>"
+        },
+        {
+            "id": 79,
+            "model": "혈귀목소리",
+            "content": "<color=#cc2424>Quando é que nós poderemos cobiçar sangue à vontade...</color>"
+        },
+        {
+            "id": 80,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "단테",
+            "content": "<…É preciso beber o sangue.>"
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Todo o sangue que os filhos deveriam, por direito, ter ingerido...>"
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<Sem deixar nada. Eu.>"
+        },
+        {
+            "id": 83,
+            "model": "이스마엘",
+            "content": "Dante? Dante, recobre o juízo!"
+        },
+        {
+            "id": 84,
+            "model": "후디히스",
+            "content": "I-isto parece com aquela vez no prédio em que o fogo subiu de uma vez na cabeça dela, não?"
+        },
+        {
+            "id": 85,
+            "content": "...A consciência, eu tenho de recobrar a consciência..."
+        },
+        {
+            "id": 86,
+            "model": "단테",
+            "content": "<Thirst…>"
+        },
+        {
+            "id": 87,
+            "content": "Eu sou um corpo incapaz de sentir sede, ora; eu sentir sede aqui é estranho...!"
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<Hec, hec… j-já estou bem.>"
+        },
+        {
+            "id": 89,
+            "model": "파우스트",
+            "content": "...O que você viu, Dante?"
+        },
+        {
+            "id": 90,
+            "model": "단테",
+            "content": "<...Para reverter a Don Quixote, é preciso um método de saciar a sede.>"
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<Da sede de todos os vassalos... o suficiente para dissolver o desejo...>"
+        },
+        {
+            "id": 92,
+            "model": "그레고르",
+            "content": "A coisa pegou fogo. Aqui não tem sangue sobrando, ou coisa assim? Nem que seja aquilo, primeiro tem de dar de beber..."
+        },
+        {
+            "id": 93,
+            "model": "마튼",
+            "content": "Ah-ah, a gente tem algumas amostras em estoque. Quer que eu dê?"
+        },
+        {
+            "id": 94,
+            "model": "오티스",
+            "content": "Droga... como é que você ouviu as palavras do Gerente?! Com toda a sede se abatendo, não é possível que se resolva com umas poucas amostras de sangue daqui..."
+        },
+        {
+            "id": 95,
+            "model": "싱클레어",
+            "content": "Por ora, a gente contém com o que for! Antes isso do que não fazer nada..."
+        },
+        {
+            "id": 96,
+            "model": "후디히스",
+            "content": "Não é só calçar o calçado de novo?!"
+        },
+        {
+            "id": 97,
+            "model": "그레고르",
+            "content": "Ei, senhor Yi Sang! O calçado! Calça o calçado!"
+        },
+        {
+            "id": 98,
+            "model": "이상",
+            "content": "É impossível! Por causa de uma pressão singular, eu não consigo me aproximar!"
+        },
+        {
+            "id": 99,
+            "model": "료슈",
+            "content": "Hm... este cigarro é bem fino. O sabor é bom."
+        },
+        {
+            "id": 100,
+            "model": "알리사",
+            "content": "O-o cigarro fino que eu comprei com o bônus da última vez..."
+        },
+        {
+            "id": 101,
+            "model": "호엔하임",
+            "content": "Magnífico. Mesmo num estado em nada diferente do de fome, registrar um valor deste porte..."
+        },
+        {
+            "id": 102,
+            "model": "후디히스",
+            "content": "Você, o que é isso... você incitou sabendo que ia acabar assim?"
+        },
+        {
+            "id": 103,
+            "model": "호엔하임",
+            "content": "Eu previ muitos resultados, e entre eles havia também uma previsão parecida, mas... eu não cheguei a conceber uma situação deste porte."
+        },
+        {
+            "id": 104,
+            "model": "후디히스",
+            "content": "Mas por que é que você tagarela com essa calma toda?! O que você vai fazer com aquilo?! Você nem nunca lutou com aquela desgraçada!"
+        },
+        {
+            "id": 105,
+            "model": "호엔하임",
+            "content": "De que adianta fazer alarde? Se saiu um resultado inesperado, primeiro se procede à análise dos dados, e não é tarde se a gente se assustar depois."
+        },
+        {
+            "id": 106,
+            "model": "호엔하임",
+            "content": "However..."
+        },
+        {
+            "id": 107,
+            "model": "호엔하임",
+            "content": "Executar uma medida de contenção assim mesmo não há de ser a resposta. No fim, são vocês que têm de detê-la, não?"
+        },
+        {
+            "id": 108,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 109,
+            "model": "파우스트",
+            "content": "É hora de pagar o preço pela curiosidade."
+        }
+    ]
+}

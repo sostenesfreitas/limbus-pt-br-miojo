@@ -1,0 +1,723 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "뫼르소",
+            "content": "À frente. O elevador está em funcionamento."
+        },
+        {
+            "id": 1,
+            "content": "Para além da porta fechada, via-se que a luz do elevador estava acesa."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Se a energia do elevador foi restabelecida...>"
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "Pelo visto o senhor Hohenheim chegou com sucesso à sala de controle."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Ah! Then—>"
+        },
+        {
+            "id": 6,
+            "content": "A porta do elevador se abriu e, em perfeita ordem, os agentes da LCA começaram a entrar."
+        },
+        {
+            "id": 7,
+            "content": "Nos agentes não há o menor sinal de hesitação. Como quem já o fez milhares de vezes, a cada Pecado ou Distorção que se mete no caminho, eles brandem as armas e o esmagam, ou disparam e o trespassam."
+        },
+        {
+            "id": 8,
+            "content": "Pela imagem deles desferindo o golpe final nas coisas que ainda se contorciam, reduzidas a polpa... dava para perceber, de uma vez, o quanto eram veteranos curtidos em incontáveis combates."
+        },
+        {
+            "id": 9,
+            "content": "Era como se, daquele jeito, todos os obstáculos fossem ser superados com facilidade."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Equipe de operações especiais da LCA, era esse o nome? De fato, são exímios em subjugação."
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Testing... come in."
+        },
+        {
+            "id": 12,
+            "model": "히스클리프",
+            "teller": "Rádio",
+            "content": "Eita, passa aqui. Ei! Ei! Está me ouvindo?!"
+        },
+        {
+            "id": 13,
+            "model": "그레고르",
+            "content": "Ai, que susto... dá pra ouvir bem mesmo falando baixo, então vamos parar de gritar, senhor Heathcliff."
+        },
+        {
+            "id": 14,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Ah, perdão. É que o assistente é de um temperamento muito impaciente."
+        },
+        {
+            "id": 15,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "A suposição da Pecadora Outis estava certa. Nós estamos agora na sala de controle, e por este terminal aqui dá para ver a situação dos corredores; mas... hum, a qualidade de imagem não é nada boa... nesta área aqui, sabe..."
+        },
+        {
+            "id": 16,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "...a LCA chegou."
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "Sim, dá pra ver aqui na nossa frente também. Para além desta porta de aço fechada."
+        },
+        {
+            "id": 18,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Só que... o que eu acabei de fazer foi apenas abrir um dos muros de bloqueio que barram o caminho de vocês. Não tem relação alguma com restabelecer o elevador interno que liga aos outros departamentos."
+        },
+        {
+            "id": 19,
+            "model": "이상",
+            "content": "Sendo assim... agora já é possível enviar os feridos para um lugar seguro lá em cima?"
+        },
+        {
+            "id": 20,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "...Não é bem assim. Eles desceram por meio de uma certa técnica, mas, para subir de novo, é preciso restabelecer a instalação."
+        },
+        {
+            "id": 21,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Ainda assim, é uma sorte. Como parece que foram destacados por área... os outros também poderão receber ajuda."
+        },
+        {
+            "id": 22,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Eu nunca senti grande interesse por técnicas de morte e por combate sem relação com a pesquisa... mas, pelo que andei ouvindo, eles são um grupo de combate de renome até dentro da Cidade."
+        },
+        {
+            "id": 23,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "... Eyes forward."
+        },
+        {
+            "id": 25,
+            "content": "A iluminação pisca... naquele instante fugaz."
+        },
+        {
+            "id": 26,
+            "content": "Sem som, sem grito, três agentes da LCA, que avançavam vigiando três direções, tombaram ao mesmo tempo."
+        },
+        {
+            "id": 27,
+            "model": "LCA우제트",
+            "teller": "Agente da LCA",
+            "title": "???",
+            "content": "…!"
+        },
+        {
+            "id": 28,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "content": "Como que avariada, a luz para além do muro de bloqueio não volta e continua a piscar."
+        },
+        {
+            "id": 29,
+            "content": "A cada vez que a visão piscava, a silhueta da arma na mão do invasor mudava."
+        },
+        {
+            "id": 30,
+            "content": "Por vezes parecia a sombra de uma sovela afiada, e..."
+        },
+        {
+            "id": 31,
+            "content": "...depois de umas três ou quatro piscadas, parecia também o machado de Rodya."
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "teller": "Rádio",
+            "content": "Pela aparência e pelo armamento, é uma equipe especializada em operações de reconhecimento da LCA."
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "teller": "Rádio",
+            "content": "Parece ser da mesma linhagem da equipe que apareceu na recuperação do Monólito."
+        },
+        {
+            "id": 34,
+            "model": "그레고르",
+            "content": "Quer dizer, mesmo assim, um esquadrão tão experiente quanto aquele... sozinho..."
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Hohenheim, do you hear us?"
+        },
+        {
+            "id": 36,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Hum. Estou ouvindo. Deste lado ainda não, mas, do lado de vocês, a supressão já terminou?"
+        },
+        {
+            "id": 37,
+            "model": "이상",
+            "content": "...De modo algum saiam para o corredor."
+        },
+        {
+            "id": 38,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "...Por que isso? Ah, conferindo pelo terminal, vejo que os agentes da LCA acabaram de subjugar por completo uma Anormalidade. Subjugar aquela Anormalidade problemática em poucos minutos... isto eu vou ter de acrescentar aos registros de observação."
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "As forças de apoio da LCA destacadas para cá... foram aniquiladas."
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "... What?"
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "teller": "Rádio",
+            "content": "Se fosse uma situação de campo aberto... só com a patrulha de reconhecimento a LCA não teria sido derrotada."
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "teller": "Rádio",
+            "content": "However..."
+        },
+        {
+            "id": 43,
+            "model": "료슈",
+            "content": "Quem esquece que está preso na teia acaba naquele estado."
+        },
+        {
+            "id": 44,
+            "model": "료슈",
+            "content": "...Aqueles atraem a presa para um lugar em que lhes seja extremamente favorável. Um espaço aberto, amplo..."
+        },
+        {
+            "id": 45,
+            "model": "료슈",
+            "content": "... It's meaningless to speculate over what'll never happen."
+        },
+        {
+            "id": 46,
+            "model": "료슈",
+            "content": "Olhem. A presa não caminha, com os próprios pés, para dentro do palco em que ele melhor caça?"
+        },
+        {
+            "id": 47,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 48,
+            "content": "O que Alisa havia dito... agora eu já podia entender o que significava."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<A relaxed but disciplined gait...>"
+        },
+        {
+            "id": 50,
+            "content": "Aquele que assassinara dezenas de agentes da LCA... voltou-se devagar em nossa direção, com um lento som de passos de sapato."
+        },
+        {
+            "id": 51,
+            "content": "Como se soubesse, desde o início, que nós o observávamos."
+        },
+        {
+            "id": 52,
+            "content": "Uma máscara branca reluz, lisa."
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 54,
+            "content": "He returns a smile in response to Ryōshū's furious wrath."
+        },
+        {
+            "id": 55,
+            "content": "E então abre a boca e profere, sílaba a sílaba, sem som, uma certa frase. "
+        },
+        {
+            "id": 56,
+            "content": "'Fi-lha, co-mo foi a re-vi-são?'"
+        },
+        {
+            "id": 57,
+            "place": -1,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Filha, como foi o treino?"
+        },
+        {
+            "id": 58,
+            "model": "과거료슈3",
+            "content": "... Same old. Dull and boring."
+        },
+        {
+            "id": 59,
+            "model": "과거료슈3",
+            "content": "Papai, você tem um corte no braço; foi você mesmo que o fez?"
+        },
+        {
+            "id": 60,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah. Isso mesmo — eu tive de trespassar o meu braço com a faca enquanto apunhalava o adversário 38 vezes."
+        },
+        {
+            "id": 61,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "A partir da vigésima, doeu de verdade."
+        },
+        {
+            "id": 62,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 63,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Você sabia, filha? Dizem que a dor abrasadora é cem vezes mais dolorosa do que a dor de um golpe que mata."
+        },
+        {
+            "id": 64,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Por isso, quando tiver de dar cabo de alguém, não use o fogo."
+        },
+        {
+            "id": 65,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Pois eles, contorcendo-se de dor, hão de cair no inferno amaldiçoando apenas você..."
+        },
+        {
+            "id": 66,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Ao menos no fim... não se deve proporcionar a eles um melhor desfilar de memórias?"
+        },
+        {
+            "id": 67,
+            "model": "과거료슈3",
+            "content": "... Okay."
+        },
+        {
+            "id": 68,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Chegue mais perto. Você tem um arranhão no rosto."
+        },
+        {
+            "id": 69,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Foi durante a aula do Valentina, não foi? Ele é violento demais. É do tipo que pensa que o número de feridas é diretamente proporcional à medida do treino."
+        },
+        {
+            "id": 70,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "É preciso tratá-lo bem, para que não fique cicatriz."
+        },
+        {
+            "id": 71,
+            "model": "과거료슈3",
+            "content": "Whatever."
+        },
+        {
+            "id": 72,
+            "place": "Ala de Segurança da Equipe de Pesquisa da LCE",
+            "model": "오티스",
+            "content": "Não, agora há pouco... se o que se ouviu no rádio com a LCE estiver certo, o senhor Gerente está em perigo...!"
+        },
+        {
+            "id": 73,
+            "model": "이스마엘",
+            "content": "Outis, eu também estou preocupada, mas..."
+        },
+        {
+            "id": 74,
+            "model": "이스마엘",
+            "content": "...parece que a situação do nosso lado, agora, também não é nada fácil."
+        },
+        {
+            "id": 75,
+            "model": "오티스",
+            "content": "Aquilo é... a imagem de um CCTV restabelecido?"
+        },
+        {
+            "id": 76,
+            "model": "이스마엘",
+            "content": "Sim, está mostrando o que há aqui na frente. Mas..."
+        },
+        {
+            "id": 77,
+            "model": "LCD앵두",
+            "content": "Venha você também ver... se a minha memória não me falha, alguém vestido assim."
+        },
+        {
+            "id": 78,
+            "model": "오티스",
+            "content": "The Middle...?"
+        },
+        {
+            "id": 79,
+            "model": "에즈라",
+            "content": "Pelo visto o pessoal que dizem ter sido aniquilado lá do outro lado acabou assim também... Isto aqui já passou de matar; ele está é despedaçando as pessoas...?"
+        },
+        {
+            "id": 80,
+            "model": "로쟈",
+            "content": "Parece também que ele fica falando alguma coisa em voz alta...? Não dá pra ouvir direito..."
+        },
+        {
+            "id": 81,
+            "model": "모제스",
+            "content": "Yoshihide."
+        },
+        {
+            "id": 82,
+            "model": "모제스",
+            "content": "He is shouting... \"Yoshihide.\" Repeatedly so."
+        },
+        {
+            "id": 83,
+            "model": "LCD앵두",
+            "content": "E... ele também está rindo."
+        },
+        {
+            "id": 84,
+            "model": "LCD앵두",
+            "content": "De boca escancarada... sacudindo até o corpo. O que será que o diverte tanto... É como um lunático."
+        },
+        {
+            "id": 85,
+            "model": "에즈라",
+            "content": "Arrá...! Uma pessoa voou tudo aquilo agora?! Ele só deu um chute?"
+        },
+        {
+            "id": 86,
+            "model": "로쟈",
+            "content": "A imagem não é nítida, mas... a perna... será um membro protético?"
+        },
+        {
+            "id": 87,
+            "model": "로쟈",
+            "content": "Ou não... se a pessoa receber tatuagens reforçadas até cobrir o corpo inteiro, talvez fique com uma aparência daquelas, também..."
+        },
+        {
+            "id": 88,
+            "model": "중지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Aah~ vocês estão olhando as patas de urso do meu paizão?"
+        },
+        {
+            "id": 89,
+            "model": "로쟈",
+            "content": "……."
+        },
+        {
+            "id": 90,
+            "model": "중지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "…?"
+        },
+        {
+            "id": 91,
+            "model": "로쟈",
+            "content": "Q-quem é?!"
+        },
+        {
+            "id": 92,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Who am I? Hi, I'm Kira!"
+        },
+        {
+            "id": 93,
+            "model": "오티스",
+            "content": "A covert approach...? Men, battle positions!"
+        },
+        {
+            "id": 94,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Aah~ não, não! Vocês não estão olhando o meu pai?"
+        },
+        {
+            "id": 95,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Não vou atrapalhar~ E nem vou lutar."
+        },
+        {
+            "id": 96,
+            "model": "LCD앵두",
+            "content": "…?"
+        },
+        {
+            "id": 97,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Se é uma coisa importante dessas, eu tenho é que ficar esperando! Isso, podem terminar de apreciar!"
+        },
+        {
+            "id": 98,
+            "model": "로쟈",
+            "content": "Pai... ele disse? Aquela pessoa?"
+        },
+        {
+            "id": 99,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Uh-huh! Isn't he, like, super badass?"
+        },
+        {
+            "id": 100,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Ei, ei, vocês viram agora? Aquela técnica ali, não acham super estilosa? Hein?"
+        },
+        {
+            "id": 101,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Aah~ eu também tento imitar, mas não consigo direito."
+        },
+        {
+            "id": 102,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Como é que ele consegue cravar a pessoa até o fim do corredor, com um arremesso forte daqueles?"
+        },
+        {
+            "id": 103,
+            "model": "LCD앵두",
+            "content": "...Você trata uma carnificina como se fosse uma brincadeira, ou uma partida qualquer?"
+        },
+        {
+            "id": 104,
+            "model": "LCD앵두",
+            "content": "Que arruaceiro repugnante como nada mais."
+        },
+        {
+            "id": 105,
+            "model": "중지제자",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 106,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Aah~! Você é desse tipo? Que divertido!"
+        },
+        {
+            "id": 107,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Eu também gosto. O personagem que aparece no capítulo mais recente de 'O Espadachim sob a Chuva', que saiu uma semana atrás, fala desse jeito! Com a chuva caindo pra valer, ele ergue o chapéu de palha de um golpe só~"
+        },
+        {
+            "id": 108,
+            "model": "LCD앵두",
+            "content": "……."
+        },
+        {
+            "id": 109,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Que isso, você também não conhece, aquela obra?"
+        },
+        {
+            "id": 110,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Aah... eu vivo recomendando pra todo mundo em volta, e ninguém dá bola. Um vive só treinando, outro só fica tagarelando com a própria espada... outro vive perambulando sozinho, e o que sobra... sabe o que ele diz? Que tem coisa demais que não faz sentido lógico. Como se isso fosse uma apreciação como deve ser! Por que ficar reclamando disso numa história em quadrinhos? Com aquele ali, enfim, eu não combino do começo ao fim."
+        },
+        {
+            "id": 111,
+            "model": "중지제자",
+            "title": "???",
+            "content": "Enfim, se tiver alguém que viu aquilo, querem levantar a mão? Fica tagarelando comigo por três horas, não, só por quatro horas."
+        },
+        {
+            "id": 112,
+            "model": "오티스",
+            "content": "Enough."
+        },
+        {
+            "id": 113,
+            "model": "오티스",
+            "content": "Não somos moles a ponto de nos deixar embromar por uma baboseira ridícula."
+        },
+        {
+            "id": 114,
+            "model": "이스마엘",
+            "content": "...Desde agora há pouco não aparece nada na tela. Outis. Se aquela pessoa for, como ela mesma disse, a discípula do Pai do Meio..."
+        },
+        {
+            "id": 115,
+            "teller": "???",
+            "title": "???",
+            "content": "Eee~i, filhinha! Eu disse pra você ficar brincando aqui por perto, e você veio parar tão longe assim?"
+        },
+        {
+            "id": 116,
+            "model": "오티스",
+            "content": "... Drat."
+        },
+        {
+            "id": 117,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "호엔하임",
+            "content": "... No more transmissions. They've all gone quiet."
+        },
+        {
+            "id": 118,
+            "model": "돈키호테",
+            "content": "Hark! Young Ishmael! Young Outis!!! Wherefore doth none respond...?"
+        },
+        {
+            "id": 119,
+            "model": "싱클레어",
+            "content": "Não estou com um bom pressentimento... C-com o senhor Gerente também separado da gente, sem ninguém saber a situação um do outro..."
+        },
+        {
+            "id": 120,
+            "model": "호엔하임",
+            "content": "Definitivamente, vamos ter de apressar o restabelecimento da instalação. Pois, bastando obter o controle dos muros de bloqueio, será fácil cooperarmos uns com os outros."
+        },
+        {
+            "id": 121,
+            "model": "호엔하임",
+            "content": "Por acaso, aqui perto também há um circuito perdido... bem nesta sala..."
+        },
+        {
+            "id": 122,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 123,
+            "model": "파우스트",
+            "content": "Aqui... vejo vestígios da passagem de um membro do Anelar."
+        },
+        {
+            "id": 124,
+            "model": "히스클리프",
+            "content": "Oi. Don't force yourself... to look so hard at them."
+        },
+        {
+            "id": 125,
+            "model": "호엔하임",
+            "content": "No, disgust as an emotion holds very little sway over me."
+        },
+        {
+            "id": 126,
+            "model": "호엔하임",
+            "content": "It's just that—"
+        },
+        {
+            "id": 127,
+            "model": "마튼",
+            "content": "Boss."
+        },
+        {
+            "id": 128,
+            "model": "마튼",
+            "content": "Não fique tentando reconhecer, um a um, de quem é cada rosto."
+        },
+        {
+            "id": 129,
+            "model": "호엔하임",
+            "content": "...Sim, sem querer eu me distraí."
+        },
+        {
+            "id": 130,
+            "model": "호엔하임",
+            "content": "Let us carry on."
+        },
+        {
+            "id": 131,
+            "model": "호엔하임",
+            "content": "...O que foi, você tem algo a dizer?"
+        },
+        {
+            "id": 132,
+            "model": "파우스트",
+            "content": "Coisa rara, ocorre-me que a Faust também concorda com as palavras de Hohenheim."
+        },
+        {
+            "id": 133,
+            "model": "히스클리프",
+            "content": "Com o quê?"
+        },
+        {
+            "id": 134,
+            "model": "파우스트",
+            "content": "...Que, justamente numa situação destas, é preciso restabelecer a instalação depressa."
+        }
+    ]
+}

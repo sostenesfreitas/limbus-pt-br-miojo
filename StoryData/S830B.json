@@ -1,0 +1,806 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Ponte que Leva a Cheolhamsa",
+            "model": "로쟈",
+            "content": "Isto é… ainda estamos no subsolo, certo? Por algum motivo parece que estamos lá fora."
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "content": "Iluminação artificial… mas difícil de distinguir do ambiente natural."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Já deve estar perto… mas…>"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "……Com efeito, alguém chegou à nossa frente."
+        },
+        {
+            "id": 4,
+            "content": "Diante da ponte que leva ao <ruby=Templo do Limiar de Ferro>Tiekansi</ruby>, o que primeiro se avistou foi uma pequena colina."
+        },
+        {
+            "id": 5,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "São as tropas privadas de Xichun."
+        },
+        {
+            "id": 7,
+            "content": "……Uma pequena colina brutal de inúmeros cadáveres amontoados."
+        },
+        {
+            "id": 8,
+            "content": "Lei Heng estava sentado no topo daquela colina."
+        },
+        {
+            "id": 9,
+            "content": "E caído aos pés de Lei Heng estava……"
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "Senhor Wei……!"
+        },
+        {
+            "id": 11,
+            "model": "웨이다침",
+            "title": "Facção de Xichun",
+            "content": "……Mais uma vez… que vergonha……"
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "O que aconteceu aqu——"
+        },
+        {
+            "id": 13,
+            "model": "뇌횡",
+            "content": "Ora, não apareceram tarde demais? Ainda me sobrou tempo para me divertir um pouco."
+        },
+        {
+            "id": 14,
+            "model": "뇌횡",
+            "content": "Este miúdo devia estar a planear ficar encafuado aqui até ao fim da sucessão."
+        },
+        {
+            "id": 15,
+            "model": "뇌횡",
+            "content": "Ouvi dizer que era o líder dos cavalos dos Heishou, mas sem o veneno não é assim tão impressionante, pois não?"
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "content": "……"
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "Aquela pessoa, por que está aqui……?"
+        },
+        {
+            "id": 18,
+            "model": "뫼르소",
+            "content": "Segundo o plano original, Lei Heng devia estar agora na entrada do Daguanyuan a confrontar Jia Qiu."
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "Anteciparam a estratégia."
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "Enviar Zilu connosco… afinal era para prevenir um imprevisto como este."
+        },
+        {
+            "id": 21,
+            "model": "자로피",
+            "content": "……"
+        },
+        {
+            "id": 22,
+            "content": "E Zilu chegou precisamente nesse momento."
+        },
+        {
+            "id": 23,
+            "content": "……Embora a sua roupa tivesse algumas manchas de sangue, provavelmente não era o sangue de Zilu."
+        },
+        {
+            "id": 24,
+            "model": "뇌횡",
+            "content": "Ora……"
+        },
+        {
+            "id": 25,
+            "model": "뇌횡",
+            "content": "Então afinal existem dois caminhos de entrada? Um é a passagem secreta… hm……? Aquele por onde o coelho passou parece bem estreito."
+        },
+        {
+            "id": 26,
+            "model": "뇌횡",
+            "content": "Ora, se eu soubesse que havia esse caminho direto, não teria dado aquela grande volta. Não há um mapa por aqui? Para me perder com a minha idade……"
+        },
+        {
+            "id": 27,
+            "model": "뇌횡",
+            "content": "Como foi… deram bem-vindas como deve ser aos meus rapazes?"
+        },
+        {
+            "id": 28,
+            "model": "오티스",
+            "content": "……Despachamo-los devidamente. Então foi mesmo você que preparou a emboscada."
+        },
+        {
+            "id": 29,
+            "model": "뇌횡",
+            "content": "Ora~ não passam de miúdos ainda a aprender. Estão muito verdes. Se eu não os disciplinar desta vez, de que servirão mais tarde?"
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Também você… veio a pedido de alguém, não é?"
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "Para impedir… ou adiar a sucessão do Patriarca."
+        },
+        {
+            "id": 32,
+            "model": "뇌횡",
+            "content": "Pensava apanhar aquela rapariga Jia Xichun antes de entrar, mas infelizmente cheguei tarde demais."
+        },
+        {
+            "id": 33,
+            "model": "뇌횡",
+            "content": "Mas, acham mesmo que vim com algum objetivo especial?"
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Então não fracassou logo à partida?"
+        },
+        {
+            "id": 35,
+            "model": "뇌횡",
+            "content": "Ela ainda tem de regressar e sentar-se no trono para concluir a sucessão. Basta apanhá-la antes disso~"
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "……Os Heishou também só começarão a agir depois disso, ao que parece."
+        },
+        {
+            "id": 37,
+            "model": "뇌횡",
+            "content": "Por sinal."
+        },
+        {
+            "id": 38,
+            "model": "뇌횡",
+            "content": "……Não conhecem a hierarquia aqui?"
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "……Ah. O Polegar."
+        },
+        {
+            "id": 40,
+            "model": "뇌횡",
+            "content": "Que raio pensam que são, a falar comigo assim tão à vontade, com perguntas que não levam a lado nenhum?"
+        },
+        {
+            "id": 41,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 42,
+            "model": "홍루",
+            "content": "Então, será que me é permitido fazer uma pergunta."
+        },
+        {
+            "id": 43,
+            "model": "뇌횡",
+            "content": "……Está bem, o jovem senhor Baoyu da família Jia tem crédito suficiente para falar comigo diretamente, sem que fique estranho."
+        },
+        {
+            "id": 44,
+            "model": "뇌횡",
+            "content": "Diga o que quiser."
+        },
+        {
+            "id": 45,
+            "model": "홍루",
+            "content": "Por que razão não matou o Senhor Wei e apenas o deteve?"
+        },
+        {
+            "id": 46,
+            "model": "홍루",
+            "content": "Nesta situação… na maioria das vezes é porque se deseja negociar."
+        },
+        {
+            "id": 47,
+            "model": "뇌횡",
+            "content": "Negociar… hahaha."
+        },
+        {
+            "id": 48,
+            "model": "뇌횡",
+            "content": "Que uma mera Limbus Company use a palavra 'negociar' comigo, é bastante estranho……"
+        },
+        {
+            "id": 49,
+            "model": "뇌횡",
+            "content": "Eia, deixa andar. Não está muito errado."
+        },
+        {
+            "id": 50,
+            "model": "뇌횡",
+            "content": "Mas ainda não tenho a certeza. Não consigo calcular até que ponto este homem é importante para vocês."
+        },
+        {
+            "id": 51,
+            "model": "뇌횡",
+            "content": "Ainda está de um fio, mas não sei se sirva para uma negociação… hm. Sendo líder dos Heishou, assim não tem grande utilidade. Ou terá alguma outra maldição……?"
+        },
+        {
+            "id": 52,
+            "model": "자로피",
+            "content": "Fale."
+        },
+        {
+            "id": 53,
+            "content": "De repente, foi Zilu quem falou pela primeira vez."
+        },
+        {
+            "id": 54,
+            "model": "자로피",
+            "content": "O que quer."
+        },
+        {
+            "id": 55,
+            "content": "A sua voz era grave e solene……"
+        },
+        {
+            "id": 56,
+            "content": "Como se fosse mesmo cumprir o que ele pedisse."
+        },
+        {
+            "id": 57,
+            "model": "뇌횡",
+            "content": "Boa, tem mesmo uma voz convincente. Isso anima-me, vou dizer-te."
+        },
+        {
+            "id": 58,
+            "model": "뇌횡",
+            "content": "Ora bem… o que quero……"
+        },
+        {
+            "id": 59,
+            "model": "뇌횡",
+            "content": "É você, o coelho mais impertinente que há."
+        },
+        {
+            "id": 60,
+            "model": "자로피",
+            "content": "……"
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "Não me diga que quer que a Zilu dê a cabeça……"
+        },
+        {
+            "id": 62,
+            "model": "뇌횡",
+            "content": "Ora essa, não. Não sou assim tão sem escrúpulos."
+        },
+        {
+            "id": 63,
+            "model": "오티스",
+            "content": "Então……"
+        },
+        {
+            "id": 64,
+            "model": "뇌횡",
+            "content": "Deixa-me dar um golpe. Apenas um."
+        },
+        {
+            "id": 65,
+            "model": "뇌횡",
+            "content": "Depois, seja qual for o desfecho — vida, morte, ou vir lutar comigo — desde que leve um único golpe meu, liberto o homem."
+        },
+        {
+            "id": 66,
+            "model": "뇌횡",
+            "content": "Eia~ não me olhe assim. Já tenho a minha idade neste negócio, percebe?"
+        },
+        {
+            "id": 67,
+            "model": "뇌횡",
+            "content": "Combate justo! Duelo! Como seria bom poder dizer isso. Mas é preciso ver as circunstâncias."
+        },
+        {
+            "id": 68,
+            "model": "뇌횡",
+            "content": "Somos ambos contratados — cada um tem as suas obrigações."
+        },
+        {
+            "id": 69,
+            "model": "뇌횡",
+            "content": "Vocês sabem — a coelha preta e nós nunca nos demos bem."
+        },
+        {
+            "id": 70,
+            "model": "료슈",
+            "content": "Seu idiota. Continua igual."
+        },
+        {
+            "id": 71,
+            "model": "뇌횡",
+            "content": "É? Hahaha."
+        },
+        {
+            "id": 72,
+            "model": "료슈2",
+            "content": "Cor·ta·da por ele. Com·cer·te·za em dois."
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "content": "Que forma longa de dizer que quer matar alguém… hah. A tua língua não se cansa?"
+        },
+        {
+            "id": 74,
+            "model": "뇌횡",
+            "content": "Não é você uma das discípulas formadas por Jia Qiu? Ouvi dizer que todos aprendem umas técnicas irritantes."
+        },
+        {
+            "id": 75,
+            "model": "뇌횡",
+            "content": "Chama-se 'Xin (心)'? É envolver o corpo com uma espécie de energia estranha? Dizem que assim fica tão resistente como alguém submetido a uma cirurgia de reforço?"
+        },
+        {
+            "id": 76,
+            "model": "뇌횡",
+            "content": "E depois condensar esse Xin numa espécie de anel de luz à volta das armas e do corpo — aí torna-se 'Wang (望)', não é?"
+        },
+        {
+            "id": 77,
+            "model": "뇌횡",
+            "content": "Eu também aprendi alguma coisa… que tal experimentar? Enquanto ainda não perdi o jeito, devo conseguir criar ao menos um Wang."
+        },
+        {
+            "id": 78,
+            "model": "뇌횡",
+            "content": "Quero ver o que é capaz de fazer com o seu."
+        },
+        {
+            "id": 79,
+            "content": "Lei Heng olhava para Zilu com um sorriso malicioso."
+        },
+        {
+            "id": 80,
+            "model": "자로피",
+            "content": "……"
+        },
+        {
+            "id": 81,
+            "content": "Não tínhamos grande contacto com Zilu. Ela certamente não arriscaria a vida por pessoas que eram quase desconhecidas para ela."
+        },
+        {
+            "id": 82,
+            "content": "E Wei? Não sei bem, mas provavelmente a relação entre os dois era semelhante à que temos connosco."
+        },
+        {
+            "id": 83,
+            "content": "Pensando friamente… mesmo a nossa relação com Wei também era……"
+        },
+        {
+            "id": 84,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 85,
+            "content": "Por isso, não me era possível pedir-lhe isso facilmente."
+        },
+        {
+            "id": 86,
+            "content": "Ele certamente também não propôs isso de forma descuidada."
+        },
+        {
+            "id": 87,
+            "content": "Mesmo com dezenas de soldados de Jia Xichun mortos à sua volta, ele não tinha praticamente um arranhão."
+        },
+        {
+            "id": 88,
+            "model": "웨이다침",
+            "title": "Facção de Xichun",
+            "content": "……"
+        },
+        {
+            "id": 89,
+            "content": "Wei lutou para abrir a boca."
+        },
+        {
+            "id": 90,
+            "content": "……Era o olhar de quem já aceitara serenamente o seu próprio destino."
+        },
+        {
+            "id": 91,
+            "model": "웨이다침",
+            "title": "Facção de Xichun",
+            "content": "Só preciso de que a minha senhora……"
+        },
+        {
+            "id": 92,
+            "model": "웨이다침",
+            "title": "Facção de Xichun",
+            "content": "Só preciso de que a minha senhora parta em segurança. Esta desgraça é toda culpa minha por não ter estado suficientemente alerta em torno……"
+        },
+        {
+            "id": 93,
+            "model": "웨이다침",
+            "title": "Facção de Xichun",
+            "content": "Se eu desaparecer, a minha senhora ficará sem ninguém…… por favor, cuidem dela……"
+        },
+        {
+            "id": 94,
+            "content": "O que Wei nos confiou não foi a sua própria vida, mas a de Jia Xichun."
+        },
+        {
+            "id": 95,
+            "content": "Como sempre fizera……"
+        },
+        {
+            "id": 96,
+            "model": "자로피",
+            "content": "Wei……"
+        },
+        {
+            "id": 97,
+            "content": "Zilu olhou para Hong Lu."
+        },
+        {
+            "id": 98,
+            "model": "자로피",
+            "content": "É uma pessoa importante para ti?"
+        },
+        {
+            "id": 99,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 100,
+            "content": "A dizer a verdade, Wei provavelmente não era uma pessoa muito importante para Hong Lu."
+        },
+        {
+            "id": 101,
+            "content": "Wei era uma pessoa taciturna e leal apenas a Jia Xichun, e mesmo no Daguanyuan parecia não ter tido grande contacto com Hong Lu."
+        },
+        {
+            "id": 102,
+            "content": "Mas se imaginar o que Hong Lu pensa……"
+        },
+        {
+            "id": 103,
+            "content": "Desde o dia em que a família Kong foi exterminada, ele certamente não quis mais assistir apenas à morte das pessoas à sua volta, nem aos rostos que ficavam tristes por essas mortes."
+        },
+        {
+            "id": 104,
+            "content": "E nós também. Tendo isso em conta, poderíamos ficar a ver Wei morrer com indiferença?"
+        },
+        {
+            "id": 105,
+            "content": "Mesmo sem termos trocado muitas palavras, com o tempo passado junto a Wei, a afeição entre nós foi crescendo."
+        },
+        {
+            "id": 106,
+            "content": "Aprendemos não só que tipo de pessoa era, mas também a conhecer Jia Xichun, a quem ele servia."
+        },
+        {
+            "id": 107,
+            "content": "Ficávamos contentes ao encontrá-los… e queríamos de coração que lhes corresse bem."
+        },
+        {
+            "id": 108,
+            "content": "E queríamos também… que não morressem."
+        },
+        {
+            "id": 109,
+            "content": "Embora efémera, foi a primeira aliança que criámos pelas nossas próprias mãos."
+        },
+        {
+            "id": 110,
+            "content": "……Se Wei morresse, seríamos como quando despedimos Effie."
+        },
+        {
+            "id": 111,
+            "content": "Como quando vemos Saude com o seu rosto carregado de uma tristeza que não consegue conter……"
+        },
+        {
+            "id": 112,
+            "content": "O coração ficaria inquieto por muito tempo."
+        },
+        {
+            "id": 113,
+            "content": "Culpamo-nos, odiamos a nossa fraqueza, arrependemo-nos."
+        },
+        {
+            "id": 114,
+            "content": "Por mais batalhas acompanhadas de morte que se vivam, nunca se pode ficar entorpecido perante o momento da morte, por mais vezes que se testemunhe."
+        },
+        {
+            "id": 115,
+            "model": "자로피",
+            "content": "Fale."
+        },
+        {
+            "id": 116,
+            "content": "Sei que não é possível salvar toda a gente."
+        },
+        {
+            "id": 117,
+            "content": "Mas já vi mortes demasiadas — de companheiros, de quem não chegou a sê-lo, ou de quem estava prestes a ser."
+        },
+        {
+            "id": 118,
+            "content": "Wei não era especial nisto, e também não tomei a decisão de impedir cada morte que viesse a ocorrer à minha volta no futuro."
+        },
+        {
+            "id": 119,
+            "content": "Mas……"
+        },
+        {
+            "id": 120,
+            "content": "Mas Hong Lu……"
+        },
+        {
+            "id": 121,
+            "model": "홍루",
+            "content": "Eu……"
+        },
+        {
+            "id": 122,
+            "model": "홍루",
+            "content": "Não quero que o Senhor Wei morra."
+        },
+        {
+            "id": 123,
+            "model": "홍루",
+            "content": "Porque não quero que Xichun faça uma expressão triste quando a vir a seguir……"
+        },
+        {
+            "id": 124,
+            "model": "자로피",
+            "content": "……"
+        },
+        {
+            "id": 125,
+            "model": "홍루",
+            "content": "Claro que a senhorita Zilu talvez não tenha razão para ouvir o meu pedido……"
+        },
+        {
+            "id": 126,
+            "model": "자로피",
+            "content": "Compreendido."
+        },
+        {
+            "id": 127,
+            "content": "Zilu não esperou que Hong Lu acabasse de falar e foi diretamente ao encontro de Lei Heng."
+        },
+        {
+            "id": 128
+        },
+        {
+            "id": 129,
+            "model": "자로피",
+            "content": "Corta-me, <ruby=Estrela Tiantui>Chachihu</ruby>."
+        },
+        {
+            "id": 130,
+            "model": "뇌횡",
+            "content": "……Ha!"
+        },
+        {
+            "id": 131,
+            "model": "뇌횡",
+            "content": "Com prazer, <ruby=Estrela Tianjiu>Meizhelan</ruby>."
+        },
+        {
+            "id": 132,
+            "model": "이스마엘",
+            "content": "Espera… o que est——"
+        },
+        {
+            "id": 133,
+            "content": "A enorme podão nas mãos de Lei Heng esguichou chamas, acompanhadas de um fogo que ardia com uma violência máxima, e um anel de luz enrolou-se em torno da lâmina……"
+        },
+        {
+            "id": 134,
+            "content": "E tal como o 'Xin' de que Lei Heng falara antes, o corpo de Zilu foi envolvido por uma suave luminosidade ondulante."
+        },
+        {
+            "id": 135,
+            "model": "뇌횡",
+            "content": "Eu, Lei Heng. Comandante d'O Polegar, um dos Dez Espadas do Leste. Vou cortar-te com toda a minha força."
+        },
+        {
+            "id": 136,
+            "model": "자로피",
+            "content": "Pretende cortar-me com a língua?"
+        },
+        {
+            "id": 137
+        },
+        {
+            "id": 138,
+            "content": "Com essa resposta seca como sinal, Lei Heng desferiu um golpe diagonal sobre a inabalável Zilu."
+        },
+        {
+            "id": 139,
+            "model": "단테",
+            "content": "<……!>"
+        },
+        {
+            "id": 140,
+            "content": "O calor e o impacto daquele golpe… fizeram alguns de nós recuar dois passos involuntariamente."
+        },
+        {
+            "id": 141,
+            "content": "Mas……"
+        },
+        {
+            "id": 142,
+            "content": "Zilu permanecia apenas de pé, em silêncio."
+        },
+        {
+            "id": 143,
+            "model": "뇌횡",
+            "content": "Ora então… embora não tivesse apontado especificamente à cabeça, não foi mesmo cortada ao meio."
+        },
+        {
+            "id": 144,
+            "model": "뇌횡",
+            "content": "É de facto resistente~ esse tal de Xin. Ficou-me a mão entorpecida."
+        },
+        {
+            "id": 145,
+            "model": "뇌횡",
+            "content": "No entanto… ser resistente não é o mesmo que ser invulnerável."
+        },
+        {
+            "id": 146,
+            "model": "뇌횡",
+            "content": "Ainda está viva… certo?"
+        },
+        {
+            "id": 147,
+            "content": "Assim que Lei Heng terminou de falar, um jorro de sangue brotou do corpo de Zilu……"
+        },
+        {
+            "id": 148,
+            "model": "홍루",
+            "content": "Senhorita Zilu……!"
+        },
+        {
+            "id": 149,
+            "content": "Hong Lu avançou de imediato para amparar o corpo de Zilu."
+        },
+        {
+            "id": 150,
+            "model": "홍루",
+            "content": "Senhorita Zilu……"
+        },
+        {
+            "id": 151,
+            "model": "홍루",
+            "content": "Por que fez isso?"
+        },
+        {
+            "id": 152,
+            "model": "자로피2",
+            "content": "Foi suficiente."
+        },
+        {
+            "id": 153,
+            "model": "자로피2",
+            "content": "Disseste que não queres ver triste a pessoa que te importa."
+        },
+        {
+            "id": 154,
+            "content": "Mesmo com o sangue a jorrar sem parar, Zilu fez o esforço de falar."
+        },
+        {
+            "id": 155,
+            "model": "자로피2",
+            "content": "Isto é a 'benevolência' que aprendi, o meu caminho da justiça. Isto é… renxia."
+        },
+        {
+            "id": 156,
+            "model": "자로피2",
+            "content": "O resto fica a teu cargo, Relógio."
+        },
+        {
+            "id": 157,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 158,
+            "content": "Aquela pessoa, com quem não tivera nenhuma conversa até então, dirigiu-se a mim com um apelido carinhoso."
+        },
+        {
+            "id": 159,
+            "content": "Numa situação em que a sua vida pendia por um fio."
+        },
+        {
+            "id": 160,
+            "model": "뇌횡",
+            "content": "Eia~ agora que me livrei daquele estorvo, sinto-me muito mais leve."
+        },
+        {
+            "id": 161,
+            "model": "뇌횡",
+            "content": "O prometido é obrigação. Ela sabia que não me retiro da palavra. Por isso aceitou o golpe de bom grado."
+        },
+        {
+            "id": 162,
+            "content": "Dizendo isso, Lei Heng deu um leve pontapé em Wei, fazendo-o rolar na nossa direção."
+        },
+        {
+            "id": 163,
+            "model": "뇌횡",
+            "content": "Levem-no. Com três, quatro meses de reabilitação a sério, talvez ainda consiga andar com as próprias pernas."
+        },
+        {
+            "id": 164,
+            "model": "뇌횡",
+            "content": "No entanto… só se vocês sobreviverem para contar a história."
+        },
+        {
+            "id": 165,
+            "model": "뇌횡",
+            "content": "Está a pensar levar o jovem senhor e abrir aquela porta, não está?"
+        },
+        {
+            "id": 166,
+            "model": "뇌횡",
+            "content": "Se for isso……"
+        },
+        {
+            "id": 167,
+            "content": "Lei Heng foi-se espreguiçando enquanto avançava lentamente na nossa direção."
+        },
+        {
+            "id": 168,
+            "model": "뇌횡",
+            "content": "Então… estão prontos."
+        },
+        {
+            "id": 169,
+            "model": "뇌횡",
+            "content": "Vou despachar-vos todos antes de a sucessão lá dentro do Tiekansi terminar."
+        },
+        {
+            "id": 170,
+            "model": "뇌횡",
+            "content": "É exatamente o que preciso para me divertir."
+        }
+    ]
+}

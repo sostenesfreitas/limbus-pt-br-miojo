@@ -1,0 +1,479 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "아나운서",
+            "teller": "Locutor",
+            "title": "Departamento da LCE",
+            "content": "Arriving at the LCE Department."
+        },
+        {
+            "id": 1,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "히스클리프",
+            "content": "Ei, isto..."
+        },
+        {
+            "id": 2,
+            "content": "Diante da cena, tão diferente de quando viéramos da última vez para o exame de rotina, todos perderam a fala."
+        },
+        {
+            "id": 3,
+            "model": "오티스",
+            "content": "... We're too late."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Eu esperava que o pessoal da sede estivesse fazendo a contenção... ou, ao menos, que houvesse um combate em andamento, mas..."
+        },
+        {
+            "id": 5,
+            "content": "Não há quem fuja, nem quem resista."
+        },
+        {
+            "id": 6,
+            "content": "Tudo o que se via... eram apenas as pessoas caídas, sem o menor movimento, espalhadas por todo o corredor."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Que tivessem sido massacrados assim... a este ponto... eu não esperava..."
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "Senhora Faust. A senhora sabe qual é a proporção de pessoal da LCE apto ao combate?"
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "content": "A LCE... tem uma frequência de testes e experimentos de combate maior do que a de outros departamentos de pesquisa. Por isso, a maioria dos funcionários ingressou depois de concluir um treinamento de combate básico."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "O equipamento E.G.O que vestem também... teve sua pesquisa e extração conduzidas a um nível capaz de render resultados satisfatórios em combate, mas."
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "Ao que parece, não foi possível se preparar com facilidade para um assalto planejado."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Não há como uns ratos de laboratório barrarem um combate real, com aranhas correndo por toda parte."
+        },
+        {
+            "id": 13,
+            "place": -1,
+            "content": "Vieram-me à mente os pesquisadores que rabiscavam o resultado dos nossos exames em folhas apinhadas... e a imagem de Hohenheim, fitando os dados com os olhos encharcados de cansaço."
+        },
+        {
+            "id": 14,
+            "content": "Mal terminamos a despedida, ele desaparecera junto com os pesquisadores, que arrancavam os cabelos dizendo que precisavam conferir o andamento de outras pesquisas."
+        },
+        {
+            "id": 15,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "단테",
+            "content": "<Meursault. Se por acaso... houver alguém que pareça... o Hohenheim... me avise na hora.>"
+        },
+        {
+            "id": 16,
+            "model": "뫼르소",
+            "content": "... Mm."
+        },
+        {
+            "id": 17,
+            "model": "뫼르소",
+            "content": "Verifiquei três cadáveres cuja identidade não foi possível determinar; mas, considerando estatura, vestimenta e afins... a probabilidade de ser Hohenheim é estatisticamente muito baixa."
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "Vendo o estado dos corpos... a maioria foi abatida sem nem conseguir resistir como devia."
+        },
+        {
+            "id": 19,
+            "content": "Gregor examinou os cadáveres com um olhar sombrio."
+        },
+        {
+            "id": 20,
+            "model": "뫼르소",
+            "content": "Out of 32 bodies, 26 show identical physical trauma."
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<Identical...?>"
+        },
+        {
+            "id": 22,
+            "model": "뫼르소",
+            "content": "Em todos eles, há, no centro do tórax, na posição do coração, uma ferida penetrante em forma de espiral; e presume-se que a arma seja um objeto semelhante à espiral que se encontra presa às mãos dos cadáveres, senhor Gerente."
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "content": "Esta espiral... parece que estas pessoas a arrancaram por conta própria... Por que algo assim..."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 25,
+            "model": "료슈",
+            "content": "... Soft."
+        },
+        {
+            "id": 26,
+            "content": "Ryoshu fitava, imóvel, a palma da própria mão."
+        },
+        {
+            "id": 27,
+            "content": "Palavras estranhas, sem sentido aparente, e uma atitude de quem parece estar pensando em algo."
+        },
+        {
+            "id": 28,
+            "content": "Eu pude perceber, naturalmente, que Ryoshu estava se recordando do passado."
+        },
+        {
+            "id": 29,
+            "content": "Como se sobre a mão se segurasse algo invisível, como se ela sentisse um toque estranho, como se procurasse algo que ali deveria estar."
+        },
+        {
+            "id": 30,
+            "content": "Agora eu já podia adivinhar: desta vez também eu espiaria aquele passado junto com ela."
+        },
+        {
+            "id": 31,
+            "content": "However..."
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<... Huh?>"
+        },
+        {
+            "id": 33,
+            "content": "Aquilo era nitidamente diferente das memórias dos outros Pecadores que eu vira até então."
+        },
+        {
+            "id": 34,
+            "place": -1,
+            "content": "Como se houvesse sido retalhada por uma espada, sem piedade..."
+        },
+        {
+            "id": 35,
+            "content": "A cena que se via vinda de Ryoshu tinha muitas partes cortadas em pedaços."
+        },
+        {
+            "id": 36,
+            "model": "과거료슈2",
+            "teller": "???",
+            "title": "???",
+            "content": "......."
+        },
+        {
+            "id": 37,
+            "content": "Sobre a palma aberta da Ryoshu da memória havia, sem dúvida, algo. Mas..."
+        },
+        {
+            "id": 38,
+            "content": "Não se conseguia distinguir nem ao menos se a cor daquilo era mais próxima do branco ou do preto."
+        },
+        {
+            "id": 39,
+            "content": "Nem sequer se aquilo era um objeto, um alimento, uma arma..."
+        },
+        {
+            "id": 40,
+            "content": "Nem que expressão a Ryoshu fez ao vê-lo, nem que palavras disse em seguida."
+        },
+        {
+            "id": 41,
+            "model": "소지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "......."
+        },
+        {
+            "id": 42,
+            "content": "A única coisa que se via com clareza era..."
+        },
+        {
+            "id": 43,
+            "content": "...que aquele que, presumivelmente, entregara aquilo a Ryoshu..."
+        },
+        {
+            "id": 44,
+            "content": "...exalava com calma a fumaça de um cigarro."
+        },
+        {
+            "id": 45,
+            "content": "watching Ryōshū's reaction in complete ease."
+        },
+        {
+            "id": 46,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "단테",
+            "content": "<.......>"
+        },
+        {
+            "id": 47,
+            "content": "Repassei aquela cena de sentido desconhecido, que passara de raspão num instante."
+        },
+        {
+            "id": 48,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Ryoshu? Você se lembra de alguma coisa?>"
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "content": "... \"Saru.\""
+        },
+        {
+            "id": 51,
+            "model": "료슈",
+            "content": "Tudo de que me lembro é o nome."
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<You mean...>"
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "Relógio. Como você mesmo espiou, o interior da minha cabeça está retalhado."
+        },
+        {
+            "id": 54,
+            "model": "료슈",
+            "content": "A ordem e a forma estão todas emaranhadas, cada uma para um lado."
+        },
+        {
+            "id": 55,
+            "model": "료슈",
+            "content": "Por isso, não há nada sobre a memória que eu possa explicar."
+        },
+        {
+            "id": 56,
+            "model": "오티스",
+            "content": "Parece que a situação já está mais ou menos compreendida. A pior das hipóteses que pode ocorrer aqui é..."
+        },
+        {
+            "id": 57,
+            "model": "오티스",
+            "content": "...uma situação em que, junto com a invasão externa, Anormalidades, Distorções e Pecados escapam de modo simultâneo."
+        },
+        {
+            "id": 58,
+            "model": "로쟈",
+            "content": "Uau, isso é uma coisa que eu nem quero imaginar...? Vamos ter que subjugar os monstros que escaparam ao mesmo tempo em que enfrentamos os invasores."
+        },
+        {
+            "id": 59,
+            "model": "오티스",
+            "content": "Sim. E nós estamos, agora, envolvidos justamente nessa pior das hipóteses."
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "Right..."
+        },
+        {
+            "id": 61,
+            "content": "Outis cuspiu sem pejo uma conclusão capaz de derrubar o moral."
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Enumerando em ordem..."
+        },
+        {
+            "id": 63,
+            "model": "오티스",
+            "content": "Em primeiro lugar, este departamento da LCE sofreu o assalto de uma força de identidade desconhecida. O horário foi cerca de duas horas atrás."
+        },
+        {
+            "id": 64,
+            "model": "오티스",
+            "content": "A arma que assassinou os pesquisadores... não foi uniforme; ao que parece, usaram armas variadas."
+        },
+        {
+            "id": 65,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 66,
+            "place": -1,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "My darling daughter."
+        },
+        {
+            "id": 67,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Olha para mim. Quando se usa a arma reta que traça a trajetória mais longa, sabe..."
+        },
+        {
+            "id": 68,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Olha para mim, quando se usa a arma que tira a vida por uma pequena fresta, sabe..."
+        },
+        {
+            "id": 69,
+            "model": "검지아비상",
+            "teller": "???",
+            "title": "???",
+            "content": "Olha para mim, quando se usa a arma flexível que esmaga aquilo que toca, sabe..."
+        },
+        {
+            "id": 70,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 71,
+            "model": "료슈",
+            "content": "Está emaranhado, bem à maneira daquele sujeito."
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "content": "Identificar que armas foram usadas também não é nada fácil... isto aqui."
+        },
+        {
+            "id": 73,
+            "content": "Ryoshu, de cara franzida, sacudiu a cabeça com irritação."
+        },
+        {
+            "id": 74,
+            "model": "오티스",
+            "content": "...Deve-se considerar que é alguém que maneja com perícia ao menos três armas diferentes."
+        },
+        {
+            "id": 75,
+            "model": "오티스",
+            "content": "Moving on..."
+        },
+        {
+            "id": 76,
+            "model": "오티스",
+            "content": "O assalto dos invasores foi executado num instante, sem dar tempo de prever; e na LCE não houve sequer um contra-ataque como deve ser. Pode-se considerar que foi quase um massacre."
+        },
+        {
+            "id": 77,
+            "model": "오티스",
+            "content": "O fato a que se deve dar atenção está aqui."
+        },
+        {
+            "id": 78,
+            "model": "오티스",
+            "content": "O fato de eles terem aberto as portas das salas de contenção das Anormalidades... parece ter sido depois de o assalto se encerrar com êxito."
+        },
+        {
+            "id": 79,
+            "model": "이스마엘",
+            "content": "... That sure is fishy."
+        },
+        {
+            "id": 80,
+            "model": "이스마엘",
+            "content": "Normalmente... a pessoa tentaria fazer o contrário."
+        },
+        {
+            "id": 81,
+            "model": "이스마엘",
+            "content": "Abrir primeiro as portas das salas de contenção, tornar a situação caótica, e então... aproveitar essa confusão para arrematar tudo seria mais... fácil."
+        },
+        {
+            "id": 82,
+            "model": "오티스",
+            "content": "Sim. Não é uma estratégia que normalmente se adotaria."
+        },
+        {
+            "id": 83,
+            "model": "오티스",
+            "content": "Quanto ao motivo de fazerem uma jogada tão fora do comum... podem-se levantar umas duas suposições."
+        },
+        {
+            "id": 84,
+            "model": "오티스",
+            "content": "A primeira: que eles são tão hábeis que não precisam de coisas como uma manobra de diversão."
+        },
+        {
+            "id": 85,
+            "model": "싱클레어",
+            "content": "Quer dizer que pode haver vários com a habilidade daquele sujeito... o que capturou o senhor Charon no caminhão..."
+        },
+        {
+            "id": 86,
+            "model": "오티스",
+            "content": "Mm. Secondly..."
+        },
+        {
+            "id": 87,
+            "model": "오티스",
+            "content": "É a possibilidade de terem deixado as Anormalidades escaparem de propósito, como uma espécie de medida posterior."
+        },
+        {
+            "id": 88,
+            "model": "돈키호테",
+            "content": "Medida posterior...? Por acaso quereis dizer que é para esconder o fato de que foram eles que atacaram?"
+        },
+        {
+            "id": 89,
+            "model": "오티스",
+            "content": "Não. A chance de ser um disfarce é baixa. Se houvesse uma Anormalidade que devorasse os corpos, vá lá; mas não é uma manobra de logro que se faça deixando feridas tão características."
+        },
+        {
+            "id": 90,
+            "model": "오티스",
+            "content": "O mais plausível é que tenham o objetivo de atrasar os reforços da sede que entrariam em seguida, como nós."
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "Ganhar tempo... ah, entendo. Devem estar procurando alguma coisa, então?"
+        },
+        {
+            "id": 92,
+            "model": "오티스",
+            "content": "Sim. Há boa chance de que tenham invadido com um alvo definido."
+        },
+        {
+            "id": 93,
+            "model": "홍루",
+            "content": "Aquilo que eles procuram... deve estar em algum lugar daqui, então."
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "E, por ser algo que leva muito tempo para se encontrar, eles precisam nos prender aqui, também."
+        },
+        {
+            "id": 95,
+            "model": "그레고르",
+            "content": "... We need to hurry, then."
+        }
+    ]
+}

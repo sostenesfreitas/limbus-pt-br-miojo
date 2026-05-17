@@ -1,0 +1,559 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "That's not it."
+        },
+        {
+            "id": 1,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "Não é assim que se amarra, eu já disse."
+        },
+        {
+            "id": 2,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "Nooo..."
+        },
+        {
+            "id": 3,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "You're doing it wrong, Mommy!"
+        },
+        {
+            "id": 4,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "Just follow after me."
+        },
+        {
+            "id": 5,
+            "model": "료슈딸",
+            "teller": "???",
+            "title": "???",
+            "content": "Agora você entendeu de verdade, né? Daqui pra frente não pode esquecer."
+        },
+        {
+            "id": 6,
+            "model": "검지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Such a shame."
+        },
+        {
+            "id": 7,
+            "model": "검지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "Que, com uma faca afiada e afiada com tanto esmero, o que você cortou tenha sido apenas..."
+        },
+        {
+            "id": 8,
+            "model": "검지아비",
+            "teller": "???",
+            "title": "???",
+            "content": "...o interior da sua própria cabeça."
+        },
+        {
+            "id": 9,
+            "model": "뇌횡",
+            "content": "A sua cria, ela ainda tá naquela casa, né. Ou não tá?"
+        },
+        {
+            "id": 10,
+            "content": "<i><color=#cf0000>Por isso, em vez de aprender a traçar linhas, eu aprendi a unir linhas.</i></color>"
+        },
+        {
+            "id": 11,
+            "content": "<i><color=#cf0000>Agora, de fora do novelo, eu vejo os instantes que você deixou escapar.</i></color>"
+        },
+        {
+            "id": 12,
+            "content": "<i><color=#cf0000>Quando o fim roçar o início, eu vou te carregar nos braços para casa.</i></color>"
+        },
+        {
+            "id": 13,
+            "place": "Laboratório da Equipe de Pesquisa da LCE",
+            "model": "단테",
+            "content": "<... shū.>"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Ryoshu, você está bem?>"
+        },
+        {
+            "id": 15,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "content": "... Ah."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Am fine."
+        },
+        {
+            "id": 18,
+            "content": "Ryoshu fechou os olhos por um instante e tornou a abri-los."
+        },
+        {
+            "id": 19,
+            "content": "Pouco antes, no laboratório..."
+        },
+        {
+            "id": 20,
+            "place": "Laboratório da Equipe de Pesquisa da LCE, há pouco",
+            "model": "료슈",
+            "content": "Por que foi que os Pais criaram coisas como vocês?"
+        },
+        {
+            "id": 21,
+            "model": "료슈",
+            "content": "Aqueles que se queixavam de mal darem conta de mim sozinha, por que criaram capangas..."
+        },
+        {
+            "id": 22,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "<i>\"Children.\"</i>"
+        },
+        {
+            "id": 23,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "We are their children."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "... Hah."
+        },
+        {
+            "id": 25,
+            "model": "료슈",
+            "content": "Qual é o papel dessa coisa a que se chama 'filho'?"
+        },
+        {
+            "id": 26,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Yoshihide, no dia em que vierdes a voltar à teia."
+        },
+        {
+            "id": 27,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Nós, os cinco filhos, havemos de pegar os fios que retalhastes..."
+        },
+        {
+            "id": 28,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...e, entrelaçando-os num só, completar o novelo."
+        },
+        {
+            "id": 29,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 30,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Os Pais da teia se inquietaram, Yoshihide."
+        },
+        {
+            "id": 31,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Se vós, ao voltar à teia, estivésseis num estado em que houvésseis perdido até o tempo que passastes com os Pais..."
+        },
+        {
+            "id": 32,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...disseram eles que seria uma pena todos esses anos em que vos criaram e vos forjaram."
+        },
+        {
+            "id": 33,
+            "model": "료슈",
+            "content": "Ha — vocês os põem a cumprir apenas um papel desses e ainda os chamam pela palavra 'filho'?"
+        },
+        {
+            "id": 34,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Seja qual for o título, a relação não se altera."
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "No. It's got a different <i>echo</i>."
+        },
+        {
+            "id": 36,
+            "model": "료슈",
+            "content": "Um filho é algo mais resistente e mais aderente. Tal como, ainda que eu, com esta espada... tenha retalhado o interior da minha cabeça a ponto de virar um caos... um único fio permaneceu."
+        },
+        {
+            "id": 37,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Yet my master tells me..."
+        },
+        {
+            "id": 38,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "'Ao longo dos anos que se passaram, eu vos amparei o bastante' — foi isto que o senhor mestre disse."
+        },
+        {
+            "id": 39,
+            "model": "료슈",
+            "content": "... <i>Tended</i> to me?"
+        },
+        {
+            "id": 40,
+            "place": "Algures na Teia, no passado",
+            "model": "소지아비2",
+            "content": "Yoshihide."
+        },
+        {
+            "id": 41,
+            "model": "소지아비2",
+            "content": "How does it feel to be a living fetter?"
+        },
+        {
+            "id": 42,
+            "model": "과거료슈1",
+            "content": "... Fet... ter?"
+        },
+        {
+            "id": 43,
+            "model": "소지아비2",
+            "content": "Eu... não pude sequer respirar à vontade o ar fresco lá de fora."
+        },
+        {
+            "id": 44,
+            "model": "소지아비2",
+            "content": "Tampouco pude, como os outros Mindinhos, caminhar livremente por montanhas e penhascos, para onde os pés me levassem, e..."
+        },
+        {
+            "id": 45,
+            "model": "소지아비2",
+            "content": "...deixei de poder perambular, como bem quisesse, entre as Asas e os becos."
+        },
+        {
+            "id": 46,
+            "model": "과거료슈1",
+            "content": "O que isso quer dizer... eu não entendo."
+        },
+        {
+            "id": 47,
+            "model": "소지아비2",
+            "content": "Não entende. Quer dizer que não foi para viver aqui como teu pai, e só isso, que eu vivi me agarrando à vida com unhas e dentes."
+        },
+        {
+            "id": 48,
+            "model": "소지아비2",
+            "content": "Hã? Yoshihide, o que você acha?"
+        },
+        {
+            "id": 49,
+            "model": "과거료슈1",
+            "content": "*sniffle*"
+        },
+        {
+            "id": 50,
+            "model": "소지아비2",
+            "content": "Pare já com isso. Choro por ter feito o quê de bom?"
+        },
+        {
+            "id": 51,
+            "model": "소지아비2",
+            "content": "Quem sempre quis chorar fui eu."
+        },
+        {
+            "id": 52,
+            "model": "소지아비2",
+            "content": "Desde que fui obrigado a tomar conta de você, não houve um só dia em que eu não quisesse chorar."
+        },
+        {
+            "id": 53,
+            "model": "과거료슈1",
+            "content": "My knees..."
+        },
+        {
+            "id": 54,
+            "model": "과거료슈1",
+            "content": "Momm—Mother, I scraped... my knees..."
+        },
+        {
+            "id": 55,
+            "model": "소지아비2",
+            "content": "Não venha choramingar diante de mim."
+        },
+        {
+            "id": 56,
+            "model": "소지아비2",
+            "content": "Que fungar nojento... é desagradável. E isso é por culpa de você ser lenta e obtusa."
+        },
+        {
+            "id": 57,
+            "model": "소지아비2",
+            "content": "Da próxima vez, olhe direito e desvie."
+        },
+        {
+            "id": 58,
+            "model": "소지아비2",
+            "content": "Antes... antes uma daquelas pernas tivesse ido embora."
+        },
+        {
+            "id": 59,
+            "model": "과거료슈1",
+            "content": "……."
+        },
+        {
+            "id": 60,
+            "model": "소지아비2",
+            "content": "Só assim você entenderia o que eu sinto, ao menos do tamanho de uma unha."
+        },
+        {
+            "id": 61,
+            "place": "Laboratório da Equipe de Pesquisa da LCE, há pouco",
+            "model": "료슈",
+            "content": "Aquele sujeito, sim... foi quem mais me odiou."
+        },
+        {
+            "id": 62,
+            "model": "료슈",
+            "content": "Pôs a culpa do próprio fim em mim."
+        },
+        {
+            "id": 63,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Mas, Yoshihide... graças a isso..."
+        },
+        {
+            "id": 64,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...não foi assim que vós passastes a ter habilidade suficiente para deter a espada deste servo e a daquele sujeito?"
+        },
+        {
+            "id": 65,
+            "content": "Aquele sujeito, como que para mostrar a Ryoshu, detém o ataque do discípulo do Anelar."
+        },
+        {
+            "id": 66,
+            "model": "료슈",
+            "content": "…!"
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "content": "Eh, senhora Ryoshu? Eu sei que há aí um vínculo antigo, mas... isto é uma oportunidade."
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "content": "Vamos nos retirar daqui enquanto aqueles ali trocam pancadas. Temos é que perseguir o sujeito que levou o Ramo Dourado. Hein?"
+        },
+        {
+            "id": 69,
+            "model": "이상",
+            "content": "Para onde ele foi, não foi possível saber. Mas... não há dúvida de que agora é a hora de sairmos correndo daqui."
+        },
+        {
+            "id": 70,
+            "model": "료슈",
+            "content": "*sigh*"
+        },
+        {
+            "id": 71,
+            "content": "Deixando para trás o discípulo do Anelar e o discípulo do Mindinho, que tinham começado a lutar entre si, escapamos rumo a outro caminho."
+        },
+        {
+            "id": 72,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "그레고르",
+            "content": "Aquilo... era a técnica do sujeito chamado de Pai do Mindinho?"
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "content": "... Yeah."
+        },
+        {
+            "id": 74,
+            "model": "료슈",
+            "content": "Era uma das memórias que haviam sido extirpadas, mas, ao enfrentá-la de perto, eu reconheci."
+        },
+        {
+            "id": 75,
+            "model": "료슈",
+            "content": "Os Pais queriam que eu absorvesse, sem deixar resto, todas as técnicas deles."
+        },
+        {
+            "id": 76,
+            "model": "료슈",
+            "content": "O sujeito do lado do Mindinho... à parte de me odiar, também me fez assimilar a técnica dele."
+        },
+        {
+            "id": 77,
+            "model": "료슈",
+            "content": "... Probably to make me a more prolific, more efficient killer."
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "content": "Por isso, para eles não pode ser senão um erro doloroso. Pois, ao eu sair da Teia, foi-se por água abaixo todo o fruto que eles tanto se esforçaram para construir."
+        },
+        {
+            "id": 79,
+            "model": "그레고르",
+            "content": "Hum... bom, parece que neste mundo há mais formas de amor e ódio misturados do que se pensa."
+        },
+        {
+            "id": 80,
+            "model": "이상",
+            "content": "A memória... fostes vós mesma que a extirpastes?"
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "Yeah. With my own hands."
+        },
+        {
+            "id": 82,
+            "content": "Veio-me à mente a expressão de Ryoshu que eu vira dentro dos fragmentos de memória."
+        },
+        {
+            "id": 83,
+            "content": "No momento em que ela decepou a língua do sujeito chamado de Pai do Mindinho..."
+        },
+        {
+            "id": 84,
+            "content": "...no momento em que ela enfim cravou, na boca daquele sujeito, aquela espada que jamais sacara diante de nós..."
+        },
+        {
+            "id": 85,
+            "content": "A expressão que Ryoshu fazia era de sofrimento."
+        },
+        {
+            "id": 86,
+            "model": "료슈",
+            "content": "A cada vez que eu desembainho esta espada e corto algo..."
+        },
+        {
+            "id": 87,
+            "model": "료슈",
+            "content": "I'm also slicing away a piece of my mind."
+        },
+        {
+            "id": 88,
+            "model": "료슈",
+            "content": "...por isso eu não queria brandir esta espada."
+        },
+        {
+            "id": 89,
+            "model": "료슈",
+            "content": "Mas, se eu não tivesse sacado a espada, teria acabado tomada por aqueles sujeitos para sempre."
+        },
+        {
+            "id": 90,
+            "content": "Aquilo que Ryoshu, até o fim, não quis deixar escapar."
+        },
+        {
+            "id": 91,
+            "content": "As palavras que Noehoeng disparou no exato instante em que viu Ryoshu."
+        },
+        {
+            "id": 92,
+            "model": "단테",
+            "content": "<Your baby...>"
+        },
+        {
+            "id": 93,
+            "content": "O que ela cortou pela filha foram a língua daquele sujeito e a memória de Ryoshu."
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "... My blood, my ward... my daughter."
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Aquela criança... você disse que está na teia.>"
+        },
+        {
+            "id": 96,
+            "model": "료슈",
+            "content": "Sim. Dentro de um cofre que só eu conheço, e que ninguém pode encontrar."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<O que ela era para você?>"
+        },
+        {
+            "id": 98,
+            "model": "료슈",
+            "content": "...A esta altura, não é algo que eu não possa dizer."
+        },
+        {
+            "id": 99,
+            "model": "료슈",
+            "content": "Um ser único... e precioso."
+        },
+        {
+            "id": 100,
+            "model": "료슈",
+            "content": "She's all I have."
+        },
+        {
+            "id": 101,
+            "content": "Mesmo sem a memória, Ryoshu fala com convicção."
+        },
+        {
+            "id": 102,
+            "content": "De súbito, eu senti inveja daquilo."
+        },
+        {
+            "id": 103,
+            "model": "단테",
+            "content": "<...Sim. Seguindo por este caminho, no fim cada um há de reaver o que perdeu.>"
+        },
+        {
+            "id": 104,
+            "model": "료슈",
+            "content": "Right. I know that."
+        },
+        {
+            "id": 105,
+            "model": "단테",
+            "content": "<Por ora, vamos nos apressar e ir atrás dele. De todo modo, como o elevador ainda não foi restabelecido por completo, ele há de estar dentro deste andar.>"
+        },
+        {
+            "id": 106,
+            "model": "단테",
+            "content": "<O Ramo Dourado... de modo tênue, mas eu o estou sentindo.>"
+        }
+    ]
+}

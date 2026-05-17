@@ -1,0 +1,554 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A Bordo do Mefistófeles",
+            "content": "Voltamos ao ônibus depois de despacharmos os membros do Clã Kurokumo que nos atacaram..."
+        },
+        {
+            "id": 1,
+            "model": "카이만",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 2,
+            "content": "E nos deparamos com uma desconhecida sentada no assento da frente do ônibus."
+        },
+        {
+            "id": 3,
+            "model": "오티스",
+            "content": "Interessante, guia."
+        },
+        {
+            "id": 4,
+            "model": "오티스",
+            "content": "Achei que tínhamos deixado bem claro que não devemos trazer nenhum visitante a bordo do nosso ônibus sem consulta prévia. Não se passou nem uma hora desde a discussão, na verdade."
+        },
+        {
+            "id": 5,
+            "model": "베르길리우스",
+            "content": "Nenhum \"forasteiro\", para ser mais exato."
+        },
+        {
+            "id": 6,
+            "model": "베르길리우스",
+            "content": "Não é óbvio quem ela é?"
+        },
+        {
+            "id": 7,
+            "content": "Percebi que ela usava um uniforme familiar, com o logotipo \"CLEAR\" estampado em seu peito."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Você faz parte da LCCB...?>"
+        },
+        {
+            "id": 9,
+            "model": "카이만",
+            "teller": "???",
+            "title": "LCCA",
+            "content": "LCCA. O Time Pós-Missão, gerente Relógio."
+        },
+        {
+            "id": 10,
+            "content": "Certo... Também pude notar que ela tinha um emblema vermelho em seu ombro."
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "O quê? Espera, ela consegue te ouvir?"
+        },
+        {
+            "id": 12,
+            "model": "카이만",
+            "teller": "???",
+            "title": "LCCA",
+            "content": "Não. Não tenho talento para interpretação de tique-taque. Mas era fácil de saber pelo olhar estúpido que estava me dando."
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "O que você—"
+        },
+        {
+            "id": 14,
+            "content": "Ishmael franziu a testa, irritada, mas logo limpou a garganta e se recompôs; talvez tenha se lembrado de sua atitude do passado."
+        },
+        {
+            "id": 15,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Sou Caiman, Líder de Equipe da Unidade 2 de Operações Normais do Time Pós-Missão da Limbus Company Clearance."
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<Não lembro de ter visto alguém do Time Pós-Missão pessoalmente.>"
+        },
+        {
+            "id": 17,
+            "model": "히스클리프",
+            "content": "Hah, claro que não. Tudo que esses caras fazem é chegar e rapar os espólios depois de fazermos o trabalho duro."
+        },
+        {
+            "id": 18,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Deixe-me esclarecer umas coisas, vira-lata da Periferia."
+        },
+        {
+            "id": 19,
+            "model": "히스클리프",
+            "content": "Quê...?"
+        },
+        {
+            "id": 20,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "O Time Pós-Missão é encarregado de um trabalho muito árduo: limpar a bagunça que imprestáveis sem amor à vida como vocês deixam para trás, de modo que pareça que nada aconteceu."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "Imprestáveis sem amor à vida... É assim que vocês nos veem?"
+        },
+        {
+            "id": 22,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Não só isso. Imprestáveis sem amor à vida, amortecedores ambulantes, ônibus que come dinheiro, escudos humanos, maníacos com mais sorte do que merecem... Tem mais, mas não me parece o assunto mais relevante agora."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Ora, sua... Tem certeza de que quer continuar com esse tom?"
+        },
+        {
+            "id": 24,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Se não me derem motivo para mudar, não mudarei. Esse é meu princípio."
+        },
+        {
+            "id": 25,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Claro, é seu trabalho coletar os Ramos de Ouro, não importa o que aconteça. Mas é difícil ter qualquer tipo de respeito por um grupo de imbecis que não dão a mínima para os que terão de ralar limpando a bagunça que eles fazem."
+        },
+        {
+            "id": 26,
+            "model": "베르길리우스",
+            "content": "Já basta, Líder de Equipe Caiman."
+        },
+        {
+            "id": 27,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Hm, entendido. Não estava aqui para repreendê-los."
+        },
+        {
+            "id": 28,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Estou aqui para repassar as ordens do escritório principal."
+        },
+        {
+            "id": 29,
+            "content": "Caiman pegou um envelope, abriu-o e puxou um papel de dentro dele. Em seguida, começou a ler em voz alta."
+        },
+        {
+            "id": 30,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "\"LCB: Encarregamento de missão adicional anterior à operação de extração do Ramo de Ouro da T Corp.\""
+        },
+        {
+            "id": 31,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "\"1. Eliminar e/ou assegurar a Distorção na área designada.\""
+        },
+        {
+            "id": 32,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "\"2. Recuperar o 'Monólito', um artefato em forma de uma estela negra, da mesma área.\""
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<O que seria um \"Monólito\"?...>"
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "Distorção...? Quer dizer que ela já aconteceu?"
+        },
+        {
+            "id": 35,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Não sei. A LCC não faz parte desta operação extra. Apenas recebi a ordem de repassar esta informação a vocês, já que estava cuidando de outros trabalhos na T Corp."
+        },
+        {
+            "id": 36,
+            "model": "오티스",
+            "content": "Creio que nossa única missão seja recuperar os Ramos de Ouro. Desde quando nosso trabalho virou fazer entregas, como se fôssemos Mandatários?"
+        },
+        {
+            "id": 37,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Desde agora. Além disso, não vejo qual é a diferença entre um entregador comum e seu time. Tudo que vocês fazem é pegar e entregar os Ramos de Ouro, não é?"
+        },
+        {
+            "id": 38,
+            "model": "로쟈",
+            "content": "... Entendi. Acho que o Time Pós-Missão deve estar cheio de gente amarga que nem você, né~?"
+        },
+        {
+            "id": 39,
+            "content": "Rodion resmungou, como se aquilo fosse óbvio."
+        },
+        {
+            "id": 40,
+            "content": "Caiman deu uma passada de olhos rápida nos Pecadores, e logo se aproximou de mim."
+        },
+        {
+            "id": 41,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "... Gerente Relógio."
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<... Sim?>"
+        },
+        {
+            "id": 43,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Não consigo ouvir o que diz, então só escute."
+        },
+        {
+            "id": 44,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Permita-me gentilmente explicar algumas coisas para você e seus lacaios, já que todos parecem estar perdidos."
+        },
+        {
+            "id": 45,
+            "content": "Caiman cruzou os braços e se encostou no banco do ônibus, como se estivesse prestes a nos dar uma lição."
+        },
+        {
+            "id": 46,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "O objetivo principal da LCB é recuperar os Ramos de Ouro, sim. Não posso negar isso."
+        },
+        {
+            "id": 47,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Mas dizer que o objetivo da Limbus Company é \"recuperar os Ramos de Ouro\" seria um tanto problemático, não acha?"
+        },
+        {
+            "id": 48,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "E não é nem de longe o negócio mais lucrativo."
+        },
+        {
+            "id": 49,
+            "model": "이스마엘",
+            "content": "É verdade. Estive me perguntando sobre as finanças da empresa há um tempo. De onde recebemos nosso orçamento?"
+        },
+        {
+            "id": 50,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Bem, as finanças da empresa não são algo com que precise se preocupar. Nós temos dinheiro mais que suficiente para fazer o que quisermos. Entretanto, o que falta para nossa empresa agora..."
+        },
+        {
+            "id": 51,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "... é uma posição pública e uma \"causa\"."
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<Uma causa...>"
+        },
+        {
+            "id": 53,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Limbus Company decidiu encontrar sua causa nas \"Distorções\". Nenhuma organização significante se encarregou de gerenciar o fenômeno da Distorção até o momento."
+        },
+        {
+            "id": 54,
+            "content": "Lembro que a Faust havia dito que não fazia muito tempo desde que as Distorções começaram a aparecer na Cidade..."
+        },
+        {
+            "id": 55,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Limbus Company está construindo sua reputação como uma empresa profissional em prevenção, controle e tratamento das Distorções, além de funcionar como um centro de pesquisas do fenômeno. Isso quer dizer que precisamos mostrar resultados. De mais maneiras que uma só, claro."
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "Ouvi dizer que essa epidemia de fenômenos da Distorção pode ser bem complicada de lidar~"
+        },
+        {
+            "id": 57,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Ninguém definiu ao certo o que essas \"Distorções\" realmente são. Isso significa que poucos estão dispostos a lidar com esse fenômeno."
+        },
+        {
+            "id": 58,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Ouvimos dizer que alguns estão se preparando para começar uma Associação com o objetivo primário de cuidar das Distorções, mas é apenas isso: uma Associação. Nós lidaremos com esse problema em um nível corporativo."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Tá, e por essa razão tosca nós temos que parar o que estamos fazendo pra ir lidar com as Distorções?"
+        },
+        {
+            "id": 60,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Têm, sim. Porque é uma ordem direta da maior autoridade da nossa empresa. Não te ensinaram esse tipo de coisa nos becos de onde você veio?"
+        },
+        {
+            "id": 61,
+            "model": "히스클리프",
+            "content": "... Hah, já deu. Você não vai sair desse busão viva."
+        },
+        {
+            "id": 62,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Gerente."
+        },
+        {
+            "id": 63,
+            "content": "Ignorando o Heathcliff, que fumegava de raiva, Caiman se virou para mim."
+        },
+        {
+            "id": 64,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Minha atitude em relação aos seus subordinados... assim como a atitude da empresa para com eles..."
+        },
+        {
+            "id": 65,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Tudo depende das suas escolhas. E da sua liderança."
+        },
+        {
+            "id": 66,
+            "content": "Com isso, ela retirou um envelope que estava segurando debaixo do braço e me entregou."
+        },
+        {
+            "id": 67,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Mas, bem. Seja como for, a escolha é sua."
+        },
+        {
+            "id": 68,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Seus homens não estão completamente errados; se vocês insistirem em focar apenas em seu objetivo principal, os Ramos de Ouro, tudo bem. Não é como se a empresa fosse demitir você e seus escudos humanos por conta disso."
+        },
+        {
+            "id": 69,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "... Mas entenda que o tratamento dado pela empresa aos Pecadores pode variar dependendo do que decidir fazer aqui."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 71,
+            "content": "Vergilius escuta em silêncio, com seus olhos fechados."
+        },
+        {
+            "id": 72,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Então, Olhar Vermelho, vou me retirar agora. Até a próxima."
+        },
+        {
+            "id": 73,
+            "model": "베르길리우스",
+            "content": "Tudo bem. Mas se nos encontrarmos de novo, gostaria que escolhesse suas palavras com mais cuidado."
+        },
+        {
+            "id": 74,
+            "model": "베르길리우스",
+            "content": "Esses \"escudos humanos\" ainda estão sob minha orientação. Então, tente não me aborrecer também, certo?"
+        },
+        {
+            "id": 75,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Bem... isso depende do que o gerente fizer."
+        },
+        {
+            "id": 76,
+            "model": "카이만",
+            "teller": "Caiman",
+            "title": "Líder de Equipe da LCCA",
+            "content": "Bem, então, com licença."
+        },
+        {
+            "id": 77,
+            "content": "Deixando apenas um silêncio desconfortável para trás, ela saiu do ônibus."
+        },
+        {
+            "id": 78,
+            "model": "히스클리프",
+            "content": "... Ela já foi? Que babaca..."
+        },
+        {
+            "id": 79,
+            "content": "Em seguida, suspiros e reclamações irrompem de todo canto do ônibus."
+        },
+        {
+            "id": 80,
+            "model": "그레고르",
+            "content": "... Quase tive um AVC escutando tudo isso. Aaah~ E eu achando que teria amolecido meu temperamento com a idade."
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Ainda assim, bom trabalho mantendo a calma, pessoal...>"
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "Mm~ Mas acho que ela não disse nada errado."
+        },
+        {
+            "id": 83,
+            "model": "뫼르소",
+            "content": "Achei o método de comunicação dela um tanto conveniente. Não havia necessidade de ler nas entrelinhas. Tive pouca dificuldade de entendê-la e organizar meus pensamentos de acordo."
+        },
+        {
+            "id": 84,
+            "model": "이스마엘",
+            "content": "... Hum, acho que é um jeito de ver as coisas."
+        },
+        {
+            "id": 85,
+            "model": "이스마엘",
+            "content": "Enfim, ela estava certa sobre não termos escolha. Temos que fazer o que a empresa manda."
+        },
+        {
+            "id": 86,
+            "model": "오티스",
+            "content": "Não tenho nada a acrescentar nem problema em seguir ordens."
+        },
+        {
+            "id": 87,
+            "model": "단테",
+            "content": "<É, eu concordo com vocês...>"
+        },
+        {
+            "id": 88,
+            "content": "Tentei o meu melhor para animar os Pecadores enquanto abria o envelope que ela deixou."
+        },
+        {
+            "id": 89,
+            "content": "Não havia muita coisa nele. Um rádio comunicador antigo, um monte de papelada assinada e carimbada..."
+        },
+        {
+            "id": 90,
+            "content": "E..."
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<Hã?>"
+        },
+        {
+            "id": 92,
+            "content": "Local da missão..."
+        },
+        {
+            "id": 93,
+            "content": "... Edifício Yong-jin."
+        },
+        {
+            "id": 94,
+            "model": "베르길리우스",
+            "content": "Hm... Vamos, Charon."
+        },
+        {
+            "id": 95,
+            "model": "카론",
+            "content": "Yong... Jin? Certo, Verg? Entendido. Estou sentindo. Bip-bip."
+        },
+        {
+            "id": 96,
+            "model": "카론",
+            "content": "Lá vamos nós. Vrum-Vrum."
+        },
+        {
+            "id": 97,
+            "content": "Julgando pela falta de surpresa, Charon e Vergilius já sabiam para onde ir..."
+        },
+        {
+            "id": 98,
+            "content": "E assim o ônibus partiu."
+        }
+    ]
+}

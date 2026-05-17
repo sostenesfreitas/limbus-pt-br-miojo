@@ -1,0 +1,341 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Esconderijo dos Yurodiviye",
+            "content": "Rapidamente mudamos nossa conversa para o esconderijo depois de derrotar os membros dos Yurodivy."
+        },
+        {
+            "id": 1,
+            "model": "다친유로지비대장",
+            "content": "Guh...!"
+        },
+        {
+            "id": 2,
+            "model": "탐정료슈",
+            "content": "Renda-se e confesse."
+        },
+        {
+            "id": 3,
+            "model": "탐정료슈",
+            "content": "Minha paciência tem um limite. Posso te matar em breve."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Ah, não... Parece que Ryōshū está ficando cansada de brincar de detetive...>"
+        },
+        {
+            "id": 5,
+            "model": "다친유로지비대장",
+            "content": "Nós já nos rendemos. Mas não tenho certeza do que você quer que a gente confesse. O quê, você gostaria que a gente confessasse que somos os Yurodiviye ou algo assim?"
+        },
+        {
+            "id": 6,
+            "content": "Nós hesitamos, duvidando se ele realmente não sabia de nada. Foi então que Rodya avançou com confiança e apontou um dedo acusador para o Capitão dos Yurodiviye."
+        },
+        {
+            "id": 7,
+            "model": "탐정로쟈",
+            "content": "Okay, hora das perguntas! Você sempre odiou o estado das coisas neste Ninho, estou certa?"
+        },
+        {
+            "id": 8,
+            "model": "다친유로지비대장",
+            "content": "... Você realmente precisa perguntar?"
+        },
+        {
+            "id": 9,
+            "model": "탐정로쟈",
+            "content": "Você gosta de inventar coisas e não registrá-las na Agência de Tecnologia, não é?"
+        },
+        {
+            "id": 10,
+            "model": "다친유로지비대장",
+            "content": "De novo... você realmente precisa perguntar sobre algo que você pode perceber simplesmente olhando ao redor?"
+        },
+        {
+            "id": 11,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ah, você se importa se eu der uma olhada nessas invenções?"
+        },
+        {
+            "id": 12,
+            "model": "다친유로지비대장",
+            "content": "Espera, não sai por aí mexendo..."
+        },
+        {
+            "id": 13,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hm, entendo. Este ouriço de brinquedo é uma bomba-relógio disfarçada de pelúcia. Ele escaneia a palma assim que entra em um certo alcance de proximidade, e se não reconhecer a palma como de um indivíduo autorizado, ele atira seus espinhos para perfurar o intruso."
+        },
+        {
+            "id": 14,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Mas você parafusou as partes muito apertadas aqui. É bom você lembrar que engenharia mecânica não é só apertar os parafusos o máximo que puder; às vezes você precisa de um ou dois parafusos levemente soltos para fazer as coisas se encaixarem melhor. E outra coisa: se eu fosse você, teria feito os furos da coluna em formato hexagonal, não circular."
+        },
+        {
+            "id": 15,
+            "model": "다친유로지비대장",
+            "content": "... Você pode dizer tudo isso com uma olhada rápida? Você certamente não é um funcionário comum."
+        },
+        {
+            "id": 16,
+            "model": "다친유로지비대장",
+            "content": "De qualquer forma, a maioria deles são experimentos, produtos incompletos. Na verdade..."
+        },
+        {
+            "id": 17,
+            "model": "탐정로쟈",
+            "content": "... Na verdade, você gosta de fazer invenções mais perigosas e destrutivas, certo?"
+        },
+        {
+            "id": 18,
+            "model": "다친유로지비대장",
+            "content": "Você é realmente persistente, não é? Aonde você quer chegar?"
+        },
+        {
+            "id": 19,
+            "model": "탐정로쟈",
+            "content": "E tenho certeza de que essas invenções violentas acabaram levando a algo capaz de acabar o tempo de alguém completamente."
+        },
+        {
+            "id": 20,
+            "model": "다친유로지비대장",
+            "content": "Espera, eu... quê?"
+        },
+        {
+            "id": 21,
+            "model": "탐정로쟈",
+            "content": "O culpado por trás de \"O Caso do Tempo de Matar Tempo\"..."
+        },
+        {
+            "id": 22,
+            "model": "탐정로쟈",
+            "content": "... são vocês, certo?"
+        },
+        {
+            "id": 23,
+            "model": "탐정로쟈",
+            "content": "É isso que você faz, não é? Você vê algo que te incomoda, então vai lá e destrói em pedaços."
+        },
+        {
+            "id": 24,
+            "model": "다친유로지비대장",
+            "content": "Isso é um pouco ilógico, não é? Quem você acha que nós, Yurodiviye, somos?"
+        },
+        {
+            "id": 25,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Parece que esse seu amigo no Yurodiviye fez uma grande besteira no passado, hmm? Ele cometeu algum ato extremamente violento?"
+        },
+        {
+            "id": 26,
+            "model": "탐정로쟈",
+            "content": "Não, Sonya... Ele..."
+        },
+        {
+            "id": 27,
+            "model": "탐정로쟈",
+            "content": "Ele sempre soube como dizer as coisas certas. Coisas para fazer as pessoas concordarem com ele, para convencê-las a se juntarem à sua causa."
+        },
+        {
+            "id": 28,
+            "model": "탐정로쟈",
+            "content": "Suas palavras me encheram com essa... confiança. Que poderíamos realmente mudar o mundo, que isso era realmente tão fácil quanto deixar algodão-doce derreter na minha boca."
+        },
+        {
+            "id": 29,
+            "model": "탐정로쟈",
+            "content": "Mas... o que ele poderia fazer para mudar o mundo? Ele nem faz nada, não como esses caras. Aposto que os Yurodiviye da T Corp. são apenas cópias baratas que se inspiraram nas histórias que saem da J Corp. Ou—"
+        },
+        {
+            "id": 30,
+            "model": "다친유로지비대장",
+            "content": "É simplesmente inacreditável como você não conseguiu deduzir nem uma única coisa corretamente. Não, nós não somos \"cópias baratas\". Além disso, o Santo já trouxe muitas mudanças para este mundo. Mudanças que vocês, meros detetives, nem sonham em alcançar."
+        },
+        {
+            "id": 31,
+            "model": "탐정로쟈",
+            "content": "O Santo...?"
+        },
+        {
+            "id": 32,
+            "model": "다친유로지비대장",
+            "content": "Sim. Santo Sonya foi quem realmente acendeu o fogo dos Yurodiviye em cada Ninho. Bem, essa não é a única razão pela qual o chamam de Santo, mas isso não vem ao caso."
+        },
+        {
+            "id": 33,
+            "model": "탐정로쟈",
+            "content": "Yurodiviye... em cada Ninho...? Sonya fez isso?"
+        },
+        {
+            "id": 34,
+            "model": "다친유로지비대장",
+            "content": "……."
+        },
+        {
+            "id": 35,
+            "model": "다친유로지비대장",
+            "content": "Já que você afirma ser amiga do Santo Sonya, permita-me deixar algo bem claro: os Yurodiviye não têm nenhuma relação com o seu caso."
+        },
+        {
+            "id": 36,
+            "model": "탐정로쟈",
+            "content": "Sonya... Ele..."
+        },
+        {
+            "id": 37,
+            "model": "탐정료슈",
+            "content": "Hah, porque deveríamos acreditar em sua palavra?"
+        },
+        {
+            "id": 38,
+            "model": "다친유로지비대장",
+            "content": "Primeiro, não temos essa tecnologia de \"matar o tempo\". Podemos roubar tempo ou relógios, mas é praticamente impossível matar o tempo. Fazer algo tão absurdo certamente chamaria a atenção da Agência de Tecnologia."
+        },
+        {
+            "id": 39,
+            "model": "다친유로지비대장",
+            "content": "E isso é um problema que não estou disposto a me meter."
+        },
+        {
+            "id": 40,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Por quê? Você certamente tem causado um tumulto aqui. Não é isso que os Yurodiviye querem? Caos?"
+        },
+        {
+            "id": 41,
+            "model": "다친유로지비대장",
+            "content": "Por favor, não nos compare com as gangues da Periferia. Embora haja aqueles entre nós que querem esse caos, é claro."
+        },
+        {
+            "id": 42,
+            "model": "다친유로지비대장",
+            "content": "Um de nossos ex-membros insistiu que devíamos tomar para nós a abundância de tempo da T Corp. e fazer com que nossos camaradas o dividissem igualmente entre todos nós."
+        },
+        {
+            "id": 43,
+            "model": "다친유로지비대장",
+            "content": "Mas uma ação tão drástica também machucaria os que nada têm, aqueles que não merecem tal dor. Então, devemos aderir aos ensinamentos do Santo. Para realmente degolar os ricos, precisamos esperar o momento certo."
+        },
+        {
+            "id": 44,
+            "model": "탐정로쟈",
+            "content": " O momento certo... hah, então foi realmente o Sonya..."
+        },
+        {
+            "id": 45,
+            "model": "다친유로지비대장",
+            "content": "… Então, eu estava pensando. Você é realmente amiga do Santo?"
+        },
+        {
+            "id": 46,
+            "model": "탐정홍루",
+            "content": "Claro que ela é~ Ele até a convidou para se juntar a ele na sua jornada!"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Por que não vamos embora agora? Sempre podemos voltar aqui quando soubermos mais evidências.>"
+        },
+        {
+            "id": 48,
+            "model": "탐정홍루",
+            "content": "Dante disse \"vamos embora agora\"."
+        },
+        {
+            "id": 49,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hm? Não vamos prender eles? Um de vocês não me deu um sermão inteiro sobre como é meu trabalho prendê-los?"
+        },
+        {
+            "id": 50,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 51,
+            "content": "Rodya ignorou a pergunta do Assistente e se virou para sair do esconderijo, com uma expressão sombria — algo que eu nunca tinha visto nela antes. O Assistente deu de ombros, e estávamos prestes a sair do esconderijo... quando o Capitão Yurodiviye falou."
+        },
+        {
+            "id": 52,
+            "model": "다친유로지비대장",
+            "content": "Espere. Se você é mesmo uma amiga do Santo, então não posso deixá-la ir sem antes lhe dar um conselho, como um detetive mais experiente. Consegui estabelecer algumas coisas a partir dessa conversa, então permita-me compartilhá-las com você."
+        },
+        {
+            "id": 53,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ohh~ Certo! Você também se envolve em trabalho de detetive de vez em quando, né? Isso é algo comum que vocês, Yurodiviye, fazem?"
+        },
+        {
+            "id": 54,
+            "model": "다친유로지비대장",
+            "content": "Não, apenas o ramo dos Yurodiviye no Distrito 20 faz isso. De qualquer forma, se eu fosse você... Eu começaria procurando por um ponto em comum que une todas as vítimas. Descobriria o que elas têm em comum."
+        },
+        {
+            "id": 55,
+            "model": "탐정로쟈",
+            "content": "... Por quê?"
+        },
+        {
+            "id": 56,
+            "model": "다친유로지비대장",
+            "content": "A Agência de Coleta da T Corp. sabe tudo sobre o tempo. De onde ele vem, para onde ele vai. Mas não podem determinar isso nesse caso."
+        },
+        {
+            "id": 57,
+            "model": "탐정홍루",
+            "content": "Mas... se eles sabem tudo sobre o vai e vem do tempo, como é que vocês conseguem passar despercebidos por eles?"
+        },
+        {
+            "id": 58,
+            "model": "다친유로지비대장",
+            "content": "... Nem todos nós conseguimos. Eu não posso lhe contar mais, no entanto. Saiba apenas que temos um ás na manga que nos permite continuar nossas atividades de guerrilha neste Ninho."
+        },
+        {
+            "id": 59,
+            "model": "다친유로지비대장",
+            "content": "De qualquer forma... não lhe parece estranho que, para alguém com uma tecnologia tão impressionante, capaz de literalmente roubar o tempo sem deixar vestígios, o assassino tenha um comportamento tão passivo?"
+        },
+        {
+            "id": 60,
+            "model": "다친유로지비대장",
+            "content": "Isso me diz que há uma condição que eles precisam cumprir antes de usar seus poderes. Outra possibilidade é que sigam algum credo ou sistema de crenças... mas culpados motivados por ideologia geralmente deixam evidências mais óbvias que apontam para suas convicções."
+        },
+        {
+            "id": 61,
+            "model": "탐정홍루",
+            "content": "Ooh... acho que isso se encaixa perfeitamente! Quer se juntar à nossa equipe de detetives de primeira?"
+        },
+        {
+            "id": 62,
+            "model": "다친유로지비대장",
+            "content": "Quem diabos contratou esse time de amadores desajeitados aspirantes a detetive?"
+        },
+        {
+            "id": 63,
+            "model": "다친유로지비대장",
+            "content": "Haah... esquece. Agora, poderiam fazer o favor de deixar este lugar?"
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Bem, agora sabemos onde estão os Yurodiviye. Sempre podemos voltar aqui se precisarmos de mais alguma coisa.>"
+        }
+    ]
+}

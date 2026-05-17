@@ -1,0 +1,537 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da T Corp.",
+            "content": "Rodya sempre foi aquela que levantava o astral da equipe quando o clima estava ruim, mas..."
+        },
+        {
+            "id": 1,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 2,
+            "content": "O clima entre nós tinha se tornado tão incrivelmente estranho e frio que eu sentia um leve calafrio nos dedos.\n... Acho que é isso que acontece quando Rodya está deprimida..."
+        },
+        {
+            "id": 3,
+            "content": "Se estivéssemos de volta no ônibus, ou se Yi Sang ou Gregor estivessem aqui, pelo menos teriam tentado algo para quebrar o gelo. Mas nem Ryōshū nem Hong Lu eram do tipo de pessoas que se deixariam afetar por um ambiente tão gelado, então não tivemos outra opção a não ser continuar com nossa investigação."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Ah, parece que o culpado o pegou enquanto ele estava fazendo algo.>"
+        },
+        {
+            "id": 5,
+            "model": "탐정료슈",
+            "content": "Ele conhecia o Estripador."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Como você pode saber?>"
+        },
+        {
+            "id": 7,
+            "model": "탐정료슈",
+            "content": "Pelos olhos dele. Não é óbvio?"
+        },
+        {
+            "id": 8,
+            "model": "탐정료슈",
+            "content": "Esse olhar em seus olhos... é o tipo de olhar que as pessoas têm quando são mortas por um rato que conhecem."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Ele não está exatamente morto, sabia...?>"
+        },
+        {
+            "id": 10,
+            "model": "탐정홍루",
+            "content": "Hm, mas esse cadáver parece um pouco diferente do último que vimos, não?"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Também não é um cadáver, mas o que há de diferente?>"
+        },
+        {
+            "id": 12,
+            "model": "탐정홍루",
+            "content": "O culpado rasgou um pedaço do seu cachecol."
+        },
+        {
+            "id": 13,
+            "model": "탐정홍루",
+            "content": "Talvez não tenham gostado do estilo?"
+        },
+        {
+            "id": 14,
+            "model": "탐정로쟈",
+            "content": "\"Os Yurodiviye devem viver como tolos aos olhos dos outros. Assim, veremos caminhos que eles não conseguem enxergar.\""
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<... Rodya?> "
+        },
+        {
+            "id": 16,
+            "model": "탐정로쟈",
+            "content": "Foi algo que Sonya disse uma vez. Me contou que o cachecol era um jugo para esconder uma grande ambição, que aqueles com sonhos assim precisam permanecer presos."
+        },
+        {
+            "id": 17,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Mas eu não vejo você usando esse cachecol."
+        },
+        {
+            "id": 18,
+            "model": "탐정로쟈",
+            "content": "Ha ha... é que não é do meu estilo."
+        },
+        {
+            "id": 19,
+            "model": "탐정홍루",
+            "content": "Então rasgar o cachecol significa que..."
+        },
+        {
+            "id": 20,
+            "model": "탐정로쟈",
+            "content": "... que o assassino é um antigo membro dos Yurodiviye. Deveríamos voltar ao esconderijo deles e perguntar por aí."
+        },
+        {
+            "id": 21,
+            "content": "Algum tempo depois..."
+        },
+        {
+            "id": 22,
+            "place": "Entrada do Esconderijo dos Yurodiviye",
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Droga... O Estripador pegou nosso chefe...?!"
+        },
+        {
+            "id": 23,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Hein? Se alguém saiu do grupo recentemente?"
+        },
+        {
+            "id": 24,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Olha, não é como se eles tivessem \"saído\" formalmente ou algo assim, mas houve alguns que sumiram do mapa."
+        },
+        {
+            "id": 25,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Alguém que queria roubar o tempo sobrando da T Corp. para dividir igualmente entre todos...?"
+        },
+        {
+            "id": 26,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Sim, eu me lembro de um cara que disse algo assim. Quando seu irmão mais novo morreu em um acidente, ele ficou um pouco... esquisito."
+        },
+        {
+            "id": 27,
+            "model": "탐정로쟈",
+            "content": "Teve pessoas que quiseram acompanhar ele nesse plano?"
+        },
+        {
+            "id": 28,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Tenho certeza que alguns sim, mas nós não. Nós somos os Yurodiviye; devemos esperar a palavra do Santo."
+        },
+        {
+            "id": 29,
+            "model": "탐정로쟈",
+            "content": "... É mesmo?"
+        },
+        {
+            "id": 30,
+            "model": "탐정료슈",
+            "content": "Onde ele está?"
+        },
+        {
+            "id": 31,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Não faço ideia. Última vez que ouvi falar dele, ele tinha dito algo como \"Eu sempre estarei observando vocês\". Assustador, né? Mas acho que significa que ele ainda tá por aí em algum lugar dentro da T Corp."
+        },
+        {
+            "id": 32,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Irritado",
+            "title": "Yurodivy do Distrito 20",
+            "content": "... Uh, nosso chefe vai voltar ao normal, certo?"
+        },
+        {
+            "id": 33,
+            "place": "Becos escuros da T Corp.",
+            "model": "단테",
+            "content": "<Ele sempre estará observando, huh...>"
+        },
+        {
+            "id": 34,
+            "model": "탐정료슈",
+            "content": "Haah..."
+        },
+        {
+            "id": 35,
+            "model": "탐정료슈",
+            "content": "Relógio."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<Hm?>"
+        },
+        {
+            "id": 37,
+            "model": "탐정료슈",
+            "content": "Eu sempre acendo um cigarro depois de matar alguém."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Mas você sempre está fumando.>"
+        },
+        {
+            "id": 39,
+            "model": "탐정료슈",
+            "content": "Porque leva cerca de quatro minutos para o cigarro queimar até o fim..."
+        },
+        {
+            "id": 40,
+            "model": "탐정료슈",
+            "content": "Eu tenho o prazer de assistir a luz da vida lentamente se apagando nos olhos moribundos deles. Isso realmente realça o sabor."
+        },
+        {
+            "id": 41,
+            "model": "탐정료슈",
+            "content": "Quatro minutos. Eu sei que leva exatamente quatro minutos para esse cigarro se apagar."
+        },
+        {
+            "id": 42,
+            "model": "탐정료슈",
+            "content": "Mas apenas dois minutos se passaram naquela Torre de Relógio."
+        },
+        {
+            "id": 43,
+            "model": "탐정로쟈",
+            "content": "O quê? Isso não faz sentido."
+        },
+        {
+            "id": 44,
+            "model": "탐정로쟈",
+            "content": "Como é que... ninguém notou que a Torre de Relógio estava quebrada?"
+        },
+        {
+            "id": 45,
+            "model": "탐정료슈",
+            "content": "Isso não é nenhuma novidade."
+        },
+        {
+            "id": 46,
+            "model": "탐정료슈",
+            "content": "Desde que começamos a brincar de detetives até este exato momento, a Torre de Relógio sempre marcava apenas dois minutos quando eu terminava de fumar."
+        },
+        {
+            "id": 47,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hm, não foi um de vocês que disse que as pessoas se resignaram a ideia de não poder fazer nada?"
+        },
+        {
+            "id": 48,
+            "place": "Passado - Fábrica de Relógios da T Corp.",
+            "model": "범블",
+            "teller": "Bumble",
+            "title": "T Corp.",
+            "content": "Já faz um tempinho que tô esperando uma coisinha ficar pronta. Você sabe como é ruim ter que esperar por algo quando se tem tempo demais no dia? É tão, tão, tão tedioso!"
+        },
+        {
+            "id": 49,
+            "place": "Passado - Becos da T Corp.",
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "A verdade é que já está ficando chato. Ficar de guarda, todas essas detenções e revistas... É um saco."
+        },
+        {
+            "id": 50,
+            "place": "Becos escuros da T Corp.",
+            "model": "탐정로쟈",
+            "content": "Ei, assistente... O que as duas primeiras vítimas estavam fazendo quando o Estripador as atacou?"
+        },
+        {
+            "id": 51,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Vamos ver... uma foi atacada enquanto comprava um pirulito de treze sabores, e a outra enquanto lia uma história em quadrinhos estrelada por um inventor da T Corp. Uma leitura bem divertida, por sinal."
+        },
+        {
+            "id": 52,
+            "model": "탐정로쟈",
+            "content": "Existem muitas... Torres de Relógio na T Corp.?"
+        },
+        {
+            "id": 53,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Um total de doze em toda a T Corp. Mas apenas uma nesta área específica."
+        },
+        {
+            "id": 54,
+            "model": "탐정로쟈",
+            "content": "O Estripador Temporal apenas atacou perto dessa Torre de Relógio, não foi...?"
+        },
+        {
+            "id": 55,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Isso mesmo, detetive."
+        },
+        {
+            "id": 56,
+            "model": "탐정로쟈",
+            "content": "E se ele tivesse desacelerado a Torre de Relógio..."
+        },
+        {
+            "id": 57,
+            "model": "탐정로쟈",
+            "content": "... e fez com que todos na área sentissem uma sensação de monotonia extrema...?"
+        },
+        {
+            "id": 58,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Monotonia... Então era isso. Ele só consegue roubar tempo de pessoas entediadas."
+        },
+        {
+            "id": 59,
+            "model": "탐정료슈",
+            "content": "A Torre de Relógio."
+        },
+        {
+            "id": 60,
+            "model": "탐정료슈",
+            "content": "A vista lá de cima deve ser boa para fumar."
+        },
+        {
+            "id": 61,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ah, Tem algo que esqueci de mencionar. Vocês sabem que precisam de evidências reais para prender alguém, certo? Detetives?"
+        },
+        {
+            "id": 62,
+            "model": "탐정로쟈",
+            "content": "Huh?"
+        },
+        {
+            "id": 63,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Vocês precisam pegar ele no flagra. Não podem sair por aí prendendo pessoas só porque vocês têm vontade."
+        },
+        {
+            "id": 64,
+            "model": "탐정로쟈",
+            "content": "O quê, temos que deixar ele nos atacar ou algo assim? Só para pegá-lo em flagrante?"
+        },
+        {
+            "id": 65,
+            "model": "탐정로쟈",
+            "content": "Você não sabe? Ele pode literalmente estripar o seu tempo."
+        },
+        {
+            "id": 66,
+            "model": "탐정로쟈",
+            "content": "Um mísero erro e você pode acordar semanas, meses ou até... anos depois."
+        },
+        {
+            "id": 67,
+            "model": "탐정로쟈",
+            "content": "Nós nem sabemos se isso é o tipo de coisa que Dante pode... rebobinar."
+        },
+        {
+            "id": 68,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Sim, é tudo muito trágico. Mas ainda é parte de suas responsabilidades, não é?"
+        },
+        {
+            "id": 69,
+            "model": "탐정로쟈",
+            "content": "Você... você sequer se importa em pegar o culpado?"
+        },
+        {
+            "id": 70,
+            "model": "탐정로쟈",
+            "content": "Ou tudo o que importa é aprender como ele estripa o tempo?"
+        },
+        {
+            "id": 71,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Mais uma vez, isso mesmo, detetive."
+        },
+        {
+            "id": 72,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hahh... Houve uma época em que eu pensava que não tinha invenções na T Corp. sobre as quais eu não soubesse todos os detalhes."
+        },
+        {
+            "id": 73,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Veja, eu tenho um conhecimento aprofundado dos mecanismos de cada maquinário existente na T Corp."
+        },
+        {
+            "id": 74,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu até sei sobre a engenhoca bizarra que seu amigo da cela inventou enquanto estava aqui."
+        },
+        {
+            "id": 75,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu não queria que a Agência de Patentes da T Corp. descobrissem ela. Ao contrário, eu queria ver como ela se espalharia pela Cidade. Por isso, não me esforcei muito para impedi-lo quando ele escapou pela Periferia. Não foi por preguiça, veja bem!"
+        },
+        {
+            "id": 76,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Então, para responder à sua pergunta, não. Como no caso da Liga dos Nove, não me importa se pegamos o culpado ou não. Estou apenas curioso sobre o mecanismo exato por trás de como ele estripa o tempo. É a natureza de ser um inventor."
+        },
+        {
+            "id": 77,
+            "model": "탐정료슈",
+            "content": "Certo."
+        },
+        {
+            "id": 78,
+            "model": "탐정로쟈",
+            "content": "Como vou conseguir fazer alguma coisa com essas pessoas...?"
+        },
+        {
+            "id": 79,
+            "model": "탐정홍루",
+            "content": "Com licença, Senhor Assistente?"
+        },
+        {
+            "id": 80,
+            "model": "탐정홍루",
+            "content": "Tenho algo que gostaria de lhe perguntar."
+        },
+        {
+            "id": 81,
+            "model": "탐정홍루",
+            "content": "Quando Meursault estava na Forca de Escala Temporal... a máquina não fazia um barulho muito alto?"
+        },
+        {
+            "id": 82,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ah, aquele seu amigo reservado? Sim, ela fazia."
+        },
+        {
+            "id": 83,
+            "model": "탐정홍루",
+            "content": "Se você tem um conhecimento aprofundado dos mecanismos de cada maquinário existente na T Corp... então você também sabe por que ela apresentou defeito?"
+        },
+        {
+            "id": 84,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hum, é claro."
+        },
+        {
+            "id": 85,
+            "model": "탐정홍루",
+            "content": "Por que a forca não conseguiu tomar dez bilhões de Ahn de tempo do Meursault? Foi realmente porque estava quebrada?"
+        },
+        {
+            "id": 86,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Do que você está falando? É estatisticamente impossível que uma máquina que eu projetei tenha qualquer falha. Normalmente."
+        },
+        {
+            "id": 87,
+            "model": "탐정홍루",
+            "content": "Então a fonte daquele erro deve ter sido Meursault... ou todos nós, certo? Não a máquina...?"
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<…?>"
+        },
+        {
+            "id": 89,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Brilhante, absolutamente brilhante! Você não apenas se veste como um, mas também pensa e age como um detetive de primeira. Poderia ter me enganado!"
+        },
+        {
+            "id": 90,
+            "model": "탐정홍루",
+            "content": "Todos os créditos vão para Senhorita Agatha. Afinal, foi ela disse que uma das qualidades de um grande detetive é uma mente com curiosidade sem fim. Hehe."
+        },
+        {
+            "id": 91,
+            "content": "Eu achava que a condição para sermos isentos dos nossos Impostos Temporais era que tivéssemos que pegar o culpado...? Foi isso que eu estava pensando quando o Auditor de Classe 5 começou a falar de novo, como se estivesse respondendo às minhas dúvidas."
+        },
+        {
+            "id": 92,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Não estou dizendo que não vou cooperar, obviamente. Posso até ter elaborado um plano para vocês, embora possa seja meio simples."
+        },
+        {
+            "id": 93,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Agora, ouçam com atenção..."
+        }
+    ]
+}

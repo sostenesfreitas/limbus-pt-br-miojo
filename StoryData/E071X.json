@@ -1,0 +1,307 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Casa de Reunião do Culto da Engrenagem",
+            "model": "그레고르",
+            "content": "Eram uns sujeitos meio repugnantes, mas... bom, não eram a ponto de a gente não conseguir vencer."
+        },
+        {
+            "id": 1,
+            "model": "로쟈",
+            "content": "É...? Eu, de tanto segurar a ânsia de vômito, quase deixei a arma cair umas vezes no meio..."
+        },
+        {
+            "id": 2,
+            "model": "싱클레어",
+            "content": "O cé-cérebro dava pra ver nitidamente, e... a cada giro da engrenagem, do cérebro, sangue e pedaços... uugh..."
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "content": "Remoer com a boca uma memória desagradável não há de ser lá muito bom, senhor Sinclair..."
+        },
+        {
+            "id": 4,
+            "content": "Por entre os Pecadores, cansados do combate num sentido um pouco diferente do habitual, via-se, lá ao longe, uma figura tremendo todo."
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "Aquele sujeito com certeza há de ser o líder do culto."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Outis, você sabe, né? Disseram que tem de capturar vivo.>"
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "Claro que sim, Gerente."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Eu conheço bem uma técnica de captura que, em caso de resistência, pode causar alguns arranhões, mas que não tem como comprometer a vida."
+        },
+        {
+            "id": 9,
+            "teller": "Líder do Culto",
+            "title": "Culto da Engrenagem",
+            "content": "N-não venha… não venha…!"
+        },
+        {
+            "id": 10,
+            "content": "Quando Outis, estampando no rosto uma expressão assustadora, se aproximava passo a passo."
+        },
+        {
+            "id": 11,
+            "teller": "???",
+            "title": "???",
+            "content": "Aah, ora. São nada menos que treze."
+        },
+        {
+            "id": 12,
+            "teller": "???",
+            "title": "???",
+            "content": "Aqueles caras... gastaram muito dinheiro, e olha que não têm condições, hein?"
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Ngh...!"
+        },
+        {
+            "id": 14,
+            "content": "De repente, quando uma luz pareceu lampejar, num instante houve alguém que chutou Outis para um lado e abraçou o líder do culto, protegendo-o."
+        },
+        {
+            "id": 15,
+            "teller": "Líder do Culto",
+            "title": "Culto da Engrenagem",
+            "content": "É... é o senhor a pessoa de quem o meu pai sempre me falava...?"
+        },
+        {
+            "id": 16,
+            "teller": "???",
+            "title": "???",
+            "content": "Hum… pelo visto é assim."
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "N-não dá para ver direito... se for alguém com um poder daqueles, com certeza..."
+        },
+        {
+            "id": 18,
+            "teller": "???",
+            "title": "???",
+            "content": "Eu sinto um pouco por estes caras, que se deram ao trabalho de me dar as boas-vindas, mas..."
+        },
+        {
+            "id": 19,
+            "teller": "???",
+            "title": "???",
+            "content": "...é que eu acho que tenho de ir junto com este amigo. Vocês me dão licença?"
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "Que… absurdo!"
+        },
+        {
+            "id": 21,
+            "content": "Coberto pela sombra, não dava para distinguir, mas Outis tenta se aproximar depressa do sujeito suspeito, que segura uma foice imensa."
+        },
+        {
+            "id": 22,
+            "teller": "???",
+            "title": "???",
+            "content": "Uma recepção grandiosa... francamente, é de marejar os olhos."
+        },
+        {
+            "id": 23,
+            "teller": "???",
+            "title": "???",
+            "content": "Então…"
+        },
+        {
+            "id": 24,
+            "content": "E, no momento em que a foice daquele sujeito, de cuja voz não se podia ler qualquer senso de perigo, ia se erguer devagar."
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "... Hm?!"
+        },
+        {
+            "id": 26,
+            "place": "Porta Traseira do Ônibus",
+            "content": "Em algum instante, nós estávamos de pé no corredor."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "...Pelo visto, este cenário era até aqui."
+        },
+        {
+            "id": 28,
+            "model": "오티스",
+            "content": "Crgh… que insulto."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "Não, talvez tenha sido até melhor assim, senhorita Outis…"
+        },
+        {
+            "id": 30,
+            "model": "돈키호테",
+            "content": "Não tenho certeza, mas aquele poder, e aquela calma..."
+        },
+        {
+            "id": 31,
+            "model": "돈키호테",
+            "content": "Com-com certeza... aquilo que eu vi numa revista... a si... silhuéta... do E... E-E-E... Excêntrico...!"
+        },
+        {
+            "id": 32,
+            "model": "돈키호테",
+            "content": "Tu, tu quase lutaste com um Excêntrico!"
+        },
+        {
+            "id": 33,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Mesmo tendo escapado do esquecimento, o seu amor pelos Solucionadores continua o mesmo, então...?"
+        },
+        {
+            "id": 35,
+            "model": "돈키호테",
+            "content": "I-isso e isto são coisas diferentes!"
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "content": "A-aliás! Senhorita... Faust?! Com certeza você disse que, enquanto esta noite prosseguir, é bom continuar visitando. Não é mesmo?!"
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "Indeed."
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "content": "É que, com um pouquinho... um pouquiiinho mais que eu me aproxime, eu sinto que vou conseguir deduzir que Excêntrico ele é...!"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Da próxima vez, não a senhora Outis — eu mesma me adianto, e...!"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "...Ocorre-me que, neste cenário, há de se desembocar num resultado em que a identidade daquele sujeito não é revelada, mas não há motivo para não tentar."
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "WOOHOOOOO!!!"
+        },
+        {
+            "id": 42,
+            "content": "…Donquixote, pelo visto, continua ardorosa como sempre."
+        },
+        {
+            "id": 43,
+            "content": "Em contraste com isso, a expressão de Faust é apenas fria."
+        },
+        {
+            "id": 44,
+            "content": "Como quem reflete intensamente sobre alguma coisa."
+        },
+        {
+            "id": 45,
+            "content": "Por isso eu resolvi perguntar."
+        },
+        {
+            "id": 46,
+            "model": "단테",
+            "content": "<Faust, restou alguma coisa que te ocorreu?>"
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "content": "...Se a hipótese do cenário estiver mesmo certa, ocorreu-me que aquele 'ponto final' de agora há pouco talvez seja também a insinuação de algo."
+        },
+        {
+            "id": 48,
+            "content": "Insinuação…"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "Ocorre-me que o fato de se poder criar um fim tão artificial assim talvez seja um aviso de que a história pode prosseguir à força, sem relação com as nossas ações."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Pode ser que ocorra também a situação de a jornada da LCB ser barrada por não se encontrar o 'ponto final' numa Noite de Valpúrgis... hum, parece que até essa parte ainda é difícil de consultar."
+        },
+        {
+            "id": 51,
+            "model": "단테",
+            "content": "<Eu ainda continuo não entendendo direito...>"
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "Está tudo bem."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Quando chegar a hora... Dante, a sua intuição há de verificar estas hipóteses."
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "Tal como numa situação como a de hoje."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<... Yeah.>"
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Mas, antes de tudo, parece que a hipótese da senhora Don Quixote é que precisa ser verificada primeiro."
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "content": "Senhor Gerente! Depressa, depressa!"
+        },
+        {
+            "id": 58,
+            "model": "로쟈",
+            "content": "Aah... vamos descansar nem que seja um pouco... uurp."
+        },
+        {
+            "id": 59,
+            "content": "Vendo a figura de Don Quixote, toda exaltada, eu decidi, como sempre, adiar por um instante os pensamentos complexos."
+        },
+        {
+            "id": 60,
+            "content": "Pois, tal como Faust disse, agora parece que não faz mal eu confiar um pouco mais na minha intuição."
+        }
+    ]
+}

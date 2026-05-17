@@ -1,0 +1,1040 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "단테",
+            "content": "<Eu disse que ia dar uma aula, mas…>"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<na verdade, eu não sei como fazer.>"
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Ouvir o coração de outra pessoa também não é uma coisa que se consiga de repente…>"
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "De fato… se, neste lugar, de repente se mandar dizer o que se tem no íntimo… há de ser meio constrangedor."
+        },
+        {
+            "id": 4,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Achando que seria assim… quando vocês começaram a primeira aula, eu instalei diante da porta uma coisa chamada caixa das vozes do coração."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Caixa das vozes do coração?>"
+        },
+        {
+            "id": 6,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "A maior característica da caixa das vozes do coração é o anonimato. É um método de, sem revelar o próprio nome, desabafar as aflições do dia a dia ou os problemas em que se está metido."
+        },
+        {
+            "id": 7,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Hum… de fato, como não se revela quem se é, talvez dê para desabafar o íntimo com mais facilidade."
+        },
+        {
+            "id": 8,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "O peso da caixa está pesado. Pelo visto mais gente do que se pensava utilizou."
+        },
+        {
+            "id": 9,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Pois bem, o que está no fundo de tudo há de ser o primeiro. Então, vamos ler?"
+        },
+        {
+            "id": 10,
+            "teller": "Anônimo",
+            "title": "First Note",
+            "content": "Ei. Sinceramente, essa coisa de consulta tem algum sentido?"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<…Isto de ser anônimo tem mesmo algum sentido?>"
+        },
+        {
+            "id": 12,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "First Note",
+            "content": "E que história é essa de mandar a gente escrever miudezas numa coisa destas. Se tem coisa pesando na consciência, é só botar tudo pra fora e pronto."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "First Note",
+            "content": "Bom… eu não tenho mais nada a dizer… e… o sujeito do quarto ao lado do meu fica fazendo barulho toda noite… só dá um jeito nisso."
+        },
+        {
+            "id": 14,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "First Note",
+            "content": "Aquilo, como é mesmo… ele fica só murmurando 'fumaça na cabeça…', sei lá."
+        },
+        {
+            "id": 15,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "First Note",
+            "content": "Enfim, está insuportável de ouvir. Se em uma semana não for resolvido, eu vou resolver do meu jeito, fica sabendo."
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<Resolver de que jeito, afinal…>"
+        },
+        {
+            "id": 17,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…Desde o começo ele só desfia reclamação dele mesmo, não?"
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Hum… vamos ler o próximo?"
+        },
+        {
+            "id": 19,
+            "teller": "Anônimo",
+            "title": "Second Note",
+            "content": "Quem foi de novo que tocou no estado de espírito do Gerente desfiando umas palavras frouxas?!"
+        },
+        {
+            "id": 20,
+            "model": "오티스그림자",
+            "teller": "Anônimo",
+            "title": "Second Note",
+            "content": "Se houver alguém que, dizendo coisas inúteis, queira pôr em apuros o Gerente, que já anda tão ocupado, eu não vou deixar barato, então prepare-se."
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Era como se a voz se ouvisse bem ao lado…"
+        },
+        {
+            "id": 22,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…Estou com a sensação de que meu ouvido todo doeu."
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<…Vamos pular este também…>"
+        },
+        {
+            "id": 24,
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "Não sei se é impressão minha, mas…"
+        },
+        {
+            "id": 25,
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "pelo visto este papel… está sendo vigiado."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘그림자",
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "Porque eu dobrei e enfiei o papel com um nó de cadeado, e, vendo agora de novo, está dobrado torto."
+        },
+        {
+            "id": 27,
+            "model": "이스마엘그림자",
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "Ah, e a minha bússola desapareceu."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘그림자",
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "Aquela era uma bússola que eu ganhei tempos atrás como lembrança de ter sobrevivido à Fossa Abissal de Belmorte…"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘그림자",
+            "teller": "Anônimo",
+            "title": "Third Note",
+            "content": "Pelo visto, vem-me o pensamento de que é preciso pôr um pouco de ordem na disciplina."
+        },
+        {
+            "id": 30,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Entrou uma denúncia de furto. Uma bússola desapareceu… tem alguém entre vocês que a roubou?"
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "Ah, imagina… por mais necessitados que estejamos, a gente não rouba o que é dos outros."
+        },
+        {
+            "id": 32,
+            "teller": "Anônimo",
+            "title": "Fourth Note",
+            "content": "Eu tenho… uma aflição…"
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Oh! Pelo visto enfim entrou uma aflição como manda o figurino."
+        },
+        {
+            "id": 34,
+            "model": "파우스트그림자",
+            "teller": "Anônimo",
+            "title": "Fourth Note",
+            "content": "Quanto à causa da explosão que ocorreu no experimento da vez passada, não me sai a resposta de se o problema foi o fio de tipo A, ou se foi o fato de eu ter trocado a conexão no dispositivo de trituração."
+        },
+        {
+            "id": 35,
+            "model": "파우스트그림자",
+            "teller": "Anônimo",
+            "title": "Fourth Note",
+            "content": "……."
+        },
+        {
+            "id": 36,
+            "model": "파우스트그림자",
+            "teller": "Anônimo",
+            "title": "Fourth Note",
+            "content": "Ah, parece que eu encontrei a resposta. Não se preocupem."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Que bom que se resolveu…>"
+        },
+        {
+            "id": 39,
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "…Por mais que eu pense, isto eu acho que tenho de dizer…"
+        },
+        {
+            "id": 40,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Hum, isto é que parece uma verdadeira consulta de aflição?"
+        },
+        {
+            "id": 41,
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Fingir que não sei e deixar como está é… incômodo demais, sabe?"
+        },
+        {
+            "id": 42,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Aquilo, da vez passada… aquele incidente que aconteceu no Mephi…"
+        },
+        {
+            "id": 43,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Aquele incidente em que alguém deixou cair um despertador em cima da cabeça do Dante, que estava dormindo, e no fim não se achou o culpado e ficou por isso mesmo…"
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Ah…>"
+        },
+        {
+            "id": 45,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…Vocês, aconteceu uma coisa dessas?"
+        },
+        {
+            "id": 46,
+            "model": "싱클레어",
+            "content": "Sim… sei lá quando foi, à noite ouviu-se de fora o som de algo se quebrando e, quando todos saíram para ver…"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Mas, na hora, como não havia prova nenhuma… a gente simplesmente deixou pra lá.>"
+        },
+        {
+            "id": 48,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Enfim… como o Dante disse que estava tudo bem, deixou-se pra lá, mas, na verdade…"
+        },
+        {
+            "id": 49,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Naquela hora… eu vi. O braço de inseto do Greg, um deles."
+        },
+        {
+            "id": 50,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Pensei que talvez ele pudesse ter perdido o equilíbrio segurando o despertador com uma só mão."
+        },
+        {
+            "id": 51,
+            "model": "로쟈그림자",
+            "teller": "Anônimo",
+            "title": "Fifth Note",
+            "content": "Sabe? Eu estou dizendo isto valendo-me do poder do anonimato~"
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<Não me diga que o Gregor… fez uma coisa dessas…>"
+        },
+        {
+            "id": 54,
+            "teller": "Anônimo",
+            "title": "Sixth Note",
+            "content": "Hum."
+        },
+        {
+            "id": 55,
+            "model": "뫼르소그림자",
+            "teller": "Anônimo",
+            "title": "Sixth Note",
+            "content": "O despertador da época estava no estado de quebrado pelo impacto e apontava exatamente 22h32."
+        },
+        {
+            "id": 56,
+            "model": "뫼르소그림자",
+            "teller": "Anônimo",
+            "title": "Sixth Note",
+            "content": "E…"
+        },
+        {
+            "id": 57,
+            "model": "뫼르소그림자",
+            "teller": "Anônimo",
+            "title": "Sixth Note",
+            "content": "no horário em questão, quem estava de vigília eram apenas duas pessoas."
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 59,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Não, isto aos poucos… está ficando com cara de uma caça ao culpado…"
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<Naquele dia, por volta das 22h… quem estava de vigília no ônibus era…>"
+        },
+        {
+            "id": 61,
+            "model": "싱클레어",
+            "content": "Sim… era a senhora Faust…"
+        },
+        {
+            "id": 62,
+            "model": "싱클레어",
+            "content": "Ã, agora que penso, senhor Dante…"
+        },
+        {
+            "id": 63,
+            "model": "싱클레어",
+            "content": "naquela manhã… o senhor não trocou uma palavra rápida com a senhora Faust?"
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Pensando bem…>"
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<naquele dia eu conversei com Faust, sim…>"
+        },
+        {
+            "id": 66,
+            "model": "단테",
+            "content": "<Faust fez um reparo sobre o meu modo de comandar, e… era uma fala certa, mas, como eu não conseguia rebater, eu fingi que não ouvi…>"
+        },
+        {
+            "id": 67,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Não me diga que a senhora Faust guardou rancor disso e…>"
+        },
+        {
+            "id": 69,
+            "model": "그레고르그림자",
+            "teller": "Anônimo",
+            "title": "Seventh Note",
+            "content": "Aquilo, como é mesmo… isto eu acho que ninguém percebeu…"
+        },
+        {
+            "id": 70,
+            "model": "그레고르그림자",
+            "teller": "Anônimo",
+            "title": "Seventh Note",
+            "content": "É que, no local naquele dia, havia cinza de cigarro espalhada perto do despertador feito em pedaços…"
+        },
+        {
+            "id": 71,
+            "model": "그레고르그림자",
+            "teller": "Anônimo",
+            "title": "Seventh Note",
+            "content": "Como o caro Gerente também sabe, entre nós só há duas pessoas que fumam cigarro, ora."
+        },
+        {
+            "id": 72,
+            "model": "그레고르그림자",
+            "teller": "Anônimo",
+            "title": "\"One of Them\"",
+            "content": "Mas uma delas estava quietinha… em outro quarto. E tem testemunha."
+        },
+        {
+            "id": 73,
+            "model": "그레고르그림자",
+            "teller": "Anônimo",
+            "title": "Seventh Note",
+            "content": "Se essa testemunha… não for um covarde medroso… eu acredito que vai testemunhar com exatidão sobre o que aconteceu naquele dia…"
+        },
+        {
+            "id": 74,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Crggghh… eu vou provar que eu não sou um covarde medroso nem nada disso!"
+        },
+        {
+            "id": 75,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Na verdade… entre os cosplays que eu sempre quis fazer… havia o do Capitão Braço de Escorpião e o da Navegadora Caolha…"
+        },
+        {
+            "id": 76,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Ah! Falando no Capitão Braço de Escorpião… deixa eu ver… recuando até o ano 757…"
+        },
+        {
+            "id": 77,
+            "content": "Depois de um longo tempo…"
+        },
+        {
+            "id": 78,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Mas… como eu não consegui arranjar um braço de escorpião… eu convenci o senhor Gregor, que pareceria mais ou menos parecido, e estava tirando fotos de cosplay… embora ter posto um cigarro na boca em vez de um cachimbo tenha sido uma falha…"
+        },
+        {
+            "id": 79,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "A bússola que eu ia usar como adorno daquele capitão… eu peguei emprestada de leve do quarto do senhor Ishmael, com a intenção de devolver depois, mas…"
+        },
+        {
+            "id": 80,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "acabei derramando sobre aquela bússola a lata de atum que eu usava de adereço…"
+        },
+        {
+            "id": 81,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Eu venho tentando recuperá-la com afinco, mas até agora ainda sai dela, suavemente, um cheiro de atum…"
+        },
+        {
+            "id": 82,
+            "model": "돈키호테그림자",
+            "teller": "Anônimo",
+            "title": "Eighth Note",
+            "content": "Perdoe-me, caro senhor… buááá-buá-buá…"
+        },
+        {
+            "id": 83,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 84,
+            "model": "단테",
+            "content": "<Ao menos o culpado de ter levado a bússola de Ishmael, pelo visto a gente achou.>"
+        },
+        {
+            "id": 85,
+            "teller": "Anônimo",
+            "title": "Ninth Note",
+            "content": "Su.fo.can.te."
+        },
+        {
+            "id": 86,
+            "model": "료슈그림자",
+            "teller": "Anônimo",
+            "title": "Ninth Note",
+            "content": "Cul.pa.dois."
+        },
+        {
+            "id": 87,
+            "model": "료슈그림자",
+            "teller": "Anônimo",
+            "title": "Ninth Note",
+            "content": "Noi.pe.sa. meu.tra.du."
+        },
+        {
+            "id": 88,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Isto… é um criptograma?"
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<Por favor, decifra, Sinclair…>"
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "Hum…"
+        },
+        {
+            "id": 91,
+            "model": "싱클레어",
+            "content": "Decerto, lendo como letras, eu não entendo bem o que exatamente quer dizer…"
+        },
+        {
+            "id": 92,
+            "model": "싱클레어",
+            "content": "É que a minha habilidade é interpretar captando o tom de voz, a expressão e o clima de quem fala…"
+        },
+        {
+            "id": 93,
+            "content": "Lamentavelmente, o caso foi, aos poucos, mergulhando num labirinto."
+        },
+        {
+            "id": 94,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Escuta… o culpado… você vai continuar procurando?"
+        },
+        {
+            "id": 95,
+            "content": "…Recordando aquela hora em que a cabeça me ressoou feito um diapasão, eu fiquei um pouco enjoado."
+        },
+        {
+            "id": 96,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Escuta…"
+        },
+        {
+            "id": 97,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "Tenth Note",
+            "content": "Ei, não dá, cabeça de relógio."
+        },
+        {
+            "id": 98,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "Tenth Note",
+            "content": "É só dizer àquele sujeito que, se ele tem algo a esconder, em vez de ficar gemendo enquanto fala dormindo, ponha tudo para fora direito."
+        },
+        {
+            "id": 99,
+            "model": "히스클리프그림자",
+            "teller": "Anônimo",
+            "title": "Tenth Note",
+            "content": "Esse infeliz… para onde é que ele foi!"
+        },
+        {
+            "id": 100,
+            "model": "단테",
+            "content": "<Que bom, o Heath… não, o senhor anônimo, pelo visto vai dar alguma ajuda…>"
+        },
+        {
+            "id": 101,
+            "teller": "Anônimo",
+            "title": "Eleventh Note",
+            "content": "Dante…"
+        },
+        {
+            "id": 102,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Tem passado bem… eu… sou o Pecador nº 1…"
+        },
+        {
+            "id": 103,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Desculpe… desde aquele dia eu não consegui dormir em paz nem um dia sequer…"
+        },
+        {
+            "id": 104,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Na verdade… quem fez o relógio cair em cima da sua cabeça fui eu…"
+        },
+        {
+            "id": 105,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Quanto a como isto veio a acontecer… (o papel está cortado)"
+        },
+        {
+            "id": 106,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Hum… não… eu não vou, à força, dar mais nenhuma desculpa…"
+        },
+        {
+            "id": 107,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Não tenho como encarar você. Eu aceito de bom grado qualquer punição."
+        },
+        {
+            "id": 108,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Por favor, perdoe-me…"
+        },
+        {
+            "id": 109,
+            "model": "단테",
+            "content": "<O culpado… era aquele membro do consel… não, aquele Pecador…>"
+        },
+        {
+            "id": 110,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Embora ele ter confessado seja bom, dá uma sensação de ter terminado de um jeito incômodo, não?"
+        },
+        {
+            "id": 111,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…Não será que ele só está querendo levar a culpa?"
+        },
+        {
+            "id": 112,
+            "model": "싱클레어",
+            "content": "Mas parece que o Pecador nº 1 não está a fim de dizer mais nada."
+        },
+        {
+            "id": 113,
+            "model": "싱클레어",
+            "content": "Aquilo que não se quer desabafar, talvez seja melhor não tentar arrancar à força."
+        },
+        {
+            "id": 114,
+            "teller": "Anônimo",
+            "title": "Twelfth Note",
+            "content": "Ué? Senhor Dante."
+        },
+        {
+            "id": 115,
+            "model": "홍루그림자",
+            "teller": "Anônimo",
+            "title": "Twelfth Note",
+            "content": "Eu estava passeando pelos arredores e havia um pedaço de papel que alguém rasgou, então eu o apanhei."
+        },
+        {
+            "id": 116,
+            "model": "홍루그림자",
+            "teller": "Anônimo",
+            "title": "Twelfth Note",
+            "content": "Tomara que o dono seja encontrado~"
+        },
+        {
+            "id": 117,
+            "model": "단테",
+            "content": "<…O pedaço de papel que o Pecador nº 1 jogou fora voltou…>"
+        },
+        {
+            "id": 118,
+            "model": "단테",
+            "content": "<Isto é a chave para resolver todo o caso…!>"
+        },
+        {
+            "id": 119,
+            "content": "Às pressas, eu abri o papel."
+        },
+        {
+            "id": 120,
+            "model": "이상그림자",
+            "teller": "Sinner #1",
+            "title": "Eleventh Note",
+            "content": "Na verdade…"
+        },
+        {
+            "id": 121,
+            "place": "Aboard Mephistopheles, Past",
+            "teller": "???",
+            "title": "???",
+            "content": "Você nunca pensou uma coisa dessas?"
+        },
+        {
+            "id": 122,
+            "model": "싱클레어그림자",
+            "teller": "???",
+            "title": "???",
+            "content": "Aquele fogo que arde fumegando na cabeça do Gerente, sabe…"
+        },
+        {
+            "id": 123,
+            "model": "싱클레어그림자",
+            "teller": "???",
+            "title": "???",
+            "content": "Será que… ele é quente como um fogo comum… ou não dá nenhuma sensação… você nunca ficou curioso?"
+        },
+        {
+            "id": 124,
+            "model": "싱클레어",
+            "content": "Ah… não se preocupe com isso, senhor Yi Sang."
+        },
+        {
+            "id": 125,
+            "model": "싱클레어",
+            "content": "A não ser que a gente mesmo toque nele, com que artifício é que a gente vai saber, haha."
+        },
+        {
+            "id": 126,
+            "model": "이상",
+            "content": "Hum… um fenômeno não comprovado… se não for observado, é difícil de confirmar, ora…"
+        },
+        {
+            "id": 127,
+            "model": "싱클레어",
+            "content": "Ah, o Gerente está dormindo… ele devia estar cansado."
+        },
+        {
+            "id": 128,
+            "model": "이상",
+            "content": "Hum, como o som do tique-taque parece mais tênue do que o normal, parece que sim."
+        },
+        {
+            "id": 129,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 130,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 131,
+            "model": "이상",
+            "content": "Você… talvez esteja pensando o mesmo que eu…"
+        },
+        {
+            "id": 132,
+            "model": "싱클레어",
+            "content": "Se for só verificar rapidinho enquanto o Gerente está adormecido…"
+        },
+        {
+            "id": 133,
+            "model": "싱클레어",
+            "content": "não tem problema, não?"
+        },
+        {
+            "id": 134,
+            "model": "이상",
+            "content": "Glup…"
+        },
+        {
+            "id": 135,
+            "model": "이상",
+            "content": "Não sei se o som de eu engolir saliva… não está se ouvindo alto demais…"
+        },
+        {
+            "id": 136,
+            "model": "싱클레어",
+            "content": "Eu… só agora descobri que o som da batida do meu coração era, desde sempre, tão alto assim…"
+        },
+        {
+            "id": 137,
+            "model": "싱클레어",
+            "content": "…!"
+        },
+        {
+            "id": 138,
+            "model": "싱클레어",
+            "content": "Ã… senhor Yi Sang…!"
+        },
+        {
+            "id": 139,
+            "model": "싱클레어",
+            "content": "O despertador que estava ao lado do Gerente…"
+        },
+        {
+            "id": 140,
+            "model": "싱클레어",
+            "content": "parece que vai tocar logo…! O alarme estava ajustado para daqui a 1 minuto…!"
+        },
+        {
+            "id": 141,
+            "model": "이상",
+            "content": "Aah… ah…!"
+        },
+        {
+            "id": 142,
+            "model": "이상",
+            "content": "Eu… eu vou desligar o relógio…!"
+        },
+        {
+            "id": 143,
+            "model": "료슈",
+            "content": "Hum…"
+        },
+        {
+            "id": 144,
+            "model": "료슈",
+            "content": "Pregando uma peça sem graça, uns ratinhos."
+        },
+        {
+            "id": 145,
+            "model": "이상 & 싱클레어",
+            "teller": "Yi Sang & Sinclair",
+            "title": "Sinners",
+            "content": "…!"
+        },
+        {
+            "id": 146,
+            "model": "단테",
+            "content": "<Aaaaah!>"
+        },
+        {
+            "id": 147,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "단테",
+            "content": "<Foi assim que aconteceu… hum, pensando bem, isto também parece denunciar alguém em segredo demais… simplesmente… encobrir como uma coisa que eu fiz inteiramente sozinho deixa o coração mais à vontade…>"
+        },
+        {
+            "id": 148,
+            "model": "단테",
+            "content": "<…é o que ele diz.>"
+        },
+        {
+            "id": 149,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Era um caso de a vela não iluminar a própria base, então."
+        },
+        {
+            "id": 150,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 151,
+            "model": "싱클레어",
+            "content": "Desculpe, senhor Dante…"
+        },
+        {
+            "id": 152,
+            "model": "싱클레어",
+            "content": "Naquela hora… eu devia ter dito na hora…"
+        },
+        {
+            "id": 153,
+            "model": "싱클레어",
+            "content": "É que a senhora Outis estava esbugalhando os olhos de um jeito tão assustador, dizendo que, se achasse o culpado, não ia deixar barato, que eu acabei…"
+        },
+        {
+            "id": 154,
+            "model": "단테",
+            "content": "<Hum… de fato, ela fez isso mesmo…>"
+        },
+        {
+            "id": 155,
+            "model": "싱클레어",
+            "content": "Eu perdi o momento de falar…"
+        },
+        {
+            "id": 156,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 157,
+            "model": "싱클레어",
+            "content": "Escuta… na verdade…"
+        },
+        {
+            "id": 158,
+            "model": "싱클레어",
+            "content": "Por que a empresa me fez assistir à aula junto com a senhora Shichun… eu desconfio do motivo…"
+        },
+        {
+            "id": 159,
+            "model": "싱클레어",
+            "content": "Provavelmente… havia uma figura minha que a empresa esperava, mas, como ela não apareceu… eles me deixam assistir junto a uma aula de reforço destas, há de ser isso."
+        },
+        {
+            "id": 160,
+            "model": "싱클레어",
+            "content": "Os outros Pecadores parece que encaram com firmeza os problemas de cada um e os vão aos poucos superando, mas…"
+        },
+        {
+            "id": 161,
+            "model": "싱클레어",
+            "content": "eu fico, sem parar, com o pensamento de que só eu estou parado no mesmo lugar."
+        },
+        {
+            "id": 162,
+            "model": "싱클레어",
+            "content": "É claro que todos me consolam dizendo que a minha hora ainda não chegou, mas…"
+        },
+        {
+            "id": 163,
+            "model": "싱클레어",
+            "content": "às vezes… vem-me o pensamento de que talvez ela não venha mais, nunca."
+        },
+        {
+            "id": 164,
+            "content": "O que Sinclair dizia não era uma mera capacidade de combate ou treino físico."
+        },
+        {
+            "id": 165,
+            "content": "Era sobre o passado de cada um e o caminho que se deve trilhar dali em diante, que mais da metade dos Pecadores encaram. A culpa e a inquietação de não ter conseguido encarar isso como devido…"
+        },
+        {
+            "id": 166,
+            "content": "hão de continuar a esmagar o coração."
+        },
+        {
+            "id": 167,
+            "model": "단테",
+            "content": "<Não existe quem saiba perfeitamente o caminho que deve trilhar.>"
+        },
+        {
+            "id": 168,
+            "model": "단테",
+            "content": "<É justamente por isso que todos embarcam no ônibus.>"
+        },
+        {
+            "id": 169,
+            "model": "싱클레어",
+            "content": "…O senhor pode gritar 'recobre o juízo', como o senhor Heathcliff, que está tudo bem."
+        },
+        {
+            "id": 170,
+            "model": "단테",
+            "content": "<Se for preciso, eu grito.>"
+        },
+        {
+            "id": 171,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "A aflição… pelo visto se resolveu bem."
+        },
+        {
+            "id": 172,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Na verdade, para mim só dava para ouvir aquele som de relógio, mas…"
+        },
+        {
+            "id": 173,
+            "model": "싱클레어",
+            "content": "Ah… desculpe. O que o senhor Dante disse foi…"
+        },
+        {
+            "id": 174,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Não, deixa. Só de ver a sua expressão… eu fico com a sensação de que aquele tique-taque tocou o meu coração."
+        },
+        {
+            "id": 175,
+            "content": "Assim, o incidente do despertador se encerrou."
+        },
+        {
+            "id": 176,
+            "model": "단테",
+            "content": "<Mas… o que era o criptograma de Ryōshū?>"
+        },
+        {
+            "id": 177,
+            "model": "싱클레어",
+            "content": "…Os culpados são dois."
+        },
+        {
+            "id": 178,
+            "model": "싱클레어",
+            "content": "O que tem pesadelo toda noite e o meu tradutor… é o que quer dizer."
+        },
+        {
+            "id": 179,
+            "model": "단테",
+            "content": "<…Era isso.>"
+        },
+        {
+            "id": 180,
+            "content": "Um silêncio um tanto constrangedor pairou ao redor de mim e de Sinclair."
+        }
+    ]
+}

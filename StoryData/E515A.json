@@ -1,0 +1,312 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "4° Piso do Edifício Yong-jin",
+            "model": "단테",
+            "content": "<... Peccatula? Eram Peccatula, não eram?>"
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "content": "Sim."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Suas aparências muito diferem dos que outrora encontramos. Parecem ter adquirido uma forma mais complexa..."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "São evoluções de cada Peccatulum."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "O tipo de Peccatulum no qual o indivíduo se transforma depende do tipo de Pecado que ele acumulou em sua vida, então não é de se admirar que haja variações entre eles."
+        },
+        {
+            "id": 5,
+            "model": "싱클레어",
+            "content": "Mas... nós nunca encontramos nada parecido com os que acabamos de ver."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Coletar os Ramos de Ouro pode ter acelerado o processo de crescimento dos Peccatula."
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Esses ramos... parece cada vez mais difícil achar algo que <i>não</i> tenha a ver com eles. São mais influentes do que pensei..."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "Ah, por falar nisso, cada um desses \"Peccatula\" deve representar algum tipo de \"Pecado\", certo?"
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Pecado...> "
+        },
+        {
+            "id": 10,
+            "content": "De repente, meus pensamentos começam a ficar distantes."
+        },
+        {
+            "id": 11,
+            "content": "Não... o mais correto seria dizer que meus pensamentos se aproximam, enquanto meus arredores e as vozes dos Pecadores se distanciam."
+        },
+        {
+            "id": 12,
+            "content": "De repente, a palavra \"Pecado\" me parece particularmente estranha."
+        },
+        {
+            "id": 13,
+            "model": "이상",
+            "content": "Aparentam ter perdido seu senso de si junto às suas formas originais, agora esquecidas."
+        },
+        {
+            "id": 14,
+            "content": "Si..."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "E as Distorções não são tipo isso?"
+        },
+        {
+            "id": 16,
+            "model": "싱클레어",
+            "content": "Algumas pessoas viram Distorções, já outras, Peccatula... Qual será a diferença?"
+        },
+        {
+            "id": 17,
+            "content": "Eu acho... que eu sei..."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<... Todos carregam consigo uma semente capaz de germinar a qualquer momento.>"
+        },
+        {
+            "id": 19,
+            "model": "오티스",
+            "content": "Gerente Executivo?"
+        },
+        {
+            "id": 20,
+            "model": "로쟈",
+            "content": "O que cê disse? A Fau falou por cima, daí não ouvi..."
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "... continuando, se, em situações de estresse extremo, o indivíduo for capaz de manter o senso de si, isso pode fazê-lo evoluir para uma Distorção e—"
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Quando a luz daquele dia penetrar os corações das pessoas, germinando as sementes enterradas em cada um...>"
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "... Gerente?"
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Se a ■■■■ do indivíduo ■■■ ■■■■■■■■■, devorada pelos seus pecados, ele renascerá na forma de um ■■■■■■■■■■, e sua imagem refletirá a ■■■■■ ■■■■■■■■■ ■■ ■■■■ sonhada pelos insignificantes.>"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Dante."
+        },
+        {
+            "id": 26,
+            "model": "이상",
+            "content": "Dante! O que está—"
+        },
+        {
+            "id": 27,
+            "model": "단테",
+            "content": "<Se o indivíduo resistir a ■■■■■ ■■ ■■■■■■■■ ■■ ■■■ ■■■■■■, mas ■■ ■■■■■■■ ■ ■■■■■■■■■ seus pecados, seu coração ■■■ ■■■■■■■■■...>"
+        },
+        {
+            "id": 28,
+            "model": "히스클리프",
+            "content": "M-mas que merda tá... Cabeça de Relógio, do que diabos você tá falando?"
+        },
+        {
+            "id": 29,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Que som grave... Há algum problema com sua cabeça protética?..."
+        },
+        {
+            "id": 30,
+            "model": "단테",
+            "content": "<Todavia, caso busque aguentar as ■■■■■■ ■■■■■■■■■■■■■ ■■■ ■■■■ ■■■■■■■, o ■■■ irá ■■■■■■■ ■ ■■■■■■■ de seu verdadeiro coração...>"
+        },
+        {
+            "id": 31,
+            "model": "이상",
+            "content": "E.G.O? É disso que se tratam suas palavras? "
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<E num mundo percebido através de suas próprias ■■■■■■ ■■ ■■■■■■■■■ ■ ■■ ■■■■■■■■, a ■■■■■■■■■ será desvelada: ■■■■■■■■ seus ■■■■ e ■■■■■■■■■... ■■ derreter ■■ ■■■■■, ■■■■■■■■■■ ■■■■■■■■■■■ ■■■■ ■ ■■■■ do pecado...>"
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "Está começando a falar igual meu avô—?! G-Gerente! Sua cabeça!"
+        },
+        {
+            "id": 34,
+            "model": "오티스",
+            "content": "Gerente Executivo! S-sua cabeça está em chamas!"
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "Nossa~ Que brasa boa."
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "E-eu acho que vai explodir!"
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<Apenas os capazes de definir seus próprios ■■■■■■■...>"
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "Ei! Temos que fazer algo antes que o Altas Horas aqui chute o balde! Alguma ideia boa, moça?!"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Nada chega-me à cabeça...!"
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<Apenas os que despertarem seus próprios ■■■■■■...>"
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "Gaaah! É como um braseiro em chamas! Pensava que as labaredas na cabeça de Vossa Gerência fossem apenas estilísticas! Nunca, nem uma vez, senti qualquer calor sequer delas...!"
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Faust! E se a sequência de autodestruição tiver sido ativada sem querer?! Argh, esse calor... se não fizermos nada, vai derreter tudo que tá em volta...!"
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "... Os princípios de operação são os mesmos. Dante, através dos Ramos de Ouro, conectou-se às raízes da muda plantada no subterrâneo da sede. O que significa que—"
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "Quem liga pra porra dos Ramos?! A gente tem que apagar essas chamas!"
+        },
+        {
+            "id": 45,
+            "model": "돈키호테",
+            "content": "Água! Não há alguém com água? Temos que apagar estas labaredas com presteza!"
+        },
+        {
+            "id": 46,
+            "content": "Um tempo depois..."
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<... Ugh.>"
+        },
+        {
+            "id": 48,
+            "model": "돈키호테",
+            "content": "Oh, dizei, recuperastes-vos?!"
+        },
+        {
+            "id": 49,
+            "content": "Como se estivesse abrindo os olhos lentamente, minha visão clareou e vi os Pecadores ao meu redor, me olhando de cima."
+        },
+        {
+            "id": 50,
+            "model": "단테",
+            "content": "<O que... aconteceu?>"
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "content": "Não se lembra do ocorrido?"
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<Bem... Acredito que não?>"
+        },
+        {
+            "id": 53,
+            "content": "Lembro-me de subir as escadas... e de sentir uma tontura intensa e repentina."
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "Gerente Executivo. Você deve fazer questão de receber reparos assim que voltarmos..."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<Hã? Reparos? Por acaso eu quebrei ou algo do tipo?>"
+        },
+        {
+            "id": 56,
+            "model": "이스마엘",
+            "content": "Não fale como se Dante fosse uma máquina... Aaah, de qualquer jeito, não há nada que possamos fazer sobre o que acabou de acontecer. Pelo menos, não aqui."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Discutiremos isso quando voltarmos. O que acabou de ocorrer não parece ter causado obstáculos à nossa missão."
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<A Aeng-du, onde ela...>"
+        },
+        {
+            "id": 59,
+            "model": "이상",
+            "content": "Ela avançou sem nós. Embora sua condição ainda me cause curiosidade e preocupação, devemos nos reunir com ela. A situação requer urgência."
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<É... Certo.>"
+        },
+        {
+            "id": 61,
+            "content": "Havia muito que eu não entendia, mas visto que estávamos em meio a uma operação..."
+        },
+        {
+            "id": 62,
+            "content": "... vamos terminá-la antes."
+        }
+    ]
+}

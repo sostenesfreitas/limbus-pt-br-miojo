@@ -1,0 +1,348 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "content": "Voltamos a pôr os pés em marcha rumo ao corredor repleto de cadáveres e escombros."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Here's hoping we come across someone else still conscious, like Miss Alyssa..."
+        },
+        {
+            "id": 2,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "Ai! A-aí, moço, você acabou de pisar na minha mão...!"
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Oops, my bad..."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "...Não foi isso — um sobrevivente... era isso, agora?"
+        },
+        {
+            "id": 5,
+            "content": "Quando Gregor exclamou às pressas, todos nós examinamos o lugar de onde viera a voz."
+        },
+        {
+            "id": 6,
+            "content": "Entre os cadáveres soterrados sob uma estrutura enorme, o único que parecia ter consciência nos olhava com uma expressão de dor."
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "Estais... bem?"
+        },
+        {
+            "id": 8,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "A-ah, não, dói. Eu fiquei assim por um tempão, e ninguém passava por aqui, e..."
+        },
+        {
+            "id": 9,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "...eu estava aguentando conversando com a pessoa que ficou soterrada do meu lado, mas... de-de repente, faz uns dez minutos, ela não diz mais nada, sabe? E a gente até trocou os nomes!"
+        },
+        {
+            "id": 10,
+            "model": "뫼르소",
+            "content": "É deste aqui que você fala. Ele está fingindo de morto de propósito, mas ainda está com o pulso batendo."
+        },
+        {
+            "id": 11,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "W-whaaat?"
+        },
+        {
+            "id": 12,
+            "content": "Diante das palavras de Meursault, o sujeito de terno, que parecia um cadáver, abriu os olhos discretamente."
+        },
+        {
+            "id": 13,
+            "model": "라비",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, you got me."
+        },
+        {
+            "id": 14,
+            "model": "라비",
+            "teller": "???",
+            "title": "???",
+            "content": "É que, definitivamente, numa situação destas... ficar conversando, animados, sobre o que comer primeiro quando sair daqui..."
+        },
+        {
+            "id": 15,
+            "model": "라비",
+            "teller": "???",
+            "title": "???",
+            "content": "...não soa demais como gente que vai morrer?"
+        },
+        {
+            "id": 16,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "Mesmo assim, e-eu, quando sair daqui, quero comer sorvete de baunilha com amêndoas por cima... e um sanduíche com queijo. E você, senhor Ravi?"
+        },
+        {
+            "id": 17,
+            "model": "라비",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "... Need a hand?"
+        },
+        {
+            "id": 19,
+            "model": "라비",
+            "title": "???",
+            "content": "Yes, please."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<... Let's just get them out.>"
+        },
+        {
+            "id": 21,
+            "content": "As duas pessoas que estavam soterradas sob os escombros conseguiram sair para fora em segurança, com a ajuda dos Pecadores."
+        },
+        {
+            "id": 22,
+            "model": "라비",
+            "title": "???",
+            "content": "Hum. Fora a perna esquerda, não há nada de errado."
+        },
+        {
+            "id": 23,
+            "model": "검지제자2",
+            "teller": "???",
+            "title": "???",
+            "content": "Ai, o-o braço direito parece estar quebrado, mas, hum, uma coisa deste tamanho, se eu comer bastante amêndoa e peixe, em uns di-dias já solda rapidinho."
+        },
+        {
+            "id": 24,
+            "model": "검지제자2",
+            "content": "Ah. Obri-obrigada por me tirarem daqui. Eu me chamo Sora."
+        },
+        {
+            "id": 25,
+            "model": "라비",
+            "title": "???",
+            "content": "Devo-lhes a vida. Podem me chamar de Ravi."
+        },
+        {
+            "id": 26,
+            "model": "라비",
+            "title": "???",
+            "content": "A propósito... por acaso, de qual departamento são os senhores...?"
+        },
+        {
+            "id": 27,
+            "model": "그레고르",
+            "content": "Ei... por acaso vocês não nos viram antes? Sabe, daquela vez a gente veio aqui em grupo fazer exame e tudo."
+        },
+        {
+            "id": 28,
+            "model": "라비",
+            "content": "Ah, nós somos funcionários novatos, que ingressaram na empresa hoje."
+        },
+        {
+            "id": 29,
+            "model": "그레고르",
+            "content": "N-new hires...?"
+        },
+        {
+            "id": 30,
+            "model": "라비",
+            "content": "Sim. É que houve, recentemente, um processo de contratação do departamento de refino de Enkephalin. Hoje era o primeiro dia de trabalho do pessoal contratado."
+        },
+        {
+            "id": 31,
+            "model": "라비",
+            "content": "Foi enquanto procurávamos o pesquisador da LCE que faria a nossa apresentação ao serviço... que acabamos neste estado, é verdade."
+        },
+        {
+            "id": 32,
+            "model": "검지제자2",
+            "content": "E-este equipamento... eu o vesti pela primeira vez hoje, e quanto mais olho, mais interessante ele me parece."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<...Como foi que vocês acabaram soterrados sob os escombros?>"
+        },
+        {
+            "id": 34,
+            "model": "이상",
+            "content": "E como foi que ficastes soterrada sob os escombros?"
+        },
+        {
+            "id": 35,
+            "model": "검지제자2",
+            "content": "É-é o seguinte. Eu estava andando pelo corredor e parei um instante, fiquei de pé."
+        },
+        {
+            "id": 36,
+            "model": "검지제자2",
+            "content": "É-eu sou assim mesmo. Quando me su-surge uma curiosidade, não consigo fazer outra coisa e fico... matutando sem parar."
+        },
+        {
+            "id": 37,
+            "model": "이상",
+            "content": "Eu compreendo. Pois um pesquisador, em geral, tende a se absorver no lampejo que lhe ocorre."
+        },
+        {
+            "id": 38,
+            "model": "검지제자2",
+            "content": "Me ocorreu uma coisa que eu queria expe-experimentar com o equipamento E.G.O... e, sem resolver na hora essa i-inspiração, eu não conseguia de jeito nenhum fazer a tarefa seguinte."
+        },
+        {
+            "id": 39,
+            "model": "이상",
+            "content": "Equipamento E.G.O... falais daquele grilhão que tendes preso ao pulso?"
+        },
+        {
+            "id": 40,
+            "model": "검지제자2",
+            "content": "I-isso mesmo. Mesmo sendo um pouco incômodo... é o meu E.G.O, só meu, único."
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 42,
+            "model": "료슈",
+            "content": "A lamúria está comprida. Explique a partir do que aconteceu em seguida."
+        },
+        {
+            "id": 43,
+            "model": "검지제자2",
+            "content": "De-desculpe. É que... de-de repente... do fim do corredor veio um barulho alto e as pessoas saíram correndo... aí... o-o teto desabou."
+        },
+        {
+            "id": 44,
+            "model": "검지제자2",
+            "content": "Ah... se e-eu não estivesse perdida nos meus pensamentos, não teria ficado soterrada."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "...Não sei se dá pra chamar de sorte, mas, se você não tivesse ficado soterrada, talvez a chance de sobreviver fosse mínima. É que os invasores também atacaram, e não foi pouca gente que morreu."
+        },
+        {
+            "id": 46,
+            "model": "검지제자2",
+            "content": "O quêêê? Ne-nesse meio-tempo aconteceu uma coisa dessas..."
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "content": "...Não há nada que eu vos possa dizer além da palavra 'lamento'."
+        },
+        {
+            "id": 48,
+            "model": "라비",
+            "content": "Por acaso, há mais sobreviventes que tenham sido encontrados...?"
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Há uns vinte e poucos. Por sorte, o pessoal que restou, incluindo a chefe de equipe, estava reunido."
+        },
+        {
+            "id": 50,
+            "model": "라비",
+            "content": "That's a relief...."
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "content": "E vós... estais bem? Aconteceu uma coisa destas numa empresa em que mal acabastes de ingressar, e estais bastante firme."
+        },
+        {
+            "id": 52,
+            "model": "라비",
+            "content": "Como recebi treinamento também para situações destas, eu já estava preparado para o pior. Embora eu não imaginasse que uma coisa assim aconteceria mal eu ingressasse na empresa..."
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "...Impressionante. Mesmo assim, um novato..."
+        },
+        {
+            "id": 54,
+            "model": "라비",
+            "content": "E os senhores, para onde estavam indo?"
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Ah, a gente estava procurando o elevador. Parece que é mais ou menos nesta direção... mas não temos certeza."
+        },
+        {
+            "id": 56,
+            "model": "검지제자2",
+            "content": "Ah, o e-elevador...! E-eu sei onde ele fica. Posso ir junto com vocês?"
+        },
+        {
+            "id": 57,
+            "model": "료슈",
+            "content": "... Lead the way."
+        },
+        {
+            "id": 58,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "*bzzt*... these components... *bzzt*..."
+        },
+        {
+            "id": 59,
+            "model": "검지제자2",
+            "content": "O-o rádio está dizendo alguma coisa... é a voz dos seus companheiros?"
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<The call's breaking up...>"
+        },
+        {
+            "id": 61,
+            "model": "그레고르",
+            "content": "Hum, pelo visto a gente passou do raio de alcance do sinal do rádio. ...Será que o resto do pessoal está se saindo bem."
+        },
+        {
+            "id": 62,
+            "model": "검지제자2",
+            "content": "E-eu também queria poder ter notícias dos meus colegas..."
+        },
+        {
+            "id": 63,
+            "model": "라비",
+            "content": "Estou de acordo..."
+        },
+        {
+            "id": 64,
+            "content": "Em meio aos suspiros desolados dos pesquisadores da LCE, apressamos os passos rumo à direção onde estava o elevador."
+        }
+    ]
+}

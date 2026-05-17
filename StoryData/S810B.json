@@ -1,0 +1,618 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Grande Jardim - Tubitang",
+            "model": "하인2",
+            "content": "Jovem senhor Baoyu e os seus doze acompanhantes! A chegar à Tubitang!"
+        },
+        {
+            "id": 1,
+            "content": "Com a voz sonora do criado que guardava a entrada, entramos no local onde decorria a primeira ronda da avaliação."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "É uma estrutura semelhante a uma arena de combate ou anfiteatro……mm. Muitos olhares voltaram-se para nós, Chefe de Execução."
+        },
+        {
+            "id": 3,
+            "content": "Ao olhar para cima, via a multidão sentada em fileiras densas; no espaço do palco da frente, protegido por uma cortina translúcida, projetavam-se as sombras de três cadeiras."
+        },
+        {
+            "id": 4,
+            "content": "E nós……fomos guiados para o espaço circular central onde nos juntámos aos outros participantes."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<A avaliação decorre atrás daquela cortina?>"
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "Daiyu?"
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Hm? Viste alguém conhecido?>"
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Não. Não é nada, Dante."
+        },
+        {
+            "id": 10,
+            "model": "홍루",
+            "content": "Mesmo que nos reencontremos……não há nada a dizer."
+        },
+        {
+            "id": 11,
+            "model": "홍루",
+            "content": "Se houver uma ligação, sempre haverá oportunidade de conversar."
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "Ah, parece que vai começar em breve."
+        },
+        {
+            "id": 13,
+            "content": "A cortina foi suavemente levantada, e da parte de dentro saíram as pessoas que havíamos visto no banquete na noite anterior."
+        },
+        {
+            "id": 14,
+            "model": "가모",
+            "content": "Eu, que outrora fui agraciada pela sorte e ascendi ao cargo de Patriarca, sendo conhecida como Jia Mu. Após tantos e longos anos, pretendo agora ceder este cargo e percorrer livremente o mundo."
+        },
+        {
+            "id": 15,
+            "model": "가모",
+            "content": "O lugar que cedo tornar-se-á naturalmente uma vaga, e deve ser preenchida por alguém digno."
+        },
+        {
+            "id": 16,
+            "model": "가모",
+            "content": "Neste Daguanyuan erguido sobre os pilares das Quatro Grandes Famílias — Jia, Xue, Wang e Shi — em busca da resposta àquela questão pela qual sempre ansiámos……"
+        },
+        {
+            "id": 17,
+            "model": "가모",
+            "content": "Acredito que todos deram o melhor de si."
+        },
+        {
+            "id": 18,
+            "model": "가정",
+            "content": "……"
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Quem é a pessoa ao lado dela……>"
+        },
+        {
+            "id": 20,
+            "model": "홍루",
+            "content": "Ah, essa é a minha irmã mais velha, a irmã Yuanchun."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "Depois de se casar com um alto responsável da Q Corp., ficou a viver na Q Corp. — desta vez deve ter voltado especialmente para cá."
+        },
+        {
+            "id": 22,
+            "model": "가원춘",
+            "content": "……Embora há muito residente noutro ninho, regressei temporariamente aqui para desfrutar da ligação familiar e da harmonia dos laços de família."
+        },
+        {
+            "id": 23,
+            "model": "가원춘",
+            "content": "Farei todo o possível para explorar a verdade."
+        },
+        {
+            "id": 24,
+            "model": "가원춘",
+            "content": "Alguns encontraram a resposta facilmente, enquanto outros devem ter enfrentado inúmeras dificuldades antes de finalmente obterem a sua."
+        },
+        {
+            "id": 25,
+            "model": "가원춘",
+            "content": "No entanto, a oportunidade da primeira ronda da avaliação é apenas uma."
+        },
+        {
+            "id": 26,
+            "model": "가원춘",
+            "content": "Mesmo assim, todos continuam a ser herdeiros deste Daguanyuan. Mesmo sendo eliminados, serão um contributo para a prosperidade do Daguanyuan."
+        },
+        {
+            "id": 27,
+            "model": "가원춘",
+            "content": "A partir de agora, pela ordem em que forem chamados, apresentem as vossas preciosas respostas sobre a imortalidade, a não-morte e a longevidade."
+        },
+        {
+            "id": 28,
+            "model": "가원춘",
+            "content": "Se o que apresentam for difícil de exibir, demonstrem com provas autênticas."
+        },
+        {
+            "id": 29,
+            "model": "가원춘",
+            "content": "Sem abandono, sem renúncia. Que a era florida continue para sempre."
+        },
+        {
+            "id": 30,
+            "content": "Após o discurso, Jia Yuanchun e Jia Mu regressaram ao interior do palco."
+        },
+        {
+            "id": 31,
+            "model": "가정",
+            "content": "Primeiro participante……"
+        },
+        {
+            "id": 32,
+            "content": "O pai de Hong Lu, Jia Zheng, parecia servir de anfitrião na primeira ronda da disputa pelo Patriarca."
+        },
+        {
+            "id": 33,
+            "model": "가정",
+            "content": "……Família Wang, Wang Ren."
+        },
+        {
+            "id": 34,
+            "content": "A primeira pessoa a ser chamada, um homem de nome Wang Ren, avançou em direção ao palco."
+        },
+        {
+            "id": 35,
+            "content": "A sua facção seguia atrás, mas parecia estar a arrastar à força alguém amarrado."
+        },
+        {
+            "id": 36,
+            "model": "왕인",
+            "content": "Vem depressa! Idiota……"
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "Isso é……quem é que levaram para o palco?"
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "Pelo comportamento, deve ter sido levado à força……"
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "Imortalidade……não é……"
+        },
+        {
+            "id": 40,
+            "model": "그레고르",
+            "content": "A fantasia de transcender o corpo com que se nasce e alcançar um nível superior parece ser um anseio presente em cada Asa. A imortalidade de Hongyuan provavelmente também nasce deste mesmo desejo."
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "……!"
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Aquela pessoa……"
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "Trouxe um Bloodbag."
+        },
+        {
+            "id": 44,
+            "content": "Foi nesse momento que conseguimos finalmente ver claramente o verdadeiro aspecto da pessoa que lutava."
+        },
+        {
+            "id": 45,
+            "content": "Olhos vermelhos com o olhar vazio, saliva a escorrer pelas fendas do açaime, uivos graves e desorganizados."
+        },
+        {
+            "id": 46,
+            "content": "Era um Bloodbag que já tinha perdido a razão."
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "content": "Os Bloodfiends……podem servir de resposta para a imortalidade?"
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Para a maioria das pessoas pode de facto parecer próximo da \"não-velhice\"……"
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "Mas como sabemos, os Bloodfiends também envelhecem e enfraquecem gradualmente se não conseguirem ingerir sangue."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Portanto podemos deduzir que isto está longe de ser a resposta que procuram."
+        },
+        {
+            "id": 51,
+            "content": "Pouco depois, o Bloodbag capturado foi arrastado para dentro do palco rodeado por cortinas."
+        },
+        {
+            "id": 52,
+            "model": "관중1",
+            "teller": "Público Agitado",
+            "title": "Grande Jardim",
+            "content": "Aquilo é o famoso……Bloodfiend?"
+        },
+        {
+            "id": 53,
+            "model": "관중2",
+            "teller": "<size=90%>Público Desconfiado</size>",
+            "title": "Grande Jardim",
+            "content": "Isso vai funcionar mesmo? Não há muita gente que saiba……mas para os que estão a avaliar, deve ser uma coisa já batida."
+        },
+        {
+            "id": 54,
+            "model": "관중3",
+            "teller": "<size=90%>Público Sussurrando</size>",
+            "title": "Grande Jardim",
+            "content": "O rapaz da família Wang parece estar um bocado desesperado, não é?"
+        },
+        {
+            "id": 55,
+            "teller": "???",
+            "title": "???",
+            "content": "Isso é preguiça ou estupidez."
+        },
+        {
+            "id": 56,
+            "model": "이상",
+            "content": "Hm. Há mais pessoas cientes dos Bloodfiends do que o esperado."
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "content": "Os Bloodfiends já se espalharam pelos vários ninhos……não é de espantar que alguns os conheçam."
+        },
+        {
+            "id": 58,
+            "content": "Menos de um minuto depois, Wang Ren e a sua facção saíram do palco."
+        },
+        {
+            "id": 59,
+            "model": "가정",
+            "content": "Candidato à avaliação do Patriarca, Wang Ren. Dirija-se à posição designada para aguardar o resultado."
+        },
+        {
+            "id": 60,
+            "content": "Depois subiram para a plataforma circular na parte de trás do palco."
+        },
+        {
+            "id": 61,
+            "model": "가정",
+            "content": "……Wang Ren, resultado da primeira ronda da avaliação do Patriarca."
+        },
+        {
+            "id": 62,
+            "model": "가정",
+            "content": "Eliminado."
+        },
+        {
+            "id": 63,
+            "model": "왕인",
+            "content": "Co-como é possível……"
+        },
+        {
+            "id": 64,
+            "model": "왕인",
+            "content": "Sangue……desde que haja sangue ilimitado, esses podem existir para sempre……Jia Mu……!"
+        },
+        {
+            "id": 65,
+            "model": "돈키호테",
+            "content": "Não."
+        },
+        {
+            "id": 66,
+            "model": "돈키호테",
+            "content": "Não é para sempre."
+        },
+        {
+            "id": 67,
+            "model": "돈키호테",
+            "content": "O que os avaliadores anseiam — o que é a verdadeira imortalidade — embora eu não saiba ao certo……"
+        },
+        {
+            "id": 68,
+            "model": "돈키호테",
+            "content": "Os Bloodfiends, eternamente acorrentados ao sangue e submersos em sofrimento sem fim, não podem ser colocados no mesmo plano."
+        },
+        {
+            "id": 69,
+            "model": "왕인",
+            "content": "Co-como é possível……mas aqueles caçadores disseram-me que as memórias se manteriam intactas……!"
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "……Todos os desejos e emoções dos Bloodfiends convergem e distorcem-se em direção ao sangue."
+        },
+        {
+            "id": 71,
+            "model": "돈키호테",
+            "content": "Deixando de lado aqueles que já vivem numa agonia sem fim, fazer com que pessoas que ainda têm muito a que se apegar se tornem Bloodfiends é verdadeiramente……"
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "content": "Isso não pode ser chamado de conceder imortalidade — é mais como colocar grilhões no espírito e levar a pessoa a tornar-se escrava do sangue."
+        },
+        {
+            "id": 73,
+            "model": "가모",
+            "content": "……Os que estão sob as ordens de Baoyu já disseram o suficiente. Não é necessário acrescentar mais."
+        },
+        {
+            "id": 74,
+            "model": "가원춘",
+            "content": "E mais, nem sequer trouxe um verdadeiro Bloodfiend de alto nível — aparecer apenas com um Bloodbag mostra falta de sinceridade."
+        },
+        {
+            "id": 75,
+            "model": "가정",
+            "content": "……Família Wang, Wang Ren. Que lhe sejam explicadas as razões pelas quais não é digno do cargo — considere isso o último favor da sua vida."
+        },
+        {
+            "id": 76,
+            "model": "왕인",
+            "content": "Uaaaah!"
+        },
+        {
+            "id": 77,
+            "content": "O grito desesperado de Wang Ren e o rugido feroz do Bloodbag caíram juntos para baixo do palco que se abriu, desaparecendo gradualmente."
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<……Então é este o sentido de «cair» quando se é «eliminado».>"
+        },
+        {
+            "id": 79,
+            "model": "로쟈",
+            "content": "Isso, deve ser apenas……uma encenação para efeito dramático, não é? Vão puxá-los para cima mesmo depois de caírem, certo?"
+        },
+        {
+            "id": 80,
+            "model": "료슈",
+            "content": "Impossível. O intenso cheiro de sofrimento acumulado no fundo daquele buraco está a vir na nossa direção."
+        },
+        {
+            "id": 81,
+            "model": "로쟈",
+            "content": "Haha, Ryōshū, é mesmo você……como é que começou a fazer piadas assim assustadoras."
+        },
+        {
+            "id": 82,
+            "model": "오티스",
+            "content": "Para onde levará o espaço abaixo daquela plataforma? A julgar pelo som da queda, parece ir a um lugar muito fundo."
+        },
+        {
+            "id": 83,
+            "model": "홍루",
+            "content": "Provavelmente……é o lugar onde os antigos segredos da nossa família estão guardados. Ah, claro que não são tesouros ou algo assim. Parece ser do género que se uma pessoa normal tentar saber mais, os Heishou aparecem à porta."
+        },
+        {
+            "id": 84,
+            "model": "이스마엘",
+            "content": "……Uma preparação verdadeiramente cuidadosa."
+        },
+        {
+            "id": 85,
+            "model": "그레고르",
+            "content": "É, essa preparação cuidadosa pode também custar-nos a vida……"
+        },
+        {
+            "id": 86,
+            "content": "O choque da cena anterior ainda não desaparecera por completo quando o próximo nome foi chamado."
+        },
+        {
+            "id": 87,
+            "model": "가정",
+            "content": "Segundo participante, família Xue……"
+        },
+        {
+            "id": 88,
+            "content": "Em breve, muitos nomes foram chamados em sequência, e houve várias eliminações."
+        },
+        {
+            "id": 89,
+            "content": "Os sons das conversas por trás da cortina não chegavam até nós — ao contrário do caso do Bloodbag, na maioria das vezes nem sabíamos o que cada participante tinha trazido……"
+        },
+        {
+            "id": 90,
+            "content": "Por isso, o que via os nossos olhos eram apenas as silhuetas desoladas projetadas na cortina."
+        },
+        {
+            "id": 91,
+            "model": "그레고르",
+            "content": "De novo……"
+        },
+        {
+            "id": 92,
+            "model": "료슈",
+            "content": "Far·ta.En·jo.En·fas·tia. Já vi demais. Enjoei. Um tédio sem fim."
+        },
+        {
+            "id": 93,
+            "content": "O choque que a primeira abertura daquela plataforma nos causara já tinha entorpecido gradualmente com as cenas que se repetiam."
+        },
+        {
+            "id": 94,
+            "model": "그레고르",
+            "content": "Isto — haverá de facto alguém que passe?"
+        },
+        {
+            "id": 95,
+            "model": "가정",
+            "content": "Oitava participante, Xue Baochai da família Xue."
+        },
+        {
+            "id": 96,
+            "model": "로쟈",
+            "content": "Eia, finalmente alguém que conhecemos~"
+        },
+        {
+            "id": 97,
+            "content": "Em rigor, ela era agora nossa competidora, mas talvez pelo facto de o breve encontro do dia anterior ter sido agradável, alguns Pecadores estavam a torcer por ela."
+        },
+        {
+            "id": 98,
+            "content": "Embora não fosse muito claro o que Xue Baochai trazia……"
+        },
+        {
+            "id": 99,
+            "content": "Ela também entrou na cortina a segurar algo."
+        },
+        {
+            "id": 100,
+            "model": "가정",
+            "content": "……Xue Baochai da família Xue. Resultado da avaliação……"
+        },
+        {
+            "id": 101,
+            "content": "Uma figura mais serena do que o esperado abriu a cortina, e olhámos para ela e os seus subordinados."
+        },
+        {
+            "id": 102,
+            "content": "Ao mesmo tempo Baochai também olhou na nossa direção — ou mais precisamente, na direção de Hong Lu……"
+        },
+        {
+            "id": 103,
+            "model": "설보차",
+            "content": "Uau! Baoyu. Estavas a olhar para mim?"
+        },
+        {
+            "id": 104,
+            "content": "Acenou com alegria."
+        },
+        {
+            "id": 105,
+            "model": "가정",
+            "content": "……Aprovada."
+        },
+        {
+            "id": 106,
+            "content": "A plataforma sob os seus pés não se moveu."
+        },
+        {
+            "id": 107,
+            "model": "이상",
+            "content": "De facto não queria testemunhar o rosto com quem brevemente me ligara a cair no abismo……"
+        },
+        {
+            "id": 108,
+            "model": "이상",
+            "content": "É de facto uma sorte."
+        },
+        {
+            "id": 109,
+            "model": "가정",
+            "content": "……Décima sétima participante, Jia Xichun da família Jia."
+        },
+        {
+            "id": 110,
+            "model": "단테",
+            "content": "<……!>"
+        },
+        {
+            "id": 111,
+            "model": "싱클레어",
+            "content": "……Parece que chegou a vez da Srta. Xichun."
+        },
+        {
+            "id": 112,
+            "content": "Sem ninguém a acompanhá-la, Xichun subiu ao palco lentamente, sozinha."
+        },
+        {
+            "id": 113,
+            "content": "O que tinha na mão era uma garrafa de cabaça selada."
+        },
+        {
+            "id": 114,
+            "model": "홍루",
+            "content": "Parece que finalmente a conseguiu obter."
+        },
+        {
+            "id": 115,
+            "model": "단테",
+            "content": "<É aquela……a água do rio que vi nas memórias de Dom Quixote……?>"
+        },
+        {
+            "id": 116,
+            "model": "오티스",
+            "content": "……Impossível. Ela encontrou o Lethe?"
+        },
+        {
+            "id": 117,
+            "model": "파우스트",
+            "content": "A probabilidade de realmente chegar lá é muito baixa."
+        },
+        {
+            "id": 118,
+            "model": "파우스트",
+            "content": "Claro, não nego a possibilidade de ela ter conseguido chegar àquele rio superando probabilidades ínfimas……no entanto, com as capacidades que possuem, a dificuldade de alcançar uma das fontes mais profundas num tempo tão curto é algo que mesmo Faust dificilmente consegue imaginar."
+        },
+        {
+            "id": 119,
+            "model": "파우스트",
+            "content": "Talvez através de algum método, tenha conseguido recolher a parte que se filtrou ou condensou em orvalho."
+        },
+        {
+            "id": 120,
+            "model": "돈키호테",
+            "content": "Mm. Mas a água daquele rio devia apenas enterrar as memórias fundo e apagá-las……não será que isso tem relação com a imortalidade?"
+        },
+        {
+            "id": 121,
+            "model": "파우스트",
+            "content": "Sim, provavelmente tem uma relação estreita com a imortalidade espiritual que procuram."
+        },
+        {
+            "id": 122,
+            "model": "파우스트",
+            "content": "Como são muito poucas as pessoas que conhecem esta informação, se o que está na garrafa for eficaz, Faust acredita que a probabilidade de ela passar será muito alta."
+        },
+        {
+            "id": 123,
+            "model": "가정",
+            "content": "……Jia Xichun da família Jia. Aprovada."
+        },
+        {
+            "id": 124,
+            "model": "가원춘",
+            "content": "Que coisa preciosa obtiveste. Para conseguir isto com a tua facção, o esforço comum não seria suficiente."
+        },
+        {
+            "id": 125,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……Obrigada, irmã Yuanchun."
+        },
+        {
+            "id": 126,
+            "content": "Tal como Faust previa, os três avaliadores pareciam muito satisfeitos com a água do rio que Jia Xichun trouxera."
+        }
+    ]
+}

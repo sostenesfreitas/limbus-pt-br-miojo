@@ -1,0 +1,205 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor do Anelar",
+            "model": "싱클레어",
+            "content": "I don't see..."
+        },
+        {
+            "id": 1,
+            "model": "싱클레어",
+            "content": "... anyone in here."
+        },
+        {
+            "id": 2,
+            "model": "9장소드다침",
+            "teller": "Rádio",
+            "content": "Conforme o plano de cada equipe, entramos na teia em segurança. A partir de agora, não negligenciem a vigilância dos arredores."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "Is everyone... okay?"
+        },
+        {
+            "id": 4,
+            "model": "알리사",
+            "content": "......."
+        },
+        {
+            "id": 5,
+            "model": "알리사",
+            "content": "Bem que não estou. Segundo o médico, por alguns meses até a vida cotidiana vai ser difícil."
+        },
+        {
+            "id": 6,
+            "model": "호엔하임2",
+            "content": "Eu já achava que poderia observar com os meus próprios olhos o milagre excepcional de uma licença médica remunerada, e olha que você chuta essa oportunidade."
+        },
+        {
+            "id": 7,
+            "model": "호엔하임2",
+            "content": "Sendo sincero quanto ao que sinto... estou desconfiado de que você de fato enlouqueceu de vez."
+        },
+        {
+            "id": 8,
+            "model": "알리사",
+            "content": "Que eu cometi uma loucura, é verdade, mas eu ainda não enlouqueci de vez."
+        },
+        {
+            "id": 9,
+            "model": "알리사",
+            "content": "Pelo contrário, se eu não pudesse ter vindo até aqui, é que eu teria enlouquecido."
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "...O que aconteceu com o senhor Marton?"
+        },
+        {
+            "id": 11,
+            "model": "9장소드다침",
+            "teller": "Rádio",
+            "content": "...O corpo nós recolhemos."
+        },
+        {
+            "id": 12,
+            "model": "호엔하임2",
+            "content": "A sede não deve ter se mudado para o 14º Distrito nesse meio-tempo..."
+        },
+        {
+            "id": 13,
+            "model": "호엔하임2",
+            "content": "De um modo nada típico da Limbus Company, vocês pretendem realizar um funeral?"
+        },
+        {
+            "id": 14,
+            "model": "9장소드다침",
+            "teller": "Rádio",
+            "content": "...Se os dois voltarem vivos, talvez seja o caso."
+        },
+        {
+            "id": 15,
+            "content": "Pouco antes, um instante antes de entrar pela porta dos fundos."
+        },
+        {
+            "id": 16,
+            "place": "Sala de Controle do Portal da Limbus Company, há pouco",
+            "model": "파우스트",
+            "content": "A disposição do pessoal está fixada com isto. Tenham cuidado para não errar a ordem."
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "...É muito inquietante. Não é pouca demais a gente que vai acompanhar o Gerente?"
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "content": "Há de dar certo. Pois há o novo poder que o senhor Dante despertou."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Isso mesmo. O tempo todo em que os figurões se reuniam e organizavam tudo, o Dante treinou pra caramba~ O trunfo secreto e aquilo de nos teletransportar de uma vez."
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "content": "\"Teleportation\"... Hm... Indeed."
+        },
+        {
+            "id": 21,
+            "content": "Faust respondeu com uma voz que trazia implícito que aquilo era totalmente diferente de um teletransporte, mas que ela não faria questão de dizer mais nada."
+        },
+        {
+            "id": 22,
+            "model": "오티스",
+            "content": "......."
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Antes de começar a operação, sinto que é desajeitado este jeito de trocarmos despedidas uns com os outros..."
+        },
+        {
+            "id": 24,
+            "model": "홍루",
+            "content": "Eu desejo que todos possamos nos reencontrar sãos e salvos."
+        },
+        {
+            "id": 25,
+            "model": "그레고르",
+            "content": "Eita, senhora Hong Lu, uma fala dessas, soltada um passo antes de entrar no campo de batalha, acaba é trazendo o efeito contrário."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Antes diga, sabe. 'Que é que poderia acontecer~'."
+        },
+        {
+            "id": 27,
+            "model": "그레고르",
+            "content": "Yeah, that's more like it."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "...Não dá no mesmo?"
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "......."
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "Well, it's time. I'll go on ahead."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Uhh—>"
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<Hey, Sinclair...!>"
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Yeah?"
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<As coisas que aconteceram... simplesmente...>"
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<simplesmente... aceite...>"
+        },
+        {
+            "id": 36,
+            "content": "Sinclair hesitou por um instante onde estava, e então..."
+        },
+        {
+            "id": 37,
+            "content": "... gave a quiet smile."
+        },
+        {
+            "id": 38,
+            "model": "싱클레어",
+            "content": "Okay, I will."
+        },
+        {
+            "id": 39,
+            "model": "료슈",
+            "content": "......."
+        }
+    ]
+}

@@ -1,0 +1,390 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Bloody Mary Assombrada",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Tzzzt... zzzt..."
+        },
+        {
+            "id": 1,
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Parabéns, corajosos exploradores. Vocês desvendaram todos os segredos do reino."
+        },
+        {
+            "id": 2,
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Desejando que, mesmo quando encararem o medo lá fora, vocês sempre o superem com coragem..."
+        },
+        {
+            "id": 3,
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Em seguida, apresentaremos os Sanguinários da Bloody Mary Assombrada, que conduzirão a 'Arrepiante Hora da Foto com os Sanguinários'."
+        },
+        {
+            "id": 4,
+            "model": "이스마엘",
+            "content": "A narração se interrompeu. Bom, os Sanguinários a apresentar, a gente já liquidou todos."
+        },
+        {
+            "id": 5,
+            "model": "료슈",
+            "content": "Ele poderia T.N.C."
+        },
+        {
+            "id": 6,
+            "model": "싱클레어",
+            "content": "... ela disse \"Ele poderia trazer sua natural clemência\""
+        },
+        {
+            "id": 7,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Que tristeza — as pistas sobre o segredo do reino foram todas eliminadas pelos hóspedes que passaram antes."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Desta vez, além da qualidade do som, a voz também não parece ter mudado?>"
+        },
+        {
+            "id": 9,
+            "model": "돈키호테",
+            "content": "... 'Tis the voice of that Sansón."
+        },
+        {
+            "id": 10,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Os atores Sanguinários, que assustavam vocês de repente, também desapareceram todos."
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "...Aqueles malfeitores, nós todos os punimos."
+        },
+        {
+            "id": 12,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Até a pessoa encarregada da narração..."
+        },
+        {
+            "id": 13,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Pelo visto, mais do que a hora da foto, vai ser preciso uma explicação sobre o segredo deste reino."
+        },
+        {
+            "id": 14,
+            "content": "A voz para além do alto-falante começou a emendar as palavras num tom um tanto animado... como quem previa a situação atual, ou como quem nutria alguma expectativa em relação a ela."
+        },
+        {
+            "id": 15,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "...O rei viveu sozinho, por muito tempo, dentro de um castelo imenso."
+        },
+        {
+            "id": 16,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Viver num lugar onde não há ninguém não há de ter sido coisa fácil."
+        },
+        {
+            "id": 17,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Manhãs solitárias, noites silenciosas. O coração do rei estava repleto de vazio, sem que faltasse um só dia."
+        },
+        {
+            "id": 18,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "E assim o rei, de tão solitário, passou a desejar a existência de uma família."
+        },
+        {
+            "id": 19,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Desperately. Oh, so desperately."
+        },
+        {
+            "id": 20,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "E então o rei, conforme o seu desejo, começou a criar uma família ligada pelo sangue... para estar junto a vida toda."
+        },
+        {
+            "id": 21,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "O rei deu a toda a família um amor sem reservas. E então o castelo gélido, sem que se notasse, tornou-se o lar de todos, transbordante de risos."
+        },
+        {
+            "id": 22,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Mas será que a felicidade não consegue durar muito?"
+        },
+        {
+            "id": 23,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Num certo dia, enquanto a felicidade prosseguia, um cavaleiro veio fazer uma visita, vindo de um reino distante."
+        },
+        {
+            "id": 24,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "O cavaleiro era alguém que viera viajando por todos os cantos de fora do castelo, alguém que trazia em si centenas de aventuras e milhares de histórias."
+        },
+        {
+            "id": 25,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "O rei, que passara a vida toda apenas dentro do castelo, pediu ao cavaleiro que lhe contasse histórias."
+        },
+        {
+            "id": 26,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "O cavaleiro não tinha motivo para recusar. O cavaleiro disse: \"O mundo que eu vi, as aventuras que eu vivi — tudo isso eu hei de contar ao rei!\""
+        },
+        {
+            "id": 27,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Logo o castelo se encheu de empolgantes histórias de aventura que faziam o coração do rei bater. Num dia, uma navegação que partira atravessando ondas bravias; noutro dia, o amor pungente de algumas pessoas; noutro dia ainda, uma luta de vida ou morte contra um monstro... as histórias prosseguiam sem conhecer fim."
+        },
+        {
+            "id": 28,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "O rei, que escutava as histórias do cavaleiro varando dias e noites a fio, num certo dia acabou se dando conta de uma verdade importante."
+        },
+        {
+            "id": 29,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "De que, só com a família com quem partilhava o sangue... só com a felicidade dentro do castelo, o seu vazio não podia ser preenchido por completo."
+        },
+        {
+            "id": 30,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "E assim o rei começou a preencher a sua parte vazia com as histórias de aventura do cavaleiro. E, com isso, o amor que se dirigia apenas à família foi, aos poucos, sendo cultivado em direção à aventura, ao cavaleiro, e ao lado de fora do castelo."
+        },
+        {
+            "id": 31,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "A família pensou que aquilo não duraria muito. Considerou que ele apenas havia mergulhado num sonho passageiro, calçando um sapato surrado e empunhando uma lança de ferro."
+        },
+        {
+            "id": 32,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "E assim a família esperou. Que o rei, o criador que lhes legara o vazio, voltasse a amar apenas a eles."
+        },
+        {
+            "id": 33,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Mas as palavras do rei que ouviram ao fim da espera não foram nem um pouco doces para a família."
+        },
+        {
+            "id": 34,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "\"Vamos derrubar este castelo e nos tornar amigos de todas as pessoas de fora dele!\" — foi o que o rei bradou."
+        },
+        {
+            "id": 35,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "A família ficou com medo. Pois derrubar o castelo significava destruir o lar deles, aconchegante e que seria eterno."
+        },
+        {
+            "id": 36,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Mas a família, que respeitava a vontade do rei e o amava, pegou as pás, toda ela, e, de um só coração, começou a destruir o castelo."
+        },
+        {
+            "id": 37,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Porém... como as pessoas de fora do castelo viviam uma vida tão diferente da das pessoas de dentro do castelo..."
+        },
+        {
+            "id": 38,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "...a família do rei teve de abrir mão de muita coisa."
+        },
+        {
+            "id": 39,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Happiness. Joy. Ecstasy. Pleasure. Hope. Anticipation..."
+        },
+        {
+            "id": 40,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Somente abrindo mão de tudo isso... é que eles puderam se tornar amigos uns dos outros."
+        },
+        {
+            "id": 41,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Portanto, o rei proibiu a família de ser feliz."
+        },
+        {
+            "id": 42,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Ele acreditou que, só de observar as pessoas felizes de fora do castelo, a família poderia receber em partilha aquela felicidade e ser feliz junto."
+        },
+        {
+            "id": 43,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Ele acreditou que a felicidade deles, um dia, poderia se tornar a nossa felicidade."
+        },
+        {
+            "id": 44,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "E assim, todo esforço nosso para sermos felizes se tornou pecado."
+        },
+        {
+            "id": 45,
+            "model": "산손",
+            "teller": "Narrador",
+            "title": "La Manchaland",
+            "content": "Por que será que a nossa felicidade tem de ser objeto de arrependimento?"
+        },
+        {
+            "id": 46,
+            "model": "싱클레어",
+            "content": "Família... afinal, que história ele queria contar?"
+        },
+        {
+            "id": 47,
+            "model": "료슈",
+            "content": "Uma baboseira arrastada e prolixa."
+        },
+        {
+            "id": 48,
+            "model": "히스클리프",
+            "content": "…….\n"
+        },
+        {
+            "id": 49,
+            "model": "홍루",
+            "content": "Que história interessante. Será que aquela família, de fato, chegou a ter algo como felicidade?"
+        },
+        {
+            "id": 50,
+            "content": "Hong Lu falou de modo comum, como quem não se importava muito, mas, talvez pela história ter sido bem pesada, ninguém conseguiu abrir a boca com facilidade."
+        },
+        {
+            "id": 51,
+            "model": "홍루",
+            "content": "Ah, dá pra ver a placa de saída ali. Pelo visto esta atração se encerra com isto."
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<...É, é verdade. Parece que tem algo escrito ali...>"
+        },
+        {
+            "id": 53,
+            "content": "Na parede via-se um aviso escrito em letras grossas."
+        },
+        {
+            "id": 54,
+            "content": "'Todos os Sanguinários têm, obrigatoriamente, uma vez por semana, um horário de entrevista com o Padre.'"
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Consultation session..."
+        },
+        {
+            "id": 56,
+            "model": "이상",
+            "content": "Sobre o que será essa entrevista..."
+        },
+        {
+            "id": 57,
+            "model": "로쟈",
+            "content": "Hmm... anything, I guess? Or maybe it's like... a confession?"
+        },
+        {
+            "id": 58,
+            "model": "그레고르",
+            "content": "Bom, ainda assim, antigamente..."
+        },
+        {
+            "id": 59,
+            "model": "그레고르",
+            "content": "...pelo visto a La Manchaland também se esforçou, à sua maneira..."
+        },
+        {
+            "id": 60,
+            "model": "이상",
+            "content": "Talvez ela tenha de fato sonhado com uma coexistência..."
+        },
+        {
+            "id": 61,
+            "model": "돈키호테",
+            "content": "... Nay."
+        },
+        {
+            "id": 62,
+            "model": "돈키호테",
+            "content": "Nothing but wicked trickery, all."
+        }
+    ]
+}

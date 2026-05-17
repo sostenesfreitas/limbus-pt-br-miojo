@@ -1,0 +1,828 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Terraço da Teia",
+            "content": "A soft singing echoes in Ryōshū's ears."
+        },
+        {
+            "id": 1,
+            "model": "료슈딸2",
+            "teller": "???",
+            "title": "???",
+            "content": "<i><color=#5c53e7>Quando será que a mamãe volta? Será que ela vem hoje? Amanhã ela vem mesmo?</i></color>"
+        },
+        {
+            "id": 2,
+            "model": "료슈딸2",
+            "teller": "???",
+            "title": "???",
+            "content": "<i><color=#5c53e7>Mamãe, eu queria muito cumprir a promessa.</i></color>"
+        },
+        {
+            "id": 3,
+            "model": "료슈딸2",
+            "teller": "???",
+            "title": "???",
+            "content": "<i><color=#5c53e7>Esperando quietinha...</i></color>"
+        },
+        {
+            "id": 4,
+            "model": "료슈9장다침",
+            "content": "... Shut up."
+        },
+        {
+            "id": 5,
+            "model": "료슈딸2",
+            "teller": "???",
+            "title": "???",
+            "content": "<i><color=#5c53e7>Será que eu não tinha paciência?</i></color>"
+        },
+        {
+            "id": 6,
+            "model": "료슈딸2",
+            "teller": "???",
+            "title": "???",
+            "content": "<i><color=#5c53e7>Será que a mamãe foi embora porque eu não consegui esperar aquele instante?</i></color>"
+        },
+        {
+            "id": 7,
+            "model": "료슈9장다침",
+            "content": "Stop talking..."
+        },
+        {
+            "id": 8,
+            "content": "Misturam-se palavras de que não se sabe quem as diz, nem a quem são ditas."
+        },
+        {
+            "id": 9,
+            "model": "아라야정장2",
+            "content": "A sua filha te abandonou para sempre!"
+        },
+        {
+            "id": 10,
+            "model": "아라야정장2",
+            "content": "Just as you did!"
+        },
+        {
+            "id": 11,
+            "place": -1,
+            "model": "료슈9장다침",
+            "content": "A Araya vai se esconder de novo."
+        },
+        {
+            "id": 12,
+            "model": "료슈9장다침",
+            "content": "E então eu vou de novo vaguear à procura dela."
+        },
+        {
+            "id": 13,
+            "model": "료슈9장다침",
+            "content": "Por muito, muito tempo, não conseguirei encontrá-la."
+        },
+        {
+            "id": 14,
+            "model": "료슈9장다침",
+            "content": "Por isso eu não posso perdê-la. Esta é a última chance."
+        },
+        {
+            "id": 15,
+            "model": "료슈9장다침",
+            "content": "A Araya, que gostava de olhar as estrelas, talvez ainda esteja escondida dentro daquela paisagem noturna que reluz."
+        },
+        {
+            "id": 16,
+            "model": "료슈딸2",
+            "content": "Tá, tudo bem! Eu vou ficar esperando, mamãe."
+        },
+        {
+            "id": 17,
+            "model": "료슈9장다침",
+            "content": "Este lugar é a teia."
+        },
+        {
+            "id": 18,
+            "model": "료슈9장다침",
+            "content": "Um lugar de onde não se escapa e onde não se alcança o céu — apenas se flutua."
+        },
+        {
+            "id": 19,
+            "model": "료슈9장다침",
+            "content": "Aquele espaço estreito e pequeno aonde eu não fui."
+        },
+        {
+            "id": 20,
+            "place": "Terraço da Teia",
+            "model": "료슈9장다침",
+            "content": "Left...? Never!"
+        },
+        {
+            "id": 21,
+            "content": "Bradando como num grito de desespero, Ryoshu brandiu a espada mais uma vez, e..."
+        },
+        {
+            "id": 22,
+            "model": "아라야정장2",
+            "content": "……."
+        },
+        {
+            "id": 23,
+            "content": "Aquele sujeito não desviou. Como se quisesse confiar a Ryoshu todo o seu fim."
+        },
+        {
+            "id": 24,
+            "model": "아라야정장2",
+            "content": "Desta vez, que memória... você fez voar?"
+        },
+        {
+            "id": 25,
+            "model": "료슈9장다침",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "content": "E, enfim, o Pai do Mindinho tomba ao chão."
+        },
+        {
+            "id": 27,
+            "content": "O chão da teia era frio e duro."
+        },
+        {
+            "id": 28,
+            "place": -1,
+            "model": "과거료슈3",
+            "content": "Fique dentro desta caixa só por um instante."
+        },
+        {
+            "id": 29,
+            "model": "과거료슈3",
+            "content": "Entre, e... feche os olhos e conte os números."
+        },
+        {
+            "id": 30,
+            "model": "과거료슈3",
+            "content": "It'll be..."
+        },
+        {
+            "id": 31,
+            "model": "과거료슈3",
+            "content": "É silencioso e escuro, mas... tudo passa depressa."
+        },
+        {
+            "id": 32,
+            "model": "료슈딸2",
+            "content": "How do you know?"
+        },
+        {
+            "id": 33,
+            "model": "과거료슈3",
+            "content": "A mamãe... já se escondeu um monte de vezes."
+        },
+        {
+            "id": 34,
+            "model": "과거료슈3",
+            "content": "Por isso, fique esperando, Araya."
+        },
+        {
+            "id": 35,
+            "model": "과거료슈3",
+            "content": "Pois eu vou voltar, sem falta."
+        },
+        {
+            "id": 36,
+            "model": "료슈딸2",
+            "content": "Tá, tudo bem! Eu vou ficar esperando, mamãe."
+        },
+        {
+            "id": 37,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "No."
+        },
+        {
+            "id": 38,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "She will never come back."
+        },
+        {
+            "id": 39,
+            "model": "료슈딸2",
+            "content": "Once Mommy comes back..."
+        },
+        {
+            "id": 40,
+            "model": "료슈딸2",
+            "content": "A gente vai viajar para um lugar onde dá pra ver bem as estrelas."
+        },
+        {
+            "id": 41,
+            "model": "료슈딸2",
+            "content": "A gente vai fazer marmita também... e cortar as salsichas em formato de polvo."
+        },
+        {
+            "id": 42,
+            "model": "료슈딸2",
+            "content": "Quando eu terminar de esperar tudo, a mamãe vai vir e me elogiar, dizendo que eu fui bem."
+        },
+        {
+            "id": 43,
+            "model": "료슈딸2",
+            "content": "She'll say, \"I knew Araya'd be good at hiding.\""
+        },
+        {
+            "id": 44,
+            "model": "료슈딸2",
+            "content": "E, quando passar mais tempo..."
+        },
+        {
+            "id": 45,
+            "model": "료슈딸2",
+            "content": "...eu vou pôr uma flor do tamanho de uma melancia bem madura... e fazer a formatura."
+        },
+        {
+            "id": 46,
+            "model": "료슈딸2",
+            "content": "Aí eu vou tirar essa flor e dar pra mamãe."
+        },
+        {
+            "id": 47,
+            "model": "료슈딸2",
+            "content": "A hortênsia vai ficar bem na mamãe. Porque ela se parece comigo."
+        },
+        {
+            "id": 48,
+            "model": "료슈딸2",
+            "content": "E... eu vou aprender mais letras também."
+        },
+        {
+            "id": 49,
+            "model": "료슈딸2",
+            "content": "Vou ensinar um monte de gírias novas pra mamãe."
+        },
+        {
+            "id": 50,
+            "model": "료슈딸2",
+            "content": "E, e ainda..."
+        },
+        {
+            "id": 51,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "No."
+        },
+        {
+            "id": 52,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Those days don't come, Araya."
+        },
+        {
+            "id": 53,
+            "model": "료슈딸2",
+            "content": "...num terraço de verdade, com vento, a gente vai comer melancia geladinha também."
+        },
+        {
+            "id": 54,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Mom forgot all about me."
+        },
+        {
+            "id": 55,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "The door never opens."
+        },
+        {
+            "id": 56,
+            "model": "료슈딸2",
+            "content": "……."
+        },
+        {
+            "id": 57,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Naquele lugar não há calendário, então eu não sei quantos dias se passaram."
+        },
+        {
+            "id": 58,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Como também não há relógio, eu não sei sequer se agora é dia ou noite."
+        },
+        {
+            "id": 59,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "……."
+        },
+        {
+            "id": 60,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "I see it now."
+        },
+        {
+            "id": 61,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Eu fui deixada para trás, e a mamãe partiu."
+        },
+        {
+            "id": 62,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Today never ends. Tomorrow never comes."
+        },
+        {
+            "id": 63,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Once that certainty settled in..."
+        },
+        {
+            "id": 64,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Quando toda a escuridão me pareceu minha."
+        },
+        {
+            "id": 65,
+            "place": "Quarto de Ryoshu e Araya, um certo dia",
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Eu mesma abri a porta."
+        },
+        {
+            "id": 66,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Se houvesse alguém esperando diante da porta,"
+        },
+        {
+            "id": 67,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "...por direito teria de ser ela."
+        },
+        {
+            "id": 68,
+            "model": "검지아비",
+            "content": "Oh, dear..."
+        },
+        {
+            "id": 69,
+            "model": "검지아비",
+            "content": "Você se tornou um entrelaçamento temporal, Araya."
+        },
+        {
+            "id": 70,
+            "model": "검지아비",
+            "content": "Na minha opinião, sabe, pelo visto a minha filha entrou neste cofre um número incontável de vezes."
+        },
+        {
+            "id": 71,
+            "model": "검지아비",
+            "content": "Foi algo possível porque o sangue daquela criança... sofre uma influência especial do fluxo do tempo."
+        },
+        {
+            "id": 72,
+            "model": "검지아비",
+            "content": "Você também... nasceu herdando o mesmo sangue de Yoshihide, por causa dos altos oficiais do Polegar, que desejavam alguém apto ao Arayashiki, mas..."
+        },
+        {
+            "id": 73,
+            "model": "검지아비",
+            "content": "...atingir um índice de aptidão como o da nossa Yoshihide há de ser impossível."
+        },
+        {
+            "id": 74,
+            "model": "검지아비",
+            "content": "O sangue, é claro, importa. Mas o sangue é apenas a condição básica. O que de fato importa é o pensamento sobre o tempo."
+        },
+        {
+            "id": 75,
+            "model": "검지아비",
+            "content": "O senso, o equilíbrio e a perspectiva próprios e exclusivos daquela criança, com que ela percebe e contempla o tempo... não são coisas que se possam imitar."
+        },
+        {
+            "id": 76,
+            "model": "검지아비",
+            "content": "Ainda assim, por ser do mesmo sangue, pelo visto você foi capaz de suportar e de ler o tempo, mas..."
+        },
+        {
+            "id": 77,
+            "model": "검지아비",
+            "content": "...e por isso, ao contrário, embaralhou-se. O tempo que você tem de aguentar dentro deste cofre."
+        },
+        {
+            "id": 78,
+            "model": "료슈딸2",
+            "content": "……."
+        },
+        {
+            "id": 79,
+            "model": "검지아비",
+            "content": "Eu não sei com que emoção você abriu aquela porta e saiu, mas..."
+        },
+        {
+            "id": 80,
+            "model": "검지아비",
+            "content": "...nós temos previsto reencontrar, sem falta, aquela criança, a Yoshihide."
+        },
+        {
+            "id": 81,
+            "model": "검지아비",
+            "content": "Pois, enquanto aquela criança não estiver concluída, a teia... permanece firme."
+        },
+        {
+            "id": 82,
+            "model": "검지아비",
+            "content": "Por acaso, abriu-se um lugar na teia. Com a sua aptidão, o posto vago de Estrela Dihui também..."
+        },
+        {
+            "id": 83,
+            "place": -1,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "When I opened my hands..."
+        },
+        {
+            "id": 84,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "... I saw wrinkled old fingers..."
+        },
+        {
+            "id": 85,
+            "model": "소지아비",
+            "teller": "???",
+            "content": "Eu vi o fio."
+        },
+        {
+            "id": 86,
+            "place": "Terraço da Teia, um certo dia",
+            "model": "료슈딸2",
+            "content": "Is this my name?"
+        },
+        {
+            "id": 87,
+            "model": "과거료슈3",
+            "content": "Isso. Lê-se 'Araya'."
+        },
+        {
+            "id": 88,
+            "model": "료슈딸2",
+            "content": "It's too hard to read..."
+        },
+        {
+            "id": 89,
+            "model": "료슈딸2",
+            "content": "E o nome da mamãe, como é que se escreve?"
+        },
+        {
+            "id": 90,
+            "place": "Quarto de Ryoshu e Araya, um certo dia",
+            "model": "료슈딸2",
+            "content": "…!"
+        },
+        {
+            "id": 91,
+            "model": "검지아비",
+            "content": "Hmm..."
+        },
+        {
+            "id": 92,
+            "model": "검지아비",
+            "content": "Pelo visto você está sofrendo efeitos colaterais."
+        },
+        {
+            "id": 93,
+            "model": "검지아비",
+            "content": "Como os tempos se sobrepuseram de modo instável, não há como não ser assim pela vida toda."
+        },
+        {
+            "id": 94,
+            "model": "소지아비",
+            "content": "Todos estes fios, que só doem, se dirigem a você."
+        },
+        {
+            "id": 95,
+            "model": "검지아비",
+            "content": "Closing your eyes..."
+        },
+        {
+            "id": 96,
+            "model": "검지아비",
+            "content": "Não há como impedir aquelas cenas que se precipitam sobre você."
+        },
+        {
+            "id": 97,
+            "model": "검지아비",
+            "content": "Pois isso é o tempo. Não há como escapar dele."
+        },
+        {
+            "id": 98,
+            "model": "소지아비",
+            "content": "Então, se eu procurar você, para quem todos estes fios se dirigem..."
+        },
+        {
+            "id": 99,
+            "model": "료슈딸2",
+            "content": "Se eu me tornar um Pai... eu consigo te ver?"
+        },
+        {
+            "id": 100,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "Ainda assim, eu não consigo parar de esperar."
+        },
+        {
+            "id": 101,
+            "model": "검지아비",
+            "content": "Sim, a filha vai voltar para casa, sem falta."
+        },
+        {
+            "id": 102,
+            "place": "Quarto de Ryoshu e Araya, no passado",
+            "model": "료슈딸2",
+            "content": "Mommy, I learned something at school today..."
+        },
+        {
+            "id": 103,
+            "model": "료슈딸2",
+            "content": "Olha, dizem que não se deve fumar cigarro na frente de uma criança."
+        },
+        {
+            "id": 104,
+            "model": "과거료슈3",
+            "content": "... Says who?"
+        },
+        {
+            "id": 105,
+            "model": "료슈딸2",
+            "content": "The teacher."
+        },
+        {
+            "id": 106,
+            "model": "료슈딸2",
+            "content": "Porque uma criança como eu ainda não cresceu de altura e precisa crescer saudável, mas..."
+        },
+        {
+            "id": 107,
+            "model": "료슈딸2",
+            "content": "...dizem que, com a fumaça do cigarro, isso não dá."
+        },
+        {
+            "id": 108,
+            "model": "과거료슈3",
+            "content": "Why not?"
+        },
+        {
+            "id": 109,
+            "model": "료슈딸2",
+            "content": "Eu sou uma criança em fase de crescimento. Dizem que, se surgirem células ruins na fase de crescimento... as coisas ruins se multiplicam mais depressa."
+        },
+        {
+            "id": 110,
+            "model": "과거료슈3",
+            "content": "'Se multiplicam mais depressa'... que atrevido, esse aí."
+        },
+        {
+            "id": 111,
+            "model": "료슈딸2",
+            "content": "Mamãe, que jeito de falar é esse com a professora...!"
+        },
+        {
+            "id": 112,
+            "place": -1,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "Mas, a partir daquele momento, ela não tornou a levar o cigarro à boca."
+        },
+        {
+            "id": 113,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "E eu também comecei a fumar o mesmo cigarro."
+        },
+        {
+            "id": 114,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "Cada vez que eu o fumava, eu tinha a sensação de estar respirando junto com ela."
+        },
+        {
+            "id": 115,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "*puff*"
+        },
+        {
+            "id": 116,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "O cheiro dela, que os anos formaram, agora exala de mim."
+        },
+        {
+            "id": 117,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "Tal como a fumaça, a minha consciência também flui, e..."
+        },
+        {
+            "id": 118,
+            "model": "소지아비",
+            "teller": "Araya",
+            "content": "...me deposita no tempo que eu menos quero ver."
+        },
+        {
+            "id": 119,
+            "model": "료슈딸2",
+            "content": "Mamãe, aonde você vai?"
+        },
+        {
+            "id": 120,
+            "model": "료슈딸2",
+            "content": "Não me deixe sozinha. Aonde você vai?"
+        },
+        {
+            "id": 121,
+            "model": "료슈딸2",
+            "content": "Where did you go?!"
+        },
+        {
+            "id": 122,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 123,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 124,
+            "model": "소지아비",
+            "content": "And..."
+        },
+        {
+            "id": 125,
+            "place": "Laboratório da Equipe de Pesquisa da LCE",
+            "model": "료슈",
+            "content": "You..."
+        },
+        {
+            "id": 126,
+            "model": "료슈",
+            "content": "...Vai levar isso... e rastejar de volta para a teia?"
+        },
+        {
+            "id": 127,
+            "model": "소지아비",
+            "content": "Tornou-se evidente que ela não me reconheceu em nenhum só instante, e..."
+        },
+        {
+            "id": 128,
+            "model": "소지아비",
+            "content": "...de dentro de mim veio o som de uma época em que os fios se emaranham, agitando-se."
+        },
+        {
+            "id": 129,
+            "place": "Terraço da Teia",
+            "model": "아라야정장",
+            "teller": "Araya",
+            "content": "Mommy..."
+        },
+        {
+            "id": 130,
+            "model": "아라야정장",
+            "teller": "Araya",
+            "content": "Posso te chamar... de mãe?"
+        },
+        {
+            "id": 131,
+            "model": "료슈9장다침",
+            "content": "……."
+        },
+        {
+            "id": 132,
+            "content": "A criança da memória — que abocanhava petiscos de boca cheia, que estudava as letras, que cantava uma canção de letra indistinta — cresce e cresce e logo se torna o Pai do Mindinho que está diante dos olhos."
+        },
+        {
+            "id": 133,
+            "content": "O último olhar que aquele sujeito dirige não se volta para a Ryoshu diante dele, mas para algum lugar dentro do tempo, e..."
+        },
+        {
+            "id": 134,
+            "model": "료슈9장다침",
+            "content": "Araya..."
+        },
+        {
+            "id": 135,
+            "model": "료슈9장다침",
+            "content": "Araya...!"
+        },
+        {
+            "id": 136,
+            "content": "Do Pai do Mindinho caído, já não se ouve som de canto algum."
+        },
+        {
+            "id": 137,
+            "content": "Ryoshu começa a erguer devagar a própria espada."
+        },
+        {
+            "id": 138,
+            "model": "단테",
+            "content": "<Ryōshū.>"
+        },
+        {
+            "id": 139,
+            "model": "료슈9장다침",
+            "content": "……."
+        },
+        {
+            "id": 140,
+            "content": "Ryoshu, sem responder, olha para si mesma, para baixo."
+        },
+        {
+            "id": 141,
+            "content": "Eu soube o que era que Ryoshu estava olhando."
+        },
+        {
+            "id": 142,
+            "content": "Ryoshu olhava todos os fios que se ligavam a ela, que a constituíam."
+        },
+        {
+            "id": 143,
+            "content": "A nossa corrente, que vinha ligada até agora, também."
+        },
+        {
+            "id": 144,
+            "model": "단테",
+            "content": "<.......>"
+        },
+        {
+            "id": 145,
+            "model": "단테",
+            "content": "<Você pretende cortá-la.>"
+        },
+        {
+            "id": 146,
+            "content": "Ryoshu não conseguiu proteger a Araya."
+        },
+        {
+            "id": 147,
+            "content": "As palavras que ela prometera de dedinho atado tornaram-se mentira, e..."
+        },
+        {
+            "id": 148,
+            "content": "...o fio que estava ligado foi cortado em mil ramos, fio a fio."
+        },
+        {
+            "id": 149,
+            "content": "E por isso, naturalmente, o contrato comigo, com a empresa... acabou perdendo todo o sentido."
+        },
+        {
+            "id": 150,
+            "model": "료슈9장다침",
+            "content": "Relógio. Eu... deixei escapar... até o único fio que eu agarrava."
+        },
+        {
+            "id": 151,
+            "model": "료슈9장다침",
+            "content": "Um motivo para permanecer..."
+        },
+        {
+            "id": 152,
+            "model": "료슈9장다침",
+            "content": "... to stay?"
+        },
+        {
+            "id": 153,
+            "place": -1,
+            "content": "<i>Clang!</i>"
+        },
+        {
+            "id": 154,
+            "content": "Quando Ryoshu corta a corrente, a ligação se rompe, indiferente, como se nunca houvesse estado ligada desde o início."
+        },
+        {
+            "id": 155,
+            "content": "E aquilo foi o começo."
+        },
+        {
+            "id": 156,
+            "content": "Como quem solta um grito, os dias que Ryoshu viveu vão sendo cortados de modo afiado."
+        },
+        {
+            "id": 157,
+            "content": "A memória, formada pelo acúmulo desses dias, também se esvaece."
+        },
+        {
+            "id": 158,
+            "content": "A memória é retalhada, e o tempo solta um grito."
+        }
+    ]
+}

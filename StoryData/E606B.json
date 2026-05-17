@@ -1,0 +1,255 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Fábrica de Relógios da T Corp.",
+            "model": "탐정홍루",
+            "content": "Talvez devêssemos virar a página na nossa linha de pensamentos."
+        },
+        {
+            "id": 1,
+            "model": "탐정홍루",
+            "content": "Que tipo de pessoas, Rodya, você acha que odeiam os ricos?"
+        },
+        {
+            "id": 2,
+            "model": "탐정홍루",
+            "content": "Bem... exceto suas famílias. Se eu for assassinado sob circunstâncias misteriosas, aposto que foi um dos membros da minha família que pediu. Ou Heathcliff, fuhu."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<... Essa piada foi bem pesada.>"
+        },
+        {
+            "id": 4,
+            "model": "탐정로쟈",
+            "content": "O culpado foi direto para o Bumble... mas seus funcionários literalmente não conseguem se mexer rápido o suficiente para terem feito isso. Nenhum deles também se parece com Distorções."
+        },
+        {
+            "id": 5,
+            "model": "탐정료슈",
+            "content": "Sim. Se o culpado tivesse escondido no meio desses lerdos, Relógio perceberia."
+        },
+        {
+            "id": 6,
+            "model": "탐정로쟈",
+            "content": "Então isso limita o culpado a... alguém sem relações com essa fábrica, alguém com pouco tempo. Alguém que tá tretado com os ricos de tempo."
+        },
+        {
+            "id": 7,
+            "model": "탐정홍루",
+            "content": "Ou poderia ser alguém infeliz com o estado dos comércios no Ninho da T Corp."
+        },
+        {
+            "id": 8,
+            "model": "탐정홍루",
+            "content": "Também... enquanto Dante poderia estar certo, que sua habilidade foi concedida por uma Distorção, nada impossibilita a probabilidade dele estar usando uma invenção não registrada."
+        },
+        {
+            "id": 9,
+            "model": "탐정료슈",
+            "content": "Podemos ter mais de um 'culpado', então."
+        },
+        {
+            "id": 10,
+            "model": "탐정로쟈",
+            "content": "Mais de um culpado, em... espera. Eu acho que conheço uma organização que se encaixa exatamente nessa descrição."
+        },
+        {
+            "id": 11,
+            "model": "탐정로쟈",
+            "content": "... Não, sem chance. Eu duvido. Eles nunca mais tomariam ações tão drásticas como essas. Mesmo lá na J Corp...."
+        },
+        {
+            "id": 12,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Uau, que coincidência, não é? Por acaso, eu conheço um grupo de pessoas assim como eles."
+        },
+        {
+            "id": 13,
+            "content": "Algum tempo depois, em um certo beco..."
+        },
+        {
+            "id": 14,
+            "place": "Becos da T Corp.",
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Um grupo de pessoas infelizes com o estado dos comércios no Ninho... ?"
+        },
+        {
+            "id": 15,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Talvez vocês estejam procurando pelos Yurodiviye?"
+        },
+        {
+            "id": 16,
+            "model": "탐정로쟈",
+            "content": "…!"
+        },
+        {
+            "id": 17,
+            "model": "탐정홍루",
+            "content": "Ah, isso soa familiar! O seu amigo não é o fundador dessa organização, Rodya?"
+        },
+        {
+            "id": 18,
+            "content": "Rodya congela no caminho."
+        },
+        {
+            "id": 19,
+            "model": "탐정로쟈",
+            "content": "Os Yurodiviye..."
+        },
+        {
+            "id": 20,
+            "model": "탐정로쟈",
+            "content": "Aqui... ?"
+        },
+        {
+            "id": 21,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Você sabe algo sobre esta organização?"
+        },
+        {
+            "id": 22,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Eu ouvi falar que eles se espalharam pelos Ninhos recentemente. Mas não foi há muito tempo que eles começaram a brotar nas fronteiras da T Corp."
+        },
+        {
+            "id": 23,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Então, funcionários diretos da T Corp., como eu, foram estacionados por todo o Ninho para questionarmos quaisquer indivíduos suspeitos."
+        },
+        {
+            "id": 24,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Eu acho muito incômodo. Ficar em pé, atento aqui, toda essa revista e aguardo... Tão entediante."
+        },
+        {
+            "id": 25,
+            "model": "탐정로쟈",
+            "content": "Então... o que os Yurodiviye tão fazendo por aqui?"
+        },
+        {
+            "id": 26,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Todas as coisas que ladrões mesquinhos fazem. Roubando tempo ou dinheiro."
+        },
+        {
+            "id": 27,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Bem, eu ouvi falar que eles também fazem um serviço beneficente de investigação para pessoas que não têm o tempo e dinheiro para contratarem alguém, e—"
+        },
+        {
+            "id": 28,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Espera, parado bem aí, você! O que você tá procurando agitado desse jeito? É uma busca e apreensão!"
+        },
+        {
+            "id": 29,
+            "model": "T사시민",
+            "teller": "Pedestre",
+            "title": "Distrito 20",
+            "content": "O qu— Ei, eu só tô tentando ficar longe dessa moça com o cigarro e esse olhar arrepiante...!"
+        },
+        {
+            "id": 30,
+            "model": "탐정료슈",
+            "content": "……."
+        },
+        {
+            "id": 31,
+            "model": "탐정로쟈",
+            "content": "... Onde podemos achar eles? Os Yurodiviye."
+        },
+        {
+            "id": 32,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Bem, é até que fácil, na verdade. Vamos ver, eles estão—"
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Hong Lu!!!>"
+        },
+        {
+            "id": 34,
+            "content": "Uma repentina explosão estraçalha Hong Lu em pedaços enquanto ele estava distraído pelo beco..."
+        },
+        {
+            "id": 35,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Falando do diabo... Talvez eu devesse ter ativado seus distintivos mais cedo."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<Ativado nossos distintivos... ?>"
+        },
+        {
+            "id": 37,
+            "model": "탐정로쟈",
+            "content": "Ufa... Um começo explosivo, hein? Boa sorte, Dante..."
+        },
+        {
+            "id": 38,
+            "model": "탐정로쟈",
+            "content": "Vamos trazer ele de volta."
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Entendido. Girando o relógio agora.>"
+        },
+        {
+            "id": 40,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Espera, você consegue trazer ele de volta?"
+        },
+        {
+            "id": 41,
+            "model": "유로지비멤버1",
+            "teller": "Ativista Meticuloso",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Ali! A explosão veio daquela direção!"
+        },
+        {
+            "id": 42,
+            "model": "유로지비멤버2",
+            "teller": "Ativista Agressivo",
+            "title": "Yurodivy do Distrito 20",
+            "content": "Correntinhas desgraçados da T Corp....! Viram aqui pegar suas malditas taxas, em?!"
+        },
+        {
+            "id": 43,
+            "model": "탐정로쟈",
+            "content": "Mmm, sem tempo pra explicar, né? Falaremos disso depois."
+        }
+    ]
+}

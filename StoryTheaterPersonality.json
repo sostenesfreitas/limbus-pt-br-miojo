@@ -1,0 +1,1172 @@
+﻿{
+    "dataList": [
+        {
+            "id": "acheive",
+            "content": "Aquisição"
+        },
+        {
+            "id": "dialog01",
+            "content": "Conversa #1"
+        },
+        {
+            "id": "dialog02",
+            "content": "Conversa #2"
+        },
+        {
+            "id": "dialog03",
+            "content": "Conversa #3"
+        },
+        {
+            "id": "sync_dialog01",
+            "content": "Conversa Pós-Enlace 1"
+        },
+        {
+            "id": "sync_dialog02",
+            "content": "Conversa Pós-Enlace 2"
+        },
+        {
+            "id": "morning_dialog",
+            "content": "Conversa Matinal no Lobby"
+        },
+        {
+            "id": "lunch_dialog",
+            "content": "Conversa Vespertina no Lobby"
+        },
+        {
+            "id": "dinner_dialog",
+            "content": "Conversa Noturna no Lobby"
+        },
+        {
+            "id": "alone_dialog",
+            "content": "Inativo"
+        },
+        {
+            "id": "synchronization",
+            "content": "Enlaçamento"
+        },
+        {
+            "id": "organization",
+            "content": "Envio"
+        },
+        {
+            "id": "success",
+            "content": "Grito de Vitória"
+        },
+        {
+            "id": "ex_success",
+            "content": "Objetivos Extras Cumpridos"
+        },
+        {
+            "id": "failure",
+            "content": "Lamento de Derrota"
+        },
+        {
+            "id": "P10102",
+            "content": "Seven South Section 6: História do Yi Sang"
+        },
+        {
+            "id": "P10103",
+            "content": "Salsu do Pacto da Lâmina: História do Yi Sang"
+        },
+        {
+            "id": "seven_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "seven_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "blade_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "blade_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P10202",
+            "content": "Agente de Limpeza N2 da W Corp.: A história de Faust"
+        },
+        {
+            "id": "P10203",
+            "content": "Remanescente da Lobotomy Corp.: A história de Faust"
+        },
+        {
+            "id": "wcorp_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "wcorp_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "lcorp_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "lcorp_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P10302",
+            "content": "Agente de Limpeza N3 da W Corp.: História da Don Quixote"
+        },
+        {
+            "id": "P10303",
+            "content": "Shi South Section 5 Director: História da Don Quixote"
+        },
+        {
+            "id": "wcorp_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "wcorp_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "shi_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "shi_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10402",
+            "content": "Seven South Section 6: História da Ryōshū"
+        },
+        {
+            "id": "P10403",
+            "content": "Wakashu Kurokumo: História da Ryōshū"
+        },
+        {
+            "id": "seven_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "seven_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "kurokumo_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "kurokumo_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P10502",
+            "content": "Liu Seção 6 - Sul: História do Meursault"
+        },
+        {
+            "id": "P10503",
+            "content": "Agente de Limpeza N2 da W Corp.: História do Meursault"
+        },
+        {
+            "id": "liu_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "liu_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "wcorp_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "wcorp_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10602",
+            "content": "Wakashu Kurokumo: História do Hong Lu"
+        },
+        {
+            "id": "P10603",
+            "content": "Tingtang Boss: História do Hong Lu"
+        },
+        {
+            "id": "kurokumo_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "kurokumo_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "cong_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "cong_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10702",
+            "content": "Shi South Section 5: História do Heathcliff"
+        },
+        {
+            "id": "P10703",
+            "content": "Coelho do 4º Bando da R Corp.: História do Heathcliff"
+        },
+        {
+            "id": "shi_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "shi_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "rcorp_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "rcorp_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P10802",
+            "content": "Rena do 4º Bando da R Corp.: História da Ishmael"
+        },
+        {
+            "id": "P10803",
+            "content": "Shi South Section 5: História da Ishmael"
+        },
+        {
+            "id": "P10804",
+            "content": "LCCB Assistant Manager: História da Ishmael"
+        },
+        {
+            "id": "rcorp_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "rcorp_ishmael_analysis",
+            "content": "Você pode se sentir sufocado ao ver tantos Pecadores problemáticos, mas não se preocupe; esta Pecadora é uma das poucas que consegue lidar com suas tarefas sem muitas reclamações. É provável que ela tome decisões razoáveis, então é uma boa ideia procurá-la para conversar caso esteja em busca de bons conselhos. No entanto, nunca se esqueça: esta Pecadora sobreviveu a uma viagem absurda num oceano vasto e distante. Embora ela tenha bastante paciência, se sua relação com ela começar a desandar, será difícil reconquistar sua confiança."
+        },
+        {
+            "id": "shi_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "shi_ishmael_analysis",
+            "content": "Você pode se sentir sufocado ao ver tantos Pecadores problemáticos, mas não se preocupe; esta Pecadora é uma das poucas que consegue lidar com suas tarefas sem muitas reclamações. É provável que ela tome decisões razoáveis, então é uma boa ideia procurá-la para conversar caso esteja em busca de bons conselhos. No entanto, nunca se esqueça: esta Pecadora sobreviveu a uma viagem absurda num oceano vasto e distante. Embora ela tenha bastante paciência, se sua relação com ela começar a desandar, será difícil reconquistar sua confiança."
+        },
+        {
+            "id": "P10902",
+            "content": "Wakashu Kurokumo: História da Rodion"
+        },
+        {
+            "id": "P10903",
+            "content": "LCCB Assistant Manager: História da Rodion"
+        },
+        {
+            "id": "kurokumo_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "kurokumo_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "lcb_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "lcb_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P11002",
+            "content": "Salsu do Pacto da Lâmina: História do Sinclair"
+        },
+        {
+            "id": "P11003",
+            "content": "Zwei Seção 6 - Sul: História do Sinclair"
+        },
+        {
+            "id": "P11004",
+            "content": "Jefe de Los Mariachis: História do Sinclair"
+        },
+        {
+            "id": "blade_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "blade_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "zwei_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "zwei_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "mariachi_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "mariachi_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P11102",
+            "content": "Salsu do Pacto da Lâmina: História da Outis"
+        },
+        {
+            "id": "P11103",
+            "content": "Gerente Chefe da G Corp.: História da Outis"
+        },
+        {
+            "id": "blade_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "blade_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "gcorp_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "gcorp_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P11202",
+            "content": "Liu Seção 6 - Sul: História do Gregor"
+        },
+        {
+            "id": "P11203",
+            "content": "Gerente Marcial da G Corp.: História do Gregor"
+        },
+        {
+            "id": "liu_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "liu_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "gcorp_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "gcorp_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10504",
+            "content": "Großhammer da N Corp.: História do Meursault"
+        },
+        {
+            "id": "ncorp_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "ncorp_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10904",
+            "content": "Mittelhammer da N Corp.: História da Rodion"
+        },
+        {
+            "id": "ncorp_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "ncorp_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P10704",
+            "content": "Kleinhammer da N Corp.: História do Heathcliff"
+        },
+        {
+            "id": "ncorp_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "ncorp_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P10204",
+            "content": "Aquela Que Agarra: História da Faust."
+        },
+        {
+            "id": "ncorp_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "ncorp_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P11104",
+            "content": "Seven South Section 6 Director: História da Outis"
+        },
+        {
+            "id": "SevenAsso6_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "SevenAsso6_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P10604",
+            "content": "Liu Seção 5 - Sul: História do Hong Lu"
+        },
+        {
+            "id": "LiuAsso5_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "LiuAsso5_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10404",
+            "content": "Chef de Cuisine do B.R.: História da Ryōshū"
+        },
+        {
+            "id": "23GuCooker_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "23GuCooker_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P11204",
+            "content": "Sous-chef do B.R.: História do Gregor"
+        },
+        {
+            "id": "23GuCooker_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "23GuCooker_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P11005",
+            "content": "Aquele Que Agarrará: História do Sinclair"
+        },
+        {
+            "id": "ncorp_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "ncorp_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P10304",
+            "content": "Mittelhammer da N Corp.: História da Don Quixote"
+        },
+        {
+            "id": "ncorp_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "ncorp_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10905",
+            "content": "Representante da Oficina Chaverosa : História da Rodion"
+        },
+        {
+            "id": "kcorp_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "kcorp_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P10505",
+            "content": "Mandatário da Oficina Chaverosa : História do Meursault"
+        },
+        {
+            "id": "kcorp_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "kcorp_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10705",
+            "content": "E.G.O Lobotomy Garoa Vulpina: História do Heathcliff"
+        },
+        {
+            "id": "lego_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "lego_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P11205",
+            "content": "Mandatário da Oficina Chaverosa : História do Gregor"
+        },
+        {
+            "id": "kcorp_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "kcorp_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10104",
+            "content": "E.G.O Florescente:: Lindera: História de Yi Sang"
+        },
+        {
+            "id": "lego_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "lego_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P10805",
+            "content": "E.G.O Lobotomy::Borbulhante: História da Ishmael"
+        },
+        {
+            "id": "lego_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "lego_ishmael_analysis",
+            "content": "Você pode se sentir sufocado ao ver tantos Pecadores problemáticos, mas não se preocupe; esta Pecadora é uma das poucas que consegue lidar com suas tarefas sem muitas reclamações. É provável que ela tome decisões razoáveis, então é uma boa ideia procurá-la para conversar caso esteja em busca de bons conselhos. No entanto, nunca se esqueça: esta Pecadora sobreviveu a uma viagem absurda num oceano vasto e distante. Embora ela tenha bastante paciência, se sua relação com ela começar a desandar, será difícil reconquistar sua confiança."
+        },
+        {
+            "id": "P10605",
+            "content": "Equipe de Excisão Classe 3 da K Corp.: História do Hong Lu"
+        },
+        {
+            "id": "kcorp_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "kcorp_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P11006",
+            "content": "E.G.O Lobotomy::Folha Vermelha: História do Sinclair"
+        },
+        {
+            "id": "lego_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "lego_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P10806",
+            "content": "Liu Seção 4 - Sul: História da Ishmael"
+        },
+        {
+            "id": "liu_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "liu_ishmael_analysis",
+            "content": "Você pode se sentir sufocado ao ver tantos Pecadores problemáticos, mas não se preocupe; esta Pecadora é uma das poucas que consegue lidar com suas tarefas sem muitas reclamações. É provável que ela tome decisões razoáveis, então é uma boa ideia procurá-la para conversar caso esteja em busca de bons conselhos. No entanto, nunca se esqueça: esta Pecadora sobreviveu a uma viagem absurda num oceano vasto e distante. Embora ela tenha bastante paciência, se sua relação com ela começar a desandar, será difícil reconquistar sua confiança."
+        },
+        {
+            "id": "P10506",
+            "content": "Rinoceronte do 4º Bando da R Corp.: História do Meursault"
+        },
+        {
+            "id": "rcorp_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "rcorp_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10906",
+            "content": "Zwei Seção 5 - Sul: História da Rodion"
+        },
+        {
+            "id": "zwei_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "zwei_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P10305",
+            "content": "Cinq Diretora da Seção 5 - Sul: História da Don Quixote"
+        },
+        {
+            "id": "cinq_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "cinq_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10807",
+            "content": "Mandatária do Centro de Barcos Molar: História da Ishmael"
+        },
+        {
+            "id": "ucorp_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "ucorp_ishmael_analysis",
+            "content": "Você pode se sentir sufocado ao ver tantos Pecadores problemáticos, mas não se preocupe; esta Pecadora é uma das poucas que consegue lidar com suas tarefas sem muitas reclamações. É provável que ela tome decisões razoáveis, então é uma boa ideia procurá-la para conversar caso esteja em busca de bons conselhos. No entanto, nunca se esqueça: esta Pecadora sobreviveu a uma viagem absurda num oceano vasto e distante. Embora ela tenha bastante paciência, se sua relação com ela começar a desandar, será difícil reconquistar sua confiança."
+        },
+        {
+            "id": "P11007",
+            "content": "Mandatário do Centro de Barcos Molar: História do Sinclair"
+        },
+        {
+            "id": "ucorp_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "ucorp_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P11206",
+            "content": "Zwei Seção 4 - Sul: História do Gregor"
+        },
+        {
+            "id": "zwei_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "zwei_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10205",
+            "content": "Zwei Seção 4 - Sul: História da Faust"
+        },
+        {
+            "id": "zwei_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "zwei_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P10405",
+            "content": "Agente de Limpeza N3 da W Corp.: História da Ryōshū"
+        },
+        {
+            "id": "Wcorp_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "Wcorp_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P10606",
+            "content": "Agente de Limpeza N2 W Corp.: História do Hong Lu"
+        },
+        {
+            "id": "Wcorp_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "Wcorp_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10206",
+            "content": "Seven South Section 4: História da Faust"
+        },
+        {
+            "id": "seven_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "seven_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P10706",
+            "content": "Seven South Section 4: História do Heathcliff"
+        },
+        {
+            "id": "seven_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "seven_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P10105",
+            "content": "Mandatário do Escritório Molar: História do Yi Sang"
+        },
+        {
+            "id": "molar_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "molar_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P11105",
+            "content": "Mandatária do Escritório Molar: História da Outis"
+        },
+        {
+            "id": "molar_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "molar_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P10907",
+            "content": "Assoc. Dieci Seção 4: História da Rodion"
+        },
+        {
+            "id": "dieci_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "dieci_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P10207",
+            "content": "E.G.O Lobotomy::Arrependimento: História da Faust"
+        },
+        {
+            "id": "lego_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "lego_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P10607",
+            "content": "Mandatário do Escritório Gancho: História do Hong Lu"
+        },
+        {
+            "id": "hook_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "hook_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10106",
+            "content": "Agente de Limpeza W Corp. N3: História do Yi Sang"
+        },
+        {
+            "id": "wcorp_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "wcorp_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P11207",
+            "content": "Primeiro Imediato dos Piratas dos Ganchos Gêmeos: História do Gregor"
+        },
+        {
+            "id": "hook_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "hook_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10406",
+            "content": "LCCB Assistant Manager: História da Ryōshū"
+        },
+        {
+            "id": "lccb_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "lccb_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P10306",
+            "content": "Irmãzinha do Meio: História da Don Quixote"
+        },
+        {
+            "id": "middlefinger_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "middlefinger_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10507",
+            "content": "Irmãozinho do Meio: História do Meursault"
+        },
+        {
+            "id": "middlefinger_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "middlefinger_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10707",
+            "content": "Arpoador Pequod: História do Heathcliff"
+        },
+        {
+            "id": "qui_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "qui_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P10107",
+            "content": "Primeiro Imediato do Pequod: História do Yi Sang"
+        },
+        {
+            "id": "starb_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "starb_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P11008",
+            "content": "Cinq Diretor da Seção 4 - Sul: História do Sinclair"
+        },
+        {
+            "id": "cinq_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "cinq_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P11106",
+            "content": "Cinq da Seção 4 - Sul: História da Outis"
+        },
+        {
+            "id": "cinq_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "cinq_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P11107",
+            "content": "E.G.O Lobotomy::Bala Mágica: História da Outis"
+        },
+        {
+            "id": "lego_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "lego_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P10307",
+            "content": "E.G.O Lobotomy::Lampião: História da Don Quixote"
+        },
+        {
+            "id": "lego_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "lego_donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10608",
+            "content": "Assoc. Dieci Seção 4 - Sul: História do Hong Lu"
+        },
+        {
+            "id": "dieci_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "dieci_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10108",
+            "content": "Assoc. Dieci Seção 4: História do Yi Sang"
+        },
+        {
+            "id": "dieci_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "dieci_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P10808",
+            "content": "Capitã do Pequod: História da Ishmael"
+        },
+        {
+            "id": "ahab_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "ahab_ishmael_profile",
+            "content": "Você pode se sentir desanimado com o estado defeituoso de muitos dos seus Pecadores, mas não se preocupe; esta Pecadora é uma das poucas capazes de cumprir a maioria das missões sem grandes reclamações. Ela tende a tomar decisões sensatas, então é uma boa ideia puxar conversa olhando na direção dela quando estiver em busca de um bom conselho. No entanto, você não deve esquecer: esta Pecadora sobreviveu a uma travessia absurda por uma vasta e imensa massa de água. A paciência dela pode ser profunda, mas, uma vez que você dê um passo em falso com ela, reconquistar a sua confiança será uma tarefa árdua."
+        },
+        {
+            "id": "P10508",
+            "content": "Mentor do Pacto da Lâmina: História do Meursault"
+        },
+        {
+            "id": "blade_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "blade_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P10208",
+            "content": "Salsu do Pacto da Lâmina: História da Faust"
+        },
+        {
+            "id": "blade_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "blade_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P11208",
+            "content": "Capitão do Clã Kurokumo: História do Gregor"
+        },
+        {
+            "id": "kurokumo_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "kurokumo_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10308",
+            "content": "Salsu do Pacto da Lâmina: História da Don Quixote"
+        },
+        {
+            "id": "blade_donquixote_profile",
+            "content": "Don Quixote\nF\n23 de setembro\nA\n163CM\n52KG"
+        },
+        {
+            "id": "blade__donquixote_analysis",
+            "content": "Se você medisse a qualidade dos Pecadores baseado apenas na empolgação, \nesta certamente receberia a maior pontuação.\nComo uma ávida colecionadora e entusiasta de Mandatários, \nela sempre traz consigo variados adornos e lembrancinhas dos mesmos.\nElas não afetam o combate de forma alguma, então não há necessidade de aplicar quaisquer restrições.\nEla está bastante imersa no papel de uma Mandatária justiceira (se é que algo assim sequer existiu), \nentão se comporta de forma exagerada, como uma atriz.\nPara que as missões sejam tranquilas, é recomendado acompanhar seu ritmo peculiar."
+        },
+        {
+            "id": "P10908",
+            "content": "Liu Diretora da Seção 4 - Sul: História da Rodion"
+        },
+        {
+            "id": "liu_rodion_profile",
+            "content": "Rodion\nF\n23 de setembro\nA\n182CM\n65KG"
+        },
+        {
+            "id": "liu_rodion_analysis",
+            "content": "As características infelizes de ser da Periferia são aparentes nesta Pecadora.\nEla ama dinheiro, jogos de azar e apostas — então é aconselhável prestar muita atenção a ela como gerente.\nEla tende a desviar de ordens com uma piscadela inexpressiva ou uma piada boba;\nrecomendamos, às vezes, assumir uma postura severa para lembrá-la de que você é seu superior.\nSeu humor pode diminuir em intervalos irregulares.\nNão há nada que você possa fazer para ajudá-la nesse estado, \nentão recomendamos esperar que passe."
+        },
+        {
+            "id": "P10407",
+            "content": "Liu Seção 4 - Sul: História da Ryōshū"
+        },
+        {
+            "id": "liu_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "liu_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P10708",
+            "content": "Öufi Seção 3 - Sul: História do Heathcliff"
+        },
+        {
+            "id": "oufi_heathcliff_profile",
+            "content": "Heathcliff\nM\n23 de setembro\nA\n180CM\n78KG"
+        },
+        {
+            "id": "oufi_heathcliff_analysis",
+            "content": "Este Pecador prefere agir a esperar que a lógica dite o seu rumo. Seus pensamentos e sentimentos ficam escancarados em seu comportamento, e ele não tem a menor intenção de escondê-los; sua impetuosidade pode causar dores de cabeça (ou ferimentos físicos que levem a uma dor de cabeça) ao longo do processo de construir um relacionamento. Por favor, observe que isso não é indício de um dano grave ao processo de pensamento do Pecador. Caso o acesso de fúria dele persista, contate o departamento de recursos humanos. Assim que você perceber que ele é do tipo que costuma ser de raciocínio simples, terá mais facilidade para lidar com ele."
+        },
+        {
+            "id": "P11108",
+            "content": "Governanta Chefe de Wuthering Heights: História da Outis"
+        },
+        {
+            "id": "butler_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "butler_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P10509",
+            "content": "Chefe dos Dead Rabbits: História do Meursault "
+        },
+        {
+            "id": "deadrabbit_meursault_profile",
+            "content": "Meursault\nM\n23 de setembro\nA\n188CM\n82KG"
+        },
+        {
+            "id": "deadrabbit_meursault_analysis",
+            "content": "Quer comandos claros e concisos, sem exigir julgamento de sua parte."
+        },
+        {
+            "id": "P11209",
+            "content": "Herdeiro da Família Edgar: História do Gregor"
+        },
+        {
+            "id": "wuthering_gregor_profile",
+            "content": "Gregor\nM\n23 de setembro\nA\n167CM\n68KG"
+        },
+        {
+            "id": "wuthering_gregor_analysis",
+            "content": "Este Pecador é relativamente fácil de se lidar em termos de personalidade.\nNo entanto, um surto de emoção ou uma mudança repentina de ambiente pode\nfazer com que partes ou todo o seu corpo se transformem em tecidos de inseto\n(perceptivelmente semelhante a uma carapaça que remete às de _______).\nSe você não deseja ser um gerente rude (não que você seja obrigado a ser gentil),\nrecomendamos manter sua expressão sob controle para que seu nojo não lhe seja visível.\nEmbora, às vezes, ele diga coisas cínicas, é possível se\ncomunicar com ele de forma eficaz, desde que você se acostume."
+        },
+        {
+            "id": "P10209",
+            "content": "Mordomo de Wuthering Heights: História da Faust"
+        },
+        {
+            "id": "wuthering_faust_profile",
+            "content": "Faust\nF\n23 de setembro\nA\n174CM\n59KG"
+        },
+        {
+            "id": "wuthering_faust_analysis",
+            "content": "A Pecadora que desenvolveu o motor do Mefistófeles, o ônibus operado pela Limbus Company. \nEla afirma que não há ninguém na Cidade capaz de se equiparar à vastidão de seu conhecimento e sabedoria,\ne ela não está errada.\nVocê pode achar sua atitude altiva e presunçosa desagradável, mas visto que ela trata\ntodos com gestos sutis de arrogância, é seguro assumir que ela nunca deixará de lado\neste comportamento; recomendamos apenas acenar com a cabeça e seguir adiante.\nEmbora seja dotada de um gênio incomparável, não sabemos bem como usá-la.\nTalvez você, Gerente, possa descobrir?"
+        },
+        {
+            "id": "P10408",
+            "content": "Governanta Chefe da Família Edgar: História da Ryōshū"
+        },
+        {
+            "id": "butler_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "butler_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        },
+        {
+            "id": "P10809",
+            "content": "Mordomo da Família Edgar: História da Ishmael"
+        },
+        {
+            "id": "butler_ishmael_profile",
+            "content": "Ishmael\nF\n23 de setembro\nA\n171CM\n57KG"
+        },
+        {
+            "id": "butler_ishmael_profile",
+            "content": "Você pode se sentir desanimado com o estado defeituoso de muitos dos seus Pecadores, mas não se preocupe; esta Pecadora é uma das poucas capazes de cumprir a maioria das missões sem grandes reclamações. Ela tende a tomar decisões sensatas, então é uma boa ideia puxar conversa olhando na direção dela quando estiver em busca de um bom conselho. No entanto, você não deve esquecer: esta Pecadora sobreviveu a uma travessia absurda por uma vasta e imensa massa de água. A paciência dela pode ser profunda, mas, uma vez que você dê um passo em falso com ela, reconquistar a sua confiança será uma tarefa árdua."
+        },
+        {
+            "id": "P11009",
+            "content": "Mandatário do Escritório do Amanhecer: História do Sinclair"
+        },
+        {
+            "id": "dawn_sinclair_profile",
+            "content": "Sinclair\nM\n23 de setembro\nA\n163CM\n54KG"
+        },
+        {
+            "id": "dawn_sinclair_analysis",
+            "content": "Mesmo considerando a natureza volátil do crescimento humano em torno de sua idade,\neste Pecador parece ficar particularmente assustado ou carrancudo quando falam com ele.\nEle não está acostumado com combates reais no momento, o que significa que, a princípio,\nele pode ter dificuldade para manter a compostura mesmo vendo algo tão leve quanto entranhas derramadas. \nComo pode haver pessoas com tendências violentas entre sua equipe, \nrecomendamos adotar uma abordagem focada no reforço positivo com este Pecador.\nEle parece capaz de exalar uma hostilidade da qual ele mesmo não tem consciência; este é um sinal favorável\nde que ele tem potencial para se tornar um especialista na profissão de nossa empresa com os estímulos certos."
+        },
+        {
+            "id": "P10109",
+            "content": "Estudante Pontilhista do Anelar: História do Yi Sang"
+        },
+        {
+            "id": "rings_yisang_profile",
+            "content": "Yi Sang\nM\n23 de setembro\nA\n176CM\n70KG"
+        },
+        {
+            "id": "rings_yisang_analysis",
+            "content": "Antes o mais jovem pesquisador-chefe da Asa [REDIGIDO], este\nPecador possui uma inteligência superior à dos outros.\nEstimamos que conversas cotidianas com este Pecador\nserão difíceis para o nível do gerente elegido.\nNo entanto, evitar a comunicação por completo também causaria riscos.\nSe o Pecador permanecer em silêncio por muito tempo, recomendamos que seja paciente,\npois uma série de pensamentos profundos está sendo processada em sua cabeça."
+        },
+        {
+            "id": "P11109",
+            "content": "Estudante Pontilhista do Anelar: História da Outis"
+        },
+        {
+            "id": "rings_outis_profile",
+            "content": "Outis\nF\n23 de setembro\nA\n177CM\n64KG"
+        },
+        {
+            "id": "rings_outis_analysis",
+            "content": "Esta Pecadora pode ser uma excelente conselheira dependendo da sua capacidade.\nNo entanto, ela também costuma ser um pouco intrometida, \nentão é recomendável mantê-la satisfeita com respostas curtas de concordância. \nEla tem experiência e habilidade numa abundância de assuntos, incluindo táticas de batalha,\nentão seus conselhos podem ser bastante valiosos.\nAlém disso, ela possui um vasto conhecimento de mecânica;\nvocê pode confiar nela para fazer reparos simples no ônibus.\n[AVISO]: Ao contrário dos outros Pecadores, não é permitido acessar registros relativos ao passado desta Pecadora. \n[AVISO]: Fique de olho nesta Pecadora e garanta que ela não exerça seu intelecto\nastuto para propósitos além do cumprimento da missão de nossa empresa."
+        },
+        {
+            "id": "P10609",
+            "content": "Yurodivy do Distrito 20: História do Hong Lu"
+        },
+        {
+            "id": "yuro_honglu_profile",
+            "content": "Hong Lu\nM\n23 de setembro\nA\n178CM\n74KG"
+        },
+        {
+            "id": "yuro_honglu_analysis",
+            "content": "Este Pecador viveu uma vida bastante abastada antes de se juntar à nossa empresa.\nDessa forma, ele tem a tendência de buscar liberdade, \nmas pode revelar uma certa ignorância sobre as culturas de classes mais baixas\ne fazer perguntas desconcertantes ao ver pratos preparados por outros Pecadores.\nIsto pode ser motivo de bastante irritação.\nNo entanto, é importante notar que não há nenhuma conotação sarcástica,\ne sim mera curiosidade contida em suas perguntas. \nPortanto, é bom evitar que isto acabe causando brigas."
+        },
+        {
+            "id": "P10409",
+            "content": "Yurodivy do Distrito 20: História da Ryōshū"
+        },
+        {
+            "id": "yuro_ryoshu_profile",
+            "content": "Ryoshu\nF\n23 de setembro\nA\n171CM\n58KG"
+        },
+        {
+            "id": "yuro_ryoshu_analysis",
+            "content": "Pode-se dizer que cada Pecador tem sua própria crença, e é da alçada de um bom gerente respeitá-la.\nNo entanto, com algumas crenças, haverá momentos em que até mesmo fingir entender pode ser difícil.\nVocê deve ter percebido que a Pecadora em questão é uma fumante de conduta silenciosa,\nmas que os olhos brilham com êxtase durante as batalhas.\nEla acredita que destruir as cabeças dos oponentes de maneira insensata é um ato ignorante e degradante à arte.\n[AVISO]: Esta Pecadora tem um histórico que até a nossa empresa teria dificuldade para lidar, então,\npor favor, tente ao máximo evitar que ela tenha ressentimentos pessoais com você."
+        }
+    ]
+}

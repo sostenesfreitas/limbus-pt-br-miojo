@@ -1,0 +1,622 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "<i><color=#5bffde>Flowers wilt, petals fall, a drizzle of blossoms sky-blotting;</i></color>"
+        },
+        {
+            "id": 1,
+            "content": "<i><color=#5bffde>Colors fade, fragrance dies—but who shall mourn their passing?</i></color>"
+        },
+        {
+            "id": 2,
+            "content": "<i><color=#5bffde>Com o ancinho de flores na mão, saí para o jardim,</i></color>"
+        },
+        {
+            "id": 3,
+            "content": "<i><color=#5bffde>mas vagueio, temendo pisar as pétalas caídas.</i></color>"
+        },
+        {
+            "id": 4,
+            "content": "<i><color=#5bffde>Pois, afinal, neste mundo de poeira e vento...</i></color>"
+        },
+        {
+            "id": 5,
+            "content": "<i><color=#5bffde>To shut my eyes</i></color>"
+        },
+        {
+            "id": 6,
+            "content": "<i><color=#5bffde>Is my sole reprieve.</i></color>"
+        },
+        {
+            "id": 7,
+            "place": "Salão de Banquetes do Grande Jardim",
+            "model": "가모",
+            "content": "Book. Que jornada extenuante e cheia de contratempos não terá sido."
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Não foi árdua. Pois cada dia era um dia curioso e novo, vovó."
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "Aff... afinal, o que é que eles estão conversando?"
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "A mesa de jantar é larga demais, nem dá para ouvir direito a voz... e, para começar, está certo chamar isto de mesa de jantar? Daqui até lá não dá para ver o fim..."
+        },
+        {
+            "id": 12,
+            "model": "하인3",
+            "teller": "Criado de Aspecto Ocupado",
+            "content": "Há por acaso algo que vos incomode? Caso haja algo em que este servo possa ajudar..."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "content": "Incomodar? Claro que o que mais incomoda é ficar indo e vindo, atrapalhando enquanto a gente come..."
+        },
+        {
+            "id": 14,
+            "model": "싱클레어",
+            "content": "Aaah! Não é nada disso...! Não tem nada incomodando."
+        },
+        {
+            "id": 15,
+            "model": "왕부인",
+            "content": "Então... Book, você poderia nos apresentar os seus amigos?"
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "...Francamente. Quando a gente conhece os pais de outra pessoa, é totalmente desconfortável não saber como se portar... onde é que eu ponho o olhar? Sorrir... mais ou menos assim, dá? Não vai parecer leviano demais..."
+        },
+        {
+            "id": 17,
+            "model": "홍루",
+            "content": "Haha. Não há necessidade de chegar a esse ponto. Sintam-se como se fosse a sua casa e fiquem à vontade~"
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "content": "Woohoo~ Thank ya!"
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "...Para dizer isso, a casa é larga, mas larga demaaais para se ficar à vontade. Desse jeito, a gente vira criança perdida só de ir beber um copo d'água."
+        },
+        {
+            "id": 20,
+            "model": "홍루",
+            "content": "Ah, quanto a isso não se preocupem~ é que por sinal há instalações de abrigo para perdidos espalhadas por todos os cômodos. Os criados visitam uma vez por mês e resgatam quem se perdeu. É claro, isso se a pessoa ainda estiver viva até lá~"
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Haha... senhor Hong Lu, essa foi a piada mais engraçada que eu ouvi até agora, hahaha..."
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "content": "Haha, não foi algo que eu disse para ser engraçado, mas, se graças a isso o senhor se divertiu, ainda bem~"
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "content": "Mas, senhor Hong Lu, onde estão os outros irmãos? Eu ouvi que era a vossa festa de boas-vindas..."
+        },
+        {
+            "id": 24,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Hey, it’s my welcoming party, too."
+        },
+        {
+            "id": 25,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "E de que adianta ver gente que só de ver a cara já me franze o cenho?"
+        },
+        {
+            "id": 26,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Só de me sentar à mesma mesa, isso já foi quase 10 anos atrás."
+        },
+        {
+            "id": 27,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "E... não fale comigo. Você esqueceu o que eu disse agora há pouco? Eu agora estou completamente de costas viradas para vocês."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "Hum... fomos nós que falamos primeiro?"
+        },
+        {
+            "id": 30,
+            "model": "왕부인",
+            "content": "Eu... o nosso Book..."
+        },
+        {
+            "id": 31,
+            "model": "왕부인",
+            "content": "...voltar assim, tornado um homem que cumpre o seu quinhão, com um aspecto sem percalços — só com isso eu não tenho mais nada a desejar..."
+        },
+        {
+            "id": 32,
+            "model": "왕부인",
+            "content": "So, dear Baoyu…"
+        },
+        {
+            "id": 33,
+            "model": "왕부인",
+            "content": "Eu não tenho intenção de apressar, mas... e a próxima data da partida de casa, quando é?"
+        },
+        {
+            "id": 34,
+            "model": "홍루",
+            "content": "Ainda não há nada definido, mãe."
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 36,
+            "model": "왕부인",
+            "content": "Ah, sim... eu, eu apenas receio que, se você ficar continuamente neste lugar, acabe se apagando sem cumprir o seu encargo."
+        },
+        {
+            "id": 37,
+            "model": "왕부인",
+            "content": "A Ma-Matriarca... não pensa assim também?"
+        },
+        {
+            "id": 38,
+            "model": "가모",
+            "content": "Indeed."
+        },
+        {
+            "id": 39,
+            "model": "가모",
+            "content": "Nosso tesouro raro e sem igual, não permaneça neste mundo profano e, quando chegar a hora, parta de novo e cumpra o seu valor."
+        },
+        {
+            "id": 40,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 41,
+            "model": "홍루",
+            "content": "Okay, grandmother. Mother."
+        },
+        {
+            "id": 42,
+            "content": "A expressão de Hong Lu, conversando com a família, não mudava, mantendo um sorriso suave e tranquilo."
+        },
+        {
+            "id": 43,
+            "content": "Mesmo tendo retornado à casa de origem depois de anos, mesmo diante do incentivo da família, que o apressava a partir logo."
+        },
+        {
+            "id": 44,
+            "content": "Diante da figura dele, parado de modo impassível, como se aquela recepção de aspecto vazio lhe fosse mais familiar do que qualquer coisa..."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 46,
+            "content": "...a mim também, não me restava senão fitar."
+        },
+        {
+            "id": 47,
+            "content": "A few hours ago..."
+        },
+        {
+            "id": 48,
+            "place": "Periferia do Distrito 8",
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 49,
+            "model": "뉴소드",
+            "content": "... The palanquin'll be here soon."
+        },
+        {
+            "id": 50,
+            "model": "로쟈",
+            "content": "...Um pa-palanquim! Uau~ pelo visto aqui as pessoas andam de palanquim, é?! Né? Greg!"
+        },
+        {
+            "id": 51,
+            "model": "그레고르",
+            "content": "Ooh! Isso, senhora Sword! A gente vai num tal de palanquim, né? N-né?"
+        },
+        {
+            "id": 52,
+            "content": "...Por aquela dupla digna de pena, que tentava de algum jeito desfazer este ar pesado e desconfortável, hoje em especial eu sinto mais pena ainda."
+        },
+        {
+            "id": 53,
+            "model": "뉴소드",
+            "content": "Sim. Vocês e a senhora Ga Shichun vão para o Grande Jardim (大觀園), onde residem os membros das principais famílias da Firma H."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<O fato de terem mandado um palanquim... será que a família do Hong Lu também já sabe que ele vai entrar no Grande Confronto pelo Patriarcado?>"
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Não, há de ser um assunto que aquele lado ainda não sabe. Pois a empresa, para impedir o vazamento de informação, há de ter nos transmitido este ponto só agora mesmo."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Há de ter sido enviado apenas para receber bem o senhor Hong Lu e a senhora Ga Shichun, que retornaram à terra natal."
+        },
+        {
+            "id": 57,
+            "model": "뉴소드",
+            "content": "Por isso mesmo, quem pode ir de palanquim são apenas o senhor Hong Lu e a senhora Ga Shichun aqui, que receberam o convite, e as facções que os seguem."
+        },
+        {
+            "id": 58,
+            "model": "뉴소드",
+            "content": "A equipe da LCCB, o senhor Virgílio e o senhor Caronte não podem ir junto. Que pena."
+        },
+        {
+            "id": 59,
+            "model": "홍루",
+            "content": "Que pena. Teria sido bom irmos juntos."
+        },
+        {
+            "id": 60,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "...É sempre assim, os adultos da nossa casa. E olha que é tão espaçoso que, mesmo hospedando todas as pessoas daqui, nem se notaria."
+        },
+        {
+            "id": 61,
+            "model": "뉴소드",
+            "content": "Oh my, how touching. Looks like miss Jia Xichun thinks she’ll miss us too."
+        },
+        {
+            "id": 62,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Acabaram de me dar uma bela facada nas costas agora há pouco, e o jeito como falam é odioso."
+        },
+        {
+            "id": 63,
+            "model": "뉴소드",
+            "content": "Ahaha..."
+        },
+        {
+            "id": 64,
+            "model": "가시춘L",
+            "title": "Família Jia",
+            "content": "Para começar, você aceitou sabendo bem o que significa participar do Grande Confronto pelo Patriarcado?"
+        },
+        {
+            "id": 65,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 66,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Por que você acha que nós, tendo a designação respeitável de 'Seleção do Patriarca', andamos chamando isso de Grande Confronto?"
+        },
+        {
+            "id": 67,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês, de agora em diante, estão entrando num lugar onde a vida de vocês pode ser visada a qualquer momento."
+        },
+        {
+            "id": 68,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Including me."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 70,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Você já esqueceu o que aconteceu na estalagem? Naquela vez Wei protegeu o fio da sua vida, mas agora, no meio da noite, ele pode ir até vocês como um assassino que corta o fio da vida com as próprias mãos."
+        },
+        {
+            "id": 71,
+            "model": "웨이",
+            "title": "Casa de Shichun",
+            "content": "É melhor eu lhes dizer de antemão que lamento. Eu não gostaria de apontar a ponta da lâmina para vocês, mas..."
+        },
+        {
+            "id": 72,
+            "content": "Wei nos fitou com olhos, nunca antes vistos, frios e, ainda assim, com algo de cintilante."
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "I-isso... a gente também... pensava igual... os corações se entenderam... ha... haha..."
+        },
+        {
+            "id": 74,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Dito ao contrário, isso também significa que vocês podem me apunhalar a qualquer momento."
+        },
+        {
+            "id": 75,
+            "model": "싱클레어",
+            "content": "Uh… no, never. I wouldn't even dream of doing something like—"
+        },
+        {
+            "id": 76,
+            "content": "Sem sequer dar atenção a Sinclair, que se atrapalhava, Ga Shichun fitou Hong Lu de frente."
+        },
+        {
+            "id": 77,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Pode ser a última oportunidade... de mudar de ideia, mano."
+        },
+        {
+            "id": 78,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Eu não te propus entrar para a minha facção com um coração simplesmente leviano."
+        },
+        {
+            "id": 79,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Muito menos o Grande Confronto pelo Patriarcado... é um problema que de modo algum se pode decidir tão facilmente entre fazer ou não fazer..."
+        },
+        {
+            "id": 80,
+            "model": "홍루",
+            "content": "Assim como você viveu desse jeito, Shichun."
+        },
+        {
+            "id": 81,
+            "model": "홍루",
+            "content": "Eu também vivi, desde criança, ouvindo inúmeras vezes histórias sobre o Grande Confronto pelo Patriarcado."
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "Por isso, o peso que nós sentimos há de ser o mesmo."
+        },
+        {
+            "id": 83,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 84,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Tá. Então a relação de cooperação, que se manteve, ainda que frágil, termina aqui."
+        },
+        {
+            "id": 85,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Bom, tanto faz. Para uma aliança passageira motivada pela necessidade, ela até se arrastou tempo demais."
+        },
+        {
+            "id": 86,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "… We’re just going back to how things used to be, that's all."
+        },
+        {
+            "id": 87,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Então, que tal pararmos por aqui de trocar palavras de modo tão tranquilo?"
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Sim, se é o que você quer, que seja assim."
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "content": "... Oh, Xichun."
+        },
+        {
+            "id": 90,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "... What."
+        },
+        {
+            "id": 91,
+            "model": "홍루",
+            "content": "...Você poderia não contar às pessoas da família que eu vou participar?"
+        },
+        {
+            "id": 92,
+            "model": "홍루",
+            "content": "É que disseram que, por enquanto, é melhor manter isso em segredo."
+        },
+        {
+            "id": 93,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "... Hah."
+        },
+        {
+            "id": 94,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Você me pedir uma coisa dessas agora — há algum motivo para eu ter de atender a isso?"
+        },
+        {
+            "id": 95,
+            "content": "Ao contrário das palavras de agora há pouco, de que tanto fazia, Ga Shichun, com o ar de quem estava bastante magoada, fitava Hong Lu com raiva, mordendo com força os lábios, e então..."
+        },
+        {
+            "id": 96,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 97,
+            "content": "...voltou a caminhar com passos firmes até diante de Hong Lu."
+        },
+        {
+            "id": 98,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 99,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Isto — é mesmo uma escolha sua, mano?"
+        },
+        {
+            "id": 100,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ou é só uma coisa que aquele lado mandou você fazer?"
+        },
+        {
+            "id": 101,
+            "content": "Ga Shichun apontou para nós com um gesto da cabeça."
+        },
+        {
+            "id": 102,
+            "model": "홍루",
+            "content": "Hum... o fato de eu participar do Grande Confronto pelo Patriarcado já deve ser coisa decidida, então, se é isso que você quer saber..."
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "Shichun. Você acha que há algum significado importante em isso ser uma escolha minha?"
+        },
+        {
+            "id": 104,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "...Aham. Você vai vir com essa de novo, é."
+        },
+        {
+            "id": 105,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Sabendo o que significa o Grande Confronto pelo Patriarcado, você diz não entender por que eu perguntei uma coisa dessas?"
+        },
+        {
+            "id": 106,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Não precisa responder. Não há necessidade de trocar mais palavras."
+        },
+        {
+            "id": 107,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vai ser interessante ver até onde você sobrevive com um coração tão raso e vão desses."
+        },
+        {
+            "id": 108,
+            "model": "단테",
+            "content": "<Hey, wait…>"
+        },
+        {
+            "id": 109,
+            "content": "No instante em que eu ia dizer algo a Ga Shichun, que parecia aborrecida, o piloto que mexia num rádio atrás de Sword começou a gritar, aflito."
+        },
+        {
+            "id": 110,
+            "model": "뉴파일럿",
+            "content": "Ah! Chefe! Logo vai chegar um palanquim!"
+        },
+        {
+            "id": 111,
+            "model": "로쟈",
+            "content": "Uuh... pensando em ontem, hoje eu quero ir descansando bastante. Então vamos logo embarc..."
+        },
+        {
+            "id": 112,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Não. O que chegou agora, nós embarcamos primeiro."
+        },
+        {
+            "id": 113,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "De todo modo, em ceder você já deve ser mestre, não, mano?"
+        },
+        {
+            "id": 114,
+            "model": "로쟈",
+            "content": "Hã? Onde é que se viu isso? De modo justo... sabe, tipo, pedra-papel-tesoura?"
+        },
+        {
+            "id": 115,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Olha só, então por que você não propõe decidir o Grande Confronto pelo Patriarcado no pedra-papel-tesoura também?"
+        },
+        {
+            "id": 116,
+            "content": "Ga Shichun, sorrindo de modo enviesado, foi-se primeiro, junto com Wei."
+        },
+        {
+            "id": 117,
+            "model": "그레고르",
+            "content": "Aii... quando a gente achava que tinha enfim ficado um pouco mais próximo..."
+        },
+        {
+            "id": 119,
+            "model": "괴한",
+            "content": "Estão ali! Vendo que estão esperando o palanquim, com certeza é o candidato de quem o contratante falou!"
+        },
+        {
+            "id": 121,
+            "model": "싱클레어",
+            "content": "U-uns sujeitos suspeitos vindo em bando daquele lado..."
+        },
+        {
+            "id": 122,
+            "model": "오티스",
+            "content": "Quem ordenou um ataque visando os candidatos não há de ter sido só Saihwa... Gerente. Parece ser melhor liquidarmos os capangas antes que o próximo palanquim chegue."
+        },
+        {
+            "id": 123,
+            "model": "단테",
+            "content": "<...É. E não há outro jeito.>"
+        }
+    ]
+}

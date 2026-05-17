@@ -1,0 +1,119 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Desfile do Carnaval",
+            "content": "Aquele cortejo, que se estendia longamente sem conhecer fim..."
+        },
+        {
+            "id": 1,
+            "content": "Se fosse observado de longe, talvez parecesse apenas o desfile de uma festa repleta de júbilo."
+        },
+        {
+            "id": 2,
+            "content": "Pessoas marchando em fila, o som de um canto que se espalhava sem cessar."
+        },
+        {
+            "id": 3,
+            "content": "Aquela música ecoava de modo tão cheio de esperança que..."
+        },
+        {
+            "id": 4,
+            "content": "...chegava a me ocorrer o pensamento de que talvez não fosse divertido se nós também entrássemos neste carnaval e marchássemos no mesmo passo."
+        },
+        {
+            "id": 5,
+            "content": "Isso, se nele não estivesse oculto o cortejo cambaleante de bolsas de sangue e visitantes que prorrompiam em gritos."
+        },
+        {
+            "id": 6,
+            "model": "돌시부하1",
+            "teller": "???",
+            "content": "♬Let us march together, O happy hour♬"
+        },
+        {
+            "id": 7,
+            "model": "돌시부하1",
+            "teller": "???",
+            "content": "♬No ritmo do empolgante som dos tambores♬"
+        },
+        {
+            "id": 8,
+            "model": "돌시부하1",
+            "teller": "???",
+            "content": "♬Without worries or concerns♬"
+        },
+        {
+            "id": 9,
+            "model": "돌시부하1",
+            "teller": "???",
+            "content": "♬O vistoso carnaval La Mancha (La Mancha!)♬"
+        },
+        {
+            "teller": "Pessoa Capturada",
+            "title": "La Manchaland",
+            "content": "H-help me, please..."
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "... What lies ahead?"
+        },
+        {
+            "id": 11,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "content": "Aha! Vocês são hóspedes recém-chegados! Hoje é um dia em que muitos hóspedes vêm~"
+        },
+        {
+            "id": 12,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "content": "Lá na frente, é claro, está a protagonista do desfile, a bela senhora Dulcinea."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Ah, por acaso vocês não chegaram a ver outros Solucionadores?"
+        },
+        {
+            "id": 14,
+            "model": "가시춘",
+            "title": "???",
+            "content": "...Mano, mesmo aqui você ainda fica fazendo perguntas que não combinam com o clima?"
+        },
+        {
+            "id": 15,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "title": "La Manchaland",
+            "content": "É uma de duas. Ou viraram bolsa de sangue e estão aqui~"
+        },
+        {
+            "id": 16,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "title": "La Manchaland",
+            "content": "...ou mataram as bolsas de sangue e foram até lá na frente!"
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "Hum. Vamos ter de ir mais para a frente."
+        },
+        {
+            "id": 18,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "title": "La Manchaland",
+            "content": "No, stay with us."
+        },
+        {
+            "id": 19,
+            "model": "돌시부하1",
+            "teller": "Sanguinário com Sombrinha",
+            "title": "La Manchaland",
+            "content": "Venham, vamos dançar juntos!"
+        }
+    ]
+}

@@ -1,0 +1,458 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "As vezes, eu sonho."
+        },
+        {
+            "id": 1,
+            "content": "Eu sonho com o confessionário em chamas."
+        },
+        {
+            "id": 2,
+            "content": "Com os corpos desmembrados dos meus Parentes, e os destroços das atrações do parque de diversões."
+        },
+        {
+            "id": 3,
+            "teller": "???",
+            "title": "Caçador de Sanguemônio",
+            "content": "Morre....! Monstro desgraçado e imundo."
+        },
+        {
+            "id": 4,
+            "teller": "???",
+            "title": "Caçador de Sanguemônio",
+            "content": "Ei, olha, eu trouxe água! Você precisa de água pra apagar o fogo que ta queimando sua casa inteira, não? Uma pena que você tem medo demais de chegar perto da sua salvação... hah!"
+        },
+        {
+            "id": 5,
+            "content": "Com os saqueadores gritando no topo dos pulmões enquanto eles massacram nossa terra."
+        },
+        {
+            "id": 6,
+            "teller": "???",
+            "title": "Família",
+            "content": "Nós...nós... nós também queremos viver...!"
+        },
+        {
+            "id": 7,
+            "teller": "???",
+            "title": "Família",
+            "content": "Você tem qualquer pingo de ideia do que a gente sofreu todo maldito dia enquanto a sua laia ficava se divertindo ao redor de La Manchaland...?"
+        },
+        {
+            "id": 8,
+            "content": "Minha Família protestou, as vozes deles tremendo de medo."
+        },
+        {
+            "id": 9,
+            "content": "Alguns até imploravam pelas próprias vidas."
+        },
+        {
+            "id": 10,
+            "teller": "???",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Hoje... hoje é o dia que finalmente reduzimos esse maldito lugar à cinzas."
+        },
+        {
+            "id": 11,
+            "teller": "???",
+            "title": "Escritório do Punho de Fogo",
+            "content": "Irmãzona... relaxa. Você vai ter o prédio de escritório que você sempre sonhou."
+        },
+        {
+            "id": 12,
+            "content": "Mas minha Família nunca sobrevivera esse sonho."
+        },
+        {
+            "id": 13,
+            "content": "Assim como eles falharam em sobreviver nesse mundo sem sonhos."
+        },
+        {
+            "id": 14,
+            "content": "131 rodadas de expedições."
+        },
+        {
+            "id": 15,
+            "content": "79 tentativas de incendiários, 21 tentativas de nos enxaguar, 3 barragens com trabucos, 17 tentativas de disparos de franco-atiradores e tentativas de assassinato. E 10 batalhas em campo aberto. "
+        },
+        {
+            "id": 16,
+            "content": "671 Parentes mortos. 3449 Sacos de Sangue queimados."
+        },
+        {
+            "id": 17,
+            "content": "Visões desse sonho são tão precisas quanto a claridade da minha memória. Eu lembro daquele dia tão bem quanto hoje, relembrando de que maneira eles foram mortos e o choro que se tornou suas últimas palavras."
+        },
+        {
+            "id": 18,
+            "content": "E eu não fiz nada além de testemunhar da vanguarda do Desfile."
+        },
+        {
+            "id": 19,
+            "content": "Pela primeira vez, o Desfile parou, e do meu ponto alto eu fui presenteado com as visões de um massacre incendiário, alimentado pela insanidade..."
+        },
+        {
+            "id": 20,
+            "content": "...que era semelhante à multidão de humanos que alegremente aclamaram o nosso Desfile."
+        },
+        {
+            "id": 21,
+            "content": "Então, em pé como uma pedra, eu os observei."
+        },
+        {
+            "id": 22,
+            "teller": "Mamãe",
+            "title": "Parente de Terceiro Grau",
+            "content": "... Meursault. Me escute."
+        },
+        {
+            "id": 23,
+            "content": "... O sonho está chegando ao fim."
+        },
+        {
+            "id": 24,
+            "content": "Nesse momento, com meros minutos separando esse sonho do mundo dos acordados, mamãe sempre me segurava pelos ombros e dizia o meu nome."
+        },
+        {
+            "id": 25,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "... ...."
+        },
+        {
+            "id": 26,
+            "content": "Mas eu não a respondi."
+        },
+        {
+            "id": 27,
+            "content": "Porque não havia nenhum \"Meursault\" nessa procissão. E como a regra estava escrita, eu a segui."
+        },
+        {
+            "id": 28,
+            "teller": "Mamãe",
+            "title": "Parente de Terceiro Grau",
+            "content": "... Haah. Em momentos como esse, eu começo me perguntar como que eu entendo tão pouco da minha própria Criança."
+        },
+        {
+            "id": 29,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "... O, nobre Príncipe."
+        },
+        {
+            "id": 30,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "O que tens a dizer, Princesa?"
+        },
+        {
+            "id": 31,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Nós aqui testemunhamos os últimos vestígios de nosso Reino. Aqueles que são verdes com inveja saquearam e pilharam até os ossos de nossa terra."
+        },
+        {
+            "id": 32,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Você é seu primeiro príncipe. O destino do reino agora cai somente em suas mãos; Logo—"
+        },
+        {
+            "id": 33,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "Você sugere que eu fuja, Princesa?"
+        },
+        {
+            "id": 34,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Que outro recurso eu tenho para sugerir?"
+        },
+        {
+            "id": 35,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "Um príncipe da realeza deve resistir por sua terra, não independente do presságio. Ele deve lutar até o fim amargo..."
+        },
+        {
+            "id": 36,
+            "teller": "Mamãe",
+            "title": "Parente de Terceiro Grau",
+            "content": "... Entendo. Se é assim que você rege, então eu suponho que nenhuma fala, não importa o falador, que te desviaria desse caminho."
+        },
+        {
+            "id": 37,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Permita-me refrasear, nobre Príncipe."
+        },
+        {
+            "id": 38,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Creio que bem conheceis a regra de que este Desfile... jamais deve parar."
+        },
+        {
+            "id": 39,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "Pois trata-se de um carnaval de bênçãos que se estende por toda a eternidade."
+        },
+        {
+            "id": 40,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "O Príncipe ocupa a dianteira do cortejo... Se vos detiverdes, este Desfile também perderá a sua eternidade."
+        },
+        {
+            "id": 41,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Por isso, segui sempre em frente... para além deste Reino, até alcançardes o Reino que haveis de escrever de novo."
+        },
+        {
+            "id": 42,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "... You mean...?"
+        },
+        {
+            "id": 43,
+            "teller": "A Princesa",
+            "title": "La Manchaland",
+            "content": "Become King, my Prince."
+        },
+        {
+            "id": 44,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Quarto Grau",
+            "content": "...Se tal é a vontade da Princesa, a mais sábia e formosa de todo o Reino."
+        },
+        {
+            "id": 45,
+            "content": "Era essa a nova regra que sobre mim recaíra."
+        },
+        {
+            "id": 46,
+            "content": "Não havia desrazão alguma naquele pedido; restava-me apenas cumpri-lo."
+        },
+        {
+            "id": 47,
+            "teller": "Mamãe",
+            "title": "Parente de Terceiro Grau",
+            "content": "... Live."
+        },
+        {
+            "id": 48,
+            "content": "Por volta de quando senti o sussurro derradeiro de minha mãe deixado às minhas costas, e a ordem dos Sanguinários, gravada em meu sangue, como se de súbito houvesse galgado um novo patamar de pressão..."
+        },
+        {
+            "id": 49,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "O Third Kindred, now..."
+        },
+        {
+            "id": 50,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "... Mm."
+        },
+        {
+            "id": 51,
+            "content": "... Then, I wake."
+        },
+        {
+            "id": 52,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Report."
+        },
+        {
+            "id": 53,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "Conforme ordenastes, o Desfile avançou até a metade dos assentos da classe comum."
+        },
+        {
+            "id": 54,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "Em breve chegaremos ao fim do cortejo... É chegada a hora de o Rei tomar a retaguarda."
+        },
+        {
+            "id": 55,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Mm."
+        },
+        {
+            "id": 56,
+            "content": "Por ordem de minha mãe, deixei La Manchaland para trás e fugi, resolvido a erguer o meu próprio Reino."
+        },
+        {
+            "id": 57,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Quanto cresceram as bolsas de sangue?"
+        },
+        {
+            "id": 58,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "Hoje, seis ao todo. Conforme dissestes, transmiti a ordem de não se fazerem mais que isso."
+        },
+        {
+            "id": 59,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "Além disso... chegado o ciclo de gerardes novos Parentes, separei alguns passageiros que poderão servir de candidatos."
+        },
+        {
+            "id": 60,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Bem. Louvo o teu empenho."
+        },
+        {
+            "id": 61,
+            "teller": "Serviçal",
+            "title": "Parente de Quarto Grau",
+            "content": "...Tudo seja pela prosperidade do Reino e da Família."
+        },
+        {
+            "id": 62,
+            "content": "É algo bastante conveniente que regra e instinto coincidam."
+        },
+        {
+            "id": 63,
+            "content": "No instante em que minha mãe se extinguiu, senti por instinto a minha hierarquia elevar-se."
+        },
+        {
+            "id": 64,
+            "content": "E, como ninguém ainda se tornara meu filho, abateu-se sobre mim a pressão de que eu não poderia falhar em fazer renascer a Família."
+        },
+        {
+            "id": 65,
+            "content": "Um espaço onde, sem falta, eu pudesse multiplicar a Família... e que, não sendo facilmente descoberto por perseguidores, estivesse a salvo de forças externas."
+        },
+        {
+            "id": 66,
+            "content": "...Esconder-me no trem Warp para escapar da P Corp. foi a escolha mais sensata."
+        },
+        {
+            "id": 67,
+            "content": "Pois um espaço que se ajustasse tão perfeitamente ao meu propósito não houvera antes, nem haveria depois."
+        },
+        {
+            "id": 68,
+            "teller": "Humano Apavorado",
+            "title": "???",
+            "content": "P-please, please don't kill me... Aagh!"
+        },
+        {
+            "id": 69,
+            "content": "Ao seguir até onde o serviçal me conduzia, lá se encontrava um passageiro tomado de pavor."
+        },
+        {
+            "id": 70,
+            "content": "Mas conservar a sanidade e ainda ansiar pela vida, mesmo dentro de um trem há tanto tempo estagnado... eis também boa madeira, digna de se tornar Família."
+        },
+        {
+            "id": 71,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Não há necessidade de te encheres de medo."
+        },
+        {
+            "id": 72,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Pois também eu tive um tempo em que era humano."
+        },
+        {
+            "id": 73,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Hum. Pelos critérios que a Cidade estabelece, talvez ainda hoje o seja. Nesse caso, restaria dividir entre o antes e o depois de eu assumir a natureza singular de um Sanguinário."
+        },
+        {
+            "id": 74,
+            "teller": "Humano Apavorado",
+            "title": "???",
+            "content": "…!"
+        },
+        {
+            "id": 75,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Para mim... fosse no tempo em que era humano, fosse quando me tornei Príncipe..."
+        },
+        {
+            "id": 76,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "...não fui capaz de sentir diferença alguma."
+        },
+        {
+            "id": 77,
+            "model": "뫼르소",
+            "teller": "Meursault",
+            "title": "Parente de Terceiro Grau",
+            "content": "Portanto, contigo... há de ser o mesmo."
+        },
+        {
+            "id": 78,
+            "teller": "Humano Apavorado",
+            "title": "???",
+            "content": "E-espera um instante... Que história é essa, não faz o menor sentido!!!"
+        },
+        {
+            "id": 79,
+            "content": "Não esperei por sua resposta e, sem mais, cravei-lhe os dentes no pescoço."
+        },
+        {
+            "id": 80,
+            "content": "Warm blood... spreads to every corner of my body."
+        },
+        {
+            "id": 81,
+            "content": "Talvez haja quem diga que se deve dar ouvidos ao que dizem os súditos do Reino, mas isso não seria eficiente."
+        },
+        {
+            "id": 82,
+            "content": "As regras que me foram dadas são apenas duas."
+        },
+        {
+            "id": 83,
+            "content": "Não deixes o Desfile parar."
+        },
+        {
+            "id": 84,
+            "content": "Two, I must raise my kingdom."
+        },
+        {
+            "id": 85,
+            "content": "... And no more."
+        }
+    ]
+}

@@ -1,0 +1,516 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Entrada do Centro de Barcos da Molar",
+            "model": "단테2",
+            "content": "<Ei, Ishmael.> "
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "... Sim."
+        },
+        {
+            "id": 2,
+            "model": "단테2",
+            "content": "<Podemos conversar, só um pouquinho?>"
+        },
+        {
+            "id": 3,
+            "content": "Após a batalha terminar, chamei Ishmael."
+        },
+        {
+            "id": 4,
+            "content": "Bem, nunca fiz algo assim antes... Então nem sei se é isso que deveria fazer, ou onde essa conversa vai acabar, mas..."
+        },
+        {
+            "id": 5,
+            "content": "Não posso só me sentar e observar."
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "Tá, tanto faz."
+        },
+        {
+            "id": 7,
+            "model": "단테2",
+            "content": "<Desde que chegamos aqui, parece que alguma coisa tem lhe preocupado...>"
+        },
+        {
+            "id": 8,
+            "model": "단테2",
+            "content": "<Sabe, você não tem participado muito das atividades em grupo e coisas do tipo.>"
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Claro que não. Há algo muito mais importante a ser resolvido, mas aqui estamos, se ocupando com essa brincadeira idiota."
+        },
+        {
+            "id": 10,
+            "model": "단테2",
+            "content": "<Algo mais importante... É sobre o Grande Lago?>"
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Sim."
+        },
+        {
+            "id": 12,
+            "model": "단테2",
+            "content": "<Sobre como nós, em nosso estado atual, não deveríamos ir lá?>"
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "Sim."
+        },
+        {
+            "id": 14,
+            "model": "단테2",
+            "content": "<Certo... Então, qual o motivo de não termos chance alguma contra o que nos espera lá?>"
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "content": "Já disse. Não estamos prontos."
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "content": "Vamos precisar de pelo menos seis meses para nos acostumarmos ao Grande Lago e o que nos espera lá..."
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "Ou talvez precisemos ser mais experientes, o suficiente para superar nossa desvantagem. O mesmo vale para você, Gerente. No mínimo, deveria conseguir se proteger..."
+        },
+        {
+            "id": 18,
+            "model": "이스마엘",
+            "content": "Ah, posso lhe ajudar com isso. E a Outis... Tenho certeza de que ela contribuiria com seu treinamento também."
+        },
+        {
+            "id": 19,
+            "model": "오티스",
+            "content": "... Caso surja necessidade, sim."
+        },
+        {
+            "id": 20,
+            "model": "단테2",
+            "content": "<C-calma. Calma.>"
+        },
+        {
+            "id": 21,
+            "model": "단테2",
+            "content": "<Meio ano, Ishmael...? Nós não podemos gastar tanto tempo assim.>"
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "Sério? É por isso que a gente tava jogando vôlei de praia? Porque não temos tempo pra gastar?"
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "Aliás... não é como se eu estivesse dizendo pra gente ficar chupando o dedo sem fazer nada! Só estou sugerindo ir a outros lugares e depois voltar aqui."
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Isso é impossível. Nem todas as localizações dos Ramos de Ouro nos Ninhos foram identificadas e o Time Pré-Missão ainda não concluiu suas investigações preliminares."
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "content": "Desculpas."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "Eu sei que vocês têm algum motivo escondido por trás disso, faz um tempo que eu percebi."
+        },
+        {
+            "id": 27,
+            "model": "이스마엘",
+            "content": "... E seja lá o que for, esse é um erro que vocês nunca vão esquecer."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "... Pode ser que sim."
+        },
+        {
+            "id": 29,
+            "model": "단테2",
+            "content": "<......> "
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Haah... Mas que bagunça."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "Nesse caso, nós deveríamos pelo menos planejar bem nossa rota de navegação e nossas estratégias de combate..."
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "content": "Só fala e fala..."
+        },
+        {
+            "id": 33,
+            "content": "Quando comecei a achar que a conversa estava chegando em um impasse, Heathcliff a interrompeu."
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Você de novo?"
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "content": "Fecha essa boca. Acha que é só difícil pra você? Todos nós já perdemos a conta de quantas vezes morremos. Cada um de nós!"
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Tô te falando, dessa vez também vai dar tudo certo!"
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "E eu estou dizendo que no Grande Lago é diferente. E se o Gerente se afogar? E se aquela coisa nos devorar e não ter como recuperar os nossos corpos?"
+        },
+        {
+            "id": 38,
+            "model": "이스마엘",
+            "content": "Entendeu? Isso não é nada parecido com o que já lidamos! Pode ser o fim de todos nós!"
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "E então eu... não teria uma chance de matar aquela desgraçada..."
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "... Bem. Vamos dizer que você esteja certa mesmo. Se a gente ir lá agora, todo mundo vai morrer, e eu não vou poder voltar pra Cath... Digo, eu não vou poder voltar à vida."
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "content": "Então qual o problema de esticar as pernas um pouco? Vai me dizer que essas tais baleias tão malhando pra matar a gente?"
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "content": "Você não para de estragar o clima do pessoal desde que a gente chegou aqui! Pelo menos tenha o bom senso de não arrastar todo mundo contigo pra dentro desse seu mal humor!"
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "Ah, e logo você vai dizer isso, Heathcliff?"
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "Você acha que esse seu 'bom senso' vale alguma coisa no Grande Lago? Já viu uma baleia de perto? Desde quando você virou o dono da verdade? "
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "Você nem sabe como é a vida a bordo de um navio. Hah, nem teria como, né? Você só passa o dia inteiro choramingando por causa dessa sua namorada, dormindo no ônibus ou fazendo piti de vez em quando!"
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "content": "... Para com isso."
+        },
+        {
+            "id": 47,
+            "model": "이스마엘",
+            "content": "É assim mesmo, matar ou morrer. Não importa se são as coisas nas profundezas das águas ou as coisas que voam pelos céus e caem no convés..."
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "Tufões ácidos, tsunamis de atum, tempestades de pressão cerebral, outros desastres do lago que nem consigo me lembrar do nome!"
+        },
+        {
+            "id": 49,
+            "model": "이스마엘",
+            "content": "E com as tempestades vêm ondas monstruosas, altas como montanhas! E assim que passam, aqueles monstros de merda caem no convés!"
+        },
+        {
+            "id": 50,
+            "model": "이스마엘",
+            "content": "Se você não prestar atenção por um único segundo e seu companheiro, que você confiava mais que tudo, morre! Tudo e todos enlouquecem e são transformados de forma irreconhecível naquele lago maldito!"
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "É algo que um imbecil todo apaixonado como você..."
+        },
+        {
+            "id": 52,
+            "model": "이스마엘",
+            "content": "... Nunca vai entender, mesmo morrendo centenas de vezes."
+        },
+        {
+            "id": 53,
+            "model": "히스클리프",
+            "content": "Eu já disse pra você parar!"
+        },
+        {
+            "id": 54,
+            "content": "Antes que alguém pudesse intervir, Heathcliff soltou um soco violento em direção a Ishmael."
+        },
+        {
+            "id": 55,
+            "model": "이스마엘",
+            "content": "Agh..."
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "content": "Para de fingir que me conhece! Você tá falando merda!"
+        },
+        {
+            "id": 57,
+            "model": "이상",
+            "content": "C-Camaradas..."
+        },
+        {
+            "id": 58,
+            "content": "A briga se intensificou tão rapidamente que ninguém conseguiu sequer tentar intervir; Yi Sang, que estava parado ali, perplexo, portava uma expressão que me trazia pena."
+        },
+        {
+            "id": 59,
+            "content": "Heathcliff deu um soco na boca de Ishmael, parecendo, por um momento, ter a vantagem, mas..."
+        },
+        {
+            "id": 60,
+            "model": "이스마엘",
+            "content": "Aaaarrrgggh!"
+        },
+        {
+            "id": 61,
+            "model": "히스클리프",
+            "content": "Opa?!"
+        },
+        {
+            "id": 62,
+            "content": "Logo quando Ishmael parecia prestes a dar um soco, ela chutou a perna de Heathcliff, fazendo-o cair no chão."
+        },
+        {
+            "id": 63,
+            "model": "단테2",
+            "content": "<I-Ishmael, espera!>"
+        },
+        {
+            "id": 64,
+            "content": "E, no instante seguinte, Ishmael agarrou a sua maça."
+        },
+        {
+            "id": 65,
+            "content": "Ela a levanta como se estivesse prestes a atacar. Seu braço parecia tremer com uma raiva incontrolável."
+        },
+        {
+            "id": 66,
+            "model": "히스클리프",
+            "content": "... E aí, vai fazer o quê? Vai abrir minha cabeça? Que nem eu fiz com a sua?"
+        },
+        {
+            "id": 67,
+            "model": "히스클리프",
+            "content": "Vai fundo, me mata. Não ligo. Já, já eu volto."
+        },
+        {
+            "id": 68,
+            "model": "히스클리프",
+            "content": "... Foi burrice minha achar que você seria diferente de mim..."
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Hah, no fim, todo mundo é igual."
+        },
+        {
+            "id": 70,
+            "model": "이스마엘",
+            "content": "...!"
+        },
+        {
+            "id": 71,
+            "model": "단테2",
+            "content": "<Ah...> "
+        },
+        {
+            "id": 72,
+            "content": "Não tinha certeza do que fez ela mudar de ideia, mas foi um alívio. Ishmael olhou para Heathcliff com olhos arregalados... e deixou sua maça cair no chão."
+        },
+        {
+            "id": 73,
+            "model": "이상",
+            "content": "Desejava nunca mais ter que testemunhar tal beligerância entre amigos..."
+        },
+        {
+            "id": 74,
+            "model": "이상",
+            "content": "Mas afinal, talvez o conflito entre companheiros seja inevitável..."
+        },
+        {
+            "id": 75,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Hyaah~ Ver eles me lembra dos velhos tempos, né? A gente ficava brigando bastante antigamente~"
+        },
+        {
+            "id": 76,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Irmãzona, shhh! Shhh!!"
+        },
+        {
+            "id": 77,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Haah..."
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Dante, embora nunca tenha mencionado isso, já que nunca tivemos uma discussão assim desde nossa primeira missão..."
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "Conflito entre Pecadores podem ser considerados uma falha na gestão, é possível que seja causa de punições no futuro."
+        },
+        {
+            "id": 80,
+            "model": "단테2",
+            "content": "<Eu...>"
+        },
+        {
+            "id": 81,
+            "content": "O que diabos que era pra eu ter feito?"
+        },
+        {
+            "id": 82,
+            "content": "... É o que queria tanto dizer, mas consegui segurar meus ponteiros."
+        },
+        {
+            "id": 83,
+            "model": "오티스",
+            "content": "Como que isso é responsabilidade do Gerente Executivo, Faust? Não foram aqueles idiotas que começaram a brigar entre si?"
+        },
+        {
+            "id": 84,
+            "model": "파우스트",
+            "content": "Evitar que tais situações ocorram é o dever de um gerente."
+        },
+        {
+            "id": 85,
+            "model": "오티스",
+            "content": "Você..."
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "P-por favor, parem com isso, pessoal..."
+        },
+        {
+            "id": 87,
+            "model": "돈키호테",
+            "content": "Certamente, tal comportamento não é digno de nossa heroica Limbus Company..."
+        },
+        {
+            "id": 88,
+            "content": "Sinclair se aproximando furtivamente, as vaias de Don Quixote, a voz calma de Faust e Outis levantando a voz para me defender."
+        },
+        {
+            "id": 89,
+            "content": "Tudo isso se acumulou a ponto de se tornar completamente irritante..."
+        },
+        {
+            "id": 90,
+            "model": "단테2",
+            "content": "<Parem...>"
+        },
+        {
+            "id": 91,
+            "model": "단테2",
+            "content": "<Pessoal. Chega.>"
+        },
+        {
+            "id": 92,
+            "content": "Já não tinha nenhuma outra opção disponível."
+        },
+        {
+            "id": 93,
+            "model": "단테2",
+            "content": "<Ishmael, Heathcliff.> "
+        },
+        {
+            "id": 94,
+            "model": "히스클리프",
+            "content": "... Quê."
+        },
+        {
+            "id": 95,
+            "model": "이스마엘",
+            "content": "......"
+        },
+        {
+            "id": 96,
+            "model": "단테2",
+            "content": "<Vocês dois vão parar de trabalhar juntos por um tempo. Evitem se encontrar e se separem um do outro.>"
+        },
+        {
+            "id": 97,
+            "model": "단테2",
+            "content": "<Pelo menos... até eu descobrir um jeito de lidar com vocês, será assim.>"
+        },
+        {
+            "id": 98,
+            "model": "히스클리프",
+            "content": "Eu também nem queria ver a cara dela mesmo."
+        },
+        {
+            "id": 99,
+            "model": "이스마엘",
+            "content": "... Okay."
+        },
+        {
+            "id": 100,
+            "content": "Assim, o clima ficou sombrio, não muito diferente desse lamaçal deprimente..."
+        },
+        {
+            "id": 101,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Okay, Okay... Agora que temos uma aproximação do que precisamos, acho que vocês podem começar a coletar mais sucata."
+        },
+        {
+            "id": 102,
+            "teller": "Pecadores",
+            "title": "A LCB",
+            "content": "……"
+        },
+        {
+            "id": 103,
+            "content": "Vários dias se passaram coletando sucata com os Pecadores."
+        }
+    ]
+}

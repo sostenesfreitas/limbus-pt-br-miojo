@@ -1,0 +1,849 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Frente do Bar e Restaurante do Eunbong",
+            "model": "단테",
+            "content": "<O que nós deveríamos fazer para resolver uma Distorção?>"
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "content": "É simples."
+        },
+        {
+            "id": 2,
+            "content": "Faust parecia ter um hábito de apresentar suas exposições com um aviso sobre a simplicidade do mesmo."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "O que faremos é abrir o coração do Distorcido."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "Desarmar sua proteção mental e coagi-lo a se abrir."
+        },
+        {
+            "id": 5,
+            "model": "료슈",
+            "content": "Entendi. Removemos a escápula antes? Ou talvez o esterno?"
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Hmm, uma revelação física do coração... Uma proposta interessante."
+        },
+        {
+            "id": 7,
+            "model": "단테",
+            "content": "<Uhm... Primeiro, nós provavelmente deveríamos visitar o lugar desse Eunbong e entender algumas coisas.>"
+        },
+        {
+            "id": 8,
+            "model": "싱클레어",
+            "content": "Ugh... Tem aves cruas andando pelo lugar. Isso não deve ser nada higiênico..."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Elas se parecem com as coisas que estavam na cabeça daquelas pessoas antes.>"
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Eu não sei o que eles são, mas não deveríamos nos aproximar muito…>"
+        },
+        {
+            "id": 11,
+            "content": "Infelizmente, eu tinha esquecido que cerca de 80% dos Pecadores preferem ouvir um vira-lata a ouvir minhas sugestões."
+        },
+        {
+            "id": 12,
+            "model": "뒤틀린닭1",
+            "teller": "Galinha Crua",
+            "title": "Coisa Distorcida",
+            "content": "Kieeeh!"
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "content": "Então a gente vai poder ter frango de graça pro resto da vida quando terminar de matar essas frangas, hein?"
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "content": "Fofo. Vamos CUTILAR."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<Eu entendi essa! Essa aí foi \"Corte Usando Técnicas Implacáveis, Lacerando Aos Retalhos\"!>"
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "... Huh."
+        },
+        {
+            "id": 18,
+            "model": "료슈",
+            "content": "(Concordando.)"
+        },
+        {
+            "id": 19,
+            "content": "Irritadas, as galinhas cruas saltaram ao ar..."
+        },
+        {
+            "id": 20,
+            "model": "싱클레어",
+            "content": "Ah, Heathcliff?!?!"
+        },
+        {
+            "id": 21,
+            "content": "E a cabeça de Heathcliff foi devorada por uma delas."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "……"
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<…Heathcliff?!!>"
+        },
+        {
+            "id": 24,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "……"
+        },
+        {
+            "id": 25,
+            "content": "Heathcliff ficou parado em silêncio com a galinha crua adornando sua cabeça..."
+        },
+        {
+            "id": 26,
+            "content": "Foi uma vista e tanto, realmente aterrorizante."
+        },
+        {
+            "id": 27,
+            "model": "이스마엘",
+            "content": "Eu acho que prefiro o Heathcliff assim, sabe? Ele pelo menos parece mais inteligente agora."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "Minha nossa, o que a gente faz, Dante? Já sei, rápido! Seu relógio!"
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<M-Mas daí...>"
+        },
+        {
+            "id": 30,
+            "content": "Nada me impediria de rebobinar aqui. Mas o problema é..."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<E se a minha cabeça virar uma galinha enquanto o relógio estiver voltando?>"
+        },
+        {
+            "id": 32,
+            "model": "료슈",
+            "content": "M.D."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Mesma diferença?!"
+        },
+        {
+            "id": 34,
+            "model": "료슈",
+            "content": "Cabeça de relógio, cabeça de galinha—não tem diferença, então não entendo porque se zangar com isso."
+        },
+        {
+            "id": 35,
+            "content": "Parecia que Sinclair era o único realmente preocupado com o Heathcliff."
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "Senhor Heathcliff! Está tudo bem aí?"
+        },
+        {
+            "id": 37,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Ghii... Ghii..."
+        },
+        {
+            "id": 38,
+            "model": "로쟈",
+            "content": "Ei, por que a gente não deixa ele como nosso mascote se essa coisa nunca sair?"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Qual é a de você e mascotes, afinal...?>"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Ghiii… Cooh…"
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "Ohhhh! Olhai bem! Heathcliff está a comunicar-se com as outras galinhas!"
+        },
+        {
+            "id": 42,
+            "model": "뒤틀린손님2",
+            "teller": "Cabeça de galinha",
+            "title": "Coisa Distorcida",
+            "content": "Pupócó! Pupócócoro. Pupócóricó!"
+        },
+        {
+            "id": 43,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Pupóri… Cocóripocó… Pupó…"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Hehe, você virou um grande tagarela, Heathcliff."
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Parece que é a galinha sentada em seu rosto que está usando a boca para se comunicar, e não o próprio Heathcliff."
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "content": "Snif... Não posso deixar o Sir Heathcliff nesta situação... Desejei já fazer um cosplay com ele certo dia, ambos como \"Mandatários del Atardecer Ardiente\"... Seríamos alvos de puro escárnio caso ele se envolvesse em pantomimas com tal cabeça de galinha..."
+        },
+        {
+            "id": 47,
+            "content": "Para evitar a multidão aglomerada, empurramos Heathcliff para dentro do Bar e o entramos com ele."
+        },
+        {
+            "id": 48,
+            "place": "Bar e Restaurante do Eunbong",
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Ghiii… Ghiii…"
+        },
+        {
+            "id": 49,
+            "model": "오티스",
+            "content": "Não aguento mais essa cacarejada. Vou fazer ele acordar rapidinho."
+        },
+        {
+            "id": 50,
+            "content": "Outis agarrou o frango cru na cabeça de Heathcliff com uma mão e começou a bater nele implacavelmente com a outra."
+        },
+        {
+            "id": 51,
+            "content": "Furiosamente…"
+        },
+        {
+            "id": 52,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Kwi… Giidoough..."
+        },
+        {
+            "id": 53,
+            "model": "뫼르소",
+            "content": "… O som dos impactos era comparável ao de quando ela interrogava um inimigo capturado."
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "Não acho que ele vá se recuperar sozinho. Isso não nos deixa escolha. Vou remover a cabeça de frango de uma vez."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Será que é seguro mesmo arrancar tudo de uma vez? Você vai é arrancar a cara dele fora!"
+        },
+        {
+            "id": 56,
+            "model": "오티스",
+            "content": "Toma jeito. Mesmo que sua pele seja arrancada, está tudo bem, pois nosso gerente executivo está aqui para cuidar disso."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Não, espera aí... Não é tão simples assim, você não pode só—>"
+        },
+        {
+            "id": 58,
+            "content": "Apesar da minha objeção, Outis começou a sacudir a galinha com toda sua força."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프요리사",
+            "teller": "Heathcliff?",
+            "title": "Coisa Distorcida?",
+            "content": "Kiiiiih khiiiiiih!!!"
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<Eu ouvi algo rasgando… Ela não saiu de verdade não, né? Hein?>"
+        },
+        {
+            "id": 61,
+            "model": "히스클리프",
+            "content": "Kuff… Kaff… Gehg…"
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Feliz em estar de volta, soldado?"
+        },
+        {
+            "id": 63,
+            "model": "히스클리프",
+            "content": "Urgh… Quê que é esse gosto de miojo barato na minha boca...?"
+        },
+        {
+            "id": 64,
+            "model": "로쟈",
+            "content": "Heath… Você tava tendo uma discussão séria com aquelas galinhas, cacarejando coisas estranhas. Lembra?"
+        },
+        {
+            "id": 65,
+            "model": "히스클리프",
+            "content": "Huh, agora que você disse… Acho que ouvi alguma frangalhada na minha cabeça…"
+        },
+        {
+            "id": 66,
+            "model": "히스클리프",
+            "content": "O-O que eles estavam falando… Algum tipo de receita perdida, eu acho…"
+        },
+        {
+            "id": 67,
+            "model": "히스클리프",
+            "content": "Era o carro-chefe desse restaurante, mas quando ela se foi… Ele parou de receber clientes…"
+        },
+        {
+            "id": 68,
+            "model": "히스클리프",
+            "content": "Foi quando o mestre começou a agir… e infectou todos nós…"
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Pft… Você acabou de dizer que aquelas galinhas eram “nós”?"
+        },
+        {
+            "id": 70,
+            "model": "히스클리프",
+            "content": "… Droga, ainda tô me recuperando dessas lavagens cerebrais… Isso é esquisito…"
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "Foi assim que você decidiu chamá-las…?"
+        },
+        {
+            "id": 72,
+            "model": "단테",
+            "content": "<Se a Distorção aconteceu por causa dessa receita perdida…>"
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Então talvez possamos a recriar para ele?>"
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Você quase conseguiu a resposta."
+        },
+        {
+            "id": 75,
+            "model": "파우스트",
+            "content": "Embora muito sobre a Distorção permaneça desconhecido, um dos detalhes notáveis é que ela ocorre quando o bem e o mal... Não, quando a mente se desintegra em pedaços figurativos."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Parece que você simplesmente se afastou de “bem e mal” porque essa versão ficaria longa demais para você se dar ao trabalho de explicar…>"
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Por exemplo, digamos que Hong Lu tinha uma crença a qual ele tinha certeza de que seria uma constante imutável enquanto ele vivesse na Cidade."
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Ou poderia ser algo como uma esperança por algum outro suporte psicológico que tenha sustentado sua vida."
+        },
+        {
+            "id": 79,
+            "model": "홍루",
+            "content": "... Hmm."
+        },
+        {
+            "id": 80,
+            "model": "파우스트",
+            "content": "Se esse suporte entrar em colapso de repente num evento extremamente chocante que faça com que a pessoa solte o seu \"ego\", sua mente desmoronaria, por assim dizer."
+        },
+        {
+            "id": 81,
+            "model": "홍루",
+            "content": "... Bem, eu posso ver isso acontecendo."
+        },
+        {
+            "id": 82,
+            "model": "히스클리프",
+            "content": "O que poderia ser tão chocante pra você, que nasceu com uma colher de prata na boca? Ter sua carteirinha roubada?"
+        },
+        {
+            "id": 83,
+            "model": "홍루",
+            "content": "Oh, não, eu nunca recebi uma mesada. Não tinha nenhuma necessidade desse tipo de coisa quando podia gastar o quanto eu quisesse, quando eu quisesse."
+        },
+        {
+            "id": 84,
+            "model": "로쟈",
+            "content": "Sério? O que mais poderia ser, então?"
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Hm... Eu pensei que sabia, mas não consigo elaborar as palavras no momento."
+        },
+        {
+            "id": 86,
+            "model": "파우스트",
+            "content": "Retornando ao ponto e resumindo as coisas..."
+        },
+        {
+            "id": 87,
+            "model": "파우스트",
+            "content": "A Distorção... é um fenômeno que surge de um choque psicológico profundamente pessoal."
+        },
+        {
+            "id": 88,
+            "model": "파우스트",
+            "content": "O afetado terá protegido seu coração com uma muralha."
+        },
+        {
+            "id": 89,
+            "model": "파우스트",
+            "content": "Essa muralha tem que ser derrubada usando métodos que o Distorcido aprovaria."
+        },
+        {
+            "id": 90,
+            "model": "그레고르",
+            "content": "E, nesse caso, a Distorção iria querer...."
+        },
+        {
+            "id": 91,
+            "model": "그레고르",
+            "content": "... cozinha à base de frango, claro."
+        },
+        {
+            "id": 92,
+            "content": "Gregor tomou um passo confiante para frente após dizer isso."
+        },
+        {
+            "id": 93,
+            "model": "그레고르",
+            "content": "Eu cozinhei algumas refeições muito boas usando restos e latas para os meus companheiros de armas durante a guerra."
+        },
+        {
+            "id": 94,
+            "model": "그레고르",
+            "content": "Aqueles soldados traumatizados foram levados aos prantos pelos meus pratos enquanto devoravam tudo."
+        },
+        {
+            "id": 95,
+            "model": "료슈",
+            "content": "Hmph."
+        },
+        {
+            "id": 96,
+            "model": "그레고르",
+            "content": "... Ei, foi só eu... ou alguém mais escutou alguém zombando de mim?"
+        },
+        {
+            "id": 97,
+            "model": "료슈",
+            "content": "Que engraçado. O que uma B.P.R. sabe sobre culinária? Você ficaria melhor virando hambúrgueres com essa pinça."
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Ooh~ Se o Senhor Gregor abrisse um negócio, ele seria um chefe com muita garra!"
+        },
+        {
+            "id": 99,
+            "model": "그레고르",
+            "content": "... Ryōshū, isso foi uma abreviação de \"Bola de Pelos Rastejante\", não foi? Mas assim, eu gosto da ideia de ser o cara com muita garra... Hein? Senti uma pontada na minha cabeça..."
+        },
+        {
+            "id": 100,
+            "model": "료슈",
+            "content": "Um verdadeiro chef... segue seu paladar e sua lâmina."
+        },
+        {
+            "id": 101,
+            "model": "료슈",
+            "content": "Você pode mesmo dizer que comida feita de qualquer jeito numa zona de guerra é cozinha de verdade?"
+        },
+        {
+            "id": 102,
+            "model": "로쟈",
+            "content": "Ohhh~ Essa aí vai pros livros de culinária!"
+        },
+        {
+            "id": 103,
+            "model": "싱클레어",
+            "content": "Senhora Ryōshū, finalmente falando com palavras inteiras!"
+        },
+        {
+            "id": 104,
+            "model": "그레고르",
+            "content": "Tsk... Soou legal, mas eu não tenho certeza que você é do tipo que deveria estar dando conselhos..."
+        },
+        {
+            "id": 105,
+            "model": "그레고르",
+            "content": "Na verdade, pera um pouco, você pelo menos já cozinhou alguma vez antes, Ryōshū?"
+        },
+        {
+            "id": 106,
+            "model": "료슈",
+            "content": "Obviamente. Eu já montei pratos num nível que um cozinheiro pífio como você não conseguiria nem imaginar."
+        },
+        {
+            "id": 107,
+            "model": "그레고르",
+            "content": "Ok, agora eu estou começando a ficar bravo..."
+        },
+        {
+            "id": 108,
+            "model": "로쟈",
+            "content": "Vejamos, então... Estou no lado da Shū!"
+        },
+        {
+            "id": 109,
+            "model": "그레고르",
+            "content": "Por acaso vamos nos dividir em equipes agora?"
+        },
+        {
+            "id": 110,
+            "model": "로쟈",
+            "content": "Ahaha, assim, é bem divertido~"
+        },
+        {
+            "id": 111,
+            "model": "그레고르",
+            "content": "E por que você tá do lado dela?"
+        },
+        {
+            "id": 112,
+            "model": "로쟈",
+            "content": "Greg, querido, estivemos grudados por tanto tempo. Por que a gente não tenta um pouco de distanciamento só por hoje?"
+        },
+        {
+            "id": 113,
+            "content": "Heathcliff, se livrando da tontura, andou até o lado do Gregor."
+        },
+        {
+            "id": 114,
+            "model": "히스클리프",
+            "content": "Então a gente vence se esmagar ela, é?"
+        },
+        {
+            "id": 115,
+            "model": "그레고르",
+            "content": "Não, não, não vamos esmagar ninguém com força..."
+        },
+        {
+            "id": 116,
+            "model": "오티스",
+            "content": "Você admite que alimentou seus homens com comida enlatada? Você é uma desgraça como soldado. A propósito, prefiro muito mais comida instantânea."
+        },
+        {
+            "id": 117,
+            "model": "그레고르",
+            "content": "Mas aí é só questão de gosto!"
+        },
+        {
+            "id": 118,
+            "model": "이스마엘",
+            "content": "Isso é muito infantil, sério. Vocês realmente querem se separar em times por causa disso?"
+        },
+        {
+            "id": 119,
+            "model": "로쟈",
+            "content": "Vai, conta pra gente! De que lado você tá, Ishzinha? Se tivesse que escolher entre o Greg e a Ryōshū pra servir comida pra nós, Pecadores..."
+        },
+        {
+            "id": 120,
+            "model": "그레고르",
+            "content": "Não tente persuadi-la. Eu sei que eu e a Ishmael estivemos como carne e unha desde o começo"
+        },
+        {
+            "id": 121,
+            "content": "Apesar da confiança do Gregor, o rosto e a postura da Ishmael mostravam uma espécie de constrangimento."
+        },
+        {
+            "id": 122,
+            "model": "그레고르",
+            "content": "I-Ishmael...?"
+        },
+        {
+            "id": 123,
+            "model": "이스마엘",
+            "content": "Foi mal, Gregor, mas se é sobre enlatados... Eu já comi muito mais do que eu gostaria no navio..."
+        },
+        {
+            "id": 124,
+            "model": "그레고르",
+            "content": "Pô, por que você não me olha nos olhos, Ishmael? Hein?"
+        },
+        {
+            "id": 125,
+            "content": "Ishmael tomou alguns passos lentos para trás e ficou do lado da Ryōshū."
+        },
+        {
+            "id": 126,
+            "content": "Seus olhos nunca se ergueram para encarar o Gregor."
+        },
+        {
+            "id": 127,
+            "model": "그레고르",
+            "content": "……"
+        },
+        {
+            "id": 128,
+            "model": "료슈",
+            "content": "Heh."
+        },
+        {
+            "id": 129,
+            "content": "Embora não houvesse muito entrosamento pra começo de conversa... Eu pude ouvir o pouco que existia de confiança entre os dois se quebrando."
+        },
+        {
+            "id": 130,
+            "content": "Don Quixote havia se grudado atrás do Gregor antes que eu tivesse notado. Seu rosto estava com uma cor estranha."
+        },
+        {
+            "id": 131,
+            "model": "돈키호테",
+            "content": "N-Na verdade, enquanto ceávamos o frango espetado dentro do ônibus... eu... fui testemunha... do acto mais horrível daquela mulher..."
+        },
+        {
+            "id": 132,
+            "model": "그레고르",
+            "content": "O que ela fez com o kebab de frango?"
+        },
+        {
+            "id": 133,
+            "model": "돈키호테",
+            "content": "Eu—Isso... Não, eu não... poderia começar a descrever..."
+        },
+        {
+            "id": 134,
+            "model": "료슈",
+            "content": "Ahh, muito bom, muito bom... Você viu, não viu? Huhu, foi uma técnica secreta minha para realçar o sabor supremo do dak-kkochi..."
+        },
+        {
+            "id": 135,
+            "content": "Don Quixote tremeu violentamente."
+        },
+        {
+            "id": 136,
+            "content": "Logo mesmo, Hong Lu foi para o lado do Gregor com um brilho em seus olhos."
+        },
+        {
+            "id": 137,
+            "model": "홍루",
+            "content": "Hoho, seria uma experiência única experimentar pratos que são comparáveis a ração de animal ao menos uma vez na vida, né? Eu estarei torcendo por você, Gregor!"
+        },
+        {
+            "id": 138,
+            "model": "그레고르",
+            "content": "Er, certo. Muito obrigado, Hong Lu..."
+        },
+        {
+            "id": 139,
+            "content": "Hong Lu ficou atrás de Gregor, com um sorriso gentil no rosto."
+        },
+        {
+            "id": 140,
+            "model": "그레고르",
+            "content": "Faust! Posso contar com você, de todas as pessoas, para fazer a escolha lógica, certo?"
+        },
+        {
+            "id": 141,
+            "model": "파우스트",
+            "content": "Não sei, pois Faust... pode gostar de aventuras arriscadas de vez em quando."
+        },
+        {
+            "id": 142,
+            "content": "Com essa observação profunda, Faust tomou seu lugar atrás de Ryōshū."
+        },
+        {
+            "id": 143,
+            "model": "싱클레어",
+            "content": "Eu realmente não entendo... Por que estamos dividindo nosso grupo em times opostos?"
+        },
+        {
+            "id": 144,
+            "model": "료슈",
+            "content": "Ei, PINTO. Escolha um jeito de sobreviver ou caia fora."
+        },
+        {
+            "id": 145,
+            "model": "싱클레어",
+            "content": "Pi... Piado inseguro numerosamente trapalhado, ovinho... ?! E-Então..."
+        },
+        {
+            "id": 146,
+            "model": "단테",
+            "content": "<Sinclair... Talvez você esteja ligado à Ryōshū num nível espiritual a essa altura do campeonato.>"
+        },
+        {
+            "id": 147,
+            "content": "O comentário cruel da Ryōshū fez o Sinclair ir com passos pesados para seu lado."
+        },
+        {
+            "id": 148,
+            "model": "그레고르",
+            "content": "Não é meio injusto ameaçar ele pro seu lado? Você tá roubando!"
+        },
+        {
+            "id": 149,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 150,
+            "model": "이상",
+            "content": "Não escolherei. Em vez disso, aguardo humildemente a seleção."
+        },
+        {
+            "id": 151,
+            "model": "료슈",
+            "content": "Não preciso desse. Pode pegar."
+        },
+        {
+            "id": 152,
+            "model": "이상",
+            "content": "……"
+        },
+        {
+            "id": 153,
+            "content": "Yi Sang foi colocado no time do Gregor sem ter que mexer um músculo. "
+        },
+        {
+            "id": 154,
+            "content": "Por último, Meursault silenciosamente se pôs atrás de Gregor."
+        },
+        {
+            "id": 155,
+            "model": "그레고르",
+            "content": "M-Meursault…"
+        },
+        {
+            "id": 156,
+            "model": "그레고르",
+            "content": "Estou um pouco comovido. Sei que nunca falamos muito, mas você ainda decidiu vir e ficar ao meu lado quando eu mais precisei, estou tão—"
+        },
+        {
+            "id": 157,
+            "model": "뫼르소",
+            "content": "Só o fiz porque entrar no time com menos membros estabeleceria o equilíbrio certo."
+        },
+        {
+            "id": 158,
+            "content": "Alguns proclamarão que viram lágrimas se juntarem nos olhos de Gregor naquele momento."
+        },
+        {
+            "id": 159,
+            "content": "Com os times decididos, nós entramos na cozinha do Eunbong, buscando um lugar adequado para cozinhar."
+        },
+        {
+            "id": 160,
+            "content": "O lugar havia se tornado uma bagunça de longa negligência e traços de destruição galinácea."
+        },
+        {
+            "id": 161,
+            "content": "Entretanto, Ryōshū e Gregor jogaram pratos alheios e utensílios perdidos para longe como se não fosse nada da conta deles e logo tomaram seus lugares. "
+        },
+        {
+            "id": 162,
+            "model": "단테",
+            "content": "<Espera aí, nós temos permissão de fazer tudo isso no restaurante de outra pessoa?>"
+        },
+        {
+            "id": 163,
+            "model": "료슈",
+            "content": "É um BALSAS, por que se importar."
+        },
+        {
+            "id": 164,
+            "model": "싱클레어",
+            "content": "Você não pode chamar de um bar amaldiçoado no limiar, sem alternativa de salvação—estamos tentando ajudar!"
+        },
+        {
+            "id": 165,
+            "model": "그레고르",
+            "content": "É. Nosso objetivo é lidar com a Distorção, não é?"
+        },
+        {
+            "id": 166,
+            "model": "뒤틀린닭1",
+            "teller": "Galinha Crua",
+            "title": "Coisa Distorcida",
+            "content": "Popócócócó!!!"
+        },
+        {
+            "id": 167,
+            "content": "Um bando enfurecido de galinhas começou a chacoalhar para intimidar os intrusos repentinos, mas para seu azar..."
+        },
+        {
+            "id": 168,
+            "model": "그렉료슈",
+            "teller": "Gregor e Ryōshū",
+            "title": "Pecadores",
+            "content": "Entrem no meu caminho e vocês todos serão fatiados!\nEntrem no meu caminho e vocês todos serão cortados!"
+        },
+        {
+            "id": 169,
+            "model": "단테",
+            "content": "<Parece que agora vocês dois se entenderam...>"
+        }
+    ]
+}

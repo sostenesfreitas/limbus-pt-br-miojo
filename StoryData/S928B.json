@@ -1,0 +1,357 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCD",
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Aah, por favor, não rebatam os meus ataques usando o braço direito. Ver os materiais ganharem arranhões me parte o coração."
+        },
+        {
+            "id": 1,
+            "model": "돈키호테다침",
+            "content": "Nngh... Silence!"
+        },
+        {
+            "id": 2,
+            "model": "돈키호테다침",
+            "content": "Antes de servir a essa vossa arte cruel, eu prefiro arrancá-lo com as minhas próprias mãos."
+        },
+        {
+            "id": 3,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Mutilar o próprio corpo pela sobrevivência, sem estética alguma, não é coisa boa, mas..."
+        },
+        {
+            "id": 4,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "...um braço arrancado carregando essa sua emoção intensa... talvez venha a ser uma obra bem razoável."
+        },
+        {
+            "id": 5,
+            "model": "히스클리프다침2",
+            "content": "Ei... não fica respondendo uma por uma a cada baboseira dessas dele. Deixa ele desperdiçar energia tagarelando."
+        },
+        {
+            "id": 6,
+            "model": "싱클레어다침",
+            "content": "...Acho melhor a gente investir os quatro de uma vez só."
+        },
+        {
+            "id": 7,
+            "model": "히스클리프다침2",
+            "content": "You're gettin' it, lad! You're a right proper brawler now!"
+        },
+        {
+            "id": 8,
+            "model": "파우스트다침",
+            "content": "...!"
+        },
+        {
+            "id": 9,
+            "model": "파우스트다침",
+            "content": "Não, esperem um momento. Isto..."
+        },
+        {
+            "id": 10,
+            "model": "히스클리프다침2",
+            "content": "O que é? De todo modo, agora, com um ataque rápido e decisivo..."
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "teller": "Rádio",
+            "content": "Assistant...?"
+        },
+        {
+            "id": 12,
+            "model": "파우스트다침",
+            "content": "This is..."
+        },
+        {
+            "id": 13,
+            "model": "파우스트다침",
+            "content": "Hohenheim...!"
+        },
+        {
+            "id": 14,
+            "place": "Equipe de Pesquisa da LCE\nSala de Controle",
+            "teller": "Rádio",
+            "title": "???",
+            "content": "......."
+        },
+        {
+            "id": 15,
+            "teller": "Rádio",
+            "title": "???",
+            "content": "......."
+        },
+        {
+            "id": 16,
+            "model": "마튼",
+            "content": "W-what is going on?!"
+        },
+        {
+            "id": 17,
+            "model": "호엔하임",
+            "content": "...Pelo visto eu queria pedir desculpas."
+        },
+        {
+            "id": 18,
+            "model": "호엔하임",
+            "content": "Esta situação... está bem fora do alcance do previsível, não está?"
+        },
+        {
+            "id": 19,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "O fio se soltou...? Não, ao contrário, parece justamente que ele foi arrastado pelo fio."
+        },
+        {
+            "id": 20,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Yoshihide, dentre as obras da Cidade, não gostava em especial era de marionetes."
+        },
+        {
+            "id": 21,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Aquela criança, como dizer, considerava os bonecos uma espécie de imitação. Por mais engenhosa e semelhante que fosse a fatura, não teria nem valor de comparação com o verdadeiro, que vive e respira — era isso."
+        },
+        {
+            "id": 22,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Mas não se deve considerá-lo apenas uma imitação, e nada mais. Conforme o ponto de vista, isso, ao contrário, bem pode vir a ser uma utopia."
+        },
+        {
+            "id": 23,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Nós também... subindo por todos os fios atados... à medida que subimos..."
+        },
+        {
+            "id": 24,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "...ainda que pareçamos agir cada um de seu modo... lá em cima, talvez haja a mão de uma única e mesma pessoa."
+        },
+        {
+            "id": 25,
+            "model": "호엔하임",
+            "content": "É curioso ouvir de um Anelar o boato de beco de que os Dedos, na verdade, são um só. Uma teoria da conspiração barata e não comprovada dessas não tem grande valor para um pesquisador."
+        },
+        {
+            "id": 26,
+            "model": "호엔하임",
+            "content": "De todo modo... o ambicioso plano do assistente virou água."
+        },
+        {
+            "id": 27,
+            "model": "마튼",
+            "content": "......."
+        },
+        {
+            "id": 28,
+            "model": "호엔하임",
+            "content": "É por isso que, quanto mais variados os planos, melhor. Hum. Quando foi o último experimento de combate? Foi três dias atrás?"
+        },
+        {
+            "id": 29,
+            "model": "마튼",
+            "content": "... 4 days ago."
+        },
+        {
+            "id": 30,
+            "model": "마튼",
+            "content": "Resmungando que, para o orçamento investido, o resultado era péssimo... o senhor pagou um café para mim e para a Alisa. Café de máquina."
+        },
+        {
+            "id": 31,
+            "model": "호엔하임",
+            "content": "Você também... tem lá uma boa memória. Mas, em tempo decorrido, está mais perto de três dias."
+        },
+        {
+            "id": 32,
+            "model": "호엔하임",
+            "content": "Enfim, não se preocupe. Sinceramente, ainda me resta um preconceito quanto à sua capacidade de reparar equipamentos, mas, sendo a situação esta, o que se há de fazer. O plano B, que tinha sido recusado..."
+        },
+        {
+            "id": 33,
+            "model": "마튼",
+            "content": "Boss."
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "......."
+        },
+        {
+            "id": 35,
+            "model": "마튼",
+            "content": "Acabou de me ocorrer um plano um pouco mais seguro."
+        },
+        {
+            "id": 36,
+            "model": "마튼",
+            "content": "O senhor sabe: o plano B tem defeitos demais. E a probabilidade de êxito também é baixa."
+        },
+        {
+            "id": 37,
+            "model": "호엔하임",
+            "content": "...Não tenha ideias tolas."
+        },
+        {
+            "id": 38,
+            "model": "호엔하임",
+            "content": "Eu sei o que você pretende fazer. Para o raciocínio de uma pessoa comum... pode até parecer que isso é o melhor. Mas..."
+        },
+        {
+            "id": 39,
+            "model": "마튼",
+            "content": "Hohenheim. Boss."
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "content": "Não, não diga nada. Eu estou... estou pensando agora."
+        },
+        {
+            "id": 41,
+            "model": "마튼",
+            "content": "O senhor se lembra do último teste do meu equipamento E.G.O, a Lanterna? Com base numa sensibilidade de 70%, ele conseguia gerar uma energia bem alta. Com efeito de fascínio incluído."
+        },
+        {
+            "id": 42,
+            "model": "마튼",
+            "content": "Se eu elevá-la até 120%... dá para prender aquele sujeito pelo tornozelo por até cinco minutos, no máximo. Para o senhor reparar o equipamento que falta, há de ser tempo de sobra."
+        },
+        {
+            "id": 43,
+            "model": "호엔하임",
+            "content": "A 120%, ele explode junto com o equipamento. Abraçando toda aquela energia, intacta..."
+        },
+        {
+            "id": 44,
+            "model": "호엔하임",
+            "content": "...A minha resposta tem algum sentido para impedir a sua ação?"
+        },
+        {
+            "id": 45,
+            "model": "마튼",
+            "content": "... No, it won't. I'm sorry."
+        },
+        {
+            "id": 46,
+            "model": "호엔하임",
+            "content": "......."
+        },
+        {
+            "id": 47,
+            "model": "마튼",
+            "content": "Alisa... se forem eles, decerto cumprirão a promessa... Se for possível salvá-la... cuide bem dela."
+        },
+        {
+            "id": 48,
+            "model": "호엔하임",
+            "content": "Marton..."
+        },
+        {
+            "id": 49,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "O senhor está calmo. E olhe que o seu discípulo o abandonou e fugiu."
+        },
+        {
+            "id": 50,
+            "model": "호엔하임",
+            "content": "Quem dera fosse esse o caso."
+        },
+        {
+            "id": 51,
+            "model": "호엔하임",
+            "content": "Se fosse... eu não estaria com um sentimento tão miserável quanto este."
+        },
+        {
+            "id": 52,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Tem alguma palavra que deseje deixar por último? A maioria dos materiais, por esta altura, sempre solta um estertor em que apostam a vida e a morte."
+        },
+        {
+            "id": 53,
+            "model": "호엔하임",
+            "content": "... No, I do not."
+        },
+        {
+            "id": 54,
+            "model": "호엔하임",
+            "content": "Para resumir uma vida em meras poucas palavras curtas dessas... os feitos que eu deixei são vastos demais."
+        },
+        {
+            "id": 55,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "...São palavras esplêndidas a ponto de serem boas demais para se gravar nesse corpo reles."
+        },
+        {
+            "id": 56,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Mas eu gostei delas. Vou gravá-las com um esmero especial."
+        },
+        {
+            "id": 57,
+            "model": "호엔하임",
+            "content": "......."
+        },
+        {
+            "id": 58,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Não se sinta tão injustiçado por um fim destes."
+        },
+        {
+            "id": 59,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Tanto o senhor quanto aquele que fugiu... eram, de todo modo, pedra de refugo destinada a se desprender em prol de uma esplêndida estátua."
+        },
+        {
+            "id": 60,
+            "model": "호엔하임",
+            "content": "Every being exists in mutual similitude, yet each of them leads a life of their own."
+        },
+        {
+            "id": 61,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "...Luz?"
+        },
+        {
+            "id": 62,
+            "model": "호엔하임",
+            "content": "Pedra de refugo... talvez seja uma afirmação correta. Mas, como você designou assim a nós dois, você se enganou."
+        },
+        {
+            "id": 63,
+            "model": "호엔하임",
+            "content": "Ora essa... onde é que se viu uma pedra de refugo que emite uma luz tão brilhante quanto aquela?"
+        },
+        {
+            "id": 64,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Ohh..."
+        },
+        {
+            "id": 65,
+            "model": "약지아비",
+            "teller": "???",
+            "content": "Tem razão... uma bela... luz azul..."
+        }
+    ]
+}

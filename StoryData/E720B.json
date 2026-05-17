@@ -1,0 +1,532 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Periferia do Distrito 8, Entrada",
+            "model": "그레고르",
+            "content": "S-Sword?!"
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "E o senhor… era Pilot, não era? O senhor também…"
+        },
+        {
+            "id": 2,
+            "model": "뉴소드",
+            "content": "O que foi, gente? Com essa cara de quem viu um fantasma… Pilot, você não disse que da última vez tinha falado de mim?"
+        },
+        {
+            "id": 3,
+            "model": "뉴파일럿",
+            "content": "F-fiz! Eu lembro direitinho, fé!"
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Ah…! Você ouviu, né. Que ela está viva!"
+        },
+        {
+            "id": 5,
+            "content": "As feições dos Pecadores, que estavam petrificados de espanto, foram se desanuviando de leve, e…"
+        },
+        {
+            "id": 6,
+            "content": "Logo um sorriso, mistura de alívio e alegria, espalhou-se pelo rosto de todos."
+        },
+        {
+            "id": 7,
+            "model": "뉴소드",
+            "content": "Bom, é bom ver que estão como sempre. Todos vocês."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Sword… que bom poder te ver de novo.>"
+        },
+        {
+            "id": 9,
+            "model": "뉴소드",
+            "content": "E o senhor também parece seguir tiquetaqueando bem."
+        },
+        {
+            "id": 10,
+            "content": "A figura de Sword, esboçando um sorriso, não tinha mudado muito em relação a antes, mas pequenas mudanças saltavam à vista."
+        },
+        {
+            "id": 11,
+            "content": "Por exemplo, alterações miúdas no uniforme ou no crachá."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Se bem me lembro, eu ouvi dizer que você foi promovida. Antes de tudo, parabéns."
+        },
+        {
+            "id": 13,
+            "model": "뉴소드",
+            "content": "Hmm… sim, haha."
+        },
+        {
+            "id": 14,
+            "content": "…Ou uma sutil melancolia que pairava nos cantos da boca e dos olhos."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Ei…!"
+        },
+        {
+            "id": 16,
+            "model": "오티스",
+            "content": "Eu apenas felicitei o fato de a sua competência ter sido reconhecida a ponto de uma promoção; há algum problema nisso?"
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "Você sabe, não sabe, o que essa promoção significa…"
+        },
+        {
+            "id": 18,
+            "model": "오티스",
+            "content": "O significado é bem profundo, sim. Por acaso tem algum significado uma promoção alcançada sem sujar as mãos de sangue?"
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "content": "…Você é cada uma…"
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "Pergunto ao contrário. Se todos à volta, sem exceção, mostram só uma reação igual à tua e abafam o assunto, de quem é que ela vai receber ao menos um pingo de reconhecimento e consolo?"
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 22,
+            "model": "뉴소드",
+            "content": "Ah, se tivessem só abafado, ainda seria bom~ É que também se ouvia, num sussurro, dizerem que eu vendi a vida de uma colega e a troquei por uma patente."
+        },
+        {
+            "id": 23,
+            "model": "뉴소드",
+            "content": "Nesse ponto, eu agradeço, senhor Outis."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "…Hum."
+        },
+        {
+            "id": 25,
+            "model": "뉴소드",
+            "content": "Na verdade eu também, falando com rigor, morri uma vez e ressuscitei, deixando de fora só o cérebro. É que, se o meu cérebro tivesse estourado, nem a ampola da Firma K teria conseguido me restaurar."
+        },
+        {
+            "id": 26,
+            "model": "싱클레어",
+            "content": "…! E-então a senhora Effie também…"
+        },
+        {
+            "id": 27,
+            "model": "뉴소드",
+            "content": "Dizem que, na Effie, o primeiro lugar em que enfiaram uma prótese mecânica foi a região da cabeça."
+        },
+        {
+            "id": 28,
+            "model": "뉴소드",
+            "content": "…O legista."
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "…Tanto a ampola da Firma K quanto o seguro de vida… não disseram que não conseguem restaurar um segurado cujo cérebro tenha sido danificado?"
+        },
+        {
+            "id": 31,
+            "model": "뉴소드",
+            "content": "…É isso mesmo."
+        },
+        {
+            "id": 32,
+            "model": "뉴소드",
+            "content": "Vamos, vamos. Não vamos ficar com conversa melancólica logo num reencontro depois de tanto tempo, à toa."
+        },
+        {
+            "id": 33,
+            "model": "뉴소드",
+            "content": "Se viemos para trabalhar, temos de trabalhar. Vamos passar para a conversa de trabalho, Pilot?"
+        },
+        {
+            "id": 34,
+            "model": "뉴파일럿",
+            "content": "A-ah! Sim, senhora!"
+        },
+        {
+            "id": 35,
+            "model": "뉴파일럿",
+            "content": "É, é o seguinte… eu, sabe. Numa oportunidade do acaso, eu vim a conhecer um sujeito ligado à família Jia! E por isso eu o trouxe!"
+        },
+        {
+            "id": 36,
+            "model": "뉴소드",
+            "content": "……."
+        },
+        {
+            "id": 37,
+            "model": "그레고르",
+            "content": "Ei, …é-é só isso?"
+        },
+        {
+            "id": 38,
+            "model": "뉴파일럿",
+            "content": "É-é isso, fé."
+        },
+        {
+            "id": 39,
+            "content": "Quando todos ficaram sem palavras diante daquele briefing desastroso, em que não se encontrava nem um grão de informação aproveitável…"
+        },
+        {
+            "id": 40,
+            "content": "Ishmael, que a custo recobrou o juízo, fitou Sword."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "…Senhora Sword. Posso lhe pedir uma explicação mais detalhada?"
+        },
+        {
+            "id": 42,
+            "model": "뫼르소",
+            "content": "Foi uma fala que fazia sentir a necessidade de instruí-lo sobre a importância dos seis quesitos básicos."
+        },
+        {
+            "id": 43,
+            "model": "뉴소드",
+            "content": "Hehe. Quando a gente voltar, vai ter muito o que conversar, Pilot."
+        },
+        {
+            "id": 44,
+            "model": "뉴파일럿",
+            "content": "Ué… será que eu fiz algo errado, fé?!"
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Psiu. Psiu! Senhor Pilot. Fica quietinho. É só assim que você vai apanhar ao menos um pouquinho menos…"
+        },
+        {
+            "id": 46,
+            "content": "Gregor deu o aviso a Pilot, mas, a julgar pela testa de Sword levemente franzida, parece que já era tarde."
+        },
+        {
+            "id": 47,
+            "model": "뉴소드",
+            "content": "…Antes de a próxima operação importante começar, nós precisávamos encontrar alguém ligado à Firma H."
+        },
+        {
+            "id": 48,
+            "model": "뉴소드",
+            "content": "Como é de se esperar, nós, da Seção de Observação Prévia, fomos destacados… e conseguimos fazer contato com um desses alguéns."
+        },
+        {
+            "id": 49,
+            "model": "홍루",
+            "content": "Oh~ é uma pessoa da nossa família?"
+        },
+        {
+            "id": 50,
+            "model": "뉴소드",
+            "content": "Não. Na verdade, como aquilo não estava fácil, no meio de uma perda de tempo, foi um recurso humano que Pilot garantiu com um método de abordagem diferente do usual."
+        },
+        {
+            "id": 51,
+            "model": "뉴소드",
+            "content": "Por isso eu até o elogiei bastante, mas…"
+        },
+        {
+            "id": 52,
+            "model": "뉴파일럿",
+            "content": "Uuh…"
+        },
+        {
+            "id": 53,
+            "model": "뉴소드",
+            "content": "Hum. O colaborador é uma pessoa que um dia trabalhou para a família Jia, mas que atualmente saiu da família e toca um negócio de hospedagem."
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "Sendo assim, ele há de estar afastado das disputas políticas internas da família. E, ao contrário daqueles que vêm para cima de nós, será um auxílio seguro."
+        },
+        {
+            "id": 55,
+            "model": "뉴소드",
+            "content": "Sim. E, mesmo assim, eu recebi de Pilot o relato de que ele é benevolente para com a gente da família."
+        },
+        {
+            "id": 56,
+            "teller": "???",
+            "title": "???",
+            "content": "Embora eu tenha deixado a família, há uma graça que eu recebi dela; como não haveria de ser assim?"
+        },
+        {
+            "id": 57,
+            "content": "Como que respondendo às palavras de Sword, uma voz desconhecida intrometeu-se discretamente ao nosso lado."
+        },
+        {
+            "id": 58,
+            "model": "경도",
+            "content": "Saúdo os amigos do jovem patrão Baoyu. Este servo se chama Gyeongdo."
+        },
+        {
+            "id": 59,
+            "content": "E então, depois de dizer as palavras de saudação com uma voz cortês, juntou as duas mãos de um modo estranho."
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<…Ah, é o modo de saudar desta região?>"
+        },
+        {
+            "id": 61,
+            "model": "홍루",
+            "content": "Chama-se saudação do punho coberto. É mostrar, com cerimônia, que não se tem hostilidade para conosco."
+        },
+        {
+            "id": 62,
+            "model": "돈키호테",
+            "content": "Hmm! Disseram que o motivo de os cavaleiros pedirem um aperto de mãos é o mesmo! De fato, é alguém que possui a senda do cavaleiro!"
+        },
+        {
+            "id": 63,
+            "model": "경도",
+            "content": "Hum, com efeito! Eu andava preocupado, imaginando que tipo de pessoas seriam os companheiros do jovem patrão, mas eram pessoas versadas no saber do oeste."
+        },
+        {
+            "id": 64,
+            "model": "경도",
+            "content": "Por abrirem um pequeno curso d'água ao saber humilde deste servo, eu não posso senão me render de admiração."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 66,
+            "model": "단테",
+            "content": "<Isso me soa familiar de algum jeito?>"
+        },
+        {
+            "id": 67,
+            "model": "로쟈",
+            "content": "Não, hoje em dia o jeito é um pouco mais conciso… o modo de falar daquele aí é floreado demais. Não é?"
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Isso é verdade. Aquilo é, como dizer, meio embaraçoso de ouvir…>"
+        },
+        {
+            "id": 69,
+            "model": "싱클레어",
+            "content": "Vocês dois, do que é que estão falando, afinal…?"
+        },
+        {
+            "id": 70,
+            "model": "경도",
+            "content": "Comunicar-se apenas com o som do tique-taque de um relógio — embora isso já fosse um fato que este servo conhecia…"
+        },
+        {
+            "id": 71,
+            "model": "경도",
+            "content": "Vendo assim, diante dos olhos, é deveras prodigioso. Será uma jornada curta, mas parece que não haverá ocasião de tédio. Haha!"
+        },
+        {
+            "id": 72,
+            "model": "로쟈",
+            "content": "Tem um certo gostinho de provocação que é meio parecido, sei lá…?"
+        },
+        {
+            "id": 73,
+            "model": "오티스",
+            "content": "Não me diga que você está falando de mim agora, hein…?"
+        },
+        {
+            "id": 74,
+            "model": "뉴소드",
+            "content": "Hum…"
+        },
+        {
+            "id": 75,
+            "content": "Será que ele tinha, a seu modo, algum orgulho dos elogios de feição ardilosa que vinha fazendo…"
+        },
+        {
+            "id": 76,
+            "content": "Outis, com uma expressão bastante contrariada, balançou a cabeça e se aproximou de mim."
+        },
+        {
+            "id": 77,
+            "model": "오티스",
+            "content": "'Parecido', diz ela. É um mal-entendido, Gerente!"
+        },
+        {
+            "id": 78,
+            "model": "오티스",
+            "content": "Eu nunca, nem uma única vez, fiz um elogio sem-vergonha cheio só daquele tipo de palavras floreadas…!"
+        },
+        {
+            "id": 79,
+            "model": "뉴소드",
+            "content": "A orientação detalhada quem vai dar é ele. Bem, nós então…"
+        },
+        {
+            "id": 80,
+            "content": "Sword, fitando distraidamente a direção de Vergílio, que estava de pé ao longe, parou de falar por um instante."
+        },
+        {
+            "id": 81,
+            "model": "뉴소드",
+            "content": "Enfim eu o conheço pessoalmente. Senhor Olhar Vermelho… eu queria tanto conhecê-lo."
+        },
+        {
+            "id": 82,
+            "model": "뉴소드",
+            "content": "A Effie também…"
+        },
+        {
+            "id": 83,
+            "model": "뉴파일럿",
+            "content": "C-chefe de seção…"
+        },
+        {
+            "id": 84,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "content": "Vergílio, como se tivesse percebido o olhar voltado para si, fez um leve aceno de cabeça na direção de Sword e então caminhou devagar para cá."
+        },
+        {
+            "id": 86,
+            "model": "베르길리우스",
+            "content": "Chefe de Seção Sword."
+        },
+        {
+            "id": 87,
+            "model": "베르길리우스",
+            "content": "Não há motivo para ficar preso aqui por tanto tempo, não é. Ajudar no trabalho de vocês também é coisa que não me incomoda; eu só quero é despachar isso depressa."
+        },
+        {
+            "id": 88,
+            "model": "뉴소드",
+            "content": "É a nossa emocionante primeira colaboração, então dedique-nos só mais um pouquinho de tempo~"
+        },
+        {
+            "id": 89,
+            "model": "그레고르",
+            "content": "Ajudar no trabalho…? O caro guia?"
+        },
+        {
+            "id": 90,
+            "model": "뉴소드",
+            "content": "Sim; é uma pena, mas desta vez não foram vocês, e sim o Olhar Vermelho que ficou previsto para tratar, junto conosco, do serviço da LCC."
+        },
+        {
+            "id": 91,
+            "model": "카론",
+            "content": "Eu vou indo no Mephi. Vrum-vrum."
+        },
+        {
+            "id": 92,
+            "model": "뉴소드",
+            "content": "Hum… será que é uma pena mesmo? Pensando bem, as missões que eu fiz junto com vocês parece que foram sempre uma via-crúcis…"
+        },
+        {
+            "id": 93,
+            "model": "로쟈",
+            "content": "A-aquela vez foi, sabe~"
+        },
+        {
+            "id": 94,
+            "model": "뉴소드",
+            "content": "Haha, como sempre, é brincadeira. Se houver oportunidade, a gente trabalha junto de novo."
+        },
+        {
+            "id": 95,
+            "model": "뉴파일럿",
+            "content": "Chefe, o nosso tempo agora está por um fio, fé…!"
+        },
+        {
+            "id": 96,
+            "model": "이스마엘",
+            "content": "Não, antes de ir… não é preciso ao menos uma explicação, senhor Vergílio?"
+        },
+        {
+            "id": 97,
+            "model": "베르길리우스",
+            "content": "…Os detalhes eu deixo a cargo da senhora Faust. Estou ocupado."
+        },
+        {
+            "id": 98,
+            "model": "파우스트",
+            "content": "Vamos fazer assim."
+        },
+        {
+            "id": 99,
+            "content": "Vergílio, sem conseguir esconder uma expressão estranhamente incomodada, virou-se sem mais e caminhou em direção ao Mephistopheles."
+        },
+        {
+            "id": 100,
+            "model": "뉴소드",
+            "content": "A gente se vê de novo um dia."
+        },
+        {
+            "id": 101,
+            "model": "뉴파일럿",
+            "content": "D-da próxima vez… eu também vou mostrar que faço a minha parte, fé!"
+        },
+        {
+            "id": 102,
+            "model": "뉴파일럿",
+            "content": "É que, da última vez… eu fiz um papelão feio demais…"
+        },
+        {
+            "id": 103,
+            "model": "뉴소드",
+            "content": "Pilot, esse tipo de coisa fica mais bonito quando se mostra com ações, e não com palavras."
+        },
+        {
+            "id": 104,
+            "content": "Sword e Pilot, depois de uma simples mesura silenciosa, partiram seguindo Vergílio."
+        },
+        {
+            "id": 105,
+            "content": "Alguns dos Pecadores moveram os lábios como que para lhes dirigir alguma palavra, mas, no fim, não disseram nada."
+        },
+        {
+            "id": 106,
+            "content": "Terá sido por eu não saber bem o que dizer para despedi-los sem que fosse constrangedor."
+        },
+        {
+            "id": 107,
+            "model": "경도",
+            "content": "Pois bem, eu os conduzirei."
+        },
+        {
+            "id": 108,
+            "content": "Se não foi isso, talvez tenha sido porque estava ao nosso lado este homem que vai se encarregar do nosso paradeiro daqui para a frente."
+        }
+    ]
+}

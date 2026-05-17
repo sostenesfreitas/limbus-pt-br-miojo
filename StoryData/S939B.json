@@ -1,0 +1,568 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Um corredor em algum lugar",
+            "model": "오티스",
+            "content": "Efetivo total: quatro. Faust — é tal como aquela pessoa disse."
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Sem nenhum problema... parece que chegamos ao ponto-alvo."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Senhor Gerente. A localização do Ramo Dourado..."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Não é aqui. Mas está num lugar não muito distante.>"
+        },
+        {
+            "id": 4,
+            "model": "뫼르소",
+            "content": "Conforme a operação, devemos aguardar onde estamos até a LCA chegar a este lugar, e então nos mover para reaver o Ramo Dourado."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Yeah, that's the plan.>"
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Embora não pareça ser uma situação em que dá para ficar esperando.>"
+        },
+        {
+            "id": 7,
+            "model": "뫼르소",
+            "content": "O senhor precisa recuar um pouco mais, senhor Gerente. A julgar pela máscara e pelas vestes, é o Pai do Indicador, mencionado no briefing."
+        },
+        {
+            "id": 8,
+            "content": "O lugar aonde chegamos depois de atravessar a porta dos fundos era..."
+        },
+        {
+            "id": 9,
+            "place": "Corredor do Indicador",
+            "model": "검지아비",
+            "content": "You're home."
+        },
+        {
+            "id": 10,
+            "model": "검지아비",
+            "content": "Eu estava justamente pensando em você."
+        },
+        {
+            "id": 11,
+            "content": "...uma sala em que estava o Pai do Indicador, sorrindo radiante ao ver Ryoshu."
+        },
+        {
+            "id": 12,
+            "content": "Embora, por causa da máscara... fosse um sorriso de certo modo gélido."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 14,
+            "model": "검지아비",
+            "content": "Whenever I miss you, sweetheart..."
+        },
+        {
+            "id": 15,
+            "model": "검지아비",
+            "content": "Eu costumo alisar, seguindo as fibras, esta marca de queimadura que você causou."
+        },
+        {
+            "id": 16,
+            "model": "검지아비",
+            "content": "Este lado é áspero, e este lado tem a sensação de algo que se esfarela miúdo, feito areia. É como o quebrar das ondas."
+        },
+        {
+            "id": 17,
+            "content": "Dizendo isso, aquele a que chamam de Pai do Indicador alisou a própria máscara lisa."
+        },
+        {
+            "id": 18,
+            "model": "검지아비",
+            "content": "Vendo você assim, cara a cara, o meu rosto fica muito quente e dói."
+        },
+        {
+            "id": 19,
+            "model": "료슈",
+            "content": "My daughter. Where is she?"
+        },
+        {
+            "id": 20,
+            "content": "Ryoshu perguntou em voz baixa. Como se não lhe importasse o que aquele sujeito dissesse."
+        },
+        {
+            "id": 21,
+            "model": "검지아비",
+            "content": "A Araya... gostava muito de você."
+        },
+        {
+            "id": 22,
+            "model": "검지아비",
+            "content": "Tomara que você ainda esteja num estado em que se lembra do rosto dela. É que, naquele dia, você brandiu a espada um número e tanto de vezes."
+        },
+        {
+            "id": 23,
+            "model": "료슈",
+            "content": "Aquele cofre... só eu consigo abrir."
+        },
+        {
+            "id": 24,
+            "model": "검지아비",
+            "content": "Sei lá. Que não é assim... filha, você não deve ignorar isso."
+        },
+        {
+            "id": 25,
+            "model": "검지아비",
+            "content": "Eu acho que foi um método inteligente."
+        },
+        {
+            "id": 26,
+            "model": "검지아비",
+            "content": "Toda vez que a Shiomi despejava ressentimento em você, você costumava se esconder bem escondida em algum lugar."
+        },
+        {
+            "id": 27,
+            "model": "검지아비",
+            "content": "Naquela época, eu chegava a acreditar que você tinha um talento e tanto para o pega-pega."
+        },
+        {
+            "id": 28,
+            "model": "검지아비",
+            "content": "Quando, na verdade, era só... que, graças àquele sentido excepcional ligado pelo sangue... você conseguia acionar aquele cofre temporal especial."
+        },
+        {
+            "id": 29,
+            "model": "료슈",
+            "content": "...!"
+        },
+        {
+            "id": 30,
+            "model": "료슈",
+            "content": "Estrela Dihui... aquele desgraçado abriu o cofre e levou a Araya."
+        },
+        {
+            "id": 31,
+            "model": "검지아비",
+            "content": "Pensar assim não seria descabido. Aquele sujeito odiava você em especial. E também era quem mais negligenciava o próprio ofício principal."
+        },
+        {
+            "id": 32,
+            "model": "검지아비",
+            "content": "Aquele ódio nasceu por culpa de ele mesmo ter abandonado o próprio futuro. Por não lhe restar nada, nem esperança, nem desejo."
+        },
+        {
+            "id": 33,
+            "model": "검지아비",
+            "content": "Vamos, sente-se aqui; quer que eu leia um livro de contos para você?"
+        },
+        {
+            "id": 34,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 35,
+            "model": "검지아비",
+            "content": "Quando você era pequena, esta era a hora de que você mais gostava."
+        },
+        {
+            "id": 36,
+            "model": "검지아비",
+            "content": "A partir de um certo dia, dizendo que estava grande demais para isso, você entrava para o quarto antes da hora."
+        },
+        {
+            "id": 37,
+            "model": "료슈",
+            "content": "Não fique tagarelando essa baboseira."
+        },
+        {
+            "id": 38,
+            "model": "료슈",
+            "content": "Just answer my question."
+        },
+        {
+            "id": 39,
+            "model": "검지아비",
+            "content": "You're trying to skip ahead."
+        },
+        {
+            "id": 40,
+            "model": "검지아비",
+            "content": "Nós dois, antigamente, não líamos nenhum livro até o fim — guardávamos o desfecho."
+        },
+        {
+            "id": 41,
+            "model": "검지아비",
+            "content": "Não sei se você sabe, mas eu registrava tudo com marcadores de página."
+        },
+        {
+            "id": 42,
+            "model": "검지아비",
+            "content": "Pensando que, se um dia você sentisse saudade desta hora, eu teria de ler de novo para você."
+        },
+        {
+            "id": 43,
+            "place": "Corredor do Indicador, no passado",
+            "model": "검지아비",
+            "content": "...foi o que ele disse. E então o macaco..."
+        },
+        {
+            "id": 44,
+            "model": "과거료슈2",
+            "content": "......."
+        },
+        {
+            "id": 45,
+            "model": "과거료슈2",
+            "content": "Dad, I'm 13."
+        },
+        {
+            "id": 46,
+            "model": "검지아비",
+            "content": "Filha, você disse que agora não tem cinco anos?"
+        },
+        {
+            "id": 47,
+            "model": "과거료슈2",
+            "content": "......."
+        },
+        {
+            "id": 48,
+            "model": "검지아비",
+            "content": "Foi uma brincadeira; pelo visto não teve muita graça."
+        },
+        {
+            "id": 49,
+            "model": "검지아비",
+            "content": "É claro que eu sei que a minha filha já passou dos treze anos e mais sete meses."
+        },
+        {
+            "id": 50,
+            "model": "과거료슈2",
+            "content": "Yeah. Way past picture books..."
+        },
+        {
+            "id": 51,
+            "model": "검지아비",
+            "content": "Será que ler um livro de contos também tem uma idade definida?"
+        },
+        {
+            "id": 52,
+            "model": "과거료슈2",
+            "content": "Está escrito aqui, ó: dos 3 aos 8 anos."
+        },
+        {
+            "id": 53,
+            "model": "검지아비",
+            "content": "That's just a recommendation, sweetie."
+        },
+        {
+            "id": 54,
+            "model": "검지아비",
+            "content": "O pai sempre lê só livros de contos."
+        },
+        {
+            "id": 55,
+            "model": "과거료슈2",
+            "content": "... You're weird. I thought adults didn't read picture books."
+        },
+        {
+            "id": 56,
+            "model": "검지아비",
+            "content": "That's an unfair preconception constructed by grown-ups who take too much pride in being able to read books without pictures."
+        },
+        {
+            "id": 57,
+            "model": "검지아비",
+            "content": "Pelas palavras escritas, a gente nunca vai conseguir saber."
+        },
+        {
+            "id": 58,
+            "model": "검지아비",
+            "content": "Como serão os olhos deste macaco, de que cor serão, que expressão ele faz quando cai na gargalhada."
+        },
+        {
+            "id": 59,
+            "model": "검지아비",
+            "content": "That's why I become so anxious whenever I read parts unaccompanied by pictures."
+        },
+        {
+            "id": 60,
+            "model": "검지아비",
+            "content": "O quanto a imagem que eu imaginei difere daquela realidade que o autor havia determinado."
+        },
+        {
+            "id": 61,
+            "model": "검지아비",
+            "content": "E, filha, você também..."
+        },
+        {
+            "id": 62,
+            "model": "검지아비",
+            "content": "...você gosta de ler livros de contos."
+        },
+        {
+            "id": 63,
+            "model": "과거료슈2",
+            "content": "... I don't hate them."
+        },
+        {
+            "id": 64,
+            "model": "과거료슈2",
+            "content": "Então vira logo a página seguinte. Afinal, o que aconteceu com o macaco?"
+        },
+        {
+            "id": 65,
+            "model": "검지아비",
+            "content": "......."
+        },
+        {
+            "id": 66,
+            "model": "검지아비",
+            "content": "Daqui em diante, vamos ler na próxima vez."
+        },
+        {
+            "id": 67,
+            "model": "검지아비",
+            "content": "O desfecho, é melhor guardar, não é?"
+        },
+        {
+            "id": 68,
+            "model": "과거료슈2",
+            "content": "Você só fala isso todo dia, e nunca leu nenhum até o fim."
+        },
+        {
+            "id": 69,
+            "model": "과거료슈2",
+            "content": "Eu quero saber o que aconteceu quando o macaco apostou corrida com o sapo."
+        },
+        {
+            "id": 70,
+            "model": "검지아비",
+            "content": "E por isso, filha, nós prometemos, lembra?"
+        },
+        {
+            "id": 71,
+            "model": "과거료슈2",
+            "content": "......."
+        },
+        {
+            "id": 72,
+            "model": "과거료슈2",
+            "content": "If you lie to me..."
+        },
+        {
+            "id": 73,
+            "model": "검지아비",
+            "content": "Yes. I'll swallow a thousand needles."
+        },
+        {
+            "id": 74,
+            "model": "검지아비",
+            "content": "...Filha, até onde você está preparada?"
+        },
+        {
+            "id": 75,
+            "model": "과거료슈3",
+            "content": "As far as it takes."
+        },
+        {
+            "id": 76,
+            "model": "검지아비",
+            "content": "Isso é bom de ouvir."
+        },
+        {
+            "id": 77,
+            "model": "검지아비",
+            "content": "Soa como se você fosse dedicar tudo o que você tem ao pai."
+        },
+        {
+            "id": 78,
+            "model": "검지아비",
+            "content": "Onde você foi esconder aquela criança?"
+        },
+        {
+            "id": 79,
+            "model": "과거료슈3",
+            "content": "Num lugar que as mãos de vocês jamais poderão alcançar."
+        },
+        {
+            "id": 80,
+            "model": "검지아비",
+            "content": "Com essa sua espada não dá para cortar a teia, filha."
+        },
+        {
+            "id": 81,
+            "model": "검지아비",
+            "content": "Esta teia, por mais que se a corte e recorte com a lâmina mais afiada, não se rompe até o fim, a ponto de..."
+        },
+        {
+            "id": 82,
+            "model": "검지아비",
+            "content": "... It's just that resilient."
+        },
+        {
+            "id": 83,
+            "model": "검지아비",
+            "content": "Sweetheart..."
+        },
+        {
+            "id": 84,
+            "model": "검지아비",
+            "content": "Pare de fumar."
+        },
+        {
+            "id": 85,
+            "place": "Corredor do Indicador",
+            "model": "검지아비",
+            "content": "Pelo visto você ainda não conseguiu parar de fumar."
+        },
+        {
+            "id": 86,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 87,
+            "model": "검지아비",
+            "content": "Isso, pelo visto, você puxou da Estrela Dihui. Não é?"
+        },
+        {
+            "id": 88,
+            "model": "검지아비",
+            "content": "O sangue é assim mesmo."
+        },
+        {
+            "id": 89,
+            "model": "검지아비",
+            "content": "Você tossia toda vez que a Shiomi fumava."
+        },
+        {
+            "id": 90,
+            "model": "검지아비",
+            "content": "Mas você, que era assim, ao se tornar adulta escolheu o mesmo caminho."
+        },
+        {
+            "id": 91,
+            "model": "검지아비",
+            "content": "O que se há de fazer — ao menos eu tenho de te guiar para o caminho certo."
+        },
+        {
+            "id": 92,
+            "model": "검지아비",
+            "content": "Para encontrar a Araya, vá ter com a Estrela Dihui, filha."
+        },
+        {
+            "id": 93,
+            "model": "검지아비",
+            "content": "Eu vou abrir a porta que leva até lá. É que, pelo visto, mais convidados estão querendo vir a este lugar."
+        },
+        {
+            "id": 94,
+            "model": "LCA네임드",
+            "content": "Demos conta de todos os praticantes que estavam nas redondezas."
+        },
+        {
+            "id": 95,
+            "model": "LCA네임드",
+            "content": "Conforme a operação, movam-se para recuperar o Ramo Dourado, LCB."
+        },
+        {
+            "id": 96,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 97,
+            "model": "료슈",
+            "content": "That man..."
+        },
+        {
+            "id": 98,
+            "model": "료슈",
+            "content": "Todos os ataques dele são imprevisíveis."
+        },
+        {
+            "id": 99,
+            "model": "료슈",
+            "content": "Não tentem captar coisa alguma como um padrão."
+        },
+        {
+            "id": 100,
+            "model": "LCA네임드",
+            "content": "......."
+        },
+        {
+            "id": 101,
+            "model": "LCA네임드",
+            "content": "Que cada um se preocupe primeiro com a missão que lhe coube."
+        },
+        {
+            "id": 102,
+            "model": "LCA네임드",
+            "content": "... To positions."
+        },
+        {
+            "id": 103,
+            "model": "LCA네임드",
+            "content": "O adversário é um só, mas é um agente do Indicador que um dia esteve entre as Estrelas da Cidade. Vamos subjugá-lo empenhando todas as forças."
+        },
+        {
+            "id": 104,
+            "model": "검지아비",
+            "content": "......."
+        },
+        {
+            "id": 105,
+            "model": "검지아비",
+            "content": "Filha, junto com o meu rosto que você incendiou, aquilo provavelmente também desapareceu, mas..."
+        },
+        {
+            "id": 106,
+            "model": "검지아비",
+            "content": "...eu vou te contar."
+        },
+        {
+            "id": 107,
+            "model": "검지아비",
+            "content": "Aquela criança tinha cabelo preto. E a altura dela passava um pouco do seu joelho."
+        },
+        {
+            "id": 108,
+            "model": "검지아비",
+            "content": "Quando ria, mostrava os dentes da frente, que ainda estavam crescendo."
+        },
+        {
+            "id": 109,
+            "model": "검지아비",
+            "content": "Uma mochila escolar vermelha. E gostava de você."
+        },
+        {
+            "id": 110,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 111,
+            "model": "검지아비",
+            "content": "E então, mesmo ouvindo essas palavras, o que vem à mente é vago, não é?"
+        },
+        {
+            "id": 112,
+            "model": "검지아비",
+            "content": "É esse o motivo pelo qual eu só lia contos de fada."
+        }
+    ]
+}

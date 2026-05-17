@@ -1,0 +1,49 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Tiro Sangrento Fantástico",
+            "model": "돈키호테",
+            "content": "E assim nós repelimos o urso e tivemos êxito em obter o lendário elmo de Mambrino!"
+        },
+        {
+            "id": 1,
+            "place": "-1",
+            "content": "<color=#ffef23>Really, a bear?</color>"
+        },
+        {
+            "id": 2,
+            "content": "<color=#ffef23>Uma coisa dessas, se eu quisesse... sinceramente, em 3 segundos...</color>"
+        },
+        {
+            "id": 3,
+            "content": "<color=#cc2424>Em vez de terminar de um jeito sem graça desses... a gente tem que lutar à altura de..., não tem? Sabe, daquele jeito que sai nos livros.</color>"
+        },
+        {
+            "id": 4,
+            "place": "Tiro Sangrento Fantástico",
+            "model": "싱클레어",
+            "content": "Um el... elmo...? Será que é mesmo uma aventura que o senhor Don Quixote viveu?"
+        },
+        {
+            "id": 5,
+            "model": "이상",
+            "content": "Senhorita Don Quixote, parece que é a primeira vez que ouço uma história de aventura vossa."
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "Em geral, ela contava as histórias de aventura de outros Solucionadores."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Ou então, costumava perguntar com insistência sobre as nossas aventuras."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<...Eu não sei. Mas vamos continuar ouvindo.>"
+        }
+    ]
+}

@@ -1,0 +1,740 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Pouco depois…"
+        },
+        {
+            "id": 1,
+            "place": "A Bordo do Mefistófeles",
+            "model": "이스마엘",
+            "content": "Afinal, que coisa foi que aconteceu... há alguém que possa explicar de modo convincente?"
+        },
+        {
+            "id": 2,
+            "content": "Era natural que os Pecadores estivessem mergulhados em confusão e choque."
+        },
+        {
+            "id": 3,
+            "content": "Quando eu girei o relógio e revivi todos os Pecadores, Faust e Don Quixote incluídos..."
+        },
+        {
+            "id": 4,
+            "content": "...o que se estendia diante dos olhos era apenas o vagão de carga, perfurado à força, e os restos de Cassetti, derretidos de modo atroz."
+        },
+        {
+            "id": 5,
+            "model": "뫼르소",
+            "content": "Pelos combates repetidos contra o Sanguinário, a maioria estava em estado de inconsciência."
+        },
+        {
+            "id": 6,
+            "model": "뫼르소",
+            "content": "A providência do Gerente é apropriada."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Hmf, foi mesmo…"
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Bom… todos lutaram com afinco…>"
+        },
+        {
+            "id": 9,
+            "model": "뫼르소",
+            "content": "However. "
+        },
+        {
+            "id": 10,
+            "model": "뫼르소",
+            "content": "Aqui, 'a maioria' designa o pessoal exceto três; se se exige uma explicação, perguntar a esse pessoal há de ser o mais preciso."
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Wait...>"
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Hm?!"
+        },
+        {
+            "id": 13,
+            "model": "로쟈",
+            "content": "E quem são esses três?"
+        },
+        {
+            "id": 14,
+            "model": "뫼르소",
+            "content": "Faust."
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 16,
+            "model": "뫼르소",
+            "content": "Gerente."
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<Uh...>"
+        },
+        {
+            "id": 18,
+            "model": "뫼르소",
+            "content": "E Don Quixote, que ainda não recobrou a consciência."
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "O quê, era isso?"
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Que precisão... haha... e logo, quando é que ele observou isso, francamente...>"
+        },
+        {
+            "id": 21,
+            "model": "뫼르소",
+            "content": "No instante imediatamente anterior a a consciência se apagar, eu apurei isso pelos passos e pela voz."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "E então, que história é essa? Por que é que aquela ali não acorda?"
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "Pelo visto ela caiu num sono profundo. Como não há risco para a vida, ela logo vai cair em si."
+        },
+        {
+            "id": 24,
+            "content": "...É claro que eu me lembro de tudo. De Don Quixote ter, de repente... se transformado, e de o Sanguinário e o seu vassalo terem desaparecido sem deixar vestígio diante de Don Quixote."
+        },
+        {
+            "id": 25,
+            "content": "Mas eu também me lembro das palavras que Faust deixou por último."
+        },
+        {
+            "id": 26,
+            "place": "Passado, Interior do Mephistopheles",
+            "model": "파우스트",
+            "content": "E o que vai acontecer de agora em diante, de modo algum, os outros Pecad..."
+        },
+        {
+            "id": 27,
+            "place": "A Bordo do Mefistófeles",
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 28,
+            "content": "Entre Don Quixote, que não recobrava a consciência, e Faust, que se mantinha em silêncio, a atenção dos Pecadores acabou se voltando naturalmente para mim."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<É que… hum… as coisas acabaram acontecendo…>"
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "Ã, agora que penso…"
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "E o cartão-chave, o mais importante… onde está?"
+        },
+        {
+            "id": 32,
+            "model": "단테",
+            "content": "<Quem estava com o cartão-chave no fim era o Cassetti, mas...>"
+        },
+        {
+            "id": 33,
+            "model": "료슈",
+            "content": "Agora ele virou aquilo, todo derretido, num estado e tanto."
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "content": "Então o cartão-chave que se diz que aquele sujeito segurava..."
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 36,
+            "model": "뫼르소",
+            "content": "Ficou em estado semilíquido. Está misturado com os ossos dos dedos deste sujeito. Pelo visto, o dedo médio."
+        },
+        {
+            "id": 37,
+            "content": "Ã… então…"
+        },
+        {
+            "id": 38,
+            "model": "싱클레어",
+            "content": "Todos, calma…! Mantenham a calma! Calma!!!"
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "Aff… cigarro… eu devia ter trazido mais… cigarro…"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Será que... não dá pra tentar abrir na força?"
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "Mesmo sem o cartão-chave mestre, dá para resolver a situação."
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "content": "O-o quê, como?"
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "Estima-se que serão necessárias cerca de 5 horas para fazer vocês compreenderem por completo o método de solução. Por isso, eu vou falar de modo resumido."
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "...Isto ficou de mau agouro de novo..."
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "É só usar a porta traseira do Mephistopheles."
+        },
+        {
+            "id": 46,
+            "content": "Não existia, dentro do ônibus, ninguém que não fosse concordar com as palavras cheias de convicção de Faust."
+        },
+        {
+            "id": 47,
+            "content": "E assim nós, carregando Don Quixote nas costas, seguimos rumo ao corredor onde fica a porta traseira, e..."
+        },
+        {
+            "id": 48,
+            "content": "...por fim, pudemos chegar ao espaço que era o objetivo."
+        },
+        {
+            "id": 49,
+            "place": "Plataforma do trem WARP - P Corp.",
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 50,
+            "model": "베르길리우스",
+            "content": "Que coisa terão vivido para virem assim... é um aspecto que não dá para não perguntar."
+        },
+        {
+            "id": 51,
+            "model": "카론",
+            "content": "Plóc, plóc."
+        },
+        {
+            "id": 52,
+            "content": "A cada passo dos Pecadores, caíam coisas como grãos de areia e conchas."
+        },
+        {
+            "id": 53,
+            "model": "로쟈",
+            "content": "A explicação… quem vai dar é a pessoa de trás…"
+        },
+        {
+            "id": 54,
+            "model": "이상",
+            "content": "Quanto a como isso aconteceu... cof... a minha boca está toda áspera por dentro..."
+        },
+        {
+            "id": 55,
+            "content": "Pouco antes…"
+        },
+        {
+            "id": 56,
+            "place": "Porta Traseira do Ônibus ",
+            "content": "Enquanto seguíamos rumo à porta traseira, Faust explicou o esboço deste plano."
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Em poucas palavras, é passar tempo num espaço que não seja o trem."
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "Apenas 10 segundos, pela Hora Padrão da Firma A. Se passarmos apenas esse tanto de tempo na dimensão original, naturalmente este trem já vai ter chegado."
+        },
+        {
+            "id": 59,
+            "content": "Faust, que, dizendo isso, vinha andando por um bom tempo dentro da porta traseira, de repente parou os passos num certo corredor."
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "Espera, espera... com tantas e tantas portas, dá pra abrir assim de supetão, sem nem hesitar?"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Sim, é esta porta. A segurança eu garanto."
+        },
+        {
+            "id": 62,
+            "model": "히스클리프",
+            "content": "Não, é que... você tinha pelo menos que avisar o que tem se a gente abrir esta porta."
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "Não me dei ao trabalho... de verificar a informação além disso."
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "A experiência de se deparar com algo inesperado... também há de ser necessária para o futuro."
+        },
+        {
+            "id": 65,
+            "model": "히스클리프",
+            "content": "O quê? Ei, então…"
+        },
+        {
+            "id": 66,
+            "content": "Sem esperar as palavras de Heathcliff, Faust escancarou a porta de supetão."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "É agora. Todos, para dentro daqui..."
+        },
+        {
+            "id": 68,
+            "place": "???",
+            "content": "Junto com as palavras resolutas de Faust, nós entramos num edifício como um velho hospital abandonado, e..."
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Isto está no nível de uma tempestade de areia..."
+        },
+        {
+            "id": 70,
+            "model": "로쟈",
+            "content": "Q-que isso, aqui não é um ambiente fechado? Então afinal por quê?"
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "Aaah, os meus olhos… os meus olhos não abrem!"
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "content": "Argh, areia na boca... não me digam que é um vento de areia? E olha que o teto está pendurado direitinho?"
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "5… 4… 3… 2… 1…"
+        },
+        {
+            "id": 74,
+            "content": "Em meio ao vento de areia que turbilhonava, os Pecadores soltavam, cada um, queixas, mas..."
+        },
+        {
+            "id": 75,
+            "content": "Faust, indiferente, depois de contar os números, nos levou e saiu daquele lugar às pressas, como quando chegamos."
+        },
+        {
+            "id": 76,
+            "place": "Porta Traseira do Ônibus ",
+            "content": "So..."
+        },
+        {
+            "id": 77,
+            "content": "Nós pudemos voltar de novo para dentro do Trem do Warp, que tinha chegado à plataforma da Firma P."
+        },
+        {
+            "id": 78,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "content": "Embora o trem ainda estivesse num estado anterior a ser completamente posto em ordem, e..."
+        },
+        {
+            "id": 79,
+            "content": "...fosse um regresso com o corpo todo coberto de areia."
+        },
+        {
+            "id": 80,
+            "model": "싱클레어",
+            "content": "Buááá… eu achei que a gente não ia conseguir chegar assim…"
+        },
+        {
+            "id": 81,
+            "model": "W사정리요원2",
+            "teller": "Agente de Limpeza",
+            "title": "Firma W",
+            "content": "Sã-são passageiros intactos? Como...?"
+        },
+        {
+            "id": 82,
+            "content": "A ponto de até a figura dos funcionários agentes de limpeza da Firma W, que recolhiam os resíduos, parecer bem-vinda."
+        },
+        {
+            "id": 83,
+            "model": "파우스트",
+            "content": "Nós somos funcionários vinculados à Limbus Company, que embarcamos no Trem do Warp por encargo da sua empresa."
+        },
+        {
+            "id": 84,
+            "model": "W사정리요원2",
+            "teller": "Agente de Limpeza",
+            "title": "Firma W",
+            "content": "Ah... então são as pessoas que o líder de equipe avisou de antemão. Vocês têm mesmo a memória...?"
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Agora que reparo, na cápsula de sono ali há um senhor funcionário dormindo~"
+        },
+        {
+            "id": 86,
+            "model": "W사정리요원2",
+            "teller": "Agente de Limpeza",
+            "title": "Firma W",
+            "content": "Ah, isso... eu só tinha ouvido falar, mas vamos verificar uma vez."
+        },
+        {
+            "id": 87,
+            "content": "O espaço escondido atrás da poltrona, no qual o agente de limpeza entrou."
+        },
+        {
+            "id": 88,
+            "content": "Lá dentro…"
+        },
+        {
+            "id": 89,
+            "model": "W사정리요원2",
+            "teller": "Agente de Limpeza",
+            "title": "Firma W",
+            "content": "Hum...? Não tem ninguém."
+        },
+        {
+            "id": 90,
+            "model": "로쟈",
+            "content": "Hã. Não era aqui?"
+        },
+        {
+            "id": 91,
+            "model": "뫼르소",
+            "content": "É aqui. E, ainda assim, não haver ninguém que tenha entrado aqui significa..."
+        },
+        {
+            "id": 92,
+            "model": "W사정리요원2",
+            "teller": "Agente de Limpeza",
+            "title": "Firma W",
+            "content": "De fato, não é possível que estejam intactos... bom, será que vocês não viram alguma coisa errado?"
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<Não pode ser…>"
+        },
+        {
+            "id": 94,
+            "model": "파우스트",
+            "content": "Pelo visto vimos errado de tão cansados. Então nós já vamos sair."
+        },
+        {
+            "id": 95,
+            "content": "Antes que as dúvidas dos Pecadores irrompessem, Faust cortou a conversa como uma lâmina."
+        },
+        {
+            "id": 96,
+            "content": "Como agora eu conheço bem o significado daquela ação... eu, sem dizer palavra, segui Faust e levei os passos para fora."
+        },
+        {
+            "id": 97,
+            "place": "Plataforma do trem WARP - P Corp.",
+            "model": "돈키호테",
+            "content": "Hum…? Chegamos… chegamos?"
+        },
+        {
+            "id": 98,
+            "model": "히스클리프",
+            "content": "Hoje em especial você dormiu pra valer... só acordou agora?"
+        },
+        {
+            "id": 99,
+            "model": "베르길리우스",
+            "content": "...Entendido. A situação detalhada, eu vou ouvir durante o deslocamento de volta ao ônibus."
+        },
+        {
+            "id": 100,
+            "model": "파우스트",
+            "content": "Sim. Quanto a enviar o relatório relacionado à Firma W, isso é através da LCCA..."
+        },
+        {
+            "id": 101,
+            "content": "Vergílio, que chegara antes e nos esperava, troca com Faust, com uma expressão de incômodo, o relato do que aconteceu lá dentro."
+        },
+        {
+            "id": 102,
+            "model": "베르길리우스",
+            "content": "...Eu vou levar Caronte e acompanhar o desacoplamento do Mephistopheles."
+        },
+        {
+            "id": 103,
+            "model": "베르길리우스",
+            "content": "É que pelo visto o Gerente está com o ponteiro dos minutos de quem parece ter muito a dizer a você. Eu vou abrir espaço."
+        },
+        {
+            "id": 104,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 105,
+            "content": "Vergílio partiu, e eu, só então, pude interpelar Faust."
+        },
+        {
+            "id": 106,
+            "model": "단테",
+            "content": "<Afinal... por que você fez aquilo?>"
+        },
+        {
+            "id": 107,
+            "content": "...Faust, logo depois de o calçado de Don Quixote ter se desprendido, foi envolvida por uma pressão descomunal e, literalmente, teve o corpo todo estourado."
+        },
+        {
+            "id": 108,
+            "content": "Como se ela soubesse, é claro, que isso ia acontecer."
+        },
+        {
+            "id": 109,
+            "model": "파우스트",
+            "content": "É que, claro, foi uma escolha melhor do que o seu corpo estourar."
+        },
+        {
+            "id": 110,
+            "model": "단테",
+            "content": "<Haah...>"
+        },
+        {
+            "id": 111,
+            "model": "파우스트",
+            "content": "Quanto a fazer o senhor girar o relógio, mesmo eu sabendo quase com certeza que ia morrer, eu lamento."
+        },
+        {
+            "id": 112,
+            "model": "단테",
+            "content": "<Não, não era isso que eu queria recriminar...>"
+        },
+        {
+            "id": 113,
+            "model": "단테",
+            "content": "<Desde quando você sabia? Aquilo...>"
+        },
+        {
+            "id": 114,
+            "model": "단테",
+            "content": "<A Donquixote…>"
+        },
+        {
+            "id": 115,
+            "model": "파우스트",
+            "content": "...Se é aquilo, eu sei desde quando a LCB foi formada. Com Vergílio é o mesmo."
+        },
+        {
+            "id": 116,
+            "model": "단테",
+            "content": "<…Como eu imaginava.>"
+        },
+        {
+            "id": 117,
+            "model": "파우스트",
+            "content": "Apenas, havia uma diretriz do alto escalão da LCA de só abrir a informação ao Gerente no momento apropriado."
+        },
+        {
+            "id": 118,
+            "model": "단테",
+            "content": "<...E esse momento apropriado foi agora há pouco?>"
+        },
+        {
+            "id": 119,
+            "model": "파우스트",
+            "content": "…Pelo meu julgamento pessoal, é assim."
+        },
+        {
+            "id": 120,
+            "model": "파우스트",
+            "content": "Bom, como todo o contato, a Faust incluída, estava interrompido, também não era possível obter a permissão da sede."
+        },
+        {
+            "id": 121,
+            "model": "단테",
+            "content": "<Right...>"
+        },
+        {
+            "id": 122,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 123,
+            "model": "이상",
+            "content": "Não há como saber o motivo em detalhe, mas..."
+        },
+        {
+            "id": 124,
+            "model": "이상",
+            "content": "Voltamos."
+        },
+        {
+            "id": 125,
+            "content": "Na palavra 'voltamos' havia, decerto, muita coisa implícita."
+        },
+        {
+            "id": 126,
+            "content": "A estação do Warp aonde enfim chegamos, ou a figura cotidiana dos Pecadores conjeturando sobre a missão que vem pela frente, ou então..."
+        },
+        {
+            "id": 127,
+            "content": "...a Faust, de novo ligada à Faust, ou..."
+        },
+        {
+            "id": 128,
+            "model": "파우스트",
+            "content": "... Yes."
+        },
+        {
+            "id": 129,
+            "content": "Faust assentiu em silêncio àquelas palavras ambíguas de Yi Sang."
+        },
+        {
+            "id": 130,
+            "model": "이상",
+            "content": "Embora seja uma pergunta feita de brincadeira..."
+        },
+        {
+            "id": 131,
+            "model": "이상",
+            "content": "Será que um dia poderemos nos encontrar de novo?"
+        },
+        {
+            "id": 132,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 133,
+            "content": "Faust fitou Yi Sang com um olhar de dúvida."
+        },
+        {
+            "id": 134,
+            "model": "이상",
+            "content": "À nossa maneira..."
+        },
+        {
+            "id": 135,
+            "model": "이상",
+            "content": "...não foi um encontro bem agradável?"
+        },
+        {
+            "id": 136,
+            "content": "Depois de dizer palavras que ora pareciam claras, ora não, Yi Sang voltou."
+        },
+        {
+            "id": 137,
+            "model": "단테",
+            "content": "<Phew...>"
+        },
+        {
+            "id": 138,
+            "content": "Foi um tumulto no Trem do Warp que pareceu apenas curto, mas a informação que ficamos sabendo é, mais uma vez, uma montanha."
+        },
+        {
+            "id": 139,
+            "content": "But..."
+        },
+        {
+            "id": 140,
+            "content": "Como eu decidi escolher aproveitar um pouco mais este silêncio, em vez de pensar nas provações que iremos enfrentar na Firma P..."
+        },
+        {
+            "id": 141,
+            "model": "돈키호테",
+            "content": "Enfim… como diabos foi que a gente chegou na Firma P? Cof, cof… e por que será que a minha garganta está tão sufocada?"
+        },
+        {
+            "id": 142,
+            "model": "이스마엘",
+            "content": "Aff… estou cansado demais para explicar…"
+        },
+        {
+            "id": 143,
+            "model": "로쟈",
+            "content": "Pirralho, sério… você perdeu uma baita aventura."
+        },
+        {
+            "id": 144,
+            "model": "돈키호테",
+            "content": "HUHHHH?!"
+        },
+        {
+            "id": 145,
+            "model": "싱클레어",
+            "content": "Ah, graças a isso, agora há pouco o último grão de areia que restava na minha orelha caiu."
+        },
+        {
+            "id": 146,
+            "content": "Os Pecadores riem, fitando Don Quixote, que grita de modo agitado."
+        },
+        {
+            "id": 147,
+            "content": "Que incidente iremos enfrentar aqui, no Distrito 16, este novo lugar onde fica a Firma P, isso ainda não se pode saber, mas..."
+        },
+        {
+            "id": 148,
+            "content": "Será que a gente não consegue dar um jeito, de algum modo."
+        },
+        {
+            "id": 149,
+            "content": "Como a Faust dentro do trem, que confiou na incerteza, de algum modo uma confiança dessas brotou no meu coração."
+        },
+        {
+            "id": 150,
+            "content": "Por um instante, o meu olhar cruzou com o de Faust."
+        },
+        {
+            "id": 151,
+            "content": "Faust, esboçando um sorriso tênue, mal visível, assentiu com a cabeça em minha direção e, como que respondendo a isso, eu também assenti de leve com a cabeça em direção a Faust."
+        },
+        {
+            "id": 152,
+            "content": "…É hora de avançar de novo rumo ao Ramo Dourado."
+        }
+    ]
+}

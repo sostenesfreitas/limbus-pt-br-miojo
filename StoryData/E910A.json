@@ -1,0 +1,88 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Rien's Dungeon, Past",
+            "model": "소지아비",
+            "teller": "Araya",
+            "title": "The House of Spiders",
+            "content": "Lá em cima… o que tem?"
+        },
+        {
+            "id": 1,
+            "model": "검지아비",
+            "content": "…Não me importo que você fale assim comigo, Araya."
+        },
+        {
+            "id": 2,
+            "model": "검지아비",
+            "content": "Mas com os outros discípulos é melhor você se dirigir com o jeito de falar da Estrela Dihui."
+        },
+        {
+            "id": 3,
+            "model": "소지아비",
+            "teller": "Araya",
+            "title": "The House of Spiders",
+            "content": "…Não foi por querer que eu assumi isso, então, aqui, deixe que eu faça do meu jeito."
+        },
+        {
+            "id": 4,
+            "model": "검지아비",
+            "content": "Pois é, essa fala também tem razão."
+        },
+        {
+            "id": 5,
+            "model": "소지아비",
+            "teller": "Araya",
+            "title": "The House of Spiders",
+            "content": "Então… o que tem lá em cima daquela escada?"
+        },
+        {
+            "id": 6,
+            "model": "검지아비",
+            "content": "Hum. Isso eu também não sei."
+        },
+        {
+            "id": 7,
+            "model": "검지아비",
+            "content": "É que eu nunca subi lá nem uma vez."
+        },
+        {
+            "id": 8,
+            "model": "소지아비",
+            "teller": "Araya",
+            "title": "The House of Spiders",
+            "content": "Você não tem curiosidade?"
+        },
+        {
+            "id": 9,
+            "model": "검지아비",
+            "content": "…Será que é preciso ir, à força, descobrir o que há no céu."
+        },
+        {
+            "id": 10,
+            "model": "검지아비",
+            "content": "Bastando não haver um coração que deseja, não seria preciso levantar a cabeça."
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Isto é… uma memória de Araya…?>"
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Relógio. O que foi que você viu?"
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Eu também não sei direito. Mas…>"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Para subir… até lá em cima, parece que surgiu mais um motivo.>"
+        }
+    ]
+}

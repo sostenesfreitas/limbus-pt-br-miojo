@@ -1,0 +1,344 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Kezhan Derretida - Aposento",
+            "model": "오티스",
+            "content": "Será que deu para resolver…"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Não dá a impressão de que eles estão lutando com tudo… bom, eles fugiram, então deve estar tudo bem…>"
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Ah! E a Donquixote?!>"
+        },
+        {
+            "id": 3,
+            "model": "돈키호테",
+            "content": "Eu! Estou aqui!"
+        },
+        {
+            "id": 4,
+            "content": "Donquixote irrompeu de repente, vinda do corredor lá fora."
+        },
+        {
+            "id": 5,
+            "model": "돈키호테",
+            "content": "Eu fui verificar se não havia problema com os outros Pecadores… pelo visto eles também foram emboscados."
+        },
+        {
+            "id": 6,
+            "model": "돈키호테",
+            "content": "A maioria lidou bem com a emboscada, e parece que logo vão voltar para cá, mas…"
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "…Tem alguém que acabou se dando mal?"
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Hmm… o senhor Sinclair e o senhor Yi Sang têm marcas de combate, mas, talvez por terem se atrapalhado, encontraram o fim com as pernas enroscadas um no outro…"
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "Que cena deselegante…"
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "E o senhor Heathcliff…"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Aquele cara é veterano de briga de gangue, não é…? E mesmo assim se deu mal?"
+        },
+        {
+            "id": 12,
+            "model": "히스클리프",
+            "content": "Se deu mal quem, ué."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Heathcliff…!>"
+        },
+        {
+            "id": 14,
+            "model": "돈키호테",
+            "content": "Ã-ãn?"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "Por que essa cara de quem viu algo que não devia, hein?"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Ora, é que, antes de vir para cá, eu acabei de ver o senhor Heathcliff levar uma facada na nuca… será que, nesse meio-tempo, o caro Gerente girou o relógio?"
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<Não… eu ainda não girei.>"
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "model": "히스클리프",
+            "content": "Ah, droga. Sei lá por que a minha nuca está coçan…"
+        },
+        {
+            "id": 20,
+            "content": "Heathcliff, que afagava a nuca, caiu no chão sem nem chegar a terminar a frase que ia dizer."
+        },
+        {
+            "id": 21,
+            "content": "…A julgar por não estar respirando, parece que morreu. E olha que conseguiu até caminhar até aqui…"
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Senhor Heathcliiiiff!!!!"
+        },
+        {
+            "id": 23,
+            "model": "뫼르소",
+            "content": "Gerente, os outros Pecadores estão se juntando, um após o outro."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "…São uns sujeitos lamentáveis, mas, se dá para reforçar o poder de combate, eu considero que reforçar é melhor, Gerente."
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "Além disso, ainda há barulho de combate na direção do saguão… parece bom irmos nos juntar a eles depressa."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<…Sim. Entendi.>"
+        },
+        {
+            "id": 27,
+            "content": "Como sempre, o relógio gira."
+        },
+        {
+            "id": 28,
+            "content": "Pouco depois…"
+        },
+        {
+            "id": 29,
+            "place": "Kezhan Derretida - Saguão",
+            "model": "경도",
+            "content": "Calma, calma, parem todos aí."
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "…Você?!"
+        },
+        {
+            "id": 31,
+            "content": "No saguão estranhamente derretido, veem-se as figuras de várias pessoas."
+        },
+        {
+            "id": 32,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ufa…"
+        },
+        {
+            "id": 33,
+            "content": "Lá dentro, a figura de Jia Shichun, que media forças com um sujeito de chapéu de palha."
+        },
+        {
+            "id": 34,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Já estão partindo para a agressividade. E pensar que alguém com poder de comandar o Heishou está nos visando assim."
+        },
+        {
+            "id": 35,
+            "content": "E, atrás do assassino de chapéu de palha preto que cruzava lâminas…"
+        },
+        {
+            "id": 36,
+            "model": "경도",
+            "content": "Pelo visto vocês acharam que tinham garantido a segurança e foram bisbilhotar… mas aquele que é o meu senhor já terminou de tomar suas providências."
+        },
+        {
+            "id": 37,
+            "content": "Lá estavam Gyeongdo, o colaborador que nos guiara até aqui, e Wei, que apontava a espada para ele."
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "…Então era um ardil teu."
+        },
+        {
+            "id": 39,
+            "model": "경도",
+            "content": "Ah, é o senhor."
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "Eu sabia que havia um plano sinistro, mas você se moveu de modo bem precipitado."
+        },
+        {
+            "id": 41,
+            "model": "경도",
+            "content": "O senhor foi perspicaz. Eu pensava que tivesse confiado plenamente neste servo."
+        },
+        {
+            "id": 42,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 43,
+            "model": "경도",
+            "content": "Há um único modo de sobreviver na Firma H e gozar de riqueza e glória."
+        },
+        {
+            "id": 44,
+            "model": "경도",
+            "content": "Escolher um candidato a Patriarca, servi-lo e devotar-lhe toda a lealdade. Mas… quem é que iria servir o jovem patrão Baoyu, que só foi criado em mimos e não tem nem um grão de ambição?"
+        },
+        {
+            "id": 45,
+            "model": "히스클리프",
+            "content": "Não vai segurar essa língua direito?! Ei! Você está sendo tratado daquele jeito e não vai dizer nada?"
+        },
+        {
+            "id": 46,
+            "model": "홍루",
+            "content": "Hum~ mas é verdade que eu não tenho ambição, ora?"
+        },
+        {
+            "id": 47,
+            "model": "히스클리프",
+            "content": "Você não tem o que se chama de amor-próprio… mas que tanta coisa que te falta."
+        },
+        {
+            "id": 48,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Pare… faça um pouco de silêncio. Não fique respondendo, uma por uma, a provocações tão óbvias."
+        },
+        {
+            "id": 49,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Wei."
+        },
+        {
+            "id": 50,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Eu sei que você não tem o talento de comandar o Heishou."
+        },
+        {
+            "id": 51,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Portanto, conforme você mesmo disse, revele a quem foi que você escolheu servir."
+        },
+        {
+            "id": 52,
+            "model": "경도",
+            "content": "……."
+        },
+        {
+            "id": 53,
+            "teller": "???",
+            "title": "???",
+            "content": "Deixa. Eles dizem que estão curiosos, não dizem."
+        },
+        {
+            "id": 54,
+            "teller": "???",
+            "title": "???",
+            "content": "Recolha a espada, Zilu."
+        },
+        {
+            "id": 55,
+            "content": "Da escuridão escapa mais uma voz desconhecida."
+        },
+        {
+            "id": 56,
+            "model": "자로",
+            "teller": "???",
+            "title": "???",
+            "content": "…Haa."
+        },
+        {
+            "id": 57,
+            "model": "경도",
+            "content": "Jovem patrão…? O senhor está bem…"
+        },
+        {
+            "id": 58,
+            "model": "사이화",
+            "teller": "???",
+            "title": "???",
+            "content": "Deixa. De qualquer modo, são coisas que vão ser varridas pelo orvalho da madrugada e limpas."
+        },
+        {
+            "id": 59,
+            "model": "사이화",
+            "teller": "???",
+            "title": "???",
+            "content": "Por acaso ver a figura deste mestre mudaria alguma coisa?"
+        },
+        {
+            "id": 60,
+            "content": "E aquele que, com passos vagarosos e cheios de calma, foi revelando aos poucos a sua figura…"
+        },
+        {
+            "id": 61,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Isto é meio inacreditável, hein?"
+        },
+        {
+            "id": 62,
+            "model": "홍루",
+            "content": "Então é isso… o senhor é…"
+        },
+        {
+            "id": 63,
+            "model": "사이화",
+            "teller": "???",
+            "title": "???",
+            "content": "Para os ignorantes que ainda não ouviram falar da fama deste mestre, eu vou, em pessoa, revelar o meu nome."
+        },
+        {
+            "id": 64,
+            "model": "사이화",
+            "title": "Família Shi",
+            "content": "Yihua, da família Shi."
+        },
+        {
+            "id": 65,
+            "model": "사이화",
+            "title": "Família Shi",
+            "content": "Forte candidato a Patriarca… é assim que convém me apresentar."
+        }
+    ]
+}

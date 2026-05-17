@@ -1,0 +1,964 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Palanquim",
+            "model": "가마꾼",
+            "content": "Palanquim chegando à Dahuating!"
+        },
+        {
+            "id": 1,
+            "content": "Pouco depois, com a voz sonora do carregador, fomos novamente levados a outro lugar."
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Como há tantas……e o que é a Dahuating?"
+        },
+        {
+            "id": 3,
+            "model": "홍루",
+            "content": "Mm~ simplificando, é o salão de banquetes?"
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Oh……diz que é para isso, mas o tamanho deste lugar é quase o de uma aldeia inteira……"
+        },
+        {
+            "id": 5,
+            "model": "싱클레어",
+            "content": "Aquilo ali……é um lago?"
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "Não~ é uma lagoa~"
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Uma……uma lagoa……? Meu Deus……"
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Depois de chegarmos, deveria estar preparada uma receção de boas-vindas para mim e para Xichun."
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Ah! A Srta. Rodya já faz muito tempo que não come até fartar-se, não é~"
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Talvez seja a primeira vez que fico tão animada antes mesmo de chegar……"
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Oh……? Aquilo é um barco? Um barco atracado ali?"
+        },
+        {
+            "id": 12,
+            "model": "홍루",
+            "content": "Ahá, sim~ às vezes fazemos passeios de barco."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Ah, o edifício do outro lado da lagoa é onde Xichun vive."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Cada pessoa tem o seu próprio edifício?>"
+        },
+        {
+            "id": 15,
+            "model": "홍루",
+            "content": "Sim. Por isso quando saí de Hongyuan pela primeira vez e ouvi que noutros lugares toda a família vive numa só casa, achei muito estranho."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Mas assim……não seria difícil para os familiares verem-se uns aos outros……"
+        },
+        {
+            "id": 17,
+            "model": "홍루",
+            "content": "Por isso usam outros edifícios."
+        },
+        {
+            "id": 18,
+            "model": "이스마엘",
+            "content": "……Estávamos a falar da mesma coisa agora?"
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "content": "Se soubesse, teria escolhido passar as férias na casa de Hong Lu!"
+        },
+        {
+            "id": 20,
+            "model": "홍루",
+            "content": "Isso provavelmente não teria sido possível, Srta. Dom Quixote. Quando saí de casa, Jia Mu e os outros mais velhos repetiram-me muitas vezes."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "Que voltaria naturalmente quando chegasse o momento certo, e que até então devia simplesmente observar o mundo."
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "content": "……Ainda estava a pensar quando chegaria o momento, e o tempo passou implacavelmente, e aqui estou de volta."
+        },
+        {
+            "id": 23,
+            "content": "A maioria dos Pecadores temia quando chegasse a sua vez, e ninguém ficava contente com isso."
+        },
+        {
+            "id": 24,
+            "content": "Seja ter de encarar aquilo de que fugia……"
+        },
+        {
+            "id": 25,
+            "content": "Ou que coisas preciosas que havia esquecido ou perdido os esperavam."
+        },
+        {
+            "id": 26,
+            "content": "Era uma reação perfeitamente compreensível."
+        },
+        {
+            "id": 27,
+            "content": "Se amanhã me levassem de repente a algum sítio e me dissessem \"vamos devolver-te as memórias que perdeste\"……certamente eu também ficaria nervosa."
+        },
+        {
+            "id": 28,
+            "content": "No entanto, Hong Lu, mesmo sabendo que era a sua vez, não demonstrava qualquer mudança."
+        },
+        {
+            "id": 29,
+            "content": "Por ser o Hong Lu que consegue manter a calma em qualquer situação, talvez fosse capaz de aceitar com serenidade o que se seguia."
+        },
+        {
+            "id": 30,
+            "content": "Mas mesmo assim……poderia eu chegar a tal conclusão tão levianamente?"
+        },
+        {
+            "id": 31,
+            "model": "가마꾼",
+            "content": "Bem-vindo ao lar, jovem senhor Baoyu da família Jia!"
+        },
+        {
+            "id": 32,
+            "content": "Com a voz sonora do carregador, a porta do palanquim abriu-se."
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "Vamos, todos devem estar cansados, entrem depressa~"
+        },
+        {
+            "id": 34,
+            "content": "Deixando para trás os companheiros ainda perplexos, Hong Lu desceu do palanquim com leveza e entrou no edifício à frente de todos."
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Ele……"
+        },
+        {
+            "id": 36,
+            "model": "이상",
+            "content": "Sem alegria, sem hesitação, simplesmente a caminhar em frente com serenidade……"
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "É assim……"
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "Cresceu numa família assim tão poderosa, por isso não há nada que o intimide nem que o deixe desconfortável……é isso, suponho."
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Mesmo assim, num recanto do coração de Hong Lu deveria restar algum afeto pela família, não?"
+        },
+        {
+            "id": 40,
+            "content": "Depois de descer do palanquim……"
+        },
+        {
+            "id": 41,
+            "place": "Daguanyuan - Salão de Banquetes da Dahuating",
+            "model": "이상",
+            "content": "Tudo é tão……vasto……imenso……"
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Os criados também……quantos haverá ao todo?"
+        },
+        {
+            "id": 43,
+            "model": "홍루",
+            "content": "Ah, Jia Mu deverá chegar na hora xu."
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "O banquete também começará em breve."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<Hora xu……?>"
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "A hora xu corresponde às 19h às 21h. É um sistema de medição do tempo especial usado ocasionalmente em certas regiões do leste."
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "content": "Além disso……"
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "A avó do Sr. Hong Lu — Jia Mu — é a Patriarca do Daguanyuan. Pode também ser entendida como a líder de Hongyuan."
+        },
+        {
+            "id": 49,
+            "model": "오티스",
+            "content": "A sua familiar é a representante de uma Asa……"
+        },
+        {
+            "id": 50,
+            "model": "홍루",
+            "content": "Sim, embora Jia Mu tenha decidido ceder em breve o cargo de Patriarca ao herdeiro."
+        },
+        {
+            "id": 51,
+            "model": "오티스",
+            "content": "Qual a razão para abdicar do cargo de Patriarca agora?"
+        },
+        {
+            "id": 52,
+            "content": "Outis, que acredita que todas as ações das pessoas têm um significado profundo, perguntou."
+        },
+        {
+            "id": 53,
+            "model": "홍루",
+            "content": "Jia Mu disse que o momento acaba sempre por chegar, e que já estava no cargo há demasiado tempo."
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "Se anunciasses de repente que querias participar na disputa pelo Patriarca, ela ficaria certamente surpreendida."
+        },
+        {
+            "id": 55,
+            "model": "홍루",
+            "content": "Hehe, quem sabe. Talvez aceite com serenidade."
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "Embora não tenha razões para ter de participar, também não tenho razões para não participar."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "Hm? A Srta. Xichun e o Sr. Wei estão sentados ali. Ainda bem, parece que chegaram em segurança?"
+        },
+        {
+            "id": 59,
+            "content": "Jia Xichun, que chegara primeiro, fingiu não nos ver……deu uma olhadela para cá e desviou o rosto."
+        },
+        {
+            "id": 60,
+            "model": "싱클레어",
+            "content": "A-agora mesmo, assim que nos viu a Srta. Xichun desviou o rosto……"
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "Depois de apenas um pouco de tempo sem nos vermos, tornámo-nos numa relação estranha……"
+        },
+        {
+            "id": 62,
+            "model": "돈키호테",
+            "content": "Oh, oh! Por que não nos dirigimos ao lado de Xichun para nos sentar?"
+        },
+        {
+            "id": 63,
+            "model": "그레고르",
+            "content": "Não podemos……já não conseguimos aproximar-nos dali……"
+        },
+        {
+            "id": 64,
+            "model": "돈키호테",
+            "content": "Por que razão……?"
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Já não fazemos parte da facção da Srta. Jia Xichun."
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "É natural que sejamos vistos como inimigos."
+        },
+        {
+            "id": 67,
+            "model": "뫼르소",
+            "content": "O ambiente mudou."
+        },
+        {
+            "id": 68,
+            "model": "뫼르소",
+            "content": "Este lado e aquele lado. Nós e os que não são nós."
+        },
+        {
+            "id": 69,
+            "model": "오티스",
+            "content": "O campo de batalha é sempre um lugar repleto de estratégia e traição."
+        },
+        {
+            "id": 70,
+            "model": "오티스",
+            "content": "Os companheiros de hoje podem tornar-se os inimigos de amanhã……"
+        },
+        {
+            "id": 71,
+            "model": "이스마엘",
+            "content": "Não imaginava que \"não tenho amigos\" pudesse ser expresso desta forma……"
+        },
+        {
+            "id": 72,
+            "model": "오티스",
+            "content": "O que é que——"
+        },
+        {
+            "id": 73,
+            "model": "홍루",
+            "content": "Ah, os meus pais estão ali."
+        },
+        {
+            "id": 74,
+            "model": "히스클리프",
+            "content": "I-isso foi de repente? Maldição, nem sabemos os nomes deles……"
+        },
+        {
+            "id": 75,
+            "model": "홍루",
+            "content": "Ah. O meu pai chama-se Jia Zheng, e a minha mãe é conhecida no Daguanyuan como Lady Wang."
+        },
+        {
+            "id": 76,
+            "model": "홍루",
+            "content": "Desde que saí de casa, esta é a primeira vez que vou cumprimentar os meus pais."
+        },
+        {
+            "id": 77,
+            "place": "Daguanyuan - Salão de Banquetes da Dahuating",
+            "model": "가정",
+            "content": "……"
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "Baoyu da família Jia, de regresso a casa."
+        },
+        {
+            "id": 79,
+            "model": "가정",
+            "content": "……Então já voltaste."
+        },
+        {
+            "id": 80,
+            "model": "왕부인",
+            "content": "Ba……Baoyu……há quantos anos não nos víamos……"
+        },
+        {
+            "id": 81,
+            "model": "왕부인",
+            "content": "Poder ver o teu rosto depois de tanto tempo……é verdadeiramente……uma alegria."
+        },
+        {
+            "id": 82,
+            "model": "왕부인",
+            "content": "Ah, ah……não sei nem……por onde começar……"
+        },
+        {
+            "id": 83,
+            "content": "O pai, Jia Zheng, que parecia inquieto e continuava a olhar entre nós e Hong Lu……"
+        },
+        {
+            "id": 84,
+            "content": "E a mãe, Lady Wang, cheia de gratidão, como se estivesse perante algo profundamente tocante, até o abraço hesitava em dar."
+        },
+        {
+            "id": 85,
+            "content": "Estes dois eram os pais de Hong Lu……"
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "Agradeço a calorosa receção."
+        },
+        {
+            "id": 87,
+            "model": "왕부인",
+            "content": "A propósito, quem são as pessoas que vieram contigo……?"
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "São poucos, mas estes são os amigos que fiz lá fora."
+        },
+        {
+            "id": 89,
+            "model": "이스마엘",
+            "content": "……Muito melhor do que certa pessoa que nos apresentou como seus subordinados. Não é verdade?"
+        },
+        {
+            "id": 90,
+            "model": "히스클리프",
+            "content": "Ei, mas isso foi porque! Ah……hem hem."
+        },
+        {
+            "id": 91,
+            "content": "A mãe de Hong Lu deslocou lentamente o olhar para nós."
+        },
+        {
+            "id": 92,
+            "content": "Não, mais do que olhar……"
+        },
+        {
+            "id": 93,
+            "content": "Era como se nos inspecionasse um a um com o olhar."
+        },
+        {
+            "id": 94,
+            "model": "왕부인",
+            "content": "É um prazer conhecer-vos. O nosso Baoyu, desde pequenino que é uma criança teimosa……os senhores devem ter sofrido bastante ao seu lado. Peço-vos que o tolerem e que continuem a cuidar dele daqui para a frente……"
+        },
+        {
+            "id": 95,
+            "model": "이스마엘",
+            "content": "Teimoso? Está a falar do Sr. Hong Lu?"
+        },
+        {
+            "id": 96,
+            "model": "가정",
+            "content": "Humm……"
+        },
+        {
+            "id": 97,
+            "model": "왕부인",
+            "content": "……"
+        },
+        {
+            "id": 98,
+            "content": "Por algum motivo, ambos tinham expressões pouco favoráveis……"
+        },
+        {
+            "id": 99,
+            "model": "왕부인",
+            "content": "Baoyu……"
+        },
+        {
+            "id": 100,
+            "model": "왕부인",
+            "content": "Por que razão deixas que os teus amigos te chamem assim? E o nome nobre que te foi dado pelos Imortais……"
+        },
+        {
+            "id": 101,
+            "model": "히스클리프",
+            "content": "Ei, o que foi que ela de repente……"
+        },
+        {
+            "id": 102,
+            "content": "Hong Lu, com toda a calma, pegou na mão da mãe que começara a tremer de repente."
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "É natural que seja assim, minha senhora."
+        },
+        {
+            "id": 104,
+            "model": "홍루",
+            "content": "Precisamente porque esse nome é demasiado precioso."
+        },
+        {
+            "id": 105,
+            "model": "왕부인",
+            "content": "Ah……! Ah, ah. Tens razão. Afinal esse nome não é que qualquer pessoa possa pronunciar levianamente……"
+        },
+        {
+            "id": 106,
+            "model": "왕부인",
+            "content": "Sim, claro……é claro que sim……"
+        },
+        {
+            "id": 107,
+            "model": "그레고르",
+            "content": "Então este também tem um nome diferente que costumava usar?"
+        },
+        {
+            "id": 108,
+            "model": "로쟈",
+            "content": "Vês, foi nessa altura~ na P Corp., o Wei chamava Hong Lu de jovem senhor Baoyu~ lembras-te?"
+        },
+        {
+            "id": 109,
+            "model": "이스마엘",
+            "content": "E antes, durante o duelo em Hongyuan, ele também se apresentou como Baoyu da família Jia. Pensei que estava a usar um pseudónimo por ter algum motivo oculto."
+        },
+        {
+            "id": 110,
+            "model": "히스클리프",
+            "content": "Ei……simplesmente porque o nome dele é mais nobre do que o nosso? Não é como se perdesse valor só por alguém o pronunciar……hem."
+        },
+        {
+            "id": 111,
+            "model": "홍루",
+            "content": "Hehe, como poderia um simples nome perder valor. Ah, mas deve haver pessoas que de facto acham que isso o desvaloriza."
+        },
+        {
+            "id": 112,
+            "model": "가정",
+            "content": "Não usar esse nome por aí……é correto."
+        },
+        {
+            "id": 113,
+            "model": "왕부인",
+            "content": "Exatamente, exatamente. Se o teu nome se tornasse do conhecimento geral, aumentariam os que te cobiçam. Mesmo neste momento……"
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "Tal como a sua mãe disse, o nome verdadeiro do Sr. Hong Lu é amplamente conhecido — qualquer pessoa que tenha contacto com a H Corp., ao ouvi-lo, reconhece imediatamente que é alguém de Hongyuan."
+        },
+        {
+            "id": 115,
+            "model": "이상",
+            "content": "Dizem que a maioria dos nomes tem uma origem."
+        },
+        {
+            "id": 116,
+            "model": "이상",
+            "content": "No leste, por exemplo, quando os pais dão um nome a um filho……o seu significado contém as esperanças de como esse filho poderá agir no mundo."
+        },
+        {
+            "id": 117,
+            "model": "료슈",
+            "content": "……Tu. Que significado tem. O teu nome."
+        },
+        {
+            "id": 118,
+            "model": "홍루",
+            "content": "O meu nome……foi dado com os desejos de muitas pessoas, incluindo os meus pais."
+        },
+        {
+            "id": 119,
+            "model": "홍루",
+            "content": "Significa que nasci trazendo jade comigo."
+        },
+        {
+            "id": 120,
+            "model": "이스마엘",
+            "content": "Jia Baoyu……"
+        },
+        {
+            "id": 121,
+            "model": "료슈",
+            "content": "Hem. Assustador. Hong Lu é melhor."
+        },
+        {
+            "id": 122,
+            "model": "싱클레어",
+            "content": "<size=80%>Por favor fale mais baixo!</size>"
+        },
+        {
+            "id": 123,
+            "model": "히스클리프",
+            "content": "Bah, vou continuar a chamar como de costume. Do que ser forçado a gritar \"jovem senhor Baoyu~\" como um tolo, prefiro levar uns socos daquela guia."
+        },
+        {
+            "id": 124,
+            "content": "Os criados ao redor pareciam olhar para nós com espanto."
+        },
+        {
+            "id": 125,
+            "model": "홍루",
+            "content": "Hehe. Não há problema, podem continuar a chamar-me Hong Lu como sempre."
+        },
+        {
+            "id": 126,
+            "model": "하인1",
+            "content": "Por favor, os ilustres convidados sirvam-se de sentar. Em breve começaremos a servir……"
+        },
+        {
+            "id": 127,
+            "model": "하인1"
+        },
+        {
+            "id": 128,
+            "model": "하인1"
+        },
+        {
+            "id": 129,
+            "model": "히스클리프",
+            "content": "Ei……o que é tudo isso?"
+        },
+        {
+            "id": 130,
+            "model": "이스마엘",
+            "content": "Tudo isto……foi realmente preparado apenas para ser comido?"
+        },
+        {
+            "id": 131,
+            "model": "단테",
+            "content": "<……É a primeira vez que fico impressionada com a quantidade de comida.>"
+        },
+        {
+            "id": 132,
+            "content": "A quantidade era tanta que até fazia suspeitar que tivesse sido servida simplesmente para nos impressionar."
+        },
+        {
+            "id": 133,
+            "model": "로쟈",
+            "content": "Isto! Posso ter bis, ter bis……certo? Hehe……"
+        },
+        {
+            "id": 134,
+            "model": "하인1",
+            "content": "O quê? Sim……"
+        },
+        {
+            "id": 135,
+            "model": "단테",
+            "content": "<A propósito, o que são esses lugares vazios? Estamos à espera de outros convidados……?>"
+        },
+        {
+            "id": 136,
+            "model": "홍루",
+            "content": "Mm……"
+        },
+        {
+            "id": 137,
+            "model": "홍루",
+            "content": "Acho que não. São provavelmente os lugares dos meus irmãos e irmãs que estão em algum lugar do Daguanyuan e não quiseram comparecer."
+        },
+        {
+            "id": 138,
+            "model": "홍루",
+            "content": "Por ser um banquete de boas-vindas para mim, devem ter achado que vir seria uma perda de tempo."
+        },
+        {
+            "id": 139,
+            "model": "그레고르",
+            "content": "A sério, como podem ser assim tão dedicados……"
+        },
+        {
+            "id": 140,
+            "model": "하인1",
+            "content": "Jia Mu chega!"
+        },
+        {
+            "id": 141,
+            "model": "하인2",
+            "content": "Jia Mu chega!"
+        },
+        {
+            "id": 142,
+            "content": "Num instante, todo o barulho no salão de banquetes cessou."
+        },
+        {
+            "id": 143,
+            "content": "Os que estavam sentados levantaram-se e curvaram-se, enquanto os que estavam de pé prostraram-se com a testa quase a tocar o chão."
+        },
+        {
+            "id": 144,
+            "content": "E a pessoa que avançava lentamente pelo meio da multidão como se a dividisse……"
+        },
+        {
+            "id": 145,
+            "model": "홍루",
+            "content": "Ah, Jia Mu chegou."
+        },
+        {
+            "id": 146,
+            "content": "Tanto avó de Hong Lu como Patriarca e representante de Hongyuan."
+        },
+        {
+            "id": 147,
+            "content": "Fazia jus ao título de Jia Mu — irradiava uma autoridade sólida mas ao mesmo tempo inacessível, como o próprio Monte Tai."
+        },
+        {
+            "id": 148,
+            "teller": "Multidão",
+            "title": "Daguanyuan",
+            "content": "Bem-vinda, Jia Mu."
+        },
+        {
+            "id": 149,
+            "model": "왕부인",
+            "content": "Bem-vinda, Jia Mu."
+        },
+        {
+            "id": 150,
+            "model": "로쟈",
+            "content": "O-o quê? Nós também devemos, curvar a cabeça?"
+        },
+        {
+            "id": 151,
+            "model": "그레고르",
+            "content": "Já quase que estás a enterrar a cabeça na louça, acho que estás bem……?"
+        },
+        {
+            "id": 152,
+            "model": "싱클레어",
+            "content": "Aq-aquelas pessoas ao lado dela parecem ser os Heishou."
+        },
+        {
+            "id": 153,
+            "model": "단테",
+            "content": "<Enquanto não acontecer nada deve estar bem……>"
+        },
+        {
+            "id": 154,
+            "content": "Enquanto todos recebiam Jia Mu com reverência e ansiedade."
+        },
+        {
+            "id": 155,
+            "content": "Hong Lu era o único que não baixou a cabeça, e em vez disso olhou para Jia Mu."
+        },
+        {
+            "id": 156,
+            "content": "Pelo contrário, levantou-se do seu lugar e caminhou em direção a ela……"
+        },
+        {
+            "id": 157,
+            "model": "홍루",
+            "content": "Há muito que não lhe presto homenagem, Jia Mu."
+        },
+        {
+            "id": 158,
+            "model": "하인4",
+            "teller": "Criada de Jia Mu",
+            "title": "Daguanyuan",
+            "content": "Jovem senhor Baoyu, por favor venha por aqui."
+        },
+        {
+            "id": 159,
+            "content": "Parecia que não qualquer pessoa podia aproximar-se dela — após receber permissão do criado, Hong Lu foi até Jia Mu."
+        },
+        {
+            "id": 160,
+            "model": "가모",
+            "content": "Baoyu."
+        },
+        {
+            "id": 161,
+            "model": "가모",
+            "content": "Que viagem difícil e acidentada foi a tua."
+        },
+        {
+            "id": 162,
+            "model": "홍루",
+            "content": "A senhora exagera, Jia Mu. Graças à gentileza de todos os que me acompanharam, aprendi também muitas coisas novas."
+        },
+        {
+            "id": 163,
+            "model": "가모",
+            "content": "Se tens vontade de aprender, posso convidar os melhores mestres para ensinarem em qualquer matéria."
+        },
+        {
+            "id": 164,
+            "model": "가모",
+            "content": "No entanto, mesmo que aprimores o teu conhecimento sentado num salão de aulas, não passará de isso mesmo."
+        },
+        {
+            "id": 165,
+            "model": "가모",
+            "content": "Nós esperamos que Baoyu compreenda as dez mil coisas deste mundo, em vez de desperdiçar o tempo inutilmente."
+        },
+        {
+            "id": 166,
+            "model": "홍루",
+            "content": "Sim, compreendo. Jia Mu. Foi uma oportunidade preciosa."
+        },
+        {
+            "id": 167,
+            "model": "가모",
+            "content": "Que não te esquecesses de voltar para me ver antes de eu deixar o cargo de Patriarca… isso alegrou-me muito……"
+        },
+        {
+            "id": 168,
+            "model": "돈키호테",
+            "content": "Parece que Hong Lu incorpooru a jornadda pela Linbus Conpanhia como parte da sua grann tour da vida! Nom nom."
+        },
+        {
+            "id": 169,
+            "model": "로쟈",
+            "content": "Grann tour da vida? O que é isso?"
+        },
+        {
+            "id": 170,
+            "model": "오티스",
+            "content": "……Vocês podem engolir o que têm na boca antes de falar?"
+        },
+        {
+            "id": 171,
+            "model": "돈키호테",
+            "content": "Algumas famílias — de renome — antes de os seus descendentes iniciarem as suas atividades oficiais, enviam-nos primeiro em viagem para se aprimorarem!"
+        },
+        {
+            "id": 172,
+            "model": "뫼르소",
+            "content": "Sim, para adquirir diversas experiências que não se podem aprender nos livros e familiarizar-se com a cultura do mundo exterior."
+        },
+        {
+            "id": 173,
+            "model": "가모",
+            "content": "Ouvi dizer que já te encontraste e cumprimentaste Xichun ali?"
+        },
+        {
+            "id": 174,
+            "model": "홍루",
+            "content": "Sim."
+        },
+        {
+            "id": 175,
+            "model": "가모",
+            "content": "É uma criança perspicaz. Não encarará a avaliação do Patriarca com displicência……"
+        },
+        {
+            "id": 176,
+            "model": "홍루",
+            "content": "Sim. Xichun certamente resolverá as coisas com inteligência."
+        },
+        {
+            "id": 177,
+            "model": "가모",
+            "content": "Mm."
+        },
+        {
+            "id": 178,
+            "model": "가모",
+            "content": "Já cumprimentaste os mais velhos?"
+        },
+        {
+            "id": 179,
+            "model": "홍루",
+            "content": "……Irei em breve."
+        },
+        {
+            "id": 180,
+            "model": "가모",
+            "content": "Lady Wang, venha também."
+        },
+        {
+            "id": 181,
+            "model": "왕부인",
+            "content": "Como mandar, Jia Mu, já vou……"
+        },
+        {
+            "id": 182,
+            "content": "A mãe de Hong Lu apressou-se em direção a Jia Mu."
+        },
+        {
+            "id": 183,
+            "model": "가모",
+            "content": "Com o único filho a andar pelo mundo, o teu coração também deve ter ficado inquieto."
+        },
+        {
+            "id": 184,
+            "model": "왕부인",
+            "content": "Não, não é nada, Jia Mu……"
+        },
+        {
+            "id": 185,
+            "model": "왕부인",
+            "content": "O meu……o nosso Baoyu……"
+        },
+        {
+            "id": 186,
+            "model": "왕부인",
+            "content": "Tornar-se assim um homem capaz de se sustentar por si próprio e regressar a casa em segurança, é tudo o que eu desejo……"
+        },
+        {
+            "id": 187,
+            "model": "왕부인",
+            "content": "Por isso, Baoyu……"
+        },
+        {
+            "id": 188,
+            "model": "왕부인",
+            "content": "Não te estou a apressar……mas da próxima vez, quando tenciona partir?"
+        },
+        {
+            "id": 189,
+            "model": "홍루",
+            "content": "Ainda não o decidi, minha senhora."
+        },
+        {
+            "id": 190,
+            "model": "왕부인",
+            "content": "É assim……eu, eu temo que, se ficares aqui para sempre, não consigas cumprir a tua missão e percas o tempo desta forma."
+        },
+        {
+            "id": 191,
+            "model": "왕부인",
+            "content": "Cumprir as tuas responsabilidades o mais cedo possível e depois regressar — é assim que se cumpre a……promessa que Jia Mu estabeleceu, não é?"
+        },
+        {
+            "id": 192,
+            "model": "가모",
+            "content": "Mm."
+        },
+        {
+            "id": 193,
+            "model": "가모",
+            "content": "Não percas, não esqueças."
+        },
+        {
+            "id": 194,
+            "model": "가모",
+            "content": "Tu és o jade único e insubstituível da nossa família."
+        },
+        {
+            "id": 195,
+            "model": "가모",
+            "content": "O nosso tesouro único e inestimável — não fiques neste mundo mundano por demasiado tempo; quando o momento chegar, parte de novo em jornada e realiza o teu valor."
+        },
+        {
+            "id": 196,
+            "model": "홍루",
+            "content": "……"
+        },
+        {
+            "id": 197,
+            "model": "홍루",
+            "content": "Como mandarem, Jia Mu, minha senhora."
+        }
+    ]
+}

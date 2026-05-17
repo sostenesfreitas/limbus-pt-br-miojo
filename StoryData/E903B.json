@@ -1,0 +1,1280 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corridor of the Ring Nursefather",
+            "content": "A paisagem da Teia, que voltamos a visitar depois de alguns dias, parecia bem diferente de antes."
+        },
+        {
+            "id": 1,
+            "content": "O clima vazio e gélido e os espaços que se estendem sem fim continuam os mesmos, mas…"
+        },
+        {
+            "id": 2,
+            "content": "as obras que Calisto instalou estavam cobertas por panos brancos, e nas portas dos fundos, aqui e ali, havia dispositivos desconhecidos instalados."
+        },
+        {
+            "id": 3,
+            "model": "돈키호테",
+            "content": "Mas… quem são aqueles ali?"
+        },
+        {
+            "id": 4,
+            "model": "앨런마스크",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 5,
+            "model": "료슈",
+            "content": "Apareceram mais uns sujeitos suspeitos, nesse meio-tempo."
+        },
+        {
+            "id": 6,
+            "content": "Quando nós deixamos transparecer um ar de alerta, Hohenheim se adiantou e fez um gesto para um daqueles sujeitos de traje peculiar."
+        },
+        {
+            "id": 7,
+            "model": "호엔하임",
+            "content": "Decerto vai ser preciso uma apresentação mútua."
+        },
+        {
+            "id": 8,
+            "model": "호엔하임",
+            "content": "…Este aqui é o chefe de equipe Allen, da Wayfarer Company, que vai colaborar na investigação das portas dos fundos da Teia."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Wayfarer Company?>"
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "É uma empresa que firmou parceria com a Limbus Company e fornece a tecnologia de portais. É um nome não oficial, mas eu já a mencionei pelo nome de nova Firma W."
+        },
+        {
+            "id": 11,
+            "model": "앨런마스크",
+            "title": "Wayfarer Company",
+            "content": "Na nossa empresa também, quando os funcionários conversam entre si, costumamos chamar a Limbus Company de nova Firma L. Como os lugares para onde ambas olham são parecidos, há essa coisa em comum."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Ah…! É aquilo de estar mirando uma nova Firma W.>"
+        },
+        {
+            "id": 13,
+            "content": "'O lugar para onde se olha' há de se referir, provavelmente, a uma Asa."
+        },
+        {
+            "id": 14,
+            "content": "A antiga Firma L já decaiu, e a Firma W… disseram que está em processo de decair."
+        },
+        {
+            "id": 15,
+            "model": "호엔하임",
+            "content": "Estes aqui são… o Gerente e os Pecadores do departamento LCB, que se encarrega de boa parte do serviço de campo na sede."
+        },
+        {
+            "id": 16,
+            "model": "호엔하임",
+            "content": "Originalmente o número é um pouco maior do que isto, mas, como estão tratando de outro serviço, só uma minoria vai participar deste trabalho."
+        },
+        {
+            "id": 17,
+            "model": "앨런마스크",
+            "title": "Wayfarer Company",
+            "content": "Compreendo. Os departamentos que correm no campo costumam, em geral, padecer de escassez de pessoal. Só de terem cedido este número de pessoas já é suficiente."
+        },
+        {
+            "id": 18,
+            "content": "O sujeito chamado Allen, que respondeu com uma atitude afável, logo tirou o capacete de aspecto pesado e estendeu a mão para a frente."
+        },
+        {
+            "id": 19,
+            "model": "앨런",
+            "content": "Prazer. Sou o chefe da Equipe de Abertura 4, Allen."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<P-prazer…>"
+        },
+        {
+            "id": 21,
+            "content": "Antes mesmo de Faust abrir a boca para transmitir as minhas palavras, ele, como quem não se importa nem um pouco com o meu tiquetaquear, ou então como quem está decidido a desfiar uma fala já pronta… num ritmo estranhamente esquisito, foi desfiando as palavras seguintes."
+        },
+        {
+            "id": 22,
+            "model": "앨런",
+            "content": "Eu ouvi falar muito sobre o senhor Dante, da Limbus, e sobre os resultados do departamento do ônibus."
+        },
+        {
+            "id": 23,
+            "model": "앨런",
+            "content": "Que vocês, pondo como isca a resolução de Distorções, venderam os produtos da própria empresa e geraram um lucro descomunal na Firma T…"
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Para fora a gente dizia que ia resolver a Distorção, é verdade… mas que produtos da própria empresa são esses?>"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "…Ele diz que foi apenas sorte. Acrescentou também que conta com a nossa boa vontade neste serviço."
+        },
+        {
+            "id": 26,
+            "model": "앨런",
+            "content": "Ah, a senhora é a responsável pela tradução? Então, se mais adiante eu precisar de uma resposta, eu pergunto quando os dois estiverem juntos."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "…Sim. Que seja."
+        },
+        {
+            "id": 28,
+            "content": "Faust não pareceu lá muito satisfeita de ser chamada de responsável pela tradução, mas assentiu sem resistir."
+        },
+        {
+            "id": 29,
+            "content": "E então, enquanto Allen conversava com Hohenheim, ela veio discretamente para o meu lado e respondeu à pergunta de agora há pouco."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "É uma conversa sobre o negócio de venda de Monolitos. Como, a pedido do senhor Herbert, representante da Firma T, esse mérito ficou registrado como sendo da nossa LCB…"
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Ah… então foi assim que o boato se espalhou.>"
+        },
+        {
+            "id": 32,
+            "model": "앨런",
+            "content": "Eu já verifiquei todos os pontos do acordo. Pelo que sei, vocês vão prestar ajuda no procedimento de verificar o que há do outro lado das portas dos fundos…"
+        },
+        {
+            "id": 33,
+            "model": "앨런",
+            "content": "Peço que compartilhem o máximo possível as informações que já conheçam sobre os pontos de conexão das portas dos fundos."
+        },
+        {
+            "id": 34,
+            "content": "Quando Allen terminou de falar, Hohenheim fitou Kira por um tempo, como quem dá uma deixa."
+        },
+        {
+            "id": 35,
+            "content": "Diante daquele olhar, mesmo inclinando a cabeça de modo enviesado, como quem está descontente, Kira pôs para fora, ainda que um pouco, a informação que conhecia."
+        },
+        {
+            "id": 36,
+            "model": "뉴키라",
+            "content": "O quarto do tio da prótese mecânica eu também não conheço bem."
+        },
+        {
+            "id": 37,
+            "model": "뉴키라",
+            "content": "No máximo, eu já vi a Albina indo fazer farming naquela porta e naquela outra, dizendo que havia material de que ela precisava…"
+        },
+        {
+            "id": 38,
+            "model": "앨런",
+            "content": "Farming…?"
+        },
+        {
+            "id": 39,
+            "model": "뉴키라",
+            "content": "Ah, ã, é que… ela disse que foi procurar material."
+        },
+        {
+            "id": 40,
+            "model": "앨런",
+            "content": "Entendo. Então, falando em material…?"
+        },
+        {
+            "id": 41,
+            "model": "뉴키라",
+            "content": "É que eu já vi ela trazendo um monte de coisa tipo víscera humana."
+        },
+        {
+            "id": 42,
+            "model": "뉴키라",
+            "content": "Provavelmente liga com algum beco."
+        },
+        {
+            "id": 43,
+            "model": "앨런",
+            "content": "Beco… hum. Não há informação um pouco mais detalhada?"
+        },
+        {
+            "id": 44,
+            "model": "뉴키라",
+            "content": "Você está me enchendo o saco, então para de me interrogar."
+        },
+        {
+            "id": 45,
+            "model": "앨런",
+            "content": "……."
+        },
+        {
+            "id": 46,
+            "model": "뉴키라",
+            "content": "O quê. Eu não sei mesmo nada além disso, viu?"
+        },
+        {
+            "id": 47,
+            "content": "Allen, de expressão dura, fitou Kira por um instante e então…"
+        },
+        {
+            "id": 48,
+            "content": "Sem que se notasse, um punho tinha se estendido, e a cabeça de Kira, que o levara, estava virada de lado num repelão."
+        },
+        {
+            "id": 49,
+            "model": "뉴키라",
+            "content": "Urgh!?"
+        },
+        {
+            "id": 50,
+            "content": "Kira, que eu achava que desviaria com toda a facilidade, talvez não tivesse previsto nada… apenas piscava os olhos arregalados de espanto."
+        },
+        {
+            "id": 51,
+            "content": "Não, mais do que não ter previsto… é que, de fato, o processo desde o punho se estender até atingir o alvo teve algo de estranho…"
+        },
+        {
+            "id": 52,
+            "model": "뉴키라",
+            "content": "A-agora… você bateu…?"
+        },
+        {
+            "id": 53,
+            "model": "뉴키라",
+            "content": "Mas o que é isto, de repente…"
+        },
+        {
+            "id": 54,
+            "content": "Enquanto Kira se atrapalhava com a ação inesperada de Allen,"
+        },
+        {
+            "id": 55,
+            "content": "Donquixote abriu a boca num tom gélido, como quem adverte."
+        },
+        {
+            "id": 56,
+            "model": "돈키호테",
+            "content": "…Você. Que ato grosseiro foi esse."
+        },
+        {
+            "id": 57,
+            "model": "앨런",
+            "content": "…Ah."
+        },
+        {
+            "id": 58,
+            "model": "앨런",
+            "content": "É que a criança ainda não crescida que vem na comitiva ficava choramingando sem o menor discernimento."
+        },
+        {
+            "id": 59,
+            "model": "앨런",
+            "content": "Eu apenas julguei que um aviso deste porte podia perfeitamente ser dado; não tive intenção de prejudicar um patrimônio da vossa empresa."
+        },
+        {
+            "id": 60,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 61,
+            "model": "호엔하임",
+            "content": "Chefe de equipe Allen."
+        },
+        {
+            "id": 62,
+            "model": "호엔하임",
+            "content": "Talvez na sua empresa um ato desses não fosse problema, mas aqui ele pode vir a ser um problema."
+        },
+        {
+            "id": 63,
+            "model": "호엔하임",
+            "content": "Portanto, se uma coisa destas se repetir mais uma vez…"
+        },
+        {
+            "id": 64,
+            "model": "호엔하임",
+            "content": "eu gostaria que você tivesse em mente que a agenda de colaboração prevista para hoje pode terminar ali mesmo."
+        },
+        {
+            "id": 65,
+            "model": "앨런",
+            "content": "Peço desculpas. Daqui em diante eu vou tomar cuidado."
+        },
+        {
+            "id": 66,
+            "content": "Ao contrário de Allen, que recuou sem resistir, Kira parecia não ter se conformado com a forma como Hohenheim lidou com aquilo, mas…"
+        },
+        {
+            "id": 67,
+            "model": "뉴키라",
+            "content": "Quem armou a encrenca foi o lado de lá, e eu tenho de acabar levando uma pancada e deixar por isso mesmo, é…?"
+        },
+        {
+            "id": 68,
+            "model": "뉴키라",
+            "content": "Que irritante…"
+        },
+        {
+            "id": 69,
+            "content": "Apenas reclamou da situação; felizmente, não houve nada como ela partir para cima de Allen."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<Aquele punho estranho de agora há pouco… o que será que era aquilo.>"
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "…Era um fenômeno que parecia ignorar as leis físicas usuais."
+        },
+        {
+            "id": 72,
+            "model": "파우스트",
+            "content": "Provavelmente há de ser uma de certas tecnologias que a Wayfarer maneja."
+        },
+        {
+            "id": 73,
+            "model": "호엔하임",
+            "content": "…Vamos voltar ao serviço."
+        },
+        {
+            "id": 74,
+            "model": "호엔하임",
+            "content": "Pecadora Ryōshū. Informe ao chefe de equipe Allen a informação que você também conhece."
+        },
+        {
+            "id": 75,
+            "model": "료슈2",
+            "content": "Ufa…"
+        },
+        {
+            "id": 76,
+            "model": "료슈",
+            "content": "Aquela porta… há de ligar com a zona de proteção do Anelar."
+        },
+        {
+            "id": 77,
+            "model": "료슈",
+            "content": "As duas portas à esquerda… sei lá por quê, parece que estavam marcadas com um X de sangue, mas…"
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "content": "…Para onde ligam, sa.ber. não. dá. A memória está embaçada. Tch."
+        },
+        {
+            "id": 79,
+            "model": "호엔하임",
+            "content": "Parece que a informação que dá para fornecer é só esta. Mesmo assim, está bom?"
+        },
+        {
+            "id": 80,
+            "model": "앨런",
+            "content": "Só o fato de haver alta probabilidade de estarem ligadas a um exterior reconhecível já é de grande ajuda para a confecção do mapa da Wayfarer."
+        },
+        {
+            "id": 81,
+            "model": "앨런",
+            "content": "Pois quer dizer que, ao se abrir, há baixa probabilidade de se ligar a um espaço perigoso fora do reconhecível."
+        },
+        {
+            "id": 82,
+            "model": "앨런",
+            "content": "Então… eu vou começar o trabalho de verificação das conexões. Por qual porta vamos testar?"
+        },
+        {
+            "id": 83,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 84,
+            "model": "호엔하임",
+            "content": "Eu vou abrir primeiro a porta que a Pecadora Ryōshū mencionou."
+        },
+        {
+            "id": 85,
+            "model": "뉴키라",
+            "content": "Ha! O quê, é isso de não acreditar em mim…?"
+        },
+        {
+            "id": 86,
+            "model": "뉴키라",
+            "content": "Se era pra ser assim, por que me trouxeram…"
+        },
+        {
+            "id": 87,
+            "content": "Deixando para trás Kira, que resmungava, Allen instalou na porta toda sorte de dispositivos e, não muito depois, uma porta branca de aspecto luxuoso se abriu."
+        },
+        {
+            "id": 88,
+            "model": "호엔하임",
+            "content": "Então vamos entrar."
+        },
+        {
+            "id": 89,
+            "model": "돈키호테",
+            "content": "O senhor Hohenheim também vai entrar junto?"
+        },
+        {
+            "id": 90,
+            "model": "호엔하임",
+            "content": "Como parece que vai ser preciso uma passagem de instruções sobre o modo de trabalhar, só desta vez eu vou acompanhar."
+        },
+        {
+            "id": 91,
+            "model": "단테",
+            "content": "<Certo. Vamos entrar.>"
+        },
+        {
+            "id": 92,
+            "place": "???",
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<É uma coisa tipo… uma exposição de animais…?>"
+        },
+        {
+            "id": 94,
+            "content": "Enquanto os Pecadores apertavam os olhos diante da iluminação clara, os arredores que eu espiei primeiro estavam repletos de animais, fosse maquete ou taxidermia, não dava para saber."
+        },
+        {
+            "id": 95,
+            "content": "Parece um lugar que expõe alguma coisa… é tão silencioso, sem um ruído, que se sente até uma solenidade."
+        },
+        {
+            "id": 96,
+            "content": "Quem quebrou aquele silêncio foi… inesperadamente, não Donquixote."
+        },
+        {
+            "id": 97,
+            "model": "뉴키라",
+            "content": "Uau~ caraca. A escala é absurda? Aquela ali é a baleia que apareceu na edição especial do Grande Lago da Associação Eit da última revista!"
+        },
+        {
+            "id": 98,
+            "content": "Kira, que desde o quarto de hospital exalava um ar abatido, soltou uma exclamação com a voz um pouco mais animada."
+        },
+        {
+            "id": 99,
+            "model": "뉴키라",
+            "content": "Vendo ao vivo, não é brincadeira… e o Velho Anil pega uma coisa dessas com uma arpoada só, é isso?"
+        },
+        {
+            "id": 100,
+            "model": "단테",
+            "content": "<…É a baleia do Grande Lago. Embora pareça um exemplar com que a gente nunca se deparou.>"
+        },
+        {
+            "id": 101,
+            "model": "파우스트",
+            "content": "Veem-se desde criaturas com os genes manipulados por uma singularidade até monstros que se podem ver na periferia."
+        },
+        {
+            "id": 102,
+            "model": "단테",
+            "content": "<Que… vivaz… não está vivo, né?>"
+        },
+        {
+            "id": 103,
+            "model": "파우스트",
+            "content": "Não, vivo não está…"
+        },
+        {
+            "id": 104,
+            "model": "뉴키라",
+            "content": "…é o que eu queria dizer. Bom… pensando no que o tio da prótese mecânica disse, dizem que há também um zoológico do Anelar que reúne assim coisas que estão vivas…"
+        },
+        {
+            "id": 105,
+            "model": "뉴키라",
+            "content": "Ts. Antes assim, teria sido mais divertido. As coisas que tem aqui estão todas mortas… hmf. Mas, como têm um ar imponente, ver tem a sua graça."
+        },
+        {
+            "id": 106,
+            "content": "Kira, mesmo dizendo isso, fazia uma expressão de quem se espantava de novo com um animal de chifres descomunais exposto a um canto."
+        },
+        {
+            "content": "…Agora que penso, dá uma sensação de que está faltando uma pessoa para fazer um alvoroço destes."
+        },
+        {
+            "id": 108,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 109,
+            "model": "단테",
+            "content": "<Donquixote?>"
+        },
+        {
+            "id": 110,
+            "model": "돈키호테",
+            "content": "Os olhos do segundo Parente da família Tepes… por que estão aqui…"
+        },
+        {
+            "id": 111,
+            "content": "Diante das palavras de Donquixote sobre olhos de um vampiro, eu olhei para o lado oposto da enorme baleia."
+        },
+        {
+            "id": 112,
+            "content": "Lá, a começar pelos olhos de cor vermelha que Donquixote fitava, estavam expostas algumas coisas que pareciam ser mãos ou ossos de pessoas."
+        },
+        {
+            "id": 113,
+            "model": "료슈",
+            "content": "A galeria."
+        },
+        {
+            "id": 114,
+            "place": "Fauvist Gallery, Somewhere",
+            "model": "료슈",
+            "content": "É a galeria dos Fauvistas. E, ainda por cima, parece ser o estúdio principal, onde ficam o ateliê e o salão de leilões do Maestro."
+        },
+        {
+            "id": 115,
+            "model": "호엔하임",
+            "content": "…Chefe de equipe Allen."
+        },
+        {
+            "id": 116,
+            "model": "호엔하임",
+            "content": "Nós vamos sair em breve, então prepare o procedimento de fechamento."
+        },
+        {
+            "id": 117,
+            "content": "Antes mesmo de o rádio aflito de Hohenheim terminar."
+        },
+        {
+            "id": 118,
+            "content": "Num lugar não muito distante, começaram a ecoar vários passos a estalar."
+        },
+        {
+            "id": 119,
+            "content": "Quando virei a cabeça acompanhando o som, vi sujeitos com máscaras bizarras de animais que nos fitavam."
+        },
+        {
+            "id": 120,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 121,
+            "model": "뉴키라",
+            "content": "Parecido com… o papai…"
+        },
+        {
+            "id": 122,
+            "model": "뉴키라",
+            "content": "Mas que loucura… qualquer um vê que não é um chefão que dá para vencer agora! A gente não tem de fugir?!"
+        },
+        {
+            "id": 123,
+            "model": "호엔하임",
+            "content": "…Não é um problema que se resolve simplesmente voltando."
+        },
+        {
+            "id": 124,
+            "model": "호엔하임",
+            "content": "Esta porta está ligada à Teia. Por isso, se não instalarmos um sistema de segurança nesta porta e não voltarmos… há a possibilidade de eles abrirem a porta e nos perseguirem."
+        },
+        {
+            "id": 125,
+            "model": "호엔하임",
+            "content": "Quer dizer que é preciso tempo, até a preparação do procedimento de fechamento terminar lá fora."
+        },
+        {
+            "id": 126,
+            "content": "Enquanto deixávamos transparecer um ar de alerta, um sujeito que usava uma máscara peculiar de osso nos dirigiu a palavra."
+        },
+        {
+            "id": 127,
+            "content": "Naquela voz mesclavam-se, meio a meio, interesse e contentamento."
+        },
+        {
+            "id": 128,
+            "model": "에밀브누아",
+            "teller": "???",
+            "title": "???",
+            "content": "Você ter vindo por aquela porta quer dizer…"
+        },
+        {
+            "id": 129,
+            "model": "에밀브누아",
+            "teller": "???",
+            "title": "???",
+            "content": "que o boato de que a Teia desabou não era mentira."
+        },
+        {
+            "id": 130,
+            "model": "에밀브누아",
+            "teller": "???",
+            "title": "???",
+            "content": "Ver a aranhazinha que fugiu de casa, e logo na galeria. Faz quantos anos?"
+        },
+        {
+            "id": 131,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 132,
+            "model": "료슈",
+            "content": "Você… quem é?"
+        },
+        {
+            "id": 133,
+            "model": "에밀브누아",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah. Aah… pois é, é capaz de você não me reconhecer. Quando eu entrava e saía da Teia como instrutor externo, era outro animal… era um lobo, não era?"
+        },
+        {
+            "id": 134,
+            "model": "에밀브누아",
+            "teller": "???",
+            "title": "???",
+            "content": "Naquela época eu estava imerso na fera selvageria de devorar a presa viva e naquele aulido feroz que ecoava fundo."
+        },
+        {
+            "id": 135,
+            "model": "료슈2",
+            "content": "…Parece que eu sei quem é."
+        },
+        {
+            "id": 136,
+            "model": "료슈2",
+            "content": "O tal Maestro que ficou três horas tagarelando, a pretexto de ensinar a intensidade das cores primárias e os pontos fortes das criaturas. Benoit… era?"
+        },
+        {
+            "id": 137,
+            "model": "에밀브누아",
+            "teller": "Benoît",
+            "content": "Dizem que filho de galinha não vira fênix, mas nem sempre é assim."
+        },
+        {
+            "id": 138,
+            "model": "에밀브누아",
+            "teller": "Benoît",
+            "content": "Vendo que, ao contrário do teu pai, a tua cabeça funciona com a inteligência de um corvo."
+        },
+        {
+            "id": 139,
+            "model": "료슈",
+            "content": "Tch. Não se engane."
+        },
+        {
+            "id": 140,
+            "model": "료슈",
+            "content": "Eu só me lembro porque o tato da pele e das vísceras que você me ensinou… era de.cen.te."
+        },
+        {
+            "id": 141,
+            "content": "À primeira vista parece que ela conversa de modo impassível com o Maestro sobre coisas antigas, mas…"
+        },
+        {
+            "id": 142,
+            "content": "veio-me o pensamento de que Ryōshū devia estar puxando a conversa para arrastá-la, a fim de ganhar tempo para nós."
+        },
+        {
+            "id": 143,
+            "model": "단테",
+            "content": "<O tal procedimento de fechamento ainda não?>"
+        },
+        {
+            "id": 144,
+            "model": "돈키호테",
+            "content": "Senhor Hohenheim. Aquele procedimento de fechamento ainda…"
+        },
+        {
+            "id": 145,
+            "content": "Talvez por ter visto os olhos de um da própria espécie, Donquixote, que vinha encarando os membros do Anelar calada o tempo todo, traduziu as minhas palavras de modo impassível."
+        },
+        {
+            "id": 146,
+            "model": "호엔하임",
+            "content": "…Infelizmente, a velocidade do procedimento de fechamento depende não de mim, e sim do chefe de equipe Allen. Como é um trabalho que consome muito tempo, não há de terminar tão depressa."
+        },
+        {
+            "id": 147,
+            "model": "호엔하임",
+            "content": "Talvez seja, justamente agora… a ocasião perfeita para testar o Plano A."
+        },
+        {
+            "id": 148,
+            "model": "단테",
+            "content": "<Plano A…?>"
+        },
+        {
+            "id": 149,
+            "model": "파우스트",
+            "content": "…Se for o plano de Donquixote tirar os sapatos, não há mais valor algum em mencioná-lo."
+        },
+        {
+            "id": 150,
+            "model": "파우스트",
+            "content": "Mais do que isso…"
+        },
+        {
+            "id": 151,
+            "content": "Talvez fosse um plano totalmente diferente, pois Hohenheim tentou rebater algo às palavras de Faust, mas…"
+        },
+        {
+            "id": 152,
+            "content": "logo, ao ver a direção para onde Faust olhava, Hohenheim não disse mais nada e fechou a boca."
+        },
+        {
+            "id": 153,
+            "model": "호엔하임",
+            "content": "Eu até gosto de apostar na possibilidade, mas…"
+        },
+        {
+            "id": 154,
+            "model": "호엔하임",
+            "content": "Não sei. Como você mesma disse, é um domínio do tipo 'há possibilidade', e só."
+        },
+        {
+            "id": 155,
+            "content": "Na ponta do olhar dos dois estava a espada de Ryōshū. A Araya-shiki."
+        },
+        {
+            "id": 156,
+            "model": "료슈",
+            "content": "Hunf. Mesmo sem me apressarem, eu já pretendia fazer."
+        },
+        {
+            "id": 157,
+            "model": "료슈2",
+            "content": "Pois eu queria comparar em pessoa como o fim de vida que o Maestro vai receber será diferente de outras mortes."
+        },
+        {
+            "id": 158,
+            "model": "단테",
+            "content": "<Não dá para a gente simplesmente sair assim, né?>"
+        },
+        {
+            "id": 159,
+            "model": "파우스트",
+            "content": "Não. É que todos os que estão aqui… para o Anelar hão de ser corpos-base interessantes."
+        },
+        {
+            "id": 160,
+            "model": "파우스트",
+            "content": "Eles não vão deixar uma inspiração e um material que vieram pelo próprio pé voltarem assim, sem mais."
+        },
+        {
+            "id": 161,
+            "content": "Faust e Hohenheim, dois gênios, e Ryōshū, capaz de manejar a Araya-shiki."
+        },
+        {
+            "id": 162,
+            "content": "Donquixote, um vampiro de Parente de alto escalão, e até eu, com o Ramo Dourado dentro da cabeça."
+        },
+        {
+            "id": 163,
+            "content": "Eu não sei quantas dessas coisas aqueles sujeitos sabem, mas…"
+        },
+        {
+            "id": 164,
+            "content": "ainda que não saibam de nada, não é uma situação em que pareçam que vão nos deixar ir com facilidade."
+        },
+        {
+            "id": 165,
+            "model": "단테",
+            "content": "<…Vai ficar tudo bem, Ryōshū?>"
+        },
+        {
+            "id": 166,
+            "model": "료슈",
+            "content": "Fi.car. bem. ou. não. não é o que importa, relógio."
+        },
+        {
+            "id": 167,
+            "model": "료슈2",
+            "content": "…Pense naquele sujeito como o Leiheng e faça só como você fez na mansão de He.Cli."
+        },
+        {
+            "id": 168,
+            "model": "료슈2",
+            "content": "O resto eu cuido por minha conta."
+        },
+        {
+            "id": 169,
+            "model": "단테",
+            "content": "<…Pois é. Há de ser o melhor.>"
+        },
+        {
+            "id": 170,
+            "content": "O sentido das palavras que Ryōshū insinuou é claro."
+        },
+        {
+            "id": 171,
+            "content": "Depois de igualar as forças com a ressonância do Ramo Dourado, de surpresa torne o tempo lento também."
+        },
+        {
+            "id": 172,
+            "content": "Se pelo menos der para cortar com a Araya-shiki, então — chance de vencer eu não sei, mas — tempo para fugir… talvez dê para ganhar."
+        },
+        {
+            "id": 173,
+            "model": "에밀브누아",
+            "teller": "Benoît",
+            "content": "Os que estão expostos neste andar são, na maioria, obras medíocres de Estudantes ou Docentes, mas…"
+        },
+        {
+            "id": 174,
+            "model": "에밀브누아",
+            "teller": "Benoît",
+            "content": "entre eles também há misturados alguns dignos de se chamar de obras de mestre."
+        },
+        {
+            "id": 175,
+            "model": "에밀브누아",
+            "teller": "Benoît",
+            "content": "Ainda mais que este lugar é a galeria dos Fauvistas, e a minha…"
+        },
+        {
+            "id": 176,
+            "model": "에밀브누아",
+            "content": "É a galeria de Émile Benoit."
+        },
+        {
+            "id": 177,
+            "model": "에밀브누아",
+            "content": "…Por isso eu queria, na medida do possível, levá-la em silêncio, mas que pena."
+        },
+        {
+            "id": 178,
+            "model": "에밀브누아",
+            "content": "Ainda assim, se eu puder obter a Araya-shiki, aquela relíquia exclusiva que ficou sem dono… há de ser um preço que vale a pena assumir."
+        },
+        {
+            "id": 179,
+            "model": "료슈2",
+            "content": "Ufa… se você quer tentar…"
+        },
+        {
+            "id": 180,
+            "model": "료슈2",
+            "content": "……."
+        },
+        {
+            "id": 181,
+            "model": "료슈9장",
+            "content": "…?"
+        },
+        {
+            "id": 182,
+            "content": "No rosto de Ryōshū, que ia desembainhar a espada com vigor, surgem perplexidade e desconcerto."
+        },
+        {
+            "id": 183,
+            "model": "단테",
+            "content": "<O que aconteceu?>"
+        },
+        {
+            "id": 184,
+            "model": "료슈9장",
+            "content": "…Por quê?"
+        },
+        {
+            "id": 185,
+            "model": "료슈9장",
+            "content": "A fechadura que a Teia pôs na Araya-shiki não existe mais. Então por que…"
+        },
+        {
+            "id": 186,
+            "model": "료슈9장",
+            "content": "a espada não sai da bainha?"
+        },
+        {
+            "id": 187,
+            "model": "에밀브누아",
+            "content": "…Isto é inesperado."
+        },
+        {
+            "id": 188,
+            "model": "에밀브누아",
+            "content": "O boato de que você passou a poder manejar por completo aquela relíquia era mentira?"
+        },
+        {
+            "id": 189,
+            "model": "료슈9장",
+            "content": "…!"
+        },
+        {
+            "id": 190,
+            "content": "Diante do braço que o Maestro brandiu de leve, Ryōshū recuou com um ar de quem se atrapalhou."
+        },
+        {
+            "id": 191,
+            "content": "O ferimento parecia, no máximo, um arranhão, mas… o Maestro, como quem fez um experimento, fitava alternadamente o sangue no braço de Ryōshū e no próprio braço, mergulhado em cisma."
+        },
+        {
+            "id": 192,
+            "content": "…Não era difícil conjeturar o que aquela ação significava."
+        },
+        {
+            "id": 193,
+            "model": "료슈",
+            "content": "…Tch. Você percebeu."
+        },
+        {
+            "id": 194,
+            "model": "에밀브누아",
+            "content": "Desde que eu vi hoje, eu estava meio na dúvida."
+        },
+        {
+            "id": 195,
+            "model": "에밀브누아",
+            "content": "Se a Teia tinha sido bem-sucedida, ou tinha fracassado."
+        },
+        {
+            "id": 196,
+            "model": "에밀브누아",
+            "content": "Yoshihide. O que você acha que é o ponto forte da cobra?"
+        },
+        {
+            "id": 197,
+            "model": "료슈",
+            "content": "Que disparate é esse que você está cuspindo, do nada?"
+        },
+        {
+            "id": 198,
+            "model": "에밀브누아",
+            "content": "Quando peço aos Estudantes que apontem o ponto forte da cobra, sempre me vêm só respostas óbvias, como o veneno ou as escamas lisas… isso é bem decepcionante."
+        },
+        {
+            "id": 199,
+            "content": "Como quem teve uma certa certeza, o Maestro veio caminhando a passos largos em nossa direção."
+        },
+        {
+            "id": 200,
+            "content": "E puxou um fio bege que descia do teto. Não, algo que, para se chamar de fio, era de algum modo desagradável."
+        },
+        {
+            "id": 201,
+            "model": "에밀브누아",
+            "content": "Eu, pessoalmente, gosto da mandíbula e da coluna da cobra."
+        },
+        {
+            "id": 202,
+            "model": "에밀브누아",
+            "content": "Seria mais exato dizer que eu gosto da coluna flexível, que se encadeia e se encaixa como uma corrente, e daquela excelência estrutural que se sente na mandíbula, ligada por ligamentos, e não por ossos, para engolir a presa de uma só bocada."
+        },
+        {
+            "id": 203,
+            "content": "No mesmo instante em que o anel de três voltas enrolado no anelar daquele sujeito brilhou gelidamente, das paredes e do teto ecoaram inúmeros sons como de carne e ossos sendo montados."
+        },
+        {
+            "id": 204,
+            "model": "단테",
+            "content": "<M-mas o que diabos é aquilo?!>"
+        },
+        {
+            "id": 205,
+            "model": "에밀브누아",
+            "content": "É por isso… que, para engolir bons materiais de uma só bocada, não há nada como uma obra feita de cobra, não acha?"
+        },
+        {
+            "id": 206,
+            "content": "No tronco do monstro, longo como uma cobra, o Maestro enfiou o próprio braço."
+        },
+        {
+            "id": 207,
+            "content": "Uma pressão semelhante à que se sentia dos Pais da Teia, não, mais afiada e desregrada."
+        },
+        {
+            "id": 208,
+            "model": "에밀브누아",
+            "content": "Sinta orgulho."
+        },
+        {
+            "id": 209,
+            "model": "에밀브누아",
+            "content": "Pois é a primeira vez que eu apresento esta obra a um forasteiro."
+        },
+        {
+            "id": 210,
+            "model": "파우스트",
+            "content": "Hohenheim. O procedimento de fechamento ainda não?"
+        },
+        {
+            "id": 211,
+            "model": "호엔하임",
+            "content": "Falta cerca de 1 minuto, então saia da frente!"
+        },
+        {
+            "id": 212,
+            "content": "O equipamento E.G.O. que Hohenheim desferiu às pressas não aguentou nem um instante e foi arremessado para fora da mão dele, e…"
+        },
+        {
+            "id": 213,
+            "content": "no instante em que ele, aflito, ia sobrepor personagens aos Pecadores, o braço de fera, que vinha vindo com ímpeto feroz, parou."
+        },
+        {
+            "id": 214,
+            "content": "Quem barrou aquele ataque foi…"
+        },
+        {
+            "id": 215,
+            "model": "뉴키라",
+            "content": "Ha… droga."
+        },
+        {
+            "id": 216,
+            "content": "Kira, que, segurando com as duas mãos uma espada cuja lâmina nem saíra, barrava o golpe a custo."
+        },
+        {
+            "id": 217,
+            "model": "단테",
+            "content": "<Ki-Kira?!>"
+        },
+        {
+            "id": 218,
+            "content": "Será que, sem eu saber, surgiu nela alguma mudança de coração?"
+        },
+        {
+            "id": 219,
+            "model": "뉴키라",
+            "content": "Que saco… não era isto que eu queria fazer…"
+        },
+        {
+            "id": 220,
+            "content": "…Não há de ser o caso."
+        },
+        {
+            "id": 221,
+            "content": "Pois a expressão de Kira tinha um ar de frustração, como quem cometeu um erro."
+        },
+        {
+            "id": 222,
+            "model": "에밀브누아",
+            "content": "Dedo Médio… mesmo sem ser de filiação oficial, ter sobreposto uma tatuagem deste porte quer dizer que…"
+        },
+        {
+            "id": 223,
+            "model": "에밀브누아",
+            "content": "Ah. É a raposinha que dizem que Matthias estava criando de novo, então."
+        },
+        {
+            "id": 224,
+            "model": "에밀브누아",
+            "content": "Por que você barrou a frente?"
+        },
+        {
+            "id": 225,
+            "model": "뉴키라2",
+            "content": "Eu também, droga… estou me arrependendo pra caramba agora, viu?"
+        },
+        {
+            "id": 226,
+            "model": "뉴키라2",
+            "content": "Ah, droga… com certeza vão me abandonar e fugir… por que é que eu…"
+        },
+        {
+            "id": 227,
+            "model": "료슈",
+            "content": "Ha. Por ter superado a sede de sangue pela metade, você partiu para cima por instinto?"
+        },
+        {
+            "id": 228,
+            "model": "호엔하임",
+            "content": "Pelo visto, conforme o estado de treinamento, a psicologia do comportamento também pode ser controlada. Isto rendeu um dado inesperado."
+        },
+        {
+            "id": 229,
+            "model": "뉴키라2",
+            "content": "Urgh…! Cala a boca…! Em vez de cuspir uma baboseira dessas, destrava logo a segurança da arma!"
+        },
+        {
+            "id": 230,
+            "model": "호엔하임",
+            "content": "Eu já autorizei e estou aguardando… agora!"
+        },
+        {
+            "id": 231,
+            "content": "Junto com um som de estalo, as duas espadas saltaram da bainha, e Kira, com aquele recuo, num instante se afastou para trás."
+        },
+        {
+            "id": 232,
+            "content": "É claro que o Maestro, com a pressão sobre o braço desaparecida, brandiu de novo o braço de fera, mas…"
+        },
+        {
+            "id": 233,
+            "model": "뉴키라2",
+            "content": "Hã…?"
+        },
+        {
+            "id": 234,
+            "model": "돈키호테",
+            "content": "Tentar abater alguém que ainda nem terminou os preparativos é injustiça."
+        },
+        {
+            "id": 235,
+            "model": "돈키호테",
+            "content": "Observe bem. A figura esplêndida que os Solucionadores de renome vêm mostrando é justamente esta…"
+        },
+        {
+            "id": 236,
+            "content": "Donquixote, que se infiltrou por aquela brecha, desviou com toda a força a trajetória do braço de fera para outra direção."
+        },
+        {
+            "id": 237,
+            "content": "É claro que… Donquixote, que não suportou a força do Maestro, num instante virou uma polpa e foi encravada na porta."
+        },
+        {
+            "id": 238,
+            "model": "앨런",
+            "content": "Concluído. Vou fechar assim que todos saírem."
+        },
+        {
+            "id": 239,
+            "model": "호엔하임",
+            "content": "Todos, entrem pela porta! O que era a Pecadora nº 3… cuide você dela, Faust!"
+        },
+        {
+            "id": 240,
+            "content": "Quando Faust e Donquixote entraram pela porta, Kira, que nesse meio-tempo teve o tornozelo agarrado pelos Estudantes que partiram para cima, ria com um ar vazio, como quem se resignou."
+        },
+        {
+            "id": 241,
+            "model": "뉴키라2",
+            "content": "Ha, era por achar que ia ser assim que eu não queria me meter…"
+        },
+        {
+            "id": 242,
+            "content": "Para levar Kira para dentro agora, é preciso estar preparado para que uma boa quantidade de membros do Anelar entre para o outro lado da porta."
+        },
+        {
+            "id": 243,
+            "content": "É por isso que Kira, achando, é claro, que o resultado desse julgamento seria ela ser de novo abandonada, baixou bem a cabeça."
+        },
+        {
+            "id": 244,
+            "model": "뉴키라2",
+            "content": "Idiota… por que é que você foi disparar pra fora ali…"
+        },
+        {
+            "id": 245,
+            "model": "호엔하임",
+            "content": "O que você está fazendo aí, abobalhado?! Você também, rápido!"
+        },
+        {
+            "id": 246,
+            "model": "뉴키라2",
+            "content": "O quê? Se eu entrar, esses aqui também vão entrar atr—"
+        },
+        {
+            "id": 247,
+            "model": "료슈",
+            "content": "Con.ver.sa. de.mais. Você quer ser fatiado na horizontal de novo?"
+        },
+        {
+            "id": 248,
+            "model": "뉴키라2",
+            "content": "…Depois é só vir me culpar."
+        },
+        {
+            "id": 249,
+            "content": "Kira aparou a custo o braço do Maestro, que se brandiu mais uma vez, e, com toda a força, mergulhou para dentro da porta."
+        },
+        {
+            "id": 250,
+            "content": "Nesse meio-tempo… uma boa quantidade de Estudantes do Anelar entrou pela porta, perseguindo os Pecadores que tinham entrado antes, mas…"
+        },
+        {
+            "id": 251,
+            "place": "Corridor of the Ring Nursefather",
+            "model": "앨런",
+            "content": "Passagem fechada. A conexão de cada porta foi interrompida."
+        },
+        {
+            "id": 252,
+            "content": "Por sorte… a conexão entre as duas portas dos fundos se rompeu antes de o Maestro entrar."
+        },
+        {
+            "id": 253,
+            "model": "료슈",
+            "content": "Ufa… cabeça-de-cuia. Você consegue usar o braço?"
+        },
+        {
+            "id": 254,
+            "model": "뉴키라2",
+            "content": "…Consigo usar."
+        },
+        {
+            "id": 255,
+            "model": "료슈2",
+            "content": "É o que ele diz."
+        },
+        {
+            "id": 256,
+            "content": "Kira há de servir de um poder de combate suficiente, mas o número de membros que passaram para cá é bem grande."
+        },
+        {
+            "id": 257,
+            "content": "Travar o combate só com os Pecadores que estão aqui… não há de ser um método lá muito bom."
+        },
+        {
+            "id": 258,
+            "content": "Sendo assim…"
+        },
+        {
+            "id": 259,
+            "model": "단테",
+            "content": "<Pessoal, está todo mundo sem problema agora?>"
+        },
+        {
+            "id": 260,
+            "content": "Assim que eu dirigi a palavra aos Pecadores, pelo rádio de Hohenheim vieram, em sequência, as vozes dos Pecadores."
+        },
+        {
+            "id": 261,
+            "model": "이스마엘",
+            "teller": "Ishmael",
+            "title": "Radio",
+            "content": "Sim? Bom… estar, eu estou bem."
+        },
+        {
+            "id": 262,
+            "model": "오티스",
+            "teller": "Outis",
+            "title": "Radio",
+            "content": "Sem problema, Gerente! Esta Outis, se for um chamado do Gerente, em qualquer situação que seja…"
+        },
+        {
+            "id": 263,
+            "model": "로쟈",
+            "teller": "Rodya",
+            "title": "Radio",
+            "content": "O quêê!? E-espera, deixa eu só terminar isto…!"
+        },
+        {
+            "id": 264,
+            "model": "단테",
+            "content": "<Reúnam-se todos aqui.>"
+        }
+    ]
+}

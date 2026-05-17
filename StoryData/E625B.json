@@ -1,0 +1,550 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "model": "단테",
+            "content": "<Este vagão...>"
+        },
+        {
+            "id": 1,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "O que são... estes olhares em tuas faces?"
+        },
+        {
+            "id": 2,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Vós estão na audiência de um Príncipe. Onde estão os teus sorrisos?"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Ele... pode ser o Sanguemônio que causou este surto. Ele é o nosso alvo."
+        },
+        {
+            "id": 4,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Ajoelhem-se e submitam-se à realeza!"
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "... Quem raios é você pra exigir isso?"
+        },
+        {
+            "id": 6,
+            "model": "카세티",
+            "teller": "???",
+            "title": "???",
+            "content": "Eu lhe direi isto uma única vez, então atenciosamente ouça."
+        },
+        {
+            "id": 7,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Vós devem se dirigir a mim como Príncipe Cassetti, Sexto Parente em refúgio de sua família, e o legítimo príncipe que os reinará!"
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Tu és o vilão... que há trazido tal devastação e morticínio a este veículo?"
+        },
+        {
+            "id": 9,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Sendo tão rude diante de teu príncipe, tu és uma linguaruda. Porém, me sinto generoso após saciar-me desta recepção."
+        },
+        {
+            "id": 10,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Como devem ter notado em tua jornada por aqui... este lugar é um salão de banquetes para o mais majestoso dos regozijos."
+        },
+        {
+            "id": 11,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Independete de quantos \"\" eu crio, independente de quantos eu devoro... Os humanos só não param de vir! Eu estou apenas apreciando aqueles que se tacam à minha mandíbula!"
+        },
+        {
+            "id": 12,
+            "model": "이상",
+            "content": "... Esta máscara que ele tem o propósito de ser festiva."
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Se nós realmente vamos trocar formalidades, por quê você não tira essa máscara? Ou você está desacostumado com a etiqueta básica?"
+        },
+        {
+            "id": 14,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Ah, esta... esta máscara!"
+        },
+        {
+            "id": 15,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Ela nunca sai. Não consigo removê-la. Nunca devo tirá-la! Não há o Príncipe sem esta máscara!"
+        },
+        {
+            "id": 16,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Nós somos tão, tão horrendos por trás da máscara; então todos deicidimos que deveríamos esconder o quão fétidos havíamos nos tornado. Mas assim que eu tomar todo o seu sangue, tudo voltará ao normal. Só após isso desmascarei-me."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Quem costurou esta máscara no seu rosto? Não é um trabalho tão mal feito."
+        },
+        {
+            "id": 18,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Claro que é exímio! Ha ha! Pois esta máscara foi confeccionada por ninguém mais ninguém menos que a experiente e célebre Barbeira, cujo nome eu nem ouso falar! Porém... porém a dor é tanta...!"
+        },
+        {
+            "id": 19,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Não, não! Eu estou sorrindo! Olhem, olhem o quanto estou sorrindo e rindo! HAHAHA! HA! HAAA... SIM, EU SOU O PRÍNCIPE, ESTE É QUEM EU SOU!"
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "content": "Ele é um maldito lúnatico, não é?"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Tá certo, acabou com sua palhaçada, né? Agora se prepara pra sova da sua vida."
+        },
+        {
+            "id": 22,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Eu... Eu aprecio as coisas como você e seus companheiros."
+        },
+        {
+            "id": 23,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Não implorem, berrem e se curvem e se caramunhem no chão por suas vidas..."
+        },
+        {
+            "id": 24,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Invés disso avancém em mim, em?! A violência, a ardência do sangue, ah, como eu amo esta sensação!"
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "Você é o quê, estúpido? Olha ao seu redor. Tem treze de nós e só um de você."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Não abaixe sua guarda, Heathcliff. Esta identidade conseguiu transformar incontáveis passageiros deste trem em \"\"."
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "content": "Eu não tô de guarda baixa. Mas... a gente surrou tantos \"\" que a gente até perdeu a conta, não é?"
+        },
+        {
+            "id": 28,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Até perderam a conta...? Ah não, não... mas esta contagem é muito pertinente! Eu tenho de contar quantos foram nossos visitantes! Ah sim, obviamente! Lembro-me de contar e memorizar os nossos prezados visitantes! Sim, senhor, lembro-me!"
+        },
+        {
+            "id": 29,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Vocês não tem ideia do quão poderoso sou. E eu nunca cederei o trono deste reino emergente a vocês!"
+        },
+        {
+            "id": 30,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Tudo que eu devo fazer é sentar-me e fazer nada, e os \"\" apresentam-se diante de mim! Não há paraíso como este lá fora... vocês não tem ideia do que sacrifiquei para criar este reino!"
+        },
+        {
+            "id": 31,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Ahh, quão eufóricos meus ancestrais estariam, se estivessem aqui para contemplarem minha obra! Esta cornucópia de abundância... este prazer... ah, esta liberdade...!"
+        },
+        {
+            "id": 32,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Porém este reino é meu! Eu o criei! Eu nunca vou entregá-lo, nunca!"
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "Isto é interessante."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Parece que este Sanguemônio sai deste vagão em apenas raras ocasiões..."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "... Porém, nós vimos sinais de sua influência insidiosa por todos os vagões que passamos por até agora."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "Então o que ele quis dizer com \"os \"\" apresentam-se\" diante dele deve ser..."
+        },
+        {
+            "id": 37,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "ESPEREM UM POUCO!"
+        },
+        {
+            "id": 38,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Eeek!!!"
+        },
+        {
+            "id": 39,
+            "content": "Alguém repentinamente e rapidamente avançou para o vagão."
+        },
+        {
+            "id": 40,
+            "content": "Era Sasha, a Mandatária que encontramos mais cedo em um dos vagões anteriores."
+        },
+        {
+            "id": 41,
+            "content": "Cassetti encolhe em seu trono por conta do repentino avanço, com medo aparente em sua face."
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Ah, és tu! Ainda bem— tu realmente vieste aqui para nos assistir em vossa missão?!"
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "Olhe! Este malfeitor é o Sanguemônio responsável pelas tragédias que ocorreram neste trem!"
+        },
+        {
+            "id": 44,
+            "model": "돈키호테",
+            "content": "Ajude-nos a derrotar este patife e levar os passageiros que tu tens protegido até agora para fora e longe deste trem!"
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Sanguemônios..."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "... E se houvesse mais de um Sanguemônio a bordo, um ainda capaz de raciocinar?"
+        },
+        {
+            "id": 47,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Caraca, vocês realmente conseguiram chegar até aqui? As asas realmente não distribuem contratos pra qualquer um."
+        },
+        {
+            "id": 48,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Eu... eu costumava lutar até o meu limite, também. Até que eu era a última viva..."
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "Ela tá falando do que?"
+        },
+        {
+            "id": 50,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Mas no final como que isso me deixou? Isolada, três dos meus quatro braços arrancados do meu corpo."
+        },
+        {
+            "id": 51,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "É irônico como a sua visão da vida pode dar uma voltar completa quando você tá muito, muito na merda. Eu acho que meus últimos pensamentos foram..."
+        },
+        {
+            "id": 52,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "\"Cara... Eu... não quero morrer...\""
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 54,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Então eu ajoelhei e implorei. Eu disse a ele que..."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Don Quixote, cuidado!"
+        },
+        {
+            "id": 56,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "... Eu vou fazer qualquer coisa pra sobreviver!"
+        },
+        {
+            "id": 57,
+            "content": "Sangue rapidamente cristaliza em volta de Sahsa assim como uma armdaura enquanto ela brande sua espada grande em direção dos Pecadores, acertando eles até mesmo antes de Faust terminar sua frase."
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "content": "... Argh!"
+        },
+        {
+            "id": 59,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Quê..."
+        },
+        {
+            "id": 60,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "... O quê eu lhe disse?! Ordenei-te a avisar-me antes de fazer estes movimentos!"
+        },
+        {
+            "id": 61,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Não sabe o quão barulhentos são os teus estúpidos braços. Eu pensei que a Família estivesse me encontrado!"
+        },
+        {
+            "id": 62,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Desculpe-me, Lorde Cassetti."
+        },
+        {
+            "id": 63,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Ah... permitão-me introduzir o meu Perante a vocês, o meu primeiro desde a fuga, para o reino que eu devo construir."
+        },
+        {
+            "id": 64,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Meu parente, meu leal escudeiro... que vai estar ao meu lado enquanto edifico minha própria dinastia, minha Família..."
+        },
+        {
+            "id": 65,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Lorde Casssetti, eu pretendia selecionar os mais fortes das massas para trazer eles a este vagão assim como você comandou, mas... as pessoas no vagão em que eu estava eram todos fracotes. Então eu te introduzo este grupo do vagão de primeira classe."
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "Parente..."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Você está ciente ao menos da natureza exata de um \"Parente?\""
+        },
+        {
+            "id": 68,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Nada, mas eu posso te dizer isso."
+        },
+        {
+            "id": 69,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Quando eu aceitei o sangue de meu em minhas veias... Era como se eu tivesse renascido."
+        },
+        {
+            "id": 70,
+            "model": "파우스트",
+            "content": "Compreendo. O Parente de um Sanguemônio é um sub-entidade do Sanguemônio, parecido com o conceito de sub-entidades criadas pelas Distorções ou Anormalidades."
+        },
+        {
+            "id": 71,
+            "model": "파우스트",
+            "content": "O desespero deve ser o que levou você a aceitar esta proposta apesar da falta de informações dadas."
+        },
+        {
+            "id": 72,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Talvez. Provavelmente... era o que eu estava pensando antes de me tornar um Parente."
+        },
+        {
+            "id": 73,
+            "model": "돈키호테",
+            "content": "Tu esteve em trâmites com este vilão... todo este tempo? Como seu lacaio?"
+        },
+        {
+            "id": 74,
+            "model": "돈키호테",
+            "content": "Mesmo lá atrás, quando nós nos encontramos pela primeira vez com ti?"
+        },
+        {
+            "id": 75,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Mocinha, você não tem ideia do quão assustada eu fiquei quando um de vocês me perguntaram sobre os \"olhos vermelhos.\" Não que importasse se vocês suspeitassem de mim, já que o meu é apenas uma prótese."
+        },
+        {
+            "id": 76,
+            "model": "돈키호테",
+            "content": "E-então... os passageiros que estavam sobre tua proteção..."
+        },
+        {
+            "id": 77,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Eu não vos disse... que a contagem é importante?"
+        },
+        {
+            "id": 78,
+            "model": "카세티",
+            "teller": "Cassetti",
+            "title": "Sanguemônio",
+            "content": "Quanto mais duradouro o desfile... melhor."
+        },
+        {
+            "id": 79,
+            "teller": "Bolsas de Sangue",
+            "title": "Saci de Sangue",
+            "content": "Keehhh..."
+        },
+        {
+            "id": 80,
+            "content": "Dezenas de Sacos de Sangue começam a se rastejar para dentro da sala por trás de Sasha.\n ...Um menor dentre eles se destacou para mim. "
+        },
+        {
+            "id": 81,
+            "content": "... Minha mente imediatamente se lembra da criança que agarrou o traje de Don Quixote."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 83,
+            "content": "Eu sabia que os passageiros estavam todos mortos quando descobrimos que Sasha é um Sanguemônio. Mas... eu queria que nós fôssemos poupados desta visão."
+        },
+        {
+            "id": 84,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "model": "돈키호테",
+            "content": "Havia... uma criança..."
+        },
+        {
+            "id": 86,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Yup. A pequenina queria ser uma Mandatária quando ela crescesse."
+        },
+        {
+            "id": 87,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Mas, ainda bem que ela não vai. Eu posso afirmar com certeza que \"viver\" como uma Bolsa de Sangue é melhor que a laia que é a vida de um Mandatário. Acredite em mim, eu sei do que tô falando."
+        },
+        {
+            "id": 88,
+            "model": "돈키호테",
+            "content": "... Cala-te esta vil boca."
+        },
+        {
+            "id": 89,
+            "model": "북부대검혈귀",
+            "teller": "Sasha",
+            "title": "Sanguemônio",
+            "content": "Sonhar de se tornar um Mandatário famoso e respeitado? Um agente da justiça? É só um sonho de bolso que sempre acaba em decepção crônica. Ou em uma morte muito, mas muito prematura."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "Calada... CALADA!"
+        },
+        {
+            "id": 91,
+            "content": "Don quixote não deu tempo para Sasha terminar de falar; ela já estava investindo em toda velocidade com sua lança em punho."
+        }
+    ]
+}

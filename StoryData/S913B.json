@@ -1,0 +1,568 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "호엔하임",
+            "content": "Não se esqueçam: o Ramo Dourado está dentro de um recipiente de conservação, então não o tratem de qualquer jeito, e..."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Sim, sim. Nós também penamos tanto para trazer os Ramos Dourados; acha que íamos tratá-los mal?"
+        },
+        {
+            "id": 2,
+            "content": "Hohenheim repetiu a recomendação para nós várias vezes."
+        },
+        {
+            "id": 3,
+            "model": "에즈라",
+            "content": "Então... o laboratório é para aquele lado... e a sala de controle..."
+        },
+        {
+            "id": 4,
+            "content": "Ezra e a pessoa chamada Moses memorizavam a posição para onde deviam levar o pessoal da LCD que viera com eles, e..."
+        },
+        {
+            "id": 5,
+            "content": "...alguns avançavam devagar pelo corredor, vigiando os arredores — foi nesse momento."
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "O-o que é isso?"
+        },
+        {
+            "id": 7,
+            "model": "에즈라",
+            "content": "De cima está descendo uma parede... eh... vocês! Cuidado!"
+        },
+        {
+            "id": 8,
+            "content": "Num instante, o corredor virou um pandemônio."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Sinclair! This way!"
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "Huh...? I can't... It's too far...!"
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Is everyone alright?>"
+        },
+        {
+            "id": 12,
+            "model": "뫼르소",
+            "content": "Parece que se ativou o sistema de contenção, instalado para o caso de uma fuga de Anormalidades."
+        },
+        {
+            "id": 13,
+            "content": "Meursault, que por acaso estava bem ao lado, respondeu."
+        },
+        {
+            "id": 14,
+            "content": "E... ao olhar ao redor, tal como ele disse..."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Caramba... por um triz eu não fiquei esmagado pela parede."
+        },
+        {
+            "id": 16,
+            "model": "이상",
+            "content": "Foi por um fio de cabelo."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "... Shabby thing."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Uh...>"
+        },
+        {
+            "id": 19,
+            "model": "료슈",
+            "content": "Que D.D.T."
+        },
+        {
+            "id": 20,
+            "content": "A situação se agravara e tanto."
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Um desperdício de tempo... desnecessário... ei, mas onde é que está a senhora Ryoshu?"
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Manager Esquire!! Where art thou?!"
+        },
+        {
+            "id": 23,
+            "content": "A começar pelas vozes de Sinclair e Don Quixote, que chamavam aflitas do outro lado da parede..."
+        },
+        {
+            "id": 24,
+            "model": "홍루",
+            "content": "É a primeira vez que nos vemos tão completamente separados do senhor Dante."
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "content": "Ugh. Then we can't even afford to get hurt."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "I don't see any Abnormalities around..."
+        },
+        {
+            "id": 27,
+            "model": "마튼",
+            "content": "De fato, parece que o controle dos muros de bloqueio também passou para eles... separaram-nos de modo ostensivo."
+        },
+        {
+            "id": 28,
+            "model": "오티스",
+            "content": "...Não se preocupe, senhor Gerente. É apenas um contratempo insignificante. Basta deixar o comando deste pessoal comigo."
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Hã? Você vai logo dizer isso de cara? Antes, a preocupação com o Dante..."
+        },
+        {
+            "id": 30,
+            "model": "호엔하임",
+            "content": "...A coisa ficou embaraçosa."
+        },
+        {
+            "id": 31,
+            "content": "Hohenheim let out a heavy sigh."
+        },
+        {
+            "id": 32,
+            "model": "에즈라",
+            "content": "Chefe de equipe, a senhora está bem?"
+        },
+        {
+            "id": 33,
+            "model": "모제스",
+            "content": "Sim. Por sorte, não parece haver feridos."
+        },
+        {
+            "id": 34,
+            "content": "O efetivo se dividiu de um modo inesperado."
+        },
+        {
+            "id": 35,
+            "model": "모제스",
+            "content": "...Por ora, vamos apurar como ficou dividido o pessoal."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<Por ora... aqui estamos eu, o Meursault, o Gregor e o Yi Sang. A Ryoshu também.>"
+        },
+        {
+            "id": 37,
+            "model": "에즈라",
+            "content": "Aqui estão... a senhora detetive, eu, o senhor Aengdu... e, ã, também..."
+        },
+        {
+            "id": 38,
+            "model": "홍루",
+            "content": "Hum... aqui estamos eu, a senhora Ishmael, a senhora Rodya, e o senhor Outis."
+        },
+        {
+            "id": 39,
+            "model": "호엔하임",
+            "content": "Deste lado... estamos eu, o Marton, o assistente, os membros da equipe da LCE... e etcétera além disso."
+        },
+        {
+            "id": 40,
+            "model": "돈키호테",
+            "content": "O que vem a ser 'etcétera'?"
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "It is a phrase used by individuals who find it especially difficult to acknowledge their betters."
+        },
+        {
+            "id": 42,
+            "model": "싱클레어",
+            "content": "... Me, Don Quixote, and Faust."
+        },
+        {
+            "id": 43,
+            "content": "Uma vez baixada, a parede não podia ser movida com a nossa força."
+        },
+        {
+            "id": 44,
+            "model": "마튼",
+            "content": "Hum... não dá mesmo. Seria preciso poder abri-la à força com o cartão-chave mestre, mas..."
+        },
+        {
+            "id": 45,
+            "content": "Como era de se esperar, do lado da LCE também não foi possível abri-la, e..."
+        },
+        {
+            "id": 46,
+            "model": "오티스",
+            "content": "Houve uma pequena alteração, é verdade... mas parece não haver remédio. Vamos conforme o plano."
+        },
+        {
+            "id": 47,
+            "model": "오티스",
+            "content": "Este efetivo, incluindo a LCD, vai subjugar, em sequência, as coisas que andam soltas pela instalação."
+        },
+        {
+            "id": 48,
+            "model": "마튼",
+            "content": "Assim que restabelecermos o CCTV, ajudaremos a orientar vocês."
+        },
+        {
+            "id": 49,
+            "model": "오티스",
+            "content": "Hum. Como acabei de dizer, a equipe da LCE, com Hohenheim, segue para a sala de controle e se concentra no restabelecimento da energia, enquanto..."
+        },
+        {
+            "id": 50,
+            "model": "오티스",
+            "content": "...a equipe em que estão o senhor Gerente e o resto do pessoal segue para o laboratório, a fim de garantir o Ramo Dourado."
+        },
+        {
+            "id": 51,
+            "model": "로쟈",
+            "content": "Ah... por que é que eu fiquei na supressão... é a mais cansativa... ufa."
+        },
+        {
+            "id": 52,
+            "model": "에즈라",
+            "content": "Alrighty, off we go~!"
+        },
+        {
+            "id": 53,
+            "model": "오티스",
+            "content": "Eu vou à frente. Sigam-me."
+        },
+        {
+            "id": 54,
+            "content": "Outis e o departamento da LCD, com essas palavras, caminharam devagar para o lado oposto, e..."
+        },
+        {
+            "id": 55,
+            "model": "호엔하임",
+            "content": "Nós também vamos nos pondo a caminho. Na verdade, levando só o Marton e o assistente, aqui presentes, restabelecer a sala de controle não daria problema algum, mas enfim."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "content": "Pelo visto, a estrutura das instalações elétricas não foi feita de modo assim tão sistemático. Não me resta senão exprimir a lamentável opinião de que se deveria ter projetado um dispositivo de reserva, prevendo até uma situação de descontrole como esta."
+        },
+        {
+            "id": 57,
+            "model": "호엔하임",
+            "content": "É que eu não era ocioso a ponto de me encarregar até do projeto do edifício... Mas, considerando isoladamente apenas a estrutura do laboratório..."
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "content": "*sigh*"
+        },
+        {
+            "id": 59,
+            "model": "돈키호테",
+            "content": "Não façais essa cara de choro por uma coisinha dessas, senhor Heathcliff."
+        },
+        {
+            "id": 60,
+            "model": "싱클레어",
+            "content": "Isso mesmo, se nós três nos unirmos, qualquer coisa que seja... provavelmente..."
+        },
+        {
+            "id": 61,
+            "content": "Em seguida, as vozes de Hohenheim e dos outros Pecadores também se desvaneceram juntas."
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Nós também... vamos nos pôr a caminho?>"
+        },
+        {
+            "id": 63,
+            "model": "그레고르",
+            "content": "Se sentir o Ramo Dourado por perto, avise na hora, senhor Gerente."
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Okay.>"
+        },
+        {
+            "id": 65,
+            "model": "그레고르",
+            "content": "Ora, agora que reparo, os dois fumantes se juntaram bem aqui, é."
+        },
+        {
+            "id": 66,
+            "model": "료슈",
+            "content": "......."
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "content": "Como é que todo mundo aguenta um ambiente de trabalho destes sem nem fumar um cigarro... ufa, eu não entendo."
+        },
+        {
+            "id": 68,
+            "model": "뫼르소",
+            "content": "Mm."
+        },
+        {
+            "id": 69,
+            "model": "뫼르소",
+            "content": "Houve um tempo em que fumei. Apenas não encontrei um motivo para continuar."
+        },
+        {
+            "id": 70,
+            "model": "그레고르",
+            "content": "Opa? É mesmo? O que você fumava?"
+        },
+        {
+            "id": 71,
+            "model": "뫼르소",
+            "content": "A maior parte do que se pode designar como cigarro."
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "content": "Hã-ha... ué, e eu que achava que você era um homem de vida regrada o ano inteiro?"
+        },
+        {
+            "id": 73,
+            "model": "뫼르소",
+            "content": "Quando necessário, eu fazia, sem distinção, as coisas comumente certas e as comumente erradas."
+        },
+        {
+            "id": 74,
+            "model": "이상",
+            "content": "Eu, no tempo da Liga dos Nove, cheguei a dar algumas baforadas, por insistência dos meus colegas."
+        },
+        {
+            "id": 75,
+            "model": "이상",
+            "content": "Aquela foi a primeira e a última vez. Todos caímos na risada juntos, mas o cigarro em si não foi nada agradável."
+        },
+        {
+            "id": 76,
+            "model": "그레고르",
+            "content": "Ha... no começo é assim com todo mundo. Deve ter ardido, é."
+        },
+        {
+            "id": 77,
+            "model": "이상",
+            "content": "E vós, senhorita Ryoshu... desde quando passastes a apreciar o cigarro?"
+        },
+        {
+            "id": 78,
+            "content": "Every pair of eyes searched Ryōshū's face,"
+        },
+        {
+            "id": 79,
+            "content": "Ryoshu, longe de nos contar histórias sobre si mesma, não demonstra sequer um sinal de inquietação ou de preocupação."
+        },
+        {
+            "id": 80,
+            "content": "Havia um êxtase estranho, um ardor, e uma fúria gélida."
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "... Beats me."
+        },
+        {
+            "id": 82,
+            "model": "료슈",
+            "content": "É que, desde criança, foi só isso que eu cresci vendo."
+        },
+        {
+            "id": 83,
+            "model": "그레고르",
+            "content": "...Hmpf. O contrário é que seria mais estranho, então."
+        },
+        {
+            "id": 84,
+            "model": "그레고르",
+            "content": "Desta vez é a vez da senhora Ryoshu, certo?"
+        },
+        {
+            "id": 85,
+            "model": "료슈",
+            "content": "Sim. É tão escancarado que chega a dar vontade de rir com escárnio."
+        },
+        {
+            "id": 86,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 87,
+            "model": "이상",
+            "content": "Como é, senhorita Ryoshu?"
+        },
+        {
+            "id": 88,
+            "model": "이상",
+            "content": "A sensação de ter de encarar o passado..."
+        },
+        {
+            "id": 89,
+            "model": "료슈",
+            "content": "Simple..."
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "content": "It's exciting."
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "content": "Hm... valeu a pena esperar."
+        },
+        {
+            "id": 92,
+            "model": "그레고르",
+            "content": "Agora que reparo, a senhora Ryoshu, desde agora há pouco... não está com um cigarro na boca."
+        },
+        {
+            "id": 93,
+            "model": "료슈",
+            "content": "Right."
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "Trying to get used to... staying off it."
+        },
+        {
+            "id": 95,
+            "content": "Enquanto isso, dentro do caminhão móvel."
+        },
+        {
+            "id": 96,
+            "place": "Caminhão de Transporte da LCCB",
+            "model": "엄지아비",
+            "content": "Olhar Vermelho, eu achava que, ao menos em você, não houvesse uma coisa dessas."
+        },
+        {
+            "id": 97,
+            "model": "다친베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 98,
+            "model": "엄지아비",
+            "content": "Não é cômico? Logo o Olhar Vermelho deste mundo, por ter perdido este... insignificante fardo, não conseguir brandir a espada uma vez como deve."
+        },
+        {
+            "id": 99,
+            "model": "엄지아비",
+            "content": "Mas não é que eu não entenda. Pois eu também já assumi, sem querer, algo que não se pode descartar nem matar."
+        },
+        {
+            "id": 100,
+            "model": "엄지아비",
+            "content": "Não... que eu queria, eu queria... talvez só não soubesse que seria um fardo daqueles."
+        },
+        {
+            "id": 101,
+            "model": "엄지아비",
+            "content": "Pelo que o Lucio investigou... parece que você e isto aqui não têm relação alguma, são totalmente estranhos um ao outro... Por acaso há algum motivo para você precisar disto?"
+        },
+        {
+            "id": 102,
+            "model": "엄지아비",
+            "content": "Vendo que, por causa de um objetivo, você não pode fazer nem isto... nem aquilo, e carrega isto a contragosto..."
+        },
+        {
+            "id": 103,
+            "model": "엄지아비",
+            "content": "...será que, como o nosso Ticket... ou como o manual ali, você o recolheu sem ter escolha, em nome do futuro que deseja, mesmo querendo matá-lo de tão irritante que é?"
+        },
+        {
+            "id": 104,
+            "model": "엄지아비",
+            "content": "Haha. Pelo visto temos um bom tanto de coisas em comum, hein?"
+        },
+        {
+            "id": 105,
+            "model": "엄지제자",
+            "content": "......."
+        },
+        {
+            "id": 106,
+            "model": "다친베르길리우스",
+            "content": "......."
+        },
+        {
+            "id": 107,
+            "model": "다친베르길리우스",
+            "content": "... You."
+        },
+        {
+            "id": 108,
+            "model": "다친베르길리우스",
+            "content": "Eu sei o motivo pelo qual você fica tagarelando essas palavras inúteis e me provocando."
+        },
+        {
+            "id": 109,
+            "model": "다친베르길리우스",
+            "content": "É para me prender pelo tornozelo até que chegue o sinal de que a missão que aqueles estão cumprindo na sede — aquela operação — foi concluída."
+        },
+        {
+            "id": 110,
+            "model": "다친베르길리우스",
+            "content": "Mas... só porque a minha espada não está alcançando o seu pescoço..."
+        },
+        {
+            "id": 111,
+            "model": "엄지제자",
+            "content": "Khh...!"
+        },
+        {
+            "id": 112,
+            "model": "다친베르길리우스",
+            "content": "...isso não significa que o pescoço deste fedelho que você anda carregando também esteja a salvo — quanto a isso..."
+        },
+        {
+            "id": 113,
+            "model": "다친베르길리우스",
+            "content": "Keep that in mind."
+        },
+        {
+            "id": 114,
+            "model": "엄지아비",
+            "content": "...Vai ser interessante. Tenta aí."
+        },
+        {
+            "id": 115,
+            "model": "엄지아비",
+            "content": "O manual que eu fiz para o nosso Ticket... eu também estou curioso para ver quanto ele aguenta contra o Excêntrico, hein?"
+        }
+    ]
+}

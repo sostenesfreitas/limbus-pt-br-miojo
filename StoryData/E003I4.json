@@ -1,0 +1,254 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Mefistófeles",
+            "model": "단테",
+            "content": "<Argh!> "
+        },
+        {
+            "id": 1,
+            "content": "Eu estou na..."
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Huh. Você continua a ter esses pesadelos no Ônibus, Chefia."
+        },
+        {
+            "id": 3,
+            "content": "P-pesadelos...? Então foi tudo um sonho?"
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Hah. Era de se esperar...>"
+        },
+        {
+            "id": 5,
+            "content": "À medida que o zumbido na minha cabeça foi desaparecendo, o som do motor do ônibus voltou a tornar-se nítido — acho que o que acabou de acontecer deve ter sido um sonho, só isso."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Ugh... Obrigado, Gregor... Você ter dito que foi um pesadelo fez-me acordar.> "
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Ei, sem problemas. Mas se você quiser mesmo me agradecer... Nós precisamos de uma ajuda com <i>aquilo</i>"
+        },
+        {
+            "id": 8,
+            "content": "Aonde Gregor apontou, os Pecadores estavam discutindo em voz alta por causa de alguma coisa."
+        },
+        {
+            "id": 9,
+            "model": "그레고르",
+            "content": "Ah, mais uma vez, a questão de onde ir para o jantar da equipe. Cada um quer o que considera ser o melhor, já que já há algum tempo que não acontece."
+        },
+        {
+            "id": 10,
+            "content": "Sonho ou realidade... Há coisas que nunca mudam. É quase incrível como continuam sempre a discutir sobre a mesma coisa."
+        },
+        {
+            "id": 11,
+            "content": "... E eu nem sequer consigo comer algo."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Bem, Chefia... Tenho certeza que <i>você</i> tem uma maneira inteligente de os calar rapidamente. Né?"
+        },
+        {
+            "id": 13,
+            "content": "Inteligente? Eu já tive uma maneira \"inteligente\" de aquietá-los?"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<Uh, bem... Pro cantinho do castigo, todo mundo!>"
+        },
+        {
+            "id": 15,
+            "content": "Ah, eu provavelmente ainda estou meio dormindo."
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<... Desculpa, isto soou estranho. O que eu queria dizer é...> "
+        },
+        {
+            "id": 17,
+            "content": "Eu estava a coçar a nuca, sem jeito, quando reparei que os Pecadores tinham ficado todos em silêncio."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Huh?> "
+        },
+        {
+            "id": 19,
+            "content": "Aos poucos, um por um... fecharam suas bocas e sentaram-se..."
+        },
+        {
+            "id": 20,
+            "content": "Como se fossem crianças à espera de uma bronca."
+        },
+        {
+            "id": 21,
+            "place": "Interior do Mefistófeles?",
+            "model": "단테",
+            "content": "<O-o que está acontecendo, gente...?>"
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "Pessoal... Por favor, fiquem em silêncio... Os Tiraninhos vão aparecer se fizerem barulho na cadeira de castigo..."
+        },
+        {
+            "id": 23,
+            "content": "O-os Tiraninhos...?"
+        },
+        {
+            "id": 24,
+            "content": "Espera aí... Por que é que eles reconhecem esse nome?"
+        },
+        {
+            "id": 25,
+            "model": "로쟈",
+            "content": "Estou com tanto, tanto medo... Ouvi dizer que os Tiraninhos devoram as crianças mal comportadas de uma só mordida..."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "Há até um rumor que diz... que eles estão sempre a fazer intercâmbio... para poderem pegar as crianças que se comportam mal..."
+        },
+        {
+            "id": 27,
+            "content": "O que é que eles estão falando? Nós estamos no Mefistófeles..."
+        },
+        {
+            "id": 28,
+            "content": "Aha."
+        },
+        {
+            "id": 29,
+            "content": "Há dois lugares vagos."
+        },
+        {
+            "id": 30,
+            "model": "베르길리우스만우",
+            "title": "???",
+            "content": "Tio Relógio Danteeehh...."
+        },
+        {
+            "id": 31,
+            "model": "베르길리우스만우",
+            "title": "???",
+            "content": "Os outros amiguinhos estão sendo barulhentos de novo..."
+        },
+        {
+            "id": 32,
+            "model": "싱클레어",
+            "content": "Aaah...! É o Terópode Vermelho, o Capitão da Turma do Tiraninhos!"
+        },
+        {
+            "id": 33,
+            "model": "베르길리우스만우",
+            "content": "Quando eu vou ganhar... colinho di você...?"
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<O-o-o que diabos você está dizendo...?! F-fique longe...!> "
+        },
+        {
+            "id": 35,
+            "model": "베르길리우스만우",
+            "content": "Colinho...? <size=80%>Colinho...?</size> <size=60%>Colinho...?</size> "
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<Nããão!!!>"
+        },
+        {
+            "id": 38,
+            "place": "Quarto de Dante",
+            "model": "단테",
+            "content": "<*huff* *huff*>"
+        },
+        {
+            "id": 39,
+            "content": "Esse é... meu quarto?"
+        },
+        {
+            "id": 40,
+            "content": "Então... isso agora também foi um sonho?"
+        },
+        {
+            "id": 41,
+            "content": "Então eu tive dois sonhos seguidos, huh..."
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<Esse foi um sonho muito esquisito...>"
+        },
+        {
+            "id": 43,
+            "content": "... Não, ainda é muito cedo para baixar a guarda."
+        },
+        {
+            "id": 44,
+            "content": "Ainda posso estar preso no mundo dos sonhos. C-certo, eu devia me beliscar na bochecha para ter certeza!"
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<Droga! Esqueci-me que tenho um relógio no lugar da cabeça. Está bem, então na coxa... e outro no braço também!>"
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Desculpa por entrar sem bater, Dante, mas há um assunto urgente para discutir..."
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Você desenvolveu uma vontade repentina de se autoflagelar? Nunca antes tinha sido relatado um fenômeno deste tipo..."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Não, não, Faust. Espera. Me escuta primeiro.>"
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Pode ser necessário que precise um exame médico imediato. Primeiro..."
+        },
+        {
+            "id": 51,
+            "content": "Levou um certo tempo pra tentar explicar a Faust a situação ridícula em que me encontrava, mas, no fim, consegui esclarecer tudo."
+        },
+        {
+            "id": 52,
+            "content": "E, ainda bem, esta parte não foi um sonho."
+        },
+        {
+            "id": 53,
+            "content": "Só..."
+        },
+        {
+            "id": 54,
+            "content": "Só mais uma anedota para se contar sobre um certo dia no Ônibus."
+        }
+    ]
+}

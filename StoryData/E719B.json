@@ -1,0 +1,615 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Depois de descermos do ônibus…"
+        },
+        {
+            "id": 1,
+            "place": "Periferia do Distrito 8, Entrada",
+            "model": "그레고르",
+            "content": "Ai ai… no fim a gente acabou vindo descer por aqui."
+        },
+        {
+            "id": 2,
+            "model": "이스마엘",
+            "content": "Acho que uma coisa dessas a gente devia reclamar formalmente com a Firma H. Por que é que estão fazendo uma obra daquele jeito bem na entrada da via expressa que vai direto para o Ninho?"
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "content": "Obra há de ter os seus vários motivos, mas… eu acho que ao menos uma placa de aviso, mais ao longe, deveria ter sido posta… urgh."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Se não fosse a esplêndida derrapagem do Caronte… buááá, nem quero pensar! Eu nunca nem imaginei terminar a aventura assim…"
+        },
+        {
+            "id": 5,
+            "content": "Que os Pecadores estivessem, cada um, resmungando, há de ser coisa natural."
+        },
+        {
+            "id": 6,
+            "content": "Pois, quando fomos atravessar a entrada, ela estava bloqueada com chapas de aço erguidas de qualquer jeito, e, para desviar de quase bater de frente nelas, todos acabaram rolando por dentro do ônibus…"
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Ainda bem que tinha uma estrada que saía para dentro~ se não tivesse, a gente teria de segurar o Caronte com unhas e dentes para ele não dar ré, não é?"
+        },
+        {
+            "id": 8,
+            "model": "로쟈",
+            "content": "Em troca… para chegar até o Ninho a gente vai ter de atravessar este lugar cheio de curvas, parecido com um beco."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Quase não entra luz aqui…>"
+        },
+        {
+            "id": 10,
+            "content": "O que se viu assim que descemos do ônibus foi uma rua onde se infiltrava um tênue fio de luz."
+        },
+        {
+            "id": 11,
+            "content": "Mesmo sem ninguém explicar, dava para saber que aqui eram os becos da Firma H."
+        },
+        {
+            "id": 12,
+            "model": "히스클리프",
+            "content": "Visto por fora era bem vistoso, mas… bom, lugar onde gente vive é tudo igual."
+        },
+        {
+            "id": 13,
+            "model": "로쟈",
+            "content": "Pois é. É uma paisagem familiar. Familiar a ponto de dar enjoo."
+        },
+        {
+            "id": 14,
+            "model": "돈키호테",
+            "content": "Aqui, será que até o Ninho é com este clima…?"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "Não, o correto há de ser entender que é uma paisagem só dos becos do Distrito 8."
+        },
+        {
+            "id": 16,
+            "content": "As pessoas dos becos não eram lá tão diferentes do aspecto dos outros distritos por que tínhamos passado."
+        },
+        {
+            "id": 17,
+            "content": "Pessoas caminhando apressadas como se estivessem sendo perseguidas, ou pessoas que, talvez por não estarem bem de saúde, andavam de cara fechada olhando para o chão — isso, de fato, parecia ser coisa que se vê em qualquer canto da Cidade."
+        },
+        {
+            "id": 18,
+            "content": "Se havia uma característica só daqui que se destacava de modo particular entre tudo isso…"
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Tem umas pessoas que… parecem aqueles antigos soldados da Firma G que a gente viu no Distrito 4…>"
+        },
+        {
+            "id": 20,
+            "model": "그레고르",
+            "content": "…Hã? O quê. Aquelas pessoas…?"
+        },
+        {
+            "id": 21,
+            "content": "Chamaram a atenção pessoas com algo grudado ou brotado na pele, algo orgânico demais para se chamar de prótese mecânica."
+        },
+        {
+            "id": 22,
+            "model": "그레고르",
+            "content": "De jeito nenhum. Para começar, não é nem padronizado em forma de inseto, caro Gerente…"
+        },
+        {
+            "id": 23,
+            "model": "그레고르",
+            "content": "Bom, posso dizer que agradeço por terem olhado sem preconceito."
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "content": "Aquilo é o método de tratamento característico do Distrito 8."
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "content": "Ah…! Aquele, o foco daquele boato de que, se você passa uma pomada azulada de origem desconhecida e enfaixa, no dia seguinte a pele rasgada sara — é aqui, então?"
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "…Como pode acabar sendo uma história um tanto imprecisa, eu acrescento o seguinte."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Tudo aquilo é parte dos modos de se aproveitar a 'pílula', a singularidade da Firma H."
+        },
+        {
+            "id": 28,
+            "model": "싱클레어",
+            "content": "Pí-pílula…?"
+        },
+        {
+            "id": 29,
+            "model": "뫼르소",
+            "content": "Parece referir-se à pílula feita moldando ingredientes medicinais em forma redonda."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Exato. A Firma H… o Grupo de Biotecnologia Hongwon fabrica e põe no mercado pílulas que contêm a essência do tratamento."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "content": "Pode-se ingerir essa pílula tal como está, ou dissolvê-la em água e passá-la na forma de 'pasta'… ou ainda deixá-la mais rala, embeber a faixa nela e enfaixar para tratar."
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Ah… então foi assim que aqueles boatos surgiram."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Era isso, então… é que, quando a senhora disse 'método de tratamento', a, hum… a Firma K me veio à cabeça."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "O foco da Firma K está ajustado na recuperação do estado. É uma orientação de voltar ao estado original."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Os becos do Distrito 8 são um lugar onde se assentaram técnicas secretas que os moradores, cada um, desenvolveram a partir das pílulas fabricadas. O foco não está num tratamento ajustado ao estado individual de quem o recebe, e sim num modo de melhorar o estado com base na técnica secreta que se detém."
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "Em certo sentido, palavras como mudança, ou progresso… talvez se ajustem melhor."
+        },
+        {
+            "id": 37,
+            "model": "싱클레어",
+            "content": "Então aquelas pessoas… aquilo é, a senhora está dizendo que é um estado já tratado?"
+        },
+        {
+            "id": 38,
+            "content": "Na multidão que Sinclair apontava com o dedo, de fato não havia ninguém sangrando ou mancando, mas."
+        },
+        {
+            "id": 39,
+            "content": "Havia muitos que mostravam um ar meio aéreo, ou que coçavam a parte deformada do corpo."
+        },
+        {
+            "id": 40,
+            "model": "홍루",
+            "content": "Ah… aquelas pessoas são 'fregueses assíduos'."
+        },
+        {
+            "id": 41,
+            "content": "Inesperadamente, quem deu a resposta a essa pergunta não foi Faust, nem Meursault, e sim Hong Lu."
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<Fregueses assíduos?>"
+        },
+        {
+            "id": 43,
+            "model": "홍루",
+            "content": "Sim. Eu ouvi falar disso quando criança. Pessoas que, viciadas no tratamento misterioso da clínica, entram e saem dela a toda hora."
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Dizem que as pessoas que se tornam fregueses assíduos parecem, por fora, mais fortes que as outras, mas, aos poucos, os efeitos colaterais vão se acumulando e elas acabam mudando de um jeito estranho."
+        },
+        {
+            "id": 45,
+            "model": "뫼르소",
+            "content": "Hum. Se se aplicam muitos procedimentos de sistemas totalmente diferentes, a probabilidade de ocorrer um conflito entre os procedimentos não tem como não ser alta."
+        },
+        {
+            "id": 46,
+            "model": "홍루",
+            "content": "E há de haver muitos casos de pessoas que não fizeram seguro de vida usando isso por ser barato~"
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "content": "O senhor fala do… seguro de vida?"
+        },
+        {
+            "id": 48,
+            "model": "홍루",
+            "content": "Sim, é que naquela cláusula adicional do seguro está incluído também o artigo de ressuscitar em caso de morte."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<É meio estranho logo eu de todos dizer isto, mas…>"
+        },
+        {
+            "id": 50,
+            "model": "단테",
+            "content": "<A ressurreição não era um tabu da Cabeça?>"
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "Ressuscitar por meio do seguro de vida não se enquadra no âmbito da ressurreição que a Cabeça estabeleceu como tabu."
+        },
+        {
+            "id": 52,
+            "model": "오티스",
+            "content": "Não uma ressurreição completa, mas… o reavivamento do cérebro, levando em conta a erosão. É provável que estejam julgando assim."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Ao contrário de o Gerente girar o relógio, o seguro de vida tem o ponto fraco fatal de não conseguir ressuscitar se o cérebro não estiver íntegro. Além disso, no processo de transmissão das informações de dentro do cérebro… ocorrem bastantes omissões."
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "Omissões… sendo assim, a aparência de alguns deles talvez não seja por causa de efeitos colaterais do 'tratamento'."
+        },
+        {
+            "id": 55,
+            "model": "홍루",
+            "content": "Hum… pode até ser, mas eu ouvi dizer que, normalmente, com um ou dois procedimentos de restauração, não se muda daquele jeito."
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "É que disseram que, para quem vive nos becos, o custo de renovação do seguro é colossal…"
+        },
+        {
+            "id": 57,
+            "model": "홍루",
+            "content": "Se todas as pessoas que fizeram seguro ficassem com aquele aspecto lamentável, é provável que ninguém faria seguro, não?"
+        },
+        {
+            "id": 58,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "…Pois é, aos olhos dos senhores ilustres… a situação daquela gente parece miserável e digna de pena?"
+        },
+        {
+            "id": 59,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "Vocês logo vão estar numa situação parecida, então é melhor não sentir compaixão demais."
+        },
+        {
+            "id": 60,
+            "model": "오티스",
+            "content": "…Revele quem você é."
+        },
+        {
+            "id": 61,
+            "content": "No lugar de onde veio a voz que se intrometeu feito um intruso, um bando que — sem precisar pensar muito — tinha objetivos sinistros nos encarava."
+        },
+        {
+            "id": 62,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "Vendo essa cara, parece mesmo que é o jovem patrão da ilustre família Jia."
+        },
+        {
+            "id": 63,
+            "model": "로쟈",
+            "content": "Hong Lu, são pessoas que você conhece?"
+        },
+        {
+            "id": 64,
+            "model": "홍루",
+            "content": "Ã… não. Como eu não costumava ter ligação com o pessoal dos becos… são todos pessoas que vejo pela primeira vez~"
+        },
+        {
+            "id": 65,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "O senhor há de ter andado ocupado se divertindo feito um imortal, tanto lá dentro quanto cá fora, então é natural que não conheça uns sujeitos como nós."
+        },
+        {
+            "id": 66,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "Bom, tanto faz. De qualquer modo, conforme o encargo, basta a gente tomar de você o objeto que vai ser apresentado na seleção de Patriarca, e pronto."
+        },
+        {
+            "id": 67,
+            "model": "이스마엘",
+            "content": "Seleção de Patriarca… parece que há algum mal-entendido."
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "content": "O número de cabeças parece ser considerável… eita, logo de cara já…"
+        },
+        {
+            "id": 69,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "Não."
+        },
+        {
+            "id": 70,
+            "model": "삼삼",
+            "teller": "???",
+            "title": "???",
+            "content": "Cair em cima em bando e moer de pancada vai contra os princípios do nosso escritório."
+        },
+        {
+            "id": 71,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Shan San, o terceiro filho do Escritório dos Três Machados, propõe um duelo a Jia Baoyu, da família Jia."
+        },
+        {
+            "id": 72,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "O modo será: o vencedor toma do adversário o que desejar."
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "Um duelo…?"
+        },
+        {
+            "id": 74,
+            "model": "돈키호테",
+            "content": "D-du-du-duelo, se for isso!"
+        },
+        {
+            "id": 75,
+            "model": "돈키호테",
+            "content": "Dizem que os senhores da Associação Shank, do leste, em vez de atirar a luva, propõem um duelo gritando a sua filiação e o seu nome! O Escritório dos Três Machados, mesmo sendo dos mais ínfimos entre os ínfimos, é, de todo modo, um escritório de Solucionadores como manda o figurino! Aquilo ali é um pedido de duelo de verdade!"
+        },
+        {
+            "id": 76,
+            "model": "이스마엘",
+            "content": "…Aff."
+        },
+        {
+            "id": 77,
+            "model": "히스클리프",
+            "content": "Quer dizer que é só lutar 1 contra 1, não é?"
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<Eles não parecem assim tão fortes… Faust, o que você acha?>"
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "Sim. Não me parecem gabaritados ao ponto de o senhor Hong Lu vir a perder."
+        },
+        {
+            "id": 80,
+            "model": "홍루",
+            "content": "Hum~ não me parece haver problema. Eu já volto, senhor Dante."
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Ãn, está tudo bem, né? Não que eu ache que você seja o mais fraco, mas, por via das dúvidas…>"
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "Tudo bem. Duelo, se for isso, eu já fiz umas dez vezes quando era criança."
+        },
+        {
+            "id": 83,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Ha! Apesar da figura, lá por ser de família ilustre, parece que você teve algumas experiências, mas…"
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "Ah… parece que há um mal-entendido."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Eram dez vezes por dia. Ah, não. Como às vezes a minha avó me dispensava, na prática talvez fosse um pouquinho menos?"
+        },
+        {
+            "id": 86,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "O… quê?"
+        },
+        {
+            "id": 87,
+            "model": "홍루",
+            "content": "Hong Lu, da Limbus Company… hum. Não."
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Baoyu, da família Jia, aceita o duelo."
+        },
+        {
+            "id": 89,
+            "content": "Enquanto o adversário se atrapalhava com o histórico de Hong Lu, este avançou com toda a calma, e…"
+        },
+        {
+            "id": 90,
+            "content": "Hong Lu, que estava numa postura relaxada, sem intenção de avançar primeiro e nem mesmo de lutar, instantes depois inclinou a cabeça, intrigado."
+        },
+        {
+            "id": 91,
+            "model": "홍루",
+            "content": "Ã… você não vem?"
+        },
+        {
+            "id": 92,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Hã?"
+        },
+        {
+            "id": 93,
+            "model": "홍루",
+            "content": "Ah… é só você atacar primeiro. É que eu sempre começava cedendo dois lances de vantagem."
+        },
+        {
+            "id": 94,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Recu…? Crgh…"
+        },
+        {
+            "id": 95,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Tch. Essa atitude arrogante vai apressar o fim da tua vida!"
+        },
+        {
+            "id": 96,
+            "content": "Desde que o sujeito chamado Shan San veio correndo, gritando cheio de bravata, terá decorrido… cerca de 1 minuto?"
+        },
+        {
+            "id": 97,
+            "model": "삼삼",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Isso é… um absurdo…"
+        },
+        {
+            "id": 98,
+            "content": "Ao contrário de Shan San, que avançava com uma intensidade quente a ponto de queimar, Hong Lu parecia leve e à vontade, como se tivesse saído para um passeio em algum lugar."
+        },
+        {
+            "id": 99,
+            "content": "Assim como, ao passear por um jardim, ninguém caminha tenso…"
+        },
+        {
+            "id": 100,
+            "content": "Quando Hong Lu desviou de leve o soco que Samsam desferiu, como quem cavalga uma brisa, o ataque dele apenas roçou de raspão a gola de Hong Lu, sem conseguir lhe causar golpe algum, e…"
+        },
+        {
+            "id": 101,
+            "content": "No tempo em que se observavam aqueles gestos de mãos e pés que se moviam leves, como a varrer o vento, sem que se notasse, Shan San já estava estatelado no chão."
+        },
+        {
+            "id": 102,
+            "model": "돈키호테",
+            "content": "Ué? Hong Lu, você estava escondendo a sua força toda esse tempo?!"
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "Eu acho que sempre lutei dando o meu melhor, viu?"
+        },
+        {
+            "id": 104,
+            "model": "돈키호테",
+            "content": "M-mas… vencer sem levar nem uma pancada… isso é de outro nível!"
+        },
+        {
+            "id": 105,
+            "model": "홍루",
+            "content": "Hum… mas, das vezes em que eu lutava antes, o terreno da luta era sempre diferente, e as armas também… ah, e até os adversários eram pessoas imprevisíveis."
+        },
+        {
+            "id": 106,
+            "model": "료슈",
+            "content": "Anulada."
+        },
+        {
+            "id": 107,
+            "model": "료슈",
+            "content": "Você, já conhecia a técnica daquele imbecil?"
+        },
+        {
+            "id": 108,
+            "model": "홍루",
+            "content": "Ah~ sim. Entre os mestres de luta que me treinavam, havia um que usava uma técnica parecida."
+        },
+        {
+            "id": 109,
+            "model": "홍루",
+            "content": "Vocês também, num trabalho que se tem de fazer todo dia, acabam ganhando o que se chama de know-how, não? É uma coisa parecida. Hehe."
+        },
+        {
+            "id": 110,
+            "model": "그레고르",
+            "content": "Eu meio que duvido que aquilo e isto sejam a mesma coisa, mas…"
+        },
+        {
+            "id": 111,
+            "model": "삼삼다침",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "……."
+        },
+        {
+            "id": 112,
+            "model": "그레고르",
+            "content": "Enfim… pelo visto vocês perderam o duelo, então que tal saírem da frente de uma vez."
+        },
+        {
+            "id": 113,
+            "model": "그레고르",
+            "content": "Na medida do possível, eu preferiria que vocês não fizessem aquela coisa que a gente está prevendo agora."
+        },
+        {
+            "id": 114,
+            "model": "삼삼다침",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Não houve nem a autenticação de um escritório de contratos… se a gente recuar agora, o cliente não vai ficar quieto…"
+        },
+        {
+            "id": 115,
+            "model": "삼삼다침",
+            "teller": "Shan San",
+            "title": "Escritório Machíade",
+            "content": "Hunf… o que vocês estão fazendo! Ataquem todos em bando!"
+        },
+        {
+            "id": 116,
+            "model": "료슈",
+            "content": "Desbaratados."
+        },
+        {
+            "id": 117,
+            "model": "그레고르",
+            "content": "…Para esse tipo de encrenca em que a gente se mete todo dia, parece que a gente até ganha um certo know-how."
+        },
+        {
+            "id": 118,
+            "content": "Enquanto o grito retorcido do que tinha caído ecoava, os bandidos avançaram em nossa direção."
+        }
+    ]
+}

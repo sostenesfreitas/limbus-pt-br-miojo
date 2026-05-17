@@ -1,0 +1,512 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da T Corp.",
+            "model": "돈키호테",
+            "content": "Hah. Hah. Hah. Hah."
+        },
+        {
+            "id": 1,
+            "content": "Don Quixote folheia o jornal em suas mãos de forma irritante e barulhenta, ao mesmo tempo que solta algumas risadinhas perspicazes."
+        },
+        {
+            "id": 2,
+            "content": "Infelizmente, agora eu sei exatamente o que isso significa. "
+        },
+        {
+            "id": 3,
+            "content": "E..."
+        },
+        {
+            "id": 4,
+            "model": "돈키호테",
+            "content": "Haha, hahahaha...!"
+        },
+        {
+            "id": 5,
+            "content": "... Ela vai continuar tentando atrair minha atenção até que eu a note no momento mais apropriado."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Ok, Don Quixote. Tudo bem... O que foi?>"
+        },
+        {
+            "id": 7,
+            "model": "돈키호테",
+            "content": "Uaah... Vossa Gerência, sabias que as empresas emergentes da Cidade, tal qual a Limbus Company, devem sempre empregar uma grande atenção para as constantes mudanças que ocorrem ao nosso redor?"
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Contemple isto! Leia vossos jornais Vossa Gerência, e mantenha-te atualizado com os eventos da Cidade! Tal como Meursault e minha pessoa, Don Quixote, fazemos a cada manhã!"
+        },
+        {
+            "id": 9,
+            "model": "그레고르",
+            "content": "Chefia, só segue o ritmo, beleza? Tenho quase certeza de que ela tá falando sobre as rotinas matinais do Meursault. Sabe, aquela.... com os jornais?"
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Ah, a rotina dos jornais. Quando ele acorda antes do amanhecer, se senta numa cadeira, dobra uma das pernas acima da outra num ângulo de exatamente 90 graus, e então folheia o jornal da manhã?>"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Uhum, essa mesmo. Eu acho que deixou uma impressão nela. Aposto que ela vai voltar pro normal em uma semana ou menos."
+        },
+        {
+            "id": 12,
+            "model": "돈키호테",
+            "content": "Escute-me! Estás a prestar atenção?!?!"
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Hã... sim, completamente. Então, quais são as novas? Algum artigo nos mencionou ou coisa do tipo?>"
+        },
+        {
+            "id": 14,
+            "model": "돈키호테",
+            "content": "Hoho! Como sabias?"
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Espera, sério?>"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Em verdade, em verdade! Deleite vossos olhos na página três! Embora, seja uma situação lastimável termos sidos usurpados da chance de estrearmos na primeira página..."
+        },
+        {
+            "id": 17,
+            "model": "로쟈",
+            "content": "Ohhh?! Página três?! A gente tá realmente começando a ficar famosos por aí, hein?"
+        },
+        {
+            "id": 18,
+            "content": "Don Quixote e Rodya, as duas Pecadoras que tinham a garantia de chamar a atenção completa de qualquer um que estivesse no mesmo espaço em que elas estivessem falando. Era apenas uma questão de tempo até os outros Pecadores começarem a se amontoar ao nosso redor, curiosos sobre a comoção."
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "content": "Ham, ham... Uma Dramática Conclusão para os Misteriosos Desaparecimentos na T Corp.!"
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "CHOCANTE! Os infratores deste caso enigmático foram revelados como ninguém menos que a prestigiada família Edgar, chocando o público geral—"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프2",
+            "content": "……."
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<B-bem, eu acho que não precisamos ouvir essa parte. O que mais ele diz?>"
+        },
+        {
+            "id": 23,
+            "model": "돈키호테",
+            "content": "Hum... Com uma pequena assistência de alguns espectadores que estavam perdidos na área, e com o mais admirável heroísmo da Equipe de Coleta Classe 3 da T Corp. em cena—"
+        },
+        {
+            "id": 24,
+            "model": "이상",
+            "content": "Mm, \"espectadores perdidos\", não é...? Por chance, esta denominação em particular se refere a nós?"
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "... \"Espectadores\"? Eles estão nos tratando como se nem estivéssemos lá."
+        },
+        {
+            "id": 26,
+            "model": "싱클레어",
+            "content": "Eles nem mencionaram o nome da nossa empresa..."
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "Ah, qual é! Esses Coletores de Tempo nem sequer estavam lá!"
+        },
+        {
+            "id": 28,
+            "model": "뫼르소",
+            "content": "Isto está dentro do esperado do comportamento da mídia."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "B-bem, talvez hajam aqueles que procuram nos entrevistar após ler este mesmo artigo, talvez...?"
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "É, tenho certeza que vão se divertir muito procurando por \"Espectadores Perdidos\" para entrevistar. Ótima descrição."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Eu duvido que qualquer um vai prestar muita atenção em nós, Don Quixote. Melhor se preparar pra decepção e—>"
+        },
+        {
+            "id": 32,
+            "content": "Ficamos ali um bom tempo em um grande grupo, discutindo sobre o artigo... Quando alguém lentamente, mas suavemente caminhou entre nós."
+        },
+        {
+            "id": 33,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Com licença. Vocês são da Limbus Company, por acaso?"
+        },
+        {
+            "id": 34,
+            "model": "그레고르",
+            "content": "... Vocês são...?"
+        },
+        {
+            "id": 35,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Tenho certeza de que vocês já sabem a razão de nossa visita."
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "content": "Hoho! Lhe dou as boas vindas! Doravante! Por muito esperei vossa chegada!"
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "content": "Pois bem, pois bem! Por onde devemos começar?"
+        },
+        {
+            "id": 38,
+            "model": "로쟈",
+            "content": "Uau, ela tá realmente aqui pra entrevistar a gente?"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Sem chance... A Don Quixote não tava perdendo a cabeça por nada...?>"
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "content": "Eu não fui informada de nenhuma... entrevista... que iria ocorrer..."
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "Meu, onde será que o Vergi está numa hora dessas~? Agora, onde que eu botei aquele gel de cabelo que sobrou da maquiagem do Heath...?"
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Ham, ham... Vosmecê pode começar."
+        },
+        {
+            "id": 43,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Tudo bem, então..."
+        },
+        {
+            "id": 44,
+            "model": "돈키T3",
+            "teller": "Don Quixote e Funcionária da T Corp.",
+            "title": "LCB e T Corp.",
+            "content": "Dito isto, não clamarei toooodo o crédito por nossas ilustres conquistas lá!\n\nVocês vão parcelar seus impostos?"
+        },
+        {
+            "id": 45,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Hm?"
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "content": "Em?"
+        },
+        {
+            "id": 47,
+            "content": "Parece que houve algum mal-entendido entre nós..."
+        },
+        {
+            "id": 48,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Nós somos Coletores de Impostos da Agência de Coleta de Tempo da T Corp., atualmente numa missão pra coletar seus Impostos Temporais."
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Como esperado... essa gente nunca traz boas notícias, de fato..."
+        },
+        {
+            "id": 50,
+            "model": "이스마엘",
+            "content": "Espera, Impostos Temporais...? Não, isso não faz o menor sentido..."
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "A gente já pagou nossos Impostos Temporais integralmente quando passou pelo processo de imigração no Ninho da T Corp. O Vergilius disse—"
+        },
+        {
+            "id": 52,
+            "content": "Há alguns dias, a bordo do Mefistófeles..."
+        },
+        {
+            "id": 53,
+            "place": "A Bordo do Mefistófeles, Passado",
+            "model": "이스마엘",
+            "content": "O senhor tem certeza de que cada um de nós não deveria carregar um relógio consigo?"
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "Você provavelmente já sabe disso, mas na T Corp..."
+        },
+        {
+            "id": 55,
+            "model": "베르길리우스",
+            "content": "... Todos devem levar um relógio consigo, sim. Eu conheço as regras."
+        },
+        {
+            "id": 56,
+            "model": "베르길리우스",
+            "content": "Mas para toda regra, sempre há espaço para uma alternativa que ofereça um pouco mais de flexibilidade. É claro, não espero que isso esteja listado naquele panfleto."
+        },
+        {
+            "id": 57,
+            "model": "베르길리우스",
+            "content": "Estrangeiros que desejam permanecer por um curto período na T Corp. podem pagar o Imposto Temporal correspondente à duração da estadia, ficando assim isentos das obrigações pertinentes, ao invés de se esforçarem para cumprir as regras da T Corp."
+        },
+        {
+            "id": 58,
+            "model": "베르길리우스",
+            "content": "Como vocês já devem ter imaginado, todos que nasceram fora do Distrito 20 devem realizar diversos trâmites antes de receberem um relógio."
+        },
+        {
+            "id": 59,
+            "model": "베르길리우스",
+            "content": "Então, decidimos pagar à vista Impostos Temporais equivalentes a trinta dias antes de atravessar as fronteiras da T Corp."
+        },
+        {
+            "id": 60,
+            "model": "오티스",
+            "content": "Impressionante... Não deve ter sido barato."
+        },
+        {
+            "id": 61,
+            "model": "돈키호테",
+            "content": "Ah, mas eu ansiava por usar um relógio... assim como a Senhorita Outis..."
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Eu já não deixei bem claro que não é um acessório?!"
+        },
+        {
+            "id": 63,
+            "model": "베르길리우스",
+            "content": "Como eu já mencionei antes, a empresa não tem preocupações orçamentárias. É esperado que eles tomem conta de despesas como essa."
+        },
+        {
+            "id": 64,
+            "model": "이스마엘",
+            "content": "Hm... Finalmente estamos começando a agir como uma empresa profissional deveria, hein?"
+        },
+        {
+            "id": 65,
+            "place": "Becos da T Corp.",
+            "model": "단테",
+            "content": "<É. Deve ter havido um pequeno erro de cálculo ou algo assim. Talvez tenhamos ficado um pouco a baixo do valor que deveríamos pagar?>"
+        },
+        {
+            "id": 66,
+            "model": "이스마엘",
+            "content": "Mas não fazem nem trinta dias desde que chegamos aqui."
+        },
+        {
+            "id": 67,
+            "model": "히스클리프2",
+            "content": "Bem... Tenho certeza que podemos penhorar as coisas deles pra resolver o que é provavelmente um erro de arredondamento. Vai ser mamão com açúcar."
+        },
+        {
+            "id": 68,
+            "content": "Heathcliff murmurou, gesticulando com o queixo na direção de Sinclair e Hong Lu."
+        },
+        {
+            "id": 69,
+            "model": "싱클레어",
+            "content": "Mmm... se vai ajudar a pagar os Impostos Temporais, então tudo bem..."
+        },
+        {
+            "id": 70,
+            "model": "홍루",
+            "content": "Ah, talvez? Mas eu não levei muita coisa quando parti de casa..."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "Bem, vamos ver quanto vai doer no bolso. Quanto de \"Imposto Temporal\" a gente deve procês?"
+        },
+        {
+            "id": 72,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "... Caham."
+        },
+        {
+            "id": 73,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Atualmente, vocês estão devendo..."
+        },
+        {
+            "id": 74,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "... 10.040.000.000 Ahn atrasados em pagamentos de Impostos Temporais."
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<O QUÊ?!>"
+        },
+        {
+            "id": 76,
+            "model": "로쟈",
+            "content": "Ah, ha ha ha... Acho que eu não ouvi direito. Eu ouvi algo como um dez... um quarenta... e o resto meio que passou batido por mim?"
+        },
+        {
+            "id": 77,
+            "model": "홍루",
+            "content": "Para essa quantia de dinheiro... Ah, talvez tenhamos que fazer uma breve parada na minha casa primeiro!"
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "Quais as nossas alternativas, se nós não pagarmos... quero dizer, se nós não conseguirmos pagar o imposto?"
+        },
+        {
+            "id": 79,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "\"Não conseguir pagar o imposto\" não é uma opção. As suas únicas opções são pagar com tempo ou com dinheiro. Com juros, é claro."
+        },
+        {
+            "id": 80,
+            "model": "그레고르",
+            "content": "O que diabos significa \"pagar com tempo\"...?"
+        },
+        {
+            "id": 81,
+            "content": "Parando pra pensar...  eu me lembro de alguém falando sobre \"pagar com tempo\" antes. No entanto, não fiz questão de descobrir o que eles queriam dizer com isso..."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<Yi Sang? Heathcliff? Vocês sabem algo sobre isso?>"
+        },
+        {
+            "id": 83,
+            "model": "이상",
+            "content": "Hm..."
+        },
+        {
+            "id": 84,
+            "model": "이상",
+            "content": "Eu nunca deixei de realizar meus pagamentos durante a minha estadia neste Ninho..."
+        },
+        {
+            "id": 85,
+            "model": "이상",
+            "content": "Portanto, não tenho conhecimento do que ocorre na ocasião de alguém falhar em efetuar o pagamento do Imposto Temporal."
+        },
+        {
+            "id": 86,
+            "model": "히스클리프2",
+            "content": "Eu também nunca me envolvi nessas coisas chatas como impostos enquanto eu ficava na mansão. E nos meus dias morando na Periferia, era o Chefe quem lidava com essas merdas complicadas por nós. Mas eu vi alguns marmanjos sendo levados porque não conseguiram abrir o bolso, sabe."
+        },
+        {
+            "id": 87,
+            "model": "단테",
+            "content": "<Bem, nesse caso...>"
+        },
+        {
+            "id": 88,
+            "content": "Como as suas respostas não foram de muita ajuda, minha mente imediatamente começou a pensar na Faust, quem eu esperava que saberia um pouco mais sobre isso do que os outros dois. Mas foi aí que Outis de repente decidiu colocar-se entre nós e os coletores de forma desafiadora."
+        },
+        {
+            "id": 89,
+            "model": "오티스",
+            "content": "Isto é completamente inaceitável. Que tipo de cálculo fajuto levou a um número tão absurdo quanto esse?"
+        },
+        {
+            "id": 90,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "Os cálculos de impostos na T Corp. jamais estariam enganados."
+        },
+        {
+            "id": 91,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "O tempo urge. Eu estaria correta em assumir que lhes falta tanto a capacidade quanto a vontade de realizar os seus pagamentos devidos?"
+        },
+        {
+            "id": 92,
+            "model": "싱클레어",
+            "content": "Calma, calma... não temos necessidade de brigar. Pode nos dar um minutinho?"
+        },
+        {
+            "id": 93,
+            "model": "이상",
+            "content": "Talvez a sua escolha de palavras tenha sido... imprudente..."
+        },
+        {
+            "id": 94,
+            "model": "오티스",
+            "content": "Você pode chorar e espernear o quanto quiser pedindo que a situação não escale quando tiver dez bilhões de Ahn no bolso. Do contrário, não darei valor a sua opinião."
+        },
+        {
+            "id": 95,
+            "model": "오티스",
+            "content": "Hm? Você não tem o dinheiro? Então cale a boca e fique fora do nosso caminho enquanto lidamos com esse obstáculo que ousa nos bloquear."
+        },
+        {
+            "id": 96,
+            "model": "료슈",
+            "content": "Que emocionante. Uma morte de dez bilhões de Ahn..."
+        },
+        {
+            "id": 97,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "... Dez bilhões e quarenta milhões de Ahn, para ser exata."
+        }
+    ]
+}

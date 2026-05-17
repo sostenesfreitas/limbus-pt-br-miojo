@@ -1,0 +1,328 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Kezhan da Cidade de Yanyun?",
+            "model": "이스마엘",
+            "content": "Baseado nos rumores que vocês ouviram, parece que o taverneiro talvez saiba da localização da espada. O que vocês fazem?"
+        },
+        {
+            "id": 1,
+            "model": "싱클레어",
+            "content": "Eu... eu caminho até o taverneiro, converso com ele e tento ganhar a confiança dele."
+        },
+        {
+            "id": 2,
+            "model": "이스마엘",
+            "content": "Uhm... tem certeza? Lembre-se, sua SAB é extremamente baixa, o que significa que você vai ter dificuldades em formar até as frases mais simples."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 4,
+            "model": "싱클레어",
+            "content": "E seeee... eu achasse uma maneira diferente de ganhar a confiança do taverneiro sem bajular ele? Eu tenho um status de FOR bem grande, o que deve me dar acesso a certos... métodos alternativos de persuasão que não requerem habilidades finas de fala."
+        },
+        {
+            "id": 6,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Espera um pouco..."
+        },
+        {
+            "id": 7,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Eu vou tentar convencer o taverneiro."
+        },
+        {
+            "id": 8,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Eu acho que eu tenho uma chance decente aqui. A minha SAB é bem alta."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "E você... passou no cheque. O taverneiro olha para você, sua guarda está baixa."
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "Ah, mas não com você, Sinclair. Ele ainda está bem suspeito de você."
+        },
+        {
+            "id": 11,
+            "model": "싱클레어",
+            "content": "... Ookay então. Acho que eu vou ficar parado naquele canto, desembainhar a minha arma e ficar mexendo nela por um tempo. É isso que ele espera que eu faça de qualquer forma, não é?"
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<Você só está fazendo o papel do Heathcliff, não está...?>"
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "Ahem... o taverneiro compartilha um pouco de informação que ele ouviu sobre a espada. Ele explica para vocês que o seu grupo deve seguir para o nordeste, até a Montanha <ruby=Cloudrise>Yinzhi.</ruby>"
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "content": "Mas... ah, o que é isso? Lágrimas começam a se formar nos olhos do taverneiro enquanto ele continua explicando."
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "content": "Aparentemente um guarda de patrulha espancou o filho dele violentamente, apenas por se aproximar demais dele. O ferimento é muito grave, portanto, ele precisa de medicina, mas o taverneiro não consegue encontrar nenhuma."
+        },
+        {
+            "id": 16,
+            "model": "싱클레어",
+            "content": "Oh não..."
+        },
+        {
+            "id": 17,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Isso é horrível, mas temos um trabalho a fazer."
+        },
+        {
+            "id": 18,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Já que conseguimos o que estávamos procurando, nós saímos do Kezhan."
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "Bem, as pessoas dizem que JMs não devem interferir nas escolhas dos jogadores, mas... sejamos honestos. Eu teria feito a mesma escolha. Vocês não podem parar para ajudar com toda missão secundária quando tem muita aventura pela frente."
+        },
+        {
+            "id": 20,
+            "model": "싱클레어",
+            "content": "Não, nós não vamos sair. Eu vou conseguir o remédio que ele precisa."
+        },
+        {
+            "id": 21,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "O quê...?"
+        },
+        {
+            "id": 22,
+            "content": "Depois de algumas rodadas de vários testes e tribulações para Sinclair..."
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "... O filho do taverneiro, que felizmente conseguiu se recuperar, ouve a história de vocês e hesitantemente compartilha o que ele sabe."
+        },
+        {
+            "id": 24,
+            "model": "이스마엘",
+            "content": "Vocês percebem que ele está falando sobre a fada yaoguai, que guarda a espada Tianya."
+        },
+        {
+            "id": 25,
+            "model": "이스마엘",
+            "content": "Ele explica que o poder da fada yaoguai aumenta sob a brilhante luz da lua..."
+        },
+        {
+            "id": 26,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Espera aí, não é noite de lua cheia hoje mesmo? Então... então devemos esperar que o céu fique nublado!"
+        },
+        {
+            "id": 27,
+            "model": "이스마엘",
+            "content": "Ouvindo isso, o filho do taverneiro olha rapidamente para as nuvens e informa vocês que deve chover em mais ou menos uma semana."
+        },
+        {
+            "id": 28,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Que bom que ajudamos ele..."
+        },
+        {
+            "id": 29,
+            "model": "싱클레어",
+            "content": "Ufa, que bom. Vamos garantir que estaremos preparados antes de irmos."
+        },
+        {
+            "id": 30,
+            "place": "Montanha Yinzhi?",
+            "model": "싱클레어",
+            "content": "Você vai ter que rolar 15 ou mais para acertar..."
+        },
+        {
+            "id": 31,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "... Eu sei. Estou focada."
+        },
+        {
+            "id": 32,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Hey, eu rolei um 16!"
+        },
+        {
+            "id": 33,
+            "model": "이스마엘",
+            "content": "... Com o golpe final de Jia Xichun, a fada yaoguai finalmente cai ao chão, <i>derrotado</i>."
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "Isso aí! A Espada Tianya é nossa!"
+        },
+        {
+            "id": 35,
+            "model": "이스마엘",
+            "content": "Animados, o grupo corre até a espada enfiada na terra e agarra o punho da espada entusiasticamente."
+        },
+        {
+            "id": 36,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Ah... com isso, nós podemos...!"
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "No entanto..."
+        },
+        {
+            "id": 38,
+            "model": "이스마엘",
+            "content": "A fada yaoguai, que o grupo assumiu estar morta, de repente fica de pé e se joga em Jia Xichun, que acabou de tirar a espada do chão!"
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "N-não!"
+        },
+        {
+            "id": 40,
+            "model": "싱클레어",
+            "content": "Eu... eu rapidamente me coloco entre a Xichun e o monstro!"
+        },
+        {
+            "id": 41,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Mas... se ele rolar um acerto crítico o golpe vai ser mortal, até para você..."
+        },
+        {
+            "id": 42,
+            "model": "이스마엘",
+            "content": "Vamos ver se você consegue passar no cheque de desvio... 1... e outro 1. Não, isso foi uma falha crítica..."
+        },
+        {
+            "id": 43,
+            "model": "싱클레어",
+            "content": "... Tudo bem."
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "Sinclair cai no chão, sangrando profusamente pela ferida aberta. O yaoguai também permanece imóvel, com os últimos vestígios de sua força completamente esgotados."
+        },
+        {
+            "id": 46,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Sinclair!"
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "Me... me deixe aqui... Pegue a espada... e vá para o vilarejo... Torne-se a líder que eles precisam... com aquela espada como a sua prova..."
+        },
+        {
+            "id": 48,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 49,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "... Não, não. Essa espada não significaria nada sem o meu companheiro de aventuras."
+        },
+        {
+            "id": 50,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Eu vou... eu vou enfaixar o Sinclair e carregá-lo de volta. Eu não vou deixar ele para trás e descer a montanha sozinha..."
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "Espera, se essa é a sua escolha, então, uh..."
+        },
+        {
+            "id": 52,
+            "model": "이스마엘",
+            "content": "Uhh, é, o sangramento para assim que você enfaixa ele! Ele, uh... é que ele é bem resistente, sabe? Aquele golpe mataria qualquer um, mas... você sabe o quão saudável ele é..."
+        },
+        {
+            "id": 53,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…!"
+        },
+        {
+            "id": 54,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "De pé, Sinclair...! Nós vamos sair daqui juntos. Segure no meu ombro, assim, devagarinho..."
+        },
+        {
+            "id": 55,
+            "place": "Portões Frontais da Cidade de Yuyuan?",
+            "model": "싱클레어",
+            "content": "... Hey, Xichun... Olha lá...! Todas as pessoas que nós ajudamos e salvamos na nossa jornada veio nos receber de volta...!"
+        },
+        {
+            "id": 56,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Você está certo... Se não fosse por você, Sinclair, eu nunca teria parado para falar com todos os aldeões e escutado os seus problemas."
+        },
+        {
+            "id": 57,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "A espada... era apenas um símbolo esse tempo todo."
+        },
+        {
+            "id": 58,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Todo o nosso esforço, e a experiência que adquirimos na nossa jornada pela espada... foi o que me ensinou a como ser uma boa Hierar—quero dizer, líder, não a espada em si."
+        },
+        {
+            "id": 59,
+            "model": "이스마엘",
+            "content": "Você está certa. O sucesso real dessa aventura foram os esforços de todos ao longo do caminho."
+        },
+        {
+            "id": 60,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "단테",
+            "content": "<... Eu sinto que o jogo se tornou mais importante do que a própria aula.>"
+        }
+    ]
+}

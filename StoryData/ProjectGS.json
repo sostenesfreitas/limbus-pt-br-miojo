@@ -1,0 +1,492 @@
+﻿{
+    "dataList": [
+        {
+            "id": "project_gs_button_label_open_lesson_ui",
+            "content": "Selecione uma Aula"
+        },
+        {
+            "id": "project_gs_button_label_progress_lesson",
+            "content": "Começar Aula"
+        },
+        {
+            "id": "project_gs_button_label_open_battle",
+            "content": "Avaliação"
+        },
+        {
+            "id": "project_gs_stats_wisdom",
+            "content": "SAB"
+        },
+        {
+            "id": "project_gs_stats_courage",
+            "content": "COR"
+        },
+        {
+            "id": "project_gs_stats_benevolence",
+            "content": "HUM"
+        },
+        {
+            "id": "project_gs_condition",
+            "content": "Estado"
+        },
+        {
+            "id": "project_gs_day",
+            "content": "Dia {0}"
+        },
+        {
+            "id": "project_gs_schedule_label",
+            "content": "Agenda de Aula"
+        },
+        {
+            "id": "project_gs_desc_select_lesson",
+            "content": "Selecione as Aulas de hoje"
+        },
+        {
+            "id": "project_gs_condition_highest",
+            "content": "Altíssima"
+        },
+        {
+            "id": "project_gs_condition_high",
+            "content": "Boa"
+        },
+        {
+            "id": "project_gs_condition_medium",
+            "content": "Okay"
+        },
+        {
+            "id": "project_gs_condition_low",
+            "content": "Ruim"
+        },
+        {
+            "id": "project_gs_condition_lowest",
+            "content": "Péssima"
+        },
+        {
+            "id": "project_gs_title_grow_up",
+            "content": "Cultivação"
+        },
+        {
+            "id": "project_gs_title_schedule",
+            "content": "Selecione a Agenda"
+        },
+        {
+            "id": "project_gs_lesson_level_1",
+            "content": "Fácil"
+        },
+        {
+            "id": "project_gs_lesson_level_2",
+            "content": "Méd."
+        },
+        {
+            "id": "project_gs_lesson_level_3",
+            "content": "Difícil"
+        },
+        {
+            "id": "project_gs_jia_xichun_name",
+            "content": "Jia Xichun"
+        },
+        {
+            "id": "project_gs_sinclair_name",
+            "content": "Sinclair"
+        },
+        {
+            "id": "project_gs_lock_hint_day",
+            "content": "(dummy) Disponível para cursar a partir do dia {0}"
+        },
+        {
+            "id": "project_gs_lock_hint_stats",
+            "content": "(dummy) Requisito de atributos para desbloqueio"
+        },
+        {
+            "id": "project_gs_lock_hint_per_stats",
+            "content": "(dummy) {0} {1} ou mais"
+        },
+        {
+            "id": "project_gs_exp",
+            "content": "EXP"
+        },
+        {
+            "id": "project_gs_combo",
+            "content": "Combo"
+        },
+        {
+            "id": "project_gs_fixed_lesson",
+            "content": "Aula Fixa"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_1_critical_success",
+            "content": "Foi um tempo precioso, em que pude conversar com o meu eu interior!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_1_success",
+            "content": "Olhando para dentro do espelho, eu compreendi como falar de um jeito um pouco mais autêntico!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_1_normal",
+            "content": "Consegui, mais ou menos, refletir sobre mim mesmo."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_1_failure",
+            "content": "De tanto olhar para dentro do espelho, por um instante a minha própria imagem me pareceu estranha... fiquei com medo e não consegui me concentrar na aula."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_1_critical_failure",
+            "content": "O eu que está dentro do espelho sou eu, ou é mais alguém...? A aula terminou enquanto eu apenas fitava o espelho, sem parar."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_2_critical_success",
+            "content": "Com base na técnica que aprendi, eu produzi uma réplica da máquina do projeto que a Faust trouxe!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_2_success",
+            "content": "Consegui compreender até os mínimos princípios de funcionamento da tecnologia da antiga H Corp!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_2_normal",
+            "content": "Mais ou menos, o meu conhecimento sobre várias tecnologias e sobre engenharia aumentou."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_2_failure",
+            "content": "Aprendi vários conhecimentos úteis ligados à engenharia, mas, se eu não revisar, parece que vou esquecê-los logo."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_2_critical_failure",
+            "content": "O ritmo é rápido demais... eu não compreendi a maior parte da aula da Faust."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_3_critical_success",
+            "content": "Eu me afundei nas emocionantes histórias de aventura dos Solucionadores, a ponto de esquecer até de respirar!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_3_success",
+            "content": "De tanto ouvir as histórias de aventura cheias de emoção, eu nem vi o tempo passar!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_3_normal",
+            "content": "Mais ou menos, o conhecimento sobre os Solucionadores vai se acumulando de modo proveitoso."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_3_failure",
+            "content": "A história de aventura de hoje foi um pouco entediante, mas eu prestei ouvidos até o fim."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_3_critical_failure",
+            "content": "Passei a aula inteira ouvindo de novo uma história de aventura já conhecida, que eu já tinha escutado várias vezes..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_4_critical_success",
+            "content": "Tive êxito numa aventura e tanto. Já estou ansioso pela próxima jogada... pela próxima aula!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_4_success",
+            "content": "Resolvi com esperteza as dificuldades da aventura, unindo forças com o Sinclair!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_4_normal",
+            "content": "Aproveitei uma aventura mais ou menos boa."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_4_failure",
+            "content": "Foi uma aventura divertida, mas o andamento foi arrastado."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_4_critical_failure",
+            "content": "As grandes famílias da Crônica de Andanças pelo Mundo Marcial foram aniquiladas... a verdade foi enterrada na escuridão..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_5_critical_success",
+            "content": "Compreendi as dificuldades dos soldados rasos e passei a conseguir enxergar por completo o fluxo do campo de batalha!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_5_success",
+            "content": "Acho que consigo explicar, distinguindo, o combate urbano e o combate de trincheira!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_5_normal",
+            "content": "Mais ou menos, eu compreendi a Guerra das Asas."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_5_failure",
+            "content": "Mais do que a explicação sobre a Guerra das Asas, eu acabei me absorvendo nas histórias do passado do Gregor."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_5_critical_failure",
+            "content": "De tanto me identificar com a melancolia do Gregor, fiquei triste e quase não consegui acompanhar a aula..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_6_critical_success",
+            "content": "Eu desvendei todos os métodos de assassinato que o Hong Lu preparou!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_6_success",
+            "content": "Pela atmosfera que o Hong Lu e o Daeok exalavam, eu percebi a diferença ínfima entre as tigelas!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_6_normal",
+            "content": "Mais ou menos, repeti o treino de ler a atmosfera e os sinais que antecedem as coisas."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_6_failure",
+            "content": "Parece que eu peguei o jeito, mas ao mesmo tempo é uma sensação confusa. Distingui cerca de metade das tigelas envenenadas."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_6_critical_failure",
+            "content": "Toda tigela que eu escolhia estava envenenada. Talvez hoje a minha intuição não esteja boa..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_7_critical_success",
+            "content": "Aula encerrada."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_7_success",
+            "content": "Aula concluída."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_7_normal",
+            "content": "Mais ou menos, terminei bem a aula."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_7_failure",
+            "content": "Reduzir as palavras desnecessárias é uma coisa difícil demais..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_7_critical_failure",
+            "content": "Longe de poupar as palavras, a aula só terminou depois que eu disse tudo, até as queixas que nem precisava dizer. Resolvi que, da próxima vez, vou dizer apenas o estritamente necessário."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_8_critical_success",
+            "content": "Com só algumas palavras, o rosto do adversário ficou lívido, e ele confessou tudo!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_8_success",
+            "content": "Decorei algumas ameaças capazes de gelar o sangue do adversário!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_8_normal",
+            "content": "Mais ou menos, consegui extrair a informação necessária."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_8_failure",
+            "content": "Aprendi o método, mas, toda vez que tinha de dizer palavras duras ao adversário, eu acabava hesitando."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_8_critical_failure",
+            "content": "Pelo contrário, eu me deixei enrolar pelo adversário e fiquei despejando só as minhas próprias informações para ele..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_9_critical_success",
+            "content": "A.I. (Aula Impecável)!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_9_success",
+            "content": "Voltei ao coração de criança e ri e brinquei à vontade com as crianças!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_9_normal",
+            "content": "Mais ou menos, aprendi a conversar no nível das crianças."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_9_failure",
+            "content": "Brincar com as crianças é bom, mas... eu acabei me esgotando."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_9_critical_failure",
+            "content": "Eu fiz uma criança chorar... tudo escureceu diante dos meus olhos."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_10_critical_success",
+            "content": "Para além de ocultar, aprendi a fazer a expressão necessária. Enfim ganhei uma partida da Rodya!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_10_success",
+            "content": "Joguei vários jogos com a Rodya para conseguir ocultar não só a expressão, mas também diversos gestos!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_10_normal",
+            "content": "Mais ou menos, aprendi a esconder as emoções para que não transpareçam no rosto."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_10_failure",
+            "content": "Eu tentei esconder a expressão, mas, quando veio uma boa mão, não consegui disfarçar o canto da boca que se ergueu."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_10_critical_failure",
+            "content": "Tudo o que eu pensava transpareceu no meu rosto. Acabei sendo depenado pela Rodya..."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_11_critical_success",
+            "content": "Assimilei por completo o olhar de quem vai devorar o outro e os gestos sem hesitação!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_11_success",
+            "content": "Consegui compreender como dominar o inimigo logo de saída!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_11_normal",
+            "content": "Mais ou menos, suei de um jeito gostoso."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_11_failure",
+            "content": "Os movimentos do corpo ficaram lentos, e eu só consegui acompanhar cerca de metade do conteúdo da aula."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_11_critical_failure",
+            "content": "A arma escorregou da minha mão e bateu na cabeça do Heathcliff... gastei a aula inteira pedindo desculpas."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_12_critical_success",
+            "content": "Afastei os pensamentos vãos e brandi a espada pondo tudo na forma do golpe. É como se eu tivesse fendido algo invisível!!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_12_success",
+            "content": "Meditei para tornar nada tudo, exceto eu mesmo. Ainda que de modo desajeitado, eu peguei um fio da meada!"
+        },
+        {
+            "id": "project_gs_lesson_result_desc_12_normal",
+            "content": "Mais ou menos, eu compreendi as palavras do Chwisu Yagaek."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_12_failure",
+            "content": "Compreender os movimentos do Chwisu Yagaek é difícil demais... e o cheiro forte de bebida me deixa a cabeça tonta."
+        },
+        {
+            "id": "project_gs_lesson_result_desc_12_critical_failure",
+            "content": "Dividi a bebida com o Chwisu Yagaek... foi uma sensação boa."
+        },
+        {
+            "id": "project_gs_combo_desc_wisdom_up",
+            "content": "Atributo Sabedoria +{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_wisdom_down",
+            "content": "Atributo Sabedoria -{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_courage_up",
+            "content": "Atributo Coragem +{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_courage_down",
+            "content": "Atributo Coragem -{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_benevolence_up",
+            "content": "Atributo Benevolência +{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_benevolence_down",
+            "content": "Atributo Benevolência -{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_all_stats_up",
+            "content": "Todos os atributos +{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_all_stats_down",
+            "content": "Todos os atributos -{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_condition_up",
+            "content": "Condição +{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_condition_down",
+            "content": "Condição -{0}"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_critical_success",
+            "content": "Grande sucesso na aula"
+        },
+        {
+            "id": "project_gs_combo_desc_next_lesson_critical_success",
+            "content": "Grande sucesso na próxima aula"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_wisdom_up",
+            "content": "Sabedoria obtida no resultado da aula +{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_wisdom_down",
+            "content": "Sabedoria obtida no resultado da aula -{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_courage_up",
+            "content": "Coragem obtida no resultado da aula +{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_courage_down",
+            "content": "Coragem obtida no resultado da aula -{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_benevolence_up",
+            "content": "Benevolência obtida no resultado da aula +{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_benevolence_down",
+            "content": "Benevolência obtida no resultado da aula -{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_all_up",
+            "content": "Todos os atributos obtidos no resultado da aula +{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_stats_result_ratio_all_down",
+            "content": "Todos os atributos obtidos no resultado da aula -{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_title",
+            "content": "Combinações de Combo"
+        },
+        {
+            "id": "project_gs_restart",
+            "content": "Reiniciar"
+        },
+        {
+            "id": "project_gs_ask_to_restart",
+            "content": "Reiniciar a partir do Dia 1?"
+        },
+        {
+            "id": "project_gs_finish_to_grow_up",
+            "content": "Aula Completa"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_success_rate_up",
+            "content": "Taxa de Sucesso da Aula +{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_success_rate_down",
+            "content": "Taxa de Sucesso da Aula -{0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_success_rate_changed",
+            "content": "Taxa de Sucesso da Aula Alterado"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_critical_success_changed",
+            "content": "- Grande Sucesso : {0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_success_changed",
+            "content": "- Sucesso : {0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_normal_changed",
+            "content": "- Mediano : {0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_failure_changed",
+            "content": "- Falha : {0}%"
+        },
+        {
+            "id": "project_gs_combo_desc_lesson_critical_failure_changed",
+            "content": "- Grande Falha : {0}%"
+        },
+        {
+            "id": "project_gs_lesson_level_up_title",
+            "content": "Nível de Aula Subiu"
+        },
+        {
+            "id": "project_gs_notice_unable_to_release_fixed_lesson",
+            "content": "Aula Obrigatória"
+        }
+    ]
+}

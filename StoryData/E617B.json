@@ -1,0 +1,579 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Plataforma do trem WARP - T Corp.",
+            "model": "단테",
+            "content": "<Esse lugar é imenso...>"
+        },
+        {
+            "id": 1,
+            "content": "Esta foi minha primeira impressão da estação do trem WARP."
+        },
+        {
+            "id": 2,
+            "model": "돈키호테",
+            "content": "Ooho! Estão isto é...!!!"
+        },
+        {
+            "id": 3,
+            "content": "Don Quixote gritou vibrantemente, recuperando-se de imediato de sua preocupação anterior da mera possibilidade de ser separada de Rocinante."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Então cada Ninho tem uma dessas... Estruturas massivas neles?>"
+        },
+        {
+            "id": 5,
+            "model": "히스클리프",
+            "content": "Sei de nada. Oi, cê sabe de alguma coisa sobre o que eles estão perguntando?"
+        },
+        {
+            "id": 6,
+            "content": "Heathcliff perguntou, enquanto gesticulava com seu queixo em direção a Meursault."
+        },
+        {
+            "id": 7,
+            "model": "뫼르소",
+            "content": "……."
+        },
+        {
+            "id": 8,
+            "model": "뫼르소",
+            "content": "Cada estação WARP foi construída com uma filosofia geral de design que toma inspiração nas idiossincrasias arquitetônicas de seus respectivos Ninhos. Também pode ser dito que diversos críticos em campos relevantes elogiam as estações de trens WARP como um dos vários pilares culturais da Cidade."
+        },
+        {
+            "id": 9,
+            "content": "... Não faço idéia de como isso aconteceu, mas Heathcliff passou a tratar Meursault como uma enciclopédia ambulante de vez em quando."
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Meursault, jovem Meursault...!"
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "Olhe! Seria aquele passageiro bem alí oriundo do oeste?"
+        },
+        {
+            "id": 12,
+            "model": "뫼르소",
+            "content": "Hmm..."
+        },
+        {
+            "id": 13,
+            "model": "뫼르소",
+            "content": "Incorreto. Roupas de couro e armaduras de metal são tendências de moda predominantes, comumente visíveis na população ocidental. Enquanto o estilo baseado em tecido do indivíduo é algo ubiquamente observado na população do norte e sul, ele é amplamente considerado uma tendência de moda oriental, raramente vista no ocidente—"
+        },
+        {
+            "id": 14,
+            "model": "돈키호테",
+            "content": "Por obséquio, vás com calma! Pois preciso registrar vossas palavras...!"
+        },
+        {
+            "id": 15,
+            "model": "돈키호테",
+            "content": "Quais sabedorias vossa pessoa possui para transmitir em relação a moda da região norte? Certa vez, observei em uma revista que se trajam com vestes pomposas e bufantes. Minha pessoa entende, dado o clima gélido da região."
+        },
+        {
+            "id": 16,
+            "model": "뫼르소",
+            "content": "Uma oportunidade de observar tudo em primeira mão está diante de você."
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Hm?"
+        },
+        {
+            "id": 18,
+            "model": "돈키호테",
+            "content": "UAUUUUUUUUU!!!"
+        },
+        {
+            "id": 19,
+            "model": "북부창",
+            "teller": "???",
+            "title": "???",
+            "content": "AAAAAAAAAH!!!!!"
+        },
+        {
+            "id": 20,
+            "content": "O dueto durou três segundos; de um lado um grito de fascinio, do outro, um de irritação."
+        },
+        {
+            "id": 21,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "Mas quê caralhos?! Você quase estourou meus tímpanos!"
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "Olha quem tá falando..."
+        },
+        {
+            "id": 23,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "Cara, eu tenho um implante de expansão de alcance de frequência audível nos meus tímpanos!!! Puta merda, cara..."
+        },
+        {
+            "id": 24,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "Saiam do caminho! Parecem um bando de caipiras bloqueando tudo, nunca viram um trem da WARP antes?"
+        },
+        {
+            "id": 25,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "Venho dos cafundós da Cidade até aqui só pra perder meu alvo, e agora essa.."
+        },
+        {
+            "id": 26,
+            "model": "로쟈",
+            "content": "Pe... Pessoal? É tão óbvio assim que é a primeira vez da gente aqui?"
+        },
+        {
+            "id": 27,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "E a viagem inteira saiu do meu bolso ainda!"
+        },
+        {
+            "id": 28,
+            "model": "그레고르",
+            "content": "Nossa... Pera aí, amigo... Se continuar balançando esses braços assim alguém vai tomar... Ainda mais com uma arma em cada mão..."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "content": "Ah... Por obséquio, me deixaria observar suas vestimentas um pouco mais de perto? Ah, sim, nessa pose!! Peço apenas que fique parado por mais cinco minutos para que eu..."
+        },
+        {
+            "id": 30,
+            "model": "북부창",
+            "teller": "Mandatário do Norte",
+            "title": "???",
+            "content": "Tá doida filha?!!!"
+        },
+        {
+            "id": 31,
+            "content": "Este Mandatário da região norte, com um conjunto impressionante de braços mecânicos, ficou resmungando suas frustrações por mais algum tempo, antes de se dirigir para outra plataforma."
+        },
+        {
+            "id": 32,
+            "model": "돈키호테",
+            "content": "Ah, de fato... É tão grandiosa esta Cidade, tantas personalidades peculiares por seus arredores.."
+        },
+        {
+            "id": 33,
+            "model": "이스마엘",
+            "content": "Aposto que ele estava pensando o mesmo..."
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "Parece que pessoas com próteses por todo o corpo são mais comum do que pensei..."
+        },
+        {
+            "id": 35,
+            "content": "Foi então que Vergilius veio em nossa direção, seus passos eram lentos."
+        },
+        {
+            "id": 36,
+            "model": "베르길리우스",
+            "content": "Bem, então nós encontraremos novamente quando chegarmos no destino."
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "content": "Huh?! O ilustre Olhar Vermelho não andará conosco?"
+        },
+        {
+            "id": 38,
+            "model": "베르길리우스",
+            "content": "De acordo com as políticas da W Corp., Mandatários que receberam uma das Cores devem embarcar em um trem especialmente criado para eles."
+        },
+        {
+            "id": 39,
+            "model": "로쟈",
+            "content": "É como se você fosse a primeira classe da primeira classe?"
+        },
+        {
+            "id": 40,
+            "model": "이스마엘",
+            "content": "Ser um Mandatário dentre as Cores deve ser assim, tratamento especial por parte das Asas não importa onde for."
+        },
+        {
+            "id": 41,
+            "model": "카론",
+            "content": "Charon quer voltar. Mefis vai se sentir só."
+        },
+        {
+            "id": 42,
+            "model": "베르길리우스",
+            "content": "... Eu já te disse três vezes Charon, ainda te comprei um doce diferente em cada. Pessoas não podem ir a bordo dos vagões de carga."
+        },
+        {
+            "id": 43,
+            "model": "베르길리우스",
+            "content": "Então, Senhorita Faust."
+        },
+        {
+            "id": 44,
+            "model": "파우스트",
+            "content": "... Sim."
+        },
+        {
+            "id": 45,
+            "content": "Com um olhar que carregava alguma ideia e um aceno com a cabeça para faust, Vergilius, que parecia um tanto irritado, acompanhou Charon até outro ponto."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Dante, prossigamos para este lado..."
+        },
+        {
+            "id": 47,
+            "content": "Logo em seguida, nós seguimos a orientação de Faust e caminhamos em direção à porta do trem."
+        },
+        {
+            "id": 48,
+            "place": "Cabine de Primeira Classe do Trem WARP",
+            "model": "그레고르",
+            "content": "Caramba…"
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "Uau… parece que a nossa cor está voltando aos poucos, né?"
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "content": "Ooh... oooooh..."
+        },
+        {
+            "id": 51,
+            "model": "로쟈",
+            "content": "Hey~ Então esses sãos os famosos aperitivos da primeira classe que ouvir falar…! Realmente, não é qualquer coisinha… uma coisa dessas devem ser o olho da cara."
+        },
+        {
+            "id": 52,
+            "content": "Quase todo mundo ficava boquiaberto ao ver aquele vagão enorme repleto de cápsulas sofisticadas e obviamente caras alinhadas uma ao lado da outra."
+        },
+        {
+            "id": 53,
+            "content": "Congelamento rápido, huh…? Quer dizer que eles congelam o corpo num piscar de olhos?"
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Faust, essa câmara de hibernação aí… é realmente segura?>"
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Por favor, defina \"Segura\"."
+        },
+        {
+            "id": 56,
+            "model": "단테",
+            "content": "<Ela vai congelar a gente pra valer… né? E aí, Como que a gente volta?>"
+        },
+        {
+            "id": 57,
+            "model": "파우스트",
+            "content": "Tecnicamente é como um estado de morte temporária, mo processo congela o corpo sem dar tempo para as células sofrerem qualquer dano. Em geral, não tem nenhum problema."
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "O aumento de densidade durante o congelamento e o problema dos cristais de gelo ficarem afiados e danificarem as células… esse modelo resolveu tudo isso. Pelo menos é o que a Faust sabe."
+        },
+        {
+            "id": 59,
+            "model": "단테",
+            "content": "<... Não entendi metade do que você disse, mas acredito que você tenha dito que é seguro.>"
+        },
+        {
+            "id": 60,
+            "model": "파우스트",
+            "content": "Sim, até onde Faust sabe. Mesmo que ocorra algum problema, como haverá uma reversão todos para seus estados originais do começo da viagem ao chegarmos ao nosso destino, é como se não tivéssemos um problema."
+        },
+        {
+            "id": 61,
+            "model": "히스클리프",
+            "content": "Nossa, mas você tem um talento pra ficar enchendo linguiça em vez de só falar que é seguro sim, sérião, é um talento e tanto."
+        },
+        {
+            "id": 62,
+            "model": "파우스트",
+            "content": "Sim, Faust tem diversos talentos."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 64,
+            "content": "Mas o jeito que essa frase foi construída acabou me chamando a atenção... Deixando a entender que o problema não seria realmente resolvido."
+        },
+        {
+            "id": 65,
+            "model": "단테",
+            "content": "<Até onde Faust sabe...? Isso significa que existe a possibilidade de algo dar errado?>"
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "Geralmente, Faust não está errada. Porém, Faust não tem poderes tais como uma divindade."
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Existem informações no mundo nas quais Faust ainda há de acessar. Portanto, embora Faust possa falar sobre os fatos, o que é dito pode desviar da verdade."
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Entendi...> "
+        },
+        {
+            "id": 69,
+            "model": "그레고르",
+            "content": "Nossa, mas os caras não estavam brincando com \"primeira classe\", em... A P Corp. fica lá na ponta do norte da Cidade, mas é só piscar o olho que você já tá lá."
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "Hoo-hah! Hoo-hah! Hoo-hah! Prepare-te Rocinante! Uma longa jornada nos espera..."
+        },
+        {
+            "id": 71,
+            "model": "로쟈",
+            "content": "Pensando nisso... Don Quixote."
+        },
+        {
+            "id": 72,
+            "model": "로쟈",
+            "content": "Em algum ponto... você, tipo... lavou esses sapatos?"
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Daonde que saiu essa, Rodya?>"
+        },
+        {
+            "id": 74,
+            "model": "로쟈",
+            "content": "Eu digo, tipo assim, se lembra quando a gente tava preso naquela Baleia?"
+        },
+        {
+            "id": 75,
+            "model": "로쟈",
+            "content": "Quando ela explodiu... Saiu voando um monte de sujeira e coisa nojenta, sabe? Tava na roupa, no sapato, em tudo!"
+        },
+        {
+            "id": 76,
+            "model": "이스마엘",
+            "content": "... Certo."
+        },
+        {
+            "id": 77,
+            "model": "로쟈",
+            "content": "E lembra o quanto a gente teve que esfregar pra tirar toda aquela carne e toda a sujeira da nossa roupa...?"
+        },
+        {
+            "id": 78,
+            "model": "이스마엘",
+            "content": "Não é uma das melhores memórias, mas... sim..."
+        },
+        {
+            "id": 79,
+            "model": "로쟈",
+            "content": "Né? E você se lembra, a Don Quixote recusava tirar o sapato o tempo inteiro!"
+        },
+        {
+            "id": 80,
+            "model": "이스마엘",
+            "content": "... Agora que eu parei pra pensar, eles estão meio sujos..."
+        },
+        {
+            "id": 81,
+            "model": "돈키호테",
+            "content": "Pergunto-lhes então, meus caros. Já vistes um cavaleiro que deixa o lado de seu amado corcel sem pensar duas vezes?"
+        },
+        {
+            "id": 82,
+            "model": "그레고르",
+            "content": "Acho que não devo ter visto nem a parte do \"cavaleiro\"...?"
+        },
+        {
+            "id": 83,
+            "model": "돈키호테",
+            "content": "Pois estão! Veja, ouça e marque bem este momento!"
+        },
+        {
+            "id": 84,
+            "model": "오티스",
+            "content": "Hmph, nem sequer um momento de quietude."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Uau~ Aliás, você já esteve em um desses antes, Outis~?"
+        },
+        {
+            "id": 86,
+            "model": "오티스",
+            "content": "Bem, eu costumava receber tratamentos VIPs e posições de primeira classe como está antigamente. Nada que eu não tenha visto antes."
+        },
+        {
+            "id": 87,
+            "content": "Outis, que estava sentada e mechendo suas pernas, de repente perguntou a Faust."
+        },
+        {
+            "id": 88,
+            "model": "오티스",
+            "content": "... Ei, você tem certeza que não aconteceu nenhum acidente na primeira classe, certo?"
+        },
+        {
+            "id": 89,
+            "model": "파우스트",
+            "content": "Para previnir possíveis casos de ansiedade dentre os Pecador, o histórico de possíveis acidentes que possam ter acontecido a bordo dos trens WARP não será compartilhado."
+        },
+        {
+            "id": 90,
+            "model": "오티스",
+            "content": "... O que, como ass-"
+        },
+        {
+            "id": 91,
+            "content": "BIIIIP...."
+        },
+        {
+            "id": 92,
+            "model": "이스마엘",
+            "content": "Oh, parece que eles estão prestes a partir."
+        },
+        {
+            "id": 93,
+            "teller": "Locutor do Trem",
+            "title": "W Corp.",
+            "content": "Anúncio para o trem WARP PW-612 com destino à P Corp. O período de embarque se encerrará em breve."
+        },
+        {
+            "id": 94,
+            "content": "Os Pecadores, que estavam desfrutando dos lanches e bisbilhotando pela cabine de primeira classe, de repente começaram a se apressar."
+        },
+        {
+            "id": 95,
+            "model": "파우스트",
+            "content": "Bem, vamos nos apressar, temos que entrar nas cápsulad antes que seja tarde."
+        },
+        {
+            "id": 96,
+            "model": "단테",
+            "content": "<Ah, por que isso não...>"
+        },
+        {
+            "id": 97,
+            "content": "Todos os Pecadores entraram em suas cápsulas sem problemas, mas..."
+        },
+        {
+            "id": 98,
+            "content": "... Por alguma razão, eu estava me atrapalhando."
+        },
+        {
+            "id": 99,
+            "model": "파우스트",
+            "content": "Você está nervoso, Dante?"
+        },
+        {
+            "id": 100,
+            "model": "단테",
+            "content": "<Acho que sim...>"
+        },
+        {
+            "id": 101,
+            "teller": "Locutor do Trem",
+            "title": "W Corp.",
+            "content": "Iniciando <i>warp</i> em dez minutos."
+        },
+        {
+            "id": 102,
+            "model": "파우스트",
+            "content": "Deixe-me ajudá-lo. Fique de costas para esse lado, e..."
+        },
+        {
+            "id": 103,
+            "content": "Faust me guiou como se soubesse de cór, logo apertando um botão dentro da cápsula que fechou sua porta."
+        },
+        {
+            "id": 104,
+            "model": "파우스트",
+            "content": "Não se preocupe muito."
+        },
+        {
+            "id": 105,
+            "model": "파우스트",
+            "content": "... Nos veremos novamente em breve, Dante."
+        },
+        {
+            "id": 106,
+            "content": "Parecia que a Faust havia soltado um breve suspiro, mas as portas se fecharam antes que eu pude perguntar sobre..."
+        },
+        {
+            "id": 107,
+            "teller": "Locutor do Trem",
+            "title": "W Corp.",
+            "content": "Este tren irá iniciar o <i>warp</i> em breve. Por favor, confirmem que seus cintos de segurança estão devidamente colocados."
+        },
+        {
+            "id": 108,
+            "content": "Pude apenas observar Faust entrando em sua própria cápsula enquanto a minha se enchia de gás."
+        },
+        {
+            "id": 109,
+            "content": "... Mal eu sabia naquela hora..."
+        },
+        {
+            "id": 110,
+            "content": "... que aquela frase poderia ter um outro sentido."
+        },
+        {
+            "id": 111,
+            "model": "단테",
+            "content": "<…?>"
+        },
+        {
+            "id": 112,
+            "model": "파우스트",
+            "content": "Dante, você precisa acordar. Dante..."
+        },
+        {
+            "id": 113,
+            "content": "Mas, havia uma coisa da qual eu tinha certeza..."
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "... Estamos em uma situação inesperada."
+        },
+        {
+            "id": 115,
+            "content": "... algo de muito errado havia acontecido."
+        }
+    ]
+}

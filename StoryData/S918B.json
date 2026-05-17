@@ -1,0 +1,471 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Entrada do Laboratório da Equipe de Pesquisa da LCE",
+            "model": "그레고르",
+            "content": "...Parece que chegamos, o laboratório."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Da parte da LCD e da LCE, depois daquele rádio de agora há pouco, não veio mais contato algum."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Tomara que não tenham se enredado em algo ruim, mas..."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Gerente, por acaso você o sente? O Ramo Dourado, digo... se por acaso eles o tiverem levado primeiro..."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Não, ainda...>"
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<It's still in there.>"
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "Ha... é mesmo? Então é um consolo dentro da desgraça, suponho."
+        },
+        {
+            "id": 7,
+            "content": "Gregor mumbled on in a gloomy tone."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "Se o senhor Hohenheim ouvir essa notícia, ao menos vai tirar um peso do peito, é."
+        },
+        {
+            "id": 9,
+            "content": "Entramos no laboratório, cujas luzes estavam apagadas."
+        },
+        {
+            "id": 10,
+            "place": "Laboratório da Equipe de Pesquisa da LCE",
+            "content": "Se o objetivo for, de fato, o Ramo Dourado... o que será que os invasores pretendem fazer com ele?"
+        },
+        {
+            "id": 11,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 12,
+            "content": "Enquanto eu pensava nisso, os passos de Ryoshu, sem que se notasse, haviam parado."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Ryōshū?>"
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "content": "Aqui adiante... há um aroma que, de tão conhecido, chega a enjoar."
+        },
+        {
+            "id": 15,
+            "content": "No laboratório, densamente preenchido por uma escuridão espessa, Ryoshu fita o vazio, como quem encara uma estranheza derramada por entre tudo aquilo."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "Falar em cheiro... fora o cheiro do cigarro da senhora Ryoshu, não há..."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "...É verdade, você... não estava fumando."
+        },
+        {
+            "id": 19,
+            "content": "À frente, tudo estava silencioso."
+        },
+        {
+            "id": 20,
+            "content": "Não havia sinal de respiração alguma, mas aquele irônico cheiro de cigarro e um frio inexplicável vinham se aproximando."
+        },
+        {
+            "id": 21,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 22,
+            "model": "료슈",
+            "content": "Quando saí daquele lugar..."
+        },
+        {
+            "id": 23,
+            "model": "료슈",
+            "content": "...eu desprezava alguém."
+        },
+        {
+            "id": 24,
+            "model": "료슈",
+            "content": "Com certeza..."
+        },
+        {
+            "id": 25,
+            "content": "Como que tomada por aquele frio, Ryoshu murmurou."
+        },
+        {
+            "id": 26,
+            "content": "Aquilo soava não como se ela falasse comigo, mas como se recitasse para si mesma. Como quem repete algo para não esquecer a emoção daquele momento."
+        },
+        {
+            "id": 27,
+            "place": -1,
+            "model": "과거료슈3",
+            "content": "Dihui Star(地慧星), you..."
+        },
+        {
+            "id": 28,
+            "model": "과거료슈3",
+            "content": "Você só pensava em me atormentar. Não é?"
+        },
+        {
+            "id": 29,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Por minha causa? Isso é o que eu deveria dizer, Yoshihide."
+        },
+        {
+            "id": 30,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Você sabe que a sua existência vem barrando, até agora, todo o meu caminho à frente, não sabe?"
+        },
+        {
+            "id": 31,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Por isso, é assim que tem de ser para ser justo."
+        },
+        {
+            "id": 32,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Yoshihide, it..."
+        },
+        {
+            "id": 33,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "It never stops."
+        },
+        {
+            "id": 34,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "O som de um grilhão pesado e enferrujado... clinque-clanque..."
+        },
+        {
+            "id": 35,
+            "content": "Dentro daquela cena, Ryoshu ergueu a espada bem devagar e desembainhou aquela lâmina que jamais sacara diante de nós."
+        },
+        {
+            "id": 36,
+            "content": "Uma espada que, de tão alvíssima, parecia, ao contrário, cruel."
+        },
+        {
+            "id": 37,
+            "content": "Quando a ponta da lâmina, de súbito, pareceu reluzir..."
+        },
+        {
+            "id": 38,
+            "content": "...Ryoshu, num instante, ergue uma das mãos e agarra o queixo daquele sujeito."
+        },
+        {
+            "id": 39,
+            "content": "A espada, ofuscante a ponto de doer, penetra sem hesitação na boca daquele sujeito."
+        },
+        {
+            "id": 40,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Gah... *hack*"
+        },
+        {
+            "id": 41,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "*huff* Hrrk..."
+        },
+        {
+            "id": 42,
+            "content": "Ryoshu retira a espada."
+        },
+        {
+            "id": 43,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "*splat*"
+        },
+        {
+            "id": 44,
+            "content": "O que aquele sujeito, a custo, cuspiu junto com o sangue era a língua."
+        },
+        {
+            "id": 45,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Hah..."
+        },
+        {
+            "id": 46,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "Hah! Ha... haha... Haha!"
+        },
+        {
+            "id": 47,
+            "content": "Aquele sujeito, ao ver o pedaço que fora a sua própria língua decepada, expele algo como um riso."
+        },
+        {
+            "id": 48,
+            "content": "E era o riso de um vencedor, como quem está satisfeito como nada poderia deixá-lo mais."
+        },
+        {
+            "id": 49,
+            "content": "Ryoshu, que respirava ofegante, deixa cair a própria espada."
+        },
+        {
+            "id": 50,
+            "content": "Com uma expressão confusa... como quem perdeu o caminho, Ryoshu fica longo tempo a observar o arfar daquele sujeito."
+        },
+        {
+            "id": 51,
+            "place": "Laboratório da Equipe de Pesquisa da LCE",
+            "model": "료슈",
+            "content": "...C.O.L.E.R.I.C.A."
+        },
+        {
+            "id": 52,
+            "model": "료슈",
+            "content": "Cheiro Ocre, Latente e Envelhecido... Rancor Incessante Contaminando o Ar."
+        },
+        {
+            "id": 53,
+            "content": "E, diante da Ryoshu de agora..."
+        },
+        {
+            "id": 54,
+            "content": "...a presença outrora nítida em sua memória vinha caminhando, tornada uma silhueta branca."
+        },
+        {
+            "id": 55,
+            "content": "Como quem reconstitui a ausência da língua que Ryoshu, um dia, cortara sem piedade, ele alisava devagar, com a mão, o canto da boca, e..."
+        },
+        {
+            "id": 56,
+            "content": "...como se, desde muito tempo atrás, estivesse à nossa espera naquele lugar."
+        },
+        {
+            "id": 57,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 58,
+            "model": "소지아비",
+            "teller": "Estrela Dihui",
+            "title": "???",
+            "content": "... Ha."
+        },
+        {
+            "id": 59,
+            "content": "Aquela boca, que perdera a língua, fita Ryoshu sem se abrir."
+        },
+        {
+            "id": 60,
+            "content": "Ao mesmo tempo, daquela boca pareceu escapar um suspiro como que um tanto desalentado."
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "content": "Por causa dos meus cinco Pais... eu deixei para trás aquilo que era o mais precioso neste mundo."
+        },
+        {
+            "id": 62,
+            "model": "료슈",
+            "content": "Por isso..."
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "content": "I must take it back."
+        },
+        {
+            "id": 64,
+            "model": "소지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "É de coração que me alegra reencontrar você, Ryoshu."
+        },
+        {
+            "id": 65,
+            "model": "소지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...foi isto que o senhor meu mestre ordenou a este servo que vos transmitisse."
+        },
+        {
+            "id": 66,
+            "model": "료슈",
+            "content": "... The Pinky Nursefather."
+        },
+        {
+            "id": 67,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "O senhor meu mestre... não nutre desejo algum a respeito deste ser indigno, e assim..."
+        },
+        {
+            "id": 68,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...por força natural, este humilde servo era como uma espada que se enferruja no silêncio: o dia era tedioso, e o amanhã, vão."
+        },
+        {
+            "id": 69,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "Foi por essa época que, pela graça de terdes vindo até aqui seguindo o fio da aranha..."
+        },
+        {
+            "id": 70,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...obtive, assim, a oportunidade de servir mais uma vez à vontade do senhor meu mestre."
+        },
+        {
+            "id": 71,
+            "model": "료슈",
+            "content": "... Another talker. Piss off."
+        },
+        {
+            "id": 72,
+            "content": "Para além dele, que se aproximava de nós... aquele a que chamam de Pai de Ryoshu desloca os passos devagar."
+        },
+        {
+            "id": 73,
+            "content": "...rumo ao lugar onde está o recipiente de conservação, de onde escapa a luz do Ramo Dourado."
+        },
+        {
+            "id": 74,
+            "model": "소지제자",
+            "teller": "???",
+            "content": "...Os preparativos estão concluídos. Decerto não vos esquecestes do que foi planejado."
+        },
+        {
+            "id": 75,
+            "model": "약지제자1",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 76,
+            "content": "Naquele lugar... avançou um sujeito que tinha o corpo inteiro coberto por uma armadura de ferro."
+        },
+        {
+            "id": 77,
+            "model": "단테",
+            "content": "<Aquilo, afinal, é o quê...>"
+        },
+        {
+            "id": 78,
+            "model": "이상",
+            "content": "Para uma peça de armamento em que se enxertou tecnologia... parece bastante tosca."
+        },
+        {
+            "id": 79,
+            "model": "이상",
+            "content": "...A casa do senhor Sinclair. Parece-se também com o instrumento de tortura que vimos naquele porão."
+        },
+        {
+            "id": 80,
+            "model": "료슈",
+            "content": "No flesh, no blood, no bones to show... in a fight?"
+        },
+        {
+            "id": 81,
+            "model": "료슈",
+            "content": "Para uma arte a se mostrar a mim... a categoria estética é bem baixa."
+        },
+        {
+            "id": 82,
+            "model": "약지제자1",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "model": "료슈",
+            "content": "O silêncio numa situação destas... não é belo — você não aprendeu isso com aquele sujeito?"
+        },
+        {
+            "id": 84,
+            "model": "료슈",
+            "content": "Aquele sujeito. O Pai do Anelar, onde ele está?"
+        },
+        {
+            "id": 85,
+            "content": "Diante das palavras de Ryoshu, o sujeito de armadura, sem dar resposta alguma..."
+        },
+        {
+            "id": 86,
+            "content": "...começou a brandir contra nós uma espada pesadíssima."
+        },
+        {
+            "id": 87,
+            "model": "단테",
+            "content": "<Temos de dar conta disto depressa... e garantir o Ramo Dourado.>"
+        },
+        {
+            "id": 88,
+            "model": "단테",
+            "content": "<Let's fend them all off.>"
+        },
+        {
+            "id": 89,
+            "model": "료슈",
+            "content": "Você despertou e tanto para a estética, Relógio."
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "content": "Observem enquanto eu demonstro o significado da A.D.M."
+        }
+    ]
+}

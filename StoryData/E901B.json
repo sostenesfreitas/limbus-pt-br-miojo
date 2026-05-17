@@ -1,0 +1,677 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "LCE Morgue",
+            "content": "Hoje realizou-se o funeral de Marten e dos demais pesquisadores da LCE."
+        },
+        {
+            "id": 1,
+            "content": "Viajando pela Cidade junto com os Pecadores, eu vinha presenciando inúmeras mortes, mas…"
+        },
+        {
+            "id": 2,
+            "content": "Como nunca houvera a experiência de tanta gente se reunir para velar os mortos, eu tive uma sensação um tanto estranha."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "…É assim que se faz?"
+        },
+        {
+            "id": 4,
+            "content": "Parece que com os Pecadores era a mesma coisa."
+        },
+        {
+            "id": 5,
+            "content": "Alguns Pecadores perguntavam isto e aquilo a Meursault, que conhecia bem os procedimentos e a etiqueta de um funeral."
+        },
+        {
+            "id": 6,
+            "model": "뫼르소",
+            "content": "Se você consegue expressar respeito, os gestos miúdos das mãos não importam."
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Escuta, isto, onde é que eu ponho?"
+        },
+        {
+            "id": 8,
+            "model": "뫼르소",
+            "content": "Hum. Embaixo da terceira coluna à direita…"
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "Que confusão. Você já esqueceu a instrução de que se deve agir com solenidade?"
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Tenta entender. É que eu quase nunca participei de um funeral."
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Foi por isso que eu disse para você ler o manual. E olha que eu até sublinhei…"
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "content": "Aah… desculpa, Ish. É que, quando passou das trinta páginas, ficou difícil de ler."
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Com certeza todos os Pecadores têm a experiência de terem participado de um funeral. Na Firma T… quando visitamos aquela mansão sinistra, digo."
+        },
+        {
+            "id": 14,
+            "model": "돈키호테",
+            "content": "Ah! Você fala daquele funeral sem dono que aconteceu na mansão do senhor Heathcliff?"
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "content": "Se não tivesse dono, não haveria nem motivo para travar uma disputa de propriedade, chegando a recorrer à autenticação da Associação Oeupi… eu disse o tempo todo, aquilo foi simplesmente um tratamento de anonimato deliberado, para prevenir a discórdia familiar…"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Tratamento de anonimato…"
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Se a situação era essa, não havia o que fazer, mas… resta a pena de que teria sido bom se ao menos se pudesse saber o nome…"
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "O nome… é…"
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<…Era o funeral de Catherine.>"
+        },
+        {
+            "id": 21,
+            "model": "뫼르소",
+            "content": "Eu li atentamente os jornais locais relacionados dos últimos 5 anos, mas não se identificou um nome desses, Gerente."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Deixa. Cabeça de relógio. Já é alguma coisa você ao menos se lembrar."
+        },
+        {
+            "id": 24,
+            "content": "Há de ser influência do Ramo Dourado. O fato de que, sem que se notasse, todos se lembram do que viveram em Wuthering Heights com uma história estranha."
+        },
+        {
+            "id": 25,
+            "content": "O Ramo Dourado já estava naquela mansão desde o início, Nelly caiu na lábia de Hermann e tramou um plano para tomar o Ramo Dourado, e o experimento de Linton era uma pesquisa para o irmão morto… era assim?"
+        },
+        {
+            "id": 26,
+            "content": "Depois de ver, de Donquixote a Faust, todos contando a mesma memória estranha como se fosse a coisa mais natural…"
+        },
+        {
+            "id": 27,
+            "content": "eu e Heathcliff apenas conferíamos de vez em quando a memória um do outro, e desistimos de corrigir a memória dos Pecadores."
+        },
+        {
+            "id": 28,
+            "content": "Porque percebemos que a história ligada a Catherine, de um jeito ou de outro, estava recoberta por uma história falsificada com um tom dourado."
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Enfim, naquela época, como dizer… não era um clima de expressar luto, ora."
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "O senhor Heathcliff esperneava feito louco, e aquela pessoa chamada Hindley atrapalhava a execução do testamento. Aff…"
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Eu cheguei a achar que um funeral era assim mesmo, mas, no fim, não era uma coisa comum, né?>"
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Não, bom… eu acho que é mais raro um lugar que passe por um procedimento de funeral como manda o figurino. Eu também andei por aqui e por ali, mas nunca cheguei a ver um decente."
+        },
+        {
+            "model": "이스마엘",
+            "content": "A seu modo, tinha um caixão preparado, tinha leitura de testamento… talvez, por terem ao menos fingido que havia um procedimento, Wuthering Heights tenha sido dos mais decentes."
+        },
+        {
+            "content": "…Pelo visto, na Cidade, o próprio funeral não é uma coisa comum."
+        },
+        {
+            "id": 33,
+            "model": "호엔하임",
+            "content": "Aqui também um funeral é uma cultura bastante luxuosa."
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "Não é que exista uma empresa que dê uma folga de bom grado só porque alguém morreu, e, para começar, a própria terra que se possa usar como espaço memorial é, por natureza, cara."
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<Então, normalmente… o que se faz?>"
+        },
+        {
+            "id": 36,
+            "model": "로쟈",
+            "content": "A gente… simplesmente deixava no lugar onde a pessoa morreu. E aí, quando a gente abria os olhos e se levantava… o cadáver tinha desaparecido limpinho."
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "content": "Juntar à toa um dinheiro que não se tem, enterrar a pessoa em algum lugar e, aí, se rolar um boato estranho, é encrenca, ora."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<Boato?>"
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "content": "Que foi enterrado junto algo que vale dinheiro, que um dos braços é uma prótese mecânica de luxo… coisas assim."
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Antes deixar a pessoa onde está do que ver a cena de ela não conseguir descansar em paz nem depois de morta."
+        },
+        {
+            "id": 41,
+            "model": "홍루",
+            "content": "Quem tinha um cômodo onde enterrar, esses costumavam enterrar. É claro… que se podia perder, num dia de recadastro, o cômodo onde se enterrou."
+        },
+        {
+            "id": 42,
+            "content": "Diante dessas palavras, Hohenheim soltou um risinho de escárnio e baixou bem a cabeça."
+        },
+        {
+            "id": 43,
+            "model": "호엔하임",
+            "content": "É tudo um ato sem sentido."
+        },
+        {
+            "id": 44,
+            "model": "호엔하임",
+            "content": "Isso de consolar os mortos também é tudo mentira."
+        },
+        {
+            "id": 45,
+            "model": "호엔하임",
+            "content": "É apenas queimar todo este dinheiro para pôr na mão dos vivos um pretexto."
+        },
+        {
+            "id": 46,
+            "content": "Será que Hohenheim pensa isso de verdade, ou será que é um estado de espírito de querer pensar assim?"
+        },
+        {
+            "id": 47,
+            "content": "Com a cabeça baixa, não dava para distinguir a expressão, então parecia que não havia como conjeturar."
+        },
+        {
+            "id": 48,
+            "content": "O funeral não foi lá muito longo."
+        },
+        {
+            "id": 49,
+            "content": "Um breve minuto de silêncio, e frases de despedida ainda mais breves."
+        },
+        {
+            "id": 50,
+            "content": "Foi só depois de até Alyssa, que ainda não se recuperara por inteiro, participar e prestar a última condolência."
+        },
+        {
+            "id": 51,
+            "content": "Junto com o som do caixão a arder, a morte de Marten e dos pesquisadores chegou a um fim completo."
+        },
+        {
+            "id": 52,
+            "model": "알리사",
+            "content": "Então… vocês vão partir agora?"
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<Ah.>"
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<…Nós vamos ficar até o Gregor se estabilizar.>"
+        },
+        {
+            "id": 55,
+            "model": "홍루",
+            "content": "Ele diz que pretende continuar hospedado até o senhor Gregor se estabilizar."
+        },
+        {
+            "id": 56,
+            "model": "알리사",
+            "content": "Ah…"
+        },
+        {
+            "id": 57,
+            "content": "Depois da transformação, Gregor, que tinha desabado, recobrou os sentidos em poucos dias."
+        },
+        {
+            "id": 58,
+            "content": "Hohenheim, após o diagnóstico, disse que não havia nada de especialmente problemático no estado do corpo, mas…"
+        },
+        {
+            "id": 59,
+            "content": "mostrando também o resultado do diagnóstico psicológico, que despencara ao pior, ele acrescentou que, por algum tempo, seria difícil executar combate."
+        },
+        {
+            "id": 60,
+            "model": "알리사",
+            "content": "Entendo. De todo modo, vocês não vão partir por um tempo, então."
+        },
+        {
+            "id": 61,
+            "model": "알리사",
+            "content": "Então o nosso departamento pode levar o senhor Sinclair por um instante, não pode?"
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Hum?>"
+        },
+        {
+            "id": 63,
+            "model": "싱클레어",
+            "content": "A mim?"
+        },
+        {
+            "id": 64,
+            "model": "알리사",
+            "content": "Sim. É que parece que querem investigar a 'marca' que se manifestou no senhor Sinclair."
+        },
+        {
+            "id": 65,
+            "model": "알리사",
+            "content": "Bom, como já foi aprovado pela cúpula, é mais um aviso do que um pedido de permissão, mas…"
+        },
+        {
+            "id": 66,
+            "model": "싱클레어",
+            "content": "Sim…? In-investigar? Investigar o…"
+        },
+        {
+            "id": 67,
+            "model": "호엔하임",
+            "content": "É apenas um simples experimento biológico. Acalme-se."
+        },
+        {
+            "id": 68,
+            "model": "싱클레어",
+            "content": "Biológico?!"
+        },
+        {
+            "id": 69,
+            "model": "알리사",
+            "content": "Falar desse jeito… é apenas verificar a pele ou fazer uma consulta, então não fique com medo."
+        },
+        {
+            "id": 70,
+            "model": "알리사",
+            "content": "É claro que, se o senhor permitir, há outros métodos também…"
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "Eu não vou permitir!"
+        },
+        {
+            "id": 72,
+            "model": "호엔하임",
+            "content": "Outros departamentos também enviaram pedidos de pesquisa e observação de modo bastante ativo."
+        },
+        {
+            "id": 73,
+            "model": "알리사",
+            "content": "O Departamento de Observação do Mundo-Espelho da LCA disse que ia ser o primeiro a investigar, e o chefe de equipe a custo conseguiu barrar isso. Haha…"
+        },
+        {
+            "id": 74,
+            "model": "알리사",
+            "content": "Se ele tivesse ido para lá, eles iam segurá-lo por uns meses sem soltar. Então, colaboração… ah, os membros do departamento saíram bem na hora."
+        },
+        {
+            "id": 75,
+            "content": "Alyssa, que viu os pesquisadores que terminaram o luto saindo do salão funerário, acenou a mão algumas vezes e, num instante, cercaram Sinclair como num cerco."
+        },
+        {
+            "id": 76,
+            "model": "싱클레어",
+            "content": "E-espera! Eu vou… eu vou pelo meu próprio pé…! Só não me machuquem…!"
+        },
+        {
+            "id": 77,
+            "model": "알리사",
+            "content": "Tá bom, tá bom~"
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<Força… Sinclair.>"
+        },
+        {
+            "id": 79,
+            "content": "…Ouvindo a voz aflita dele, eu acenei para Sinclair lá no fundo do meu coração."
+        },
+        {
+            "id": 80,
+            "model": "히스클리프",
+            "content": "Mas… você não vai junto?"
+        },
+        {
+            "id": 81,
+            "model": "알리사",
+            "content": "Ah, é que eu tenho de voltar de novo para a sala de tratamento de longa duração."
+        },
+        {
+            "id": 82,
+            "model": "알리사",
+            "content": "Eu achava que pesquisar era o que eu mais gostava, mas, pelo visto, não era. Uma licença médica remunerada é um pouquinho melhor do que pesquisa, ora."
+        },
+        {
+            "id": 83,
+            "model": "호엔하임",
+            "content": "Aproveite enquanto pode aproveitar. É que, provavelmente, o resultado de todos os pedidos de férias anuais que o nosso departamento for solicitar este ano vai ser indeferido."
+        },
+        {
+            "id": 84,
+            "model": "이스마엘",
+            "content": "Bem, é verdade que, numa empresa comum, é difícil descansar mais de uma semana por ano."
+        },
+        {
+            "id": 85,
+            "content": "Assim que Alyssa partiu com passos arrastados e sem forças, Sinclair, como que desaparecendo, foi carregado pelos pesquisadores e sumiu."
+        },
+        {
+            "id": 86,
+            "model": "이스마엘",
+            "content": "Então… nós também já vamos indo."
+        },
+        {
+            "id": 87,
+            "model": "단테",
+            "content": "<Oh, todo mundo tem alguma coisa para fazer?>"
+        },
+        {
+            "id": 88,
+            "model": "홍루",
+            "content": "Ah~ eu, como estou preocupada com o senhor Gregor, vou visitá-lo."
+        },
+        {
+            "id": 89,
+            "model": "히스클리프",
+            "content": "Aquela coisa lá. Tem um trabalho que eu disse que ia ajudar, então preciso ir."
+        },
+        {
+            "id": 90,
+            "model": "이스마엘",
+            "content": "Eu vou acompanhar o senhor Sinclair e descansar um pouco. E também, se houver algum experimento que passe dos limites, para barrar."
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "Se precisar de alguma coisa, me chame, Dante."
+        },
+        {
+            "id": 92,
+            "content": "Durante a estadia na LCE, dizendo cada um um motivo diferente — se havia algum trabalho que estavam ajudando —, os Pecadores se dispersaram para todos os lados."
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<Todo mundo está ocupado…>"
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "Ufa…"
+        },
+        {
+            "id": 95,
+            "content": "Agora, o que restava por perto era Ryōshū, que fumava um cigarro atrás do outro, e Donquixote, que andava indagando sobre o paradeiro de Vespa, que sumira nesse meio-tempo…"
+        },
+        {
+            "id": 96,
+            "content": "e Faust, que estava de pé, parada, fitando o vazio — só isso."
+        },
+        {
+            "id": 97,
+            "content": "Será que ela está conectada à Gesellschaft?"
+        },
+        {
+            "id": 98,
+            "model": "호엔하임",
+            "content": "Você parece ocioso, Gerente."
+        },
+        {
+            "id": 99,
+            "content": "Enquanto eu cismava — e agora, o que é que eu faço… —, Hohenheim, que vinha assinando vários documentos, talvez tendo terminado o serviço, caminhou até mim."
+        },
+        {
+            "id": 100,
+            "model": "호엔하임",
+            "content": "Eu tinha justamente um encargo a pedir a você e à Pecadora Ryōshū, então caiu bem. Reserve-me um instante do seu tempo."
+        },
+        {
+            "id": 101,
+            "model": "단테",
+            "content": "<Um encargo?>"
+        },
+        {
+            "id": 102,
+            "model": "료슈",
+            "content": "'En.car.go' — o que é isso?, é o que a Ca.be.ça-de-re.ló.gio pergunta."
+        },
+        {
+            "id": 103,
+            "content": "As minhas palavras… foram traduzidas por Ryōshū."
+        },
+        {
+            "id": 104,
+            "content": "Ryōshū, que vivia respondendo de modo cortante que eu procurasse outra pessoa para traduzir, ter se oferecido por algum milagre é de se agradecer, mas…"
+        },
+        {
+            "id": 105,
+            "content": "…isto é um trabalho que tem algum sentido?"
+        },
+        {
+            "id": 106,
+            "model": "호엔하임",
+            "content": "…Traduzir uma fala que precisa de tradução para uma fala que precisa de tradução foi bastante inusitado."
+        },
+        {
+            "id": 107,
+            "model": "호엔하임",
+            "content": "Decerto vai ser preciso mais gente."
+        },
+        {
+            "id": 108,
+            "content": "Hohenheim, coçando a cabeça, vasculhou os arredores e, logo, como quem teve uma boa ideia, chamou e fez parar alguém que despejava um discurso inflamado sobre um funcionário da LCCA."
+        },
+        {
+            "id": 109,
+            "model": "돈키호테",
+            "content": "Se vocês não sabem, quem é que vai saber! Escutem bem, com o cabelo de cuia e…"
+        },
+        {
+            "id": 110,
+            "model": "호엔하임",
+            "content": "Você aí. Você também, venha para cá."
+        },
+        {
+            "id": 111,
+            "model": "돈키호테",
+            "content": "Hã? Ué. É de mim que está falando?"
+        },
+        {
+            "id": 112,
+            "content": "…O pessoal da LCCA, que estava sendo interrogado por Donquixote sobre o paradeiro de Vespa, talvez achando que era a deixa, sumiu sem nem olhar para trás."
+        },
+        {
+            "id": 113,
+            "model": "호엔하임",
+            "content": "Pois é. Surgiu uma coisa em que a sua ajuda é necessária."
+        },
+        {
+            "id": 114,
+            "model": "돈키호테",
+            "content": "M-mas eu ainda tenho coisas a conversar com o senhor Arpão Amarelo…"
+        },
+        {
+            "id": 115,
+            "model": "호엔하임",
+            "content": "Você, que preza o espírito da cavalaria, não há de recusar este pedido sincero."
+        },
+        {
+            "id": 116,
+            "model": "돈키호테",
+            "content": "M-mas… ain…"
+        },
+        {
+            "id": 117,
+            "model": "호엔하임",
+            "content": "Hum. Como é preciso distinguir do senhor Assistente, você pode ser o nº 2. Quer dizer Assistente nº 2."
+        },
+        {
+            "id": 118,
+            "model": "돈키호테",
+            "content": "…Ainda restam coisas, mas não dá para virar as costas a quem está em apuros! Então, o que é que eu posso ajudar?"
+        },
+        {
+            "id": 119,
+            "model": "호엔하임",
+            "content": "Decerto, deixar a tradução do Gerente a cargo da Pecadora nº 4 não parece adequado. Portanto, transmita a mim o que o Gerente disser."
+        },
+        {
+            "id": 120,
+            "model": "돈키호테",
+            "content": "Oooh… não é uma tarefa difícil!"
+        },
+        {
+            "id": 121,
+            "model": "돈키호테",
+            "content": "Mas, como eu também não sei o que é o 'en.car.go', eu vou precisar de um tiquiiinho de tempo."
+        },
+        {
+            "id": 122,
+            "model": "호엔하임",
+            "content": "…O que foi dito não foi pela Pecadora Ryōshū, e sim pelo Gerente…"
+        },
+        {
+            "id": 123,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 124,
+            "model": "파우스트",
+            "content": "Ele está perguntando qual é o encargo."
+        },
+        {
+            "id": 125,
+            "model": "호엔하임",
+            "content": "Eu não perguntei a você, mas, na situação atual, não deixa de ser uma intromissão bem-vinda."
+        },
+        {
+            "id": 126,
+            "model": "파우스트",
+            "content": "Eu apenas não tive coragem de ficar só assistindo a uma seleção de pessoal irracional e a um processamento de trabalho ineficiente."
+        },
+        {
+            "id": 127,
+            "model": "파우스트",
+            "content": "Espero que o senhor não tenha tramado de propósito um plano sorrateiro destes para arrancar a colaboração de Faust."
+        },
+        {
+            "id": 128,
+            "model": "호엔하임",
+            "content": "…Ha. Enfim, Gerente. O encargo é um pedido de colaboração para a investigação das 'portas dos fundos' da Teia."
+        },
+        {
+            "id": 129,
+            "model": "호엔하임",
+            "content": "Pois quem melhor conhece a estrutura da Teia há de ser o Gerente e a Pecadora nº 4, que administraram e supervisionaram toda a situação."
+        },
+        {
+            "id": 130,
+            "model": "단테",
+            "content": "<Então é para ir direto para a Teia?>"
+        },
+        {
+            "id": 131,
+            "model": "료슈",
+            "content": "En.tão. di.re.to. pra. Tei.a?"
+        },
+        {
+            "id": 132,
+            "model": "호엔하임",
+            "content": "…Você, já chega."
+        },
+        {
+            "id": 133,
+            "model": "호엔하임",
+            "content": "Eu te peço… um favor. Faust."
+        },
+        {
+            "id": 134,
+            "model": "파우스트",
+            "content": "…Bom. Que seja."
+        },
+        {
+            "id": 135,
+            "content": "Quando Faust traduziu como devido a minha pergunta, Hohenheim balançou a cabeça de um lado para o outro."
+        },
+        {
+            "id": 136,
+            "model": "호엔하임",
+            "content": "Não é agora mesmo. É que há uma pessoa que eu tenho de levar junto."
+        },
+        {
+            "id": 137,
+            "model": "단테",
+            "content": "<Uma pessoa a levar?>"
+        },
+        {
+            "id": 138,
+            "content": "Quando eu inclinei a cabeça, intrigado, Hohenheim ajeitou os óculos e disse o seguinte."
+        },
+        {
+            "id": 139,
+            "model": "호엔하임",
+            "content": "A prisioneira capturada viva na Teia."
+        },
+        {
+            "id": 140,
+            "model": "호엔하임",
+            "content": "Kira. Aquela sujeita recobrou a consciência."
+        }
+    ]
+}

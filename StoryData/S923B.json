@@ -1,0 +1,392 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "중지제자",
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "model": "중지제자",
+            "content": "……."
+        },
+        {
+            "id": 2,
+            "model": "중지제자",
+            "content": "Aah, sério, vocês vão ser mesquinhos assim?"
+        },
+        {
+            "id": 3,
+            "model": "중지제자",
+            "content": "Eu queria terminar junto, bem na hora em que o meu paizão acabasse a execução dele!"
+        },
+        {
+            "id": 4,
+            "model": "중지제자",
+            "content": "E, olha, faz tempo que eu não brincava de esconde-esconde, foi divertido, mas já tô começando a enjoar."
+        },
+        {
+            "id": 5,
+            "place": "Ala de Segurança da Equipe de Pesquisa da LCE",
+            "model": "이스마엘",
+            "content": "O sujeito chamado de Pai, que vinha na nossa cola, parece que a gente conseguiu despistar de algum jeito, mas..."
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "...parece que ela nos perseguiu sozinha até aqui."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "...Aquele cachimbo de que a senhora falou na reunião de estratégia de agora há pouco... o E.G.O, ainda não?"
+        },
+        {
+            "id": 8,
+            "model": "모제스2",
+            "content": "It needs some time."
+        },
+        {
+            "id": 9,
+            "model": "에즈라",
+            "content": "Por isso é que a gente precisa ganhar um tempinho. Que tal a minha coleção de armas de atelier que eu mostrei agora há pouco? Eu empresto, fazendo um esforço e tudo; que tal lutarem com elas?"
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "Reunir só os tipos difíceis de manejar desse jeito, se é um talento, é um talento."
+        },
+        {
+            "id": 11,
+            "model": "오티스",
+            "content": "Do ponto de vista do colecionismo, dá para dizer que é impressionante... mas, com aquelas armas de atelier, do que esperar manejá-las como deve, seria mais eficiente brigar a punhos."
+        },
+        {
+            "id": 12,
+            "model": "에즈라",
+            "content": "Tsss... como é que eu ia saber que hoje ia dar essa confusão toda? Como eu ia me encontrar com a equipe da LCA, quis me gabar um pouco... e trouxe um monte só de coisa peculiar e difícil de conseguir, e aííí..."
+        },
+        {
+            "id": 13,
+            "model": "LCD앵두",
+            "content": "Hmm..."
+        },
+        {
+            "id": 14,
+            "model": "LCD앵두",
+            "content": "Aquela espada, que espada é?"
+        },
+        {
+            "id": 15,
+            "model": "에즈라",
+            "content": "Uuh... hã? Aquela? Aquela é uma espada larga feita no Atelier Mestil... você já usou uma?"
+        },
+        {
+            "id": 16,
+            "model": "LCD앵두",
+            "content": "Não; como tomar emprestada uma peça de atelier nunca foi coisa tão fácil para mim... é só que, no embate de agora há pouco, o meu sabre se quebrou, e eu preciso de algo para substituí-lo."
+        },
+        {
+            "id": 17,
+            "model": "에즈라",
+            "content": "Eh... emprestar tudo bem, mas aquela não vai ser fácil de manejar. O lugar chamado Atelier Mestil, sabe? Junto com o Atelier Alas..."
+        },
+        {
+            "id": 18,
+            "model": "LCD앵두",
+            "content": "Eu sei. Não foi vós que o dissestes muitas vezes? Que a arma se move tão depressa, como se lhe brotassem asas, que muitas vezes a pessoa acaba arrastada pela arma a seu bel-prazer."
+        },
+        {
+            "id": 19,
+            "model": "에즈라",
+            "content": "Yeah..."
+        },
+        {
+            "id": 20,
+            "model": "LCD앵두",
+            "content": "Não há problema. Pois na espada veloz eu tenho uma boa confiança."
+        },
+        {
+            "id": 21,
+            "model": "LCD앵두",
+            "content": "Ainda que isso me custe os dois braços arrancados... um matador há de empunhar a lâmina, é a regra."
+        },
+        {
+            "id": 22,
+            "model": "에즈라",
+            "content": "O-okay, okay, jeez..."
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "Reforço de efetivo... chamar assim também é meio estranho, com só isto..."
+        },
+        {
+            "id": 24,
+            "model": "홍루",
+            "content": "Hum... o senhor Dante não está, mas, e se nós também entrássemos diretamente em ação?"
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "Graças a estarmos com o Gerente, as capacidades físicas vão voltando aos poucos... mas a perícia, essa não retorna por completo."
+        },
+        {
+            "id": 26,
+            "model": "에즈라",
+            "content": "É verdade. Do lado do Ramo Dourado, ainda nada?"
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "...Não há resposta, droga. De tanto deixar com o Gerente gente nada digna de confiança, no fim aconteceu o que se temia..."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "Hey, might just be a bad radio signal. Take it easy."
+        },
+        {
+            "id": 29,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "중지제자",
+            "content": "Aah~ até de fazer companhia em criancice eu já enjoei. Ainda me põem de pegador sem me consultar. Olha, isto aqui é vocês me atormentando ainda mais, sabiam?"
+        },
+        {
+            "id": 30,
+            "model": "중지제자",
+            "content": "Ufa... eu vou contar só uns 10 segundos certinhos. Entendido?"
+        },
+        {
+            "id": 31,
+            "model": "중지제자",
+            "content": "... Eightnineten! Here I go!"
+        },
+        {
+            "id": 32,
+            "place": "Ala de Segurança da Equipe de Pesquisa da LCE",
+            "model": "로쟈",
+            "content": "E-e agora, o que a gente faz?!"
+        },
+        {
+            "id": 33,
+            "model": "이스마엘",
+            "content": "O jeito de atraí-la para uma Distorção ou Anormalidade, como antes, não é o melhor? Afinal, deu até para prender o Pai pelo tornozelo..."
+        },
+        {
+            "id": 34,
+            "content": "A few hours ago..."
+        },
+        {
+            "id": 35,
+            "place": "Zona de Contenção da Equipe de Pesquisa da LCE",
+            "model": "LCA대원벼락",
+            "teller": "Equipe de Reconhecimento da LCA?",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 36,
+            "model": "중지아비",
+            "content": "Ora, isto é..."
+        },
+        {
+            "id": 37,
+            "model": "중지제자",
+            "content": "Oh! Pai, pai! Ainda não tinha acabado tudo? Você guardou pra mim?"
+        },
+        {
+            "id": 38,
+            "model": "중지제자",
+            "content": "Ué... aqueles ali são os caras que o pai esmigalhou todos agora há pouco. Ah! Será que é tipo um despertar? Eu já vi na TV, em 'Os Guerreiros que Voltaram da Morte, parte 3'!"
+        },
+        {
+            "id": 39,
+            "model": "중지제자",
+            "content": "Se for isso, então, num golpe só..."
+        },
+        {
+            "id": 40,
+            "model": "중지제자",
+            "content": "Whoa... Eeeep!!"
+        },
+        {
+            "id": 41,
+            "model": "모제스3",
+            "content": "Neurose, histeria. A dor distorcida costuma se manifestar sob a forma de eletricidade."
+        },
+        {
+            "id": 42,
+            "model": "모제스3",
+            "content": "O Homem-Raio. Eu o julgava uma carta suficiente para ganhar tempo, mas..."
+        },
+        {
+            "id": 43,
+            "model": "중지아비",
+            "content": "Ohoo... não são os cadáveres que se movem sozinhos. Filhinha! Você está vendo aquilo?"
+        },
+        {
+            "id": 44,
+            "model": "중지제자",
+            "content": "Hã...? Q-qual coisa?! Eu não tô vendo nada!"
+        },
+        {
+            "id": 45,
+            "model": "중지아비",
+            "content": "Uahahaha! É mesmo? Não está vendo? Aii~ pra alcançar a nossa Yoshihide você ainda vai ter que se esforçar mais!"
+        },
+        {
+            "id": 46,
+            "model": "중지아비",
+            "content": "Arregale os olhos e olhe direito. Aquilo que cintila com um brilho roxo. Aquele sujeito ali... se move e vai despejando eletricidade nos cadáveres."
+        },
+        {
+            "id": 47,
+            "model": "모제스3",
+            "content": "...Tal como aparenta, são sentidos de fera."
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "Senhora Moses! A rota de retirada já está garantida!"
+        },
+        {
+            "id": 49,
+            "model": "모제스3",
+            "content": "... Yes, in that case..."
+        },
+        {
+            "id": 50,
+            "model": "에즈라",
+            "content": "Whoa...?! Team Leader!!"
+        },
+        {
+            "id": 51,
+            "model": "LCD앵두",
+            "content": "Ngh!!"
+        },
+        {
+            "id": 52,
+            "model": "중지아비",
+            "content": "Êpa, pra um sujeito que anda vestido todo encardido, tem um bom senso, hein? Conseguiu bloquear isto?"
+        },
+        {
+            "id": 53,
+            "model": "LCD앵두",
+            "content": "Foi bom... ter observado de antemão a disposição das forças. O impacto foi forte; a senhorita... está bem?"
+        },
+        {
+            "id": 54,
+            "model": "모제스3",
+            "content": "...Graças a você, estou ilesa. Vou te amparar, então não pare de estancar o sangramento."
+        },
+        {
+            "id": 55,
+            "model": "LCD앵두",
+            "content": "Mm...! Let us fall back posthaste."
+        },
+        {
+            "id": 56,
+            "model": "중지제자",
+            "content": "Hey!! Where d'you think you're going?!!!"
+        },
+        {
+            "id": 57,
+            "model": "LCA대원벼락",
+            "teller": "O Homem-Raio",
+            "title": "Distorção",
+            "content": "……."
+        },
+        {
+            "id": 58,
+            "model": "중지아비",
+            "content": "Eita... essas coisas ainda ficam grudando... pelo visto isto só termina se eu pegar e matar primeiro aquele sujeito que fica crepitando, hein?"
+        },
+        {
+            "id": 59,
+            "model": "중지아비",
+            "content": "Pft... Filha! Pode ir na frente perseguir eles!"
+        },
+        {
+            "id": 60,
+            "model": "중지제자",
+            "content": "Eba, é verdade mesmo? Posso dar conta deles primeiro, pode?"
+        },
+        {
+            "id": 61,
+            "model": "중지아비",
+            "content": "Claro~ o pai tem que limpar isto aqui antes de ir."
+        },
+        {
+            "id": 62,
+            "model": "중지아비",
+            "content": "Deixa eu ver... como a filhinha machucou a mão, do regulamento do livro-razão... aplico a cláusula especial da Teia, artigo 1, item 12, por inteiro, e..."
+        },
+        {
+            "id": 63,
+            "model": "중지아비",
+            "content": "...O que é isso, vocês... eram do bando do sujeito que roubou o cupom de cabeleireiro daquela vez? Só de imaginar com que cara de cabelo o Ricardo andou por aí um tempão por causa disso, já me apertava o coração..."
+        },
+        {
+            "id": 64,
+            "model": "중지아비",
+            "content": "Pra acertar o rancor entre família, e de quebra pra punir a ferida na mão da filhinha..."
+        },
+        {
+            "id": 65,
+            "model": "중지아비",
+            "content": "That's complete and total extermination!"
+        },
+        {
+            "id": 66,
+            "content": "Back to the present..."
+        },
+        {
+            "id": 67,
+            "place": "Ala de Segurança da Equipe de Pesquisa da LCE",
+            "model": "모제스3",
+            "content": "Quando penso nas coisas com a contenção desfeita que eu vi enquanto recuávamos até aqui, e nos vestígios das coisas fugidas que restavam aqui e ali... Não, agora não estou em condição de escolher os meios..."
+        },
+        {
+            "id": 68,
+            "model": "오티스",
+            "content": "Ainda resta alguma jogada?"
+        },
+        {
+            "id": 69,
+            "model": "모제스3",
+            "content": "……."
+        },
+        {
+            "id": 70,
+            "model": "모제스3",
+            "content": "Teria sido bom poder usar, mais do que informações sobre Anormalidades, as Distorções que nós mesmos resolvemos... e que nós mesmos entregamos à LCE. Mas aqui não há nenhuma delas."
+        },
+        {
+            "id": 71,
+            "model": "모제스3",
+            "content": "Sendo assim, a única operação que se pode conceber, com a única opção que resta, é esta."
+        },
+        {
+            "id": 72,
+            "model": "모제스3",
+            "content": "O gesto vazio das mãos, a nostalgia e o enlace, e a absorção."
+        },
+        {
+            "id": 73,
+            "model": "에즈라",
+            "content": "Wait... you don't mean..."
+        },
+        {
+            "id": 74,
+            "model": "모제스3",
+            "content": "Sim. Aquela Anormalidade que não solta a trepadeira até o corpo todo branco ficar tingido de vermelho vivo."
+        },
+        {
+            "id": 75,
+            "model": "모제스3",
+            "content": "Vamos fazê-los encontrar 'O Algodão Embebido'."
+        }
+    ]
+}

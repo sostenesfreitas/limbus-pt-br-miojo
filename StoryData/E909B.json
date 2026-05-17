@@ -1,0 +1,473 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "An Office Building, Somewhere",
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "…Aqui é."
+        },
+        {
+            "id": 2,
+            "model": "뉴키라",
+            "content": "O que é isso. É só um escritório. Eu tinha me assustado um pouco achando que ia ser bem no meio de um campo de batalha."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Por acaso é um lugar que você conhece?>"
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Hã. Conheço bem."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "É a última empresa em que eu trabalhei, até vir parar aqui."
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "…O lugar onde eu ficava é ali."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Numa empresa dessas, sabe. Um canto encantoado daqueles é bom. Não chama muito a atenção do chefe."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "Quer eu trabalhasse, quer eu fizesse outra coisa, quer eu tremesse de medo assustado com o som de metal se chocando… não tinha como ser flagrado."
+        },
+        {
+            "id": 9,
+            "content": "…O riso de autoescárnio de Gregor só parece doloroso."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Só que o ruim é… que, para me chamar, a pessoa tinha de vir para trás do lugar onde eu sentava."
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Os figurões de cargo alto, esses bastava chamarem lá de longe, 'ei~ Recruta-Especial~'."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Mas, quando vinham por trás… eu ficava com as pernas bambas, com medo de cometer algum erro."
+        },
+        {
+            "id": 13,
+            "model": "모제스4",
+            "content": "Seleção de Recrutamento Especial de Pós-Guerra… então."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Se não fosse uma coisa dessas, quem ia me contratar? E mesmo nisso havia mais gente abaixo do requisito."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Eu fui dos que tiveram sorte…"
+        },
+        {
+            "id": 16,
+            "model": "그레고르네부장",
+            "teller": "???",
+            "title": "???",
+            "content": "Senhor Gregor?"
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "Eep?! Diretor Ted?!"
+        },
+        {
+            "id": 18,
+            "content": "Quando Gregor, às pressas, segurou o braço e se virou, ali estava um homem de aparência asseada que eu via pela primeira vez."
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 20,
+            "model": "그레고르네부장",
+            "content": "É o senhor Gregor, sim."
+        },
+        {
+            "id": 21,
+            "model": "그레고르네부장",
+            "content": "E as pessoas ao lado, que eu nunca vi…"
+        },
+        {
+            "id": 22,
+            "model": "그레고르네부장",
+            "content": "Ah. Aah! A equipe ao lado tinha pedido para esvaziar a sala de reunião porque hoje marcaram uma reunião com um cliente; devem ser essas pessoas."
+        },
+        {
+            "id": 23,
+            "model": "그레고르네부장",
+            "content": "Vendo o seu crachá, você mudou de emprego para outro lugar. Não foi?"
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "Ã-ãn… o senhor… tem passado bem?"
+        },
+        {
+            "id": 25,
+            "model": "그레고르네부장",
+            "content": "Parece que sim? Continua tudo igual. Como não tenho para onde ir, estou aqui entocado~"
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "A-ahaha…"
+        },
+        {
+            "id": 27,
+            "model": "그레고르네부장",
+            "content": "Você, bom… trabalhava com afinco e empenho. Pelo visto havia algum lugar que te chamou."
+        },
+        {
+            "id": 28,
+            "model": "그레고르네부장",
+            "content": "Lá pagam bem? Dá para viver? Aquilo, era uma moeda comemorativa… ou uma medalha… aquela que você disse que ia vender porque a vida estava dura, deram um bom preço?"
+        },
+        {
+            "id": 29,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 30,
+            "model": "그레고르네부장",
+            "content": "Bom… perguntar se dá para viver na Cidade é… realmente não há o que responder, né?"
+        },
+        {
+            "id": 31,
+            "model": "그레고르네부장",
+            "content": "Hmf. Então, pois é… lá também não tem uns caras enchendo o saco com essa de 'recruta especial'?"
+        },
+        {
+            "id": 32,
+            "model": "그레고르",
+            "content": "Não tem. Uma coisa dessas, nem de longe…"
+        },
+        {
+            "id": 33,
+            "model": "그레고르네부장",
+            "content": "Então tá ótimo~ Quando eu lembro do que aquele diretor-executivo desgraçado fazia com você, aff. Quem ouvisse pensaria que foi ele que tinha ido para a guerra."
+        },
+        {
+            "id": 34,
+            "model": "그레고르네부장",
+            "content": "Acabou faz anos, e ele ainda com aquela de 'na época da guerra eu me virei pedindo esmola~ é preciso transformar a crise em oportunidade~' e blá-blá-blá~"
+        },
+        {
+            "id": 35,
+            "model": "그레고르",
+            "content": "Há, haha."
+        },
+        {
+            "id": 36,
+            "model": "그레고르",
+            "content": "…Aquele cara, ainda anda na sauna em horário de expediente e tal?"
+        },
+        {
+            "id": 37,
+            "model": "그레고르네부장",
+            "content": "Haha, é isso mesmo. Continua difícil de ver ele sentado no escritório."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "Hu-haha…"
+        },
+        {
+            "id": 39,
+            "model": "그레고르네부장",
+            "content": "E olha só. Depois de ficar estalando a língua para os recrutas especiais, chamando eles de paraquedistas, você sabe o que apareceu no comunicado de pessoal há pouco?"
+        },
+        {
+            "id": 40,
+            "model": "그레고르네부장",
+            "content": "Aquele cara foi flagrado recebendo dinheiro por baixo do pano, num lobby, na hora de selecionar o escritório de Solucionadores parceiro~ ha. Daqui a uns dias ele vai ter de tirar a mesa daqui."
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "Mas… ele não era parente do presidente?"
+        },
+        {
+            "id": 42,
+            "model": "그레고르네부장",
+            "content": "O dinheiro que ele embolsou não era pouca coisa, não~ agora, no escritório, onde se juntam três pessoas ou mais, é só esse assunto, tudo."
+        },
+        {
+            "id": 43,
+            "model": "그레고르네부장",
+            "content": "Vivendo assim, eu acho que os sujeitos que se apegam de um jeito estranho a coisas do passado e ficam presos a elas são todos assim."
+        },
+        {
+            "id": 44,
+            "model": "그레고르네부장",
+            "content": "É porque o eu de agora é deselegante que a pessoa se apega ao passado. Acha que naquela época meio que brilhava."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "…!"
+        },
+        {
+            "id": 46,
+            "model": "그레고르네부장",
+            "content": "Antes gente como eu, de origem dos becos e sem padrinho, ora."
+        },
+        {
+            "id": 47,
+            "model": "그레고르네부장",
+            "content": "Como o passado é pre~ tíssimo, aconteça o que acontecer, o futuro só pode ser mais claro, não pior, eu acho."
+        },
+        {
+            "id": 48,
+            "model": "그레고르",
+            "content": "Parece que o senhor já dizia isso antigamente também."
+        },
+        {
+            "id": 49,
+            "model": "그레고르네부장",
+            "content": "Cra-ha-há! É que esta é a minha filosofia de meia-tigela~"
+        },
+        {
+            "id": 50,
+            "model": "그레고르네부장",
+            "content": "Ai, meu Deus. Mas eu falei demais e deixei o pessoal do cliente aí parado, à toa. Olha, peço desculpas."
+        },
+        {
+            "id": 51,
+            "model": "단테",
+            "content": "<A-ah, não.>"
+        },
+        {
+            "id": 52,
+            "model": "그레고르네부장",
+            "content": "Ué? Uma prótese mecânica curiosa…"
+        },
+        {
+            "id": 53,
+            "model": "모제스4",
+            "content": "…Nós estamos bem. Mais do que isso, aqueles papéis, o senhor não estava a caminho de pô-los para aprovação?"
+        },
+        {
+            "id": 54,
+            "model": "그레고르네부장",
+            "content": "Ai, ai, olha a minha cabeça… obrigado. Vou ouvir de novo uma bronca por estar atrasado."
+        },
+        {
+            "id": 55,
+            "model": "그레고르네부장",
+            "content": "Enfim, senhor Gregor. Da próxima a gente bebe um trago~ hã?"
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "content": "…Sim. Se houver oportunidade."
+        },
+        {
+            "id": 57,
+            "content": "Aquele homem, que parecia ter sido colega de Gregor, acenou a mão de modo descontraído e caminhou, atarefado, para outro lugar."
+        },
+        {
+            "id": 58,
+            "model": "홍루",
+            "content": "Hehe. O jeito de falar é igualzinho ao do senhor Gregor~"
+        },
+        {
+            "id": 59,
+            "model": "그레고르",
+            "content": "Hã. Por mais que seja, o meu jeito de falar, em comparação ao do diretor, é…"
+        },
+        {
+            "id": 60,
+            "model": "모제스4",
+            "content": "Ufa…"
+        },
+        {
+            "id": 61,
+            "content": "Moses, que observava a conversa entre Gregor e o colega dele, soprou de leve a fumaça do cachimbo e abriu lentamente a boca."
+        },
+        {
+            "id": 62,
+            "model": "모제스4",
+            "content": "As pessoas que voltaram da guerra cometem, sem falta, um certo equívoco."
+        },
+        {
+            "id": 63,
+            "model": "모제스4",
+            "content": "Dizer 'lembre-se' é apenas dizer 'não esqueça'."
+        },
+        {
+            "id": 64,
+            "model": "모제스4",
+            "content": "Não é dizer 'recorde todo dia e sofra'."
+        },
+        {
+            "id": 65,
+            "model": "모제스4",
+            "content": "Eu também, e Ezra também… gastamos um bom tempo corrigindo esse equívoco."
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "content": "…É que não é por querer que se lembra."
+        },
+        {
+            "id": 67,
+            "model": "모제스4",
+            "content": "Já que se chegou a não esquecer."
+        },
+        {
+            "id": 68,
+            "model": "모제스4",
+            "content": "Não esqueça também o fato de que a guerra terminou."
+        },
+        {
+            "id": 69,
+            "model": "그레고르",
+            "content": "……."
+        },
+        {
+            "id": 70,
+            "model": "그레고르",
+            "content": "Pois é."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "Isso também é uma fala acertada."
+        },
+        {
+            "id": 72,
+            "content": "Gregor fitou o próprio braço direito por um tempo e, depois de ponderar longamente, a custo abriu a boca."
+        },
+        {
+            "id": 73,
+            "model": "그레고르",
+            "content": "…Caro Gerente."
+        },
+        {
+            "id": 74,
+            "model": "그레고르",
+            "content": "Olha, sinceramente eu não posso garantir, mas… parece que viver de modo sereno é o melhor."
+        },
+        {
+            "id": 75,
+            "model": "그레고르",
+            "content": "Com isto vai ficar tudo bem? Eu, vá lá, mas quem vai penar é o caro Gerente, todo o trabalho."
+        },
+        {
+            "id": 76,
+            "content": "Toda vez que via pessoas sofrendo com a vida, Gregor dizia, como um bordão."
+        },
+        {
+            "id": 77,
+            "content": "Que, ainda assim, seguissem vivendo."
+        },
+        {
+            "id": 78,
+            "content": "Os olhos de Gregor ao dizer essas palavras eram sempre tão sinceros e tão intensos a ponto de serem turvos."
+        },
+        {
+            "id": 79,
+            "content": "Sente-se que o olhar de Gregor, que era assim, está, ainda que um pouco, mais aberto."
+        },
+        {
+            "id": 80,
+            "content": "Embora, por estarem passando nuvens carregadas, apenas escape um pouco de luz… e para ficar de céu claro ainda seja preciso muito mais tempo."
+        },
+        {
+            "id": 81,
+            "model": "단테",
+            "content": "<Claro. Vai ficar tudo bem.>"
+        },
+        {
+            "id": 82,
+            "content": "Ter se livrado, ainda que um pouco, da inquietação do passado não será um grande avanço?"
+        },
+        {
+            "id": 83,
+            "place": "Crumbling Corridor of the Thumb Nursefather",
+            "content": "Quando saímos da porta assim, ali estava Outis, de arma em punho, olhando para outra direção."
+        },
+        {
+            "id": 84,
+            "content": "Agora que penso, parece que ela nem chegou a entrar conosco pela porta…"
+        },
+        {
+            "id": 85,
+            "model": "단테",
+            "content": "<Ué? Outis, você não entrou junto?>"
+        },
+        {
+            "id": 86,
+            "model": "오티스",
+            "content": "…Sim. Conforme as palavras daquele Allen, ele disse que era preciso alguém permanecer do lado de fora da porta para verificar."
+        },
+        {
+            "id": 87,
+            "model": "오티스",
+            "content": "Por isso eu fiquei, mas…"
+        },
+        {
+            "id": 88,
+            "model": "야수파2",
+            "content": "……."
+        },
+        {
+            "id": 89,
+            "model": "뉴키라",
+            "content": "Eca…! Aqueles infelizes apareceram de novo?"
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "content": "…Os corredores não deveriam ser um lugar por onde aqueles novatos pudessem andar por conta própria."
+        },
+        {
+            "id": 91,
+            "model": "오티스",
+            "content": "Como podem ver, intrusos saíram de outra porta e estávamos em confronto."
+        },
+        {
+            "id": 92,
+            "content": "Mal Outis terminou de falar, membros dos Fauvistas começaram a sair de outra porta dos fundos."
+        },
+        {
+            "id": 93,
+            "content": "Pelo visto eles pretendem ir assim até o Corredor do Anelar, mas…"
+        },
+        {
+            "id": 94,
+            "model": "단테",
+            "content": "<A gente topou com eles, não dá para fingir que não viu.>"
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Por ora, vamos varrer todos eles.>"
+        }
+    ]
+}

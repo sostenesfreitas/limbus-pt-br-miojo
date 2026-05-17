@@ -1,0 +1,566 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Kezhan - Aposento",
+            "content": "Depois de terminada a pequena luta de vida ou morte."
+        },
+        {
+            "id": 1,
+            "content": "Quando todos iam se dispersar para os quartos individuais, de repente Outis começou uma resistência feroz."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "O senhor vai ficar bem mesmo, Gerente…?!"
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Eu já disse que tá tudo bem… no ônibus também era quase sempre eu que ficava de vigília.>"
+        },
+        {
+            "id": 4,
+            "model": "오티스",
+            "content": "Ora, isso é verdade, mas é que dormir num lugar tão incerto como este é coisa rara…"
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "content": "De qualquer modo é o quarto bem ao lado… se acontecer alguma coisa, não leva nem 5 segundos para você passar para cá."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Numa situação extrema, a diferença de 1 segundo…"
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Vamos, vamos… maninha vice~ a gente vai saindo~"
+        },
+        {
+            "id": 8,
+            "content": "Ouviram-se uma cena já vista um dia e o som de alguém sendo arrastado para fora… e em seguida o som de uma porta a se fechar de mansinho."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Que silêncio…>"
+        },
+        {
+            "id": 10,
+            "content": "No alojamento onde só restou o silêncio, eu me sento na beira da cama e relaxo os ombros por um instante."
+        },
+        {
+            "id": 11,
+            "content": "Eu não preciso de sono como os Pecadores, mas, como sentir cansaço comigo é igual, eu preciso, periodicamente, de um tempo para fechar a visão e esvaziar a mente sem pensar em nada."
+        },
+        {
+            "id": 12,
+            "content": "Eu até me acostumei bastante, mas é fato que a dor sentida ao reverter o tempo dos Pecadores ainda é penosa, e…"
+        },
+        {
+            "id": 13,
+            "content": "Quanto mais longa a jornada se torna, mais frequente fica também o ferimento dos Pecadores e, na medida em que eles ficam mais fortes, os inimigos que encontram também ficam mais fortes — por isso o meu relógio tem de girar de volta sempre atarefado."
+        },
+        {
+            "id": 14,
+            "place": "-1",
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 15,
+            "content": "É por isso que eu evoco a estrela no pensamento."
+        },
+        {
+            "id": 16,
+            "content": "Diante do enorme portal que enfrento a cada vez para ressuscitar os Pecadores, sentindo uma vibração silenciosa, eu contemplo os entalhes gravados densamente nele."
+        },
+        {
+            "id": 17,
+            "content": "O significado deles, mesmo agora, passado um ano, eu não consegui de modo algum decifrar… mas, pelo contrário, quando os contemplo sem pensar em nada, às vezes sinto até uma sensação de calma."
+        },
+        {
+            "id": 18,
+            "content": "Hoje, parece que se sente algo como… uma brisa fresca."
+        },
+        {
+            "id": 19,
+            "content": "Não… mais do que fresca, é algo como…"
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<Está gelada…?>"
+        },
+        {
+            "id": 21,
+            "content": "É impossível que uma brisa tão suave abra aquela janela empurrando-a. Ainda mais: uma janela aberta pelo vento não teria como se abrir tão silenciosamente."
+        },
+        {
+            "id": 22,
+            "content": "E, acima de tudo… este frio não vem da frente."
+        },
+        {
+            "id": 23,
+            "content": "O que eu vi ao virar o olhar para o lugar onde ficava a janela foi…"
+        },
+        {
+            "id": 24,
+            "place": "Kezhan Derretida - Aposento",
+            "content": "uma das paredes, derretida de repente, e, por entre ela, uma pessoa de identidade desconhecida que dela irrompera."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<Q-quem é você?!>"
+        },
+        {
+            "id": 26,
+            "model": "흑수묘",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 27,
+            "content": "Talvez o instinto de sobrevivência tenha agido, pois eu, por instinto, escapei da cama como quem rola para fora dela, mas…"
+        },
+        {
+            "id": 28,
+            "content": "Sem que se notasse, um punhal de arremesso fino e comprido reluzia no ponto onde a cabeça encontra o pescoço."
+        },
+        {
+            "id": 29,
+            "content": "Uma posição em que, se eu fosse perfurado assim, parecia que eu morreria sem conseguir emitir nem um tique-taque."
+        },
+        {
+            "id": 30,
+            "content": "A preocupação exagerada de Outis me veio de repente à cabeça."
+        },
+        {
+            "id": 31,
+            "content": "Eu… devia ter dado ouvidos a ela."
+        },
+        {
+            "id": 32,
+            "content": "No instante em que, lamentando não ter escutado as palavras de Outis, eu ia esboçar um último esperneio…"
+        },
+        {
+            "id": 33,
+            "model": "흑수묘",
+            "teller": "???",
+            "title": "???",
+            "content": "Crgh…"
+        },
+        {
+            "id": 34,
+            "model": "료슈",
+            "content": "Que faca lamentavelmente fina."
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "Com isso aí, dá pra você de.ca.pi.tar?"
+        },
+        {
+            "id": 36,
+            "content": "Ryōshū, que de repente saltou do teto, aparou o punhal do agressor."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<R-Ryōshū…!>"
+        },
+        {
+            "id": 38,
+            "model": "료슈",
+            "content": "Eu me escondi aqui achando que ia surgir um bom espetáculo… mas quem diria que ia topar com uma fera que só usa uma lâmina dessas."
+        },
+        {
+            "id": 39,
+            "content": "Diante daquelas palavras, ao olhar para o teto, havia um buraco aberto, como tinta a escorrer, igual ao que eu vira quando conversava com Hong Lu há pouco, e…"
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "Gerente! O senhor está bem?!"
+        },
+        {
+            "id": 41,
+            "content": "…Outis também estava lá."
+        },
+        {
+            "id": 42,
+            "model": "오티스",
+            "content": "Quem informou que dava para observar escondida no teto foi esta Outis! Lembre-se disso!"
+        },
+        {
+            "id": 43,
+            "model": "료슈",
+            "content": "Pare… com a baboseira… e ajude logo. Crgh…"
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "Oh, para quem chamou ele de fera, você está penando, hein?"
+        },
+        {
+            "id": 45,
+            "model": "료슈",
+            "content": "…Se fosse antes de eu embarcar no ônibus, com certeza eu teria rachado o tronco dele junto com a lâmina."
+        },
+        {
+            "id": 46,
+            "place": "Equipe de Pesquisa da LCE\nAla de Experimentos",
+            "model": "호엔하임",
+            "content": "Vocês, ao ingressar, tiveram todos os atributos rebaixados. É um nivelamento por baixo."
+        },
+        {
+            "id": 47,
+            "content": "De repente, as palavras que Hohenheim dissera passaram pela minha cabeça."
+        },
+        {
+            "id": 48,
+            "content": "Eu sabia disso por alto… mas era a isto que ele se referia."
+        },
+        {
+            "id": 49,
+            "place": "Kezhan Derretida - Aposento",
+            "model": "료슈",
+            "content": "Sem. cré.di.to. Es.tu.pe.fa.ção."
+        },
+        {
+            "id": 50,
+            "content": "Quando Ryōshū, dizendo isso, estava com a atenção presa numa das lâminas…"
+        },
+        {
+            "id": 51,
+            "content": "o sujeito sinistro sacou da outra mão mais um punhal e, sem mais, traçou um arco em direção ao pescoço de Ryōshū."
+        },
+        {
+            "id": 52,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "É um Heishou…"
+        },
+        {
+            "id": 53,
+            "content": "…Se não fosse Wei, que surgiu arrombando a porta, teria atingido em cheio o pescoço de Ryōshū."
+        },
+        {
+            "id": 54,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Quem é que comanda vocês agora?"
+        },
+        {
+            "id": 55,
+            "model": "흑수묘",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 56,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "…Não há como haver uma conversa, então."
+        },
+        {
+            "id": 57,
+            "model": "흑수묘",
+            "teller": "???",
+            "title": "???",
+            "content": "Gwang-bul-ip Hongwon… seong-chu-gi-jung-ya…"
+        },
+        {
+            "id": 58,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "…! Ah… crgh…"
+        },
+        {
+            "id": 59,
+            "content": "O invasor, que murmurava coisas indecifráveis, enfiou a mão para dentro do próprio peito, e…"
+        },
+        {
+            "id": 60,
+            "model": "료슈",
+            "content": "Esse desgraçado… não me diga, um talismã…"
+        },
+        {
+            "id": 61,
+            "model": "흑수묘",
+            "teller": "???",
+            "title": "???",
+            "content": "…Cuc!"
+        },
+        {
+            "id": 62,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Wei! Você não vai cair em si?"
+        },
+        {
+            "id": 63,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Senhorita!"
+        },
+        {
+            "id": 64,
+            "content": "No instante em que o murmúrio ia se elevando aos poucos… o leque de Jia Shichun, que surgiu logo atrás, golpeou o sujeito sinistro."
+        },
+        {
+            "id": 65,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Você pretendia deixar ele recitar aquele encantamento ralo todinho? Mais um pouquinho e aquele talismã da Firma Q ia funcionar!"
+        },
+        {
+            "id": 66,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Desculpe… pelo visto eu ainda sofro o efeito daquele encantamento…"
+        },
+        {
+            "id": 67,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Você não é mais um Heishou. Você é o meu braço direito. Lembre-se de que não precisa mais se deixar levar por uma coisa daquelas."
+        },
+        {
+            "id": 68,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "…Sim. Perdão."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<Haa… haa…>"
+        },
+        {
+            "id": 70,
+            "content": "Talvez por a tensão ter afrouxado, eu acabei me deitando na cama, como quem desaba."
+        },
+        {
+            "id": 71,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Você…! Ah, de qualquer modo a gente não se entende mesmo…"
+        },
+        {
+            "id": 72,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Ele não chegou a pôr a mão no corpo dele. Porque eu barrei antes disso…"
+        },
+        {
+            "id": 73,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Entendi. Por ora, parece que era só um, então deixa eu acender a luz primeiro…"
+        },
+        {
+            "id": 74,
+            "content": "Clec."
+        },
+        {
+            "id": 75,
+            "content": "Junto com o som da luz se acendendo, o que entrou no campo de visão foi…"
+        },
+        {
+            "id": 76,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Esse infeliz é… do 'Mao'?!"
+        },
+        {
+            "id": 77,
+            "content": "a figura do assassino caído, com um grande chapéu de palha preto enfiado na cabeça, e…"
+        },
+        {
+            "id": 78,
+            "model": "단테",
+            "content": "<A parede…?!>"
+        },
+        {
+            "id": 79,
+            "content": "A parede, que até antes de eu dormir, ainda que ondulasse, parecia sólida, estava se derretendo como se fosse líquida."
+        },
+        {
+            "id": 80,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "No fim, o próprio edifício… tem algo de estranho."
+        },
+        {
+            "id": 81,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Eu sabia, no máximo, que tinham feito algum truque no edifício, mas…"
+        },
+        {
+            "id": 82,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Por que… um Heishou."
+        },
+        {
+            "id": 83,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Há de ser que havia mais respaldo por trás do que se pensava. Não é só gente que grudou na gente, empolgada com a seleção do Patriarca."
+        },
+        {
+            "id": 84,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "O que não dá para entender é… por que o Mao… se a intenção fosse só arrancar a cabeça deste relógio, haveria Heishou mais eficientes…"
+        },
+        {
+            "id": 85,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Será que o objetivo não é esse?"
+        },
+        {
+            "id": 86,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Sim. Se é o Heishou… Mao, com certeza não foi só este aqui que se infiltrou. Não chegam a ser como o Heishou 'Zi', mas são coisas que andam em bando."
+        },
+        {
+            "id": 87,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "O que eles desejam, provavelmente… é o extermínio total dos hóspedes desta Kezhan, a senhorita incluída."
+        },
+        {
+            "id": 88,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Sendo assim… tch, é preciso garantir, antes de tudo, um espaço onde não sejamos cercados de imediato, para conseguir sair daqui com vida."
+        },
+        {
+            "id": 89,
+            "model": "돈키호테",
+            "content": "Dante!!"
+        },
+        {
+            "id": 90,
+            "content": "Naquele instante, a porta se escancarou e os Pecadores entraram correndo."
+        },
+        {
+            "id": 91,
+            "model": "돈키호테",
+            "content": "V-vocês…"
+        },
+        {
+            "id": 92,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "O agradecimento fica para depois. Se a gente não se mexer agora, morre todo mundo. Wei!"
+        },
+        {
+            "id": 93,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Sim."
+        },
+        {
+            "id": 94,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "É tarde para entrar em contato com o grosso da nossa força, que deve estar na casa-mãe. Para sair daqui vivos com pouca gente… você sabe, não?"
+        },
+        {
+            "id": 95,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Às suas ordens, senhorita."
+        },
+        {
+            "id": 96,
+            "content": "Assim que confirmaram a entrada dos Pecadores, Jia Shichun e Wei saíram correndo, como que numa troca de turno, e…"
+        },
+        {
+            "id": 97,
+            "content": "Diante de mim postaram-se Outis, de expressão complexa e ambígua, Donquixote e Gregor, que vigiavam os arredores com o rosto afogueado, e Meursault, já coberto de marcas de combate por toda parte."
+        },
+        {
+            "id": 98,
+            "model": "오티스",
+            "content": "…Eu simplesmente não tenho como encarar o senhor. Deixar que alguém de outra filiação protegesse o Gerente."
+        },
+        {
+            "id": 99,
+            "model": "료슈",
+            "content": "Tch…"
+        },
+        {
+            "id": 100,
+            "model": "단테",
+            "content": "<Não, eu é que devia ter dado ouvidos a você…>"
+        },
+        {
+            "id": 101,
+            "model": "뫼르소",
+            "content": "A julgar pela forma como as paredes se derretem, parece que invadiram todos os Pecadores do mesmo modo."
+        },
+        {
+            "id": 102,
+            "model": "단테",
+            "content": "<…Isso. Vocês também foram emboscados por um daqueles de chapéu de palha?>"
+        },
+        {
+            "id": 103,
+            "model": "돈키호테",
+            "content": "Não era um só, caro Gerente. Vieram em bando, mas… foi tão silencioso que não dava para imaginar um ataque de vários. Por pouco…"
+        },
+        {
+            "id": 104,
+            "model": "그레고르",
+            "content": "Aff… não é 'por pouco' coisa nenhuma. Eu dei uma olhada no caminho e alguns dos nossos se deram mal. Morreram trespassados por uma faca ao sair."
+        },
+        {
+            "id": 105,
+            "model": "단테",
+            "content": "<Então, no fim… aquilo que ele disse ser um tabu…>"
+        },
+        {
+            "id": 106,
+            "model": "오티스",
+            "content": "Sim. Há de ser mentira."
+        },
+        {
+            "id": 107,
+            "model": "돈키호테",
+            "content": "Esse… ufa."
+        },
+        {
+            "id": 108,
+            "model": "돈키호테",
+            "content": "Um ataque furtivo desses não é coisa justa, mas… agora não é hora de discutir isso."
+        },
+        {
+            "id": 109,
+            "model": "오티스",
+            "content": "Sim, é isso. E…"
+        },
+        {
+            "id": 110,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 111,
+            "model": "오티스",
+            "content": "Pelo visto eles ainda não desistiram de nós."
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "단테",
+            "content": "<Still no signal?>"
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "... None. We've got no way to tell how everyone else is faring..."
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Bom, não deve ter acontecido nada de grave... pois quem não tem notícias tem boas notícias."
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "content": "A senhorita Alisa também... continua me preocupando. Tomara que se consiga encontrar logo um meio de resolver, antes que aquela espiral se crave mais fundo..."
+        },
+        {
+            "id": 4,
+            "model": "검지제자2",
+            "content": "Spiral...?"
+        },
+        {
+            "id": 5,
+            "model": "검지제자2",
+            "content": "Ah, a arma feita naquele atelier, é isso? Aquela que só dá para destravar tendo a senha!"
+        },
+        {
+            "id": 6,
+            "model": "이상",
+            "content": "Indeed... A troublesome thing."
+        },
+        {
+            "id": 7,
+            "model": "검지제자2",
+            "content": "Hum... eu, eu sei o princípio, mas a senha só quem a inseriu deve saber; ma-mas eu também vou fazer o meu melhor pra descobrir!"
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 9,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Oh, isso é gentil. Mas, pelo visto, a senhora Sora tem muito interesse por equipamento de atelier?"
+        },
+        {
+            "id": 11,
+            "model": "검지제자2",
+            "content": "Sim! É assim desde muito tempo atrás. Foi por isso, pelo visto, que eu pude vir parar aqui."
+        },
+        {
+            "id": 12,
+            "model": "라비",
+            "content": "Hum...? Então não é a LCE, mas a L..."
+        },
+        {
+            "id": 13,
+            "model": "료슈",
+            "content": "Hey. Rookie."
+        },
+        {
+            "id": 14,
+            "model": "라비",
+            "content": "Yes?"
+        },
+        {
+            "id": 15,
+            "model": "료슈",
+            "content": "Você está atrapalhando o meu campo de visão. Vá para trás."
+        },
+        {
+            "id": 16,
+            "model": "라비",
+            "content": "Ah... peço desculpas."
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<…?>"
+        },
+        {
+            "id": 18,
+            "content": "Diante da ordem cínica de Ryoshu, Ravi recuou com uma expressão sem graça."
+        },
+        {
+            "id": 19,
+            "content": "Em circunstâncias normais... tanto Gregor quanto Yi Sang... era uma situação em que provavelmente dariam uma reprimenda, dizendo para não tratar assim alguém que se acabou de conhecer; mas talvez fosse porque a situação era a que era."
+        },
+        {
+            "id": 20,
+            "content": "Os dois fitaram Ravi, que recuava com calma, e então deram, de leve, um passo à frente."
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "content": "Então, senhora Sora, vamos andando enquanto a gente conversa sobre produtos de atelier. A gente sabe menos sobre ateliês do que parece."
+        },
+        {
+            "id": 22,
+            "model": "검지제자2",
+            "content": "R-really? Sure, I like talking to people."
+        },
+        {
+            "id": 23,
+            "model": "라비",
+            "content": "<i>I</i> do as well..."
+        },
+        {
+            "id": 24,
+            "model": "이상",
+            "content": "Ah, era senhor Ravi, não era? Também vós, condizente com o temperamento próprio de um pesquisador, pareceis ter um bom interesse por tecnologias novas."
+        },
+        {
+            "id": 25,
+            "model": "이상",
+            "content": "Vinde trocar uma breve conversa comigo e com o nosso Gerente."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<But why...?>"
+        },
+        {
+            "id": 27,
+            "model": "라비",
+            "content": "But why...?"
+        },
+        {
+            "id": 28,
+            "model": "이상",
+            "content": "Ohoo, fico contente que Dante também concorde. Pois bem, nós três havemos de poder ter uma discussão acadêmica de boa profundidade."
+        },
+        {
+            "id": 29,
+            "content": "Ao ser incluído na reunião acadêmica de Yi Sang, formada de modo um tanto desajeitado e súbito, acabei caminhando um passo atrás de Gregor e da pessoa chamada Sora."
+        },
+        {
+            "id": 30,
+            "model": "검지제자2",
+            "content": "Obrigada a todos por me tratarem com tanta ge-gentileza assim."
+        },
+        {
+            "id": 31,
+            "model": "검지제자2",
+            "content": "Eu gosto de gente ge-gentil. Os meus colegas não são assim. Po-por isso eu costumo ficar meio de fora. Desta vez também, por ter me perdido nos meus pensamentos e ficado pra trás sozinha, com certeza só vou levar bronca."
+        },
+        {
+            "id": 32,
+            "model": "그레고르",
+            "content": "Ora, por pior que seja, eles iriam tratar com aspereza uma pesquisadora que voltou viva e ilesa...? Olha, você nem estragou completamente a operação; ficou na média."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<That's true enough...>"
+        },
+        {
+            "id": 34,
+            "content": "Veio-me à mente os planos que nós estragamos — mais precisamente, os planos do Sword que nós estragamos — e o meu coração se confundiu."
+        },
+        {
+            "id": 35,
+            "model": "검지제자2",
+            "content": "Ah, e-esta pessoa, pelo visto, é a líder de vocês."
+        },
+        {
+            "id": 36,
+            "model": "료슈",
+            "content": "You're bad at reading people."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<...Você quer dizer que ela não é digna de confiança?>"
+        },
+        {
+            "id": 38,
+            "model": "료슈",
+            "content": "Heh. I'm saying you're more than just a \"leader.\""
+        },
+        {
+            "id": 39,
+            "content": "...Não me pareceu que Ryoshu de fato pensasse assim, mas, por ora, assenti com a cabeça, sem muita vontade."
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "content": "Mm. I concur."
+        },
+        {
+            "id": 41,
+            "model": "검지제자2",
+            "content": "Como eu imaginava, o se-senhor Dante é que é o líder."
+        },
+        {
+            "id": 42,
+            "model": "검지제자2",
+            "content": "É que eu acho que o lí-líder... é melhor que seja alguém de quem não se sabe o que está pensando."
+        },
+        {
+            "id": 43,
+            "model": "검지제자2",
+            "content": "Ser imprevisível é mais le-legal, não é?"
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<I-is it?>"
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Por que essa vergonha?"
+        },
+        {
+            "id": 46,
+            "model": "검지제자2",
+            "content": "E-eu também decidi me juntar a este lugar porque achei esse tipo de gente legal. Originalmente eu estava num ou-outro escritório, mas, digamos que fui recrutada."
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "content": "Recrutada... agora que penso, nós doze também fomos, pela senhorita Faust, alvo disso a que se chama recrutamento."
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "content": "Senhorita Ryoshu, também vós... arrancastes da senhorita Faust uma promessa?"
+        },
+        {
+            "id": 49,
+            "model": "료슈",
+            "content": "Yeah."
+        },
+        {
+            "id": 50,
+            "model": "이상",
+            "content": "Pode ser uma confissão vergonhosa, mas... como já a deixei para trás, eu a direi."
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "content": "Eu, ao que parece, não consegui crer de todo o coração que aquelas palavras que a senhorita Faust pronunciou viriam, no fim, a se cumprir."
+        },
+        {
+            "id": 52,
+            "model": "이상",
+            "content": "Na época, eu as julgava palavras de sonho."
+        },
+        {
+            "id": 53,
+            "model": "이상",
+            "content": "Se eu tivesse tido um pouco mais de convicção, talvez não tivesse passado os anos que se foram afundando daquele modo..."
+        },
+        {
+            "id": 54,
+            "model": "이상",
+            "content": "Mas vós, desde a primeira vez que subistes ao ônibus... ao menos não pareceis ter duvidado das palavras da senhorita Faust."
+        },
+        {
+            "id": 55,
+            "model": "료슈",
+            "content": "... Hmph."
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "content": "Bem que é... pensando bem, a pessoa com mais cantos por onde poderia descarrilar é quem vinha resolvendo melhor o serviço, viu?"
+        },
+        {
+            "id": 57,
+            "content": "Pensando bem, Ryoshu costumava agir como quem faz as coisas a contragosto, mas nunca, nem uma vez, se obstinou dizendo que não gostava."
+        },
+        {
+            "id": 58,
+            "content": "Mesmo sendo um contrato... se ela tivesse, ao menos pela metade, duvidado das palavras de que o desejo dela seria atendido, não me parece que teria seguido a mim e a Vergílio até este ponto..."
+        },
+        {
+            "id": 59,
+            "model": "료슈",
+            "content": "Eu também não acreditei desde o começo."
+        },
+        {
+            "id": 60,
+            "model": "료슈",
+            "content": "Foi que eu não pude deixar de acreditar."
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "content": "White Hair..."
+        },
+        {
+            "id": 62,
+            "model": "료슈",
+            "content": "Foi assim que ela começou a falar."
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "content": "\"It's remarkable...\""
+        },
+        {
+            "id": 64,
+            "place": -1,
+            "model": "파우스트",
+            "content": "It's remarkable..."
+        },
+        {
+            "id": 65,
+            "model": "파우스트",
+            "content": "Não se rompeu. Aquele fio único."
+        },
+        {
+            "id": 66,
+            "model": "과거료슈3",
+            "content": "...O que foi que você viu para falar assim?"
+        },
+        {
+            "id": 67,
+            "model": "파우스트",
+            "content": "Porque o sangue daquilo que cortou você, e também daquilo que você veio cortando... está impregnado nele, traçando uma linha reta de um vermelho vívido."
+        },
+        {
+            "id": 68,
+            "model": "파우스트",
+            "content": "Aquele lugar... é um espaço que somente você pode abrir. Por mais que seja no centro da Teia, não haverá meio algum de eles o abrirem."
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "Eu gostaria de dizer que, dentro da situação dada, você fez uma escolha sábia."
+        },
+        {
+            "id": 70,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 71,
+            "model": "과거료슈3",
+            "content": "Who sent you?"
+        },
+        {
+            "id": 72,
+            "model": "과거료슈3",
+            "content": "Agora que saí de lá tendo cortado, com as minhas próprias mãos, até aquelas coisas chamadas Pais, você acha que eu não cortaria uma língua reles de três polegadas como a sua?"
+        },
+        {
+            "id": 73,
+            "model": "파우스트",
+            "content": "Eu sei. Como você veio até aqui cortando até o interior da própria cabeça, se ganhasse a convicção de que eu sou, ainda que minimamente, alguém que se opõe ao seu objetivo, você me mataria sem hesitar."
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Como você escondeu a criança num lugar que agora ninguém consegue abrir, resta esperar o dia de tirá-la de lá."
+        },
+        {
+            "id": 75,
+            "model": "파우스트",
+            "content": "O tempo não será nem curto nem longo. Decerto você ajustou o disco com segurança, para algo dentro de cinco anos."
+        },
+        {
+            "id": 76,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Se você vier comigo, antes de passados dois anos, eu farei com que você possa destruir a Teia e reencontrar a sua filha."
+        },
+        {
+            "id": 78,
+            "model": "과거료슈3",
+            "content": "Você está propondo firmar um contrato? Sendo assim, em troca disso, quem é que eu tenho de matar?"
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 80,
+            "model": "파우스트",
+            "content": "Not kill. Save."
+        },
+        {
+            "id": 81,
+            "model": "과거료슈3",
+            "content": "Save?"
+        },
+        {
+            "id": 82,
+            "model": "파우스트",
+            "content": "Face the sin..."
+        },
+        {
+            "id": 83,
+            "model": "파우스트",
+            "content": "Save the E.G.O."
+        },
+        {
+            "id": 84,
+            "model": "파우스트",
+            "content": "É a primeira frase que você deve guardar na memória aqui, na Limbus Company."
+        },
+        {
+            "id": 85,
+            "model": "과거료슈3",
+            "content": "... Dizzying."
+        },
+        {
+            "id": 86,
+            "model": "파우스트",
+            "content": "Foi difícil?"
+        },
+        {
+            "id": 87,
+            "model": "과거료슈3",
+            "content": "...É que faz tempo que eu não fumava."
+        },
+        {
+            "id": 88,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<O lugar onde você escondeu a sua filha... é seguro?>"
+        },
+        {
+            "id": 90,
+            "model": "료슈",
+            "content": "Yeah."
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "content": "O interior daquele lugar... quase não sofre a influência do tempo de fora."
+        },
+        {
+            "id": 92,
+            "model": "단테",
+            "content": "<Se não sofre a influência do tempo... foi feito com uma Singularidade da T Corp?>"
+        },
+        {
+            "id": 93,
+            "model": "료슈",
+            "content": "Yeah. I tested it myself many times."
+        },
+        {
+            "id": 94,
+            "model": "료슈",
+            "content": "Mesmo por entre as memórias estilhaçadas, com certeza isso há de existir. As centenas de experimentos e de resoluções que eu repeti."
+        },
+        {
+            "id": 95,
+            "model": "료슈",
+            "content": "Por isso eu não duvidava em crer que, chegado o momento, a Teia viria me procurar seguindo este novelo ainda enrolado no meu corpo, ou que eu voltaria à Teia. Enquanto este fio único de memória não se perder, e enquanto o contrato dela for válido..."
+        },
+        {
+            "id": 96,
+            "model": "단테",
+            "content": "<Sim, o contrato... com certeza há de ser cumprido.>"
+        }
+    ]
+}

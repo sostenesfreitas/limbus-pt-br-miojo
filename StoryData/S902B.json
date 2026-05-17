@@ -1,0 +1,794 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "9장소드다침",
+            "content": "Prep-prepare for battle, immediately..."
+        },
+        {
+            "id": 1,
+            "model": "9장소드다침",
+            "content": "Eu... como podem ver... estou numa situação em que não posso mais conduzir a operação... preciso da ajuda de vocês."
+        },
+        {
+            "id": 2,
+            "content": "Antes mesmo que se pudesse perguntar o que acontecera e por que o braço dele ficara assim, Sword, cambaleando, deixou-se cair no chão e falou."
+        },
+        {
+            "id": 3,
+            "model": "9장소드다침",
+            "content": "Logo depois de fazer contato com o senhor Vergilius... fomos emboscados..."
+        },
+        {
+            "id": 4,
+            "model": "9장소드다침",
+            "content": "Em breve... eles virão até aqui."
+        },
+        {
+            "id": 5,
+            "content": "Diferente do passado, em que demonstrava determinação até no instante da morte..."
+        },
+        {
+            "id": 6,
+            "content": "...o olhar de Sword estava tingido de uma densa consternação."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "How many hostiles?"
+        },
+        {
+            "id": 8,
+            "model": "9장소드다침",
+            "content": "... Two."
+        },
+        {
+            "id": 9,
+            "model": "9장소드다침",
+            "content": "De um deles, o senhor Vergilius estava se encarregando... e eu..."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Verg was?"
+        },
+        {
+            "id": 11,
+            "content": "Color returned to Rodya's face upon hearing Vergilius's name."
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "content": "E-então... não será que o Verg já deu conta de tudo e está vindo para cá?"
+        },
+        {
+            "id": 13,
+            "model": "9장소드다침",
+            "content": "N... no. I don't think so..."
+        },
+        {
+            "id": 14,
+            "model": "9장소드다침",
+            "content": "It's Charon..."
+        },
+        {
+            "id": 15,
+            "model": "9장소드다침",
+            "content": "I... I lost her."
+        },
+        {
+            "id": 16,
+            "model": "9장소드다침",
+            "content": "O braço com que eu segurava o Charon e fugia foi decepado por inteiro, e..."
+        },
+        {
+            "id": 17,
+            "model": "9장소드다침",
+            "content": "...eu deveria tê-lo segurado até o fim, mas..."
+        },
+        {
+            "id": 18,
+            "model": "돈키호테",
+            "content": "Perdeu o Charon... o que significa..."
+        },
+        {
+            "id": 19,
+            "content": "Sem o menor sinal da habitual frieza e serenidade..."
+        },
+        {
+            "id": 20,
+            "content": "...o rosto de Sword estava contorcido de autocensura e confusão."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "... Did they take Charon hostage?"
+        },
+        {
+            "id": 22,
+            "model": "9장소드다침",
+            "content": "Sim... o Charon... eu não consegui impedir... que aqueles sujeitos o capturassem."
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "content": "E o senhor Pilot...?"
+        },
+        {
+            "id": 24,
+            "model": "9장소드다침",
+            "content": "......."
+        },
+        {
+            "id": 25,
+            "model": "9장소드다침",
+            "content": "O ferimento é profundo, mas... ele manteve a consciência até o fim."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "...Primeiro, vamos nos preparar para o combate."
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "Ao menos o objetivo está claro. Acho que basta dar conta do agressor que veio em perseguição e, depois, resgatar o Charon, senhor Gerente. Embora ainda não se possa saber a intenção do inimigo..."
+        },
+        {
+            "id": 28,
+            "model": "9장소드다침",
+            "content": "Talvez esta emboscada não seja o fim. Há pouco, enquanto eu fugia para cá, chegou uma transmissão de rádio da sede, e..."
+        },
+        {
+            "id": 29,
+            "content": "*tzzzzzt*"
+        },
+        {
+            "id": 30,
+            "content": "Do rádio do caminhão, que até então estivera em silêncio, começou a se ouvir um sinistro ruído branco."
+        },
+        {
+            "id": 31,
+            "model": "9장소드다침",
+            "content": "...!"
+        },
+        {
+            "id": 32,
+            "model": "9장소드다침",
+            "content": "Ah..."
+        },
+        {
+            "id": 34,
+            "model": "LCE연구원1",
+            "teller": "Rádio",
+            "content": "Any station, respond... respond..."
+        },
+        {
+            "id": 35,
+            "content": "Sword, congelado onde estava, fitou o lado de onde o som vinha."
+        },
+        {
+            "id": 36,
+            "content": "...Quem respondeu primeiro, em lugar de Sword, que não conseguia se mexer, foi Gregor."
+        },
+        {
+            "id": 37,
+            "model": "그레고르",
+            "content": "Aqui é a LCB. Solicito a transmissão da situação."
+        },
+        {
+            "id": 38,
+            "model": "LCE연구원1",
+            "teller": "Rádio",
+            "content": "HQ Research Facility—"
+        },
+        {
+            "id": 39,
+            "model": "그레고르",
+            "content": "Research Facility?"
+        },
+        {
+            "id": 40,
+            "model": "LCE연구원1",
+            "teller": "Rádio",
+            "content": "U-und-under-attack—"
+        },
+        {
+            "id": 41,
+            "model": "검지아비상",
+            "teller": "Rádio",
+            "title": "???",
+            "content": "Minha querida filha, como tens passado todo este tempo?"
+        },
+        {
+            "id": 42,
+            "place": "Caminhão Móvel da LCCB",
+            "model": "검지아비상",
+            "teller": "Rádio",
+            "title": "???",
+            "content": "Não é hora de parar de brincar e voltar para casa?"
+        },
+        {
+            "id": 43,
+            "content": "Antes mesmo que o pavoroso grito da pessoa a ser resgatada continuasse, o chamado afável de alguém interrompeu todo o ruído."
+        },
+        {
+            "id": 44,
+            "content": "Era uma saudação calorosa como nada mais."
+        },
+        {
+            "id": 45,
+            "content": "Quem aquela voz designava ao dizer 'filha'... não foi difícil de adivinhar."
+        },
+        {
+            "id": 46,
+            "model": "료슈2",
+            "content": "... Hah."
+        },
+        {
+            "id": 47,
+            "model": "료슈",
+            "content": "Relógio, a teia de aranha foi armada."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<Web?>"
+        },
+        {
+            "id": 49,
+            "model": "료슈",
+            "content": "Num caminho do qual não se pode escapar, e ainda por cima com elegância, eles a estenderam."
+        },
+        {
+            "id": 50,
+            "content": "Diante daquelas palavras, veio-me de súbito à mente a palavra 'Teia', que Lei Heng dissera."
+        },
+        {
+            "id": 51,
+            "content": "Thinking back to how intensely Ryōshū reacted then..."
+        },
+        {
+            "id": 52,
+            "model": "단테",
+            "content": "<Será que... a identidade dos agressores... tem relação com aquele tal de... Lei Heng... da última vez?>"
+        },
+        {
+            "id": 53,
+            "model": "료슈2",
+            "content": "Unlikely."
+        },
+        {
+            "id": 54,
+            "model": "료슈",
+            "content": "Aquele sujeito não passou de um entre os professores particulares que passaram de raspão."
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "Então quem, afinal... é a sede, n-nada menos que a sede..."
+        },
+        {
+            "id": 56,
+            "model": "9장소드다침",
+            "content": "Eu não sei. A sede... a sede não é um lugar em que invasores possam entrar à força só porque querem..."
+        },
+        {
+            "id": 57,
+            "model": "9장소드다침",
+            "content": "Uma invasão não autorizada ali... é algo em que eu nunca sequer pensei..."
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 59,
+            "content": "What now?"
+        },
+        {
+            "id": 60,
+            "content": "Durante a operação, basta que eu conduza tudo pelo instinto, ajustando-me à situação a cada instante; mas..."
+        },
+        {
+            "id": 61,
+            "content": "...quem diria que eu ouviria a notícia de que a sede, que orientaria essa operação, foi atacada... e numa situação em que nem o guia está presente."
+        },
+        {
+            "id": 62,
+            "model": "료슈",
+            "content": "*puff*"
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "content": "Fine. I didn't expect them to come find me themselves."
+        },
+        {
+            "id": 64,
+            "model": "료슈",
+            "content": "Uma vez armada a teia, a presa há de cair nela por conta própria."
+        },
+        {
+            "id": 65,
+            "content": "A fumaça do cigarro paira no ar por um instante e logo se dispersa. O rosto de Ryoshu, ao dizer aquilo..."
+        },
+        {
+            "id": 66,
+            "content": "...estava repleto de um êxtase impossível de decifrar."
+        },
+        {
+            "id": 67,
+            "model": "9장소드다침",
+            "content": "……."
+        },
+        {
+            "id": 68,
+            "model": "9장소드다침",
+            "content": "Ryōshū, is this all just..."
+        },
+        {
+            "id": 69,
+            "model": "9장소드다침",
+            "content": "Isto não passa de uma coisa divertida para você?"
+        },
+        {
+            "id": 70,
+            "content": "Sword fitou Ryoshu, que terminava de fumar o cigarro com o rosto imutável, como quem não consegue compreender."
+        },
+        {
+            "id": 71,
+            "model": "료슈",
+            "content": "Sure is."
+        },
+        {
+            "id": 72,
+            "model": "료슈",
+            "content": "O momento que eu tanto aguardava enfim veio até mim, pelo próprio pé."
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "content": "Why wouldn't I be excited?"
+        },
+        {
+            "id": 74,
+            "model": "9장소드다침",
+            "content": "That's just—"
+        },
+        {
+            "id": 75,
+            "model": "료슈",
+            "content": "But... don't presume."
+        },
+        {
+            "id": 76,
+            "model": "료슈",
+            "content": "A expectativa de divertimento e a seriedade são domínios distintos."
+        },
+        {
+            "id": 77,
+            "model": "료슈",
+            "content": "Eu, em nenhum único instante... ainda que aprecie com prazer a tarefa que me cabe, jamais a tomei de leve."
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "content": "Nem antes, nem agora."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 80,
+            "model": "료슈",
+            "content": "Você disse que eles logo virão até aqui. O sujeito que levou o motorista do ônibus... também está vindo para cá?"
+        },
+        {
+            "id": 81,
+            "model": "9장소드다침",
+            "content": "... Charon—"
+        },
+        {
+            "id": 82,
+            "model": "9장소드다침",
+            "content": "If anything happens to Miss Charon, I..."
+        },
+        {
+            "id": 83,
+            "model": "9장소드다침",
+            "content": "Não tenho como encarar o senhor Olhar Vermelho."
+        },
+        {
+            "id": 84,
+            "model": "료슈",
+            "content": "Tsk. This isn't going anywhere."
+        },
+        {
+            "id": 85,
+            "model": "료슈",
+            "content": "As aranhas não vão tocar no motorista do ônibus."
+        },
+        {
+            "id": 86,
+            "model": "료슈",
+            "content": "O motorista do ônibus é só uma isca para fisgar uma presa grande. Não é a caça."
+        },
+        {
+            "id": 87,
+            "model": "료슈",
+            "content": "Portanto, em vez de tremer de modo deplorável, trate de fazer a preparação."
+        },
+        {
+            "id": 88,
+            "model": "9장소드다침",
+            "content": "... What?"
+        },
+        {
+            "id": 89,
+            "model": "료슈2",
+            "content": "A porta traseira deste caminhão. É possível conectá-la ao laboratório da sede agora mesmo?"
+        },
+        {
+            "id": 90,
+            "model": "9장소드다침",
+            "content": "W-wait. It can, but..."
+        },
+        {
+            "id": 91,
+            "model": "9장소드다침",
+            "content": "Para usar o portal da porta traseira que vai direto à sede, é preciso verificar o código de segurança correspondente às coordenadas, então... vai levar... um pouco de tempo."
+        },
+        {
+            "id": 92,
+            "model": "료슈",
+            "content": "Hm. Dará tempo na medida certa se entrarmos depois de lidar com o sujeito que logo virá te perseguir."
+        },
+        {
+            "id": 93,
+            "content": "Enquanto Sword, com um só braço, operava os vários aparelhos no interior do veículo..."
+        },
+        {
+            "id": 94,
+            "content": "...os Pecadores, com ar tenso, empunhavam as armas e vigiavam os arredores."
+        },
+        {
+            "id": 95,
+            "model": "이스마엘",
+            "content": "Mas tem certeza de que tudo bem ir para a sede? Tenho a sensação de que estamos entrando numa armadilha pelo próprio pé..."
+        },
+        {
+            "id": 96,
+            "model": "싱클레어",
+            "content": "...Não seria melhor pedir ajuda ao Daguanyuan?"
+        },
+        {
+            "id": 97,
+            "model": "오티스",
+            "content": "Pode ser um meio. Mas, uma vez que a sede está envolvida, ainda que haja amizade, se resolvermos isso tomando emprestada a mão de uma Asa... depois teremos de pagar um preço descomunal."
+        },
+        {
+            "id": 98,
+            "model": "오티스",
+            "content": "Your decision, Executive Manager?"
+        },
+        {
+            "id": 99,
+            "model": "단테",
+            "content": "<……>"
+        },
+        {
+            "id": 100,
+            "model": "단테",
+            "content": "<...Assim que Sword abrir o portal, vamos para o laboratório da sede.>"
+        },
+        {
+            "id": 101,
+            "content": "Pela expressão de Ryoshu, de certo modo exultante, não foi difícil pressentir que chegara a vez dela."
+        },
+        {
+            "id": 102,
+            "content": "Sendo assim... a porta traseira rumo à sede, para onde Ryoshu quer ir, há de ser o caminho que devemos seguir."
+        },
+        {
+            "id": 103,
+            "model": "료슈2",
+            "content": "Better prepare yourselves."
+        },
+        {
+            "id": 104,
+            "model": "료슈",
+            "content": "O que há adiante decerto será um abismo, e..."
+        },
+        {
+            "id": 105,
+            "model": "료슈",
+            "content": "...num abismo, sempre houve algo que estava à espera."
+        },
+        {
+            "id": 106,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 107,
+            "model": "이상",
+            "content": "O som no teto... ao que tudo indica, o agressor encontrou o veículo."
+        },
+        {
+            "id": 108,
+            "model": "히스클리프",
+            "content": "Isto aqui... antes que se quebre, não é melhor a gente sair para um lugar mais aberto?"
+        },
+        {
+            "id": 109,
+            "model": "이스마엘",
+            "content": "Não — disseram que neste caminhão se aplica a Singularidade da P Corp. Aquilo que nos protege com segurança do exterior. Pelo contrário, ficar dentro é..."
+        },
+        {
+            "id": 110,
+            "model": "로쟈",
+            "content": "É-é seguro mesmo, né? Não parece que o teto agora rachou um pouquinho?!"
+        },
+        {
+            "id": 111,
+            "model": "이스마엘",
+            "content": "Hã? Não pode... ser. Tenho certeza de que a elasticidade é forte, e diante de uma força comum ele só deveria entortar..."
+        },
+        {
+            "id": 112,
+            "model": "파우스트",
+            "content": "...É verdade que à parede externa deste dispositivo de transporte veicular se aplica a Singularidade da P Corp."
+        },
+        {
+            "id": 113,
+            "model": "파우스트",
+            "content": "Por isso o caminhão é mais espaçoso por dentro do que parece por fora, e bom para proteger de impactos externos."
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "Contudo, ao contrário do modelo experimental em que embarcamos na P Corp.... este veículo parece ser um modelo de baixo custo, operado com o fim de transportar com facilidade a equipe Before."
+        },
+        {
+            "id": 115,
+            "model": "단테",
+            "content": "<...?>"
+        },
+        {
+            "id": 116,
+            "model": "파우스트",
+            "content": "Para um desempenho satisfatório, há sempre um custo à altura; e um produto que não o tem, ainda que seja uma Singularidade, pode ser rompido."
+        },
+        {
+            "id": 117,
+            "model": "히스클리프",
+            "content": "So they cheapened out."
+        },
+        {
+            "id": 118,
+            "model": "료슈",
+            "content": "Sendo assim, não é um Pai da Teia."
+        },
+        {
+            "id": 119,
+            "model": "료슈",
+            "content": "Se fosse um dos Pais... uma parede como esta ele teria estilhaçado já com o primeiro ruído."
+        },
+        {
+            "id": 120,
+            "model": "료슈",
+            "content": "Pois um sujeito forte aparecer logo de início seria um desenrolar monótono demais."
+        },
+        {
+            "id": 121,
+            "model": "싱클레어",
+            "content": "Pai... se for isso, será aquele de quem o tal Lei Heng falou da última vez...?"
+        },
+        {
+            "id": 122,
+            "model": "오티스",
+            "content": "...Conversa fiada pode ser deixada para depois que a situação acabar; não é tarde."
+        },
+        {
+            "id": 123,
+            "model": "오티스",
+            "content": "Senhor Gerente, parece que a parte do teto vai ser destruída a qualquer momento!"
+        },
+        {
+            "id": 124,
+            "model": "단테",
+            "content": "<...Assim que ele descer, ataquem de imediato.>"
+        },
+        {
+            "id": 125,
+            "model": "단테"
+        },
+        {
+            "id": 126,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 127,
+            "model": "오티스",
+            "content": "At the ready, men!"
+        },
+        {
+            "id": 128,
+            "model": "단테",
+            "content": "<...! Wait, don't engage!>"
+        },
+        {
+            "id": 129,
+            "content": "O plano de brandir as armas todos de uma vez contra o invasor que despencou, rompendo o teto..."
+        },
+        {
+            "id": 130,
+            "content": "...desfez-se em fumaça assim que se viu a outra pessoa que o invasor trouxera consigo."
+        },
+        {
+            "id": 131,
+            "model": "9장소드다침",
+            "content": "... Charon...!"
+        },
+        {
+            "id": 132,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Ele apenas perdeu a consciência; o fôlego está intacto."
+        },
+        {
+            "id": 133,
+            "model": "오티스",
+            "content": "Cortou de propósito apenas o braço daquele sujeito e seguiu o rastro para nos rastrear."
+        },
+        {
+            "id": 134,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Vendo que, como previsto, ele veio buscar a ajuda dos companheiros..."
+        },
+        {
+            "id": 135,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...observar a reação parece ter sido a decisão acertada."
+        },
+        {
+            "id": 136,
+            "content": "O sujeito prosseguiu, lançando um olhar de relance a Sword."
+        },
+        {
+            "id": 137,
+            "content": "E, como que reagindo àquelas palavras, Ryoshu..."
+        },
+        {
+            "id": 138,
+            "content": "... on her scabbard."
+        },
+        {
+            "id": 139,
+            "model": "단테",
+            "content": "<... Ryōshū?>"
+        },
+        {
+            "id": 140,
+            "model": "료슈",
+            "content": "*puff* C.E.D.B. Eles não vão se atrever a machucar a condutora."
+        },
+        {
+            "id": 141,
+            "model": "료슈",
+            "content": "So don't make a fuss, Clock."
+        },
+        {
+            "id": 142,
+            "model": "싱클레어",
+            "content": "O quê?! O que é... senhora Ryoshu?!"
+        },
+        {
+            "id": 143,
+            "content": "Ryoshu, sem dar a mínima às palavras de Sinclair, brandiu de imediato a bainha da espada contra o agressor."
+        },
+        {
+            "id": 144,
+            "model": "료슈",
+            "content": "Ooh... bloqueou?"
+        },
+        {
+            "id": 145,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "...A senhora não se importa nem mesmo com o refém?"
+        },
+        {
+            "id": 146,
+            "model": "료슈",
+            "content": "Vocês não o deixariam morrer. Pois não têm plano de comprar a ira do Guia Vermelho com a vida de um refém."
+        },
+        {
+            "id": 147,
+            "content": "Tal como Ryoshu dissera, o agressor, sem ferir o Charon, apenas aparava os ataques de Ryoshu."
+        },
+        {
+            "id": 148,
+            "content": "No instante em que, diante disso, alguns Pecadores iam se somar ao ataque..."
+        },
+        {
+            "id": 149,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Para cumprir a etiqueta do combate, eu pretendia enfrentá-los um a um, mas."
+        },
+        {
+            "id": 150,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "Como é uma situação em que eu não devo entregar este sujeito até que o mestre chegue..."
+        },
+        {
+            "id": 151,
+            "content": "Junto com um breve gesto da mão do agressor, coisas grotescas desabaram do teto, com um baque."
+        },
+        {
+            "id": 152,
+            "model": "엄지제자",
+            "teller": "???",
+            "title": "???",
+            "content": "... I must resort to using some... borrowed weapons."
+        },
+        {
+            "id": 153,
+            "model": "싱클레어",
+            "content": "Aquilo é... uma Distorção... ou um monstro... alguma coisa assim?"
+        },
+        {
+            "id": 154,
+            "model": "단테",
+            "content": "<No...>"
+        },
+        {
+            "id": 155,
+            "model": "단테",
+            "content": "<I think they're... people...>"
+        },
+        {
+            "id": 156,
+            "model": "히스클리프",
+            "content": "Aquele tal de mestre que o desgraçado mencionou... ele disse que Vergilius está lidando com ele."
+        },
+        {
+            "id": 157,
+            "model": "돈키호테",
+            "content": "Senhor Singular... a pessoinha aqui acredita que, com o Charon capturado, ele não está conseguindo lutar como deve..."
+        },
+        {
+            "id": 158,
+            "model": "히스클리프",
+            "content": "Bastando a gente resgatar o Charon e fugir, seja para a sede, seja para onde for... o guia já não vai poder lutar com tudo?"
+        },
+        {
+            "id": 159,
+            "model": "이스마엘",
+            "content": "Do que dá para fazer agora... isso parece mesmo ser o melhor."
+        },
+        {
+            "id": 160,
+            "model": "단테",
+            "content": "<...Por via das dúvidas, vamos dar o nosso melhor para que o Charon não se machuque.>"
+        }
+    ]
+}

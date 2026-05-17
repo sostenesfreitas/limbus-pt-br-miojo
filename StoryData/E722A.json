@@ -1,0 +1,571 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Periferias do Distrito 8, em algum lugar",
+            "model": "경도",
+            "content": "Pois bem, chegamos."
+        },
+        {
+            "id": 1,
+            "model": "싱클레어",
+            "content": "Ha, ha… é aqui…?"
+        },
+        {
+            "id": 2,
+            "content": "Depois de abrir caminho, atordoados, por becos cheios de curvas, sem que se notasse, diante dos nossos olhos pôs-se a cena de pequenos edifícios agrupados uns aos outros."
+        },
+        {
+            "id": 3,
+            "content": "E, entre eles, no edifício situado bem no meio, saltava à vista uma placa de identificação rabiscada com uma letra difícil de decifrar, junto com uma lanterna vermelha."
+        },
+        {
+            "id": 4,
+            "model": "로쟈",
+            "content": "É mais sórdido do que eu pensava…? Não é precário demais para o jovem patrão de vocês se hospedar?"
+        },
+        {
+            "id": 5,
+            "model": "경도",
+            "content": "Aquele é outro edifício. O lugar onde eu vou acomodar os ilustres convidados é justamente este aqui."
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "Eu não disse? Eu ouvi umas coisas do Hong Lu~ pelo menos luxuos… hã?"
+        },
+        {
+            "id": 7,
+            "content": "Quando movi o olhar acompanhando o dedo de Gyeongdo… ali se via um edifício parecido com um pequeno armazém, com a parede externa toda pintada de preto."
+        },
+        {
+            "id": 8,
+            "content": "Por fora, parece ser menor do que o Mephistopheles…"
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<…Será que cabe todo mundo lá dentro?>"
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Es-escuta… aquele edifício não é precário demais até para a gente se hospedar, que dirá para o jovem patrão de vocês?!"
+        },
+        {
+            "id": 11,
+            "model": "경도",
+            "content": "Este é o mais próximo dentre as estalagens que eu administro, mas… por ficar nos becos, decerto tem muitas faltas…"
+        },
+        {
+            "id": 12,
+            "model": "경도",
+            "content": "Peço perdão por não ter conseguido preparar mais do que isto, jovem patrão…"
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Há também as horas em que falta alguma coisa~ mas, para passar um dia, não me parece haver problema?"
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "content": "Você está em juízo? Nem é certo se vai caber todo mundo…"
+        },
+        {
+            "id": 15,
+            "model": "경도",
+            "content": "…Eu queria ter acomodado os ilustres convidados num lugar um pouco melhor, na casa-mãe da zona central, mas."
+        },
+        {
+            "id": 16,
+            "model": "경도",
+            "content": "Decerto, logo vem aquela hora…"
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "Oh… você fala da maré da limpeza."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Hum… era a partir das 3h13 da madrugada, não era…? Parece que ainda sobra bastante tempo.>"
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "Pois é. Com esse tanto de tempo, não dá para chegar até esse lugar onde fica a casa-mãe?"
+        },
+        {
+            "id": 20,
+            "model": "이스마엘",
+            "content": "Segundo o folheto de informações turísticas da Firma H, daqui até a zona central dá para chegar em 1 hora…"
+        },
+        {
+            "id": 21,
+            "model": "경도",
+            "content": "O ilustre convidado já pôs os pés no Distrito 8 alguma vez?"
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "A-ah, não. Vir aqui em pessoa é a primeira vez. Mas…"
+        },
+        {
+            "id": 23,
+            "model": "경도",
+            "content": "Mas então, as circunstâncias deste lugar, que o senhor nem vivenciou em pessoa… como é que se pode discuti-las com base num folheto?"
+        },
+        {
+            "id": 24,
+            "model": "경도",
+            "content": "Uma floresta de edifícios, densa e exuberante a ponto de não se poder contar. Caminhos que mudam a cada instante por causa de edifícios que se deslocam periodicamente. E, além disso, os ataques indiscriminados de organizações dos becos ou de escritórios que perderam o juízo!"
+        },
+        {
+            "id": 25,
+            "model": "경도",
+            "content": "Tentar prever facilmente os fenômenos deste lugar é apressar a própria morte. Isso há de ser coisa que até uma criancinha sabe."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 27,
+            "model": "경도",
+            "content": "Diante da curteza do discernimento, este servo não consegue conter o lamento."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Ele é igualzinho… à Ishmael explicando sobre o Grande Lago.>"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Fique quieto, Dante."
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "Mas, o fato de estar escrito no folheto quer dizer que, em teoria, é possível, não?"
+        },
+        {
+            "id": 31,
+            "content": "Naquele instante, Outis se adiantou."
+        },
+        {
+            "id": 32,
+            "content": "Numa das mãos, sem que se notasse, segurando também o folheto de informações turísticas da Firma H de que Ishmael falara."
+        },
+        {
+            "id": 33,
+            "model": "오티스",
+            "content": "Ao contrário de você, que não conseguiu nem orientar o caminho direito, se for o Gerente a nos conduzir, eu acho que daria para chegar antes de a noite cair."
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<…Eu?>"
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Decerto, parece ser uma ideia sobre a qual nunca houve acordo, mas…"
+        },
+        {
+            "id": 36,
+            "model": "경도",
+            "content": "Está bem. Eu falarei sem reservas."
+        },
+        {
+            "id": 37,
+            "model": "경도",
+            "content": "O dever deste servo é guiar o jovem patrão e os ilustres convidados até a zona central. Servir o jovem patrão em segurança é a vocação que eu recebi."
+        },
+        {
+            "id": 38,
+            "model": "경도",
+            "content": "Se forçarmos a passagem… sim, é possível. Ir até a casa-mãe antes de a noite dos becos cair não há de ser impossível."
+        },
+        {
+            "id": 39,
+            "model": "오티스",
+            "content": "…Hum."
+        },
+        {
+            "id": 40,
+            "model": "경도",
+            "content": "Mas! Se, nesse processo, puder advir perigo ao jovem patrão, isso é um contrassenso. O objetivo da missão que coube a este servo não é guiar o jovem patrão depressa, e sim guiá-lo em segurança, não é mesmo?!"
+        },
+        {
+            "id": 41,
+            "model": "오티스",
+            "content": "Ohoo!"
+        },
+        {
+            "id": 42,
+            "model": "경도",
+            "content": "Todo plano, em geral, deve dar importância ao objetivo. Agora, sem se saber até quando vão continuar os ataques dos rufiões que ameaçam a segurança do jovem patrão… eu julguei que avançar mais pelo caminho seria pôr o carro adiante dos bois."
+        },
+        {
+            "id": 43,
+            "model": "오티스",
+            "content": "Seu… não, este sujeito…!"
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "É admirável. Como alguém que se tornou parte de um plano, ele guarda todos os elementos que se deve ter. Se a pessoa realmente preza por aquele a quem serve, com efeito, é essa atitude que está certa."
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "E o que é que a gente faz se você sai concordando com ele assim…?"
+        },
+        {
+            "id": 46,
+            "model": "오티스",
+            "content": "Eu estava com um mal-entendido profundo."
+        },
+        {
+            "id": 47,
+            "model": "경도",
+            "content": "…Hum."
+        },
+        {
+            "id": 48,
+            "model": "오티스",
+            "content": "Há pouco, no começo me subiu a raiva ao ouvir aqueles dizerem que algumas das suas falas eram parecidas comigo, mas…"
+        },
+        {
+            "id": 49,
+            "model": "경도",
+            "content": "Hum-hum!"
+        },
+        {
+            "id": 50,
+            "model": "오티스",
+            "content": "Você apenas estava entregando toda a sua lealdade devotada!"
+        },
+        {
+            "id": 51,
+            "model": "경도",
+            "content": "Hahaha! Eu não sabia que haveria alguém capaz de compreender esta lealdade. Como o olhar do jovem patrão para escolher amigos parece ter amadurecido esplendidamente, este servo ficou tranquilo."
+        },
+        {
+            "id": 52,
+            "model": "오티스",
+            "content": "Hahaha! Esse amigo, francamente!"
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Em tão pouco tempo ele passou de 'sujeito' a 'amigo'…"
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "Hum-hum. A emoção subiu um pouco demais. Enfim, conforme as palavras deste sujeito, é fato que, ao avançarmos mais, a probabilidade de haver emboscada é alta."
+        },
+        {
+            "id": 55,
+            "model": "단테",
+            "content": "<O Outis… passou de vez para o lado de lá…>"
+        },
+        {
+            "id": 56,
+            "content": "Naquele instante, eu tive a sensação de que o meu olhar e o de Outis se cruzaram de leve."
+        },
+        {
+            "id": 57,
+            "content": "Aquela figura, fazendo uma breve mesura de cabeça, com uma expressão estranhamente grave…"
+        },
+        {
+            "id": 58,
+            "content": "S-será que ele está mesmo querendo dar as costas?! Será que é um 'obrigado por tudo até aqui'?!"
+        },
+        {
+            "id": 59,
+            "model": "오티스",
+            "content": "Este hotel também… como parece ser um ambiente muito melhor do que uma barraca a céu aberto, descansar da fadiga aqui e só então voltar a se mover parece ser o julgamento acertado."
+        },
+        {
+            "id": 60,
+            "model": "이상",
+            "content": "Quem foi contra não foi a senhorita Outis…?"
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "…Bom, deixa pra lá. Como parece que todo mundo entendeu, vamos entrar de uma vez."
+        },
+        {
+            "id": 62,
+            "model": "경도",
+            "content": "Ufa. Por dizerem que me compreendem com tamanha largueza de espírito, este servo chega às raias da admiração."
+        },
+        {
+            "id": 63,
+            "content": "O homem, para quem tinha falado de propósito com severidade, fez uma expressão de algum alívio e sobrepôs o punho à palma da mão."
+        },
+        {
+            "id": 64,
+            "model": "이상",
+            "content": "As construções modernas não se podem julgar só pela aparência externa… entrando, pode ser diferente. Não se aflija…"
+        },
+        {
+            "id": 65,
+            "content": "Junto com a voz misturada de suspiro de Rodion, dizendo um 'tomara que seja~', nós entramos para dentro daquele edifício."
+        },
+        {
+            "id": 66,
+            "place": "Kezhan - Espaço de Descanso",
+            "model": "히스클리프",
+            "content": "Oh…? É sério? Por dentro é mais asseado do que eu pensava."
+        },
+        {
+            "id": 67,
+            "model": "이상",
+            "content": "Tem também um bom gosto bastante clássico. Estas pinturas de paisagem desenhadas em cada parede têm um belo encanto."
+        },
+        {
+            "id": 68,
+            "model": "단테",
+            "content": "<Além disso, ao contrário do que se via por fora, parece ser bem espaçoso. Aqui também foi aplicada alguma tecnologia de expansão de espaço, é?>"
+        },
+        {
+            "id": 69,
+            "model": "파우스트",
+            "content": "Não. Parece que ele só parecia estreito por causa dos edifícios vizinhos empilhados."
+        },
+        {
+            "id": 70,
+            "model": "경도",
+            "content": "Pois bem, eu deixei a porta aberta. Para que possam conversar à vontade, este servo vai ficar hospedado na casinha que há ao lado."
+        },
+        {
+            "id": 71,
+            "content": "Em meio à algazarra dos Pecadores, que pareciam empolgados, o homem, esboçando um sorriso constrangido, deixou o alojamento em silêncio, e…"
+        },
+        {
+            "id": 72,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 73,
+            "content": "As costas do guia, que assim partia, Hong Lu observava-as ao longe."
+        },
+        {
+            "id": 74,
+            "content": "Com uma expressão parecida com a de quem contempla uma nuvem, ou uma flor, ou o vento."
+        },
+        {
+            "id": 75,
+            "content": "Mas, por aquele olhar não cintilar, parecia que, se nuvem, sentia uma nuvem carregada; se flor, uma flor murcha; se vento, um redemoinho de vento…"
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Tem alguma coisa que… te ocorre, Hong Lu?>"
+        },
+        {
+            "id": 77,
+            "content": "Eu decidi sondar Hong Lu, lançando o assunto de leve."
+        },
+        {
+            "id": 78,
+            "model": "홍루",
+            "content": "Por enquanto, parece que não há nada."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<…Hum?>"
+        },
+        {
+            "id": 80,
+            "content": "Por enquanto?"
+        },
+        {
+            "id": 81,
+            "teller": "???",
+            "title": "???",
+            "content": "Por mais que você seja o meu mano mais velho, pelo visto te ocorreu que tinha coisa suspeita aí, hein?"
+        },
+        {
+            "id": 82,
+            "content": "Naquele instante, lá de uma altura mais ou menos abaixo de Hong Lu, veio uma voz conhecida."
+        },
+        {
+            "id": 83,
+            "model": "홍루",
+            "content": "Uau, Shichun! Já nos encontramos assim de novo?"
+        },
+        {
+            "id": 84,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Eu não disse, que parecia que a gente ia se ver de novo logo?"
+        },
+        {
+            "id": 85,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Tem passado em paz, jovem patrão?"
+        },
+        {
+            "id": 86,
+            "model": "홍루",
+            "content": "Que bom que o senhor Wei também parece estar em paz. Ué? Então a Shichun também vai se hospedar aqui?"
+        },
+        {
+            "id": 87,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Em circunstâncias normais, eu não meteria nem o pé num lugar destes, mas…"
+        },
+        {
+            "id": 88,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "É que surgiu uma obra enorme, sei lá o quê, na entrada do caminho de volta para a casa-mãe, e eu não tive como não vir pelos becos."
+        },
+        {
+            "id": 89,
+            "content": "…Pelo visto não fomos nós os únicos a cair naquela obra surgida do nada."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "Ooooh! V-vocês!"
+        },
+        {
+            "id": 91,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Hec…"
+        },
+        {
+            "id": 92,
+            "content": "O rosto de Shichun, que falava com Hong Lu toda orgulhosa, mudou-se num instante para o desconcerto."
+        },
+        {
+            "id": 93,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Aquele sujeito também… voltou a perder a memória e se juntou a vocês?"
+        },
+        {
+            "id": 94,
+            "model": "홍루",
+            "content": "Não, a senhora Donquixote está sempre do mesmo jeito."
+        },
+        {
+            "id": 95,
+            "model": "돈키호테",
+            "content": "Ahem, ahem-hem…"
+        },
+        {
+            "id": 96,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Mas… aquele ar abobalhado dela…"
+        },
+        {
+            "id": 97,
+            "model": "돈키호테",
+            "content": "Shichun? Senhorita?! N-nós, vamos ali na~ sala de descanso, sei lá, e contamos um pouquinho as conversas que não demos esse tempo todo…"
+        },
+        {
+            "id": 98,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 99,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ah, é mesmo. Só um instante."
+        },
+        {
+            "id": 100,
+            "content": "Diante da fala de que ela mantinha a memória intacta, Jia Shichun, como que mergulhada em alguma cisma, fitou Donquixote por um tempo e então…"
+        },
+        {
+            "id": 101,
+            "content": "Aproximou-se de Donquixote, a passos largos, alguns passos."
+        },
+        {
+            "id": 102,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vamos fazer isso, então? Não é mau. Wei, eu vou trocar umas palavras rápidas com este sujeito, então vai escolhendo um quarto para a gente ficar."
+        },
+        {
+            "id": 103,
+            "model": "돈키호테",
+            "content": "Ã…hã?"
+        },
+        {
+            "id": 104,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "O que foi? Você mesma disse para a gente contar as conversas que não demos esse tempo todo."
+        },
+        {
+            "id": 105,
+            "model": "돈키호테",
+            "content": "É que… c-caro Gerente…!"
+        },
+        {
+            "id": 106,
+            "model": "파우스트",
+            "content": "…A fuga de talentos pode vir a ser um grave motivo de responsabilização, Dante."
+        },
+        {
+            "id": 107,
+            "model": "단테",
+            "content": "<Conviver de modo próximo, só até esse ponto, não tem problema, não?>"
+        },
+        {
+            "id": 108,
+            "model": "홍루",
+            "content": "Hehe, pelo visto a Shichun gostou da senhora Donquixote. Olha ela aprontando essas brincadeiras."
+        },
+        {
+            "id": 109,
+            "model": "이스마엘",
+            "content": "Não foi da senhora Donquixote, e sim 'da força da senhora Donquixote' que ela viu naquela vez que ela gostou, é claro…"
+        },
+        {
+            "id": 110,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "Senhorita, se a senhora fizer assim…"
+        },
+        {
+            "id": 111,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Tá bom… eu falo depois. Vamos. Já estou indo."
+        },
+        {
+            "id": 112,
+            "content": "Shichun, com um leve suspiro, como quem sente alguma pena, entrou em direção ao interior do saguão, e…"
+        },
+        {
+            "id": 113,
+            "model": "단테",
+            "content": "<Nós também… vamos lá para dentro.>"
+        },
+        {
+            "id": 114,
+            "content": "Eu e os Pecadores também seguimos atrás deles, levando os passos para o interior do alojamento."
+        }
+    ]
+}

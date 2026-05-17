@@ -1,0 +1,40 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "place": "Corredor da Equipe de Pesquisa da LCE",
+            "model": "검지제자2",
+            "content": "Huh? That's...!"
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<A Anormalidade... o nome dela era, acho, Centopeia de Choque?>"
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "content": "É um espécime que já avistamos com frequência na Masmorra e na Ferrovia de Refração, senhor Gerente."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Então... o modo de enfrentá-la há de ser o mesmo de antes.>"
+        },
+        {
+            "id": 5,
+            "model": "이상",
+            "content": "O modo de lidar com aquilo pode ser parecido, mas não se deve baixar a guarda, Dante."
+        },
+        {
+            "id": 6,
+            "model": "이상",
+            "content": "Pois, numa situação em que o estado deste departamento não é normal, há a possibilidade de a força de contenção da Qliphoth não funcionar normalmente..."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Vamos ter de lutar com cuidado... entendi, entendi. Senhora Sora, senhor Ravi, fiquem atrás de mim. Certo?"
+        }
+    ]
+}

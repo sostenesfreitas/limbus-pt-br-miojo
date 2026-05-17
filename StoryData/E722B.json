@@ -1,0 +1,188 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Backstreets of District 8, Entrance",
+            "content": "Nós seguíamos correndo em direção a algum lugar."
+        },
+        {
+            "id": 1,
+            "content": "…aparando, um por um, o festim ininterrupto de inimigos."
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Ei! Você não disse que daqui para a frente ia ser tranquilo! Que história é essa?!"
+        },
+        {
+            "id": 3,
+            "model": "경도",
+            "content": "Por culpa de terem reconhecido o rosto resplandecente do jovem patrão…"
+        },
+        {
+            "id": 4,
+            "model": "이스마엘",
+            "content": "A gente não tinha entrado num lugar sem ninguém? Sei lá por que parece ter mais gente do que na entrada!?"
+        },
+        {
+            "id": 5,
+            "model": "경도",
+            "content": "Como eu disse… o rosto do jovem patrão…"
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "Se vai se desculpar, ao menos varie um pouco o repertório…!"
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "A julgar por os atacantes serem todos de filiações diferentes, parece que este sujeito não está simplesmente mentindo, mas…"
+        },
+        {
+            "id": 8,
+            "content": "Outis também, como quem está em apuros mas não consegue encontrar um ponto de suspeita plausível, amassava o folheto que tinha na mão."
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Pessoas que nem têm filiação a lugar nenhum atacarem um membro da família Jia…"
+        },
+        {
+            "id": 10,
+            "model": "홍루",
+            "content": "O pessoal dos becos hoje em dia ficou bem ousado. Antigamente, sempre que eu passava, eles ficavam prostrados, então era até difícil ver o rosto deles… que bom!"
+        },
+        {
+            "id": 11,
+            "model": "히스클리프",
+            "content": "Que bom uma ova! Até quando diabos a gente vai ter de andar?"
+        },
+        {
+            "id": 12,
+            "model": "경도",
+            "content": "…Não vai demorar para chegarmos à Kezhan, então fiquem tranquilos."
+        },
+        {
+            "id": 13,
+            "content": "A expressão do guia, que no começo parecia bastante apreensiva, parece bem mais estabilizada."
+        },
+        {
+            "id": 14,
+            "content": "Será por ter se acostumado às emboscadas, ou então…"
+        },
+        {
+            "id": 15,
+            "model": "로쟈",
+            "content": "Agora que penso, de um tempo para cá é Kezhan pra cá, Kezhan pra lá… o que é uma Kezhan?"
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "É um tipo de estabelecimento de hospedagem."
+        },
+        {
+            "id": 17,
+            "model": "로쟈",
+            "content": "Hospedagem… então um hotel?!"
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "content": "Hehe, deve ser um lugar bem bom, né? Será que não dão até uma comida de boas-vindas, igual à do trem WARP?"
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "Isso eu já não sei… mas parece que a Kezhan costuma vender bebida e comida também, então talvez dê para fazer uma refeição."
+        },
+        {
+            "id": 20,
+            "model": "그레고르",
+            "content": "Lá, ai. Não tem uns sujeitos vindo para cima da gente assim?"
+        },
+        {
+            "id": 21,
+            "model": "경도",
+            "content": "Inviolabilidade dentro da família. É claro que combater dentro de uma moradia é um tabu próprio só desta zona, deste patamar, mesmo em Hongwon."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "Um tabu… ao menos isso já tira um peso de cima da gente."
+        },
+        {
+            "id": 23,
+            "content": "Faust, como quem ouviu um disparate, virou-se para o meu lado com a sobrancelha a estremecer, mas… eu pergunto depois."
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "Francamente, se vão eleger um Patriarca ou um chefe de casa, que se peguem na hora disso…"
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "content": "É que, quando essa hora chegar, já vai ser tarde."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Hã…? Tarde?"
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "content": "Sim, todo candidato a Patriarca… há de ter trazido algo extremamente precioso."
+        },
+        {
+            "id": 28,
+            "model": "홍루",
+            "content": "Seria bom se cada um acreditasse que o que ele mesmo trouxe é o mais precioso, mas…"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "O certo é tomar o que os outros candidatos trouxeram. É que eles podem ter trazido algo mais precioso do que o seu."
+        },
+        {
+            "id": 30,
+            "model": "홍루",
+            "content": "E, já que estão nessa~ devem estar achando que tomar também a vida deixa tudo mais cômodo."
+        },
+        {
+            "id": 31,
+            "model": "그레고르",
+            "content": "…A família de vocês funciona sempre com essa lógica?"
+        },
+        {
+            "id": 32,
+            "model": "홍루",
+            "content": "Hehe, as outras casas também não me pareciam grandemente diferentes?"
+        },
+        {
+            "id": 33,
+            "model": "히스클리프",
+            "content": "…Tch."
+        },
+        {
+            "id": 34,
+            "model": "경도",
+            "content": "Peço perdão por este servo parecer se intrometer no meio da prosa, mas…"
+        },
+        {
+            "id": 35,
+            "model": "경도",
+            "content": "Se não apressarmos o passo de uma vez, parece que os senhores vão se ver em apuros."
+        },
+        {
+            "id": 36,
+            "content": "O guia, dizendo isso, baixou o olhar para um relógio que tirou de dentro do peito."
+        },
+        {
+            "id": 37,
+            "model": "경도",
+            "content": "Porque, lá fora, logo… vai chegar a noite."
+        }
+    ]
+}

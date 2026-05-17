@@ -1,0 +1,557 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Mais um dia entre vários longos e sombrios dias de espera para que algo acontecesse. E, é claro, nosso barco-ônibus ainda estava à deriva sobre as margens do Grande Lago."
+        },
+        {
+            "id": 1,
+            "content": "Os múrmuros de insatisfação entre os Pecadores começaram pequenos, mas eles tem crescido mais e mais ultimamente. "
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Gah! Eita PORRA!"
+        },
+        {
+            "id": 3,
+            "place": "Cabines do Mefistófeles",
+            "content": "De repente, um alarme barulhento soou de dentro das cabines."
+        },
+        {
+            "id": 4,
+            "content": "Eu havia ouvido esse alarme muitas vezes no outro dia... Ele estava nos avisando de uma volatilidade em Mefistófeles. Mas dessa vez ele estava muito mais barulhento e irritante do que das outras vezes. "
+        },
+        {
+            "id": 5,
+            "content": "Além disso..."
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "O que é isso ......? Nunca vimos a luz piscando nessa cor antes, né?"
+        },
+        {
+            "id": 7,
+            "model": "히스클리프",
+            "content": "Que merda é essa? Que lixo deram pra essa lata velha comer?"
+        },
+        {
+            "id": 8,
+            "model": "돈키호테",
+            "content": "Oooh!!! A longa, longa espera finalmente se encerrou, e a aventura se principia!!!"
+        },
+        {
+            "id": 9,
+            "model": "싱클레어",
+            "content": "E-era isso... era isso que estávamos esperando?"
+        },
+        {
+            "id": 10,
+            "model": "베르길리우스",
+            "content": "... Não."
+        },
+        {
+            "id": 11,
+            "content": "Vergilius franziu a testa o máximo que pôde entre as sobrancelhas e se virou para Faust."
+        },
+        {
+            "id": 12,
+            "content": "Não era típico dele, mas percebi que ele estava um pouco nervoso."
+        },
+        {
+            "id": 13,
+            "model": "카론",
+            "content": "Weewoo weewoo. Mefis está chorando. Mefis, está doente?"
+        },
+        {
+            "id": 14,
+            "model": "베르길리우스",
+            "content": "O que está acontecendo, Senhorita Faust? Não fui informado de um alarme como esse."
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "……"
+        },
+        {
+            "id": 16,
+            "model": "파우스트",
+            "content": "Antes de mais nada, gostaria de corrigir algumas falácias. Mefistófeles não é uma \"lata velha\" e \"comer\" não faz parte de seu comportamento."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Ele ocasionalmente usa os equipamentos de suprimento de Encefalina instalados no motor para combustível, mas não há consequências nisso. Mesmo que algo desse errado, poderia ser facilmente reparado após uma desmonta completa..."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Tá bom! Tsk. Então qual o problema? Parece que o ônibus vai explodir!"
+        },
+        {
+            "id": 19,
+            "model": "파우스트",
+            "content": "Clamar que o Mefistófeles é uma \"lata velha\" é ignorar por completo a dedicação que Faust colocou nos designs e..."
+        },
+        {
+            "id": 20,
+            "model": "싱클레어",
+            "content": "Heathcliff, se você não retirar o que disse ela nunca vai parar..."
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Haah, droga..."
+        },
+        {
+            "id": 22,
+            "model": "로쟈",
+            "content": "É, Heath. Pede desculpas logo... É capaz do ônibus explodir antes dela começar a explicar algo!"
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Ugh..."
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "... Retiro o que disse antes."
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Não compreendo o que você está tentando \"retirar\". O que você diz é um tanto abstrato, um conceito desconhecido que supostamente foi mencionado \"antes\". Faust prefere muito mais explicar os grandiosos e refinados detalhes da construção do Mefistófeles, por exemplo, este parafuso..."
+        },
+        {
+            "id": 26,
+            "model": "히스클리프",
+            "content": "Tá! Eu disse que retiro o que eu disse sobre o Ônibus! Não é uma lata velha e ele não come! Desculpa, ok?!"
+        },
+        {
+            "id": 27,
+            "content": "O seu grito ecoa brevemente pela cabine e então... um breve silêncio."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "……"
+        },
+        {
+            "id": 29,
+            "content": "Juro que vi o menor dos sorrisos na cara da Faust, talvez um de satisfação..."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Bom."
+        },
+        {
+            "id": 31,
+            "model": "베르길리우스",
+            "content": "Fechem as cortinas desse teatro. Essa troca ridícula está testando minha paciência."
+        },
+        {
+            "id": 32,
+            "model": "단테2",
+            "content": "<Certo, este alarme é um tanto diferente dos outros... Não acho que seja para uma porta nova.>"
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "É algo simples. Chegou a Noite."
+        },
+        {
+            "id": 34,
+            "model": "료슈",
+            "content": "O.Q.Q.D."
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "F.O.E.C.P.F"
+        },
+        {
+            "id": 36,
+            "model": "싱클레어",
+            "content": "Fale Ou Eu Corto seu Pes—"
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "Me aparenta que a Noite de Walpurgis chegou."
+        },
+        {
+            "id": 38,
+            "model": "뫼르소",
+            "content": "Ainda não está de noite. É bem aparente, pelo menos nesta área costeira."
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Não é... a noite no sentido em que o sol se move além da linha de vista."
+        },
+        {
+            "id": 40,
+            "model": "뫼르소",
+            "content": "Hm."
+        },
+        {
+            "id": 41,
+            "model": "이상",
+            "content": "Então, com essa informação, me aparenta ser o nome de um fenômeno?"
+        },
+        {
+            "id": 42,
+            "content": "Yi Sang parecia um tanto melhor agora, visto que as ondas estavam mais calmas."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "Correto. O motor de Mefistófeles possui várias funções, dentre elas, tenho certeza que são familiares com a extração de Identidades e E.G.O dos mundos espelhados."
+        },
+        {
+            "id": 44,
+            "model": "파우스트",
+            "content": "Mas o seu alcance é um tanto limitado. Embora ela esteja em constante crescimento..."
+        },
+        {
+            "id": 45,
+            "model": "오티스",
+            "content": "Isso tem haver com os Ramos de Ouro? Eu notei que estávamos vendo cada vez mais coisas novas conforme avançamos nossa jornada."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Em termos gerais, sim. Suponho que esteja certo. O alcance das nossas Extrações se expandem relativo com nossas experiencias e as habilidades de Dante."
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "content": "Normalmente, as Extrações tem um custo... mas houve momentos onde Cartões de Identidade aparecem do nada. Você se lembra, Dante?"
+        },
+        {
+            "id": 48,
+            "model": "단테2",
+            "content": "<É, sim. Alguns deles simplesmente saíram do nada do motor.>"
+        },
+        {
+            "id": 49,
+            "model": "히스클리프",
+            "content": "Peraí, Peraí. Um momento."
+        },
+        {
+            "id": 50,
+            "model": "히스클리프",
+            "content": "O que diabos é um Cartão de Identidade?"
+        },
+        {
+            "id": 51,
+            "model": "홍루",
+            "content": "Oh, você ainda não sabe? Hm... Tenho um tanto de inveja de você, Heathcliff. Parece que você facilmente ignora tudo com o qual não se importa~"
+        },
+        {
+            "id": 52,
+            "model": "히스클리프",
+            "content": "Tá querendo morrer ou algo do tipo?"
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Ok... Vamos parar por aqui, pessoal. Um certo guia está nos matando com os olhos."
+        },
+        {
+            "id": 54,
+            "model": "그레고르",
+            "content": "Elas são, sabe, as... uh, aquelas coisinhas que o nosso amigo Gerente aqui tira do motor de vez em quando."
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Aqueles negocinhos retangulares com o pessoal do outro mundo... Os.. Os mundos espelhados, né? Que seja, são aquelas coisas que são \"nós\" de outros mundos."
+        },
+        {
+            "id": 56,
+            "model": "홍루",
+            "content": "Sim! Elas parecem peças de mahjong, não?"
+        },
+        {
+            "id": 57,
+            "model": "로쟈",
+            "content": "Pra mim elas parecem com biscoitos."
+        },
+        {
+            "id": 58,
+            "model": "이상",
+            "content": "Acredito que a denominação é relativa a sua aparência física, visto que é um cartão que contem as identidades, é apenas natural que eles foram chamados de Cartões de Identidade."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Então... estamos usando esses brinquedinhos retangulares para nos transformar nos nossos eus alternativos?"
+        },
+        {
+            "id": 60,
+            "model": "히스클리프",
+            "content": "Eu nunca usei um deles."
+        },
+        {
+            "id": 61,
+            "model": "단테2",
+            "content": "<É porque sou eu quem os usa.>"
+        },
+        {
+            "id": 62,
+            "model": "파우스트",
+            "content": "No terminal que foi entregue a Dante existem pequenas entradas nos quais Cartões de Identidade e E.G.O podem ser inseridos. Eles são então refletidos quando participamos em uma batalha."
+        },
+        {
+            "id": 63,
+            "model": "그레고르",
+            "content": "Ah, então é com essas coisas que Dante ficava mexendo antes de toda luta..."
+        },
+        {
+            "id": 64,
+            "content": "Pela cara de espanto que Heathcliff fez, pude entender que ele nunca tinha parado para pensar em nada disso, era como se ele tivesse acabado de descobrir algo novo."
+        },
+        {
+            "id": 65,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 66,
+            "content": "Por outro lado, Don Quixote tinha... uma expressão um tanto desamparada."
+        },
+        {
+            "id": 67,
+            "model": "단테2",
+            "content": "<Algo de errado, Don Quixote?>"
+        },
+        {
+            "id": 68,
+            "model": "돈키호테",
+            "content": "Bem, veja só..."
+        },
+        {
+            "id": 69,
+            "model": "돈키호테",
+            "content": "Não seria este um dos momentos onde a Senhorita Ishmael adentraria a conversa e caçoaria Heathcliff com palavras frias como \"Você não sabia disso? É bem da sua cara.\"? Esse vazio pesa demasiadamente em meu coração..."
+        },
+        {
+            "id": 70,
+            "model": "로쟈",
+            "content": "Ohh~ Você tá certa. Eu sabia que tinha algo faltando."
+        },
+        {
+            "id": 71,
+            "model": "히스클리프",
+            "content": "Vocês são uns babacas..."
+        },
+        {
+            "id": 72,
+            "model": "베르길리우스",
+            "content": "Chega."
+        },
+        {
+            "id": 73,
+            "model": "베르길리우스",
+            "content": "Deixamos a conversa para trás. Senhora Faust, poderia por favor explicar o que são estas luzes verdes?"
+        },
+        {
+            "id": 74,
+            "model": "파우스트",
+            "content": "Certo. Se levarmos em conta os casos em que Dante conseguiu Cartões de Identidade sem ter que pagar o preço usual, podemos concluir que as Extrações de Mefistófeles ainda tem um elemento de imprevisibilidade devido às incertezas do processo."
+        },
+        {
+            "id": 75,
+            "model": "히스클리프",
+            "content": "O que diabos ela disse...?"
+        },
+        {
+            "id": 76,
+            "model": "이상",
+            "content": "A incerteza está em meio às formas do projeto..."
+        },
+        {
+            "id": 77,
+            "model": "파우스트",
+            "content": "Correto. A Encefalina serve como combustível para o Motor, sim. Porém, Extrações e reconstruções utilizam o caos... Bem, em termos mais leigos, poderia ser tido que elas usam o próprio conceito de possibilidades como combustível."
+        },
+        {
+            "id": 78,
+            "model": "파우스트",
+            "content": "Nosso alcance de Extração cresce quando somos capazes de observar claramente as possibilidades específicas dos Mundos espelhados, que são infinitamente ramificados. Porém, durante este período atual...as fronteiras entre as realidades dentre o espelho são completamente desfeitas."
+        },
+        {
+            "id": 79,
+            "model": "파우스트",
+            "content": "Se usarmos o momento atual como referência, pode ser dito que nosso alcance de Extração é de aproximadamente 3 anos para o passado e futuro. Durante a Noite de Walpurgis, esse alcance aumenta em até 10 anos, se não mais."
+        },
+        {
+            "id": 80,
+            "model": "돈키호테",
+            "content": "S-se é este o caso! Vós diz que talvez podemos ter a graça de encontramos Identidades de Mandatários famosos...?!"
+        },
+        {
+            "id": 81,
+            "model": "파우스트",
+            "content": "Teoricamente, sim. No entendo, cada Noite de Walpurgis possui uma independência própria do momento, não podemos simplesmente retirar todas as possibilidades como bem entendemos."
+        },
+        {
+            "id": 82,
+            "model": "돈키호테",
+            "content": "Q-q-q-q-q-quer dizer que n-nós também seriamos capazes de acessar nossos eus alternativos de grandes mandatários, como talvez, a arquimagnificência, a única e maravilhosa..."
+        },
+        {
+            "id": 83,
+            "model": "돈키호테",
+            "content": "N-NÉVOA VERMELHA...?!"
+        },
+        {
+            "id": 84,
+            "model": "파우스트",
+            "content": "... É algo extremamente improvável, mas não podemos completamente descartar a possibilidade."
+        },
+        {
+            "id": 85,
+            "model": "파우스트",
+            "content": "Eu suponho que o alcance que temos esta inevitavelmente entrelaçado com acontecimentos indispensáveis para a formação atual deste mundo. Um exemplo seria a Sede da Lobotomy Corporation antes do Incidente das \"Noites Brancas e Dias Escuros\""
+        },
+        {
+            "id": 86,
+            "model": "파우스트",
+            "content": "De certa forma... sua pergunta acertou o cerne da questão, Don Quixote."
+        },
+        {
+            "id": 87,
+            "model": "베르길리우스",
+            "content": "……"
+        },
+        {
+            "id": 88,
+            "content": "Eu não sabia quem era essa tal de Névoa Vermelha nem o que diabos foram as Noites Brancas e Dias Escuros..."
+        },
+        {
+            "id": 89,
+            "content": "Mas considerando a face que o Vergilius fez quando ouviu os nomes, eu arrisco pensar que ambos devem ter sido bem significantes. Até mesmo os Pecadores ficaram inquietos."
+        },
+        {
+            "id": 90,
+            "model": "베르길리우스",
+            "content": "Podemos concluir que esta sirene não tem como motivo uma situação urgente, então. "
+        },
+        {
+            "id": 91,
+            "model": "파우스트",
+            "content": "Não é o caso. Considere como... um festival, que acontece de vez em quando. Por enquanto."
+        },
+        {
+            "id": 92,
+            "model": "카론",
+            "content": "Festival. Festas. Charon está festiva também."
+        },
+        {
+            "id": 93,
+            "model": "싱클레어",
+            "content": "Não sei se entendi tudo que foi dito, mas... não é isso que isso que estávamos esperando, é?"
+        },
+        {
+            "id": 94,
+            "model": "베르길리우스",
+            "content": "Não. Nós continuaremos esperando."
+        },
+        {
+            "id": 95,
+            "model": "오티스",
+            "content": "Tsk."
+        },
+        {
+            "id": 96,
+            "content": "Novamente, os Pecadores são tomados pela decepção quando uma nova expectativa se esvai."
+        },
+        {
+            "id": 97,
+            "content": "Bem, pelo menos algo aconteceu... mas nada que nos fez nos mexer. Posso ver o quão chato deve ter sido para eles, ainda mais nesse vasto oceano, com pouco para se fazer."
+        },
+        {
+            "id": 98,
+            "model": "그레고르",
+            "content": "E... essa luzinha verde vai parar de piscar quando?"
+        },
+        {
+            "id": 99,
+            "model": "파우스트",
+            "content": "Não se preocupe. Assim que Dante extrair algo do motor, ela se desligará."
+        },
+        {
+            "id": 100,
+            "model": "베르길리우스",
+            "content": "Certo, todos de volta ao trabalho. Dante, extraia alguma coisa pra desligar esse alarme."
+        },
+        {
+            "id": 101,
+            "model": "료슈",
+            "content": "Q.D. De qualquer forma, nós só estaremos voltando a fazer mais Masmorras pela Porta Traseira com as coisas novas que ele tirar."
+        },
+        {
+            "id": 102,
+            "model": "홍루",
+            "content": "Mas~ Essa oportunidade pra lazer é um tanto rara, não~?"
+        },
+        {
+            "id": 103,
+            "model": "이상",
+            "content": "A paciência é uma virtude."
+        },
+        {
+            "id": 104,
+            "content": "Cada Pecador disse o que tinha que dizer e voltaram para seus lugares."
+        },
+        {
+            "id": 105,
+            "content": "Alguns saem para olhar o Lago, algo já deve estar um tanto enjoativo a este ponto. ...Talvez estejam indo só para soltar um bom suspiro."
+        },
+        {
+            "id": 106,
+            "content": "...Outis, porém, se aproximou de mim."
+        },
+        {
+            "id": 107,
+            "model": "오티스",
+            "content": "Você não está preocupado, Gerente Executivo?"
+        },
+        {
+            "id": 108,
+            "model": "단테2",
+            "content": "<Huh?>"
+        },
+        {
+            "id": 109,
+            "model": "오티스",
+            "content": "Aquela cientista bizarra disse \"até agora\"... Tem que haver algo mais por trás disso. Posso investigar mais caso queira?"
+        },
+        {
+            "id": 110,
+            "content": "Ela tem razão... É bem provável que a Faust sabe mais sobre esse fenômeno do que ela está demonstrando."
+        },
+        {
+            "id": 111,
+            "content": "Mas, pelo jeito que ela falou... é um tanto obvio que ela não responderá mesmo se perguntarmos."
+        },
+        {
+            "id": 112,
+            "model": "단테2",
+            "content": "<Bem, me incomoda um pouco... Mas por enquanto não temos o que fazer. Mas deixa isso guardado na memória por enquanto.>"
+        },
+        {
+            "id": 113,
+            "content": "Outis concordou afirmativamente, fez uma reverência e voltou ao seu assento."
+        },
+        {
+            "id": 114,
+            "content": "Bem... vamos começar as extrações, como a Faust disse."
+        }
+    ]
+}

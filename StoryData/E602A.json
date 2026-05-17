@@ -1,0 +1,164 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da T Corp.",
+            "content": "Um Funcionário da T Corp. que vestia um uniforme diferente se aproximou dos Pecadores enquanto ambos os lados assumiam uma postura defensiva."
+        },
+        {
+            "id": 1,
+            "model": "T사4등급",
+            "teller": "Funcionário de Coleta Classe 4",
+            "title": "T Corp.",
+            "content": "……."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Esse é o cabeça do lugar?"
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "content": "Sua posição pode ser superior, mas ele ainda é um funcionário da T Corp."
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "O que significa que nossa insistência em respondê-los com hostilidade pode resultar em uma confrontação direta contra toda a força da T Corp..."
+        },
+        {
+            "id": 5,
+            "model": "T사4등급",
+            "teller": "Funcionário de Coleta Classe 4",
+            "title": "T Corp.",
+            "content": "Abaixem suas armas, agora."
+        },
+        {
+            "id": 6,
+            "model": "T사4등급",
+            "teller": "Funcionário de Coleta Classe 4",
+            "title": "T Corp.",
+            "content": "Caso vocês se recusem a cooperar, todos os presentes serão considerados indivíduos hostis à T Corp., e nós usaremos força para..."
+        },
+        {
+            "id": 7,
+            "model": "료슈",
+            "content": "Ha ha... Gostei. Que emocionante."
+        },
+        {
+            "id": 8,
+            "model": "로쟈",
+            "content": "Vish... isso é ruim..."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Esta parece uma ótima hora para o Vergilius, com os seus olhos brilhantes e intimidadores—>"
+        },
+        {
+            "id": 10,
+            "model": "뫼르소",
+            "content": "—Aparecer."
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Cara, as coisas entre a gente e o nosso amigo guia não estavam bem melhores alguns dias atrás? Parece que se passaram anos desde então."
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "content": "Qual é, não nos olha assim. Nós tivemos os nossos motivos, né? Eles apareceram do nada e tentaram extorquir um valor de dez bilhões de Ahn—"
+        },
+        {
+            "id": 13,
+            "model": "T사2등급",
+            "teller": "Funcionária de Coleta Classe 2",
+            "title": "T Corp.",
+            "content": "... Dez bilhões e quarenta milhões de Ahn, para ser exata."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Você realmente gosta de falar isso, né não? Caramba..."
+        },
+        {
+            "id": 15,
+            "model": "로쟈",
+            "content": "Pois é. O fato é, não tem como a gente dever tanta grana pra eles! Nós somos cidadãos bondosos e que respeitam as leis..."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Que transbordam com um senso de Justiça!"
+        },
+        {
+            "id": 17,
+            "model": "로쟈",
+            "content": "Isso aí~!"
+        },
+        {
+            "id": 18,
+            "content": "Vergilius ouviu em silêncio por um momento enquanto os Pecadores tagarelavam como se fizessem parte de um programa de comédia."
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "Sim, concordo que dez bilhões de Ahn em impostos não parece fazer sentido. No entanto..."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "... É um mistério para mim como ninguém parou por um segundo para pensar nos problemas que vocês poderiam causar começando uma briga sem sentido como essa. E, ainda por cima, bem no meio da rua."
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "content": "Mmm..."
+        },
+        {
+            "id": 22,
+            "model": "베르길리우스",
+            "content": "Haaah..."
+        },
+        {
+            "id": 23,
+            "content": "Vergilius soltou um suspiro profundo antes de se virar para o funcionário da T Corp."
+        },
+        {
+            "id": 24,
+            "model": "베르길리우스",
+            "content": "... Lamentamos que este incidente tenha resultado em derramamento de sangue."
+        },
+        {
+            "id": 25,
+            "model": "베르길리우스",
+            "content": "No entanto, dez bilhões de Ahn em Impostos Temporais... é inaceitável."
+        },
+        {
+            "id": 26,
+            "model": "베르길리우스",
+            "content": "Tenho certeza que vocês sabem muito bem que dez bilhões de Ahn em impostos não é o tipo de quantia que podemos simplesmente desembolsar no meio da rua."
+        },
+        {
+            "id": 27,
+            "model": "베르길리우스",
+            "content": "Acredito que teria sido mais apropriado se vocês tivessem nos fornecido algum contexto sobre como esse valor foi calculado, em vez de imediatamente nos confrontarem e exigirem que pagássemos o Imposto Temporal."
+        },
+        {
+            "id": 28,
+            "model": "T사4등급",
+            "teller": "Funcionário de Coleta Classe 4",
+            "title": "T Corp.",
+            "content": "... Admito que uma quantia tão absurda de Imposto Temporal sendo cobrada do seu grupo é... quase sem precedentes. Fomos convocados para uma reunião de emergência em um escritório responsável para tratar da gravidade deste incidente."
+        },
+        {
+            "id": 29,
+            "model": "T사4등급",
+            "teller": "Funcionário de Coleta Classe 4",
+            "title": "T Corp.",
+            "content": "Entendo seu ponto. Que tal movermos esta conversa para o Escritório de Coleta na área de jurisdição responsável para discutirmos possíveis soluções?"
+        }
+    ]
+}

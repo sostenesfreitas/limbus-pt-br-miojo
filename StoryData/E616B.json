@@ -1,0 +1,471 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "???",
+            "content": "Tudo bem, como isso aconteceu?"
+        },
+        {
+            "id": 1,
+            "content": "Primeiro, embarcamos no trem WARP para chegar ao nosso próximo destino, P Corp..."
+        },
+        {
+            "id": 2,
+            "content": "Entramos em nossas luxuosas cápsulas de hibernação de congelamento imediato de primeira classe e..."
+        },
+        {
+            "id": 3,
+            "content": "... nós deveríamos ter chegado na P Corp. depois de um piscar de olhos, mas..."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "Dante, por favor, responda. Há—"
+        },
+        {
+            "id": 5,
+            "content": "A primeira coisa que vi quando minha visão retornou foi o olhar perplexo de Faust,\nque havia entrado em hibernação ao mesmo tempo que eu..."
+        },
+        {
+            "id": 6,
+            "content": "... então percebi que acordamos no meio do caminho no trem WARP..."
+        },
+        {
+            "id": 7,
+            "content": "... o que só poderia significar que agora estamos presos em alguma dimensão perdida e desconhecida...?"
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "Dante, entendo seu considerável grau de desorientação, mas..."
+        },
+        {
+            "id": 9,
+            "content": "O que..."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<... O que diabos aconteceu?>"
+        },
+        {
+            "id": 11,
+            "content": "Antes de mais nada..."
+        },
+        {
+            "id": 12,
+            "content": "... vamos rebobinar até o início desta situação altamente desfavorável em que nos encontramos."
+        },
+        {
+            "id": 13,
+            "content": "Alguns dias atrás..."
+        },
+        {
+            "id": 14,
+            "place": "A Bordo do Mefistófeles",
+            "model": "베르길리우스",
+            "content": "Nosso próximo destino... é um trem WARP, Dante."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<... O quê?>"
+        },
+        {
+            "id": 16,
+            "content": "Uhum. Foi aí que tudo começou."
+        },
+        {
+            "id": 17,
+            "content": "Lá estava eu, ainda perplexo com os incidentes na T Corp., com minha péssima ideia de mudar de assunto perguntando ao Vergilius qual seria o nosso próximo destino. Sem saber a tempestade que minha pergunta inocente traria."
+        },
+        {
+            "id": 18,
+            "model": "돈키호테",
+            "content": "I-i-i-i-i-inconcebível, devo ter escutado mal!?"
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "Tenho certeza que me escutou bem, Don Quixote."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "Agora estamos a caminho da estação de trens WARP da T Corp."
+        },
+        {
+            "id": 21,
+            "model": "돈키호테",
+            "content": "Essa estação de trens whuh-WARP deve ter algum empecilho que precisa ser resolvido lá, por certo? U-uma missão que deve ser completada de prontidão <i>na</i> estação, sim?"
+        },
+        {
+            "id": 22,
+            "model": "그레고르",
+            "content": "Apareceu uma Distorção em uma das plataformas WARP ou algo assim?"
+        },
+        {
+            "id": 23,
+            "model": "베르길리우스",
+            "content": "Vejo que vocês estão significativamente menos desinteressados em aceitar alguns trabalhos paralelos agora. Mas não."
+        },
+        {
+            "id": 24,
+            "model": "베르길리우스",
+            "content": "Vamos embarcar em um trem WARP para chegar à P Corp., fim da história. Não há letras miúdas no contrato, então vocês não precisam ficar pensando demais nisso."
+        },
+        {
+            "id": 25,
+            "teller": "Pecadores",
+            "title": "LCB",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "content": "Não era de se estranhar que os Pecadores imediatamente caíssem em um estado de choque coletivo e perplexo."
+        },
+        {
+            "id": 27,
+            "content": "Nenhum dos Pecadores tem histórico de trabalho na W Corp., mas..."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Nós... realmente vamos embarcar naquele trem?>"
+        },
+        {
+            "id": 29,
+            "content": "... através das informações vagas que conseguimos reunir das Identidades, todos nós tínhamos algum conhecimento fragmentário sobre os terríveis segredos de como os trens WARP operam."
+        },
+        {
+            "id": 30,
+            "content": "Inicialmente, pensei em esconder essa informação do resto dos Pecadores, mas como compartilhar as coisas com todos e deixá-los dar suas opiniões geralmente acabava sendo muito útil, tenho compartilhado mais informações como essa ultimamente."
+        },
+        {
+            "id": 31,
+            "model": "이상",
+            "content": "Embora as poucas lembranças que eu tenho de quando uso as Identidades são muito vagas..."
+        },
+        {
+            "id": 32,
+            "model": "뫼르소",
+            "content": "Mm. Pode ser determinado pelos registros de conversas entre Dante e as Identidades que os mecanismos por trás das operações dos trens WARP podem ser considerados um tanto bizarros e ineficientes."
+        },
+        {
+            "id": 33,
+            "model": "홍루",
+            "content": "Ohh~ Sim! É aquela viagem de 10 segundos que na verdade leva muitíssimo tempo~ Certo? E quando o trem chega ao destino, eles simplesmente apagam as memórias dos passageiros?"
+        },
+        {
+            "id": 34,
+            "model": "싱클레어",
+            "content": "E-eu também ouvi dizer que os passageiros ficam tão cansados ​​​​e exaustos que começam a literalmente cortar e dilacerar uns aos outros..."
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "Parece que finalmente terei a chance de ver uma obra-prima com meus próprios olhos."
+        },
+        {
+            "id": 36,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 37,
+            "content": "Mesmo quando os Pecadores usam Identidades através das minhas Cartões de Identidade, as memórias ou crenças das Identidades não são transferidas para eles quando terminam de usar elas."
+        },
+        {
+            "id": 38,
+            "content": "Lembro-me de quando Faust explicou que, devido aos riscos associados a aceitação de tais influências, existia um processo de filtragem para intencionalmente ás bloquear e as impedir de alcançar os Pecadores."
+        },
+        {
+            "id": 39,
+            "content": "É por isso que os Pecadores podem usar as identidades de alguns de nossos piores inimigos sem serem infectados por suas e filosofias e coisas do tipo..."
+        },
+        {
+            "id": 40,
+            "content": "... Mas também significa que eles não conseguem reter nenhuma informação nova que cada identidade pode oferecer. É por isso que mantenho um registro de algumas informações particularmente importantes e algumas vezes as compartilho com o resto dos Pecadores."
+        },
+        {
+            "id": 41,
+            "model": "단테",
+            "content": "<Minha \"voz\" não passa muito bem pela janela, então a maioria de nossas comunicações são unilaterais. Mas...>"
+        },
+        {
+            "id": 42,
+            "content": "... Eu tinha uma abundância de identidades da W Corp. Então não foi difícil entender a verdade por trás dos trens."
+        },
+        {
+            "id": 43,
+            "content": "Mas... Hum.."
+        },
+        {
+            "id": 44,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 45,
+            "content": "Talvez ignorância seja realmente uma benção..."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Sua preocupação coletiva e possível desobediência já foram levadas em consideração."
+        },
+        {
+            "id": 47,
+            "model": "돈키호테",
+            "content": "Senhorita Faust?! Então já sabias desde o princípio?! Por quê não dissestes nada para minha pessoa?! "
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "content": "Faust de fato sabia disto desde o começo, pois nenhum conhecimento está fora dos alcances de Faust. Naturalmente, uma solução para este dilema já foi preparada."
+        },
+        {
+            "id": 49,
+            "model": "이스마엘",
+            "content": "Duvido muito que sua solução envolva <i>não</i> pegar o trem, então o que pode ser?"
+        },
+        {
+            "id": 50,
+            "model": "싱클레어",
+            "content": "O ônibus... oh, e quanto ao ônibus? Não tem como essa coisa caber dentro de um vagão de trem!"
+        },
+        {
+            "id": 51,
+            "model": "카론",
+            "content": "Charon é contra também. Ninguém vai alimentar o Mefis se Charon estiver ausente."
+        },
+        {
+            "id": 52,
+            "model": "베르길리우스",
+            "content": "... Senhorita Faust."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Os vagões mais ao fundo dos trens WARP são todos vagões de carga. Será onde o Mephistopheles ficará guardado e será transportado com segurança."
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "E a LCB terá..."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "... o benefício de embarcarem como passageiros de primeira classe."
+        },
+        {
+            "id": 56,
+            "content": "O ônibus começa a ficar cheio de barulho novamente, embora com um ar um pouco diferente da resposta alarmada de antes."
+        },
+        {
+            "id": 57,
+            "model": "히스클리프",
+            "content": "Passageiros de primeira classe...? O quê, os assentos para aqueles filhinhos de papai?"
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "content": "Até em trens normais a gente encontra esses idiotas, a maior conquista da vida deles é sentar em assentos de primeira classe, enquanto os outros se amontoam em vagões de carga porque não têm dinheiro nem para uma passagem econômica..."
+        },
+        {
+            "id": 59,
+            "model": "싱클레어",
+            "content": "E-ei, não olhe assim para mim... eu nunca estive em um desses assentos de primeira classe antes..."
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "O bilhete para um único assento de primeira classe não é tão caro quanto, tipo, três ou quatro meses de salário de um funcionário novato de uma Asa? Nosso orçamento realmente dá conta de comprar um bilhete para cada um de nós?"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "O orçamento da empresa não é um assunto que você deva se preocupar com."
+        },
+        {
+            "id": 62,
+            "model": "그레고르",
+            "content": "Ouvi dizer que os passageiros de primeira classe ganham uns brindes maneiros, tipo... cápsulas individuais personalizadas ou algo assim, não é não?"
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "Essa é a informação promocional, sim. Elas são cápsulas de hibernação instantânea, para ser exata."
+        },
+        {
+            "id": 64,
+            "model": "파우스트",
+            "content": "Elas foram feitas com o propósito de resistir facilmente a \"verdadeira\" quantia de tempo que leva para o trem WARP viajar do ponto A ao ponto B. Para os passageiros, é como se a viajem terminasse em um piscar de olhos."
+        },
+        {
+            "id": 65,
+            "model": "이상",
+            "content": "A consideração da companhia pelo nosso bem-estar não é algo comum, mas fico agradecido. Oferecerem tamanha extravagância apenas pelo nosso conforto... é algo que se destaca pela sua raridade."
+        },
+        {
+            "id": 66,
+            "model": "로쟈",
+            "content": "Né? Eu honestamente achei que eles comprariam assentos de primeira classe só para a Charon e para o nosso guia e o resto de nós ficaríamos com os vagões econômicos."
+        },
+        {
+            "id": 67,
+            "model": "오티스",
+            "content": "Hmph, isso parece um gasto desnecessário. A companhia deveria ter economizado seu orçamento e dado apenas ao Gerente Executivo e sua conselheira leal acesso a esses assentos."
+        },
+        {
+            "id": 68,
+            "model": "이스마엘",
+            "content": "Não vamos nos precipitar. Estamos pegando o trem para chegar à nossa próxima missão, não é? Temos que pensar na natureza única dos trens WARP e nos preparar adequadamente."
+        },
+        {
+            "id": 69,
+            "model": "싱클레어",
+            "content": "Não é...?! Eu sei que é a primeira classe e tudo mais, mas trens WARP são muito assustadores. Eu sabia que você também estaria preocupada sobre—"
+        },
+        {
+            "id": 70,
+            "model": "이스마엘",
+            "content": "Por exemplo, os passageiros da classe econômica vão ter dificuldades em entrar em um vagão da primeira classe. Quer dizer, se eles sequer conseguirem tentar abrir ele. Eu tenho quase certeza que as portas que separam os vagões são blindadas."
+        },
+        {
+            "id": 71,
+            "content": "Ishmael, que estava segurando aquele panfleto promocional da primeira classe nas mãos há algum tempo, continuava falando com fogo nos olhos."
+        },
+        {
+            "id": 72,
+            "model": "이스마엘",
+            "content": "Não teremos nem que levantar um dedo. Só temos que embarcar no trem, entrar nas nossas cápsulas, fechar os nossos olhos e dormir durante toda a viagem até que aquela bagunça nos outros vagões se resolva. Ouvi dizer que eles costumavam distribuir brindes quando a empresa não tinha que economizar tanto, e—"
+        },
+        {
+            "id": 73,
+            "model": "싱클레어",
+            "content": "Oh..."
+        },
+        {
+            "id": 74,
+            "model": "돈키호테",
+            "content": "Uma verdadeira aventura não existe sem dificuldades... Ainda assim... até mesmo os mais bravos heróis não podem se aventurar sem descanso...! E, em ocasiões ainda mais raras, o herói pode ainda se dignar a escolher um assento de primeira classe onde irá descansar, ao invés de uma estalagem relaxante... de fato... primeira classe..."
+        },
+        {
+            "id": 75,
+            "content": "Parece que todo mundo estava pelo menos um pouco interessado nos lendários assentos de primeira classe dos trens WARP."
+        },
+        {
+            "id": 76,
+            "content": "Eu conseguia sentir que havia um consenso crescente entre os Pecadores de que até mesmo uma viagem de trem WARP poderia ser aceitável se isso significasse que eles poderiam viajar nos assentos de primeira classe."
+        },
+        {
+            "id": 77,
+            "model": "뫼르소",
+            "content": "Se for preciso embarcar, eu embarco."
+        },
+        {
+            "id": 78,
+            "model": "료슈",
+            "content": "É obrigatório ir na primeira classe? Prefiro a rota cênica. Não quero ficar de fora da diversão."
+        },
+        {
+            "id": 79,
+            "content": "Vergilius fingiu não ouvir a pergunta de Ryōshū."
+        },
+        {
+            "id": 80,
+            "model": "베르길리우스",
+            "content": "Muito bem. Então presumo que estamos todos de acordo. Vamos."
+        },
+        {
+            "id": 81,
+            "model": "돈키호테",
+            "content": "Uh..."
+        },
+        {
+            "id": 82,
+            "model": "돈키호테",
+            "content": "Tenho um assunto de suma importância para discutir contigo..."
+        },
+        {
+            "id": 83,
+            "model": "히스클리프",
+            "content": "Que foi? Fala logo, moça. Ficar enrolando não é o seu estilo."
+        },
+        {
+            "id": 84,
+            "content": "Don Quixote começou a falar baixinho, quase sussurrando."
+        },
+        {
+            "id": 85,
+            "model": "돈키호테",
+            "content": "É que... nos assentos da primeira classe..."
+        },
+        {
+            "id": 86,
+            "model": "돈키호테",
+            "content": "Ouvi dizer que devemos embarcar com os nossos pés livres de calçados. Essa afirmação é verdadeira?"
+        },
+        {
+            "id": 87,
+            "model": "로쟈",
+            "content": "... Oh, qual é, heim. De onde saiu essa fofoca tão ridícula...?"
+        },
+        {
+            "id": 88,
+            "model": "돈키호테",
+            "content": "Isto não é fofoca! É verdade, eu ouvi isso de transeuntes que passaram por nós antes, e..."
+        },
+        {
+            "id": 89,
+            "model": "돈키호테",
+            "content": "... Quando um deles perguntou, \"Você sabe que é preciso ir descalço na primeira classe, né?\" o outro respondeu: \"É claro, cara. O que você acha que eu sou, estupido?\"..."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "É verdade o que o viajante proferiu, Ishmael?"
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "N-Não pergunta pra mim, eu também nunca andei em um desses."
+        },
+        {
+            "id": 92,
+            "model": "이스마엘",
+            "content": "O panfleto não mencionava nada como isso... Um momento."
+        },
+        {
+            "id": 93,
+            "model": "돈키호테",
+            "content": "Está é uma impossibilidade! Não me separarei de meu querido Rocinante nem por tudo nesta Cidade...! Não irei tomar parte de tais atos e nem deixarei Rocinante à mercê de pessoas de tal humor tal quanto o de Heathcliff...!"
+        },
+        {
+            "id": 94,
+            "model": "히스클리프",
+            "content": "Ô, sua...!"
+        },
+        {
+            "id": 95,
+            "model": "돈키호테",
+            "content": "Ó ilustre Olhar Vermelho...! Eu lhe imploro, dê-me a permissão, deixa-me entrar neste trem ainda com meu Rocinanteeeeee..."
+        },
+        {
+            "id": 96,
+            "model": "베르길리우스",
+            "content": "……."
+        },
+        {
+            "id": 97,
+            "content": "Em minha mente, Vergilius estava pronto para responder com suas rejeições habituais. Mas o contrário aconteceu, ele respondeu com um tom um tanto sério, mesmo que ainda carregando um pouco de seu familiar tom irritado."
+        },
+        {
+            "id": 98,
+            "model": "베르길리우스",
+            "content": "Tudo bem. Mantenha seus... sapatos..."
+        }
+    ]
+}

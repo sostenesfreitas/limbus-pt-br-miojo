@@ -1,0 +1,39 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Interior do Palanquim",
+            "model": "뉴소드",
+            "content": "Then, you'll—"
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Espera."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Something's going on outside."
+        },
+        {
+            "id": 3,
+            "content": "Enquanto a fala de Sword se interrompia por um instante, talvez por haver um alto-falante instalado no interior, de repente soou um ruído estridente."
+        },
+        {
+            "id": 4,
+            "model": "가마꾼",
+            "content": "W-we're under attack!"
+        },
+        {
+            "id": 5,
+            "model": "뉴소드",
+            "content": "Hum~ quando eu achava que estava tranquilo, pelo visto há vários candidatos que querem atrapalhar vocês."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<... Why am I not surprised?>"
+        }
+    ]
+}

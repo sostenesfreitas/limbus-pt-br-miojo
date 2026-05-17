@@ -1,0 +1,260 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "돈키호테",
+            "content": "Hm hm..."
+        },
+        {
+            "id": 1,
+            "model": "돈키호테",
+            "content": "Ahem, hm... É verdade que um posto de ensino costuma a imbuir qualquer um com um certo... acanhamento..."
+        },
+        {
+            "id": 2,
+            "content": "Sinclair e Xichun estavam ambos sentados com um pouco de apreensão."
+        },
+        {
+            "id": 3,
+            "content": "... Que é compreensível, visto o que Saude lhes disse um tempo antes da aula começar."
+        },
+        {
+            "id": 4,
+            "content": "Algum tempo atrás…"
+        },
+        {
+            "id": 5,
+            "place": "Daguanyuan - Auditório Especial, Passado Recente",
+            "content": "Outis, que estava encarando Don Quixote furiosamente por um bom tempo, finalmente decidiu vocalizar suas preocupações à Saude."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Mas afinal, o que é para Don Quixote, aquela mulher, ensinar mesmo?"
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "Você não parou para pensar que a leviandade habitual dela pode causar mais problemas do que ajudar...?"
+        },
+        {
+            "id": 8,
+            "model": "뉴소드",
+            "content": "Você se preocupa demais, Outis."
+        },
+        {
+            "id": 9,
+            "model": "뉴소드",
+            "content": "Por mais que não pareça, a Don Quixote é extremamente bem versada nesses contos de aventura."
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "E por que isso deveria importar?"
+        },
+        {
+            "id": 11,
+            "model": "뉴소드",
+            "content": "Você já parou para pensar que Mandatários geralmente aparecem em momentos onde história está sendo feita?"
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "…!"
+        },
+        {
+            "id": 13,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "돈키호테",
+            "content": "Eh... Deixa eu ver...!"
+        },
+        {
+            "id": 14,
+            "content": "Don Quixote saboreou o momento como se estivesse se preparando para isso a sua vida inteira... e então continuou."
+        },
+        {
+            "id": 15,
+            "model": "돈키호테",
+            "content": "Dentre os maiores Mandatários, dos quais seus honrosos nomes foram gravados na história... ah, sim! Vamos começar esta lição com o conto da Mandatária Yue Fei!"
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "Este conto tem início no ano—"
+        },
+        {
+            "id": 17,
+            "content": "Algum tempo depois…"
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Você já... terminou...?"
+        },
+        {
+            "id": 19,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Como que ela consegue falar por tanto tempo? Ela já está nisso há anos..."
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "Hm hm! Então chegaste a hora de testar vossa dedicação a esta aula, e o conhecimento que agora vocês naturalmente devem possuir! Um 'teste surpresa', se vós permitísseis!"
+        },
+        {
+            "id": 21,
+            "model": "퀴즈시춘",
+            "content": "Quando que ela sequer arranjou tempo para preparar isso...?"
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Eu posso vos assegurar; és um teste de dificuldade perfeitamente razoável se vós tivésseis prestado atenção à aula! Não vos preocupardes!"
+        },
+        {
+            "id": 23,
+            "model": "퀴즈싱클",
+            "content": "Nós vamos ser recompensados por este... 'teste surpresa'?"
+        },
+        {
+            "id": 24,
+            "model": "돈키호테",
+            "content": "Aha! Mas é claro, eu vim preparada para tais inquéritos! Para cada resposta correta, eu hei de conceder a vós, do meu próprio baú de tesouros..."
+        },
+        {
+            "id": 25,
+            "model": "돈키호테",
+            "content": "... estas preciosas, preciosas insígnias de Mandatários! Em verdade, não permiti que um dia sequer passasse sem que eu polisse cada uma delas em três ocasiões diferentes no mínimo!"
+        },
+        {
+            "id": 26,
+            "model": "퀴즈시춘",
+            "content": "Sei lá, eu meio que não... preciso disso..."
+        },
+        {
+            "id": 27,
+            "model": "돈키호테",
+            "content": "Heh heh... segure vosso aplauso, pois há uma recompensa extra para o vitorioso que, no final da competição, carregar mais insígnias consigo..."
+        },
+        {
+            "id": 28,
+            "model": "돈키호테",
+            "content": "Vós obtereis o papel de protagonista nesta peça teatral de minha autoria, <i> <Crônicas de Mandatários: Yue Fei></i>! És uma oportunidade única!"
+        },
+        {
+            "id": 29,
+            "model": "퀴즈싱클",
+            "content": "Eu ainda não vejo nenhuma vantagem para nós nisso..."
+        },
+        {
+            "id": 30,
+            "model": "퀴즈시춘",
+            "content": "Eh... ainda é uma recompensa bem inútil, mas se você vai transformar isso em uma competição, então eu não vou perder."
+        },
+        {
+            "id": 31,
+            "model": "퀴즈싱클",
+            "content": "Sério...?"
+        },
+        {
+            "id": 32,
+            "model": "퀴즈시춘",
+            "content": "Que foi, tá com medo de perder? Por acaso história é o seu ponto fraco?"
+        },
+        {
+            "id": 33,
+            "model": "퀴즈싱클",
+            "content": "Hah...! Pois fique sabendo que eu era o ajudante do professor em todas as aulas de história que eu já tive!"
+        },
+        {
+            "id": 34,
+            "model": "퀴즈시춘",
+            "content": "Heh, pois saiba você que eu, em todos os tópicos, era muito elogiada por todos os mestres que eu já tive."
+        },
+        {
+            "id": 35,
+            "model": "퀴즈싱클",
+            "content": "... Okay, se é assim que você quer brincar... pois saiba você que eu era um prodígio em outras matérias também. Eu era ótima nas aulas de artes. Muito bom em matemática, também. Eu só estava sendo humilde porque eu não queria roubar a cena, Xichun."
+        },
+        {
+            "id": 36,
+            "model": "퀴즈시춘",
+            "content": "... Oh, pois saiba você que eu fui treinada na maestria de pelo menos dez disciplinas diferentes todo dia. E em um desses dias, você sabe o que um dos meus mestres mme disse? Ele disse—"
+        },
+        {
+            "id": 37,
+            "model": "뉴소드",
+            "content": "Parece que a senhorita Jia Xichun está finalmente começando a entender como amizades de gente da mesma idade se formam na escola."
+        },
+        {
+            "id": 38,
+            "model": "뉴소드",
+            "content": "Isso é bom. Não importa o quão excelentes os mestres dela eram, algumas experiências não se aprendem com professores."
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 40,
+            "content": "Eu respondi com um tique-toque."
+        },
+        {
+            "id": 41,
+            "model": "돈키호테",
+            "content": "É o ano 505! Qual é o consenso da comunidade histórica acerca da batalha \"mais ilustre\" em que se diz que a Mandatária Yue Fei tomou parte?"
+        },
+        {
+            "id": 42,
+            "model": "돈키호테",
+            "content": "Permitam-me dar-lhes uma grande pista: Se vós tivésseis prestado atenção enquanto eu discursava sobre \"As Cinco Pilhagens\", nas quais a Mandatária Yue Fei foi mencionada, não terão dificuldades em responder esta questão!"
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "<i>O que</i> foi que a Honrosa \"Mandatária do Firmamento Cerúleo\", que obteve triunfo na batalha da Árvore Rhino no ano de 465, disse ter sido a pior provação que ela teve de enfrentar em sua carreira?"
+        },
+        {
+            "id": 44,
+            "model": "퀴즈시춘",
+            "content": "Já sei! Foi quando ela teve que seguir em frente, apesar de ver seus queridos companheiros caírem um por um enquanto mantinham suas posições para dar para ela mais tempo!"
+        },
+        {
+            "id": 45,
+            "model": "퀴즈싱클",
+            "content": "Agh, d-droga! Eu fui lento demais!!!"
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "content": "Raios, jovem Xichun! Tu estás incorreta!!!"
+        },
+        {
+            "id": 47,
+            "model": "돈키호테",
+            "content": "Foi gravada a testemunha da Honrosa 'Mandatária do Firmamento Cerúleo', que proferiu que a pior provação de sua carreira foi quando foste foi forçada a encarar seus inimigos com um cabelo que não era sedoso, pois a quebra da linha de suprimentos causou a entrega regular de seus suplementos nutricionais a cessar! O que tu sugeristes, jovem Xichun, foi sua décima sétima provação mais difícil!"
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<Ela está falando como se tivesse presenciado isso...>"
+        },
+        {
+            "id": 49,
+            "model": "돈키호테",
+            "content": "Tua impressão é deveras vívida! Contudo, ainda não passa do conteúdo que foi lido em um livro..."
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "content": "Por muito tempo eu antecipei a oportunidade de presentear estes contos para uma audiência como vós... Por isso estudei os caminhos dos bardos!"
+        },
+        {
+            "id": 51,
+            "content": "... Tinha um claro ar de orgulho em seus olhos cintilantes."
+        }
+    ]
+}

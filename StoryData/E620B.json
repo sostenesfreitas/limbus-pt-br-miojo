@@ -1,0 +1,637 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "content": "Após a Faust terminar de reunir informações..."
+        },
+        {
+            "id": 1,
+            "content": "Nós abrimos a porta da próxima cabine e fomos recebidos por uma grande comoção."
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "Parece que há outros sobreviventes além de nós?"
+        },
+        {
+            "id": 3,
+            "model": "돈키호테",
+            "content": "Ah, passageiros em perigo! Não se preocupem, pois cheguei para— Uugh!"
+        },
+        {
+            "id": 4,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Ei, ei! Não cheguem mais perto! Quem diabos são vocês?"
+        },
+        {
+            "id": 5,
+            "content": "Uma pessoa de quatro braços surgiu de repente em nosso caminho."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "... Você surgiu de repente."
+        },
+        {
+            "id": 7,
+            "content": "Faust recuou um pouco ao ser atingida pelos braços em movimento da figura que acabara de aparecer."
+        },
+        {
+            "id": 8,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah tá, como se vocês tivessem me avisado antes de praticamente arrombar a porta."
+        },
+        {
+            "id": 9,
+            "model": "그레고르",
+            "content": "...Ahm, você se importaria em tirar essa espada gigante da nossa cara? É um pouco ameaçador."
+        },
+        {
+            "id": 10,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Ameaçador? Eu a tenho para proteger os civis deste vagão de trem."
+        },
+        {
+            "id": 11,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Além disso... isso é uma bioprótese? Você deve ser das antigas, hein? Achei que esse tipo de coisa já tivesse saído de moda faz tempo."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Ah, é? Quer ver do que esse \"das antigas\" ainda é capaz?"
+        },
+        {
+            "id": 13,
+            "model": "돈키호테",
+            "content": "Ooh... a julgar por vossas vestes... sois das terras do norte!"
+        },
+        {
+            "id": 14,
+            "model": "히스클리프",
+            "content": "Tá longe da hora de falar sobre roula!"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "Mas então, parece que a gente tá atolado no mesmo buraco, então deixa a gente passar, em?"
+        },
+        {
+            "id": 16,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "……."
+        },
+        {
+            "id": 17,
+            "content": "Ela parecia estar nos analisando dos pés a cabeça."
+        },
+        {
+            "id": 18,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "E que faz vocês pensarem que eu vô deixar vocês entrarem aqui? Tem alguma prova que vocês não foram mordidos? Não vô joga todo o tempo que eu fiquei aq protegendo esse lugar fora não..."
+        },
+        {
+            "id": 19,
+            "model": "히스클리프",
+            "content": "Mordido? Do que diabos cê tá falando?"
+        },
+        {
+            "id": 20,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Por que que vocês tão assim? Se vocês tivessem na classe econômica, era para vocês terem visto os..."
+        },
+        {
+            "id": 21,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "... Pera lá."
+        },
+        {
+            "id": 22,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Vocês... vieram da primeira classe?"
+        },
+        {
+            "id": 23,
+            "model": "이스마엘",
+            "content": "Sim, acabamos de acordar das nossas cápsulas."
+        },
+        {
+            "id": 24,
+            "model": "북부대검",
+            "teller": "???",
+            "title": "???",
+            "content": "Hmm... mas pela aparência... Hmm... Primeira classe, é...? Bem, por que não me disseram antes!"
+        },
+        {
+            "id": 25,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Pode me chamar de Sasha. Chefia do Escritório Multicrack."
+        },
+        {
+            "id": 26,
+            "content": "E com isso, ela abaixou suas armas e nos deixou passar."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Sasha, você esteve neste vagão por todo esse tempo?"
+        },
+        {
+            "id": 28,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Hm? Eu acho que sim..."
+        },
+        {
+            "id": 29,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "A gente tava indo pra T Corp. prum contrato deles é pega o esse trem, mas pensar que ele ia quebrar assim... Perai, ele tá \"quebrado\" mesmo?"
+        },
+        {
+            "id": 30,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Num tô nem com sono, nem com fome... Muito estranho, de me perguntar."
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "Da pra sentir isso tudo... Mesmo com tantas próteses assim...?"
+        },
+        {
+            "id": 32,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Claro pô, dormir e comer são meus hobbies favoritos, então eu caprichei nessas funcionalidades. Dá pra perceber a diferença né?"
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "Além disso, houve mais alguma coisa relevante?"
+        },
+        {
+            "id": 34,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Pode apostar que sim! O caos aqui fora tá totalmente além do ponto!"
+        },
+        {
+            "id": 35,
+            "model": "오티스",
+            "content": "Mas que irritante... Não consegue falar sem ser tão afobada?"
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "Se ao menos você não balançasse tanto esses braços..."
+        },
+        {
+            "id": 37,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "É que... Os meus outros braços foram destruídos enquanto lutava. Tô me mexendo tanto pra esses pares sincronizarem logo, então aguenta aí."
+        },
+        {
+            "id": 38,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Enfim, não sei o quê tá rolando direito... Mas, do nada, os passageiros do trem, sem exceção, começaram a se transformar em monstros."
+        },
+        {
+            "id": 39,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Não tenho ideia de quem eles são... E parece que eles não conseguem entender o que dizemos."
+        },
+        {
+            "id": 40,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Felizmente o vagão onde eu e essas pessoas estávamos tinha poucos deles, eu só tive que despedaçar eles um pouco, e então trouxe os passageiros pra cá... Pra esse vagão vazio."
+        },
+        {
+            "id": 41,
+            "teller": "Passageiro Amedrontado",
+            "title": "???",
+            "content": "Snif, Snif..."
+        },
+        {
+            "id": 42,
+            "teller": "Passageiro Enlouquecido",
+            "title": "???",
+            "content": "Um vermelho, três mil e duzentos... Dois vermelhos, três mil duzentos e um..."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "... Mesmo sabendo que poderiam se transformar em qualquer momento, você ainda teve a intenção de protegê-los."
+        },
+        {
+            "id": 44,
+            "model": "돈키호테",
+            "content": "Tal ato é natural, porquanto os Mandatários são aqueles que postam à vanguarda para prover proteção aos indefesos!"
+        },
+        {
+            "id": 45,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Eu tô de olho nesses passageiros já fazem uns dias. E até agora nenhum deles se transformaram."
+        },
+        {
+            "id": 46,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Agora mesmo, além das portas desse vagão, tá um verdadeiro cenário infernal... Como eles sempre avançam sem parar, eu acho que lá atrás alguma coisa aconteceu e foi se espalhando até aqui."
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "content": "... Compreendo."
+        },
+        {
+            "id": 48,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "É só isso que tenho a dizer. Mas e vocês, vossas senhorias da primeira classe, porquê agraciaram os plebeus com suas ilustres presenças?"
+        },
+        {
+            "id": 49,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Mesmo que o mundo ficasse de ponta-cabeça aqui, nada iria acontecer naquele vagão luxuoso de vocês, né?"
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "content": "Nós fomos contratados pela W Corp. para tratar deste ocorrido... Somos..."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "content": "Hum..."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "content": "MANDATÁRIOS!"
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Sim... Nós somos mandatários."
+        },
+        {
+            "id": 54,
+            "content": "Faust concorda com Don Quixote, como se não tivesse outra opção."
+        },
+        {
+            "id": 55,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Pô. Enfiaram toda essa gente na primeira classe... O Escritório de vocês deve tá com a vida ganha."
+        },
+        {
+            "id": 56,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Calmou... Quer dizer que a W Corp. já sabia que tudo isso ia rolar?"
+        },
+        {
+            "id": 57,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Hum, vocês realmente tão em um contrato com uma Asa? Não coloco muita fé nisso..."
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "Como você já deve saber, o mais importante para os Mandatários é cumprir seus contratos."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "E a W Corp. é uma das Asas que mais preza pelo seu sigilo."
+        },
+        {
+            "id": 60,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "... Saquei, vocês firmaram um pacto de sigilo. Bom né, ninguém quer se meter com a burocracia dos Öufi... Então quer dizer que vocês não tem como comprovar esse acordo?"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "Este é um cartão mestre nos dado antecipadamente pela W Corp. Acredito que ele seja capaz de abrir a maioria das portas deste trem."
+        },
+        {
+            "id": 62,
+            "content": "Faust tira o cartão de seu bolso e o exibe. De fato, não temos outra jeito de compravar nosso contrato da W Corp. além desse..."
+        },
+        {
+            "id": 63,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Um cartão mestre? Foi com ele que vocês devem ter saído do vagão de primeira classe... E ainda tem a logo da W Corp. e é feito de um material chiquérrimo. Vocês realmente foram contratados por eles, em?"
+        },
+        {
+            "id": 64,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "De boa então, acabaram minhas perguntas. Eu também não gosto de me envolver em qualquer coisa que não dê dinheiro pra mim."
+        },
+        {
+            "id": 65,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Então pra cumprirem seu contrato... Vocês vão ter que ir pros vagões anteriores?"
+        },
+        {
+            "id": 66,
+            "model": "파우스트",
+            "content": "Correto."
+        },
+        {
+            "id": 67,
+            "content": "Só então ela saiu da posição que bloqueava nosso caminho, e com o braço que não estava segurando sua arma, apontou para a porta do lado oposto."
+        },
+        {
+            "id": 68,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Se vocês querem tanto morrer, não vou impedir vocês~ Mas quem sabe, se vocês forem tudo o que dizem que são, talvez consigam salvar todos e voltarem..."
+        },
+        {
+            "id": 69,
+            "model": "돈키호테",
+            "content": "Gratos somos por vosso encorajamento, ó Mandatária Sasha!"
+        },
+        {
+            "id": 70,
+            "model": "돈키호테",
+            "content": "Sob vossa custódia, deixo-te este vagão; em meu nome, protejais os indefesos com vossa própria vida!"
+        },
+        {
+            "id": 71,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "……."
+        },
+        {
+            "id": 72,
+            "model": "열차아이",
+            "teller": "Criança Curiosa",
+            "title": "???",
+            "content": "Com licença... Vocês estão indo cuidar daqueles monstros ali atrás?"
+        },
+        {
+            "id": 73,
+            "model": "돈키호테",
+            "content": "Hoho?"
+        },
+        {
+            "id": 74,
+            "content": "Quando estávamos prestes a passar para o outro lado, uma pequena passageira puxa a barra do casaco de Don Quixote."
+        },
+        {
+            "id": 75,
+            "model": "돈키호테",
+            "content": "Hum-hum! Deveras, assim o é!"
+        },
+        {
+            "id": 76,
+            "model": "열차아이",
+            "teller": "Criança Curiosa",
+            "title": "???",
+            "content": "Uau...! Então você é uma Mandatária famosa?"
+        },
+        {
+            "id": 77,
+            "model": "돈키호테",
+            "content": "Pois com certeza! Sou uma Mandatária de mui alto renome!"
+        },
+        {
+            "id": 78,
+            "model": "열차아이",
+            "teller": "Criança Curiosa",
+            "title": "???",
+            "content": "Uaaau~ E-eu! Quando eu crescer quero ser uma Mandatária igual a você..."
+        },
+        {
+            "id": 79,
+            "teller": "Passageiro Amedrontado",
+            "title": "???",
+            "content": "Ei, não fique incomodando tanto os outros... Me desculpem, ela é minha filha..."
+        },
+        {
+            "id": 80,
+            "model": "돈키호테",
+            "content": "Mhu-hu-hu, De forma alguma! Não há o que perdoar~ Podieis tê-la deixado a meu lado por mais tempo~ Vejo que o sonho desta pequenina petiz é tornar-se Mandatária!"
+        },
+        {
+            "id": 81,
+            "model": "파우스트",
+            "content": "É muita sorte que alguém como você esteja a bordo deste trem, visto que salvou até mesmo esta criança."
+        },
+        {
+            "id": 82,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Do quê você tá falando? A gente é farinha do mesmo saco, enfiados na mesma sarjeta."
+        },
+        {
+            "id": 83,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Você não entendeu, obviamente só tô aqui pra coletar a taxa de proteção por cabeça. Porquê todo esse papo furado?"
+        },
+        {
+            "id": 84,
+            "model": "파우스트",
+            "content": "... Entendo."
+        },
+        {
+            "id": 85,
+            "model": "단테",
+            "content": "<... É melhor que Don Quixote não saiba disso.>"
+        },
+        {
+            "id": 86,
+            "model": "이스마엘",
+            "content": "... Senhorita Faust, não sabia que você podia ser assim."
+        },
+        {
+            "id": 87,
+            "model": "파우스트",
+            "content": "O que... O que você quer dizer com isso?"
+        },
+        {
+            "id": 88,
+            "model": "이스마엘",
+            "content": "Foi de propósito né? Mesmo sabendo que ela não tinha a menor intenção de proteger estes passageiros por boa vontade, você decidiu ir com a de Don Quixote."
+        },
+        {
+            "id": 89,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 90,
+            "model": "이스마엘",
+            "content": "Pensou bem, seria irritante se as coisas ficassem barulhentas aqui..."
+        },
+        {
+            "id": 91,
+            "model": "이스마엘",
+            "content": "Você viu né? Os olhos dela estão brilhando... Ela é sempre desse jeito, mas parece que hoje Don Quixote está cheia de animação."
+        },
+        {
+            "id": 92,
+            "model": "파우스트",
+            "content": "Os olhos..."
+        },
+        {
+            "id": 93,
+            "content": "Faust dirige-se até Sasha para questionar algo."
+        },
+        {
+            "id": 94,
+            "model": "파우스트",
+            "content": "Por último, tenho uma dúvida."
+        },
+        {
+            "id": 95,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Pra cada dúvida que tiver, 300 mil Ahn."
+        },
+        {
+            "id": 96,
+            "model": "파우스트",
+            "content": "... \"Farinha do mesmo saco.\" Esse pensamento seu é lamentável."
+        },
+        {
+            "id": 97,
+            "model": "파우스트",
+            "content": "Se nós concluirmos este contrato, poderemos informar à W Corp. que houve um Escritório que nos colaborou ativamente."
+        },
+        {
+            "id": 98,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Caraca, real... mesmo?"
+        },
+        {
+            "id": 99,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Qual a sua dúvida?"
+        },
+        {
+            "id": 100,
+            "model": "파우스트",
+            "content": "Por acaso, os olhos dos monstros que enfrentaram eram vermelhos?"
+        },
+        {
+            "id": 101,
+            "content": "Sasha ao ouvir a pergunta, hesita com seus braços, parecia que estava tentando se lembrar de algo... Depois de algum tempo ela responde."
+        },
+        {
+            "id": 102,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "... Hum, sei lá? Eles eram vermelhos por inteiro... A cor dos olhos realmente é relevante?"
+        },
+        {
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Bem, pra começar... Meu olho prostético é vermelho e aquele passageiro também tinha olhos vermelhos... ei, essa aí carregando a espada do seu lado também tem os olhos vermelhos, né?"
+        },
+        {
+            "id": 103,
+            "model": "북부대검",
+            "teller": "Sasha",
+            "title": "Escritório MultiCrack",
+            "content": "Bem, essa informação de olhos vermelhos vai render alguma coisa pra vocês?"
+        },
+        {
+            "id": 104,
+            "model": "파우스트",
+            "content": "Não, esqueça."
+        },
+        {
+            "id": 105,
+            "model": "파우스트",
+            "content": "Não é nada relevante."
+        },
+        {
+            "id": 106,
+            "content": "Faust acena levemente, e tomando a frente, abre a porta que levava ao próximo vagão."
+        },
+        {
+            "id": 107,
+            "teller": "???",
+            "title": "???",
+            "content": "Guaaaaaaa..."
+        },
+        {
+            "id": 108,
+            "model": "료슈",
+            "content": "Fiuuuu"
+        },
+        {
+            "id": 109,
+            "content": "Naturalmente, o quê estava diante de nossos olhos era uma cena retirada de uma pintura do inferno."
+        }
+    ]
+}

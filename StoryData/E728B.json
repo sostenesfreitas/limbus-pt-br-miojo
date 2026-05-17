@@ -1,0 +1,839 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Backstreets of District 8, Kezhan Ruins",
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 1,
+            "content": "A situação não tinha melhorado em nada."
+        },
+        {
+            "id": 2,
+            "content": "Dá para saber por instinto. Que estes, já a começar pelo clima que exalam, são estranhos em relação aos inimigos que enfrentamos em Hongwon até agora."
+        },
+        {
+            "id": 3,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "O meu senhor não há de ter deixado dito que… derrubássemos estes."
+        },
+        {
+            "id": 4,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Pois bem, antes de tudo, é melhor revelar o nome, como manda a cortesia."
+        },
+        {
+            "id": 5,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Chamem-me Zigong. Não passo de um discípulo que recebe os ensinamentos do meu senhor, o mestre Chiu."
+        },
+        {
+            "id": 6,
+            "content": "Meu senhor… ao ouvir o nome desse sujeito, Chiu, de repente me veio à cabeça o que Gyeongdo ia dizer mas deixou pela metade."
+        },
+        {
+            "id": 7,
+            "place": "Backstreets of District 8, Entrance",
+            "teller": "Singing Voice",
+            "title": "???",
+            "content": "Quando o que está longe vier procurar, por entre a porta queimada uma estrela vem cair~"
+        },
+        {
+            "id": 8,
+            "model": "경도",
+            "content": "E aquilo é… uma canção que, nos becos, vem circulando desde alguns meses atrás."
+        },
+        {
+            "id": 9,
+            "model": "경도",
+            "content": "Hum. Este não é um lugar bom para se falar disso. Quando houver oportunidade, eu lhes contarei."
+        },
+        {
+            "id": 10,
+            "place": "Backstreets of District 8, Kezhan Ruins",
+            "model": "단테",
+            "content": "<…Dante. O Gerente deles.>"
+        },
+        {
+            "id": 11,
+            "content": "Por isso eu, mesmo sentindo-me dominado, resolvi responder."
+        },
+        {
+            "id": 12,
+            "content": "Porque me veio um forte pressentimento de que eu precisava saber, ao menos um pouco, alguma informação sobre aquele sujeito."
+        },
+        {
+            "id": 13,
+            "model": "파우스트다침",
+            "content": "O senhor diz se chamar Gerente Dante."
+        },
+        {
+            "id": 14,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "…Pois bem. É bom que seja franco."
+        },
+        {
+            "id": 15,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Zilu, parece-me que o Mao pode recuar alguns passos por ora. Não haverá motivo para medir forças com estes de imediato."
+        },
+        {
+            "id": 16,
+            "model": "자로",
+            "title": "Bando Heishou - Filial Mao",
+            "content": "Pois sim."
+        },
+        {
+            "id": 17,
+            "content": "E parece que não fui só eu a pensar isso."
+        },
+        {
+            "id": 18,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Pois bem, creio que já demonstrei o bastante a minha disposição de conversar com vós."
+        },
+        {
+            "id": 19,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Como contar-vos uma conversa à altura de se travar um encontro é bom para se planejar o futuro, perguntem à vontade."
+        },
+        {
+            "id": 20,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês…"
+        },
+        {
+            "id": 21,
+            "content": "Então, Jia Shichun, que estava esmagada por uma sensação de inferioridade, deu um passo à frente, como quem esperava por isso."
+        },
+        {
+            "id": 22,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Eu vinha achando que se ouvia uma letra de canção suspeita nos becos… e era a história de vocês?"
+        },
+        {
+            "id": 23,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Aquela letra… é verdade?"
+        },
+        {
+            "id": 24,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Ah. É isso que você pergunta."
+        },
+        {
+            "id": 25,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Shichun, da família Jia… terão dito que é alguém hábil na retórica, mas cheia de aflições e preocupações."
+        },
+        {
+            "id": 26,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "…Com efeito, para planejar grandes feitos, a sua têmpera é muito pequena."
+        },
+        {
+            "id": 27,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "…!"
+        },
+        {
+            "id": 28,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Wei. Não se meta."
+        },
+        {
+            "id": 29,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Se houvesse algo com que rebater… eu mesma teria feito isso."
+        },
+        {
+            "id": 30,
+            "model": "웨이",
+            "title": "Família Jia",
+            "content": "…Sim."
+        },
+        {
+            "id": 31,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Shi Yihua… aquele sujeito… foram… vocês que o grudaram, não foram?"
+        },
+        {
+            "id": 32,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Hum… é parecido, mas um pouco diferente. Ele era um informante que o lado dos Shi grudou no meu senhor."
+        },
+        {
+            "id": 33,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Como tinha uma conduta rasa, e parecia, pelo contrário, haver oportunidade de devassar as intenções dos Shi, nós lhe demos o Heishou, mas…"
+        },
+        {
+            "id": 34,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "na hora de ter o poder nas mãos, ele achou que ele mesmo poderia se tornar o candidato a representar os Shi."
+        },
+        {
+            "id": 35,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Quer dizer que vocês o usaram."
+        },
+        {
+            "id": 36,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Tal como ele tentou nos usar."
+        },
+        {
+            "id": 37,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Apenas a profundidade era um pouco diferente… não é mesmo?"
+        },
+        {
+            "id": 38,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…E agora, o que vai ser de nós?"
+        },
+        {
+            "id": 39,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Não parece haver… a intenção de matar, mas…"
+        },
+        {
+            "id": 40,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Nada."
+        },
+        {
+            "id": 41,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Façam apenas como quiserdes."
+        },
+        {
+            "id": 42,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês vão soltar um concorrente assim…?"
+        },
+        {
+            "id": 43,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Que estranho. Em parte alguma daqui… eu vejo algo como um concorrente."
+        },
+        {
+            "id": 44,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<…Se é assim.>"
+        },
+        {
+            "id": 46,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "…?"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Se é assim, por que vocês mandaram o Yihua nos atacar? Conforme você mesmo disse, para começar a gente nem é adversári…>"
+        },
+        {
+            "id": 48,
+            "model": "파우스트다침",
+            "content": "Mesmo assim, o senhor pergunta a razão de terem ordenado a Yihua o ataque à Limbus Company."
+        },
+        {
+            "id": 49,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "…Você teme, mas procura aprender."
+        },
+        {
+            "id": 50,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Mas não é benevolente, e por isso…"
+        },
+        {
+            "id": 51,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "O meu senhor sempre dizia. Que, se não se aprende nada na adversidade… não há valor algum em discutir além disso."
+        },
+        {
+            "id": 52,
+            "content": "O sujeito chamado Zigong, em vez de uma resposta sobre a razão, deixou apenas palavras enigmáticas e passou de raspão por mim."
+        },
+        {
+            "id": 53,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Com isto já se pode dar o arremate."
+        },
+        {
+            "id": 54,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Como agora… eu gostaria que vós permanecêsseis apenas dentro da moldura, assim."
+        },
+        {
+            "id": 55,
+            "model": "자공",
+            "teller": "Zigong",
+            "title": "Família Jia?",
+            "content": "Pois, num desenho traçado numa grande folha de papel… um respingo de tinta não intencional é coisa deveras desagradável."
+        },
+        {
+            "id": 56,
+            "content": "Com essas palavras, Zigong ocultou-se em algum ponto da floresta de edifícios sobre a qual pesava uma escuridão densa."
+        },
+        {
+            "id": 57,
+            "content": "Inúmeros Heishou, incluindo o sujeito chamado Zilu, também logo desapareceram, assim."
+        },
+        {
+            "id": 58,
+            "model": "오티스다침",
+            "content": "…Aca… bou…?"
+        },
+        {
+            "id": 59,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Aah…"
+        },
+        {
+            "id": 60,
+            "content": "No alojamento que virou um caos restavam, assim, Outis, desacordada, e os Pecadores ofegantes ou sem fôlego."
+        },
+        {
+            "id": 61,
+            "content": "E Jia Shichun, caída sentada, e Wei, que cuidava dela."
+        },
+        {
+            "id": 62,
+            "content": "E, por fim, só restava eu, que por sorte ainda não tivera a cabeça arrancada."
+        },
+        {
+            "id": 63,
+            "content": "A noite perigosa, em que tantas vezes se cruzou e se recruzou a linha da morte, terminou assim."
+        },
+        {
+            "id": 64,
+            "content": "O dia raiou, e…"
+        },
+        {
+            "id": 65,
+            "place": "Backstreets of District 8",
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…foi assim que aconteceu. Como você estava morto, mano, não deve ter sabido."
+        },
+        {
+            "id": 66,
+            "model": "홍루",
+            "content": "Então… o irmão Chiu…? Era isso."
+        },
+        {
+            "id": 67,
+            "content": "O dia raiou e nós, que saímos carregando o cansaço tal como estava, caminhamos um pouco lá fora."
+        },
+        {
+            "id": 68,
+            "content": "É que tínhamos de decidir o nosso rumo dali em diante, e também de discutir se devíamos ou não fazer companhia a Jia Shichun, cujo caminho coincidia com o nosso."
+        },
+        {
+            "id": 69,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Por acaso você não esqueceu como se faz uma expressão de quem está em dúvida, esqueceu?"
+        },
+        {
+            "id": 70,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Como é que, mesmo ouvindo uma história destas, a sua expressão é a mesma?"
+        },
+        {
+            "id": 71,
+            "model": "홍루",
+            "content": "Haha, imagina."
+        },
+        {
+            "id": 72,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "A gente da nossa família é sempre toda assim. Você também, mano, com certeza está escondendo alguma coisa por dentro."
+        },
+        {
+            "id": 73,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Se você tem alguma segunda intenção comigo, diga agora. É que eu não tenho tempo de ficar perambulando despreocupada ao lado de alguém que vai virar inimigo."
+        },
+        {
+            "id": 74,
+            "model": "홍루",
+            "content": "Shichun, parece que eu sempre digo isto, mas eu, ao posto de Patriarca, não…"
+        },
+        {
+            "id": 75,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Está bem. Mesmo que essas palavras sejam mentira, eu sei que você não trouxe nada preparado para a prova, ao menos por ora."
+        },
+        {
+            "id": 76,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Hum, então, em troca."
+        },
+        {
+            "id": 77,
+            "content": "Jia Shichun, que conversava acompanhando o passo de Hong Lu, abrandou lentamente o passo, como quem passa ao próximo plano, e veio se postar ao meu lado."
+        },
+        {
+            "id": 78,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Você é o líder da facção do meu mano, não é. É sobre aquilo que eu ia falar naquela hora."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<Líder…? Por ora… ficou combinado assim.>"
+        },
+        {
+            "id": 80,
+            "content": "Naquela hora? Aquilo que ela disse na Kezhan…?"
+        },
+        {
+            "id": 81,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ah, mano. Venha aqui traduzir um pouco."
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "Haha, nem precisa disso; o senhor Dante é, claro, o nosso Gerente."
+        },
+        {
+            "id": 83,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Certo, então eu vou propor."
+        },
+        {
+            "id": 84,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Na disputa pelo posto de Patriarca, juntem-se à minha casa. Vocês me ajudam."
+        },
+        {
+            "id": 85,
+            "model": "단테",
+            "content": "<…Hã?>"
+        },
+        {
+            "id": 86,
+            "content": "Isso… pode ser assim?"
+        },
+        {
+            "id": 87,
+            "model": "히스클리프",
+            "content": "…Pode ser assim mesmo?"
+        },
+        {
+            "id": 88,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Tem algum motivo para não poder?"
+        },
+        {
+            "id": 89,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês são uma facção que aguentou até os Varredores, e…"
+        },
+        {
+            "id": 90,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês também disseram que o objetivo é ir assim até a casa-mãe, mas, pelo visto, o que vão fazer lá ainda não está decidido."
+        },
+        {
+            "id": 91,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "E o mano não tem nem a intenção de se tornar ele mesmo o Patriarca."
+        },
+        {
+            "id": 92,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Sendo assim, basta vocês me tornarem Patriarca com sucesso, não é?"
+        },
+        {
+            "id": 93,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Eu não sou de um temperamento como o dos meus outros irmãos e irmãs. Eu pago, sem falta, tanto a graça quanto a ofensa. Se não acreditam, ao menos um documento…"
+        },
+        {
+            "id": 94,
+            "model": "단테",
+            "content": "<Faust, está tudo bem?>"
+        },
+        {
+            "id": 95,
+            "model": "파우스트",
+            "content": "…Hum."
+        },
+        {
+            "id": 96,
+            "model": "파우스트",
+            "content": "Faust julga que, ao menos, não há falha na fala da senhora Jia Shichun."
+        },
+        {
+            "id": 97,
+            "model": "파우스트",
+            "content": "É que sentar assim uma aliada no topo de uma Asa há de ser uma grande força também para a Limbus Company."
+        },
+        {
+            "id": 98,
+            "model": "단테",
+            "content": "<É mesmo…>"
+        },
+        {
+            "id": 99,
+            "model": "단테",
+            "content": "<…Sendo assim, não há mesmo motivo para não fazer.>"
+        },
+        {
+            "id": 100,
+            "content": "Hong Lu, caminhando devagar pelos arredores, ouviu em silêncio a nossa conversa e então a transmitiu a Jia Shichun, ajeitando-a num formato mais fácil de comunicar."
+        },
+        {
+            "id": 101,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Hunf, ótimo."
+        },
+        {
+            "id": 102,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Disseram que, originalmente, num dia em que se sela uma cooperação assim, jura-se o futuro junto com um banquete farto."
+        },
+        {
+            "id": 103,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Eu vou soltar a minha prata. Quando estivermos perto do centro, vamos fazer uma refeição e conversar numa Kezhan."
+        },
+        {
+            "id": 104,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Dante… era, né? Conto com você."
+        },
+        {
+            "id": 105,
+            "model": "단테",
+            "content": "<Hum. Pode deixar.>"
+        },
+        {
+            "id": 106,
+            "content": "A sensação de aturdimento ainda não tinha passado, mas, como Jia Shichun, sem hesitar, ofereceu um aperto de mãos, eu peguei aquela mão e a sacudi devagar."
+        },
+        {
+            "id": 107,
+            "content": "Agora que penso… afora os companheiros que salvamos ou que a empresa designou diretamente, é a primeira vez que nós, por iniciativa nossa, fizemos um companheiro."
+        },
+        {
+            "id": 108,
+            "content": "…E, justamente por ser o primeiro companheiro feito assim."
+        },
+        {
+            "id": 109,
+            "content": "Eu gostaria que ela pudesse escapar do azar de os companheiros não terem tido um bom fim."
+        },
+        {
+            "id": 110,
+            "content": "Terminada a refeição…"
+        },
+        {
+            "id": 111,
+            "content": "Ao sair, o Mephistopheles estava parado diante da Kezhan."
+        },
+        {
+            "id": 112,
+            "model": "그레고르",
+            "content": "Uau… como eu sempre ando nele, eu não pensava muito, mas, vendo-o parado assim, a estranheza não é brincadeira."
+        },
+        {
+            "id": 113,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Vocês… normalmente andam por aí numa coisa dessas?"
+        },
+        {
+            "id": 114,
+            "model": "뉴소드",
+            "content": "…Que bom que estão sãos e salvos, pessoal."
+        },
+        {
+            "id": 115,
+            "content": "E Sword e Pilot desceram caminhando de dentro dele."
+        },
+        {
+            "id": 116,
+            "model": "그레고르",
+            "content": "Ã-ãn, aquele… serviço, vocês terminaram bem?"
+        },
+        {
+            "id": 117,
+            "model": "오티스",
+            "content": "Isso vem primeiro? Escuta bem, a lambança que o teu substituto aprontou foi…"
+        },
+        {
+            "id": 118,
+            "model": "뉴소드",
+            "content": "…Sim, eu já recebi o relato da senhora Faust."
+        },
+        {
+            "id": 119,
+            "model": "뉴소드",
+            "content": "Pilot."
+        },
+        {
+            "id": 120,
+            "model": "뉴파일럿",
+            "content": "Hec… sim, senhora!"
+        },
+        {
+            "id": 121,
+            "content": "A julgar pelo jeito acanhado com que ele se adianta… parece que já levou uma bronca colossal da Sword."
+        },
+        {
+            "id": 122,
+            "model": "뉴파일럿",
+            "content": "D-desculpem, fé… pessoal…"
+        },
+        {
+            "id": 123,
+            "model": "뉴파일럿",
+            "content": "É que eu só tinha feito operações de extermínio, e uma operação de informação dessas era a primeira vez, fé…"
+        },
+        {
+            "id": 124,
+            "model": "뉴소드",
+            "content": "Pilot. O que eu disse que acontece se você misturar desculpa esfarrapada ao se desculpar?"
+        },
+        {
+            "id": 125,
+            "model": "뉴파일럿",
+            "content": "Ah, aaah!!! Não é, fé! Desculpe, fé!"
+        },
+        {
+            "id": 126,
+            "model": "뉴파일럿",
+            "content": "É que esse tal de Gyeongdo se aproximou e me contou um plano que eu nem tinha imaginado!"
+        },
+        {
+            "id": 127,
+            "model": "뉴파일럿",
+            "content": "Eu me achei, pensando que ia poder resolver de um jeito que os veteranos não tinham pensado, fé!"
+        },
+        {
+            "id": 128,
+            "model": "뉴소드",
+            "content": "…Eu também peço desculpas. Eu deixei passar que é uma parte em que, sendo o caçula, ele bem podia errar."
+        },
+        {
+            "id": 129,
+            "model": "뉴소드",
+            "content": "Vocês vão escrever um relatório de ocorrência juntinhos, então…"
+        },
+        {
+            "id": 130,
+            "model": "단테",
+            "content": "<Vocês vão… ser punidos.>"
+        },
+        {
+            "id": 131,
+            "model": "파우스트",
+            "content": "Como, no resultado, a equipe LCB ficou ilesa, não há de ser uma punição grande. Só que, por uns seis meses, na prática, vamos trabalhar sem remuneração."
+        },
+        {
+            "id": 132,
+            "model": "뉴소드",
+            "content": "Se terminar só num corte de salário, já é uma sorte…"
+        },
+        {
+            "id": 133,
+            "model": "뉴파일럿",
+            "content": "D-da próxima vez!"
+        },
+        {
+            "id": 134,
+            "model": "뉴파일럿",
+            "content": "Da próxima vez eu vou crescer sem falta… e me tornar uma pessoa que é, útil para vocês, fé… buá, snif snif."
+        },
+        {
+            "id": 135,
+            "model": "뉴소드",
+            "content": "Siiim, é assim mesmo. Pilot."
+        },
+        {
+            "id": 136,
+            "model": "뉴소드",
+            "content": "Eu vou fazer com que você não tenha outra escolha senão isso. Vamos nos esforçar, sim?"
+        },
+        {
+            "id": 137,
+            "model": "뉴파일럿",
+            "content": "Hiec…"
+        },
+        {
+            "id": 138,
+            "model": "뉴소드",
+            "content": "É que, sob o meu comando… eu vou fazer com que nunca aconteça de alguém morrer ou ser demitido por um erro."
+        },
+        {
+            "id": 139,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 140,
+            "model": "단테",
+            "content": "<…Pois é.>"
+        },
+        {
+            "id": 141,
+            "model": "로쟈",
+            "content": "Ah! Agora que penso, isto é importante, então acho que a Sword também devia ficar sabendo… o que a gente decidiu fazer daqui para a frente foi~"
+        },
+        {
+            "id": 142,
+            "model": "뉴소드",
+            "content": "Ah, eu vim justamente para transmitir esse assunto. É que a LCA acabou de transmitir a direção da operação daqui em diante."
+        },
+        {
+            "id": 143,
+            "content": "Sword, como quem se esquecera, tirou de dentro do peito um pequeno terminal, e…"
+        },
+        {
+            "id": 144,
+            "content": "leu o que nele estava."
+        },
+        {
+            "id": 145,
+            "model": "뉴소드",
+            "content": "A LCB, assim que chegar ao centro da Firma H, deve participar da seleção de Patriarca como candidata."
+        },
+        {
+            "id": 146,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Hum, era justamente isso que eu pretendia. Essa facção chamada equipe do ônibus, de agora em diante, vai me…"
+        },
+        {
+            "id": 147,
+            "model": "뉴소드",
+            "content": "O participante será o seguinte Pecador."
+        },
+        {
+            "id": 148,
+            "model": "뉴소드",
+            "content": "Pecador número 6. Hong Lu."
+        },
+        {
+            "id": 149,
+            "model": "단테",
+            "content": "<…O quê?>"
+        },
+        {
+            "id": 150,
+            "place": "-1",
+            "content": "-fim-"
+        },
+        {
+            "id": 151,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…O quêêê?!"
+        },
+        {
+            "id": 152,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Q-que história é essa!"
+        },
+        {
+            "id": 153,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "Ei! Vocês! Cuspam agora mesmo o que acabaram de comer! Ei!"
+        }
+    ]
+}

@@ -1,0 +1,524 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Equipe de Pesquisa da LCE\nElevador",
+            "model": "단테",
+            "content": "<...O que é aquilo?>"
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "content": "He has left something behind."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "It appears to be a... safe."
+        },
+        {
+            "id": 3,
+            "model": "료슈",
+            "content": "...!"
+        },
+        {
+            "id": 4,
+            "content": "Ryoshu correu, aflita, na direção do cofre que o Pai do Indicador deixara para trás."
+        },
+        {
+            "id": 5,
+            "content": "Ryoshu, segurando com mãos trêmulas o cofre trancado..."
+        },
+        {
+            "id": 6,
+            "content": "...em contraste com o jeito aflito com que correra, estendeu a mão devagar em direção ao cofre."
+        },
+        {
+            "id": 7,
+            "content": "Na mão estavam gravadas cicatrizes antigas, ásperas, mas nitidamente marcadas."
+        },
+        {
+            "id": 8,
+            "content": "As cicatrizes que não haviam sarado..."
+        },
+        {
+            "id": 9,
+            "content": "Ryoshu, com um olhar suplicante, alternando o olhar entre o número gravado na mão e o cofre, puxa, de mãos trêmulas, a porta do cofre."
+        },
+        {
+            "id": 10,
+            "content": "Aquele espaço, onde um dia... uma criança pequena terá se encolhido à espera da mãe..."
+        },
+        {
+            "id": 11,
+            "content": "...estava vazio, como se alguém o tivesse esvaziado a faca."
+        },
+        {
+            "id": 12,
+            "content": "A mão de Ryoshu, que agarrara a porta do cofre como se fosse esmagá-la, se abre devagar."
+        },
+        {
+            "id": 13,
+            "content": "Como se, por entre as frestas dos dedos, um sentimento de perda se infiltrasse em cada recanto e se instalasse no corpo inteiro."
+        },
+        {
+            "id": 14,
+            "model": "료슈",
+            "content": "Araya."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<... Ryōshū!>"
+        },
+        {
+            "id": 16,
+            "content": "We..."
+        },
+        {
+            "id": 17,
+            "content": "Eu ouvi aquele nome, que saiu da boca de Ryoshu como um estertor."
+        },
+        {
+            "id": 18,
+            "content": "O nome da criança que deveria estar aqui, que de direito deveria estar aqui."
+        },
+        {
+            "id": 19,
+            "content": "Mas... sem que se pudesse perguntar mais sobre o ser que tinha aquele nome."
+        },
+        {
+            "id": 20,
+            "content": "Ryoshu perdeu a consciência e tombou."
+        },
+        {
+            "id": 21,
+            "place": -1,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "Is this my name?"
+        },
+        {
+            "id": 22,
+            "model": "과거료슈3",
+            "content": "Isso. Lê-se 'Araya'."
+        },
+        {
+            "id": 23,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "It's too hard to read..."
+        },
+        {
+            "id": 24,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "...Não foi inventado de qualquer jeito, igual a 'Saru', foi?!"
+        },
+        {
+            "id": 25,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "E o nome da mamãe, como é que se escreve?"
+        },
+        {
+            "id": 26,
+            "model": "과거료슈3",
+            "content": "……."
+        },
+        {
+            "id": 27,
+            "model": "과거료슈3",
+            "content": "Go on, read it."
+        },
+        {
+            "id": 28,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "Uh... Ryō... shū...?"
+        },
+        {
+            "id": 29,
+            "model": "과거료슈3",
+            "content": "Não. Esse caractere não se lê desse jeito, e sim..."
+        },
+        {
+            "id": 30,
+            "model": "과거료슈3",
+            "content": "...lê-se 'Yoshihide'."
+        },
+        {
+            "id": 31,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "\"Ryō-shū!\""
+        },
+        {
+            "id": 32,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "It's prettier and easier!"
+        },
+        {
+            "id": 33,
+            "place": "Sala de Controle do Portal da Limbus Company",
+            "model": "호엔하임2",
+            "content": "O restabelecimento da instalação foi concluído. Claro... ...vai ser preciso tempo, mas... essa parte, a LCC..."
+        },
+        {
+            "id": 34,
+            "model": "베르길리우스",
+            "content": "...e o senhor Piloto..."
+        },
+        {
+            "id": 35,
+            "model": "베르길리우스",
+            "content": "...logo o procedimento de recuperação... a ampola... ...há de ter sido suficiente."
+        },
+        {
+            "id": 36,
+            "model": "그레고르",
+            "content": "...Ano, mês e dia: 4 de abril... 9570404. São 7 dígitos, mesmo."
+        },
+        {
+            "id": 37,
+            "model": "그레고르",
+            "content": "...A senhora ...st nos avisou, então, por ora, desarmamos todas aquelas estacas. A senhora Ryoshu... ainda não?"
+        },
+        {
+            "id": 38,
+            "model": "베르길리우스",
+            "content": "Aquela reunião de quatro dias atrás, em que eu adverti com firmeza para não se intrometerem..."
+        },
+        {
+            "id": 39,
+            "model": "베르길리우스",
+            "content": "...eu não imaginava que se tornaria uma conversa de nenhuma serventia."
+        },
+        {
+            "id": 40,
+            "model": "베르길리우스",
+            "content": "Os preparativos estão concluídos."
+        },
+        {
+            "id": 41,
+            "model": "베르길리우스",
+            "content": "Manager, how is Sinner #4?"
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<... Still a bit dazed, but she's recovered.>"
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "content": "... Dante says it shouldn't be a problem."
+        },
+        {
+            "id": 44,
+            "model": "베르길리우스",
+            "content": "O relógio nem sempre é onipotente, não é, Dante."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<Ela parecia ter sofrido um choque e tanto. Isso... não é um problema que eu possa reverter.>"
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "LCB, sem problemas para prosseguir."
+        },
+        {
+            "id": 47,
+            "model": "LCD앵두팔다침",
+            "content": "A chefe de equipe disse que a LCD também está sem problemas."
+        },
+        {
+            "id": 48,
+            "model": "LCA네임드",
+            "content": "Do nosso lado também... a verificação está concluída."
+        },
+        {
+            "id": 49,
+            "model": "LCA네임드",
+            "content": "LCA Vanguard Team 1, Udjat. Radio check."
+        },
+        {
+            "id": 50,
+            "model": "LCA네임드",
+            "content": "...Recepção também boa. A partir da hora atual, Equipe 1, preparativos de assalto concluídos."
+        },
+        {
+            "id": 51,
+            "model": "LCA네임드",
+            "content": "Não há alteração no objetivo da operação. A LCA, logo após chegar, se dedicará a exterminar os elementos de obstrução."
+        },
+        {
+            "id": 52,
+            "model": "LCA네임드",
+            "content": "...Mas vamos entrar mesmo deste jeito?"
+        },
+        {
+            "id": 53,
+            "model": "오티스",
+            "content": "Há algum problema? Se tiver alguma queixa, dirija-a a esta Outis."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Sim, é uma formação que todos montamos depois de discutir o bastante... então o problema...>"
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Não há. Concebendo com as forças de que a Limbus Company dispõe atualmente, é difícil encontrar uma possibilidade com probabilidade de êxito maior do que esta distribuição de pessoal."
+        },
+        {
+            "id": 56,
+            "model": "오티스",
+            "content": "Para começar, se a gente pensa em como vocês foram impiedosamente aniquilados na sede, então vocês..."
+        },
+        {
+            "id": 57,
+            "model": "LCA네임드",
+            "content": "A equipe de operações especiais não é um esquadrão que existe para se usar numa coisa destas. Eles também não tiveram escolha."
+        },
+        {
+            "id": 58,
+            "model": "LCA네임드",
+            "content": "E, por causa disso, o nosso orgulho também ficou um tanto trincado, sabe..."
+        },
+        {
+            "id": 59,
+            "model": "모제스3",
+            "content": "……."
+        },
+        {
+            "id": 60,
+            "model": "베르길리우스",
+            "content": "Até quando vamos ter de ficar amontoados assim, tagarelando?"
+        },
+        {
+            "id": 61,
+            "model": "9장소드다침2",
+            "content": "Acabou de ficar pronto agora. A ligação da porta dos fundos... foi um sucesso."
+        },
+        {
+            "id": 62,
+            "model": "그레고르",
+            "content": "Será que vai dar certo...? Você também, antes de conectar a prótese, devia descansar..."
+        },
+        {
+            "id": 63,
+            "model": "9장소드다침2",
+            "content": "... I'm okay. Bleeding's stopped."
+        },
+        {
+            "id": 64,
+            "model": "9장소드다침2",
+            "content": "A partir de agora, vou contar de cinco para trás e então abrir a porta."
+        },
+        {
+            "id": 65,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "5..."
+        },
+        {
+            "id": 66,
+            "model": "알리사",
+            "content": "Chefe de equipe. Aquele equipamento... o senhor vai mesmo ficar bem?"
+        },
+        {
+            "id": 67,
+            "model": "호엔하임2",
+            "content": "Não há necessidade de se preocupar comigo. Mesmo que o número de tentativas seja pequeno, não foi pelos testes que se provou que eu sou capaz de manejá-lo o bastante?"
+        },
+        {
+            "id": 68,
+            "model": "호엔하임2",
+            "content": "...Pelo contrário, ocorre-me que quem veio vestindo o equipamento errado foi você."
+        },
+        {
+            "id": 69,
+            "model": "알리사",
+            "content": "É que não há outro equipamento E.G.O que eu consiga manejar com tanta — ugh — destreza quanto este."
+        },
+        {
+            "id": 70,
+            "model": "호엔하임2",
+            "content": "Preste atenção especial à sensibilidade. E também ao que a Anormalidade vier a lhe dizer."
+        },
+        {
+            "id": 71,
+            "model": "호엔하임2",
+            "content": "Não escute o meu pedido com leviandade."
+        },
+        {
+            "id": 72,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "4..."
+        },
+        {
+            "id": 73,
+            "model": "모제스",
+            "content": "Ufa... de fato não me agrada. Mesmo que se tenham preparado várias operações, ir em pessoa àquele lugar."
+        },
+        {
+            "id": 74,
+            "model": "에즈라",
+            "content": "Ainda assim, desta vez nós também nos preparamos por completo, chefe de equipe!"
+        },
+        {
+            "id": 75,
+            "model": "에즈라",
+            "content": "Temos é que cobrar direito o preço de tudo o que sofremos. O caçula também pensa assim, não pensa?"
+        },
+        {
+            "id": 76,
+            "model": "LCD앵두팔다침",
+            "content": "...Ah, é, é verdade. Embora eu não possa ir junto, mas..."
+        },
+        {
+            "id": 77,
+            "model": "에즈라",
+            "content": "Hã? Aah~ não é o senhor, senhor Aengdu; eu falei dele~ O senhor Aengdu trate é de pensar com que braço vai trocar~"
+        },
+        {
+            "id": 78,
+            "model": "베스파",
+            "content": "...Como o senhor Aengdu e o senhor Kim Sat-gat entraram..."
+        },
+        {
+            "id": 79,
+            "model": "베스파",
+            "content": "...ocorre-me que agora já não há motivo para me chamarem de caçula."
+        },
+        {
+            "id": 80,
+            "model": "에즈라",
+            "content": "Caçula uma vez, caçula para sempre!"
+        },
+        {
+            "id": 81,
+            "model": "베스파",
+            "content": "……."
+        },
+        {
+            "id": 82,
+            "model": "모제스2",
+            "content": "...Ezra, Vespa. Não gastem as forças desde já."
+        },
+        {
+            "id": 83,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "3..."
+        },
+        {
+            "id": 84,
+            "model": "오티스",
+            "content": "Todos, vocês memorizaram a operação direito, não foi?"
+        },
+        {
+            "id": 85,
+            "model": "돈키호테",
+            "content": "Não é uma operação para julgar aqueles malfeitores? Eu decorei tudo!"
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "......."
+        },
+        {
+            "id": 87,
+            "model": "이스마엘",
+            "content": "Todo mundo guardou as ampolas direitinho? Por via das dúvidas, confiram a quantidade."
+        },
+        {
+            "id": 88,
+            "model": "이스마엘",
+            "content": "Esta é a ampola mais cara, que normalmente é até difícil de conseguir... Como desta vez também a gente pode se separar do Gerente, segurem ela bem."
+        },
+        {
+            "id": 89,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "2..."
+        },
+        {
+            "id": 90,
+            "model": "LCA네임드",
+            "content": "Reporting. LCA, LCB, LCD, LCE assault team mission preparations complete."
+        },
+        {
+            "id": 91,
+            "model": "LCA네임드",
+            "content": "...Aprovação final da sede, confirmada."
+        },
+        {
+            "id": 92,
+            "model": "단테",
+            "content": "<Let's finish this.>"
+        },
+        {
+            "id": 93,
+            "model": "단테",
+            "content": "<É claro... vamos devolver na mesma medida em que recebemos.>"
+        },
+        {
+            "id": 94,
+            "model": "히스클리프",
+            "content": "Com certeza..."
+        },
+        {
+            "id": 95,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "1…"
+        },
+        {
+            "id": 96,
+            "model": "단테",
+            "content": "<We'll be there soon, Ryōshū.>"
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<O lugar onde você cresceu, de que aqueles sujeitos falaram...>"
+        },
+        {
+            "id": 98,
+            "model": "단테",
+            "content": "<The House of Spiders.>"
+        },
+        {
+            "id": 99,
+            "model": "료슈딸",
+            "teller": "Araya",
+            "title": "Filha",
+            "content": "Tá, tudo bem. Eu vou ficar esperando, mamãe."
+        },
+        {
+            "id": 100,
+            "teller": "Comunicado Sonoro",
+            "title": "Sede da Limbus Company",
+            "content": "Operation Spider Pyre. Commence Mission."
+        },
+        {
+            "id": 101,
+            "model": "료슈",
+            "content": "…!"
+        }
+    ]
+}

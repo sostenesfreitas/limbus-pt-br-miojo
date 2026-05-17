@@ -1,0 +1,552 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "So, you've yet to handle any Abnormality management work."
+        },
+        {
+            "id": 1,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Sim! Por ora... ainda não me designaram nada, é... aquilo..."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Yi Sang."
+        },
+        {
+            "id": 3,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Ah, sim. Foi o veterano Yi Sang que me avisou."
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Hum... certo. Por ora, pega isto."
+        },
+        {
+            "id": 5,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Uh..."
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "É uma tradição nossa. Quem fizer a previsão... isso, mais agressiva da produção esperada do dia paga café para todos da equipe."
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Não seria mais correto dizer 'o número que mais se afastou da produção real'?"
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não dá no mesmo? No fim das contas, o que se quer dizer é igual."
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "É que sinto uma intenção deliberada de encobrir o fato de que o seu próprio cálculo tem uma alta margem de erro."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "...Você aí, pega logo. De tanto segurar o copo, a minha mão está queimando."
+        },
+        {
+            "id": 11,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Oh, sorry!"
+        },
+        {
+            "id": 12,
+            "content": "Um corredor com as luzes apagadas aqui e ali, e, nele, uma máquina de café que brilhava com um fulgor especialmente intenso."
+        },
+        {
+            "id": 13,
+            "content": "O rapaz e os demais, seus colegas de equipe, estão reunidos, amontoados diante da máquina, tomando café, como sempre faziam nos dias de hora extra."
+        },
+        {
+            "id": 14,
+            "content": "Hoje, incluindo até o pesquisador recém-designado... devem ser quatro."
+        },
+        {
+            "id": 15,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Não provoqueis demais o chefe de equipe, senhorita Faust."
+        },
+        {
+            "id": 16,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Bem sabeis que, não fossem os três erros que houve durante o trabalho de hoje, o cálculo do chefe de equipe teria batido certo."
+        },
+        {
+            "id": 17,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Oh, wait..."
+        },
+        {
+            "id": 18,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Será que o que eu fiz hoje, durante o treinamento, foi..."
+        },
+        {
+            "id": 19,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não vai pegar?"
+        },
+        {
+            "id": 20,
+            "content": "Antes mesmo que o pesquisador recém-chegado pudesse esboçar uma expressão de constrangimento, o rapaz, como se nada fosse, pôs-lhe o café na mão e acendeu um novo cigarro."
+        },
+        {
+            "id": 21,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não teve jeito. Como era óbvio que eu achava que num trabalho desses não haveria erro algum, eu nunca tinha incluído esse número no cálculo. A cada aposta, costumo perder feio para esses dois."
+        },
+        {
+            "id": 22,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "... I'm sorry."
+        },
+        {
+            "id": 23,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Isso é coisa de você se desculpar?"
+        },
+        {
+            "id": 24,
+            "content": "O rapaz deu um gole no café e fitou o novato com toda a tranquilidade."
+        },
+        {
+            "id": 25,
+            "content": "Diante daquele olhar, o pesquisador novato se encheu de uma expectativa do tipo 'será que ele vai dizer alguma coisa como — um novato cresce errando —' e, por um instante, se animou, mas..."
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não ter podido nascer um gênio é um ponto que considero que estava fora do seu alcance. Foi apenas um erro meu, o de presumir que todo mundo é como eu."
+        },
+        {
+            "id": 27,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Oh. I see..."
+        },
+        {
+            "id": 28,
+            "content": "Diante da imagem dele, falando como se fosse a coisa mais óbvia do mundo, sem qualquer ar de arrogância ou de bazófia, não restou senão ficar boquiaberto."
+        },
+        {
+            "id": 29,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Compreendei-o. Como tereis percebido, não é por má-fé que ele fala assim."
+        },
+        {
+            "id": 30,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Eu pareci assim de novo?"
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Always."
+        },
+        {
+            "id": 32,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Hum... vou tomar cuidado. Isto é, se eu for capaz de tomar cuidado."
+        },
+        {
+            "id": 33,
+            "content": "O rapaz estalou a língua e tomou um gole do café dentro do copo de papel."
+        },
+        {
+            "id": 34,
+            "content": "Na verdade, os demais colegas de equipe sabiam que o rapaz já dissera algo assim mais de trinta vezes, mas..."
+        },
+        {
+            "id": 35,
+            "content": "...como também sabiam que ele não era pessoa que fosse mudar por se apontar aquilo de novo, parece que decidiram apenas deixar passar, com um leve riso de escárnio."
+        },
+        {
+            "id": 36,
+            "content": "No início, pode ocorrer o pensamento de — será que é uma pessoa desagradável? —, mas..."
+        },
+        {
+            "id": 37,
+            "content": "...porque sabem que, com o tempo, logo se acaba percebendo que ele é, de fato, uma pessoa boa."
+        },
+        {
+            "id": 38,
+            "content": "...E, se surgir a oportunidade de se ouvir, ao menos uma vez, a história sobre o passado pelo qual o rapaz passou."
+        },
+        {
+            "id": 39,
+            "content": "...o desconforto há de se transformar em compaixão e em torcida."
+        },
+        {
+            "id": 40,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "... ry."
+        },
+        {
+            "id": 41,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "I'm sorry, I'm sorry, I'm so sorry..."
+        },
+        {
+            "id": 42,
+            "content": "A few days later..."
+        },
+        {
+            "id": 43,
+            "content": "Junto com o som familiar do alarme, ecoou pelo corredor da equipe de pesquisa um som desordenado de passos correndo."
+        },
+        {
+            "id": 44,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não há necessidade de se culpar tanto. Um erro do tipo confundir o trabalho, isso aconteceu umas três ou quatro vezes desde que o departamento da LCE foi criado."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "A título de informação, os pesquisadores que cometeram o erro já não estão mais no departamento, mas."
+        },
+        {
+            "id": 46,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Ahh..."
+        },
+        {
+            "id": 47,
+            "content": "O rapaz e seus colegas de equipe enfrentavam os Pecados, um a um, com o equipamento E.G.O, fluindo como a água; mas o novato, fosse por ser inábil no uso do equipamento que acabara de receber, fosse simplesmente por estar com medo... tremia de pavor lá atrás."
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Senhorita Faust. Será mais racional que eu fique com o Pecado da Ira."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Sim, deixo com o senhor."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Como ele pode se atirar de repente... convém que o senhor tenha o cuidado de não deixá-lo alcançar o seu pupilo."
+        },
+        {
+            "id": 51,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Nem se questiona...!"
+        },
+        {
+            "id": 52,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Desculp... ah, ugh. Não é hora de dizer isso..."
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Isso, em vez de dizer coisas assim, observe bem o que os seus veteranos fazem e aprenda."
+        },
+        {
+            "id": 54,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Não precisa se preocupar com o que eu faço. De todo modo, é difícil você chegar a esse nível."
+        },
+        {
+            "id": 55,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "...Quando este trabalho for bem concluído, vou me dedicar mais à análise de E.G.O... preciso logo fazer o trabalho de uma pessoa inteira..."
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Bastaria não ficar plantando essas deixas de quem parece que vai morrer a qualquer momento, e você já valeria por uma pessoa inteira."
+        },
+        {
+            "id": 57,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Chefe de equipe Gregor... ugh, ainda não?"
+        },
+        {
+            "id": 58,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Almost done here."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Como esta já é a terceira vez que ele diz só isso... perde a credibilidade. O grau de dano atual é de 23%. Não conseguiremos arrastar isto por muito tempo."
+        },
+        {
+            "id": 60,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "No último teste de durabilidade não deu até 57% sem problema? E... por volta dos 41%, a função de autorreparação também se manifestou. Não exagere no drama."
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Aquele teste também foi em condições de laboratório, então perde a credibilidade."
+        },
+        {
+            "id": 62,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "É justamente por isso que... eu estou aqui empenhado em registrar dados em condições reais de combate."
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "*sigh*"
+        },
+        {
+            "id": 64,
+            "content": "Os casos em que um Pecado escapa sozinho são poucos, mas eles costumam escapar com frequência, por influência de outras Anormalidades ou Distorções."
+        },
+        {
+            "id": 65,
+            "content": "Em dias assim... o rapaz fica ocupado, coletando sem parar, para obter novo material de pesquisa."
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Resíduos que não chegaram nem a fazer desabrochar um E.G.O, nem a se transformar numa Distorção."
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Quando eu observava só o Tipo 1, aquela explicação, por si só, bastava para se compreender, mas."
+        },
+        {
+            "id": 68,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "A partir do Tipo 3, não acha estranho, mesmo a seu ver?  Perderam a si mesmos, e tudo o que lhes restou foi a forma do pecado."
+        },
+        {
+            "id": 69,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "É que eu não consigo entender que vida tão profundamente pecaminosa eles viveram para que sujeitos monstruosos como estes saiam de lá como meros resíduos."
+        },
+        {
+            "id": 70,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Se for para resolver essa curiosidade filosófica, parai com isso e dai-me uma mão...!"
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Right, right... 91%."
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Bom, parece que esta resposta eu mesmo poderei dar em breve... falo de novo sobre isso mais tarde."
+        },
+        {
+            "id": 73,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Ha...! Pelo visto estais a planejar de novo um experimento que rói a vossa própria carne."
+        },
+        {
+            "id": 74,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "'O corpo do referido pesquisador, após recolhido, foi transferido para a instalação designada pelo instituto.' Em vez de ser registrado numa linha sem graça dessas, num relatório de óbito, é melhor partir deixando um valor de dados que leve o meu nome, não é?"
+        },
+        {
+            "id": 75,
+            "teller": "Pesquisador Novato",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "E-eu também preciso logo ter o espírito de um pesquisador como o do c-chefe de equipe..."
+        },
+        {
+            "id": 76,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Não deis ouvidos a palavras dessas. Há tão pouco tempo que vestistes a bata branca, e já a tratais como mortalha... Eu ainda não desejo receber o relatório de óbito de um pupilo."
+        },
+        {
+            "id": 77,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Essa é a fala que eu queria dizer. Yi Sang, você achou que eu não sabia que você anda fazendo experimentos de grau de ressonância no limite do perigo?"
+        },
+        {
+            "id": 78,
+            "model": "이상",
+            "teller": "Yi Sang",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Ahem..."
+        },
+        {
+            "id": 79,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "...O relatório de óbito, sou eu quem não quer mesmo recebê-lo. Gente comum tem que agir como gente comum. Entendido?"
+        },
+        {
+            "id": 80,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Equipe de Pesquisa da LCE",
+            "content": "Damage rate is at 43%...!"
+        },
+        {
+            "id": 81,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Fine, fine!"
+        },
+        {
+            "id": 82,
+            "content": "O scanner logo soltou um som de aviso, e o rapaz, sacudindo de leve a poeira dos joelhos, levantou-se e olhou para os Pecados que ainda fervilhavam pelo corredor."
+        },
+        {
+            "id": 83,
+            "content": "Pelo ombro dele corria uma corrente elétrica que crepitava."
+        },
+        {
+            "id": 84,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Como sempre foi, esse tipo de conversa é coisa só entre nós."
+        },
+        {
+            "id": 85,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Espero que mantenham a boca bem fechada perante as outras pessoas."
+        },
+        {
+            "id": 86,
+            "content": "Apesar de ser um chefe de equipe de péssima reputação, há duas razões para os membros seguirem bem o rapaz."
+        },
+        {
+            "id": 87,
+            "content": "Uma é porque ele é um gênio de verdade, não só da boca para fora."
+        },
+        {
+            "id": 88,
+            "content": "E a outra é..."
+        },
+        {
+            "id": 89,
+            "model": "그레고르",
+            "teller": "Gregor",
+            "title": "Chefe da Equipe de Pesquisa da LCE",
+            "content": "Pois é só aos membros da minha equipe que eu digo coisas assim."
+        },
+        {
+            "id": 90,
+            "content": "...porque, ao contrário do tom de voz que parece gélido, ele é uma pessoa que se importa com os membros da equipe mais do que ninguém."
+        }
+    ]
+}

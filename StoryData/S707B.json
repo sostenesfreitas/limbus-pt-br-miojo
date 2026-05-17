@@ -1,0 +1,397 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Tenda Provisória de Operações",
+            "model": "로쟈",
+            "content": "Se-será que eu vou dar uma olhada nos arredores...?"
+        },
+        {
+            "id": 1,
+            "content": "Quando Rodya, que media o clima, tentou sair discretamente para fora da tenda, Vergílio a deteve."
+        },
+        {
+            "id": 2,
+            "model": "베르길리우스",
+            "content": "Permaneçam. Pois há um último aviso."
+        },
+        {
+            "id": 3,
+            "model": "히스클리프",
+            "content": "Ei, esse negócio de sermão não dá pra fazer depois de tudo terminar...? É verdade que o pirralho arrumou confusão, mas, mesmo assim, não deu em nada, né?"
+        },
+        {
+            "id": 4,
+            "model": "베르길리우스",
+            "content": "Eu mandei que ficassem apenas porque há uma informação exclusiva que a empresa vai fornecer."
+        },
+        {
+            "id": 5,
+            "model": "돈키호테",
+            "content": "Esse... Ve-Ve-Ve... senhor Olhar Vermelho. A-agora há pouco, eu..."
+        },
+        {
+            "id": 6,
+            "model": "베르길리우스",
+            "content": "Eu não vou levar isso a mal, então trate apenas de ouvir em silêncio."
+        },
+        {
+            "id": 7,
+            "model": "돈키호테",
+            "content": "Aaah... ó Excêntrico Vermelho... eu juro que dedicarei a minha lealdade sempre só a vós..."
+        },
+        {
+            "id": 8,
+            "content": "Vergílio tirou um pequeno aparelho de tablet e começou a manipulá-lo."
+        },
+        {
+            "id": 9,
+            "model": "베르길리우스",
+            "content": "Quem nos fornecerá a informação está, no momento, numa situação em que, por motivos pessoais, não pode estar presente."
+        },
+        {
+            "id": 10,
+            "model": "베르길리우스",
+            "content": "Ele pediu que se compreenda que, inevitavelmente, não há outro jeito senão transmitir por meio do aparelho."
+        },
+        {
+            "id": 11,
+            "model": "모제스",
+            "teller": "???",
+            "title": "???",
+            "content": "Hello. One, two, testing. Am I coming through?"
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "Hã? Agora há pouco disseram que todo vídeo que não fosse oficialmente autorizado..."
+        },
+        {
+            "id": 13,
+            "model": "베르길리우스",
+            "content": "É claro que recebemos a autorização. Não só isso — toda conversa dos participantes que se ouve neste lugar está sendo gravada pela P Corp."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "A esse ponto não é gravação, é escuta clandestina, não é...?"
+        },
+        {
+            "id": 15,
+            "model": "베르길리우스",
+            "content": "É claro que não foi uma cortesia que eles ofereceram sem contrapartida. Foi preciso convencê-los de que é uma informação ligada a capturar o causador que criou a La Manchaland."
+        },
+        {
+            "id": 16,
+            "model": "모제스",
+            "content": "Sou Moses, chefe de equipe de dedução de campo do departamento da LCD da Limbus Company. Desde muito tempo atrás, eu venho rastreando o fenômeno da Distorção e coletando informações. E..."
+        },
+        {
+            "id": 17,
+            "content": "Agora que penso, da última vez também trocamos cumprimentos com alguém vindo da LCD. Uma voz barulhenta... o nome era..."
+        },
+        {
+            "id": 18,
+            "model": "에즈라",
+            "content": "Eu também estou aqui, eu também! Quanto tempo! Sou a Ezra!"
+        },
+        {
+            "id": 19,
+            "model": "에즈라",
+            "content": "Vocês vão caçar Sanguinários, é? Iam só ir, sem nem um conselho da senhora detetive... não, da chefe de equipe? A nossa chefe de equipe, olha, no tempo dela já enfrentou um monte de Sanguinários por aí."
+        },
+        {
+            "id": 20,
+            "model": "에즈라",
+            "content": "Conte um pouco, vai~ chefe de equipe, naquela vez, de repente, vsh... ha. E foi vum-vum, vrá-vrá...!"
+        },
+        {
+            "id": 21,
+            "model": "모제스",
+            "content": "Sim, num tempo passado, eu também pesquisei sobre os Sanguinários e cheguei a enfrentá-los. Naquela época, eu cheguei a me encontrar com um decano entre os Sanguinários... ou seja, com um 1º vassalo."
+        },
+        {
+            "id": 22,
+            "model": "싱클레어",
+            "content": "Ah, espere um momento... se é 1º vassalo..."
+        },
+        {
+            "id": 23,
+            "model": "싱클레어",
+            "content": "...como os que a gente encontrou da última vez foram o 6º vassalo... e o 7º vassalo..."
+        },
+        {
+            "id": 24,
+            "model": "모제스",
+            "content": "Bom, contar até os detalhes daquele dia tornaria a história longa, então vou omiti-los."
+        },
+        {
+            "id": 25,
+            "model": "돈키호테",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "model": "돈키호테",
+            "content": "Vós... liquidastes o 1º vassalo?"
+        },
+        {
+            "id": 27,
+            "model": "모제스",
+            "content": "Of course not."
+        },
+        {
+            "id": 28,
+            "model": "에즈라",
+            "content": "Yeah, 'cuz she went easy on 'em, I tell ya."
+        },
+        {
+            "id": 29,
+            "model": "모제스",
+            "content": "Para ser exato, o mais correto é considerar que aquele sujeito me poupou. Não aconteceu nada que cheirasse a sangue, como vocês estão imaginando."
+        },
+        {
+            "id": 30,
+            "model": "모제스",
+            "content": "Pelo contrário, aquele sujeito me ofereceu uma cadeira, e nós trocamos uma conversa por um tempo não muito longo."
+        },
+        {
+            "id": 31,
+            "model": "히스클리프",
+            "content": "Quê? Um Sanguinário ofereceu o quê? E é pra gente acreditar nisso?!"
+        },
+        {
+            "id": 32,
+            "model": "에즈라",
+            "content": "Ei, moleque! Que jeito de falar é esse com a senhora detetive... não, com a chefe de equipe!"
+        },
+        {
+            "id": 33,
+            "model": "모제스",
+            "content": "Bom, eu sei que a impressão que vocês têm de um Sanguinário não há de ser lá muito agradável. Mas, ao menos, parte dos Sanguinários, aquele incluído, desejava passar dias serenos, sem conflito com os humanos."
+        },
+        {
+            "id": 34,
+            "model": "모제스",
+            "content": "Até aquela época, eu afirmava categoricamente que os Sanguinários eram seres idênticos às Distorções que eu vira até então. Pois eu achava que as pupilas que ondulavam e marejavam de sangue, que se me mostraram naquela hora, eram parecidas com as de uma Distorção. Aquele sujeito não negou nem confirmou as minhas palavras."
+        },
+        {
+            "id": 35,
+            "model": "모제스",
+            "content": "Mas eu gostaria de me corrigir. Um Sanguinário não é um ser que se possa interpretar simplesmente como um fenômeno de Distorção."
+        },
+        {
+            "id": 36,
+            "model": "모제스",
+            "content": "A essência deles é parecida com a de uma Distorção, mas, no fim das contas, não eram Distorções. Nós tentamos resolver os Sanguinários como se resolvêssemos uma Distorção, e fracassamos."
+        },
+        {
+            "id": 37,
+            "model": "모제스",
+            "content": "Quanto à origem disso, há uma pesquisa em andamento, à parte."
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "Se há uma pesquisa em andamento, significa que você pode nos fornecer informações que, em geral, não são conhecidas."
+        },
+        {
+            "id": 39,
+            "model": "모제스",
+            "content": "... Yes, I suppose we do."
+        },
+        {
+            "id": 40,
+            "content": "Moses, talvez por conhecê-la, fitou Outis por um instante e então retomou a fala."
+        },
+        {
+            "id": 41,
+            "model": "모제스",
+            "content": "Já que o assunto veio à tona... a partir da Noite Branca e do Pilar Negro. Vou explicar os vassalos com base não no Sanguinário que surge de uma Distorção, mas no Sanguinário propriamente dito, com que vocês se depararam."
+        },
+        {
+            "id": 42,
+            "model": "모제스",
+            "content": "Conta-se que o Sanguinário primordial possuía um poder formidável e transformou incontáveis pessoas em vassalos... mas, a partir do 1º vassalo, nascido desse modo, só se podem criar dois vassalos durante toda a longa existência."
+        },
+        {
+            "id": 43,
+            "model": "에즈라",
+            "content": "É porque criar família sem critério é uma coisa impensável~ Isto aqui fui eu que desenhei, ficou bom, né?"
+        },
+        {
+            "id": 44,
+            "model": "그레고르",
+            "content": "Ah, é verdade — aquele sujeito chamado Cassetti. Ele parecia se arrepender bastante de ter transformado a Sasha em vassala."
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "...É uma fala em que nem mesmo a Faust consegue facilmente saber por onde começar a apontar os erros."
+        },
+        {
+            "id": 46,
+            "model": "모제스",
+            "content": "Um Sanguinário criado desse modo se chama vassalo inferior. O Sanguinário que criou o vassalo se chama vassalo superior. A cada vez que o número diante de 'vassalo' sobe uma unidade, em muitos casos há uma diferença significativa de poder e de capacidade."
+        },
+        {
+            "id": 47,
+            "model": "뫼르소",
+            "content": "'Em muitos casos' soa como se também houvesse casos em que não é assim."
+        },
+        {
+            "id": 48,
+            "model": "에즈라",
+            "content": "Você ouviu certinho! Tal como cada Distorção é de seu jeito, os Sanguinários também..."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 50,
+            "model": "에즈라",
+            "content": "O resto a chefe de equipe vai explicar!"
+        },
+        {
+            "id": 51,
+            "model": "모제스",
+            "content": "Aah... é porque os Sanguinários também têm capacidades distintas conforme o vassalo superior. Mas uma rebelião é, em geral, impossível. Fisicamente é possível, mas a aversão psicológica é maior do que se imagina."
+        },
+        {
+            "id": 52,
+            "model": "그레고르",
+            "content": "...Como pais e filhos, quer dizer?"
+        },
+        {
+            "id": 53,
+            "model": "모제스",
+            "content": "Sim. Vendo que, de cima a baixo, eles chamam uns aos outros de genitor ou de filho... não é uma metáfora — a relação entre vassalo superior e vassalo inferior é idêntica à de um filho que obedece aos pais. Por isso, dizem que recebem uma rebelião dessas como uma perversão filial."
+        },
+        {
+            "id": 54,
+            "model": "모제스",
+            "content": "Tal como passam a considerar o sangue o valor mais importante, o conceito de uma família a que não se pode contrariar também se sobrepõe de novo. O critério de julgamento de valor moral se reconstitui por completo dentro da cabeça."
+        },
+        {
+            "id": 55,
+            "model": "싱클레어",
+            "content": "E as bolsas de sangue, que estão no nível mais baixo, também por isso..."
+        },
+        {
+            "id": 56,
+            "model": "모제스",
+            "content": "Eles... são diferentes. A relação entre uma bolsa de sangue e um Sanguinário é tal que não se lhe pode sequer aplicar uma palavra calorosa como 'família'."
+        },
+        {
+            "id": 57,
+            "model": "모제스",
+            "content": "Um resto que não chegou a se tornar vassalo. Um alimento portátil para repor o sangue. É exatamente essa a posição deles."
+        },
+        {
+            "id": 58,
+            "model": "에즈라",
+            "content": "Senhora detetive, não, chefe de equipe. Conte aquela história também. Sabe, depois de eu torcer o pescoço daquelas coisas e jogar elas n'água, splash..."
+        },
+        {
+            "id": 59,
+            "model": "모제스",
+            "content": "Sim, os Sanguinários têm um pavor extremo da água. Não é que o contato com a água lhes cause dano físico de fato, mas todos os Sanguinários têm medo da água."
+        },
+        {
+            "id": 60,
+            "model": "로쟈",
+            "content": "Ué? Então, se a gente levar um monte de água, dá pra dar conta deles fácil, não?"
+        },
+        {
+            "id": 61,
+            "model": "모제스",
+            "content": "É claro que, no espaço só dos Sanguinários que vocês logo vão visitar, não há de existir água."
+        },
+        {
+            "id": 62,
+            "model": "모제스",
+            "content": "Ah, transmitiram-me que entre vocês há alguém capaz de detectar Distorções. É um assunto que ouvi de modo não oficial, mas."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<Uh...>"
+        },
+        {
+            "id": 64,
+            "model": "모제스",
+            "content": "Que bom. Estar numa posição em que se pode ser compreendido é algo que alegra."
+        },
+        {
+            "id": 65,
+            "model": "모제스",
+            "content": "Tomara que um dia chegue a hora de nos vermos de fato."
+        },
+        {
+            "id": 66,
+            "model": "에즈라",
+            "content": "Que pena, teria sido de verdade divertido se a gente também tivesse ido. Quais Solucionadores foram pra lá? Pelo que eu ouvi agora há pouco, parece que aquele Camille azarado também vai; se vocês o encontrarem, deem um tapa na nuca dele por mim! Aquele desgraçado, eu queria dar um soco nele no lugar onde ele transmite, e ele me bloqueou!!"
+        },
+        {
+            "id": 67,
+            "model": "로쟈",
+            "content": "O nosso lado já levou um tapa..."
+        },
+        {
+            "id": 68,
+            "model": "에즈라",
+            "content": "Ah, Vespa! Eu mandei você segurar bem aquilo."
+        },
+        {
+            "id": 69,
+            "model": "이상",
+            "content": "Pelo visto o pessoal de lá também está fazendo algo... fora do comum."
+        },
+        {
+            "id": 70,
+            "model": "베르길리우스",
+            "content": "Moses. Vamos encerrar a comunicação por aqui."
+        },
+        {
+            "id": 71,
+            "model": "모제스",
+            "content": "Very well."
+        },
+        {
+            "id": 72,
+            "model": "로쟈",
+            "content": "Got any last words of advice?"
+        },
+        {
+            "id": 73,
+            "model": "모제스",
+            "content": "Any last words...? Hm."
+        },
+        {
+            "id": 74,
+            "model": "모제스",
+            "content": "Dizem que, entre os vassalos superiores, há também Sanguinários que venceram o pavor da água. O sangue, um dia, acaba mais espesso do que a água. Fora isso, não há mais nada a dizer..."
+        },
+        {
+            "id": 75,
+            "model": "모제스",
+            "content": "Ah, é melhor deixar isto dito. Eles, mais do que vocês imaginam, em relação ao sangue, são ainda mais..."
+        },
+        {
+            "id": 76,
+            "model": "모제스",
+            "content": "...desesperados."
+        },
+        {
+            "id": 77,
+            "model": "로쟈",
+            "content": "What's that supposed to mean...?"
+        },
+        {
+            "id": 78,
+            "content": "Com uma história que mal se compreendia, a comunicação terminou assim."
+        }
+    ]
+}

@@ -1,0 +1,863 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "place": "A Bordo do Mefistófeles",
+            "model": "이스마엘",
+            "content": "Agora há pouco... não saiu um som que não devia sair do corpo de uma pessoa?"
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Hã? Aah... é que eu fiz um alongamento rapidinho. Bom, é coisa comum, ultimamente."
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "Hã? Coisa comum...?"
+        },
+        {
+            "id": 4,
+            "model": "로쟈",
+            "content": "É o som do tempo passando, Sin... aff~ por mais que o nosso Dante reverta o tempo, eu tenho a sensação de que os ossos vão se desgastando a cada dia."
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "content": "Hum, agora que penso, parece que o meu corpo também, ultimamente, não anda nada como antes... de tanto repetir morrer e viver..."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<E quanto a mim, como é que ficaria…>"
+        },
+        {
+            "id": 7,
+            "content": "Em meio aos Pecadores, que acrescentavam uma palavra cada um, Hong Lu lança uma palavra radiante."
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Mas a senhora Don Quixote, que é a mais velha aqui, está intacta. Pensando bem, é como se ela tivesse vivido por algumas centenas de anos, não?"
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<…….> "
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Ahem…"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Uhm…"
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "Erm…"
+        },
+        {
+            "id": 13,
+            "content": "Diante das palavras de Hong Lu, que puxou, sem aviso, um assunto um tanto pesado, o clima baixou."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Hum... eu achava que esse assunto ia precisar de um pouco de tempo, e você foi e puxou sem hesitar, pois é..."
+        },
+        {
+            "id": 15,
+            "model": "홍루",
+            "content": "Ah... então o clima ficou constrangedor? Eu não sabia que ela se importava com algo como a idade, e..."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "content": "É que... eu não me incomodo nem um pouco! Não, não fiquem assim..."
+        },
+        {
+            "id": 17,
+            "content": "Mas, sem nenhuma relação com esse clima, havia também alguém que vinha caminhando lá de longe, de cara fechada."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Ei, saiam da frente. Vocês esqueceram que ali é o meu lugar marcado? Querem morrer?"
+        },
+        {
+            "id": 19,
+            "model": "이스마엘",
+            "content": "E tem gente que, por outro lado, está tranquila demais... a ponto de eu me perguntar se não esqueceu..."
+        },
+        {
+            "id": 20,
+            "model": "싱클레어",
+            "content": "J-já que é assim, que tal a senhora se vingar duramente das mágoas deste tempo todo? Sendo a senhora Don Quixote, dá de sobra..."
+        },
+        {
+            "id": 21,
+            "model": "로쟈",
+            "content": "Sin... o seu olhar está o mais brilhante de tudo o que eu já vi..."
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "content": "Eu... mesmo com este clima de agora, eu estou ótima. E, a não ser que o senhor Heathcliff se torne um malfeitor, eu não tenho intenção de exercer violência, e..."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Todos, parem de tagarelar barulhento e vamos quietos pelo nosso caminho, hã?"
+        },
+        {
+            "id": 24,
+            "model": "이스마엘",
+            "content": "Daquele jeito, eu até acho que parece um vilão de verdade…"
+        },
+        {
+            "id": 25,
+            "model": "그레고르",
+            "content": "Aquilo, como é mesmo... pelo clima, vocês não acham que já está quase na época de dar aquilo?"
+        },
+        {
+            "id": 26,
+            "model": "홍루",
+            "content": "'Aquilo' o quê?"
+        },
+        {
+            "id": 27,
+            "model": "그레고르",
+            "content": "Aquilo, sabe. As nossas... que da última vez a gente tentou, mas, como o plano se desencontrou um pouco, a gente não aproveitou direito..."
+        },
+        {
+            "id": 28,
+            "model": "료슈",
+            "content": "Deathmatch."
+        },
+        {
+            "id": 29,
+            "model": "그레고르",
+            "content": "...não é isso... ainda que tenha sido só um instante, a gente até brincou de bola na beira da água, lembra."
+        },
+        {
+            "id": 30,
+            "model": "뫼르소",
+            "content": "Pelo contexto, parece que ele quer cuspir a palavra 'férias'."
+        },
+        {
+            "id": 31,
+            "model": "로쟈",
+            "content": "Sim, sim, eu sou a favor. Receber uma compressa quente neste corpo todo dolorido... né?"
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Vocês ainda não conseguem largar o que se chama de expectativa..."
+        },
+        {
+            "id": 33,
+            "model": "돈키호테",
+            "content": "Agora que penso, o senhor Meursault não fez uma massagem espetacular da última vez?"
+        },
+        {
+            "id": 34,
+            "model": "뫼르소",
+            "content": "Eu conheço a fundo a posição dos principais músculos e nervos de uma pessoa."
+        },
+        {
+            "id": 35,
+            "model": "이상",
+            "content": "Depois disso, durante algumas semanas, eu não senti sensação alguma..."
+        },
+        {
+            "id": 36,
+            "model": "이상",
+            "content": "Com isso, eu pude compreender a tese do senhor Meursault de que o melhor tratamento é eliminar a sensação que é a dor..."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "content": "Pelo visto... parece que chegou a hora."
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "content": "Vergilius."
+        },
+        {
+            "id": 40,
+            "model": "베르길리우스",
+            "content": "… Mm."
+        },
+        {
+            "id": 41,
+            "model": "베르길리우스",
+            "content": "Pois é, eu sabia que um dia desses ia chegar em breve."
+        },
+        {
+            "id": 42,
+            "model": "카론",
+            "content": "Sim, chegou aquele dia."
+        },
+        {
+            "id": 43,
+            "model": "싱클레어",
+            "content": "…Por que você ficou tão solene assim, de repente?"
+        },
+        {
+            "id": 44,
+            "model": "파우스트",
+            "content": "Tal como a senhora Rodya disse, por mais que se reverta o tempo, o cansaço de cada um apenas continua a se acumular."
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "content": "Eu achava que viria a hora em que seria preciso checar o estado de cada um."
+        },
+        {
+            "id": 46,
+            "model": "단테",
+            "content": "<Afinal, o que é, para vocês criarem um clima destes...?>"
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "content": "O que se chama…"
+        },
+        {
+            "id": 48,
+            "model": "베르길리우스",
+            "content": "Da Limbus Company..."
+        },
+        {
+            "id": 49,
+            "model": "카론",
+            "content": "Glup. O som de engolir saliva."
+        },
+        {
+            "id": 50,
+            "model": "베르길파우",
+            "teller": "Faust & Vergilius",
+            "title": "LCB",
+            "content": "Exame periódico."
+        },
+        {
+            "id": 51,
+            "model": "단테",
+            "content": "<…Exame periódico?>"
+        },
+        {
+            "id": 52,
+            "model": "베르길리우스",
+            "content": "Na verdade, o contato de cima veio faz um bom tempo. Pediam a cooperação dos Pecadores para um exame."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "content": "Mas era difícil escolher uma hora apropriada."
+        },
+        {
+            "id": 54,
+            "model": "베르길리우스",
+            "content": "Eles cobravam a um ponto repugnante... a ponto de eu ficar enjoado de revidar a cada vez."
+        },
+        {
+            "id": 55,
+            "model": "히스클리프",
+            "content": "Exame? Que exame?"
+        },
+        {
+            "id": 56,
+            "model": "베르길리우스",
+            "content": "Não é preciso ficar tão na defensiva, Heathcliff."
+        },
+        {
+            "id": 57,
+            "model": "베르길리우스",
+            "content": "De todo modo, numa empresa comum é um procedimento pelo qual se passa de vez em quando."
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<Eu de fato nunca passei por isso, mas... não é só para verificar se a gente está saudável?>"
+        },
+        {
+            "id": 59,
+            "content": "Quando me virei para os Pecadores para emendar com um 'não é, Ishmael?',"
+        },
+        {
+            "id": 60,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 61,
+            "content": "Ishmael estava paralisada, com uma expressão de choque."
+        },
+        {
+            "id": 62,
+            "content": "Eu achava que Ishmael, que devia ter vivenciado a vida em sociedade de modos variados, estaria desfiando todo tipo de senso comum com confiança, mas..."
+        },
+        {
+            "id": 63,
+            "model": "이스마엘",
+            "content": "Se é um e-exame periódico…"
+        },
+        {
+            "id": 64,
+            "model": "로쟈",
+            "content": "Ah~ entendi, entendi. Você vai explicar de novo, é?"
+        },
+        {
+            "id": 65,
+            "model": "로쟈",
+            "content": "Eu vou dar exatamente 30 segundos, então a gente acaba isso rápido, combinado? Co-começar!"
+        },
+        {
+            "id": 66,
+            "model": "이스마엘",
+            "content": "A-ah, não…"
+        },
+        {
+            "id": 67,
+            "model": "이스마엘",
+            "content": "Exame periódico... a-aquilo... aquilo, isso não..."
+        },
+        {
+            "id": 68,
+            "model": "이상",
+            "content": "…Senhorita Rodion, a expressão da senhorita Ishmael não parece dizer isso, mas…"
+        },
+        {
+            "id": 69,
+            "model": "베르길리우스",
+            "content": "Ah, é que, para os Solucionadores, o modo do exame periódico difere um pouco conforme a tendência e a orientação de cada associação ou escritório."
+        },
+        {
+            "id": 70,
+            "model": "이스마엘",
+            "content": "De onde não se podia sair eternamente, até que um vencesse... só depois de manchar as mãos com o sangue de um companheiro..."
+        },
+        {
+            "id": 71,
+            "model": "단테",
+            "content": "<Que tipo de exame ela fez, para...>"
+        },
+        {
+            "id": 72,
+            "content": "Não era só Ishmael que estava lívida."
+        },
+        {
+            "id": 73,
+            "model": "그레고르",
+            "content": "Vocês... sabem ao menos o que é um exame periódico...?"
+        },
+        {
+            "id": 74,
+            "model": "그레고르",
+            "content": "Eu pergunto se vocês estão com a determinação de fazer o exame periódico, aconteça o que acontecer."
+        },
+        {
+            "id": 75,
+            "model": "그레고르",
+            "content": "A determinação de suportar tudo isso... e de aguentar..."
+        },
+        {
+            "id": 76,
+            "model": "히스클리프",
+            "content": "E este aqui, por que está assim? Com o rosto todo sem cor..."
+        },
+        {
+            "id": 77,
+            "model": "싱클레어",
+            "content": "Ah, todos falam de modo grandioso, mas... não é uma coisa tão grande quanto vocês pensam."
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "É que eu também, quando ia à escola, parece que fazia uma vez por ano."
+        },
+        {
+            "id": 79,
+            "model": "로쟈",
+            "content": "Que tipo de exame vocês fizeram?"
+        },
+        {
+            "id": 80,
+            "model": "싱클레어",
+            "content": "Reuniam todos numa sala e mediam a altura, mediam o peso... bom, faziam um teste simples de aptidão física básica."
+        },
+        {
+            "id": 81,
+            "model": "돈키호테",
+            "content": "E-e por que é que se quer medir uma coisa dessas?"
+        },
+        {
+            "id": 82,
+            "model": "오티스",
+            "content": "Que sufoco. Apurar e analisar o estado atual dos soldados é um procedimento natural, do ponto de vista dos oficiais."
+        },
+        {
+            "id": 83,
+            "model": "싱클레어",
+            "content": "É que... numa escola não há soldados..."
+        },
+        {
+            "id": 84,
+            "model": "히스클리프",
+            "content": "É isso aí! Por que é que querem saber uma coisa dessas!"
+        },
+        {
+            "id": 85,
+            "model": "히스클리프",
+            "content": "Eu pergunto por que é que, a pretexto de verificar se tem pulga na roupa dos outros, têm de borrifar um remédio com um cheiro de mendigo!"
+        },
+        {
+            "id": 86,
+            "model": "단테",
+            "content": "<Este aqui também... pelo visto fez um exame bem hostil na época da infância...>"
+        },
+        {
+            "id": 87,
+            "model": "오티스",
+            "content": "Hmf, vocês perguntam o óbvio."
+        },
+        {
+            "id": 88,
+            "model": "오티스",
+            "content": "Na verdade, eu estava justamente esperando para ver afinal quando isto ia acontecer."
+        },
+        {
+            "id": 89,
+            "content": "Outis, como quem dizia 'enfim chegou o que tinha de chegar', com uma expressão triunfante, postou-se diante dos Pecadores."
+        },
+        {
+            "id": 90,
+            "model": "오티스",
+            "content": "O propósito do exame... ele é, é claro..."
+        },
+        {
+            "id": 91,
+            "model": "오티스",
+            "content": "Não é para a gente eleger o nosso verdadeiro líder!"
+        },
+        {
+            "id": 92,
+            "content": "…Líder?"
+        },
+        {
+            "id": 93,
+            "model": "이상",
+            "content": "Lí... líder, você quer dizer o chefe?"
+        },
+        {
+            "id": 94,
+            "content": "E eu?"
+        },
+        {
+            "id": 95,
+            "model": "오티스",
+            "content": "Eu gostaria que o senhor não fizesse mal-entendidos desnecessários, Gerente."
+        },
+        {
+            "id": 96,
+            "model": "오티스",
+            "content": "É claro que não há margem alguma para se duvidar de que o nosso comandante é este Dante aqui, mas..."
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<Ohkay…>"
+        },
+        {
+            "id": 98,
+            "model": "오티스",
+            "content": "Sempre houve uma controvérsia tensa e candente. Afinal, quem dentre nós..."
+        },
+        {
+            "id": 99,
+            "model": "오티스",
+            "content": "...é o mais apto a ser o líder dos Pecadores!!!"
+        },
+        {
+            "id": 100,
+            "model": "싱클레어",
+            "content": "Ã, ora… não era a senhora Ishmael? Ou então a senhora Faust…"
+        },
+        {
+            "id": 101,
+            "model": "홍루",
+            "content": "Hum... a gente até vinha vivendo pensando mais ou menos assim."
+        },
+        {
+            "id": 102,
+            "model": "오티스",
+            "content": "...É por estarem desse jeito que vocês, malditos, nunca conseguem agir de modo coeso e a cada vez enfrentam o inimigo atrapalhados."
+        },
+        {
+            "id": 103,
+            "model": "오티스",
+            "content": "Quando o superior ordena, executar 500 flexões sem dizer 'mu', ou, pelo bem de uma operação, nem que isso esmague a si mesmo, lançar-se para conduzir os aliados à vitória — um espírito de sacrifício desses não se vê nem de longe!"
+        },
+        {
+            "id": 104,
+            "model": "이스마엘",
+            "content": "Senhora Outis, que luta é essa que a senhora está travando sozinha...?"
+        },
+        {
+            "id": 105,
+            "model": "홍루",
+            "content": "Aham. Resumindo, o exame periódico é um evento em que se reúnem os senhores Pecadores numa sala apertada e se define quem é superior, é isso?"
+        },
+        {
+            "id": 106,
+            "content": "Diante da síntese cristalina de Hong Lu, todos se calaram."
+        },
+        {
+            "id": 107,
+            "model": "료슈",
+            "content": "Battle Royale."
+        },
+        {
+            "id": 108,
+            "model": "료슈",
+            "content": "Era uma coisa que eu vinha desejando, e desejando, até agora."
+        },
+        {
+            "id": 109,
+            "model": "히스클리프",
+            "content": "...Tá, vocês querem encarar, é? Como vocês sabem, eu tinha um soco que valia alguma coisa nos becos."
+        },
+        {
+            "id": 110,
+            "model": "이스마엘",
+            "content": "É... também há de existir um exame destes. Eu estou determinada."
+        },
+        {
+            "id": 111,
+            "model": "단테",
+            "content": "<Não…>"
+        },
+        {
+            "id": 112,
+            "model": "로쟈",
+            "content": "E então, aonde a gente tem de ir?"
+        },
+        {
+            "id": 113,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 114,
+            "model": "파우스트",
+            "content": "Para a bata... hum. Não, para fazer o exame periódico..."
+        },
+        {
+            "id": 115,
+            "content": "Parecia que havia um mal-entendido bem firmado, mas Faust pareceu desistir até de corrigir."
+        },
+        {
+            "id": 116,
+            "model": "파우스트",
+            "content": "Antes de tudo, é preciso nos deslocarmos para a sede."
+        },
+        {
+            "id": 117,
+            "model": "이상",
+            "content": "'Sede' — você quer dizer a sede da Limbus Company?"
+        },
+        {
+            "id": 118,
+            "model": "파우스트",
+            "content": "Yes."
+        },
+        {
+            "id": 119,
+            "model": "이스마엘",
+            "content": "Oh... a gente enfim vai à sede, de que só se ouvia falar. E olha que já passou mais de um ano desde o ingresso..."
+        },
+        {
+            "id": 120,
+            "model": "파우스트",
+            "content": "Partir agora há de cair perfeitamente."
+        },
+        {
+            "id": 121,
+            "model": "돈키호테",
+            "content": "A-a-agora? Ah... eu ainda não terminei de me preparar mentalmente, mas... por acaso eu posso entrar no quarto e fazer as malas?"
+        },
+        {
+            "id": 122,
+            "model": "이스마엘",
+            "content": "Onde fica a sede? Tomara que, na medida do possível, não seja uma viagem longa."
+        },
+        {
+            "id": 123,
+            "model": "파우스트",
+            "content": "That…"
+        },
+        {
+            "id": 124,
+            "model": "파우스트",
+            "content": "É segredo. Apenas, que ela fica num lugar aonde não se pode ir com o Mephistopheles, isso eu posso dizer."
+        },
+        {
+            "id": 125,
+            "model": "그레고르",
+            "content": "Ei... você diz para partir agora e então diz que onde fica é segredo; como é que a gente vai chegar lá?"
+        },
+        {
+            "id": 126,
+            "model": "오티스",
+            "content": "Um lugar aonde não se pode ir com este ônibus... não me diga que você vai tagarelar que a gente tem de pegar o Trem do Warp de novo?"
+        },
+        {
+            "id": 127,
+            "model": "돈키호테",
+            "content": "O Trem do Warp... eu não quero mais pegar..."
+        },
+        {
+            "id": 128,
+            "model": "파우스트",
+            "content": "Sim, nesta jornada eu não pretendo usar o Trem do Warp."
+        },
+        {
+            "id": 129,
+            "model": "이스마엘",
+            "content": "Sendo assim, o método que resta... há de ser a porta traseira, é?"
+        },
+        {
+            "id": 130,
+            "model": "히스클리프",
+            "content": "Isso, antes ir através daquela porta resolve."
+        },
+        {
+            "id": 131,
+            "model": "이상",
+            "content": "Isso também não é uma má ideia."
+        },
+        {
+            "id": 132,
+            "model": "이상",
+            "content": "Só que, caso a informação sobre a porta seja insuficiente, pode não se saber com clareza o destino, ou..."
+        },
+        {
+            "id": 133,
+            "model": "이상",
+            "content": "...ou o tempo de duração ser variável e uma parte acabar se deslocando totalmente para outro lugar, ou..."
+        },
+        {
+            "id": 134,
+            "model": "이상",
+            "content": "...ou a porta se fechar no meio e a gente acabar fazendo uma viagem sem volta."
+        },
+        {
+            "id": 135,
+            "model": "싱클레어",
+            "content": "Hum, será que isso é mesmo uma ideia nada má...?"
+        },
+        {
+            "id": 136,
+            "model": "히스클리프",
+            "content": "Haa... se for assim, antes pegar aquele maldito trem. Pelo menos, na hora de descer, a gente esquece tudo."
+        },
+        {
+            "id": 137,
+            "model": "료슈",
+            "content": "É uma… Battle Royale."
+        },
+        {
+            "id": 138,
+            "model": "파우스트",
+            "content": "So…"
+        },
+        {
+            "id": 139,
+            "model": "파우스트",
+            "content": "Eu conduzi uma pesquisa para enviar vocês ao lugar desejado."
+        },
+        {
+            "id": 140,
+            "model": "오티스",
+            "content": "Pesquisa? Você quer dizer que reformou a porta traseira?"
+        },
+        {
+            "id": 141,
+            "model": "파우스트",
+            "content": "É parecido. Para ser exato, eu não reformei a porta traseira — apenas a usei como referência."
+        },
+        {
+            "id": 142,
+            "model": "단테",
+            "content": "<...A gente não convivia toda junta? Quando é que você arranjou um tempinho para fazer até uma pesquisa?>"
+        },
+        {
+            "id": 143,
+            "model": "파우스트",
+            "content": "Durante os deslocamentos, ou nos vãos de tempo livre na Cidade... a LCA e a Faust entraram em contato com uma empresa que desafia o posto de uma nova Asa e conduziram várias pesquisas em colaboração sobre a estabilização da porta traseira."
+        },
+        {
+            "id": 144,
+            "model": "그레고르",
+            "content": "Uma nova Asa...? Eles querem substituir a Firma L, que está vaga?"
+        },
+        {
+            "id": 145,
+            "model": "파우스트",
+            "content": "É uma pena que a pergunta tenha apontado a perspicácia para uma direção levemente errada, Gregor."
+        },
+        {
+            "id": 146,
+            "model": "파우스트",
+            "content": "É a história de uma empresa que mira o futuro de um posto que logo ficará vago... que cobiça o lugar da Firma W, que vem se enfraquecendo."
+        },
+        {
+            "id": 147,
+            "model": "그레고르",
+            "content": "Firma W…"
+        },
+        {
+            "id": 148,
+            "model": "이스마엘",
+            "content": "Ah, é...? Há de ser. Que a situação da Firma W já vem piorando, isso também já vinha se espalhando de boca em boca. Dá para considerar uma oportunidade de sobra."
+        },
+        {
+            "id": 149,
+            "model": "뫼르소",
+            "content": "No jornal também, de quando em quando, foram publicadas colunas que tratavam intensivamente da crise de gestão da Firma W. Tratavam, sobretudo, dos misteriosos acidentes de desaparecimento."
+        },
+        {
+            "id": 150,
+            "model": "오티스",
+            "content": "Quer dizer que é uma empresa que está fazendo um trabalho de bastidores para se tornar uma Asa."
+        },
+        {
+            "id": 151,
+            "model": "오티스",
+            "content": "Mas... trocar o posto de uma Asa antes que ela própria desmorone não é coisa que se veja com facilidade."
+        },
+        {
+            "id": 152,
+            "model": "오티스",
+            "content": "Com certeza há de haver um segundo intuito. E, ainda por cima, colaboração com gente que nutre uma ambição dessas, francamente."
+        },
+        {
+            "id": 153,
+            "model": "오티스",
+            "content": "...A sede está com a intenção de provocar uma Guerra das Asas, ou coisa assim?"
+        },
+        {
+            "id": 154,
+            "model": "파우스트",
+            "content": "...A Faust de agora não tem como saber até esse tipo de assunto."
+        },
+        {
+            "id": 155,
+            "model": "이상",
+            "content": "Um julgamento precipitado demais é proibido, senhorita Outis."
+        },
+        {
+            "id": 156,
+            "model": "이상",
+            "content": "Se a gente recordar o passado em que a Firma W, não satisfeita em provocar continuamente turbulências internas e externas, ainda nos pediu ajuda..."
+        },
+        {
+            "id": 157,
+            "model": "이상",
+            "content": "...ela bem que poderia desabar e ruir antes mesmo de acontecer uma coisa tão violenta."
+        },
+        {
+            "id": 158,
+            "model": "이상",
+            "content": "Se há, em algum canto, algo que não é eficiente, no fim a tecnologia tende a ruir, então..."
+        },
+        {
+            "id": 159,
+            "model": "파우스트",
+            "content": "Felizmente, o resultado da pesquisa deste lado foi eficiente. Pois é o 'portal', uma tecnologia de uma forma parecida com a porta traseira, mas que liga porta a porta diretamente, excluindo o processo intermediário que é o corredor."
+        },
+        {
+            "id": 160,
+            "model": "그레고르",
+            "content": "Oh. Então não tem efeitos colaterais nem nada?"
+        },
+        {
+            "id": 161,
+            "model": "파우스트",
+            "content": "...Não. A gente passou por dificuldades parecidas. Pois a precisão das coordenadas de chegada cai um tanto, e houve até casos em que o tempo de duração era extremamente curto e a porta se fechava no meio, decepando o corpo."
+        },
+        {
+            "id": 162,
+            "model": "파우스트",
+            "content": "Ainda assim, ficou bem estável, e os casos de os membros se dividirem em cinco partes diminuíram. Em geral, racha só ao meio."
+        },
+        {
+            "id": 163,
+            "model": "이상",
+            "content": "Dois é melhor do que cinco…"
+        },
+        {
+            "id": 164,
+            "model": "단테",
+            "content": "<Nem dois, nem cinco — não é melhor...>"
+        },
+        {
+            "id": 165,
+            "model": "돈키호테",
+            "content": "Aaai... eu não quero chegar à sede com o Rocinante esquerdo e o Rocinante direito separados..."
+        },
+        {
+            "id": 166,
+            "model": "베르길리우스",
+            "content": "Ora essa."
+        },
+        {
+            "id": 167,
+            "model": "베르길리우스",
+            "content": "Vendo vocês tagarelarem preocupações inúteis, pelo visto a vida no ônibus anda bem entediante ultimamente."
+        },
+        {
+            "id": 168,
+            "model": "오티스",
+            "content": "Ahem..."
+        },
+        {
+            "id": 169,
+            "model": "베르길리우스",
+            "content": "Bom, enquanto vocês deixavam o tempo escorrer, pelo visto o senhor 'Resultado da Pesquisa' chegou direitinho."
+        },
+        {
+            "id": 170,
+            "content": "Para fora da janela, um veículo desconhecido e imenso entrou no campo de visão."
+        },
+        {
+            "id": 171,
+            "model": "로쟈",
+            "content": "É aquilo...? Nem dá pra ver janela nenhuma..."
+        },
+        {
+            "id": 172,
+            "model": "베르길리우스",
+            "content": "Que barulheira."
+        },
+        {
+            "id": 173,
+            "model": "베르길리우스",
+            "content": "Todos, desembarquem."
+        }
+    ]
+}

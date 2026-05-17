@@ -1,0 +1,372 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Daguanyuan - Auditório Especial",
+            "model": "로쟈",
+            "content": "Sabem de uma coisa? Todo mundo comunica com os olhos antes mesmo de falar."
+        },
+        {
+            "id": 1,
+            "model": "로쟈",
+            "content": "Então... é melhor você prestar atenção no que os olhos dos outros estão dizendo."
+        },
+        {
+            "id": 2,
+            "model": "싱클레어",
+            "content": "Legal, isso é realmente legal, mas... Não sei, isso parece um tópico estranhamente específico para conversar, especialmente quando estamos sentados ao redor de uma mesa de jogos..."
+        },
+        {
+            "id": 3,
+            "model": "로쟈",
+            "content": "Sinclair."
+        },
+        {
+            "id": 4,
+            "model": "로쟈",
+            "content": "Dado o limite de tempo, isso simplesmente acabou sendo o método mais rápido e claro de demonstrar e treinar suas habilidades para controlar suas emoções. Eu juro, não tive nenhuma outra intenção oculta. Fui praticamente forçada a fazer isso."
+        },
+        {
+            "id": 5,
+            "model": "로쟈",
+            "content": "Ah, Wei! Para de ficar encarando e junte-se a nós!"
+        },
+        {
+            "id": 6,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Estou apenas fazendo uma visita breve à minha senhora para pegar alguns documentos... Como ainda há muito trabalho a ser feito, vou embora em um instante."
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Vamos, cara. Você sabe que esse jogo precisa de 4 jogadores~"
+        },
+        {
+            "id": 8,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Eu recuso seu convite. E devo dizer, é ridículo da sua parte forçar minha senhora a participar de uma atividade tão vulgar — e que audácia convidar-me também!"
+        },
+        {
+            "id": 9,
+            "model": "로쟈",
+            "content": "Ohhh~ Então você acha que não tem chance, hein? Nossa, e eu aqui pensei que você ao menos ia ser melhor que eu nesse jogo..."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Tá, tá bomm. Eu entendi. Não jogue um jogo no qual você não tem a menor chance de vencer. É uma boa filosofia, eu assino embaixo."
+        },
+        {
+            "id": 11,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "... Você realmente acha que suas superficiais e óbvias tentativas de me provocar para jogar este jogo funcionarão?"
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "content": "Hã? Hã? O quê? Desculpe, o capacho disse o quê?"
+        },
+        {
+            "id": 13,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "……."
+        },
+        {
+            "id": 14,
+            "content": "Então o Wei entrou no jogo."
+        },
+        {
+            "id": 15,
+            "model": "로쟈",
+            "content": "Certo. A lição é bem simples."
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "content": "Vocês três irão trabalhar juntos para garantir que eu não vença esse jogo. Em outras palavras, se certifiquem de que eu não fique em 1° lugar no final."
+        },
+        {
+            "id": 17,
+            "model": "싱클레어",
+            "content": "Bom, isso parece... bem fácil..."
+        },
+        {
+            "id": 18,
+            "model": "로쟈",
+            "content": "Mas... tenha cuidado! Eu tenho esse poder especial de ler suas mentes sem ouvir uma palavra sequer saindo da boca de vocês."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Me deixe lhes dar uma demonstração. Vamos ver... ah, Sinclair. Eu consigo ver os cantos dos seus lábios tremendo enquanto seus olhos estão suspeitamente vagando por ali..."
+        },
+        {
+            "id": 20,
+            "model": "로쟈",
+            "content": "... Você está querendo formar um Peng(碰), não é?"
+        },
+        {
+            "id": 21,
+            "model": "싱클레어",
+            "content": "Oof...!"
+        },
+        {
+            "id": 22,
+            "model": "로쟈",
+            "content": "E Xichun, você..."
+        },
+        {
+            "id": 23,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 24,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…!"
+        },
+        {
+            "id": 25,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 26,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "…!"
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "……."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "Você quer essa peça Dong(東) que eu tenho. Agora eu sei que nunca, jamais, devo descartar esta peça."
+        },
+        {
+            "id": 29,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "C-como você sabe?!"
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "... Honestamente, seria difícil a gente não saber."
+        },
+        {
+            "id": 31,
+            "model": "로쟈",
+            "content": "Você pode sentir nervosismo, claro. Mas nunca, nunca mesmo, deixe isso transparecer. No momento em que alguém sentir o cheiro da sua fraqueza, vai te devorar na hora."
+        },
+        {
+            "id": 32,
+            "model": "로쟈",
+            "content": "E Wei, você..."
+        },
+        {
+            "id": 33,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "……."
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "content": "Hmph, usando o reflexo dos óculos para esconder seus olhos, hein... haah... Isso não vai ser fácil."
+        },
+        {
+            "id": 35,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Seu maior erro esta noite foi me permitir entrar nesse jogo."
+        },
+        {
+            "id": 36,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Já sei bem a mão que você tem aí."
+        },
+        {
+            "id": 37,
+            "model": "로쟈",
+            "content": "Ah, você sabe? Nada mal. Mas você é tão legível quanto um livro aberto, cara."
+        },
+        {
+            "id": 38,
+            "model": "로쟈",
+            "content": "Você precisa daquela peça Zhong(中)... não é?"
+        },
+        {
+            "id": 39,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "... Hm."
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "Foi mal, mas você não vai pegar essa peça. Porque ela não está aqui."
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "... Gang(槓)."
+        },
+        {
+            "id": 42,
+            "model": "싱클레어",
+            "content": "Entendo... você fez combinação de Gang para poder pegar Zhong, que era a peça mais afastada, não é?!"
+        },
+        {
+            "id": 43,
+            "model": "로쟈",
+            "content": "Heh."
+        },
+        {
+            "id": 44,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Isso, por acaso, implica que você de alguma forma sabe a localização de cada peça neste jogo?"
+        },
+        {
+            "id": 45,
+            "model": "로쟈",
+            "content": "Nahh, de jeito nenhum. Eu só tenho um sexto sentido pra coisas ruins."
+        },
+        {
+            "id": 46,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Hmm... está bem."
+        },
+        {
+            "id": 47,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Nunca pensei que voltaria a este mundo obscuro das sombras, mas..."
+        },
+        {
+            "id": 48,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Hã...! Muito bem, então vou colocar este Hua(花) de lado, e...!"
+        },
+        {
+            "id": 49,
+            "model": "로쟈",
+            "content": "Hum... estou impressionada."
+        },
+        {
+            "id": 50,
+            "model": "싱클레어",
+            "content": "E-eles são muito intensos... Eu mal consigo me envolver..."
+        },
+        {
+            "id": 51,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "Galera, isso não... isso não era pra ser uma aula pra gente?"
+        },
+        {
+            "id": 52,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Shh, minha senhora... A importância desse momento não pode ser menosprezada."
+        },
+        {
+            "id": 53,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 54,
+            "model": "로쟈",
+            "content": "Ah, saquei... trocou a sua jogada pronta, né?"
+        },
+        {
+            "id": 55,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "... O que você acha?"
+        },
+        {
+            "id": 56,
+            "model": "로쟈",
+            "content": "Três peças de Hua(花) seguidas, hein...? Tô vendo que você tem sorte no sangue também."
+        },
+        {
+            "id": 57,
+            "model": "로쟈",
+            "content": "Muito bem, então... vou ter que apostar tudo neste naipe de Wan(萬)...!"
+        },
+        {
+            "id": 58,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "…!"
+        },
+        {
+            "id": 59,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Hu... Eu ganhei...!"
+        },
+        {
+            "id": 60,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "HU(胡), HU(胡), HU(胡)!!!!!"
+        },
+        {
+            "id": 61,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "ISSO É UMA MÃO DE Qing Yao Jiu(清幺九)! Sua derrota já estava selada no momento em que me forçou a descartar Zhong(中)!"
+        },
+        {
+            "id": 62,
+            "model": "로쟈",
+            "content": "Droga... eu perdi essa, hein? Boa partida!"
+        },
+        {
+            "id": 63,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "VOCÊ VIU ISSO, MINHA SENHORA?!!! HU! HU!! HU!!!!"
+        },
+        {
+            "id": 64,
+            "model": "가시춘",
+            "title": "A Hierarca de Hongyuan",
+            "content": "……."
+        },
+        {
+            "id": 65,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Hem... Peço desculpas por essa exibição vulgar, minha senhora..."
+        },
+        {
+            "id": 66,
+            "model": "웨이",
+            "title": "Clã da Xichun",
+            "content": "Eu vou... pegar um pouco de chá."
+        },
+        {
+            "id": 67,
+            "content": "Wei, vitorioso, sai da sala com os ombros caídos."
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Segundo Vergilius..."
+        },
+        {
+            "id": 1,
+            "content": "O pessoal do centro de barcos estão há um bom tempo salvando dinheiro para comprar uma viagem de volta para as Periferias da V Corp. onde o Escritório de Mandatários deles costumava ser."
+        },
+        {
+            "id": 2,
+            "content": "Após alguns incidentes com um trem WARP, eles decidiram que preferem ir de carro."
+        },
+        {
+            "id": 3,
+            "content": "... Eu pensei em contá-los sobre as verdades que aprendi com diversas Identidades, mas no fim escolhi me calar, às vezes a ignorância é uma bênção."
+        },
+        {
+            "id": 4,
+            "content": "... Talvez fosse porque eu temia que as coisas que eu digo pudessem trazer mais resultados ruins."
+        },
+        {
+            "id": 5,
+            "content": "Assim como foi comigo e a Ishmael."
+        },
+        {
+            "id": 6,
+            "place": "Entrada do Centro de Barcos da Molar",
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Vamos lá... Liga pra mim..."
+        },
+        {
+            "id": 7,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Ohh~! Agora ele foi!"
+        },
+        {
+            "id": 8,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Ufa... Parece que nosso trabalho aqui acabou."
+        },
+        {
+            "id": 9,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Finalmente... e que sorte, a maré alta acabou de chegar. Vocês devem conseguir partir agora mesmo."
+        },
+        {
+            "id": 10,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Então, agora... Mude para o modo barco!"
+        },
+        {
+            "id": 11,
+            "model": "돈키호테",
+            "content": "Oooh?! Então é assim que se transformas!"
+        },
+        {
+            "id": 12,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Tenho que dizer, admiro muito a pessoa que projetou esse veículo. Ouvi várias histórias sobre ele, mas vê-lo funcionando em minha frente..."
+        },
+        {
+            "id": 13,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Se o núcleo do veículo se mantivesse intacto, ele poderia mudar para qualquer outra forma, não?"
+        },
+        {
+            "id": 14,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Um núcleo assim pode realmente existir? Incrível... simplesmente incrível."
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "De fato, Faust é incrível."
+        },
+        {
+            "id": 16,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Certo, então... Todos a bordo. Vocês podem mudar o modo de novo quando estiverem na água."
+        },
+        {
+            "id": 17,
+            "place": "O Grande Lago",
+            "content": "A bordo do Mefistófeles, agora em forma de barco, nós seguimos em frente, com a maré que crescia lentamente."
+        },
+        {
+            "id": 18,
+            "content": "Minha situação com a Ishmael ainda não era boa, me preocupava o que iria fazer no futuro..."
+        },
+        {
+            "id": 19,
+            "content": "Mas visto que alguns dos Pecadores também estavam tentando apoiá-la, eu decidi que seria melhor se eu pensasse em uma solução no caminho."
+        },
+        {
+            "id": 20,
+            "content": "Talvez, quando nos afastarmos das margens do Grande Lago, as respostas venham até mim."
+        },
+        {
+            "id": 21,
+            "place": "Baía do Centro de Barcos da Molar",
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Mm. Tá navegando até que bem."
+        },
+        {
+            "id": 22,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Finalmente vamos conseguir o pagamento e sair para bater um rango?"
+        },
+        {
+            "id": 23,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Nós recebemos o dinheiro agora pouco, na verdade. Justo quando completamos nossa parte do contrato, um Mandatário de entregas da Associação Devyat veio e nos pagou o restante."
+        },
+        {
+            "id": 24,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Oho~ Então nosso contratante era alguém bem grande, hein?"
+        },
+        {
+            "id": 25,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Uau~ Que sorte! Que tal uma fazermos uma pausa desses caranguejos de lixo e nos tratar com um porco assado? Um torresmo!"
+        },
+        {
+            "id": 26,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Parece bom, Irmãzona."
+        },
+        {
+            "id": 27,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Hahaha! ... Aliás, Mika?"
+        },
+        {
+            "id": 28,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Sim?"
+        },
+        {
+            "id": 29,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Quando foi que colocamos um modo submersível nas modificações?"
+        },
+        {
+            "id": 30,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Nós... não colocamos?"
+        },
+        {
+            "id": 31,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Eu acho que tá afundando..."
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "content": "Aí! Tira essa água, rápido!"
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Baldes! Cadê os baldes?!"
+        },
+        {
+            "id": 34,
+            "model": "이상",
+            "content": "Achei um buraco! Deve ser..."
+        },
+        {
+            "id": 35,
+            "model": "료슈",
+            "content": "O. C."
+        },
+        {
+            "id": 36,
+            "model": "카론",
+            "content": "Zarpando, glub glub."
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "Hahh..."
+        },
+        {
+            "id": 38,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "... Vou pegar o bote salva-vidas."
+        },
+        {
+            "id": 39,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Acho que devíamos nos preparar para pagar algumas multas..."
+        },
+        {
+            "id": 40,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Haha... Tamo ferrado."
+        },
+        {
+            "id": 41
+        },
+        {
+            "id": 42
+        },
+        {
+            "id": 43,
+            "content": "... E com nossa tentativa frenética de tirar a água do ônibus, e o remar muito habilidoso da Charon..."
+        },
+        {
+            "id": 44,
+            "content": "Conseguimos voltar para o centro de barcos para reparar o ônibus..."
+        },
+        {
+            "id": 45,
+            "content": "E com isso, nossa viagem pelo Grande Lago finalmente começou de verdade..."
+        }
+    ]
+}

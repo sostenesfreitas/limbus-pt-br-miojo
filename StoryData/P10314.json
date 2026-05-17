@@ -1,0 +1,683 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "옛돈키",
+            "teller": "???",
+            "title": "???",
+            "content": "... Whoever... art thou?"
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "teller": "???",
+            "title": "???",
+            "content": "Hm."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "teller": "???",
+            "title": "Representante do Indicador",
+            "content": "Pediram-me que me apresentasse como o Representante do Indicador que vos guiará até a casa onde haveis de morar."
+        },
+        {
+            "id": 3,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Podeis me chamar de Yi Sang."
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Hermes — hum. Conforme a Diretriz, creio que vós sejais a Segunda Parente, mas..."
+        },
+        {
+            "id": 5,
+            "model": "옛돈키",
+            "teller": "???",
+            "title": "???",
+            "content": "Segunda Parente? Que quereis dizer? Além disso... os senhores Fixers daqui... disseram que talvez fosse melhor não sair lá para fora..."
+        },
+        {
+            "id": 6,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Hum... Não há necessidade de dar tanto ouvido ao que dizem esses tais Fixers."
+        },
+        {
+            "id": 7,
+            "model": "옛돈키",
+            "teller": "???",
+            "title": "???",
+            "content": "P-por quê?"
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Porque eles não vos dizem a resposta certa."
+        },
+        {
+            "id": 9,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Mas eu posso vos dizer apenas a resposta certa."
+        },
+        {
+            "id": 10,
+            "model": "옛돈키",
+            "teller": "???",
+            "title": "???",
+            "content": "H-how is such a thing possible?"
+        },
+        {
+            "id": 11,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Hum... Se for para explicar à altura de vós, que desejastes acalmar até o cheiro de sangue..."
+        },
+        {
+            "id": 12,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Basta pensar que é graças a este senhor Bipe-Bipe mágico."
+        },
+        {
+            "id": 13,
+            "model": "이상",
+            "title": "Representante do Indicador",
+            "content": "Aqui... estais vendo? Junto com o som de 'bipe-bipe', estas palavras..."
+        },
+        {
+            "id": 14,
+            "model": "옛돈키",
+            "teller": "???",
+            "title": "???",
+            "content": "Ooh... Ooooh!!"
+        },
+        {
+            "id": 15,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "R-Rocinante... acho que n-não é por aqui..."
+        },
+        {
+            "id": 16,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A pessoinha aqui quer logo cumprir a missão de que m-meu senhor falou, mas..."
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "O senhor B-Bipe-Bipe mágico também, por enquanto..."
+        },
+        {
+            "id": 18,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Ah!"
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Th-this is it!"
+        },
+        {
+            "id": 21,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Ugh... meu senhor. A senha parece difícil demais..."
+        },
+        {
+            "id": 22,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Se eu acabar esquecendo, será que a pessoinha aqui jamais conseguirá voltar a este lugar?"
+        },
+        {
+            "id": 23,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Não há nada com que se preocupar."
+        },
+        {
+            "id": 24,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Quando concluirdes a missão, o senhor Bipe-Bipe mágico vos conduzirá de volta a esta casa."
+        },
+        {
+            "id": 25,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Ide, junto de Rocinante, correndo até o lugar que a Diretriz apontar."
+        },
+        {
+            "id": 26,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 27,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Ei... n-não poderíeis abrir isto aqui para mim?"
+        },
+        {
+            "id": 28,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "'Tis locked, forbidding my passage."
+        },
+        {
+            "id": 29,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Hum... e-estamos numa situação difícil. A pessoinha aqui quer e-entrar aqui dentro, mas..."
+        },
+        {
+            "id": 30,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 31,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Rocinante. Investir a-assim, sem pensar, é uma ideia n-nada boa."
+        },
+        {
+            "id": 32,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "C-convencer... não é o meu forte, mas... ainda assim..."
+        },
+        {
+            "id": 33,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A-ahem."
+        },
+        {
+            "id": 34,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Um... I am a-already aware of thy presence within."
+        },
+        {
+            "id": 35,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "P-por acaso ficastes com medo por causa destes cadáveres...?"
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Não há por que se a-assustar tanto. Eles apenas não foram g-gentis."
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "V-vi no caminho até aqui: os p-pesquisadores deste lugar são todos, sem exceção... hum. Gentis. Sim, eram gentis."
+        },
+        {
+            "id": 38,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A pessoinha aqui gosta de gente g-gentil! N-não vou vos fazer mal, então abri a porta..."
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 40,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 41,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Aconteceu alguma coisa? Por que estais tão abatida?"
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Tendes a mesma expressão de quando, alguns meses atrás, ficastes melancólica dizendo que não parecia existir o Fixer justo que víreis num livro."
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "W-well..."
+        },
+        {
+            "id": 44,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Os outros d-discípulos da Teia..."
+        },
+        {
+            "id": 45,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "...dizem que não querem o-ouvir as histórias da pessoinha aqui... e vivem só me maltratando..."
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Dizem que sou enfadonha e v-vivem... me c-cortando a palavra..."
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Don't let yourself be saddened overmuch."
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Todos eles... são gente de temperamento forte e singular."
+        },
+        {
+            "id": 49,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A pessoinha aqui... só queria c-conversar com eles."
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Seria bom que todos conversassem comigo com gentileza, como meu s-senhor..."
+        },
+        {
+            "id": 51,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "N-não entendo por que ficam tão ansiosos para falar de modo t-tão cortante."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Por que... não me r-respondeis?"
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "... Th-thou..."
+        },
+        {
+            "id": 54,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Não tendes intenção de abrir... é o que penso."
+        },
+        {
+            "id": 55,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "D-denying it shall profit thee naught."
+        },
+        {
+            "id": 56,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "...Pois o senhor Bipe-Bipe mágico me contou t-tudo."
+        },
+        {
+            "id": 57,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Ah... it c-cannot be helped."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A pessoinha aqui tem alguém que p-precisa encontrar."
+        },
+        {
+            "id": 59,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "É um d-destino que meu senhor deseja. Que a pessoinha aqui deseja. Que o senhor B-Bipe-Bipe mágico também deseja."
+        },
+        {
+            "id": 60,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "...Por isso, vós, que não a-abris esta porta... estais e-errado."
+        },
+        {
+            "id": 61,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Decide. "
+        },
+        {
+            "id": 62,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Unlock. "
+        },
+        {
+            "id": 63,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Transcend."
+        },
+        {
+            "id": 64,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "H-hast thou the conviction?"
+        },
+        {
+            "id": 65,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Uma c-convicção inabalável quanto ao bem e ao mal."
+        },
+        {
+            "id": 66,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Os que aquiescem à Diretriz são tantos que transbordam."
+        },
+        {
+            "id": 67,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "E os que creem cegamente na Diretriz também devem ser figuras comuns no Indicador."
+        },
+        {
+            "id": 68,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Contudo, ter feito florescer um E.G.O... equivale a dizer que em vós se instalou um ponto de vista nada comum."
+        },
+        {
+            "id": 69,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Indo além de crer que a Diretriz é destino e de aquiescer a esse destino..."
+        },
+        {
+            "id": 70,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Quando o vosso anseio mais verdadeiro e a Diretriz se tornarem infinitamente iguais... e cada um puder representar a vontade do outro."
+        },
+        {
+            "id": 71,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "É então, enfim, que se pode tomar a vontade da Diretriz como o próprio eu."
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "T-then, hath mine efforts finally begun to shine through?"
+        },
+        {
+            "id": 73,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "É um tanto diferente. Pois, apenas se esforçando para pensar dessa forma, não se há de tornar coisa alguma."
+        },
+        {
+            "id": 74,
+            "model": "이상",
+            "title": "Pai do Indicador",
+            "content": "Hum... Seria mais correto dizer que não é um domínio ao qual se possa chegar de modo consciente."
+        },
+        {
+            "id": 75,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Y-yet I have it."
+        },
+        {
+            "id": 76,
+            "content": "Se a fé cega fosse capaz de curar a alma, a vida das pessoas da Cidade teria sido um pouco melhor."
+        },
+        {
+            "id": 77,
+            "content": "Crer ou seguir os critérios de bem e mal que a Diretriz estabelece não basta para se fazer florescer um E.G.O."
+        },
+        {
+            "id": 78,
+            "content": "Como disse certa pessoa, isso só será possível quando o anseio mais verdadeiro de alguém e a Diretriz se tornarem infinitamente iguais."
+        },
+        {
+            "id": 79,
+            "content": "Like a looping echo..."
+        },
+        {
+            "id": 80,
+            "content": "A Diretriz e a consciência da pessoa hão de se engrenar com uma diferença ínfima... uma diferença de um instante, difícil até de se perceber."
+        },
+        {
+            "id": 81,
+            "teller": "Pesquisador",
+            "title": "LCE",
+            "content": "...Como o sistema de defesa de emergência não funciona, ela acaba por perfurar até o anteparo."
+        },
+        {
+            "id": 82,
+            "teller": "Pesquisador",
+            "title": "LCE",
+            "content": "Ainda assim, bastando ter o equipamento E.G.O..."
+        },
+        {
+            "id": 83,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Thus spake my Master:"
+        },
+        {
+            "id": 84,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Mandaram trazer a roupa de quem percorre o caminho que é deslumbrante em todas as cores... e que busca fazer com que não se lembre de nada."
+        },
+        {
+            "id": 85,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Que bom que consegui encontrá-la a tempo."
+        },
+        {
+            "id": 86,
+            "teller": "Pesquisador",
+            "title": "LCE",
+            "content": "Grau de ressonância em 70%... A este nível..."
+        },
+        {
+            "id": 87,
+            "content": "Vendo o anteparo destruído, o pesquisador, que perdera a vontade de lutar, tratou logo de elevar a taxa de assimilação com o E.G.O."
+        },
+        {
+            "id": 88,
+            "content": "Deve ter pensado que, com o poder do E.G.O extraído de uma criança que perdeu o caminho, conseguiria muito bem fugir."
+        },
+        {
+            "id": 89,
+            "content": "However..."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "……."
+        },
+        {
+            "id": 91,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "30 seconds."
+        },
+        {
+            "id": 92,
+            "teller": "Pesquisador",
+            "title": "LCE",
+            "content": "Gah...!"
+        },
+        {
+            "id": 93,
+            "content": "Nas vibrações de uma Cidade torcida e esmagada, não há apenas o presente."
+        },
+        {
+            "id": 94,
+            "content": "Num tremor que contém esperança há futuro, e num eco que contém arrependimento há passado."
+        },
+        {
+            "id": 95,
+            "content": "É por isso que... por entre aquelas incontáveis vibrações."
+        },
+        {
+            "id": 96,
+            "content": "Na Diretriz redigida por um deus da Cidade, que captou uma frequência tênue, desgarrada da causalidade, causa e efeito estão entremeados."
+        },
+        {
+            "id": 97,
+            "content": "Surgida em certo dia, que talvez surja em certo dia, que poderia ter surgido em certo dia..."
+        },
+        {
+            "id": 98,
+            "content": "The echoes of fate."
+        },
+        {
+            "id": 99,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "M-matai todas as portas do teto."
+        },
+        {
+            "id": 100,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Thou hast fled a-above mine head."
+        },
+        {
+            "id": 101,
+            "content": "E.G.O Florescente::Procuração."
+        },
+        {
+            "id": 102,
+            "content": "Aquele E.G.O, que representa toda a vontade de ■■■, um deus de certa Cidade, assemelha-se também a uma Distorção."
+        },
+        {
+            "id": 103,
+            "content": "A concept, perceived as \"Prescripts\", ■—"
+        },
+        {
+            "id": 104,
+            "content": "<color=#dc3531>Ah. Isto ainda...</color>"
+        },
+        {
+            "id": 105,
+            "content": "E.G.O Florescente::Procuração."
+        },
+        {
+            "id": 106,
+            "content": "Tal como o Pai do Indicador, a quem a jovem chama de 'meu senhor' e segue..."
+        },
+        {
+            "id": 107,
+            "content": "É curioso que até a forma do E.G.O que ela fez florescer do próprio coração esteja imitando alguma coisa."
+        },
+        {
+            "id": 108,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "M-meu senhor não põe e-emoção alguma ao matar uma pessoa."
+        },
+        {
+            "id": 109,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Com a pessoinha aqui é o m-mesmo. Compreendei... que eu não n-nutro má vontade contra vós."
+        },
+        {
+            "id": 110,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "O m-manto ficou todo manchado de s-sangue."
+        },
+        {
+            "id": 111,
+            "content": "Depois que o pesquisador, com a cabeça em pedaços, tombou para baixo, com um baque seco..."
+        },
+        {
+            "id": 112,
+            "content": "a jovem, sem pressa, recolheu e vestiu o equipamento E.G.O que o pesquisador trajava, e olha em volta."
+        },
+        {
+            "id": 113,
+            "content": "Como o caminho se bifurcou em dois, é hora de fazer uma escolha."
+        },
+        {
+            "id": 114,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "U-uhm. To sally forth, or to r-retreat..."
+        },
+        {
+            "id": 115,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "A pessoinha aqui prefere ir em f-frente, mas.... "
+        },
+        {
+            "id": 116,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "...!"
+        },
+        {
+            "id": 117,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "O senhor B-Bipe-Bipe mágico está mandando ir em frente!"
+        },
+        {
+            "id": 118,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Hee hee. H-hast thou borne witness to it, O Rocinante?"
+        },
+        {
+            "id": 119,
+            "model": "돈키호테",
+            "title": "Discípulo do Indicador",
+            "content": "Desta vez também, a vontade da D-Diretriz coincidiu com a da pessoinha aqui."
+        }
+    ]
+}

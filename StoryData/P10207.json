@@ -1,0 +1,402 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Initiating Voice Log."
+        },
+        {
+            "id": 1,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Faust, Capitã de gestão do Time de Controle, dá início ao registro do horário de trabalho de hoje."
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Localização atual... Sede da Lobotomy Corporation. Departamento do Time de Controle, na camada superior."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Nono dia desde o início das operações; passaram-se três dias desde a abertura do departamento do Time de Informação."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "O pessoal administrativo está prestes a concluir a entrada para o expediente... está um tanto agitado."
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Convém retomar a gravação quando o trabalho de gerenciamento começar. Farei uma breve pausa."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "... Resuming Voice Log."
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "No momento... estou a caminho de orientar um funcionário recém-contratado."
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Além disso, o senhor gerente solicitou o gerenciamento de uma Anormalidade que chegou ontem. Ao que tudo indica, o funcionário alocado ao Time de Controle veio a falecer."
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Parece que recrutaram funcionários novos para repor a vaga..."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Oh, Excuse me... (Shuffling noises)"
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Jacob, é você. Por que estará hesitando diante da sala de contenção...?"
+        },
+        {
+            "id": 12,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "Ah, Capitã Faust... É-é a minha primeira alocação... e eu estou... um pouco... com medo..."
+        },
+        {
+            "id": 13,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Pode ficar tranquilo, Jacob. Provavelmente não há, nesta filial, Anormalidade mais segura do que aquela que lhe será confiada."
+        },
+        {
+            "id": 14,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "Mas... o nome escrito aqui, neste documento, é assustador demais..."
+        },
+        {
+            "id": 15,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "Um único mal e centenas de boas ações..."
+        },
+        {
+            "id": 16,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "Capitã! E se esse único mal recair sobre mim, o que acontece? E-eu ainda..."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Acalme-se. Aquela Anormalidade não age dessa maneira."
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Se você conduzir o trabalho de Discernimento ou de Apego conforme consta no compêndio de Anormalidades, nada de mal acontecerá."
+        },
+        {
+            "id": 19,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "R-really...?"
+        },
+        {
+            "id": 20,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Faust does not lie."
+        },
+        {
+            "id": 21,
+            "model": "제이콥",
+            "teller": "Jacob",
+            "title": "Agente de Nível 1",
+            "content": "Ah, entendido... Obrigado, Capitã."
+        },
+        {
+            "id": 22,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "...Acabei gastando algum tempo. Como Jacob é um funcionário recém-designado ao Time de Controle, parece ter-se assustado mais do que o necessário ao ouvir a descrição da Anormalidade."
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Suponho que isto também faça parte das funções de uma Capitã... Creio que o senhor gerente há de compreender."
+        },
+        {
+            "id": 24,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Pois bem... Retomarei a gravação após chegar novamente diante da sala de contenção."
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Testing, testing. Resuming Voice Log."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "A chegada atrasou-se um pouco em relação ao previsto... Cruzei com a senhora Malkuth e trocamos algumas palavras."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Como ela indagou sobre o trabalho de gerenciamento a ser conduzido hoje, prestei-lhe o relatório."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Não imaginei que ela exigisse a previsão de conclusão até a casa dos segundos, mas, graças aos registros, creio ter podido dar-lhe uma resposta satisfatória."
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Tratando-se da senhora Sefirá, que tem a seu encargo gerir o próprio departamento — algo como uma chefe de setor —, não se trata de algo incompreensível."
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "De todo modo... eis-me diante da sala de contenção de T-01-54, vulgarmente chamada de O Assassino Abandonado."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "De acordo com os registros verificados até agora... desde que o resultado do trabalho não seja ruim, não parece haver com o que se preocupar."
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Hum... (som de papel farfalhando) A julgar pelo histórico de trabalho registrado, o funcionário anterior parece ter conduzido um trabalho de Repressão."
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Como resultado... acumulou NE-BOXes em excesso, sua cabeça sofreu mutação para algo semelhante a ferro... e ele matou o funcionário golpeando-o com a cabeça... Hum."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Poucos compreenderão com exatidão o princípio pelo qual uma cabeça sofre mutação para ferro, mas é assim que são as Anormalidades."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Ao menos é possível depreender dos registros que convém evitar o trabalho de Repressão."
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Mesmo que algo venha a ocorrer... há também o Traje E.G.O, capaz de atenuar o dano Vermelho, de modo que tudo deverá correr bem."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Pois bem, conduzirei o trabalho e, ao retornar, gravarei o seu andamento."
+        },
+        {
+            "id": 38,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "... This is Faust."
+        },
+        {
+            "id": 39,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "O trabalho foi bem-sucedido."
+        },
+        {
+            "id": 40,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Observou-se que ela tremia de inquietação, murmurando algo e fitando continuamente o chão; julguei que um diálogo racional seria difícil."
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Como apresentava um aspecto bastante abatido, ofereci-lhe algo de comer que pudesse ser útil a um humano e tentei conduzir um trabalho de Instinto."
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Como resultado, obteve-se um bom efeito de trabalho. Bastará registrar que, para esta Anormalidade, o trabalho de Instinto é eficaz."
+        },
+        {
+            "id": 43,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Contudo... nada se apurou quanto ao motivo da transformação em ferro, ou quanto a algum sinal que a anteceda."
+        },
+        {
+            "id": 44,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "A julgar pelas características desta Arma E.G.O extraída da referida Anormalidade, depreende-se que os traços da Anormalidade influenciam a forma e as propriedades da Arma E.G.O."
+        },
+        {
+            "id": 45,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Ah, the siren..."
+        },
+        {
+            "id": 46,
+            "teller": "Anúncio",
+            "title": "Lobotomy Corporation",
+            "content": "[Aviso: surgiu a Provação da Aurora Esverdeada. Trompete de 1º Estágio ativado. Os funcionários encarregados da supressão em cada departamento devem dirigir-se imediatamente ao elevador à direita, no ponto mais baixo da camada superior.]"
+        },
+        {
+            "id": 47,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Uma convocação de ordem do senhor gerente foi exibida no terminal. ...Já é chegada a hora de uma Provação surgir."
+        },
+        {
+            "id": 48,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "As ordens emitidas pelo senhor gerente são exibidas assim, em texto, no terminal que cada funcionário possui. Como as ordens se sucedem a cada instante, é preciso conferi-las depressa."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Eu também devo me deslocar para me juntar à supressão da Provação."
+        },
+        {
+            "id": 50,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Não me preocupo particularmente. Talvez ela seja suprimida antes mesmo de Faust chegar."
+        },
+        {
+            "id": 51,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "O gerente de agora ainda não o sabe, mas as Provações da Aurora são algo realmente trivial, realmente..."
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "...Não. Como isto poderia transmitir informação confusa a outra pessoa que venha a consultar este registro, é melhor que eu me abstenha de tais palavras."
+        },
+        {
+            "id": 53,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Apenas... Faust se prepara, tão somente, para resistir e sobreviver ao longo dos 41 dias de trabalho que restam..."
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Limitar-me-ei a registrar isso."
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Well, then..."
+        },
+        {
+            "id": 56,
+            "model": "파우스트",
+            "teller": "Faust",
+            "title": "Capitã do Time de Controle",
+            "content": "Faust, ending the Voice Log."
+        }
+    ]
+}

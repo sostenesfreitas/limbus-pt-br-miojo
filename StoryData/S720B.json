@@ -1,0 +1,387 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "-1",
+            "content": "<color=#cc2424>Não, não zombe assim, como se fosse engraçado.</color>"
+        },
+        {
+            "id": 1,
+            "content": "<color=#cc2424>Eu não disse que você fala assim porque não conhece bem o que é uma aventura?</color>"
+        },
+        {
+            "id": 2,
+            "content": "<color=#cc2424>Nós, de agora em diante, iremos enfrentar uma provação acirrada sem precedentes.</color>"
+        },
+        {
+            "id": 3,
+            "content": "<color=#cc2424>Não vês com os teus olhos? A porta de uma grande aventura está escancarada para nós.</color>"
+        },
+        {
+            "id": 4,
+            "content": "<color=#cc2424>Portanto, sem mais delongas, prepara-te logo e partamos.</color>"
+        },
+        {
+            "id": 5,
+            "content": "<color=#ffef23>…….</color> "
+        },
+        {
+            "id": 6,
+            "content": "<color=#ffef23>Mas ocorre-me que há algo um pouco estranho.</color>"
+        },
+        {
+            "id": 7,
+            "content": "<color=#ffef23>……. </color> "
+        },
+        {
+            "id": 8,
+            "content": "<color=#ffef23>Desde quando é que Rocinante consegue falar?</color>"
+        },
+        {
+            "id": 9,
+            "place": "La Manchaland, Zona 2",
+            "content": "Embora fosse um tanto desagradável, através do caminho que Sansón abriu, nós pudemos seguir para a próxima zona."
+        },
+        {
+            "id": 10,
+            "model": "싱클레어",
+            "content": "Estou preocupado. Eu ouvi que para a zona 2 foram outros Solucionadores, a senhora Shichun incluída; será que estão todos a salvo..."
+        },
+        {
+            "id": 11,
+            "model": "홍루",
+            "content": "A Shichun há de estar bem. Ah, e há uma piada engraçada relacionada a isto..."
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Oho, let's hear it."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "É que, na minha casa, há um ditado de que os irmãos que sobreviveram sozinhos até os 13 anos conseguiriam viver até se forem largados bem no meio da periferia. Hehe..."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "...Hum, não é melhor a gente se apressar um pouco? Aqui, se for pior que a zona 1, será mais pior, e não menos. Se por acaso acontecer alguma coisa com a sua irmã bem diante dos seus olhos..."
+        },
+        {
+            "id": 15,
+            "model": "홍루",
+            "content": "Numa hora dessas, eu teria de ao menos recolher os despojos e, quando um dia voltasse para casa, dar-lhes um bom repouso."
+        },
+        {
+            "id": 16,
+            "model": "홍루",
+            "content": "A Shichun teria feito o mesmo por mim."
+        },
+        {
+            "id": 17,
+            "model": "그레고르",
+            "content": "... Yeah?"
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "Eh~ agora que reparo, não está um pouco... frio? Pra todo mundo?"
+        },
+        {
+            "id": 19,
+            "content": "...A sensação que este lugar exala é diferente da da zona 1."
+        },
+        {
+            "id": 20,
+            "content": "Ao contrário do lugar anterior, que se esforçara para se enfeitar ao máximo de vistosidade..."
+        },
+        {
+            "id": 21,
+            "content": "...parece uma terra desolada, sobre a qual se assentou um silêncio sombrio."
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "Aqui... como dizer, é um pouco arrepiante... há um silêncio pairando. De modo agourento..."
+        },
+        {
+            "id": 23,
+            "model": "로쟈",
+            "content": "Tomara que seja um silêncio no bom sentido~"
+        },
+        {
+            "id": 24,
+            "model": "로쟈",
+            "content": "Tipo, os Solucionadores que chegaram aqui antes terem limpado tudo de antemão, e não haver nenhum Sanguinário com quem se deparar..."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<Como a gente nem sabe quem sobreviveu, é angustiante.>"
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Vamos torcer para a gente não virar uma das pessoas daqueles cartazes..."
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "Até a La Manchaland fechar, faltam quantas horas?"
+        },
+        {
+            "id": 28,
+            "model": "이상",
+            "content": "Five hours, by my estimation."
+        },
+        {
+            "id": 29,
+            "model": "로쟈",
+            "content": "Ótimo, ótimo. Por aqui está indo tranquilo. Não me digam que a gente é a equipe que apertou o dispositivo mais depressa?"
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Well, we did suffer some losses..."
+        },
+        {
+            "id": 31,
+            "model": "오티스",
+            "content": "'Desertor', francamente. É um título bom demais para um traidor."
+        },
+        {
+            "id": 32,
+            "model": "이상",
+            "content": "Mas não há como não me incomodar."
+        },
+        {
+            "id": 33,
+            "model": "이상",
+            "content": "É que me ocorre que não fomos nós que atravessamos a zona 1... e sim que fomos deixados passar por aquele sujeito vestido de feiticeiro..."
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "content": "Bom... ele parecia mesmo um Sanguinário um tanto peculiar."
+        },
+        {
+            "id": 35,
+            "model": "싱클레어",
+            "content": "É, é verdade. E uma sensação de algo familiar..."
+        },
+        {
+            "id": 36,
+            "model": "로쟈",
+            "content": "Foi? Eu cheguei a pensar que ele, por ter um lado meio de escola artística, era parecido com a Ryoshu."
+        },
+        {
+            "id": 37,
+            "model": "료슈",
+            "content": "…….\n"
+        },
+        {
+            "id": 38,
+            "content": "Ryoshu, sem responder, soltou uma longa baforada de fumaça de cigarro e formou um desenho esquisito."
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "Que fo... fofo... é um gato?"
+        },
+        {
+            "id": 40,
+            "model": "료슈",
+            "content": "Hm... é a sua figura, choramingando."
+        },
+        {
+            "id": 41,
+            "model": "료슈",
+            "content": "Eu representei o aspecto que se vai ter caso a interpretação seja malfeita."
+        },
+        {
+            "id": 42,
+            "model": "단테",
+            "content": "<…….>\n"
+        },
+        {
+            "id": 43,
+            "model": "그레고르",
+            "content": "Oh...? Aqui é um pouco peculiar."
+        },
+        {
+            "id": 44,
+            "model": "단테",
+            "content": "<Ooh, what is it?>"
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "Olha isto. Vendo o mapa, pelo visto há também um lugar chamado enfermaria."
+        },
+        {
+            "id": 46,
+            "model": "그레고르",
+            "content": "As pessoas que se feriram durante uma atração, as que se assustaram demais, ou os senhores Sanguinários que precisam de sangue com urgência, recebam ajuda neste loc..."
+        },
+        {
+            "id": 47,
+            "model": "그레고르",
+            "content": "Ha, que frase atenciosa..."
+        },
+        {
+            "id": 48,
+            "model": "싱클레어",
+            "content": "Disseram que a La Manchaland... foi criada para ser um espaço onde Sanguinários e humanos pudessem viver felizes."
+        },
+        {
+            "id": 49,
+            "model": "싱클레어",
+            "content": "Vendo só a descrição deste mapa... ocorre-me que, ainda assim, antigamente, talvez... as coisas tenham sido conforme aquela intenção."
+        },
+        {
+            "id": 50,
+            "model": "돈키호테",
+            "content": "Nonsense! 'Twould be an impossible task, most evidently!"
+        },
+        {
+            "id": 51,
+            "model": "돈키호테",
+            "content": "Uma coisa destas é uma aventura que não pode existir no dicionário de Don Quixote. Um lugar onde se vive feliz em simbiose com malfeitores..."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "content": "Hum, agora que penso, vem-me à mente um caso que o senhor Siegfried resolveu."
+        },
+        {
+            "id": 53,
+            "model": "돈키호테",
+            "content": "Foi um combate travado sobre uma ponte... naquela vez também, dizem que os malfeitores fizeram uma proposta pérfida."
+        },
+        {
+            "id": 54,
+            "model": "돈키호테",
+            "content": "Pressionando o senhor Siegfried com dinheiro e poder, instigaram-no a ficar do lado deles!"
+        },
+        {
+            "id": 55,
+            "model": "돈키호테",
+            "content": "Mas o nosso senhor Siegfried jamais se deixou seduzir por isso!"
+        },
+        {
+            "id": 56,
+            "model": "돈키호테",
+            "content": "Desferindo um Super Soco no rosto do malfeitor que cuspia a proposta detestável...!"
+        },
+        {
+            "id": 57,
+            "model": "이스마엘",
+            "content": "Ah, aquele vídeo editado de uma hora? Aquilo, dá pra ver de cara, é um roteiro montado..."
+        },
+        {
+            "id": 58,
+            "model": "돈키호테",
+            "content": "... and declared thusly!"
+        },
+        {
+            "id": 59,
+            "model": "돈키호테",
+            "content": "'Ousastes pensar que poderíeis atrair este Siegfried com um mero dinheiro sujo destes?!'"
+        },
+        {
+            "id": 60,
+            "model": "돈키호테",
+            "content": "E então, um Super Laser naquele sujeito, zvááááá..."
+        },
+        {
+            "id": 61,
+            "model": "오티스",
+            "content": "Attention, men."
+        },
+        {
+            "id": 62,
+            "content": "...No momento certo, Outis cortou a história de Don Quixote."
+        },
+        {
+            "id": 63,
+            "model": "오티스",
+            "content": "Os vestígios das bolsas de sangue estão concentrados nesta atração."
+        },
+        {
+            "id": 64,
+            "model": "오티스",
+            "content": "It's called... let's see. 'Haunted: Bloody Mary'..."
+        },
+        {
+            "id": 65,
+            "model": "로쟈",
+            "content": "Bom, pelo visto é uma coisa como uma casa mal-assombrada."
+        },
+        {
+            "id": 66,
+            "model": "로쟈",
+            "content": "Ah, Sinclair. Numa casa mal-assombrada, será que tem fantasma de verdade..."
+        },
+        {
+            "id": 67,
+            "model": "싱클레어",
+            "content": "E-espera! Eu também já fui a um parque de diversões com a minha família quando era criança! En... então, zombar de mim desse jeito não vai fazer eu me assustar nem nada..."
+        },
+        {
+            "id": 68,
+            "model": "로쟈",
+            "content": "...era o que eu ia perguntar. É que pra mim é a primeira vez num parque de diversões..."
+        },
+        {
+            "id": 69,
+            "model": "이상",
+            "content": "Ahh..."
+        },
+        {
+            "id": 70,
+            "model": "싱클레어",
+            "content": "I-I'm sorry."
+        },
+        {
+            "id": 71,
+            "model": "로쟈",
+            "content": "Ah~ que isso. Então tem fantasma de verdade, é?"
+        },
+        {
+            "id": 72,
+            "model": "싱클레어",
+            "content": "Em... em geral, o que aparece é só uns bonecos toscos, e mais nada."
+        },
+        {
+            "id": 73,
+            "model": "뫼르소",
+            "content": "Como é uma atração que crianças pequenas também podem usar, não se colocam fantasmas de verdade. Há apenas dispositivos capazes de criar um clima de medo."
+        },
+        {
+            "id": 74,
+            "model": "싱클레어",
+            "content": "Sim, porque é um lugar que se visita, em geral, em família."
+        },
+        {
+            "id": 75,
+            "place": "-1",
+            "content": "<color=#cc2424>Você não tinha família, nem irmãos?</color>"
+        },
+        {
+            "id": 76,
+            "content": "<color=#ffef23>Eu fui sozinho desde que nasci. Sempre senti frio e solidão, e...</color>"
+        },
+        {
+            "id": 77,
+            "content": "<color=#cc2424>Then let me…</color>"
+        },
+        {
+            "id": 78,
+            "content": "<color=#cc2424>Eu vou fazer com que você não queira mais morrer.</color>"
+        },
+        {
+            "id": 79,
+            "content": "<color=#cc2424>Eu vou te dar uma família para estar junto eternamente, então venha comigo.</color>"
+        }
+    ]
+}

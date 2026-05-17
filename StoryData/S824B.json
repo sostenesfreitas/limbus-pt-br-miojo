@@ -1,0 +1,122 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Caminho de Descida para Cheolhamsa",
+            "model": "홍루",
+            "content": "Para ir a Cheolhamsa, passar por este lugar é o caminho mais rápido."
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Looks like it leads underground... >"
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Aii... é mesmo o caminho rápido? E aquilo lá, o que é?"
+        },
+        {
+            "id": 3,
+            "model": "히스클리프",
+            "content": "Como é o caminho rápido, claro que vão bloquear a partir daqui."
+        },
+        {
+            "id": 4,
+            "content": "Bom, a gente já esperava, mas..."
+        },
+        {
+            "id": 5,
+            "content": "Looks like I was right."
+        },
+        {
+            "id": 6,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Eu proponho que vocês deem meia-volta assim mesmo e voltem pelo caminho por onde vieram."
+        },
+        {
+            "id": 7,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "É uma proposta generosa como nenhuma. Acatem-na sem resmungar."
+        },
+        {
+            "id": 8,
+            "model": "이스마엘",
+            "content": "...O Grande Confronto pelo Patriarcado já se encerrou, e o resultado foi proclamado diante de todos."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Por ordem de quem é que vocês querem nos atacar?"
+        },
+        {
+            "id": 10,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Naive girl."
+        },
+        {
+            "id": 11,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "A este Grande Jardim já estão afluindo, à porfia, incontáveis facções."
+        },
+        {
+            "id": 12,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Hmf... aquele sujeito que se gaba de ir se tornar patriarca, a esta altura, sem nem conseguir se apresentar aos Imortais, há de estar derramando sangue no meio da rua."
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "…!"
+        },
+        {
+            "id": 14,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Looks like a bunch of third-raters decided to work together, huh..."
+        },
+        {
+            "id": 15,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Vocês acham que, com uma força tão frágil quanto esta, conseguem retomar de nós o patriarca?"
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "content": "Para quem não consegue aceitar um resultado já definido e levanta uma rebelião ao seu bel-prazer..."
+        },
+        {
+            "id": 17,
+            "model": "이스마엘",
+            "content": "...o que é que nós estaríamos retomando? Para começo de conversa, nunca chegou a ser tomado de nós."
+        },
+        {
+            "id": 18,
+            "model": "오티스",
+            "content": "Ainda por cima, nem conseguem declarar o nome de quem é o mandante."
+        },
+        {
+            "id": 19,
+            "model": "오티스",
+            "content": "Se fosse uma causa legítima, vocês a teriam cuspido por conta própria, sem nem perguntarmos. É claro que vocês mesmos consideram isto uma ação de ladrão."
+        },
+        {
+            "id": 20,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "...Ha. Por que é que nós teríamos de informar a vocês algo como uma causa?"
+        },
+        {
+            "id": 21,
+            "model": "사씨사병1",
+            "teller": "Membro Generoso da Facção",
+            "content": "Destroy them all!"
+        }
+    ]
+}

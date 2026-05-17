@@ -1,0 +1,335 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Cabine da Classe Econômica do Trem WARP",
+            "content": "Depois de mais uma batalha, algo estranhamente chamativo se moveu à altura dos meus pés."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Hã...? Mas o que é isso?"
+        },
+        {
+            "id": 2,
+            "content": "Nó último vagão de passageiros, dentro do compartimento de cargas, tinha uma caixa com a logo da T Corp. "
+        },
+        {
+            "id": 3,
+            "model": "돈키호테",
+            "content": "Dir-se-ia que é o brasão da T Corp...!"
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "A parede que escondia esta caixa parece ter sido destruída durante o combate."
+        },
+        {
+            "id": 5,
+            "model": "로쟈",
+            "content": "Aquele tal de... Herbert, né? Lembro dele falar que eles têm muitas parcerias com as Asas."
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "Como esperado, eles tão juntos até com a W Corp."
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "Estas colabarações não são exclusivas da T Corp. Muitas Asas estabelecem parcerias umas com as outras."
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "Na verdade... É muito peculiar eles terem solicitado a ajuda da Limbus Company com tanta pressa, visto que ainda não temos tal renome..."
+        },
+        {
+            "id": 9,
+            "model": "로쟈",
+            "content": "Bem, isso só nos mostra que os seus dias de ouro já se foram."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Tal como esta parede, que quando foi destruída, revelou todo seu interior."
+        },
+        {
+            "id": 11,
+            "model": "로쟈",
+            "content": "Ah! E falando de coisas destruídas... Esse vagão tá um trapo também, né?"
+        },
+        {
+            "id": 12,
+            "content": "Como se tivesse falado algo errado, a voz de Rodya que ficou mais pesada por alguns momentos, voltou ao normal. Mas a forma rápida que ela mudou de assunto é a parte mais preocupante."
+        },
+        {
+            "id": 13,
+            "model": "뫼르소",
+            "content": "Por conta dos diversos pedaços de próteses espalhados por este vagão, podemos concluir que ele estava ocupado por diversos Mandatários que usavam próteses."
+        },
+        {
+            "id": 14,
+            "content": "... Por enquanto, tenho que lidar com o imediato."
+        },
+        {
+            "id": 15,
+            "model": "이스마엘",
+            "content": "Talvez esse pessoal seja do mesmo Escritório que aquele cara da plataforma. Ele disse que estava indo para a T Corp. em uma missão."
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "content": "Vejo vários corpos com o que parecem ser a mesma marca de próteses..."
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Mm... Acredito ter lido sobre Escritórios nos quais apenas Mandatários com certas próteses são contratados."
+        },
+        {
+            "id": 18,
+            "model": "싱클레어",
+            "content": "Hm...? Esse homem está..."
+        },
+        {
+            "id": 19,
+            "content": "Enquanto andávamos pelo vagão ensanguentado, onde claramente houve uma batalha, escutamos a voz de Sinclair alta e clara, como se tivesse visto algo que não deveria."
+        },
+        {
+            "id": 20,
+            "model": "돈키호테",
+            "content": "Raios...! Este é certamente aquele na qual havíamos vislumbrado na plataforma...!"
+        },
+        {
+            "id": 21,
+            "model": "오티스",
+            "content": "É o Mandatário que resmungou com nós."
+        },
+        {
+            "id": 22,
+            "model": "그레고르",
+            "content": "É, ele ainda disse que tava fazendo uma expedição ou algo do tipo pra T Corp. mas que deu merda... Com todo esse pessoal sendo Mandatários, acho que dá mesmo pra chamar de expedição."
+        },
+        {
+            "id": 23,
+            "model": "돈키호테",
+            "content": "Há dezenas e dezenas de braços destroçados... Hei de ter sido uma batalha de Alta honra, lutaram até o último braço funcional, o que acham?"
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Faz sentido... visto todas essas próteses de braços e pernas quebrados neste vagão.>"
+        },
+        {
+            "id": 25,
+            "model": "오티스",
+            "content": "Gerente Executivo, é muito provável que este seja o resultado de uma batalha entre os Mandatários e as Bolsas de Sangue."
+        },
+        {
+            "id": 26,
+            "model": "오티스",
+            "content": "Houveram muitos casos similares como este durante a guerra. Aqueles com próteses, desde que o bolso permitisse, lutavam sem se importar com danos nem reparos, eles consideravam as partes de seu corpo totalmente descartáveis."
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "Mas é claro, aqueles que não se cuidavam devidamente acabavam participando de seus próprios enterros antes da hora."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Hm, bom saber...>"
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Me aparenta que uma situação singular pode dar voz a diferentes ideias e interpretações inexperadas. Manteremos ambas em mente."
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "Hm, é uma boa atitude. Soldados com essa mentalidade costumavam durar até o fim da guerra."
+        },
+        {
+            "id": 31,
+            "model": "파우스트",
+            "content": "Sim, bem. Que bom para eles."
+        },
+        {
+            "id": 32,
+            "content": "Faust respondeu de uma forma estranhamente brusca. Seu rosto demonstrava sinais de fadiga sob sua expressão comum."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Faust... tudo bem?>"
+        },
+        {
+            "id": 34,
+            "content": "É raro ver qualquer expressão vinda dela... Me pergunto se ela está bem."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Fisicamente, estou ilesa, porém...Hm. Sim, estou bem."
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "Entretanto, a situação atual, que me aparenta ser parecida com estar perdida em mar aberto, jogando redes ao acaso em sua superfície, não me é nada agradável."
+        },
+        {
+            "id": 37,
+            "model": "파우스트",
+            "content": "Visto que, em um dia comum, eu poderia ter chego em conclusões certas em meros momentos ao apenas consultar as informações que tenho acesso e fazer algumas deduções simples."
+        },
+        {
+            "id": 38,
+            "content": "Sua voz foi abaixando conforme falava, ao ponto de eu mal ter ouvido o final de sua frase."
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "Ah, eu conheço essa."
+        },
+        {
+            "id": 40,
+            "model": "이스마엘",
+            "content": "Aquela sensação de estar completamente perdida, jogando uma rede de novo e de novo, uma tentativa desesperada de conseguir qualquer tipo de comida no meio daquele lago escuro e parado, era de perder as esperanças."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Sem sabem onde estamos, para onde vamos e ainda por cima sem ter uma migalha ara comer... Tudo que você podia fazer era esperar por um tiro no escuro que de certo."
+        },
+        {
+            "id": 42,
+            "model": "이상",
+            "content": "Vejo-me em uma situação não tão diferente da sua, como se estivesse de costas para a minha própria coca ainda não vista, vendo apenas imagens refletidas em meus olhos e o aroma de sangue em meu olfato, o caminho à frente me é vago."
+        },
+        {
+            "id": 43,
+            "content": "Parece que Ishmael é Yi Sang ouviram parte da frase, talvez só o começo, logo se aproximando para dar algumas palavras de conforto para Faust."
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "Aliás... acho que nunca te ouvi falar desta maneira, Faust."
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "Para ser mais exata, parece que há algo de diferente com você hoje..."
+        },
+        {
+            "id": 46,
+            "model": "파우스트",
+            "content": "Bem..."
+        },
+        {
+            "id": 47,
+            "model": "이스마엘",
+            "content": "Ah, não me leve a mal. É bom saber que você tem um lado mais sensível."
+        },
+        {
+            "id": 48,
+            "model": "이상",
+            "content": "É um lado pouco visto seu... É certamente algo inovador."
+        },
+        {
+            "id": 49,
+            "model": "파우스트",
+            "content": "... É mesmo?"
+        },
+        {
+            "id": 50,
+            "content": "A resposta de Faust foi breve, com isso, ela fechou seus olhos."
+        },
+        {
+            "id": 51,
+            "model": "뫼르소",
+            "content": "De acordo com as informações de um panfleto encontrado na plataforma, este trem é composto por doze vagões de passageiros e um vagão de carga."
+        },
+        {
+            "id": 52,
+            "model": "뫼르소",
+            "content": "Dado que estamos no décimo primeiro vagão neste momento, isto nos deixa com apenas um vagão restante entre nós e o vagão no qual se encontra Mefistófeles."
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<Então...>"
+        },
+        {
+            "id": 54,
+            "model": "뫼르소",
+            "content": "É alta a probabilidade de que encontremos o Sanguemônio responsável pelas bolsas de Sangue no próximo vagão."
+        },
+        {
+            "id": 55,
+            "content": "Além dessa porta..."
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "content": "Tá, mas quão forte pode ser o chefe se tudo que ele tem é essas buchas de canhão?"
+        },
+        {
+            "id": 57,
+            "model": "뫼르소",
+            "content": "Uma interpretação diferente e mais própria é considerar que um ser capaz de controlar uma força tão grande como as Bolsas de Sangue será uma entidade de alto risco."
+        },
+        {
+            "id": 58,
+            "model": "파우스트",
+            "content": "Embora não seja um conhecimento geral, existe uma subdivisão de Mandatários especializados na casa de Sanguemônios. Sendo eles os caçadores de Sanguemônio..."
+        },
+        {
+            "id": 59,
+            "model": "파우스트",
+            "content": "Ao julgarmos essa informação como verdadeira, podemos assumir que a caça de um Sanguemônio é algo que se necessita de uma certa quantidade de experiência e especialização."
+        },
+        {
+            "id": 60,
+            "model": "홍루",
+            "content": "Agora que eu penso sobre... Essas Bolsas de Sangue são como os exércitos dos Sanguemônios que os segue cegamente, né?"
+        },
+        {
+            "id": 61,
+            "model": "오티스",
+            "content": "Um ser que consegue criar um exército, sem precisar se preocupar com obediência nem moral... Com ou sem guerra, sempre será um oponente formidável."
+        },
+        {
+            "id": 62,
+            "content": "A conversa rolou solta entre os Pecadores durante este breve tempo. Chutes da força desse Sanguemônio, possíveis estratégias, opiniões gerais..."
+        },
+        {
+            "id": 63,
+            "content": "E de repente."
+        },
+        {
+            "id": 64,
+            "model": "돈키호테",
+            "content": "Cessem vossas conversas fiadas!! Não é de objetivo primário a derrota deste vil que traz tanta dor e sofrimento sob este trem?! É possível que este ser, tão desprezível, esteja roubando a preciosa vida de um inocente enquanto discutimos!"
+        },
+        {
+            "id": 65,
+            "model": "돈키호테",
+            "content": "Forte ou fraco, não me importa... Juro por minha honra que abateremos este inimigo aqui e agora, nem que eu tenha que usar minhas próprias mãos como forma de justiça! Adiante meus caros, com presteza!"
+        },
+        {
+            "id": 66,
+            "content": "Ao clamor de Don Quixote, a conversa imediatamente se encerrou."
+        },
+        {
+            "id": 67,
+            "model": "단테",
+            "content": "<... Ela tem razão. Além disso, lidar com esse Sanguemônio é o ponto do nosso contrato.>"
+        },
+        {
+            "id": 68,
+            "content": "Com isso, abri a porta para o último vagão deste trem."
+        }
+    ]
+}

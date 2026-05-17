@@ -1,0 +1,685 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Plataforma do trem WARP - P Corp.",
+            "content": "Aquela pessoa... é a que prometera nos encontrar nesta plataforma..."
+        },
+        {
+            "id": 1,
+            "model": "체사라",
+            "teller": "???",
+            "title": "O Contratante",
+            "content": "Ora... é uma honra conhecer o Excêntrico Olhar Vermelho."
+        },
+        {
+            "id": 2,
+            "model": "체사라",
+            "content": "E a todos os demais, é um prazer. Eu sou Cesara, chefe do Departamento de Arquivamento da P Corp."
+        },
+        {
+            "id": 3,
+            "model": "오티스",
+            "content": "Departamento de Arquivamento? Vocês fazem algum trabalho de registro?"
+        },
+        {
+            "id": 4,
+            "model": "체사라",
+            "content": "In a manner of speaking, yes. It is a rather significant department within P Corp., regardless of how other Wings treat their own archivists."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "O fato de a chefe de um departamento tão importante ter vindo nos procurar... será que esta empresa ficou mesmo bem famosa agora?"
+        },
+        {
+            "id": 6,
+            "model": "체사라",
+            "content": "Não é uma afirmação errada. Histórias sobre vocês, a Limbus Company, chegam aos meus ouvidos de boca em boca."
+        },
+        {
+            "id": 7,
+            "model": "체사라",
+            "content": "Como era mesmo... dizem que vocês são uma empresa de médio porte que, contanto que possa obter esse tal de Ramo Dourado, leva o encargo ao sucesso sem hesitar nem diante da morte..."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "That's true, I guess, but..."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Hey, she's actually making us sound pretty impressive, huh...?>"
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "É exaaatamente isso! Eu e os meus companheiros! Encaramos incontáveis adversidades e a morte e executamos um sem-número de males."
+        },
+        {
+            "id": 11,
+            "content": "Embora os outros Pecadores ficassem atônitos, só Don Quixote, como se aquela frase de apresentação lhe agradasse em cheio, estava com o olhar reluzindo o dobro do normal."
+        },
+        {
+            "id": 12,
+            "model": "베르길리우스",
+            "content": "Do nosso lado, também recebemos o teor geral deste encargo."
+        },
+        {
+            "id": 13,
+            "model": "베르길리우스",
+            "content": "Que há um caso de nível de Pesadelo Urbano, no qual diversos Solucionadores vêm se reunindo e tentando a subjugação repetidas vezes."
+        },
+        {
+            "id": 14,
+            "model": "체사라",
+            "content": "Correct."
+        },
+        {
+            "id": 15,
+            "model": "베르길리우스",
+            "content": "E não é possível que alguém como a senhora, que é nada menos que uma chefe de departamento, viesse em pessoa receber os Solucionadores cada vez que eles chegam."
+        },
+        {
+            "id": 16,
+            "model": "체사라",
+            "content": "Correct again."
+        },
+        {
+            "id": 17,
+            "model": "베르길리우스",
+            "content": "Ademais, transmitir um encargo num lugar que não é sequer um ambiente oficial..."
+        },
+        {
+            "id": 18,
+            "model": "베르길리우스",
+            "content": "...significa que o que a senhora quer de nós não é apenas a subjugação do Pesadelo Urbano,"
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "...mas sinto a expectativa de que façamos algo além disso."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "A expectativa de que façamos algo 'sem hesitar nem diante da morte...', como a senhora disse há pouco."
+        },
+        {
+            "id": 21,
+            "model": "체사라",
+            "content": "...É uma sensação estranha — eu nem pretendia esconder, mas é como se tivesse sido desvendada."
+        },
+        {
+            "id": 22,
+            "content": "Eu e os Pecadores apenas observávamos, perplexos, Vergílio extrair o cerne do encargo com tamanha desenvoltura."
+        },
+        {
+            "id": 23,
+            "model": "체사라",
+            "content": "Isso mesmo. Dizem que há esse tal de Ramo Dourado em algum lugar da localização do alvo da subjugação. Esta foi uma informação que vocês mesmos nos passaram, entrando em contato primeiro."
+        },
+        {
+            "id": 24,
+            "model": "체사라",
+            "content": "Quando eu recebi aquele contato no início, fiquei tão pasma... Nem davam uma resposta precisa quando eu perguntava o que era o Ramo Dourado, e diziam que as coordenadas exatas só se podiam saber quando o pessoal de vocês entrasse em pessoa naquela área... Eu cheguei a achar que era um trote."
+        },
+        {
+            "id": 25,
+            "model": "베르길리우스",
+            "content": "Mas, naquele instante, não veio junto também uma proposta que a senhora jamais conseguiria recusar?"
+        },
+        {
+            "id": 26,
+            "model": "체사라",
+            "content": "...Aah. Eu garanto: a empresa de vocês deve ter um informante de capacidade de coleta de informações descomunal, ou um departamento de informação competentíssimo."
+        },
+        {
+            "id": 27,
+            "content": "Cesara soltou um longo suspiro e, deixando os ombros caírem, encostou-se na parede."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Então, o que é exatamente que a gente tem que subjugar?"
+        },
+        {
+            "id": 29,
+            "model": "이스마엘",
+            "content": "Vendo que vários Solucionadores se reuniram... será que tem alguma Anormalidade fugida de uma filial andando por aí, como da última vez? Ou então uma Distorção..."
+        },
+        {
+            "id": 30,
+            "content": "Cesara fitou demoradamente Ishmael, que emendava as palavras numa enxurrada."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "Eh, ah... uma explicação. É que Anormalidade e Distorção são uma espécie de... monstro, mais ou menos."
+        },
+        {
+            "id": 32,
+            "model": "체사라",
+            "content": "...Antes fosse uma 'coisa' dessas, teria sido bem melhor."
+        },
+        {
+            "id": 33,
+            "content": "Logo que chegamos a este lugar, houve uma coisa que me chamou a atenção em especial."
+        },
+        {
+            "id": 34,
+            "model": "단테",
+            "content": "<The missing persons flyers...>"
+        },
+        {
+            "id": 35,
+            "content": "Os incontáveis cartazes de pessoas desaparecidas, colados por todos os cantos das colunas da estação."
+        },
+        {
+            "id": 36,
+            "content": "Idades, sexos, todos os mais variados. Parece que, na P Corp, um grande número indeterminado de pessoas desapareceu."
+        },
+        {
+            "id": 37,
+            "content": "Cesara, percebendo que o nosso olhar se dirigia aos cartazes de desaparecidos, prosseguiu a fala."
+        },
+        {
+            "id": 38,
+            "model": "체사라",
+            "content": "Que um cartaz fique colado, sem ser arrancado, até o papel ficar esfarrapado..."
+        },
+        {
+            "id": 39,
+            "model": "체사라",
+            "content": "...significa que essas pessoas ainda não voltaram em segurança para casa."
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 41,
+            "model": "오티스",
+            "content": "O que se tem de subjugar... não é um espécime, e sim..."
+        },
+        {
+            "id": 42,
+            "model": "오티스",
+            "content": "... It is a phenomenon."
+        },
+        {
+            "id": 43,
+            "model": "체사라",
+            "content": "O lugar onde desabrocham sorrisos felizes."
+        },
+        {
+            "id": 44,
+            "model": "체사라",
+            "content": "O parque de diversões das velhas histórias, a La Manchaland."
+        },
+        {
+            "id": 45,
+            "model": "싱클레어",
+            "content": "La Manchaland..."
+        },
+        {
+            "id": 46,
+            "model": "체사라",
+            "content": "Só de desaparecidos contabilizados são, atualmente, umas dezenas; na realidade, provavelmente é mais do que isso."
+        },
+        {
+            "id": 47,
+            "model": "체사라",
+            "content": "Os visitantes que entraram nesta La Manchaland, que surgiu nos becos da P Corp dois meses atrás... até hoje, na maioria, não conseguiram sair."
+        },
+        {
+            "id": 48,
+            "model": "돈키호테",
+            "content": "Desaparecidos? Como pode uma coisa dessas acontecer num parque de diversões, que por dever deveria estar repleto unicamente de alegria..."
+        },
+        {
+            "id": 49,
+            "model": "체사라",
+            "content": "Só com os funcionários alocados a mim, era impossível resolver. Três dias depois de surgir, recebeu a classificação de Doença Urbana, e agora se tornou um Pesadelo Urbano."
+        },
+        {
+            "id": 50,
+            "model": "베르길리우스",
+            "content": "Mas, não sendo uma Estrela da Cidade, e sim algo do nível de um Pesadelo Urbano, parece-me que é algo que a P Corp poderia resolver com os próprios meios."
+        },
+        {
+            "id": 51,
+            "model": "체사라",
+            "content": "Hum... é que é um fenômeno que os outros departamentos não consideram lá muito digno de atenção, então os funcionários regulares do departamento de combate não foram destacados."
+        },
+        {
+            "id": 52,
+            "model": "돈키호테",
+            "content": "Por que... por que a P Corp não destacou esses funcionários?!"
+        },
+        {
+            "id": 53,
+            "content": "Don Quixote, mais do que totalmente imerso no que a contratante dizia, estava indignado."
+        },
+        {
+            "id": 54,
+            "content": "... Cesara seemed to be enjoying Don Quixote's excessive, almost theatrical reaction."
+        },
+        {
+            "id": 55,
+            "model": "체사라",
+            "content": "É porque o lugar onde este fenômeno surgiu são os becos."
+        },
+        {
+            "id": 56,
+            "model": "체사라",
+            "content": "Se fosse no Ninho, eles teriam destacado na hora os agentes de elite do Departamento de Compressão."
+        },
+        {
+            "id": 57,
+            "model": "베르길리우스",
+            "content": "Fiquemos por aqui, chefe Cesara. Não é só isso, é?"
+        },
+        {
+            "id": 58,
+            "model": "베르길리우스",
+            "content": "Com o seu cargo, um pedido de cooperação para destacar funcionários de outro departamento não teria custado nada."
+        },
+        {
+            "id": 59,
+            "model": "베르길리우스",
+            "content": "O motivo de ter escolhido a Limbus Company é outro, não é?"
+        },
+        {
+            "id": 60,
+            "model": "체사라",
+            "content": "Sim, sim, francamente. Não consigo levar a melhor contra o senhor."
+        },
+        {
+            "id": 61,
+            "model": "체사라",
+            "content": "Está bem, eu confesso. O objetivo do meu departamento..."
+        },
+        {
+            "id": 62,
+            "model": "체사라",
+            "content": "...não é fazer a La Manchaland desaparecer."
+        },
+        {
+            "id": 63,
+            "model": "단테",
+            "content": "<... Huh?>"
+        },
+        {
+            "id": 64,
+            "model": "체사라",
+            "content": "Pois bem, vocês logo seguirão para a La Manchaland junto com os outros Solucionadores."
+        },
+        {
+            "id": 65,
+            "model": "체사라",
+            "content": "Um conselho: não deixem que os outros Solucionadores saibam que vocês vieram em busca do Ramo Dourado."
+        },
+        {
+            "id": 66,
+            "model": "체사라",
+            "content": "Se vocês revelarem precipitadamente que essa coisa desconhecida, o Ramo Dourado, está escondida em algum lugar..."
+        },
+        {
+            "id": 67,
+            "model": "체사라",
+            "content": "...para os Solucionadores isso pode ser visto como mais uma recompensa. O que eu digo é: não provoquem aquela gente à toa."
+        },
+        {
+            "id": 68,
+            "model": "체사라",
+            "content": "E, claro, é bom que vocês, com discrição, também guardem segredo de que o objetivo do meu departamento não é a subjugação da La Manchaland, não é?"
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Em uma palavra... dá para resumir como 'a P Corp e a Limbus Company obtêm em silêncio o que cada uma quer e resolvem a coisa'."
+        },
+        {
+            "id": 70,
+            "model": "체사라",
+            "content": "That's a pretty good summary."
+        },
+        {
+            "id": 71,
+            "model": "오티스",
+            "content": "Não nos subestime tanto. Alguém que tagarele um segredo de modo tão idiota, entre nós, não..."
+        },
+        {
+            "id": 72,
+            "model": "오티스",
+            "content": "... some of us might fall slightly behind."
+        },
+        {
+            "id": 73,
+            "model": "베르길리우스",
+            "content": "Que tal irmos ao ponto de uma vez? Quanto mais tempo ficarmos parados aqui, mais olhares atraímos."
+        },
+        {
+            "id": 74,
+            "model": "체사라",
+            "content": "... That's true."
+        },
+        {
+            "id": 75,
+            "model": "체사라",
+            "content": "Entrem na La Manchaland, encontrem o algo, ou o alguém... que a criou em primeiro lugar, e tragam-no até mim."
+        },
+        {
+            "id": 76,
+            "model": "오티스",
+            "content": "Or someone...?"
+        },
+        {
+            "id": 77,
+            "model": "뫼르소",
+            "content": "Pode ser um 'algo'. As informações são escassas demais. Nem se sabe se é um ser vivo ou inanimado?"
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "Não termina simplesmente em fazer a La Manchaland desaparecer... qual é o motivo de se precisar de quem a criou...?"
+        },
+        {
+            "id": 79,
+            "model": "체사라",
+            "content": "... Hah."
+        },
+        {
+            "id": 80,
+            "content": "O olhar de Cesara, que ouvia as reações de vários Pecadores, cintilou por um instante e se voltou para Sinclair."
+        },
+        {
+            "id": 81,
+            "model": "싱클레어",
+            "content": "D-did I say something wrong...?"
+        },
+        {
+            "id": 82,
+            "model": "체사라",
+            "content": "Digamos que, por não imaginar sequer que alguém ousaria fazer uma pergunta dessas, eu até fiquei sem palavras."
+        },
+        {
+            "id": 83,
+            "model": "체사라",
+            "content": "Tal como eu não fiz a vocês a pergunta de por que andam procurando o Ramo Dourado."
+        },
+        {
+            "id": 84,
+            "model": "싱클레어",
+            "content": "Ahh..."
+        },
+        {
+            "id": 85,
+            "model": "체사라",
+            "content": "Bom, não é um conteúdo que se faça questão de esconder."
+        },
+        {
+            "id": 86,
+            "model": "체사라",
+            "content": "Se for para dizer... é para cobrar a responsabilidade por esse dano."
+        },
+        {
+            "id": 87,
+            "model": "돈키호테",
+            "content": "Mm, forsooth! A villain who hath committed such wicked atrocity deserveth a punishment most fitting!"
+        },
+        {
+            "id": 88,
+            "model": "체사라",
+            "content": "E, de quebra, melhor ainda se eu conseguir um resultado capaz de superar os outros departamentos e for promovida, depois de tanto tempo."
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 90,
+            "model": "오티스",
+            "content": "...De todo modo, independentemente de aceitarmos ou não, deve ser um assunto já totalmente acertado com a cúpula."
+        },
+        {
+            "id": 91,
+            "model": "히스클리프",
+            "content": "...Mesmo supondo que a gente consiga fazer aquele lugar desaparecer, se a gente não levar pra vocês o cara que fez aquele parque esquisito."
+        },
+        {
+            "id": 92,
+            "model": "히스클리프",
+            "content": "What'll you do then?"
+        },
+        {
+            "id": 93,
+            "content": "As palavras de Heathcliff tinham um tom bem rude, mas, na verdade, era algo que dava margem a dúvida."
+        },
+        {
+            "id": 94,
+            "content": "Pois mais do que 'não levar', poderia surgir uma situação em que não fosse possível levar."
+        },
+        {
+            "id": 95,
+            "model": "체사라",
+            "content": "Não daria para pôr a mão nele de imediato, mas nós também começaríamos, aos poucos, a pesquisar esse tal de Ramo Dourado."
+        },
+        {
+            "id": 96,
+            "model": "오티스",
+            "content": "Ha. Quer dizer que, se não trouxermos, vocês poderão, daqui pra frente, tomar o que é nosso."
+        },
+        {
+            "id": 97,
+            "model": "체사라",
+            "content": "Claro que, se trouxerem, não haveria necessidade de pesquisar uma coisa tão incerta."
+        },
+        {
+            "id": 98,
+            "model": "체사라",
+            "content": "E... mesmo que agora a La Manchaland permaneça como um Pesadelo Urbano, como a curva de crescimento do seu grau de perigo é íngreme, ela vem ganhando atenção, aos poucos, por toda a Cidade."
+        },
+        {
+            "id": 99,
+            "model": "체사라",
+            "content": "E, neste exato momento, diversos Solucionadores também estão se reunindo de toda a Cidade para a subjugação da La Manchaland."
+        },
+        {
+            "id": 100,
+            "model": "이스마엘",
+            "content": "Quer dizer que há muita gente além de nós para subjugar a La Manchaland?"
+        },
+        {
+            "id": 101,
+            "model": "체사라",
+            "content": "Os que querem dinheiro e glória nunca se esgotam."
+        },
+        {
+            "id": 102,
+            "model": "체사라",
+            "content": "Ah, talvez esses Solucionadores também venham a se interessar pelo Ramo Dourado dentro em breve. Pois, onde há algo valioso, costuma se espalhar um cheiro doce."
+        },
+        {
+            "id": 103,
+            "model": "이스마엘",
+            "content": "...Quer dizer que é para a gente negociar em silêncio, antes que outras forças ou Solucionadores ponham o olho na coisa."
+        },
+        {
+            "id": 104,
+            "model": "체사라",
+            "content": "Desta vez também você capta bem o cerne da conversa!"
+        },
+        {
+            "id": 105,
+            "model": "체사라",
+            "content": "Isso mesmo. É uma sorte que cada lado julgue que aquilo que procura tem valor, 'por enquanto', apenas para si."
+        },
+        {
+            "id": 106,
+            "model": "체사라",
+            "content": "Por isso vocês poupam as palavras sobre o Ramo Dourado, e nós também cuidamos da boca sobre o algo que criou a La Manchaland."
+        },
+        {
+            "id": 107,
+            "model": "료슈",
+            "content": "Razoável. Quanto mais gente sabe, mais a informação perde valor. Como um produto de fábrica banal."
+        },
+        {
+            "id": 108,
+            "model": "로쟈",
+            "content": "Bem que eu sabia... e eu que achava que iam nos dar uma lembrancinha; não foi à toa que nos chamaram à parte."
+        },
+        {
+            "id": 109,
+            "model": "체사라",
+            "content": "A expectativa que eu deposito em vocês é grande."
+        },
+        {
+            "id": 110,
+            "model": "체사라",
+            "content": "Pois vocês são gente que não hesita nem diante da morte."
+        },
+        {
+            "id": 111,
+            "model": "단테",
+            "content": "<She keeps saying that...>"
+        },
+        {
+            "id": 112,
+            "content": "Todos os encargos pareciam ter sido sempre desse jeito."
+        },
+        {
+            "id": 113,
+            "content": "Desde o início, a segurança e a paz de todos ficam em segundo plano."
+        },
+        {
+            "id": 114,
+            "content": "Cada um põe à frente o que deseja, e não revela o que traz por dentro."
+        },
+        {
+            "id": 115,
+            "content": "Num canto do coração, eu já me conformei com esse tipo de método, mas..."
+        },
+        {
+            "id": 116,
+            "content": "...sei que pode vir a ser um processo nada correto."
+        },
+        {
+            "id": 117,
+            "model": "돈키호테",
+            "content": "AHEM!"
+        },
+        {
+            "id": 118,
+            "content": "Entre os outros Pecadores, de olhar impassível e ar de 'bem que eu sabia', só os olhos de Don Quixote ardiam, sozinhos, como uma chama."
+        },
+        {
+            "id": 119,
+            "model": "돈키호테",
+            "content": "Thou mayest put thy faith in us, Head Manager Cesara!"
+        },
+        {
+            "id": 120,
+            "model": "돈키호테",
+            "content": "Eu, este Don Quixote, e os companheiros da Limbus Company havemos, sem falta, de fazer a La Manchaland desaparecer e de salvar até as pessoas desaparecidas!"
+        },
+        {
+            "id": 121,
+            "model": "돈키호테",
+            "content": "E havemos de trazer também o pérfido criador da La Manchaland, então, por favor, em nome de todos, aplique-lhe um castigo severo."
+        },
+        {
+            "id": 122,
+            "model": "체사라",
+            "content": "Ora, ora... que palavras tranquilizadoras. Mais dignas de confiança do que a maioria dos Solucionadores, não?"
+        },
+        {
+            "id": 123,
+            "model": "돈키호테",
+            "content": "Crrh... eu, este Don Quixote, hei de lutar pela senhora com bravura e honra e deixar o meu nome no panteão da P Corp..."
+        },
+        {
+            "id": 124,
+            "content": "Don Quixote pulava de um lado para o outro, como quem cumpriria qualquer pedido que saísse da boca de Cesara."
+        },
+        {
+            "id": 125,
+            "model": "히스클리프",
+            "content": "Please stop..."
+        },
+        {
+            "id": 126,
+            "model": "오티스",
+            "content": "Naquele tempo curto, ela desvendou com precisão o jeito de manejar uma pessoa..."
+        },
+        {
+            "id": 127,
+            "model": "히스클리프",
+            "content": "Não é aquele ali que é fácil demais...?"
+        },
+        {
+            "id": 128,
+            "model": "체사라",
+            "content": "Well, then! Shall we get a move on?"
+        },
+        {
+            "id": 129,
+            "model": "돈키호테",
+            "content": "Partamos. Vamos, fará a gentileza de nos guiar?"
+        },
+        {
+            "id": 130,
+            "model": "체사라",
+            "content": "Que pena, mas não há quem os guie. Eu não posso ir junto com vocês."
+        },
+        {
+            "id": 131,
+            "model": "체사라",
+            "content": "Aqui — basta seguirem para o local escrito neste papel."
+        },
+        {
+            "id": 132,
+            "model": "돈키호테",
+            "content": "Yet wherefore?! A journey on thy lonesome shall be so dreary, no?"
+        },
+        {
+            "id": 133,
+            "model": "이스마엘",
+            "content": "É óbvio. Num lugar onde dizem estar reunidos todo tipo de Solucionador, se a gente entrar junto com aquela chefe, vira estrela popular num instante..."
+        },
+        {
+            "id": 134,
+            "model": "로쟈",
+            "content": "É, eles iam farejar na hora que a gente e a P Corp têm algum tipo de ligação."
+        },
+        {
+            "id": 135,
+            "model": "돈키호테",
+            "content": "Estrela popular... não é uma coisa boa...?"
+        },
+        {
+            "id": 136,
+            "model": "그레고르",
+            "content": "Don Quixote... já está na hora de você ir percebendo que esta palavra não tem só um sentido..."
+        },
+        {
+            "id": 137,
+            "model": "체사라",
+            "content": "Como o local fica nos becos, eu vou distribuir salvo-condutos. É um visto especial de serviço que, por algum tempo, permite circular livremente entre os becos e o Ninho da P Corp."
+        },
+        {
+            "id": 138,
+            "model": "싱클레어",
+            "content": "De fato... se ela tem como distribuir uma coisa dessas, não parece ser um departamento pequeno ou sem poder..."
+        },
+        {
+            "id": 139,
+            "content": "Sinclair parecia ainda ter algo que o incomodava, mas, com os Pecadores andando de um lado para o outro, fazendo algazarra para receber o visto, a silenciosa inquietação de Sinclair logo se desvaneceu."
+        }
+    ]
+}

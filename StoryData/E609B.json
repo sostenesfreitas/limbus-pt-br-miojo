@@ -1,0 +1,96 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Um Beco da T Corp.",
+            "content": "Depois de ligar os pontos em diversas evidências encontradas juntas dos membros derrotados dos Yurodiviye..."
+        },
+        {
+            "id": 1,
+            "content": "... Nós conseguimos rastrear eles em um prédio abandonado que parecia ser o esconderijo deles"
+        },
+        {
+            "id": 2,
+            "model": "유로지비대장",
+            "content": "Vocês finalmente conseguirem rastrear a gente... malditos correntinhas enxeridos da T Corp.! E você... seu relógio idiota!"
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<\"Seu relógio idiota\", ele disse...>"
+        },
+        {
+            "id": 4,
+            "model": "탐정로쟈",
+            "content": "Era só questão de tempo. Por que eu sou... uma detetive de primeira."
+        },
+        {
+            "id": 5,
+            "content": "Rodya exclama triunfantemente enquanto mexe seu cabelo para trás, mas eu senti uma pequena fagulha de incerteza vindo de sua voz."
+        },
+        {
+            "id": 6,
+            "model": "탐정홍루",
+            "content": "Exato, todos somos detetives de primeira."
+        },
+        {
+            "id": 7,
+            "model": "유로지비대장",
+            "content": "Tsk... Eu admito, a gente se deixou levar pelo nosso erro. ... Mas vocês não parecem tão fortes assim."
+        },
+        {
+            "id": 8,
+            "model": "유로지비대장",
+            "content": "Apenas tolos lutam contra leões em suas tocas... Eu espero que estejam preparados."
+        },
+        {
+            "id": 9,
+            "model": "탐정로쟈",
+            "content": "Não precisa esquentar com a gente. Saiba que a gente tem um Classe 5 com nós!"
+        },
+        {
+            "id": 10,
+            "model": "유로지비대장",
+            "content": "Hm, eu posso deduzir algumas coisas de você. Primeiro. O traje desse homem... esse olhar relaxado em seu rosto... Eu entendi. Parece que você não estava mentindo quando disse que ele é um Funcionário de Classe 5."
+        },
+        {
+            "id": 11,
+            "model": "유로지비대장",
+            "content": "Segundo. Você é muito sem vergonha por trazer um correntinha de Classe 5 em um esconderijo tão ferrado como esse."
+        },
+        {
+            "id": 12,
+            "model": "탐정로쟈",
+            "content": "O que isso tem a ver com vergonha... ?"
+        },
+        {
+            "id": 13,
+            "model": "탐정홍루",
+            "content": "Eu não sei dizer sobre o porque da vergonha, mas certamente esse lugar está abandonado."
+        },
+        {
+            "id": 14,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Certo, então o que acha disso? Eu vou ficar fora dessa para deixar as coisas justas."
+        },
+        {
+            "id": 15,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Seria trapaça se eu participasse dessa luta, né?"
+        },
+        {
+            "id": 16,
+            "model": "유로지비대장",
+            "content": "Isso é... uma proposta justa. Tá certo, eu aceito sua oferta."
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<A gente não pode falar nada quando for assim... ?>"
+        }
+    ]
+}

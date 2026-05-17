@@ -1,0 +1,389 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Um beco da T Corp.",
+            "model": "탐정료슈",
+            "content": "Você se atrasou, Relógio."
+        },
+        {
+            "id": 1,
+            "content": "Os dois Pecadores tinham saído na frente, mas não demorou muito até que os alcançássemos e os víssemos agachados em silêncio atrás de algo."
+        },
+        {
+            "id": 2,
+            "model": "탐정홍루",
+            "content": "Nós vamos na frente e chamamos a atenção deles! Devemos conseguir encurralá-los por esse lado."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Já que a Ryōshū e o Hong Lu estão lá fora para atrair o culpado... só precisamos fazer a nossa parte e capturá-lo.>"
+        },
+        {
+            "id": 4,
+            "model": "탐정로쟈",
+            "content": "Sim..."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<O que houve, Rodya?>"
+        },
+        {
+            "id": 6,
+            "model": "탐정로쟈",
+            "content": "É que... toda vez que penso no Sonya..."
+        },
+        {
+            "id": 7,
+            "model": "탐정로쟈",
+            "content": "... Eu me lembro de todas as coisas que não consegui fazer. Só isso."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Rodya...>"
+        },
+        {
+            "id": 9,
+            "model": "탐정로쟈",
+            "content": "Argh, não! Não vou deixar que isso me derrube. Agora preciso me concentrar em esperar o culpado se dignar a aparecer para que eu possa acabar com isso de uma vez e aí todo mundo pode voltar pra casa feliz e contente!"
+        },
+        {
+            "id": 10,
+            "model": "탐정로쟈",
+            "content": "Ugh, toda essa espera está ficando tão tediosa. Espero que eu pareça uma verdadeira fodona quando prendê-lo."
+        },
+        {
+            "id": 11,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Você certamente se recupera rápido. Isso sim é uma boa atitude para se ter."
+        },
+        {
+            "id": 12,
+            "model": "탐정로쟈",
+            "content": "Ah, você sabe~ Não é assim que as emoções são? Mudando constantemente com o tempo, não é?"
+        },
+        {
+            "id": 13,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "É mesmo? Eu não concordo muito. Acho que as emoções não mudam com o tempo."
+        },
+        {
+            "id": 14,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu diria que é a mudança das emoções que impulsionam o fluxo do tempo."
+        },
+        {
+            "id": 15,
+            "model": "탐정로쟈",
+            "content": "Hmm~ É, parece complicado."
+        },
+        {
+            "id": 16,
+            "model": "탐정로쟈",
+            "content": "Mal posso esperar para ouvir todos os elogios e bajulações que vou receber assim que capturar aquele canalha Yurodivy~"
+        },
+        {
+            "id": 17,
+            "model": "탐정로쟈",
+            "content": "Sabe, eu quero ser... uma detetive famosa."
+        },
+        {
+            "id": 18,
+            "model": "시간살인마",
+            "teller": "???",
+            "title": "???",
+            "content": "Então você deve ter sua chance."
+        },
+        {
+            "id": 19,
+            "model": "탐정로쟈",
+            "content": "…!"
+        },
+        {
+            "id": 20,
+            "model": "시간살인마",
+            "teller": "???",
+            "title": "???",
+            "content": "Uma chance para você ser a pessoa que todos admiram. O centro das atenções."
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<…!> "
+        },
+        {
+            "id": 22,
+            "model": "탐정로쟈",
+            "content": "Esse casaco longo... esse chapéu..."
+        },
+        {
+            "id": 23,
+            "model": "탐정로쟈",
+            "content": "Você é..."
+        },
+        {
+            "id": 24,
+            "model": "탐정홍루",
+            "content": "Rodya~ Dante~ O culpado correu para lá!"
+        },
+        {
+            "id": 25,
+            "model": "탐정로쟈",
+            "content": "Você é... O Estripador Temporal."
+        },
+        {
+            "id": 26,
+            "model": "시간살인마",
+            "content": "Correto."
+        },
+        {
+            "id": 27,
+            "model": "탐정로쟈",
+            "content": "…!"
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Isso não é bom... Vai demorar um pouco para Hong Lu e Ryōshū chegarem aqui...!>"
+        },
+        {
+            "id": 29,
+            "model": "시간살인마",
+            "content": "Mas antes, permita-me fazer algumas correções."
+        },
+        {
+            "id": 30,
+            "model": "시간살인마",
+            "content": "Primeiro: Não estou mais vinculado a uma organização como os Yurodiviye."
+        },
+        {
+            "id": 31,
+            "model": "시간살인마",
+            "content": "Na verdade, achei a hipocrisia deles detestável. Você sabia que nem mesmo os Yurodiviye usavam suas horas igualmente entre si? ​​É por isso que escolhi sair."
+        },
+        {
+            "id": 32,
+            "model": "시간살인마",
+            "content": "Segundo: Eu não estou \"matando tempo\". Não compare minha jornada a algo tão fútil."
+        },
+        {
+            "id": 33,
+            "model": "시간살인마",
+            "content": "Eu apenas aproveito as horas que estão prestes a ser perdidas... para compartilhá-las com aqueles que mais precisam delas."
+        },
+        {
+            "id": 34,
+            "model": "시간살인마",
+            "content": "Seria mais correto me chamar de Santo do Tempo."
+        },
+        {
+            "id": 35,
+            "model": "탐정로쟈",
+            "content": "O que... diabos você está falando? Cala a boca e—"
+        },
+        {
+            "id": 36,
+            "model": "시간살인마",
+            "content": "Não tem nem ideia do que estou falando. Pobre coitadinha, faminta por uma migalha de elogio..."
+        },
+        {
+            "id": 37,
+            "model": "시간살인마",
+            "content": "Isto é tanto uma correção da sua ignorância quanto nosso último aviso."
+        },
+        {
+            "id": 38,
+            "model": "시간살인마",
+            "content": "Se vocês desejam me... não, nos capturar... então vocês devem estar preparados para pagar o preço em tempo."
+        },
+        {
+            "id": 39,
+            "model": "탐정로쟈",
+            "content": "Isso foi uma tentativa de ameaça? Ha, você acha mesmo que pode me assustar com algo assim?"
+        },
+        {
+            "id": 40,
+            "model": "탐정로쟈",
+            "content": "Claro, você é o grande e assustador \"Estripador Temporal\", mas eu já saquei você. Conheço seus padrões. Há algo te impedindo, não é? Seja seu credo, algum tipo de falha de design em sua tecnologia... você não pode tocar no meu tempo."
+        },
+        {
+            "id": 41,
+            "model": "탐정로쟈",
+            "content": "O que você achou das deduções dessa genial detetive, hein? Hehe."
+        },
+        {
+            "id": 42,
+            "model": "시간살인마",
+            "content": "Você está metade certa. Mas você me deu mais duas correções para fazer."
+        },
+        {
+            "id": 43,
+            "model": "시간살인마",
+            "content": "Primeira: Não sou eu que está matando o tempo. É você e todos como você, que estão matando o tempo."
+        },
+        {
+            "id": 44,
+            "model": "시간살인마",
+            "content": "Segunda: De fato, não podemos estripar o tempo de qualquer um. Mas... eu posso tirar o seu."
+        },
+        {
+            "id": 45,
+            "model": "시간살인마",
+            "content": "Porque você, neste exato momento..."
+        },
+        {
+            "id": 46,
+            "model": "시간살인마",
+            "content": "... está presa na monotonia."
+        },
+        {
+            "id": 47,
+            "model": "탐정로쟈",
+            "content": " … O quê?"
+        },
+        {
+            "id": 48,
+            "model": "시간살인마",
+            "content": "Esperando o momento certo, não é? Esperando que algo aconteça. Matando o tempo."
+        },
+        {
+            "id": 49,
+            "model": "시간살인마",
+            "content": "Estamos apenas recuperando o tempo que você teria matado."
+        },
+        {
+            "id": 50,
+            "model": "탐정로쟈",
+            "content": "Hah, ha... haha..."
+        },
+        {
+            "id": 51,
+            "model": "시간살인마",
+            "content": "Nos ataque com esse machado e você pode cortar algum pedaço da nossa carne. Mas..."
+        },
+        {
+            "id": 52,
+            "model": "시간살인마",
+            "content": "... Nós... estriparemos toda a da sua existência."
+        },
+        {
+            "id": 53,
+            "model": "시간살인마",
+            "content": "Quando você acordar novamente, o relógio vai marcar quatro horas; cinquenta anos terão se passado. E nesse tempo todo... você não terá feito nada, não terá vivido nada. Tudo num piscar de olhos."
+        },
+        {
+            "id": 54,
+            "model": "시간살인마",
+            "content": "E então, toda esse tempo que passou sem que você percebesse vão te atingir de uma vez só, como uma enxurrada. E com ela virá o desespero. A estranheza, o vazio… de todo o tempo que você matou."
+        },
+        {
+            "id": 55,
+            "model": "시간살인마",
+            "content": "... E cada dor um lembrete de cada segundo que você perdeu, vivendo imersa na monotonia e pensando o quão tedioso tudo isso é."
+        },
+        {
+            "id": 56,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 57,
+            "model": "시간살인마",
+            "content": "Você parece assustada. Eu—nós—gostamos desse expressão em seus olhos."
+        },
+        {
+            "id": 58,
+            "content": "Rodya ficou ali, completamente paralisada. Ninguém conseguia deter o Estripador Temporal enquanto ele se afastava de nós. Nem eu, nem Rodya."
+        },
+        {
+            "id": 59,
+            "model": "탐정료슈",
+            "content": "O culpado. Onde ele está?"
+        },
+        {
+            "id": 60,
+            "model": "탐정로쟈",
+            "content": "Eu... eu pensei que poderia enfrentá-lo. Mas... quando fiquei cara a cara com o Estripador, eu.."
+        },
+        {
+            "id": 61,
+            "model": "탐정료슈",
+            "content": "Tsk, como você pôde deixá-lo escapar?"
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Ele a ameaçou. Que iria estripar o tempo dela...>"
+        },
+        {
+            "id": 63,
+            "model": "탐정홍루",
+            "content": "Oh não..."
+        },
+        {
+            "id": 64,
+            "model": "탐정로쟈",
+            "content": "E o Estripador sabia. Ele sabia como... como eu me sentia tão..."
+        },
+        {
+            "id": 65,
+            "model": "탐정로쟈",
+            "content": "... Deixa para lá."
+        },
+        {
+            "id": 66,
+            "content": "Pareceu para mim que Rodya decidiu não dizer isso em voz alta, mas eu sabia que a palavra que ela queria dizer era \"monótona\". "
+        },
+        {
+            "id": 67,
+            "model": "탐정료슈",
+            "content": "Patética."
+        },
+        {
+            "id": 68,
+            "model": "탐정로쟈",
+            "content": "Ao contrário de você, Ryōshū, meu tempo… é importante."
+        },
+        {
+            "id": 69,
+            "model": "탐정로쟈",
+            "content": "Não tô aqui pra fazer observações estúpidas e inúteis sobre o caso. E também não me ofereci por obrigação, tá? Eu me ofereci porque quero de verdade resolver isso. Eu não sou como você. Nem como nenhum de vocês."
+        },
+        {
+            "id": 70,
+            "content": "Por um momento me preocupei que Ryōshū pudesse brandir sua espada contra Rodya, mas... acho que ela nem estava prestando atenção."
+        },
+        {
+            "id": 71,
+            "model": "탐정료슈",
+            "content": "... Que banal."
+        },
+        {
+            "id": 72,
+            "content": "Em vez disso, ela apenas encarava a Torre do Relógio em silêncio, enquanto o cigarro queimava lentamente até alcançar seus lábios."
+        },
+        {
+            "id": 73,
+            "content": "Suponho que isso seja um... alívio..."
+        },
+        {
+            "id": 74,
+            "model": "탐정홍루",
+            "content": "Rodya, eu..."
+        },
+        {
+            "id": 75,
+            "model": "탐정로쟈",
+            "content": "Desculpa. É que acho que tô começando a me cansar de manter esse sorriso idiota o tempo todo."
+        }
+    ]
+}

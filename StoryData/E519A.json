@@ -1,0 +1,790 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Masmorra Espelhada das Contemplações",
+            "model": "단테",
+            "content": "<Ah, a masmorra...>"
+        },
+        {
+            "id": 1,
+            "content": "Após uma batalha exaustiva, quando finalmente fizemos Kim do Chapéu de Bambu cair de joelhos..."
+        },
+        {
+            "id": 2,
+            "place": "Escritório no 6° Piso do Edifício Yong-jin",
+            "content": "Como uma miragem, as contemplações do ego começaram a desmoronar."
+        },
+        {
+            "id": 3,
+            "content": "O Monólito já havia deixado as Contemplações do Ego e estava novamente no centro do escritório."
+        },
+        {
+            "id": 4,
+            "content": "Assim que a sala começou a recobrar a forma de quando entramos, meu rádio zumbiu novamente."
+        },
+        {
+            "id": 5,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Alôoo! Tá dando pra me ouvir? Se sim, me dá um \"tique-taque\"!"
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<... Tique-taque.>"
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Muito engraçado você, Dante. Você sabe que acabamos de sobreviver a um encontro mortal, né?"
+        },
+        {
+            "id": 8,
+            "content": "Bom, ela que me pediu..."
+        },
+        {
+            "id": 9,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Belezinha! Nós realmente não temos muito tempo. Já que o Monólito parece ter dado uma breve estabilizada, deixa eu te ensinar como se trava ele."
+        },
+        {
+            "id": 10,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Vê se não demora muito, ou aquela Distorção vai virar uma Anormalidade! O importante é precisão e velocidade, entendeu?"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Ela parece bem animada, considerando o quão séria essa situação tá..."
+        },
+        {
+            "id": 12,
+            "content": "Segui as instruções do rádio e toquei o Monólito com as palmas das mãos."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Oh... saiu um pouco de luz quando eu toquei com os meus dedos.>"
+        },
+        {
+            "id": 14,
+            "content": "A voz vinda do rádio parecia bastante despreocupada, mas falava como se soubesse exatamente o que eu estava vendo."
+        },
+        {
+            "id": 15,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Isso, vai daí direto pra baixo... Tá, você tá indo bem. Agora vai pra esquerda, bem devagarinho."
+        },
+        {
+            "id": 16,
+            "content": "Não pude deixar de me perguntar se estava fazendo certo, mas continuei a seguir suas instruções e fiz um rastro de luz sobre o Monólito com minha mão."
+        },
+        {
+            "id": 17,
+            "model": "김삿갓",
+            "teller": "Kim do Chapéu de Bambu",
+            "title": "Mentor do Pacto da Lâmina",
+            "content": "Argh..."
+        },
+        {
+            "id": 18,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mentor!"
+        },
+        {
+            "id": 19,
+            "content": "A escuridão que ondulava no corpo de Kim do Chapéu de Bambu começou a se dissipar. A Distorção parecia estar se revertendo."
+        },
+        {
+            "id": 20,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Bom trabalho! Detetive, os níveis estão estabilizando!"
+        },
+        {
+            "id": 21,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Ah, parece que não consigo parar de te chamar de Detetive, né. Foi mal, é costume..."
+        },
+        {
+            "id": 22,
+            "content": "Ela parecia estar relatando para outra pessoa do outro lado do rádio."
+        },
+        {
+            "id": 23,
+            "teller": "Rádio",
+            "title": "LCD?",
+            "content": "Bom trabalho, pessoal do ônibus! A LCA vai chegar aí em um minutinho, então aguentem firme!"
+        },
+        {
+            "id": 24,
+            "model": "단테",
+            "content": "<Hã? LCA? Não me diga que vai ser aquela mulher grossa de novo...>"
+        },
+        {
+            "id": 25,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Enfim, valeu pela assistência, pessoal! Ezra da Força-Tarefa de Distorção da LCD, câmbio e desligo!"
+        },
+        {
+            "id": 26,
+            "content": "O rádio desligou antes que qualquer um de nós pudesse dizer qualquer coisa. De novo."
+        },
+        {
+            "id": 27,
+            "content": "E nem 5 segundos depois..."
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "Vixe! Eles estão entrando aos montes, né?"
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "LCA... a unidade de operações especiais."
+        },
+        {
+            "id": 30,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Ordens. Começando a recuperação dos itens assegurados."
+        },
+        {
+            "id": 31,
+            "model": "단테",
+            "content": "<Ah, certo. O item é—>"
+        },
+        {
+            "id": 32,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Ativo",
+            "title": "LCA",
+            "content": "Custódia do Alvo T-276 confirmada e garantida."
+        },
+        {
+            "id": 33,
+            "model": "단테",
+            "content": "<Bem, parece que eles dão conta do resto.>"
+        },
+        {
+            "id": 34,
+            "content": "Sem que eu precisasse dizer nada (não que pudessem me ouvir, de qualquer modo), as tropas uniformizadas marcharam e começaram a colocar várias ferramentas no Monólito."
+        },
+        {
+            "id": 35,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Erro. T-276-01 não confirmado. Solicitando localização."
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Do que você tá falando?"
+        },
+        {
+            "id": 37,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "... Reformulando. Onde está o indivíduo Distorcido?"
+        },
+        {
+            "id": 38,
+            "model": "이상",
+            "content": "Ah, estou ciente de quem procura. Ele está ao lado do Monólito—"
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Hã? A-aonde foi ele?"
+        },
+        {
+            "id": 40,
+            "model": "뫼르소",
+            "content": "Há cerca de 3 minutos, a pessoa chamada Aeng-du o arrastou para trás daquele sofá."
+        },
+        {
+            "id": 41,
+            "model": "단테",
+            "content": "<... Eu não te disse para nos contar quando reparasse em algo importante acontecendo no fundo...?>"
+        },
+        {
+            "id": 42,
+            "model": "뫼르소",
+            "content": "... Farei um relatório imediato caso um evento idêntico ocorra."
+        },
+        {
+            "id": 43,
+            "content": "Naquele momento, percebi os agentes da LCA ao lado do sofá ficando mais inquietos."
+        },
+        {
+            "id": 44,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Alerta. Reação anormal detectada da entidade próxima a T-276-01."
+        },
+        {
+            "id": 45,
+            "content": "E quando aquele agente correu e chutou o sofá..."
+        },
+        {
+            "id": 46,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Ah... Ahh...!"
+        },
+        {
+            "id": 47,
+            "model": "이상",
+            "content": "Senhorita Aeng-du!"
+        },
+        {
+            "id": 48,
+            "content": "Lá estava Aeng-du, abraçando firme Kim do Chapéu de Bambu."
+        },
+        {
+            "id": 49,
+            "content": "Em sua mão estava uma lâmina que havia cravado profundamente no corpo de seu mentor."
+        },
+        {
+            "id": 50,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Eu... não tenho como saber os detalhes das dores que seu passado carrega."
+        },
+        {
+            "id": 51,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Mas... Mas...! Elas não podem servir de justificativa para eliminar seus próprios companheiros...!"
+        },
+        {
+            "id": 52,
+            "model": "이상",
+            "content": "Senhorita Aeng-du! Aquele homem estava fora de si!"
+        },
+        {
+            "id": 53,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Se a lâmina consumiu o meu mentor, tornando-o um demônio, então eu mesma devo trazer seu fim..."
+        },
+        {
+            "id": 54,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "... Não. Não é isso."
+        },
+        {
+            "id": 55,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Isso tudo são... Desculpas. Nada além disso."
+        },
+        {
+            "id": 56,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Se o mentor não tivesse trazido aquele \"convite\" estranho para nós..."
+        },
+        {
+            "id": 57,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Se ele não tivesse nos feito fugir da S Corp., nosso lar, para começo de conversa...!"
+        },
+        {
+            "id": 58,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Ah... estou ouvindo. Sua voz está ficando mais clara..."
+        },
+        {
+            "id": 59,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Mutação. Distorção da entidade em questão confirmada."
+        },
+        {
+            "id": 60,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Suspeita. Fase 1 do processo de reativação do Monólito pode ter sido acionada."
+        },
+        {
+            "id": 61,
+            "content": "Não podemos deixá-la assim! Ela vai Distorcer...!"
+        },
+        {
+            "id": 62,
+            "model": "단테",
+            "content": "<Meursault! Nocauteie a senhorita Aeng-du!>"
+        },
+        {
+            "id": 63,
+            "model": "뫼르소",
+            "content": "... Humpf!"
+        },
+        {
+            "id": 64,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Ah..."
+        },
+        {
+            "id": 65,
+            "content": "Meursault atingiu Aeng-du com força antes que os agentes da LCA tivessem chance de fazer algo."
+        },
+        {
+            "id": 66,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "... Estabilizado. Distorção nulificada pela perda de consciência da entidade em questão."
+        },
+        {
+            "id": 67,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Ferimento por arma branca confirmado no alvo T-276-01. Ferimento não crítico. Não será um desafio para recuperação e tratamento."
+        },
+        {
+            "id": 68,
+            "model": "뫼르소",
+            "content": "Segui a ordem que me foi dada."
+        },
+        {
+            "id": 69,
+            "model": "단테",
+            "content": "<Aaah... Agradeço.>"
+        },
+        {
+            "id": 70,
+            "model": "로쟈",
+            "content": "Uau... O que foi que acabou de acontecer...?"
+        },
+        {
+            "id": 71,
+            "model": "단테",
+            "content": "<Será que isso também foi causado pela influência do Monólito?>"
+        },
+        {
+            "id": 72,
+            "model": "파우스트",
+            "content": "Uma explicação plausível. O Monólito estava devidamente selado, mas sua influência remanescente parece ter se infiltrado nela."
+        },
+        {
+            "id": 73,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Ah! AH! Aí! Os níveis tinham subido pra cacilda agora!"
+        },
+        {
+            "id": 74,
+            "content": "O rádio começou a zumbir sozinho novamente."
+        },
+        {
+            "id": 75,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Solicitando rádio. Receberei a mensagem da LCD."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Ah, tudo bem.>"
+        },
+        {
+            "id": 77,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Reconhecido. Por favor, fale."
+        },
+        {
+            "id": 78,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Hã? Ah! Você é da LCA, né? Sou a Ezra da LCD, prazer em—"
+        },
+        {
+            "id": 79,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Entendido. Reportando situação atual."
+        },
+        {
+            "id": 80,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Sabe de uma coisa? Você não é o único que sabe interromper os outros. Eu já recebi o seu \"relatório\", tá? Não preciso dele."
+        },
+        {
+            "id": 81,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Tem duas pessoas aí, né? Só traz elas pra cá."
+        },
+        {
+            "id": 82,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Negativo. As ordens exatas dizem que os alvos devem ser—"
+        },
+        {
+            "id": 83,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Qualé, dá uma relaxada, vai~"
+        },
+        {
+            "id": 84,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Preocupação. O Monólito por si só já é uma entidade difícil de conter."
+        },
+        {
+            "id": 85,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Aaah~ Tá tudo bem. Nossa deteti— quer dizer, nossa líder de time da LCD disse que vai dar conta do recado."
+        },
+        {
+            "id": 86,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Além disso, esse Monólito foi algo que eu e a Detetive já recuperamos antes."
+        },
+        {
+            "id": 87,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Pra completar~, considerando que esses dois são sobreviventes da Biblioteca e que ambos foram puxados da beira da Distorção, eles ajudariam bastante com os nossos registros, não acha?"
+        },
+        {
+            "id": 88,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Entendido. No entanto—"
+        },
+        {
+            "id": 89,
+            "model": "히스클리프",
+            "content": "O quê? Vão sequestrar eles pra algum... experimento humano maluco ou coisa assim?"
+        },
+        {
+            "id": 90,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Tá, eu sei que tem esses rumores sinistros de sequestros na T Corp., mas... o que a gente tá fazendo não tem nada a ver com isso, tá legal? Prefiro que não compare o nosso trabalho a esses rumores da Periferia, se não se importa."
+        },
+        {
+            "id": 91,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Claro, vocês podem deixar eles aí. Mas se não tomarmos conta deles, eles vão Distorcer e acabar morrendo. E quem sabe? Vai ver o Clã Kurokumo ou até mesmo o Polegar se aproveite da situação e pegue os dois no nosso lugar."
+        },
+        {
+            "id": 92,
+            "model": "히스클리프",
+            "content": "Você tem um ponto..."
+        },
+        {
+            "id": 93,
+            "teller": "Ezra",
+            "title": "LCD",
+            "content": "Enfim... Não esquece de trazer eles pra cá. Os. Dois. Beleza~?"
+        },
+        {
+            "id": 94,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "... Entendido. Começando recuperação."
+        },
+        {
+            "id": 95,
+            "content": "A ligação caiu. Os agentes cercaram a dupla, a amarraram e desapareceram pela porta. Tudo isso foi feito em uma movimentação fluida e precisa."
+        },
+        {
+            "id": 96,
+            "content": "Não sei quando aconteceu, mas eles já tinham recuperado o Monólito quando o agente da LCA atendeu a ligação da LCD."
+        },
+        {
+            "id": 97,
+            "model": "로쟈",
+            "content": "Certo, então... Missão cumprida, né?"
+        },
+        {
+            "id": 98,
+            "model": "단테",
+            "content": "<Acho que sim.>"
+        },
+        {
+            "id": 99,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Aviso. Ação recomendada ao gerente: retirada imediata do local. Chegada iminente do Polegar: altamente provável."
+        },
+        {
+            "id": 100,
+            "model": "료슈",
+            "content": "Então, primeiro o Meio e depois o Polegar. Heh, o que eu não daria para ver a cara daqueles velhos decrépitos."
+        },
+        {
+            "id": 101,
+            "model": "이스마엘",
+            "content": "Acho que ele está falando para sairmos daqui antes que o Polegar nos pegue em flagrante..."
+        },
+        {
+            "id": 102,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Correção. A Limbus Company já estava fadada a ser adversária do Polegar no momento em que iniciamos esta missão."
+        },
+        {
+            "id": 103,
+            "model": "이스마엘",
+            "content": "... Faz sentido. Seria só questão de tempo até que eles ligassem os pontos e percebessem que estávamos envolvidos no que aconteceu."
+        },
+        {
+            "id": 104,
+            "model": "이스마엘",
+            "content": "Tem certeza de que podemos dar conta não só do Meio... mas também do Polegar?"
+        },
+        {
+            "id": 105,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "... Irrelevante."
+        },
+        {
+            "id": 106,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Um inimigo é um amigo e um amigo é um inimigo para a Limbus Company."
+        },
+        {
+            "id": 107,
+            "model": "LCA특작팀",
+            "teller": "Funcionário Reservado",
+            "title": "LCA",
+            "content": "Atraso. Sairemos primeiro."
+        },
+        {
+            "id": 108,
+            "content": "E com essa mensagem misteriosa, o agente da LCA rapidamente se retirou do local."
+        },
+        {
+            "id": 109,
+            "content": "... Ele sabe de algo, mas não nos dirá o quê. Pelo menos foi a impressão que tive pelo jeito que ele falou."
+        },
+        {
+            "id": 110,
+            "content": "Conheci tantos departamentos da empresa em tão pouco tempo: a LCA, a LCD e a LCCA..."
+        },
+        {
+            "id": 111,
+            "content": "De repente, um pensamento antigo ressurgiu."
+        },
+        {
+            "id": 112,
+            "content": "Eu realmente não sei muito sobre a empresa para a qual trabalho."
+        },
+        {
+            "id": 113,
+            "content": "Além disso, ainda temos figuras misteriosas como a \"Hermann\" e o \"Demian\". "
+        },
+        {
+            "id": 114,
+            "content": "Diante de uma escala maior, parece que eu realmente não sei de nada. Talvez o que eu saiba não passe de uma migalha de informação em uma história colossal e incompreensível."
+        },
+        {
+            "id": 115,
+            "content": "Achei que já estávamos bem avançados em nossa jornada, mas..."
+        },
+        {
+            "id": 116,
+            "content": "Comecei a sentir que, num futuro distante, se eu olhasse para os registros de nossa jornada... o que passamos até agora não seria nem dez páginas do livro."
+        },
+        {
+            "id": 117,
+            "content": "Com minha mente ainda mais confusa, comecei a caminhar de volta ao ônibus com os Pecadores."
+        },
+        {
+            "id": 118,
+            "place": "A Bordo do Mefistófeles",
+            "model": "로쟈",
+            "content": "Aaah, conhecemos muita gente em muito pouco tempo, né?"
+        },
+        {
+            "id": 119,
+            "model": "이스마엘",
+            "content": "Bem, estou feliz por ter aprendido um pouco mais sobre como a empresa funciona."
+        },
+        {
+            "id": 120,
+            "content": "Quando voltamos para o ônibus, os Pecadores começaram a conversar sobre o que tinha acabado de acontecer."
+        },
+        {
+            "id": 121,
+            "model": "싱클레어",
+            "content": "... Me pergunto o que vai acontecer com a Aeng-du e com o Kim do Chapéu de Bambu."
+        },
+        {
+            "id": 122,
+            "model": "오티스",
+            "content": "Não parece ser informação à qual temos acesso. Embora todos trabalhemos na mesma empresa, tudo que a LCD compartilhou conosco foi o nome do nosso contato: \"Ezra\"."
+        },
+        {
+            "id": 123,
+            "model": "돈키호테",
+            "content": "E-então, será que a Limbus Company estaria de fato a sequestrar pessoas para experimentos huma—"
+        },
+        {
+            "id": 124,
+            "model": "그레고르",
+            "content": "... Esse tipo de coisa não se começa assim tão fácil. Lembra do que aquela mulher da LCD disse? Rumores são só isso: rumores."
+        },
+        {
+            "id": 125,
+            "content": "Como se memórias desagradáveis tivessem ressurgido em sua mente, Gregor franziu as sobrancelhas e começou a tatear os bolsos em busca de um cigarro."
+        },
+        {
+            "id": 126,
+            "model": "단테",
+            "content": "<... Tem a LCD, mas a LCA parece... completamente deslocada. Ela parece fazer parte de uma empresa totalmente diferente.>"
+        },
+        {
+            "id": 127,
+            "content": "Enquanto voltávamos para o ônibus, comecei a organizar meus pensamentos sobre tudo que aconteceu."
+        },
+        {
+            "id": 128,
+            "content": "Eu sabia que não era a coisa mais produtiva para eu fazer, mas..."
+        },
+        {
+            "id": 129,
+            "model": "단테",
+            "content": "<... Faust, você não vai responder nenhuma pergunta que eu fizer, não é?>"
+        },
+        {
+            "id": 130,
+            "model": "파우스트",
+            "content": "... Desculpe-me. Receio não poder fornecer qualquer informação que não diga respeito ao departamento da LCB no momento."
+        },
+        {
+            "id": 131,
+            "model": "단테",
+            "content": "<Aaah...>"
+        },
+        {
+            "id": 132,
+            "model": "베르길리우스",
+            "content": "É como se a impaciência fosse pré-requisito para entrar neste ônibus, seja Gerente ou Pecador."
+        },
+        {
+            "id": 133,
+            "content": "Vergilius suspirou enquanto murmurava. Deve ter me visto colocar a cabeça entre as mãos."
+        },
+        {
+            "id": 134,
+            "model": "베르길리우스",
+            "content": "Sua jornada inevitavelmente levará às respostas para todas as suas perguntas, Dante."
+        },
+        {
+            "id": 135,
+            "model": "베르길리우스",
+            "content": "Apenas siga o caminho, e tudo será revelado. Não há motivos para se apressar."
+        },
+        {
+            "id": 136,
+            "model": "베르길리우스",
+            "content": "Além do mais..."
+        },
+        {
+            "id": 137,
+            "content": "O olhar de Vergilius se prendeu, por um momento, um pouco acima da minha cabeça."
+        },
+        {
+            "id": 138,
+            "content": "Me pergunto se ele está olhando para a minha chama."
+        },
+        {
+            "id": 139,
+            "model": "베르길리우스",
+            "content": "... Nada."
+        },
+        {
+            "id": 140,
+            "model": "베르길리우스",
+            "content": "Hah, parece que a sua impaciência está me contagiando. Suponho que também devo descobrir ao longo do caminho."
+        },
+        {
+            "id": 141,
+            "content": "Vergilius disse num tom zombeteiro, murmurou algo incompreensível para si mesmo e logo se virou para o outro lado. Estava claro que ele não tinha intenção alguma de continuar aquele diálogo."
+        },
+        {
+            "id": 142,
+            "model": "베르길리우스",
+            "content": "Vamos, Charon."
+        },
+        {
+            "id": 143,
+            "model": "카론",
+            "content": "Estive esperando pela hora do vrum-vrum."
+        },
+        {
+            "id": 144,
+            "model": "카론",
+            "content": "Dirigindo para o famoso morro da T Corp."
+        },
+        {
+            "id": 145,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 146,
+            "content": "E então..."
+        },
+        {
+            "id": 147,
+            "content": "... o ônibus partiu novamente, ora agitado, ora em silêncio."
+        }
+    ]
+}

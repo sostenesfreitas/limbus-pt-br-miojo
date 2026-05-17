@@ -1,0 +1,298 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "Como esse aí sabe tagarelar, sério."
+        },
+        {
+            "id": 1,
+            "content": "Olha só a cena: com uma engrenagem esquisita pendurada na cachola, e ainda por cima consolando alguém."
+        },
+        {
+            "id": 2,
+            "content": "Nunca passou pela minha cabeça que existisse gente capaz de acreditar numa coisa dessas e se transformar, por vontade própria, em engrenagens de pedaços de carne."
+        },
+        {
+            "id": 3,
+            "content": "Engrenagem de carne, engrenagem de pensamento... Dizem que, se a gente enfia essa engrenagem no cérebro e a põe pra girar, fica mais inteligente?"
+        },
+        {
+            "id": 4,
+            "content": "Que papo furado... Não, mesmo que isso fosse verdade, custa a crer que alguém considere que o seu verdadeiro lugar é cravado na moleira dos outros."
+        },
+        {
+            "id": 5,
+            "content": "Eh... I don't suppose it's any of my business. Let's get back to work."
+        },
+        {
+            "id": 6,
+            "content": "Como o tal do Hong Lu disse, este aqui vai ser um ganho e tanto, dos que não aparecem todo dia."
+        },
+        {
+            "id": 7,
+            "content": "... Ah, this rifle."
+        },
+        {
+            "id": 8,
+            "content": "Quando, lá no começo, o Escritório disse que ia comprar isto, achei que tinham perdido o juízo."
+        },
+        {
+            "id": 9,
+            "content": "Naquela época eu ainda não tinha um ganho decente, e, quando muito, fui recrutado como quem recolhe um bicho abandonado — depois de penar sem ser bem tratado em outro Escritório de meia-tigela."
+        },
+        {
+            "id": 10,
+            "content": "Bom, eu tinha confiança no meu taco... então ser recrutado, em si, até fazia sentido."
+        },
+        {
+            "id": 11,
+            "content": "Mesmo assim, quando te mandam de repente usar uma arma tão cara, não tem como não desconfiar que há alguma coisa por trás."
+        },
+        {
+            "id": 12,
+            "content": "Ah, isto aqui com certeza é golpe — deixam de propósito uma arma já estragada e depois jogam a culpa em mim, dizendo que fui eu que quebrei... Foi com essa que eu ia virar o Escritório do avesso."
+        },
+        {
+            "id": 13,
+            "content": "Foi quando me mostraram uma caixa do tamanho de uma cabeça, abarrotada de munição..."
+        },
+        {
+            "id": 14,
+            "content": "Quem diria que era só o representante ter dinheiro de sobra... Bom, ele ameaçou que, se eu desperdiçasse munição à toa, cortava um mês de salário por cada tiro."
+        },
+        {
+            "id": 15,
+            "content": "Se era assim, melhor um rifle de precisão, em que dá pra disparar tiro a tiro, do que sair metralhando a esmo... foi o que pensei."
+        },
+        {
+            "id": 16,
+            "content": "E foi assim que, até agora, partilhei do bom e do mau com esta arma."
+        },
+        {
+            "id": 17,
+            "content": "Não que eu tenha perdido o gênio de sair destruindo tudo sem dó... mas, de tanto usar, parece que isto aqui também combina comigo, do seu jeito."
+        },
+        {
+            "id": 18,
+            "content": "E, quando é pra abater uns caras assim... do tipo que só de trocar duas palavras já me subiria o sangue à cabeça, até que vem aquela sensação de que 'isto presta' — então, digamos que estou satisfeito."
+        },
+        {
+            "id": 19,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "... Ready, Heathcliff?"
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "... Ready."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Ótimo. Se os fiéis entrarem no seu campo de visão... carregue a munição e aguarde o meu sinal."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Hoje acho que vou usar uns dos caros... pode ser?"
+        },
+        {
+            "id": 23,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Ah~ Está falando dos projéteis de pulverização rápida da Logic Atelier?"
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Isso. Vendo o que aqueles têm cravado na cachola, se a bala bater na engrenagem é desperdício de munição à toa. Não vai atravessar, né. Melhor um que tritura e estraçalha de vez."
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Hmm... that's true."
+        },
+        {
+            "id": 26,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Em compensação, se gastar mais de uma bala por pessoa, é corte no salário~"
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Cala a boca... Mesmo que eu usasse a bala mais barata, você ia ficar resmungando a mesma coisa."
+        },
+        {
+            "id": 28,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "É que a munição é caríssima~ A da Logic Atelier não é um valor que nem eu consiga bancar com facilidade."
+        },
+        {
+            "id": 29,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Haah... understood."
+        },
+        {
+            "id": 30,
+            "content": "Empurro a luneta para a frente e revela-se, embaixo, o compartimento oculto da munição."
+        },
+        {
+            "id": 31,
+            "content": "Retiro a bala que está bem no topo — a que sairia em seguida — e, no lugar vago, encaixo outra: revestida de prata... esculpida com belos ornamentos."
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "... Special round loaded. Ready to fire."
+        },
+        {
+            "id": 33,
+            "content": "<i>Bip, bip.</i>"
+        },
+        {
+            "id": 34,
+            "content": "Em vez de resposta, voltam dois ruídos da linha de comunicação se abrindo e fechando."
+        },
+        {
+            "id": 35,
+            "content": "Responder com esse código, em vez de dizer que entendeu, deve significar que ele também já está colado nos inimigos o bastante para ser descoberto se a voz escapar."
+        },
+        {
+            "id": 36,
+            "content": "Then... I should get ready."
+        },
+        {
+            "id": 37,
+            "content": "<i>Biiiiiipe—</i>"
+        },
+        {
+            "id": 38,
+            "content": "Junto com o som estranho do trilho magnético soltando um zniiim,"
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Miro num ponto só..."
+        },
+        {
+            "id": 40,
+            "content": "O estampido da pólvora que auxilia a propulsão e o impacto transmitem-se, inteiros, ao meu ombro."
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Haah..."
+        },
+        {
+            "id": 42,
+            "content": "Um rifle de precisão que combina duas fontes de força — uma coisa dessas, nem a maioria das oficinas pensaria em fabricar."
+        },
+        {
+            "id": 43,
+            "content": "Claro... uma oficina de nível S talvez fabrique algo ainda mais impressionante, mas isso é como uma arma lendária — duvido que existam três delas na Cidade inteira..."
+        },
+        {
+            "id": 44,
+            "content": "Ou seja, deve ter um preço tão absurdo que até o nosso representante recusaria na hora, abanando as mãos."
+        },
+        {
+            "id": 45,
+            "content": "Sendo assim, tirando essas, esta arma talvez seja a melhor..."
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Q-que é isso...?"
+        },
+        {
+            "id": 47,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Heathcliff? You missed...?"
+        },
+        {
+            "id": 48,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Não, não pode ser... Como é que ele prevê a bala e desvia?!"
+        },
+        {
+            "id": 49,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "É que a Cidade está cheia de coisas estranhas, não é mesmo~"
+        },
+        {
+            "id": 50,
+            "content": "Esse tal de representante — como é que ele consegue ficar de gracinha até numa situação dessas? Sério, eu não consigo entender!"
+        },
+        {
+            "id": 51,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "Ah, droga, primeiro vou trocar de posição. A nossa localização foi descoberta!"
+        },
+        {
+            "id": 52,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Entendido~ Vamos ter que fazer aquilo de sempre, então?"
+        },
+        {
+            "id": 53,
+            "model": "히스클리프",
+            "title": "Escritório Ponto Final",
+            "content": "...Conto com você, Hong Lu!"
+        },
+        {
+            "id": 54,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Okay, I've got this~"
+        },
+        {
+            "id": 55,
+            "content": "Quando eu troco de posição, o representante avança e enfrenta o inimigo de frente."
+        },
+        {
+            "id": 56,
+            "content": "E, quando o representante é encurralado na defensiva, eu miro nas brechas e atiro."
+        },
+        {
+            "id": 57,
+            "content": "Já entrosamos os nossos movimentos em incontáveis contratos até hoje, então não há erro possível."
+        },
+        {
+            "id": 58,
+            "content": "...A não ser que o inimigo seja alguém fora dos padrões — aí não tem jeito."
+        },
+        {
+            "id": 59,
+            "content": "Mesmo de longe dá pra ver que ele luta com aquele sorriso bobo no rosto, então, bom... de um jeito ou de outro a gente se vira."
+        },
+        {
+            "id": 60,
+            "model": "홍루",
+            "title": "Escritório Ponto Final",
+            "content": "Ah, e como você falhou com um tiro, este mês vai ter corte no salário, viu?"
+        },
+        {
+            "id": 61,
+            "content": "...Se, mesmo em desvantagem, ele ainda solta uma piada dessas, isso, à sua maneira, é sinal de que ele próprio é um sujeito temível."
+        }
+    ]
+}

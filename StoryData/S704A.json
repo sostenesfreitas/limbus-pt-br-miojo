@@ -1,0 +1,237 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Becos da P Corp., diante da tenda",
+            "model": "혈귀사냥꾼",
+            "teller": "Caçador de Sanguinários",
+            "title": "Escritório Caçada de Presas",
+            "content": "Afinal, essa técnica de transformação... vocês usam uma técnica que eu nunca vi nem ouvi falar."
+        },
+        {
+            "id": 1,
+            "model": "히스클리프",
+            "content": "Ei, com isto já basta pra fazer picadinho de Sanguinário e o que mais aparecer?"
+        },
+        {
+            "id": 2,
+            "model": "혈귀사냥꾼",
+            "teller": "Caçador de Sanguinários",
+            "title": "Escritório Caçada de Presas",
+            "content": "... Fine. I'll admit, you've got some skill."
+        },
+        {
+            "id": 3,
+            "model": " 로메로",
+            "teller": "???",
+            "title": "???",
+            "content": "Oh... vieram uns caras melhores do que eu esperava. Um Solucionador que sabe cumprir a sua parte é sempre bem-vindo."
+        },
+        {
+            "id": 4,
+            "model": " 로메로",
+            "content": "Agora que vejo, vocês são aqueles que estavam fazendo barulho na frente da plataforma Warp antes, né? Pareciam bem ocupados. Ah, eu sou o Romero."
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "Os seus companheiros estavam lutando, e você ficou assistindo por trás?"
+        },
+        {
+            "id": 6,
+            "model": " 로메로",
+            "content": "Não é que eu tenha assistido desde o começo; vi a partir do meio. De todo modo, esses aqui não me dão ouvidos por mais que eu tente apartar. E, vendo agora há pouco, vi que vocês não eram de uma habilidade que se derrubasse fácil..."
+        },
+        {
+            "id": 7,
+            "model": " 로메로",
+            "content": "Compreendam. Não são más pessoas. É que, de tanto passar por todo tipo de coisa caçando Sanguinários, eles ficam um pouco sensíveis."
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "Compreendo. Pois, caçando seres dessa espécie, não há como não nutrir desconfiança a respeito de muitas coisas."
+        },
+        {
+            "id": 9,
+            "model": " 로메로",
+            "content": "Na verdade, eu também concordo em parte com a opinião deles. Em comparação com o alvo da subjugação, as condições de participação que a P Corp e a Associação Hana estabeleceram são insensatas a um ponto exagerado."
+        },
+        {
+            "id": 10,
+            "model": " 로메로",
+            "content": "Se fosse comigo, eu não teria recrutado baixando as condições desse jeito."
+        },
+        {
+            "id": 11,
+            "content": "Do rosto daquele sujeito, enquanto ele emendava as palavras, o ar de riso sumiu de leve."
+        },
+        {
+            "id": 12,
+            "model": " 로메로",
+            "content": "Deem uma olhada em volta daquela tenda ali. Vejam se há algum que tenha vindo sabendo de alguma coisa. Uma coisa destas, o mais seguro teria sido deixar a cargo de especialistas."
+        },
+        {
+            "id": 13,
+            "model": "단테",
+            "content": "<Around the command tent...?>"
+        },
+        {
+            "id": 14,
+            "content": "O olhar meu e dos Pecadores se despejou sobre o espaço barulhento que vinha me incomodando desde antes."
+        },
+        {
+            "id": 15,
+            "model": "까미유카메라",
+            "teller": "???",
+            "title": "???",
+            "content": "Pessoal, vocês viram? Aquela briga ali na entrada? É um verdadeiro pandemônio, não é? Meu Deus~ pensar que eu tenho de me esfregar com uns caras desses fazendo o mesmo encargo..."
+        },
+        {
+            "id": 16,
+            "model": "오티스",
+            "content": "E aquele sujeito... o que é?"
+        },
+        {
+            "id": 17,
+            "content": "Via-se um sujeito que, segurando um aparelhinho que se presumia ser uma câmera, fazia um apelo a um ouvinte que não se sabia quem era."
+        },
+        {
+            "id": 18,
+            "content": "...Eu, nós já tivemos uma experiência parecida em algum lugar."
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<É parecido...>"
+        },
+        {
+            "id": 20,
+            "model": "이스마엘",
+            "content": "...Ele fica tirando fotos, igualzinho ao Siegfried."
+        },
+        {
+            "id": 21,
+            "content": "Talvez ele quisesse mostrar toda esta paisagem; andava pelo terreno baldio com a câmera, e..."
+        },
+        {
+            "id": 22,
+            "content": "...pelo visto algo não lhe agradou, e ele se aproximou de nós."
+        },
+        {
+            "id": 23,
+            "model": "까미유",
+            "teller": "???",
+            "title": "???",
+            "content": "Ei, vocês!"
+        },
+        {
+            "id": 24,
+            "model": "돈키호테",
+            "content": "H-hast thou called upon us?!"
+        },
+        {
+            "id": 25,
+            "model": "까미유",
+            "teller": "???",
+            "title": "???",
+            "content": "Dá pra irem para outro lugar? Vocês estão atrapalhando os meus espectadores."
+        },
+        {
+            "id": 26,
+            "model": "이스마엘",
+            "content": "O senhor também está atrapalhando a nossa passagem..."
+        },
+        {
+            "id": 27,
+            "content": "Aquele sujeito, ou fingindo não ter ouvido, ou julgando que nem valia a pena prestar ouvidos, prosseguiu falando, de olho na câmera."
+        },
+        {
+            "id": 28,
+            "model": "까미유카메라",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, querem saber aonde eu vim agora? Não se assustem demais. É nada mais, nada menos que os becos do 16º Distrito, onde fica a P Corp!"
+        },
+        {
+            "id": 29,
+            "model": "까미유카메라",
+            "teller": "???",
+            "title": "???",
+            "content": "Isso mesmo. Todos se lembram da transmissão de resenha, da última vez, da lata semipermanente de sorvete safra de 150 anos da P Corp, não é? Mas, infelizmente, hoje eu não vim comer sorvete."
+        },
+        {
+            "id": 30,
+            "model": "그레고르",
+            "content": "Aquele sujeito está fazendo o quê esse tempo todo? Com quem é que ele está falando?"
+        },
+        {
+            "id": 31,
+            "model": "싱클레어",
+            "content": "Provavelmente ele está falando com os próprios espectadores, que estão assistindo à transmissão..."
+        },
+        {
+            "id": 32,
+            "model": "뫼르소",
+            "content": "Tenho a impressão de que é uma espécie de apresentador de transmissões. Parece que, recentemente, em parte da Cidade, está na moda uma cultura de transmitir programas simples por meio de câmeras."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "Que sujeito mal-educado. Pirralho, não dê muita bola pra isso~"
+        },
+        {
+            "id": 34,
+            "model": "돈키호테",
+            "content": "Hoje... de verdade..."
+        },
+        {
+            "id": 35,
+            "model": "로쟈",
+            "content": "H-huh...?"
+        },
+        {
+            "id": 36,
+            "model": "돈키호테",
+            "content": "Snif, snif... não pode deixar de ser um dia auspicioso..."
+        },
+        {
+            "id": 37,
+            "model": "돈키호테",
+            "content": "Aquele sujeito é nada menos que o senhor Camille, da Associação Shank do Oeste, escolhido como um dos '10 Solucionadores Novatos a Acompanhar' na edição de outubro de 'Solucionadores Mensal', uma das três grandes revistas de Solucionadores!"
+        },
+        {
+            "id": 38,
+            "model": "이스마엘",
+            "content": "Eu repito sempre, mas gente que sabe desse tipo de coisa... ha. Deixa pra lá."
+        },
+        {
+            "id": 39,
+            "model": "돈키호테",
+            "content": "Da última vez, eu cheguei a mostrar no ônibus! E ninguém me deu ouvidos?!"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Você está louco, ouvir aquilo? Claro que ninguém ouviu e todo mundo dormiu."
+        },
+        {
+            "id": 41,
+            "model": "이상",
+            "content": "Uma fala assim, longa e arrastada, durante o percurso por uma estrada cheia de curvas... provoca enjoo, senhorita Don Quixote."
+        },
+        {
+            "id": 42,
+            "content": "Don Quixote, talvez por já nem ouvir as palavras resmungadas dos Pecadores, apenas soltava uma respiração pesada, com uma expressão tomada pela emoção."
+        },
+        {
+            "id": 43,
+            "model": "돈키호테",
+            "content": "Snif, snif... pensar que eu chegaria a trocar cumprimentos em pessoa com o senhor Camille..."
+        },
+        {
+            "id": 44,
+            "content": "...Embora, é claro, ninguém tenha trocado um cumprimento formal com o sujeito chamado Camille."
+        }
+    ]
+}

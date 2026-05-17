@@ -1,0 +1,471 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Entrada do Centro de Barcos da Molar",
+            "content": "Com a notícia de que haviam terminado a reconstrução do ônibus, todos os Pecadores, exceto a Ishmael, se reuniram para contemplar o produto final."
+        },
+        {
+            "id": 1,
+            "model": "돈키호테",
+            "content": "Ooh! Estariam meus olhos vendo nosso honorável ônibus reformado?"
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Seria o nome deste, ônibarco ou barcônibus?"
+        },
+        {
+            "id": 3,
+            "model": "단테2",
+            "content": "<Acho que barcônibus?>"
+        },
+        {
+            "id": 4,
+            "model": "싱클레어",
+            "content": "Para onde foram as rodas? Vamos precisar delas novamente quando sairmos do Distrito da U Corp..."
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "Uma preocupação fútil. O ônibus foi claramente modificado para ser anfíbio, podendo trafegar tanto na terra quanto no mar."
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "Então coisas como ônibus mágicos realmente existem...?"
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "content": "O Mefistófeles é um ônibus com uma miríade de possibilidades e várias funções. Faust já não expôs esses detalhes?"
+        },
+        {
+            "id": 8,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Okay, okay, chega dessa... Vamos ligar o motor."
+        },
+        {
+            "id": 9,
+            "model": "돈키호테",
+            "content": "Gulp..."
+        },
+        {
+            "id": 10,
+            "content": "Enquanto a Mika mexia nos controles, o ônibus... digo, o barco... digo, o barcônibus estremeceu ao ligar..."
+        },
+        {
+            "id": 11,
+            "model": "단테2",
+            "content": "<Anh?!> "
+        },
+        {
+            "id": 12,
+            "content": "E morreu... com o mesmo estranho barulho alto que ouvimos antes."
+        },
+        {
+            "id": 13,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Hm... Acho que tá faltando algo. Será que o transmogrificador tá falhando?"
+        },
+        {
+            "id": 14,
+            "model": "로쟈",
+            "content": "Aii~ Pensei que meu ouvido ia explodir. O que poderia tá causando esse barulho?"
+        },
+        {
+            "id": 15,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Mika... eu acho que é aquela parte onde tivemos que fazer uma gambiarra."
+        },
+        {
+            "id": 16,
+            "model": "오티스",
+            "content": "O que foi? Você acabou de dizer \"gambiarra\"?"
+        },
+        {
+            "id": 17,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "N-não tivemos escolha! Não tínhamos peças o suficiente..."
+        },
+        {
+            "id": 18,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Tinha uma coisa que era pra ser insubstituível, mas o problema é que..."
+        },
+        {
+            "id": 19,
+            "model": "단테2",
+            "content": "<…!> "
+        },
+        {
+            "id": 20,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "... Isso não foi o som do motor, foi?"
+        },
+        {
+            "id": 21,
+            "model": "파우스트",
+            "content": "É o mutante gigantesco que encontramos previamente. Ele está vindo nesta direção."
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "Deve ter sido atraído pela cacofonia do motor."
+        },
+        {
+            "id": 23,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Hmm hmm, mas que bela notícia~"
+        },
+        {
+            "id": 24,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Aquele grandalhão tá exatamente com a parte que a gente precisa, né?"
+        },
+        {
+            "id": 25,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Eu... acredito que sim."
+        },
+        {
+            "id": 26,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Irmãzona, você não vai...?"
+        },
+        {
+            "id": 27,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Eu vou~ É aquela peça chata de fabricar e que é caríssima, não é?"
+        },
+        {
+            "id": 28,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "Você não lembra do jeito que ele matou todos aqueles funcionários dos outros centros de barcos?"
+        },
+        {
+            "id": 29,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Bem, mas isso foi porque ele que caiu com tudo na gente, não porque a gente tava caçando o desgraçado pelo que ele tem."
+        },
+        {
+            "id": 30,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Mas agora~ A gente tem todo esse pessoal aqui pra nos ajudar."
+        },
+        {
+            "id": 31,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Além disso, ele matou o pessoal que ajudou a gente a começar o nosso centro de barcos quando ainda estávamos vivendo de esmolas, não? É uma ótima oportunidade pra dar uma surra nele e retribuir o favor."
+        },
+        {
+            "id": 32,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "E mais vinho do suco do cérebro dele pra nós, também..."
+        },
+        {
+            "id": 33,
+            "model": "레인",
+            "teller": "Rain",
+            "title": "Centro de Barcos da Molar",
+            "content": "... Irmãzona?"
+        },
+        {
+            "id": 34,
+            "model": "로쟈",
+            "content": "A-ah, cê dá um pouquinho pra gente também?"
+        },
+        {
+            "id": 35,
+            "model": "싱클레어",
+            "content": "Quê? Pra gente?"
+        },
+        {
+            "id": 36,
+            "model": "미카",
+            "teller": "Mika",
+            "title": "Centro de Barcos da Molar",
+            "content": "Hmm... esse tal de caranguejo rei de lixo deve ter alguns anos nas costas, então ele deve ser o mesmo de antes."
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "content": "De qualquer jeito... tudo que temos que fazer é pegar e matar aquele desgraçado, né?"
+        },
+        {
+            "id": 38,
+            "model": "올가",
+            "teller": "Olga",
+            "title": "Centro de Barcos da Molar",
+            "content": "Isso aí~"
+        },
+        {
+            "id": 39,
+            "model": "히스클리프",
+            "content": "Cê ouviu ela, relojão."
+        },
+        {
+            "id": 40,
+            "content": "Heathcliff olhou para mim, visivelmente animado para ir lá esmagar alguns cascos."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Não. Na verdade, não seria melhor para nós?"
+        },
+        {
+            "id": 42,
+            "model": "단테2",
+            "content": "<Ishmael?!> "
+        },
+        {
+            "id": 43,
+            "model": "로쟈",
+            "content": "Nossa, Ishzinha... Onde que você esteve esse tempo todo?"
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "Estava me preparando para nossa sobrevivência no Grande Lago, claro."
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "O mínimo que eu posso fazer é um guia completo sobre as baleias, para vocês estudarem um pouco, não?"
+        },
+        {
+            "id": 46,
+            "model": "로쟈",
+            "content": "Você sabe que eu não leio essas coisas..."
+        },
+        {
+            "id": 47,
+            "model": "이스마엘",
+            "content": "Então vou continuar te lembrando até que não te reste escolha além de ler."
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "Está vendo, gerente? Precisamos de mais tempo. Ainda há muita coisa a preparar."
+        },
+        {
+            "id": 49,
+            "model": "이스마엘",
+            "content": "Esse caranguejo rei de lixo pode ser afastado, não? Então faremos isso e terminaremos as modificações no ônibus depois. Se ganharmos mais tempo..."
+        },
+        {
+            "id": 50,
+            "model": "단테2",
+            "content": "<Ishmael... eu não tenho certeza. Minha falta de memória claramente não ajuda, mas...>"
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "……"
+        },
+        {
+            "id": 52,
+            "model": "단테2",
+            "content": "<Eu não entendo do que você tem tanto medo ou contra o que deveríamos estar nos preparando.>"
+        },
+        {
+            "id": 53,
+            "model": "단테2",
+            "content": "<Por mais que eu queira respeitar suas opiniões e entendê-las... Não acredito que seja o melhor para todos nós. Então—>"
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "Não existe esse \"todos nós\"."
+        },
+        {
+            "id": 55,
+            "model": "단테2",
+            "content": "<... Hein?> "
+        },
+        {
+            "id": 56,
+            "model": "이스마엘",
+            "content": "Sejamos honestos. Algum de nós está se dedicando pelo bem de \"todos nós\"?"
+        },
+        {
+            "id": 57,
+            "model": "이스마엘",
+            "content": "Todos nós assinamos um contrato com a Limbus Company para cumprir nossos próprios objetivos. Eu assinei, Yi Sang também, como vimos antes, e todos os outros Pecadores também."
+        },
+        {
+            "id": 58,
+            "model": "이스마엘",
+            "content": "Nós só não estamos juntos aqui para conseguir o que cada um pessoalmente quer?"
+        },
+        {
+            "id": 59,
+            "model": "이스마엘",
+            "content": "E você também..."
+        },
+        {
+            "id": 60,
+            "model": "이스마엘",
+            "content": "Você está se forçando a procurar por esses Ramos de Ouro, umas coisas das quais você provavelmente nunca nem ouviu falar na sua vida, só para conseguir suas memórias de volta."
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "Seus motivos são egoístas, então por que você finge estar fazendo as coisas pelo bem de todos nós?"
+        },
+        {
+            "id": 62,
+            "model": "오티스",
+            "content": "Como você ousa, levantando sua voz contra—"
+        },
+        {
+            "id": 63,
+            "model": "베르길리우스",
+            "content": "Chega."
+        },
+        {
+            "id": 64,
+            "model": "오티스",
+            "content": "... Tch."
+        },
+        {
+            "id": 65,
+            "content": "Vergilius, que aparentava estar ouvindo discretamente nossa conversa, apareceu, se juntou como se fosse parte dela desde o início."
+        },
+        {
+            "id": 66,
+            "model": "베르길리우스",
+            "content": "Ishmael. Acredito que me fiz muito claro durante nossa reunião."
+        },
+        {
+            "id": 67,
+            "model": "베르길리우스",
+            "content": "O 'contrato' vem primeiro."
+        },
+        {
+            "id": 68,
+            "model": "이스마엘",
+            "content": "... O contrato, é."
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Claro, afinal eu trabalho para uma empresa. É claro que vem."
+        },
+        {
+            "id": 70,
+            "content": "Ishmael me encarou com uma cara diferente de qualquer outra que já havia mostrado antes."
+        },
+        {
+            "id": 71,
+            "content": "Eu senti em seus olhos... uma clara hostilidade."
+        },
+        {
+            "id": 72,
+            "model": "이스마엘",
+            "content": "Tá, eu vou cumprir esse ó tão grande contrato. Gerente. Me dê suas ordens, e eu as seguirei."
+        },
+        {
+            "id": 73,
+            "model": "이스마엘",
+            "content": "Então, se houver qualquer coisa que você queira de mim de agora em diante, diga-a. Claramente."
+        },
+        {
+            "id": 74,
+            "model": "이스마엘",
+            "content": "Não vou mais sair de linha tentando fornecer ajuda ou explicações não solicitadas."
+        },
+        {
+            "id": 75,
+            "model": "단테2",
+            "content": "<…….>"
+        },
+        {
+            "id": 76,
+            "model": "이스마엘",
+            "content": "E o que estamos esperando? Você não vai nos mandar matar aquele crustáceo gigante? Eu obedecerei de bom grado, como estipulado no contrato, Gerente Dante."
+        },
+        {
+            "id": 77,
+            "content": "Quando Ishmael terminou de falar, ela olhou friamente para mim, como se aguardasse minha ordem..."
+        },
+        {
+            "id": 78,
+            "content": "Só pude responder com o seguinte:"
+        },
+        {
+            "id": 79,
+            "model": "단테2",
+            "content": "<... Vamos.>"
+        },
+        {
+            "id": 80,
+            "content": "Ishmael se virou e saiu do centro de barcos assim que terminei de falar, como uma máquina."
+        },
+        {
+            "id": 81,
+            "content": "Tudo que pude fazer foi liderar os outros Pecadores e segui-la."
+        },
+        {
+            "id": 82,
+            "model": "단테2",
+            "content": "<…!> "
+        },
+        {
+            "id": 83,
+            "content": "Mas logo então,"
+        },
+        {
+            "id": 84,
+            "content": "Eu ouvi sons terríveis de ondas quebrando e rugidos de uma tempestade devastadora."
+        },
+        {
+            "id": 85,
+            "content": "Visões de destruição passam diante de mim."
+        },
+        {
+            "id": 86,
+            "content": "Partes de corpos e pedaços de carne, arrancados pela tempestade que traz violentas ondas, Ishmael se agarrando a um navio com todas as suas forças..."
+        },
+        {
+            "id": 87,
+            "content": "E um olho titânico, que parecia consumir tudo o que pairava em sua visão, observando ela em silêncio."
+        },
+        {
+            "id": 88,
+            "content": "Talvez isso... seja uma pista sobre o comportamento desconcertante de Ishmael."
+        }
+    ]
+}

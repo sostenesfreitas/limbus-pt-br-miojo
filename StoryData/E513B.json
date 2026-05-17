@@ -1,0 +1,157 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A Bordo do Mefistófeles",
+            "content": "Durante as frequentes paradas e combates, havia uma coisinha que continuava a me fazer coçar a cabeça. Algo que eu não conseguia entender."
+        },
+        {
+            "id": 1,
+            "content": "Já é de se esperar do Vergilius a esse ponto, mas..."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<... Se ele já sabia aonde íamos e por quê... custava nos falar antes, para variar?>"
+        },
+        {
+            "id": 3,
+            "content": "Murmurei em silêncio enquanto olhava em direção ao fundo do ônibus, onde a Aeng-du dormia. Ela ainda estava desmaiada."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<Vamos lá, Faust. Eu realmente acho que isso é uma coisa sobre a qual precisamos conversar. Você pode, por favor, repassar minha pergunta ao Vergilius...?>"
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "... Mm."
+        },
+        {
+            "id": 6,
+            "model": "오티스",
+            "content": "Aaah, se você não vai dizer, eu digo. Conflitos às vezes são necessários. Ei, guia!"
+        },
+        {
+            "id": 7,
+            "content": "Outis repassou minha pergunta e logo começou a compartilhar suas próprias queixas com Vergilius."
+        },
+        {
+            "id": 8,
+            "content": "... MUITAS de suas próprias queixas."
+        },
+        {
+            "id": 9,
+            "model": "베르길리우스",
+            "content": "... Ahhh, já terminou?"
+        },
+        {
+            "id": 10,
+            "model": "베르길리우스",
+            "content": "Bem, vocês não estão errados. Eu ouvi a maior parte dos detalhes pelo rádio."
+        },
+        {
+            "id": 11,
+            "model": "베르길리우스",
+            "content": "E eu não lhes contei nada pela seguinte razão."
+        },
+        {
+            "id": 12,
+            "model": "베르길리우스",
+            "content": "Vocês são do tipo de pessoa que nunca aprende a não ser que o \"problema\" venha batendo à porta. Se eu tivesse falado com antecedência, só serviria como desculpa para vocês ficarem reclamando."
+        },
+        {
+            "id": 13,
+            "model": "베르길리우스",
+            "content": "E agora, gerente? Por acaso está pensando em recusar esta missão?"
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<... Não, eu não posso. Eles já estão nos tratando como lixo. Se eu recusar isso, mal posso imaginar o quão pior ficaria.>"
+        },
+        {
+            "id": 15,
+            "model": "베르길리우스",
+            "content": "Tenho certeza de que está pensando \"eu não posso\". E você tem razão."
+        },
+        {
+            "id": 16,
+            "content": "Pelo jeito que olhava para mim, era perceptível que ele já sabia o que eu ia dizer."
+        },
+        {
+            "id": 17,
+            "content": "Me pergunto se ele realmente não consegue me ouvir."
+        },
+        {
+            "id": 18,
+            "model": "베르길리우스",
+            "content": "Ah, nossa convidada acordou."
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "Você deveria ir pedir direções a ela, gerente. A intuição da Charon só pode nos levar até certo ponto."
+        },
+        {
+            "id": 20,
+            "content": "De novo, isso teria sido muito mais fácil se soubéssemos aonde ir desde o começo. Mas como sempre, Vergilius sentiu a necessidade de adicionar comentários como esse antes de virar a cabeça e fechar os olhos."
+        },
+        {
+            "id": 21,
+            "model": "이상",
+            "content": "... Ahem. Permitam-me explicar-lhe nossas atuais circunstâncias."
+        },
+        {
+            "id": 22,
+            "content": "Yi Sang se levantou com um sorriso desajeitado em uma tentativa de aliviar o clima."
+        },
+        {
+            "id": 23,
+            "content": "Após um tempo..."
+        },
+        {
+            "id": 24,
+            "content": "Yi Sang pareceu ter explicado bem nossas circunstâncias à Aeng-du; no momento, ela estava ao lado da Charon, tentando lhe dar instruções adequadas."
+        },
+        {
+            "id": 25,
+            "content": "Ela nos disse que, desde que a ajudássemos em sua missão, ela não se importaria se levássemos a estela negra."
+        },
+        {
+            "id": 26,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Ah, vire à direita ali— Ah...!"
+        },
+        {
+            "id": 27,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Eles já montaram um acampamento lá...!"
+        },
+        {
+            "id": 28,
+            "content": "Como ela disse, pessoas vestindo trajes do Clã Kurokumo rondavam os arredores do prédio, vigiando sua entrada."
+        },
+        {
+            "id": 29,
+            "model": "앵두",
+            "teller": "Aeng-du",
+            "title": "Pacto da Lâmina",
+            "content": "Eu tenho que...! Argh, mentor Kim do Chapéu de Bambu...!"
+        },
+        {
+            "id": 30,
+            "model": "파우스트",
+            "content": "Quanto mais demorarmos, mais difícil será suprimir a Distorção. Temos que entrar no prédio o quanto antes."
+        },
+        {
+            "id": 31,
+            "content": "Seguindo Aeng-du, que já havia saltado para fora do ônibus com sua arma em mãos, todos corremos em direção ao prédio."
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Periferia do Distrito 8",
+            "model": "단테",
+            "content": "<Hm? Que estranho som metálico é esse……>"
+        },
+        {
+            "id": 1,
+            "model": "이상",
+            "content": "Parece o som de um sino batendo……mas não tem a claridade de um sino normal."
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "É mais como algo turvo e presságio de mau agouro……"
+        },
+        {
+            "id": 3,
+            "model": "홍루",
+            "content": "Uau~ ouvir esse som faz parecer que realmente voltei para casa~"
+        },
+        {
+            "id": 4,
+            "model": "홍루",
+            "content": "Não importa onde se esteja em Hongyuan, o som desse sino chega a intervalos regulares."
+        },
+        {
+            "id": 5,
+            "model": "뉴소드",
+            "content": "……"
+        },
+        {
+            "id": 6,
+            "model": "뉴소드",
+            "content": "É o Dia de Reconstrução."
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Quê? Mas o Dia de Reconstrução já——"
+        },
+        {
+            "id": 8,
+            "content": "Ishmael não continuou, e olhou para trás de nós."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Ah……vocês estão a ver isso?"
+        },
+        {
+            "id": 10,
+            "model": "이스마엘",
+            "content": "Os edifícios……estão todos a mover-se……"
+        },
+        {
+            "id": 11,
+            "content": "Tal como Ishmael disse, os edifícios moviam-se ao longo de uma complexa rede de trilhos, ora subindo, ora afundando."
+        },
+        {
+            "id": 12,
+            "model": "뫼르소",
+            "content": "Movimento observado em todos os edifícios da vizinhança. Sem exceção."
+        },
+        {
+            "id": 13,
+            "model": "이상",
+            "content": "A perturbação de ontem à noite era apenas local……nada desta escala."
+        },
+        {
+            "id": 14,
+            "model": "뉴소드",
+            "content": "O que viram esta noite deve ter sido o prenúncio do Dia de Reconstrução. Afinal, para redistribuir o espaço é necessário mover alguns edifícios para as posições certas com antecedência."
+        },
+        {
+            "id": 15,
+            "model": "뉴소드",
+            "content": "O verdadeiro movimento……acaba de começar."
+        },
+        {
+            "id": 16,
+            "model": "이스마엘",
+            "content": "Ah……e aquilo era apenas um prenúncio."
+        },
+        {
+            "id": 17,
+            "model": "뉴소드",
+            "content": "Este fenômeno é um vestígio de uma H Corp. muito mais antiga do que o Hongyuan atual……Por serem edifícios que existem desde então, já não há como saber como ou por que esta Singularidade se move."
+        },
+        {
+            "id": 18,
+            "model": "뉴소드",
+            "content": "Hoje em dia, simplesmente se movem de acordo com os padrões do Dia de Reconstrução da H Corp. atual."
+        },
+        {
+            "id": 19,
+            "content": "♬Mil torres erguem-se numa só noite♬"
+        },
+        {
+            "id": 20,
+            "content": "♬Quem trabalhou sem cessar, nada há a temer♬"
+        },
+        {
+            "id": 21,
+            "content": "♬Basta um canto para pousar os pés♬"
+        },
+        {
+            "id": 22,
+            "content": "♬Quem não encontrar abrigo, a vida é o que é♬"
+        },
+        {
+            "id": 23,
+            "content": "♬Resta aceitar o destino e tornar-se pó♬"
+        },
+        {
+            "id": 24,
+            "content": "♬No mês que vem, que terra pisará este corpo?♬"
+        },
+        {
+            "id": 25,
+            "content": "♬Quantos subirão, quantos cairão sem sossego?♬"
+        },
+        {
+            "id": 26,
+            "content": "♬Não aperteis com força tudo o que é vosso♬"
+        },
+        {
+            "id": 27,
+            "content": "♬Quem não sabe soltar, só a si mesmo enganou♬"
+        },
+        {
+            "id": 28,
+            "model": "이상",
+            "content": "O destino dos remanejados é uma queda sem fim……"
+        },
+        {
+            "id": 29,
+            "model": "이상",
+            "content": "Apenas olhar para esta cena aperta o coração."
+        },
+        {
+            "id": 30,
+            "model": "싱클레어",
+            "content": "Isto também é……uma característica da H Corp.?"
+        },
+        {
+            "id": 31,
+            "model": "뉴소드",
+            "content": "Outros ninhos também têm padrões especiais de medir riqueza, não é?"
+        },
+        {
+            "id": 32,
+            "model": "이상",
+            "content": "Mm……Como a T Corp. que usa o tempo como moeda?"
+        },
+        {
+            "id": 33,
+            "model": "뉴소드",
+            "content": "Exatamente. Aqui em Hongyuan, a riqueza é medida pelo espaço que se possui, com a unidade sendo o \"cômodo\"."
+        },
+        {
+            "id": 34,
+            "model": "이상",
+            "content": "Portanto o espaço que se ocupa é a medida da riqueza."
+        },
+        {
+            "id": 35,
+            "model": "뉴소드",
+            "content": "Sim. Por isso é avaliado uma vez por mês. Com base no valor do trabalho e nos rendimentos de cada pessoa, determina-se o espaço que lhes é atribuído."
+        },
+        {
+            "id": 36,
+            "model": "그레고르",
+            "content": "Quer dizer que, mesmo que as coisas estejam a correr bem, pode-se de repente ser expulso de casa……?"
+        },
+        {
+            "id": 37,
+            "model": "그레고르",
+            "content": "Como……como pode existir uma regra assim absurda……?"
+        },
+        {
+            "id": 38,
+            "model": "뉴소드",
+            "content": "Nós que não crescemos aqui é claro que temos dificuldade em compreender……"
+        },
+        {
+            "id": 39,
+            "model": "뉴소드",
+            "content": "Mas afinal é a regra de Hongyuan desde sempre, e os métodos de distribuição e cálculo são muito precisos, por isso os residentes daqui parecem aceitá-la como algo natural."
+        },
+        {
+            "id": 40,
+            "model": "싱클레어",
+            "content": "O senhor Hong Lu também……viu isto com os seus próprios olhos?"
+        },
+        {
+            "id": 41,
+            "model": "싱클레어",
+            "content": "Este Dia de Reconstrução……"
+        },
+        {
+            "id": 42,
+            "model": "홍루",
+            "content": "……Já vi."
+        },
+        {
+            "id": 43,
+            "model": "홍루",
+            "content": "Quando espreitava pela grade do meu quarto para contemplar a paisagem lá fora……"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Mesmo estando muito longe, conseguia ver claramente."
+        },
+        {
+            "id": 45,
+            "content": "Hong Lu falava calmamente, com a expressão impassível."
+        },
+        {
+            "id": 46,
+            "content": "Era como antes, como se estivesse a contemplar uma paisagem invisível no caminho."
+        },
+        {
+            "id": 47,
+            "model": "홍루",
+            "content": "O Daguanyuan onde eu vivia não se preocupava com o Dia de Reconstrução. Os cômodos de lá só aumentavam, nunca diminuíam."
+        },
+        {
+            "id": 48,
+            "model": "홍루",
+            "content": "Por isso eu apenas observava. Do meu quarto."
+        },
+        {
+            "id": 49,
+            "model": "히스클리프",
+            "content": "Tu……ai. Está bem. Provavelmente não havia nada que pudesses fazer……"
+        },
+        {
+            "id": 50,
+            "model": "히스클리프",
+            "content": "Mesmo vendo este espetáculo deplorável, apenas……"
+        },
+        {
+            "id": 51,
+            "content": "……Heathcliff engoliu as palavras que estava prestes a dizer, cerrando os dentes."
+        },
+        {
+            "id": 52,
+            "model": "뉴파일럿",
+            "content": "Ah! O segundo palanquim chegou!"
+        },
+        {
+            "id": 53,
+            "model": "뉴소드",
+            "content": "O palanquim arranjado para vocês chegou. Conversamos mais depois, por agora subam."
+        },
+        {
+            "id": 54,
+            "model": "이스마엘",
+            "content": "……Isto é um palanquim?"
+        },
+        {
+            "id": 55,
+            "model": "뉴소드",
+            "content": "Sim. Parece que enviaram um palanquim grande o suficiente para acomodar muita gente ao mesmo tempo~"
+        },
+        {
+            "id": 56,
+            "model": "가마꾼",
+            "content": "O jovem senhor Jia Baoyu e doze convidados distintos, está correto?"
+        },
+        {
+            "id": 57,
+            "model": "뉴소드",
+            "content": "Mm~ deveriam ser treze, não?"
+        },
+        {
+            "id": 58,
+            "model": "단테",
+            "content": "<……Espera, mas a Saude não estava convidada, pois não?>"
+        },
+        {
+            "id": 59,
+            "model": "가마꾼",
+            "content": "Ora, ora, um momento. Pelo que sei, a facção do jovem senhor Baoyu tem mesmo apenas doze pessoas, não é assim?"
+        },
+        {
+            "id": 60,
+            "content": "Saude avançou a largos passos em direção ao carregador, que recuou continuamente intimidado pela sua presença."
+        },
+        {
+            "id": 61,
+            "model": "가마꾼",
+            "content": "P-por que razão se aproxima com uma expressão tão assustadora……"
+        },
+        {
+            "id": 62,
+            "model": "뉴소드",
+            "content": "Doze pessoas, está correto?"
+        },
+        {
+            "id": 63,
+            "model": "뉴소드",
+            "content": "Não me diga que na sua opinião \"isto\" parece um membro normal de uma facção?"
+        },
+        {
+            "id": 64,
+            "model": "단테",
+            "content": "<Quê?>"
+        },
+        {
+            "id": 65,
+            "content": "Saude agarrou-me de repente pelos ombros e empurrou-me para a frente do carregador."
+        },
+        {
+            "id": 66,
+            "model": "가마꾼",
+            "content": "Hm……essa cabeça não é muito comum aqui em Hongyuan……não é uma prótese? Parece……um relógio……"
+        },
+        {
+            "id": 67,
+            "model": "뉴소드",
+            "content": "Pense bem. Se fosse você, mesmo que a vida corresse pessimamente, nunca lhe ocorreria a ideia de encaixar um relógio no lugar da cabeça, pois não?"
+        },
+        {
+            "id": 68,
+            "model": "가마꾼",
+            "content": "Ah, tem razão. Em Hongyuan há todo o tipo de cirurgias biológicas por todo o lado."
+        },
+        {
+            "id": 69,
+            "model": "뉴소드",
+            "content": "Exatamente~ Embora não se saiba ao certo o que aconteceu……que pena, há mesmo tantas pessoas com experiências trágicas neste mundo."
+        },
+        {
+            "id": 70,
+            "model": "가마꾼",
+            "content": "Ora, ora……isto é uma fraude, uma fraude. Não se sabe em que beco traseiro sofreu isto, mas foi enganada de forma muito cruel. Pobre coitada……"
+        },
+        {
+            "id": 71,
+            "model": "뉴소드",
+            "content": "E não só o relógio está errado, como a consciência está turvada. Veja só. Esta pessoa nem sequer tem boca, só consegue fazer sons de tique-taque?"
+        },
+        {
+            "id": 72,
+            "content": "……Se ela estivesse a falar a sério eu ficaria realmente magoada, mas como a sua intenção era demasiado óbvia, deixei passar como uma brincadeira."
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<Saude……estou um pouco tonta……>"
+        },
+        {
+            "id": 74,
+            "model": "가마꾼",
+            "content": "Meu Deus! Não estava a mentir……quem seria capaz de fazer algo assim tão sem consciência……"
+        },
+        {
+            "id": 75,
+            "model": "뉴소드",
+            "content": "A sorte dentro do azar é que o nosso bondoso jovem senhor Baoyu resgatou esta pessoa das mãos de um comerciante de relógios de outro ninho, pois simplesmente não conseguiu passar indiferente. Afinal, em Hongyuan, trocar de cabeça não é assim tão difícil."
+        },
+        {
+            "id": 76,
+            "model": "가마꾼",
+            "content": "Ah, com certeza……desde que haja dinheiro, trocar o corpo todo não é nenhum problema……"
+        },
+        {
+            "id": 77,
+            "model": "단테",
+            "content": "<O quê……vão trocar a minha cabeça?>"
+        },
+        {
+            "id": 78,
+            "model": "뉴소드",
+            "content": "Pois é? Por isso a facção do jovem senhor Baoyu, incluindo eu, é composta por doze pessoas."
+        },
+        {
+            "id": 79,
+            "model": "가마꾼",
+            "content": "P-parece que sim……no entanto, não nos é possível autorizar por conta própria——"
+        },
+        {
+            "id": 80,
+            "model": "뉴소드",
+            "content": "O nosso jovem senhor compreende perfeitamente o dilema em que se encontram. Por isso, uma pequena prenda em sinal de reconhecimento……"
+        },
+        {
+            "id": 81,
+            "content": "Saude tirou algumas notas do bolso e com grande destreza enfiou-as no bolso do carregador."
+        },
+        {
+            "id": 82,
+            "model": "가마꾼",
+            "content": "Ai……psiu, isto não está muito bem……"
+        },
+        {
+            "id": 83,
+            "model": "뉴소드",
+            "content": "Além disso……já sabe, não é? Falar demais só traz complicações."
+        },
+        {
+            "id": 84,
+            "model": "가마꾼",
+            "content": "Hem hem. Este humilde servo compreende perfeitamente. A situação desta pessoa é de facto muito lamentável……desta vez faremos uma exceção e deixamos todos embarcar!"
+        },
+        {
+            "id": 85,
+            "model": "히스클리프",
+            "content": "Então por que razão esse indivíduo diz que não pode mas ao mesmo tempo enfia o dinheiro no bolso……"
+        },
+        {
+            "id": 86,
+            "model": "뉴소드",
+            "content": "Já chega, já chega de tagarelar. Subam depressa."
+        },
+        {
+            "id": 87,
+            "model": "단테",
+            "content": "<Espera……e quanto a Pilot, ficamos sem ele?>"
+        },
+        {
+            "id": 88,
+            "content": "Seja o que for que Pilot leu no meu olhar enquanto mexia com um rádio ao longe, acenou-nos com a mão."
+        },
+        {
+            "id": 89,
+            "model": "뉴파일럿",
+            "content": "Ah! Ainda tenho uns assuntos para tratar por aqui! Não se preocupem comigo, tenham uma boa viagem!"
+        },
+        {
+            "id": 90,
+            "place": "Interior do Palanquim",
+            "model": "이상",
+            "content": "Mais do que um palanquim……parece uma limusine de luxo."
+        },
+        {
+            "id": 91,
+            "model": "로쟈",
+            "content": "Este champanhe……posso beber?!"
+        },
+        {
+            "id": 92,
+            "model": "오티스",
+            "content": "O que é isso! Beber durante uma missão——"
+        },
+        {
+            "id": 93,
+            "model": "뉴소드",
+            "content": "Basta."
+        },
+        {
+            "id": 94,
+            "content": "Com uma única palmada, Saude silenciou os pecadores que faziam barulho por causa do interior luxuoso."
+        },
+        {
+            "id": 95,
+            "content": "A expressão era tão séria que era difícil imaginar que acabara de conversar animadamente com o carregador momentos antes……"
+        },
+        {
+            "id": 96,
+            "model": "뉴소드",
+            "content": "Vamos falar de trabalho. Trabalho."
+        }
+    ]
+}

@@ -1,0 +1,525 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Backstreets of District 8, Kezhan Ruins",
+            "model": "단테",
+            "content": "<Não vêm mais… vindo em massa…?>"
+        },
+        {
+            "id": 1,
+            "model": "오티스다침",
+            "content": "Hora atual, 4h24… faltam uns 10 minutos para o fim da noite dos becos, mas, como a maré da terceira onda terminou… agora dá para respirar um pouco."
+        },
+        {
+            "id": 2,
+            "model": "파우스트다침",
+            "content": "A redistribuição dos edifícios também parece ter terminado. Estabilizou-se no estado anterior."
+        },
+        {
+            "id": 3,
+            "model": "오티스다침",
+            "content": "Parece que… defendemos tudo. Gerente."
+        },
+        {
+            "id": 4,
+            "model": "히스클리프다침2",
+            "content": "A-acabou…?"
+        },
+        {
+            "id": 5,
+            "content": "Os Pecadores, encharcados de cansaço, vão se esparramando pelo chão, um a um."
+        },
+        {
+            "id": 6,
+            "content": "…É certo que nós nunca chegamos a sair do lugar onde ficava a Kezhan, mas parece que os vestígios dela já desapareceram sem deixar nem um grão de poeira."
+        },
+        {
+            "id": 7,
+            "content": "Como se tivéssemos sonhado que um edifício desses existira… nós nos tornáramos pessoas de pé num terraço em algum lugar."
+        },
+        {
+            "id": 8,
+            "model": "그레고르다침",
+            "content": "Aff, eu achei que a gente ia derreter sem ter para onde correr… ai ai… vou apodrecer de tanto…"
+        },
+        {
+            "id": 9,
+            "model": "히스클리프다침2",
+            "content": "Se aquele tarado obcecado com a Cabeça não estivesse aqui no começo, a gente também teria ficado sem forças… ha, será que eu tenho de agradecer por isso."
+        },
+        {
+            "id": 10,
+            "model": "료슈다침",
+            "content": "…Hum. Recebendo em cheio, no fim, não passa disto."
+        },
+        {
+            "id": 11,
+            "model": "돈키호테다침",
+            "content": "…A senhora os conhece, senhora Ryōshū?"
+        },
+        {
+            "id": 12,
+            "model": "료슈다침",
+            "content": "Sei. De ou.vi.da. Já ou.vi fa.lar."
+        },
+        {
+            "id": 13,
+            "model": "돈키호테다침",
+            "content": "Deles eu sinto o cheiro de sangue…"
+        },
+        {
+            "id": 14,
+            "model": "돈키호테다침",
+            "content": "Estava bem… tênue, mas… não, deixa."
+        },
+        {
+            "id": 15,
+            "model": "돈키호테다침",
+            "content": "É melhor não pensar nisso…"
+        },
+        {
+            "id": 16,
+            "model": "료슈다침",
+            "content": "Por quê? Cave um pouco mais."
+        },
+        {
+            "id": 17,
+            "model": "료슈다침",
+            "content": "Se você não agarrar a ideia que ia passar de raspão, a criatividade vai morrer."
+        },
+        {
+            "id": 18,
+            "model": "돈키호테다침",
+            "content": "Eu disse que não vou pensar nisso."
+        },
+        {
+            "id": 19,
+            "model": "돈키호테다침",
+            "content": "…Eu preferiria que você não me apressasse."
+        },
+        {
+            "id": 20,
+            "model": "료슈다침",
+            "content": "Hum, faça como quiser."
+        },
+        {
+            "id": 21,
+            "model": "료슈다침",
+            "content": "Que coisa sem graça."
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Parece que não é hora de a gente brigar entre si.>"
+        },
+        {
+            "id": 23,
+            "content": "As palavras de Donquixote e Ryōshū me incomodaram, mas, ao voltar para o ônibus, daria para conversar sobre isso à vontade."
+        },
+        {
+            "id": 24,
+            "content": "…Se a gente conseguir voltar com vida."
+        },
+        {
+            "id": 25,
+            "model": "단테",
+            "content": "<Shi Yihua…>"
+        },
+        {
+            "id": 26,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Eu vou dizer com franqueza: é surpreendente."
+        },
+        {
+            "id": 27,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Eu achava que vocês seriam varridos, é claro… ha."
+        },
+        {
+            "id": 28,
+            "content": "Shi Yihua, talvez tivesse esperado em algum lugar para confirmar o nosso fim… aproximou-se de nós num instante."
+        },
+        {
+            "id": 29,
+            "content": "Talvez, no vaivém das ondas, tivessem fechado um novo acordo… pois, ao contrário de agora há pouco, quando ficavam quietos, tanto o grupo Mao quanto Zilu se aproximavam transbordando sede de sangue."
+        },
+        {
+            "id": 30,
+            "model": "오티스다침",
+            "content": "Crgh…"
+        },
+        {
+            "id": 31,
+            "model": "오티스다침",
+            "content": "Gerente, houve combates de alta fadiga frequentes demais, em ciclos curtos…"
+        },
+        {
+            "id": 32,
+            "model": "오티스다침",
+            "content": "Pode ser uma fala desleal, mas… se possível, é melhor evitar este combate."
+        },
+        {
+            "id": 33,
+            "model": "히스클리프다침2",
+            "content": "Será… que dá pra isso…"
+        },
+        {
+            "id": 34,
+            "content": "Eu olho em volta."
+        },
+        {
+            "id": 35,
+            "content": "Veem-se Pecadores já reduzidos a pedaços de carne, ou Pecadores de pé no limiar disso, ofegantes."
+        },
+        {
+            "id": 36,
+            "content": "Os Pecadores… eu hei de poder ressuscitá-los quantas vezes for preciso. Como eu sempre fiz."
+        },
+        {
+            "id": 37,
+            "content": "Mas, com um cerco tão cerrado como este… não é de se descartar a possibilidade de eles caírem todos antes mesmo de me protegerem."
+        },
+        {
+            "id": 38,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Oraa~ este mestre já previa até uma situação destas."
+        },
+        {
+            "id": 39,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Pois, se não forem todos varridos, basta eu dar o arremate!"
+        },
+        {
+            "id": 40,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "É um palco perfeito. Nos 10 minutos que ainda restam, ninguém vai procurar este lugar, muito menos os Varredores. Por quê? Porque a noite dos becos ainda não terminou!"
+        },
+        {
+            "id": 41,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Aquele sujeito do Dedo Médio, que estava sendo um incômodo, também sumiu… hu-ha-há!"
+        },
+        {
+            "id": 42,
+            "model": "오티스다침",
+            "content": "Você… desde onde foi que tramou isto?"
+        },
+        {
+            "id": 43,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Desde onde? Desde o início, é claro! A começar por aquela obra que bloqueou a rota de vocês!"
+        },
+        {
+            "id": 44,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Tanto enganar aquele ingênuo ignorante da sua empresa para grudar em vocês o Gyeongdo, que nem sobrenome tem! Quanto encomendar ao Escritório dos Três Machados que vos propusesse um duelo!"
+        },
+        {
+            "id": 45,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "E transmitir a localização de vocês em tempo real para outras forças… fui eu que tramei tudo."
+        },
+        {
+            "id": 46,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Este alojamento de lixo, que nem licença de moradia conseguiu, hahaha! Fui eu mesmo que subornei os técnicos para armá-lo!"
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<…Então era isso.>"
+        },
+        {
+            "id": 48,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 49,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Aha-ha! Mesmo para mim, foi um plano perfeito demais."
+        },
+        {
+            "id": 50,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "E aí, impressionante, não?! Engenhoso demais, não?!"
+        },
+        {
+            "id": 51,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "No fim, o posto de próximo Patriarca, este mestre é quem…"
+        },
+        {
+            "id": 52,
+            "model": "가치우",
+            "teller": "???",
+            "title": "???",
+            "content": "Que tolice. Justo essa frase você não devia ter posto na boca."
+        },
+        {
+            "id": 53,
+            "content": "Da escuridão ecoou mais uma voz."
+        },
+        {
+            "id": 54,
+            "content": "Aquela voz era serena como nenhuma; não se sentia nela nem hostilidade, nem boa vontade."
+        },
+        {
+            "id": 55,
+            "content": "Quando a voz se aproximou, por uma pequena fresta criada pelo mover dos edifícios desceu um tênue raio de luar."
+        },
+        {
+            "id": 56,
+            "content": "Na mão do sujeito que surgiu sob aquela luz havia uma cabeça sendo segurada."
+        },
+        {
+            "id": 57,
+            "content": "Olhos que nem chegaram a perceber, e sangue a escorrer de um pescoço cortado."
+        },
+        {
+            "id": 58,
+            "content": "Tomando aquilo como pegadas, ele se aproximou de nós lentamente."
+        },
+        {
+            "id": 59,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "…Não me diga, Jia… Chiu?"
+        },
+        {
+            "id": 60,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "No fim… havia mesmo. A pessoa com quem ele se aliou…"
+        },
+        {
+            "id": 61,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "P-por que é que o senhor está com a cabeça do Gyeongdo…"
+        },
+        {
+            "id": 62,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "…Como ele abandonou o senhor dele e fugiu, eu a trouxe para que lhe pusessem a coleira de novo."
+        },
+        {
+            "id": 63,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Meu senhor, há uma cobra."
+        },
+        {
+            "id": 64,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "Deixa-a. Não há razão para sermos nós a expulsá-la de propósito."
+        },
+        {
+            "id": 65,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "M-mas o que…"
+        },
+        {
+            "id": 66,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "E nós só lhe permitimos comandar o Heishou para que atrapalhasse aqueles ali…"
+        },
+        {
+            "id": 67,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Hum, pois é. Ao receber a coleira nas mãos, te ocorreu que voltar a se aliar aos Shi seria proveitoso?"
+        },
+        {
+            "id": 68,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "N-não me diga… o senhor sabia de tudo?!"
+        },
+        {
+            "id": 69,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "'Tudo' abrange o quê, até onde?"
+        },
+        {
+            "id": 70,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Comparado ao saber do meu senhor, o teu discernimento é estreito demais, e por isso é difícil de avaliar como devido."
+        },
+        {
+            "id": 71,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Bom… se você se refere ao fato de que era mentira aquilo de você ter pedido a ajuda do meu senhor dizendo que tinha sido abandonado pela família Shi."
+        },
+        {
+            "id": 72,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "É claro que… ele sabia."
+        },
+        {
+            "id": 73,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "…Hiec!"
+        },
+        {
+            "id": 74,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "P-poupe-me. Não, poupe-me, eu lhe imploro…!"
+        },
+        {
+            "id": 75,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Eu, eu lhe direi uma informação que só eu conhecia em segredo. A, a família Shi…"
+        },
+        {
+            "id": 76,
+            "model": "사이화",
+            "title": "Shi Family",
+            "content": "Onde estão as Dez Espadas do Leste… o Pole—"
+        },
+        {
+            "id": 77,
+            "content": "As palavras de Shi Yihua não puderam prosseguir."
+        },
+        {
+            "id": 78,
+            "content": "Pois uma lâmina longa e ao mesmo tempo sinuosa, que brotou da escuridão, cortou-lhe o pescoço de um só talho."
+        },
+        {
+            "id": 79,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "…Yihua, e eu que tinha dito que se esforçasse para não haver mesquinhez ao falar."
+        },
+        {
+            "id": 80,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Meu senhor, com isto parece que obtivemos tanta informação quanto se esperava."
+        },
+        {
+            "id": 81,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "Não é preciso perseguir a cobra, Zilu."
+        },
+        {
+            "id": 82,
+            "model": "자로",
+            "teller": "Zilu",
+            "title": "Bando Heishou - Filial Mao",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "content": "O homem de grande porte, que disse isso àqueles que pareciam ser seus braços direitos, deu um passo e, saindo da escuridão, postou-se diante de nós."
+        },
+        {
+            "id": 84,
+            "content": "E então, com uma expressão singular, apenas fitou, sem dizer palavra, a cabeça de Yihua que rolava pelo chão e a nós."
+        },
+        {
+            "id": 85,
+            "content": "Como se… estivesse olhando uma nuvem ou o capim."
+        },
+        {
+            "id": 86,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "Estas eu levo comigo."
+        },
+        {
+            "id": 87,
+            "content": "O sujeito apanhou a cabeça de Yihua que rolara pelo chão e fez um aceno de cabeça."
+        },
+        {
+            "id": 88,
+            "model": "자공",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, aqui está. Com uma faixa de conservação improvisada, aquela cabeça não vai apodrecer e se desfazer por algum tempo."
+        },
+        {
+            "id": 89,
+            "content": "Com a faixa que um dos braços direitos lhe entregou, ele vai enrolando, com ar de quem está acostumado, as duas cabeças cortadas."
+        },
+        {
+            "id": 90,
+            "content": "…Não dá a mínima para nós. Como se não houvesse a menor necessidade de se precaver."
+        },
+        {
+            "id": 91,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "Vocês, voltem quando a situação se apaziguar."
+        },
+        {
+            "id": 92,
+            "model": "자로",
+            "teller": "Zilu",
+            "title": "Bando Heishou - Filial Mao",
+            "content": "Como ordena."
+        },
+        {
+            "id": 93,
+            "model": "가시춘",
+            "title": "Família Jia",
+            "content": "E-espere… v-você. Aparecer assim do nada e…"
+        },
+        {
+            "id": 94,
+            "model": "가치우",
+            "teller": "Jia Qiu",
+            "title": "Família Jia",
+            "content": "……."
+        },
+        {
+            "id": 95,
+            "content": "Ele, sem deixar resposta, apenas refletia um olhar vazio."
+        },
+        {
+            "id": 96,
+            "content": "E então, segurando as cabeças das duas pessoas, que aos poucos iam se tingindo de sangue, desapareceu lentamente para dentro da escuridão."
+        }
+    ]
+}

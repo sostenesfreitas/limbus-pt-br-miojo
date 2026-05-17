@@ -1,0 +1,282 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Um beco da T Corp.",
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Muito bem, então! Os Yurodiviye juram de pés juntos que não têm nada a ver com o caso, e o Estripador Temporal continua à solta. E agora, brilhantes detetives?"
+        },
+        {
+            "id": 1,
+            "model": "탐정로쟈",
+            "content": "Mas... não temos outras pistas. Aquele com quem falamos acabou de sair do esconderijo, então por que não o seguimos?"
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<... Você quer seguir aquele Yurodivy?>"
+        },
+        {
+            "id": 3,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Olha só, parece que não prender eles pode acabar valendo a pena, afinal! Acho que é uma sugestão justa."
+        },
+        {
+            "id": 4,
+            "model": "탐정료슈",
+            "content": "Perda de tempo. Deveríamos torturá-los um por um até que algum deles ceda."
+        },
+        {
+            "id": 5,
+            "model": "탐정홍루",
+            "content": "De acordo com a página 155 do livro da senhorita Agatha: \"um detetive de primeira deve permanecer sempre atento e nunca negligenciar uma boa vigilância\"."
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Você já está na página 155?>"
+        },
+        {
+            "id": 7,
+            "model": "탐정홍루",
+            "content": "Don Quixote nos deu esse livro para que todos nós possamos nos tornar grandes detetives, hehe. Eu tenho lido sempre que posso."
+        },
+        {
+            "id": 8,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 9,
+            "model": "탐정로쟈",
+            "content": "O mundo não vai mudar só porque os Yurodiviye andam roubando tempo."
+        },
+        {
+            "id": 10,
+            "model": "탐정로쟈",
+            "content": "É por isso que você está deixando eles irem, não é?"
+        },
+        {
+            "id": 11,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Hã? Não, de jeito nenhum. É justamente o contrário, na verdade."
+        },
+        {
+            "id": 12,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Eu quero ver que as coisas... mudem."
+        },
+        {
+            "id": 13,
+            "model": "탐정로쟈",
+            "content": "Mudem...?"
+        },
+        {
+            "id": 14,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Dizem que os Yurodiviye começaram como um pequeno grupo de zés-ninguém."
+        },
+        {
+            "id": 15,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Mas eles continuaram, aos poucos… e foram se espalhando pela Cidade. Ouvi dizer que têm causado problemas de verdade em alguns Ninhos. Que é difícil se livrar deles."
+        },
+        {
+            "id": 16,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Sabe o que o pessoal anda dizendo aqui na T Corp.? \"Sem tempo, mas cheio de frustração? Então venha se juntar aos Yurodiviye\"."
+        },
+        {
+            "id": 17,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Ao contrário da maioria das pessoas, que aceitam injustiças e seguem em frente, eles não. Eles se recusam a fechar os olhos, confiantes e determinados de que um dia trarão mudanças reais para a Cidade."
+        },
+        {
+            "id": 18,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "É natural que eu os ache extremamente fascinantes. Para testemunhar… até onde levarão seus desejos e aspirações desesperadas?"
+        },
+        {
+            "id": 19,
+            "model": "탐정로쟈",
+            "content": "……."
+        },
+        {
+            "id": 20,
+            "model": "탐정료슈",
+            "content": "Nada além de agonia inútil."
+        },
+        {
+            "id": 21,
+            "model": "탐정로쟈",
+            "content": "Haah..."
+        },
+        {
+            "id": 22,
+            "model": "탐정로쟈",
+            "content": "Sério mesmo, algum de vocês se importam em resolver esse caso?"
+        },
+        {
+            "id": 23,
+            "model": "탐정료슈",
+            "content": "Esse caso..."
+        },
+        {
+            "id": 24,
+            "model": "탐정료슈",
+            "content": "... tem uma certa estética destrutiva. Eu gosto disso."
+        },
+        {
+            "id": 25,
+            "model": "탐정홍루",
+            "content": "Estou seguindo as palavras dos anciões da minha família: ver e experimentar o mundo o máximo que eu puder antes de retornar. Porque é mais prudente seguir suas palavras."
+        },
+        {
+            "id": 26,
+            "model": "탐정료슈",
+            "content": "... Parece terrivelmente incômodo."
+        },
+        {
+            "id": 27,
+            "model": "탐정료슈",
+            "content": "Muitas coisas neste mundo presumem que merecem ser chamadas de \"família\"."
+        },
+        {
+            "id": 28,
+            "model": "탐정홍루",
+            "content": "Hehe, nunca ouvi você falar assim, Ryōshū."
+        },
+        {
+            "id": 29,
+            "model": "탐정로쟈",
+            "content": " O que você espera realizar..."
+        },
+        {
+            "id": 30,
+            "model": "탐정로쟈",
+            "content": "... com tanta indiferença?"
+        },
+        {
+            "id": 31,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "Não se preocupe com isso."
+        },
+        {
+            "id": 32,
+            "model": "T사대표",
+            "teller": "Assistente",
+            "title": "T Corp.",
+            "content": "A maioria das pessoas leva a vida com essa mesma indiferença. Já faz eras que eu não desejo algo com todo o meu coração."
+        },
+        {
+            "id": 33,
+            "model": "탐정로쟈",
+            "content": "Não, eu..."
+        },
+        {
+            "id": 34,
+            "model": "탐정로쟈",
+            "content": "... Eu não sou como a maioria das pessoas."
+        },
+        {
+            "id": 35,
+            "model": "탐정로쟈",
+            "content": "Eu sou..."
+        },
+        {
+            "id": 36,
+            "content": "À distância, passos rápidos e pesados romperam os sussurros de Rodya."
+        },
+        {
+            "id": 37,
+            "model": "단테",
+            "content": "<Eu sabia, o culpado era um Yurodivy...!>"
+        },
+        {
+            "id": 38,
+            "model": "유로지비대장",
+            "content": "Gah!!"
+        },
+        {
+            "id": 39,
+            "model": "탐정료슈",
+            "content": "… Ele está aqui. Não vou deixá-lo escapar desta vez."
+        },
+        {
+            "id": 40,
+            "model": "탐정홍루",
+            "content": "Certo, vamos lá! Vai que dessa vez você pega ele… se aprender a respirar como o Meursault, Ryōshū~"
+        },
+        {
+            "id": 41,
+            "model": "단테",
+            "content": "<Rodya, vamos—>"
+        },
+        {
+            "id": 42,
+            "content": "Rodya parou de repente e olhou para mim."
+        },
+        {
+            "id": 43,
+            "content": "Me encarando debaixo das sombras que cobriam seus olhos."
+        },
+        {
+            "id": 44,
+            "model": "탐정로쟈",
+            "content": "Dante. Você acha que teria sido diferente se eu tivesse..."
+        },
+        {
+            "id": 45,
+            "model": "탐정로쟈",
+            "content": "... seguido Sonya, lá no cassino?"
+        },
+        {
+            "id": 46,
+            "model": "단테",
+            "content": "<... Por que você pergunta?>"
+        },
+        {
+            "id": 47,
+            "model": "탐정로쟈",
+            "content": "Quero dizer, é só..."
+        },
+        {
+            "id": 48,
+            "model": "탐정로쟈",
+            "content": "Ver os objetivos do Sonya começarem a tomar forma enquanto eu permaneço estagnada, parada, está me fazendo sentir..."
+        },
+        {
+            "id": 49,
+            "content": "As palavras que Rodion finalmente conseguiu dizer, ainda sem saber ao certo como expressá-las…"
+        },
+        {
+            "id": 50,
+            "model": "탐정로쟈",
+            "content": "Estranha."
+        },
+        {
+            "id": 51,
+            "content": "Uma impressão estranha."
+        }
+    ]
+}

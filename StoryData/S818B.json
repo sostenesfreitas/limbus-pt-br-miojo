@@ -1,0 +1,313 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Grande Jardim - Interior de Yihongyuan",
+            "model": "습인",
+            "content": "Jovem senhor, antes de partir, eu preparei chá Yu'ercha; o senhor o tomará?"
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "...Diga que não vai tomar, senhor Hong Lu. Você esqueceu que a carta de ontem foi aberta? Não se deve confiar em ninguém."
+        },
+        {
+            "id": 2,
+            "model": "홍루",
+            "content": "Por mim tudo bem. Pode trazer, Xiren."
+        },
+        {
+            "id": 3,
+            "model": "습인",
+            "content": "Yes, young master."
+        },
+        {
+            "id": 4,
+            "content": "Hong Lu sips Xiren's tea."
+        },
+        {
+            "id": 5,
+            "model": "이스마엘",
+            "content": "……."
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "E se por acaso houver algum veneno dentro do chá... por mais que o senhor Dante esteja aqui, isso é imprudente demais."
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "Não foi por o senhor Dante estar aqui que eu bebi sem pensar em nada. Se fosse esse o caso, aumentariam as vezes em que o senhor Dante sofreria à toa."
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "É apenas que... mesmo a Xiren tendo ficado seca assim, a Xiren continua sendo a Xiren, então eu pensei que não haveria problema."
+        },
+        {
+            "id": 9,
+            "content": "...Só então eu pude perceber que a mudança estranha que se sentia em Xiren era semelhante à das pessoas que eu vira nos becos do Distrito 8."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<... Xiren went through a lot of revivals, didn't she?>"
+        },
+        {
+            "id": 11,
+            "model": "홍루",
+            "content": "Isso mesmo. Por ser a minha criada mais próxima, ela tinha um seguro de vida caro."
+        },
+        {
+            "id": 12,
+            "model": "단테",
+            "content": "<'Continua sendo a Xiren' significa que a memória ainda está intacta.>"
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Sim, porque o seguro de vida não mexe na memória em si."
+        },
+        {
+            "id": 14,
+            "model": "홍루",
+            "content": "But still, you'll slowly..."
+        },
+        {
+            "id": 15,
+            "model": "홍루",
+            "content": "Dizem que ela vai se desgastando. E assim a memória, como uma rocha esculpida pelo vento forte e pela chuva... vai aos poucos diminuindo, ficando turva, e por fim nem a forma resta."
+        },
+        {
+            "id": 16,
+            "model": "홍루",
+            "content": "Ah, fica apenas a sensação de 'havia uma rocha com aquele formato, um dia'."
+        },
+        {
+            "id": 17,
+            "model": "홍루",
+            "content": "Mas eu... eu gostaria que, ao menos essa sensação, ficasse como uma memória calorosa para a Xiren."
+        },
+        {
+            "id": 18,
+            "model": "습인",
+            "content": "……."
+        },
+        {
+            "id": 19,
+            "content": "Talvez por ter ouvido as palavras de Hong Lu, ou talvez por nem se importar..."
+        },
+        {
+            "id": 20,
+            "content": "...deixando Xiren, que arrumava as xícaras de chá em silêncio, nós seguimos rumo ao palanquim preparado para o 2º confronto."
+        },
+        {
+            "id": 21,
+            "place": "Interior do Palanquim",
+            "model": "오티스",
+            "content": "Quando se está diante de uma guerra de vida ou morte, a primeira coisa que se deve fazer é..."
+        },
+        {
+            "id": 22,
+            "content": "Os Pecadores, que normalmente teriam uma reação indiferente, dizendo para ela não exagerar, desta vez se concentraram na fala de Outis."
+        },
+        {
+            "id": 23,
+            "content": "Os vários aprovados e as facções vinculadas a cada um deles..."
+        },
+        {
+            "id": 24,
+            "content": "Talvez por terem vivido na pele a periculosidade dos Heishou."
+        },
+        {
+            "id": 25,
+            "content": "Parecia que, ao menos desta vez, eles pensavam que as palavras dela seriam úteis."
+        },
+        {
+            "id": 26,
+            "model": "오티스",
+            "content": "...descobrir informações sobre o inimigo principal."
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "O inimigo que tem o maior potencial de ser uma ameaça para nós."
+        },
+        {
+            "id": 28,
+            "model": "오티스",
+            "content": "Ga Chiu."
+        },
+        {
+            "id": 29,
+            "model": "오티스",
+            "content": "Digam as informações que vocês souberem sobre aquele sujeito."
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Tipo segurar a cabeça decepada de uma pessoa e avisar como se nada fosse, e..."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "...ou ter tentado usar artimanhas para impedir totalmente que nós e o lado da senhora Shichun participássemos do Grande Confronto pelo Patriarcado."
+        },
+        {
+            "id": 32,
+            "model": "이상",
+            "content": "Eu sei também que ele tem sob o seu comando um Heishou forte chamado Jaro e um estrategista chamado Jagong."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "E mais, o assassino que mandaram ontem também... não parece ter sido mandado por aquela pessoa?"
+        },
+        {
+            "id": 34,
+            "model": "이스마엘",
+            "content": "Sim, de vários modos, parece certo que ele é uma figura de quem a gente tem de se precaver mutuamente."
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "Como vocês sabem... este lugar, o Grande Jardim, é conduzido pelas quatro famílias que existem desde tempos remotos: a casa Ga, a casa Sa, a casa Seol e a casa Wang."
+        },
+        {
+            "id": 36,
+            "model": "홍루",
+            "content": "Desde antes de eu nascer, neste lugar circulavam incontáveis intrigas, estratagemas e mortes violentas e, agora, a casa Ga ocupa a maior influência entre as 4 Grandes Famílias."
+        },
+        {
+            "id": 37,
+            "model": "홍루",
+            "content": "E graças a isso eu pude viver de modo um pouco mais rico e confortável, uma vida que todos invejam e admiram."
+        },
+        {
+            "id": 38,
+            "model": "홍루",
+            "content": "But big brother Qiu, he..."
+        },
+        {
+            "id": 39,
+            "model": "홍루",
+            "content": "Ele estava abaixo daquele fundo."
+        },
+        {
+            "id": 40,
+            "model": "이상",
+            "content": "Fundo...? É uma metáfora de algo?"
+        },
+        {
+            "id": 41,
+            "model": "오티스",
+            "content": "Se não for metáfora, 'estava abaixo do fundo' soa como se alguém o tivesse empurrado."
+        },
+        {
+            "id": 42,
+            "model": "홍루",
+            "content": "Sim, porque muitas mãos o empurraram para a beira do precipício. E então, no fim, ele ficou sem nem um espaço para pôr o pé, e ao irmão não restou senão a queda."
+        },
+        {
+            "id": 43,
+            "model": "홍루",
+            "content": "O irmão Chiu é... o último descendente que restou da casa Gong, que foi extinta."
+        },
+        {
+            "id": 44,
+            "model": "돈키호테",
+            "content": "Hum? O sobrenome dele não era Ga, com certeza?"
+        },
+        {
+            "id": 45,
+            "model": "홍루",
+            "content": "É que era o lado da mãe dele que era da casa Gong."
+        },
+        {
+            "id": 46,
+            "model": "돈키호테",
+            "content": "Ahh... how..."
+        },
+        {
+            "id": 47,
+            "model": "홍루",
+            "content": "Provavelmente, entre as mãos que empurraram aquela pessoa, havia também a minha."
+        },
+        {
+            "id": 48,
+            "model": "싱클레어",
+            "content": "E-eu não vejo o senhor Hong Lu como alguém capaz de uma coisa dessas..."
+        },
+        {
+            "id": 49,
+            "model": "홍루",
+            "content": "Hehe. Não precisa se esforçar para me encobrir."
+        },
+        {
+            "id": 50,
+            "model": "홍루",
+            "content": "Por haver o afeto da vovó e dos anciãos, vieram junto a inveja e o ciúme dos irmãos e irmãs, e..."
+        },
+        {
+            "id": 51,
+            "model": "홍루",
+            "content": "...por haver um edifício vertiginosamente alto, é coisa natural que se forme também o seu fundo."
+        },
+        {
+            "id": 52,
+            "model": "홍루",
+            "content": "Como, mesmo me escondendo, não há como escapar disso, eu pretendo aceitá-lo."
+        },
+        {
+            "id": 53,
+            "content": "Hong Lu apenas se mantinha sereno, como quem fala olhando para uma nuvem tranquila."
+        },
+        {
+            "id": 54,
+            "content": "In fact..."
+        },
+        {
+            "id": 55,
+            "model": "료슈",
+            "content": "O que se aliou ao Polegar... fiquem em guarda também contra essas coisas."
+        },
+        {
+            "id": 56,
+            "content": "A emoção de Ryoshu estava mais exaltada."
+        },
+        {
+            "id": 57,
+            "model": "이스마엘",
+            "content": "O Polegar...? Ah, aquele brutamontes daquela vez?"
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "Lei Heng."
+        },
+        {
+            "id": 59,
+            "model": "로쟈",
+            "content": "Hmm... you're weirdly worried, Ryōshū. Don'tcha usually just—"
+        },
+        {
+            "id": 60,
+            "model": "료슈",
+            "content": "It's because he's powerful."
+        },
+        {
+            "id": 61,
+            "content": "Silence descended in the palanquin."
+        },
+        {
+            "id": 62,
+            "model": "로쟈",
+            "content": "...Ryoshu, de bom grado, dizer que alguém é forte — alguém aqui já ouviu isso...?"
+        },
+        {
+            "id": 63,
+            "content": "No one replied."
+        }
+    ]
+}

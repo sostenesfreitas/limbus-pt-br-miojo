@@ -1,0 +1,493 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "LCE Recovery Ward",
+            "content": "O lugar que visitamos seguindo a orientação de Hohenheim parecia, mais do que um quarto de hospital, uma sala de interrogatório, mas…"
+        },
+        {
+            "id": 1,
+            "content": "Os equipamentos ao redor, um a um, pareciam bastante caros."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<As instalações parecem boas.>"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Há de ter sido uma instrução da cúpula."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "Na Cidade há de haver várias tecnologias para restaurar um corpo mutilado, mas, para restaurar mantendo a forma original de toda a metade inferior do corpo a um custo razoável, instalações destas hão de ter sido necessárias."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Se isto é um custo razoável, então como é que são os outros métodos…>"
+        },
+        {
+            "id": 6,
+            "content": "Uma sala sem uma única janela, repleta de um cheiro acre de produtos químicos."
+        },
+        {
+            "id": 7,
+            "content": "Kira, sentada na beira da cama posta no centro dela, balançava os dois pés e nos fitava."
+        },
+        {
+            "id": 8,
+            "content": "Para alguém que teve metade do corpo cortado… não se sentia ponto algum de diferença em relação à figura que eu vira pelos olhos dos Pecadores."
+        },
+        {
+            "id": 9,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Eu ouvi dizer que ela foi capturada viva para confirmação de informações; estou curiosa quanto ao andamento."
+        },
+        {
+            "id": 11,
+            "model": "호엔하임",
+            "content": "Ah, como não se reuniu informação digna de inquirir, o interrogatório vinha sendo adiado."
+        },
+        {
+            "id": 12,
+            "model": "호엔하임",
+            "content": "Até agora, mobilizou-se todo o efetivo para localizar e analisar os documentos e objetos encontrados na Teia."
+        },
+        {
+            "id": 13,
+            "model": "뉴키라",
+            "content": "Então por que vocês vieram?"
+        },
+        {
+            "id": 14,
+            "model": "호엔하임",
+            "content": "É que surgiu um serviço que precisa da informação de alguém que residiu na Teia até recentemente."
+        },
+        {
+            "id": 15,
+            "model": "호엔하임",
+            "content": "Como era a intenção, eu já fechei a conversa com a cúpula sobre utilizar você."
+        },
+        {
+            "id": 16,
+            "model": "뉴키라",
+            "content": "Não tem TV, não tem gibi… e, mesmo quando eu peço para trazerem, me lançam um olhar feio e simplesmente ignoram."
+        },
+        {
+            "id": 17,
+            "model": "뉴키라",
+            "content": "E aí, se de repente me pedirem ajuda, vocês acham que eu vou ajudar?"
+        },
+        {
+            "id": 18,
+            "content": "Kira respondeu de modo cortante, como quem está contrariada, mas Hohenheim, sem mudar uma única expressão, assentiu com a cabeça."
+        },
+        {
+            "id": 19,
+            "model": "호엔하임",
+            "content": "Eu não pedi ajuda. Eu disse que vou utilizar você."
+        },
+        {
+            "id": 20,
+            "model": "뉴키라",
+            "content": "O quê…?"
+        },
+        {
+            "id": 21,
+            "model": "호엔하임",
+            "content": "O motivo de você estar viva é que se estima que há um lucro que a empresa pode gerar através de você. No mundo lá fora chamam isso de lucro esperado, não é?"
+        },
+        {
+            "id": 22,
+            "model": "호엔하임",
+            "content": "Se não tivesse valor, você já teria sido descartada faz tempo. É que são gente que sentiria pena de gastar até com o custo diário de manutenção desta sala que você usa, ainda que ele fosse menos da metade do valor atual."
+        },
+        {
+            "id": 23,
+            "model": "호엔하임",
+            "content": "Portanto… se você continuar mantendo essa atitude não cooperativa, a empresa também vai abrir uma reunião para reconsiderar a estimativa do seu valor."
+        },
+        {
+            "id": 24,
+            "model": "호엔하임",
+            "content": "Bom… como é de se esperar, não vai haver uma avaliação positiva. Eu acho que a conclusão vai ser de descartá-la."
+        },
+        {
+            "id": 25,
+            "content": "A fala de Hohenheim já costumava ter um lado de espinho afiado, mas…"
+        },
+        {
+            "id": 26,
+            "content": "as palavras que ele dirigia, de modo particular, a Kira soavam ainda mais afiadas."
+        },
+        {
+            "id": 27,
+            "model": "뉴키라",
+            "content": "Você vai chupar todo o sumo doce de mim e depois me matar, e ainda vem com ameaça…"
+        },
+        {
+            "id": 28,
+            "model": "뉴키라",
+            "content": "Eu matei tantos de vocês, da empresa, por que diabos é que vocês iam me poupar."
+        },
+        {
+            "id": 29,
+            "model": "호엔하임",
+            "content": "……."
+        },
+        {
+            "id": 30,
+            "model": "호엔하임",
+            "content": "Você achou que haveria uma vingança em nível corporativo. Esse é um ponto de vista bastante curioso."
+        },
+        {
+            "id": 31,
+            "model": "호엔하임",
+            "content": "Ao contrário de uma organização dos becos como o Dedo Médio, uma empresa, na medida do possível, não faz coisas em que sai perdendo."
+        },
+        {
+            "id": 32,
+            "model": "파우스트",
+            "content": "O valor da informação que você conhece como discípula do Dedo Médio. E a capacidade de combate forjada pelo Irmão Mais Velho do Dedo Médio. A empresa há de ter avaliado essas duas coisas como altas."
+        },
+        {
+            "id": 33,
+            "model": "뉴키라",
+            "content": "Hã, pelo visto vocês não têm nem amor-próprio?"
+        },
+        {
+            "id": 34,
+            "model": "호엔하임",
+            "content": "…Você tem bastante sorte."
+        },
+        {
+            "id": 35,
+            "model": "뉴키라",
+            "content": "…Ué? Que papo é esse, de repente?"
+        },
+        {
+            "id": 36,
+            "model": "호엔하임",
+            "content": "Quer dizer que, se fosse outra empresa, não haveria motivo para buscar a sua colaboração como agora. É que já teriam aberto a sua cabeça, tirado o cérebro de dentro e arrancado a informação."
+        },
+        {
+            "id": 37,
+            "model": "호엔하임",
+            "content": "Desde soro da verdade até interrogatório por indução hipnótica, método de estímulo elétrico, métodos que usam Distorções ou Abnormalidades… bom, deste lado também os métodos de extrair informação de você são inesgotáveis."
+        },
+        {
+            "id": 38,
+            "model": "호엔하임",
+            "content": "É apenas… que a LCE, por uma questão de gosto, não prefere métodos bárbaros que deixam sequelas dessas."
+        },
+        {
+            "id": 39,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 40,
+            "model": "호엔하임",
+            "content": "Tomara, de todo modo, que os gostos sejam os mesmos."
+        },
+        {
+            "id": 41,
+            "model": "뉴키라",
+            "content": "Tio. Você é irritante pra caramba."
+        },
+        {
+            "id": 42,
+            "model": "호엔하임",
+            "content": "…Isso há de ser igual de parte a parte."
+        },
+        {
+            "id": 43,
+            "content": "Hohenheim, como quem terminou o que tinha a dizer, deixou um aviso aterrador e…"
+        },
+        {
+            "id": 44,
+            "model": "호엔하임",
+            "content": "…Tragam-na para fora na medida certa."
+        },
+        {
+            "id": 45,
+            "model": "호엔하임",
+            "content": "Decerto, hoje, de um jeito que não é o meu… não, esta frase também é bem ridícula."
+        },
+        {
+            "id": 46,
+            "model": "호엔하임",
+            "content": "Eu te peço, Gerente. Pois um trabalho destes vocês hão de ser mais aptos do que eu."
+        },
+        {
+            "id": 47,
+            "content": "Pedindo-me que trouxesse Kira para fora, ele saiu primeiro."
+        },
+        {
+            "id": 48,
+            "content": "Para se encarar logo depois de fazer o funeral dos pesquisadores mortos… talvez ela não fosse uma figura lá muito boa."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Então, hum… como é que eu peço…>"
+        },
+        {
+            "id": 50,
+            "model": "료슈",
+            "content": "Ufa…"
+        },
+        {
+            "id": 51,
+            "content": "Enquanto eu cismava, uma figura inesperada se adiantou diante de Kira."
+        },
+        {
+            "id": 52,
+            "model": "뉴키라",
+            "content": "Yoshihide…?"
+        },
+        {
+            "id": 53,
+            "model": "료슈",
+            "content": "Você. Dizem que levou uma facada nas costas de Matthias."
+        },
+        {
+            "id": 54,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 55,
+            "model": "뉴키라",
+            "content": "Não foi… nada disso."
+        },
+        {
+            "id": 56,
+            "model": "뉴키라",
+            "content": "…Mesmo que ele cortasse desviando de mim, não conseguiria dar um golpe fatal. Cortando até a mim… ele há de ter visado a Cabeça."
+        },
+        {
+            "id": 57,
+            "model": "뉴키라",
+            "content": "E… conforme as palavras do papai, sacrificar-se entre família é o óbvio, ora."
+        },
+        {
+            "id": 58,
+            "model": "료슈",
+            "content": "Ha. E pensar que o Dedo Médio, jogado fora sem nem ter um lugar a que pertencer, fica falando de família."
+        },
+        {
+            "id": 59,
+            "model": "료슈",
+            "content": "Pensando você mesma, não é ridículo?"
+        },
+        {
+            "id": 60,
+            "model": "뉴키라",
+            "content": "Isso…"
+        },
+        {
+            "id": 61,
+            "model": "단테",
+            "content": "<Jogado fora?>"
+        },
+        {
+            "id": 62,
+            "model": "료슈2",
+            "content": "Aquele sujeito, Matthias… era o Ir.mão. Mais. Ve.lho, mas não era o Ir.mão. Mais. Ve.lho."
+        },
+        {
+            "id": 63,
+            "model": "료슈",
+            "content": "Por ter aprontado uma encrenca… ele era tratado como membro da família, mas, por dentro, era tratado como um familiar que se queria que um dia desaparecesse em silêncio… um familiar que deixava o ambiente desconfortável."
+        },
+        {
+            "id": 64,
+            "model": "료슈",
+            "content": "E comigo, que era filha daquele sujeito, era a mesma coisa. Por isso, é óbvio que aquele cabeça-de-cuia também é tra.ta.do i.gual, não?"
+        },
+        {
+            "id": 65,
+            "model": "돈키호테",
+            "content": "Mesmo… tra… Hã! Senhora Ryōshū, não me diga… você também nutre uma paixão pelo ofício de Solucio… mf!"
+        },
+        {
+            "id": 66,
+            "content": "Eu tapei depressa, com a mão, a boca de Donquixote, que se intrometia com toda a naturalidade."
+        },
+        {
+            "id": 67,
+            "model": "뉴키라",
+            "content": "…E então, o que é que você quer dizer?"
+        },
+        {
+            "id": 68,
+            "model": "료슈",
+            "content": "É que a sua cisma está comprida. Se a escolha entre morrer ou viver está difícil, antes eu encurto isso para você."
+        },
+        {
+            "id": 69,
+            "model": "료슈",
+            "content": "Co.la.bo.re de boa vontade. Se não quiser, é de.ca.pi agora mesmo."
+        },
+        {
+            "id": 70,
+            "model": "뉴키라",
+            "content": "O… que isso significa…?"
+        },
+        {
+            "id": 71,
+            "model": "료슈2",
+            "content": "Quer dizer que, se você não quiser colaborar de bom grado, eu vou decapitá-la agora mesmo."
+        },
+        {
+            "id": 72,
+            "model": "료슈2",
+            "content": "Para a brincadeira de lealdade de que você tanto gosta, uma de.ca também não seria má. Hunf."
+        },
+        {
+            "id": 73,
+            "model": "뉴키라",
+            "content": "…Ha, droga. Por que isso é tão tosco."
+        },
+        {
+            "id": 74,
+            "model": "뉴키라",
+            "content": "Sei lá. Tá bom. É só eu contar, não é?"
+        },
+        {
+            "id": 75,
+            "model": "단테",
+            "content": "<…Isto serve como persuasão?>"
+        },
+        {
+            "id": 76,
+            "model": "뉴키라",
+            "content": "…Um Solucionador que morre de modo bonito e sai de cena não é lá tão forte quanto se pensa."
+        },
+        {
+            "id": 77,
+            "model": "뉴키라",
+            "content": "Um Solucionador de verdade forte… é mais do tipo que, de um jeito ou de outro, sobrevive e cresce."
+        },
+        {
+            "id": 78,
+            "model": "뉴키라",
+            "content": "Mas, Yoshihide, você… por que abrevia desse jeito?"
+        },
+        {
+            "id": 79,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 80,
+            "model": "뉴키라",
+            "content": "Eu já ouvi falar de 'cortar laços', mas 'cortar a cabeça' é a primeira vez que ouço…"
+        },
+        {
+            "id": 81,
+            "content": "Diante da pergunta de Kira, Ryōshū não respondeu e apenas mordiscou o cigarro."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<Mas será que vai dar certo? Aquela sujeita também há de nos ver como inimigos.>"
+        },
+        {
+            "id": 83,
+            "model": "료슈",
+            "content": "Imagina."
+        },
+        {
+            "id": 84,
+            "model": "료슈",
+            "content": "Relógio. Você acha que alguém que perdeu metade da tatuagem e teve até o livro-registro tomado vai querer seguir a lealdade ridícula do Dedo Médio?"
+        },
+        {
+            "id": 85,
+            "model": "료슈2",
+            "content": "E… ufa. Não, é melhor ouvir direto dela."
+        },
+        {
+            "id": 86,
+            "model": "료슈2",
+            "content": "Ei. Por que você acha que aquele sujeito, Matthias, morreu?"
+        },
+        {
+            "id": 87,
+            "model": "뉴키라",
+            "content": "Isso…"
+        },
+        {
+            "id": 88,
+            "model": "뉴키라",
+            "content": "É claro: porque o papai era o mais fraco."
+        },
+        {
+            "id": 89,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 90,
+            "model": "료슈2",
+            "content": "Ha."
+        },
+        {
+            "id": 91,
+            "model": "료슈",
+            "content": "Pois é. Sendo filha daquele sujeito, é óbvio que você tem de falar assim."
+        },
+        {
+            "id": 92,
+            "content": "Kira, mesmo fazendo uma expressão emburrada, levantou-se da cama sem resistência, e…"
+        },
+        {
+            "id": 93,
+            "content": "nós chamamos para dentro Hohenheim, que esperava lá fora."
+        },
+        {
+            "id": 94,
+            "model": "호엔하임",
+            "content": "Pelo visto a persuasão foi bem-sucedida."
+        },
+        {
+            "id": 95,
+            "model": "호엔하임",
+            "content": "Sigam-me. A arma eu deixei em cima da mesa, então, numa situação de emergência, usem-na."
+        },
+        {
+            "id": 96,
+            "model": "뉴키라",
+            "content": "…O que é isso, é esta mesma? A arma não sai."
+        },
+        {
+            "id": 97,
+            "model": "호엔하임",
+            "content": "Ah. Sem autorização ela não vai funcionar. É que eu mexi um pouco no código do equipamento."
+        },
+        {
+            "id": 98,
+            "model": "뉴키라",
+            "content": "……."
+        },
+        {
+            "id": 99,
+            "model": "호엔하임",
+            "content": "Pois bem, então vamos direto para a Teia. Enquanto vocês esperavam, eu já pus a porta dos fundos em funcionamento."
+        },
+        {
+            "id": 100,
+            "content": "Junto com Kira, que nos seguia com uma expressão contrariada, nós levamos os passos para a Teia."
+        }
+    ]
+}
