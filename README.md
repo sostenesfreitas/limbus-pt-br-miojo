@@ -35,11 +35,19 @@ scripts/
 Requer Limbus Company v1.73.0+ (suporte a tradução personalizada) e a localização
 **ptbr-CLT** já instalada.
 
-**Opção A — manual:** feche o jogo e copie o conteúdo de `translations/` (a pasta
-`StoryData/` e os `.json`) para dentro de `LimbusCompany_Data/Lang/ptbr-CLT/`,
-sobrescrevendo os arquivos existentes. Depois selecione **ptbr-CLT** no jogo.
+**Opção A — Release (recomendada):** baixe o `limbus-pt-br-miojo-vX.Y.zip` na
+[página de Releases](https://github.com/sostenesfreitas/limbus-pt-br-miojo/releases).
+Feche o jogo e extraia o conteúdo do zip dentro da pasta `Lang` do jogo
+(`LimbusCompany_Data/Lang/`) — o zip traz uma pasta `ptbr-CLT` que se junta à
+existente. Confirme **Substituir os arquivos** quando o Windows perguntar. Depois
+selecione **ptbr-CLT** no jogo.
 
-**Opção B — script:** com [Node.js](https://nodejs.org) instalado e o jogo no caminho
+**Opção B — manual a partir do repositório:** feche o jogo e copie o conteúdo de
+`translations/` (a pasta `StoryData/` e os `.json`) para dentro de
+`LimbusCompany_Data/Lang/ptbr-CLT/`, sobrescrevendo os arquivos existentes. Depois
+selecione **ptbr-CLT** no jogo.
+
+**Opção C — script:** com [Node.js](https://nodejs.org) instalado e o jogo no caminho
 padrão do Steam, rode na raiz do repositório:
 
 ```
