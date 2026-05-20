@@ -1,0 +1,508 @@
+﻿{
+    "dataList": [
+        {
+            "id": "FellBulletMark",
+            "name": "Estigmatizado",
+            "desc": "- Alvejado por Der Fluchschütze\n- Acaba ao Fim de Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR501",
+            "name": "Infligir Refração",
+            "desc": "+1 na Potência de Queimadura, Sangramento, Tremor, Ruptura e Afundamento aplicados contra inimigos com efeitos de Habilidades & Moedas",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR502",
+            "name": "Ganhar Refração",
+            "desc": "+1 to Poise and Charge Count gained by allies with Skills & Coin effects",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR503",
+            "name": "Mente Refratada",
+            "desc": "3 aliados com menor SP restauram 8 SP ao Fim do Turno (excluindo: aliados em Pânico ou Corroídos)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR504",
+            "name": "버프 이름",
+            "desc": "On Crit, at more than 20 Poise Potency, consume up to 20 of the excess Poise Potency to deal +(Poise Potency consumed x 2.5)% damage on Critical Hit (max 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR505",
+            "name": "Carga Refratada",
+            "desc": "Ao Acertar com Habilidades que consumiram 8+ Contagem de Carga: +0.1 na Resistência a Inveja no alvo neste Encontro (1 vez por Habilidade por inimigo; ajuste máx. de Resistência: 0.3) || Habilidades que ganham ou consomem Contagem de Carga causam +(10 + (Contagem ganha ou consumida x 2))% de dano (máx. 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR506",
+            "name": "Erupção Refratada",
+            "desc": "Fim do Turno: contra todas as Partes inimigas, aplica dano de Ira igual à Potência de Queimadura em cada Parte; em seguida, reduz a Contagem de Queimadura delas em 1, dispara um Estouro de Tremor uma vez, e reduz a Contagem de Tremor delas em 1 (ativa apenas em 2+ de Contagem)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR507",
+            "name": "Ruptura Refratada",
+            "desc": "Habilidades que infligem Potência ou Contagem de Ruptura: Poder Final +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR508",
+            "name": "Afogamento Refratado",
+            "desc": "Deal +(Sinking Potency on the target)% damage against targets at less than 0 SP or without SP (max 45%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR509",
+            "name": "Fraqueza Destruída",
+            "desc": "Deal +30% damage against Destroyed or Staggered Parts",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR510",
+            "name": "Nebulizador",
+            "desc": "Início do Primeiro Turno de uma onda: todos os aliados ganham 5 de Potência de Equilíbrio e +5 Contagem de Equilíbrio. Se a Reson. de Soberba foi ativada, todos os aliados ganham 3 de Potência de Equilíbrio e +3 Contagem de Equilíbrio no Início de Combate",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR511",
+            "name": "O Atirador Solitário",
+            "desc": "Eleva os valores de Velocidade Mín. e Máx. da Identidade Implantada #1 em 1. A referida unidade perde uma Habilidade 1, mas ganha uma Habilidade 3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR512",
+            "name": "Espirito de Luta Persistente",
+            "desc": "A partir do Pecador Implantado #7: no início do mesmo turno em que Substitui, restaura 30 SP, ganha 1 Reforço de Poder de Ataque pelo Encontro, e ganha 2 recursos E.G.O para cada uma das Afinidades correspondentes às suas Habilidades de Ataque Base",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR513",
+            "name": "Colheita de Recursos",
+            "desc": "Após usar uma Habilidade de Ataque ou Contra-Ataque, se o inimigo é derrotado, ganha 2 recursos E.G.O da Afinidade de Habilidade que foi usada (1 vez por Habilidade, incluindo Habilidades E.G.O)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR514",
+            "name": "버프 이름",
+            "desc": "Quando inimigos de reforço entram na batalha, aplica 5 Sangramento e +3 Sangramento contra eles no Início de Combate. Se há um <Sanguinário> entre os aliados: quando as condições acima são atendidas: ativa Sangramento em todos os inimigos uma vez e reduz a Contagem de Sangramento deles em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR515",
+            "name": "Defesa Implacável",
+            "desc": "Todos os aliados sofrem -50% de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR516",
+            "name": "Vida ou Morte",
+            "desc": "Todos os aliados causam +30% de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR517",
+            "name": "Contra-ataque Furioso",
+            "desc": "When hit, gain 2 Offense Level Up next turn (max 6)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR518",
+            "name": "Pingente Nostálgico",
+            "desc": "Combat Start: 3 currently earliest Deployed allies gain 10 Poise Potency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR519",
+            "name": "버프 이름",
+            "desc": "Habilidades que consomem Munição: Poder de Embate +2, causa +(60 / # de Moedas)% de dano. Em 0 Munição, ganha 2 Munição no próximo Início do Turno (1 vez por Encontro por Identidade) || Muda a Resistência a Tristeza do Chefe Final da Seção 3 para Fraca (x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR520",
+            "name": "Dilúvio de Bala Nefasta",
+            "desc": "Whenever an ally dies, inflict fixed damage equal to 50% of the dead ally's max HP against all Parts on all enemies",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR521",
+            "name": "Manipulação de PV",
+            "desc": "+25% Max HP for all allies; remove the first Stagger threshold",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR522",
+            "name": "Desafio Arriscado",
+            "desc": "All ally Skills gain Final Power +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR523",
+            "name": "Banquete Sangrento",
+            "desc": "On Hit, if the enemy lost HP, heal HP equal to 10% of the damage dealt. All allies lose 3 Bleed Count at Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR524",
+            "name": "Festival de Sangue",
+            "desc": "Cada aliado causa +1% de dano para cada 10 Festim de Sangue que Consumiu (máx. 30%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR526",
+            "name": "Corte Refratado",
+            "desc": "Slash Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Slash Resistance of the Final Boss of Section 3 to Weak(x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR527",
+            "name": "Perfuração Refratada",
+            "desc": "Pierce Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Pierce Resistance of the Final Boss of Section 3 to Weak(x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR528",
+            "name": "Contusão Refratada",
+            "desc": "Blunt Skills gain Plus Coin Power +1, Minus Coin Power -1\nChange the Blunt Resistance of the Final Boss of Section 3 to Weak(x1.5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR529",
+            "name": "Refração de Crescimento I",
+            "desc": "Enemy Level +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR530",
+            "name": "Refração de Crescimento II",
+            "desc": "Enemy Level +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR531",
+            "name": "버프 이름",
+            "desc": "Quando inimigos de reforço entram na batalha, ganham 2 Reforço de Poder de Embate no início do turno em que entraram",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR532",
+            "name": "Vaporização de Recursos",
+            "desc": "Após usar uma E.G.O de Despertar, consome também 1 recurso E.G.O de 2 Afinidades de Pecado com mais de 1 recurso E.G.O; consumido das Afinidades com mais recursos primeiro",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR533",
+            "name": "Sangue Florescido",
+            "desc": "+1 na Potência e Contagem de Sangramento aplicadas por inimigos contra alvos com Sangramento usando efeitos de Habilidade & Moeda",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR534",
+            "name": "Defesa Implacável",
+            "desc": "All enemies take -20% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR535",
+            "name": "버프 이름",
+            "desc": "-50% Max HP for all allies",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR536",
+            "name": "Fúria Refratada",
+            "desc": "When hit by a Skill, enemies randomly gain 1 of the following next turn: Offense Level Up, Defense Level Up (4 times per enemy)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR537",
+            "name": "Refração de PV II",
+            "desc": "Enemy Max HP +20%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR538",
+            "name": "버프 이름",
+            "desc": "Enemy Skill Final Power +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR539",
+            "name": "Banquete Sangrento",
+            "desc": "Enemies heal +20% more HP from Skill and Coin effects",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR540",
+            "name": "버프 이름",
+            "desc": "Enemy Skills that consume Bloodfeast gain the following: Final Power +1, deal +10% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR541",
+            "name": "버프 이름",
+            "desc": "Quando todos os inimigos miram principalmente o aliado com menos Potência de Sangramento, Poder Final de Habilidade +1 ao atacar",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR542",
+            "name": "Refração de Vida",
+            "desc": "Enemy Max HP +10%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR543",
+            "name": "Determinação Persistente",
+            "desc": "Quando derrotada, ganha Recursos E.G.O baseados na Afinidade & Grau de cada Habilidade de Ataque que esta unidade tem.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FellBulletGroggy",
+            "name": "Estigmatizado",
+            "desc": "- Não pode ser removida || - Se em 0 ao Fim do Turno, torna-se Atordoada no próximo turno || - Ao usar a Habilidade 'Fogo no Alvo Designado', se o alvo não está Estigmatizado, perde 1 Carga || - Se a Habilidade 'Fogo no Alvo Designado' perde o Embate, perde 1 Carga || - Se o aliado que esta unidade mirou antes de usar a Habilidade 'Fogo no Alvo Designado' é morto, perde 1 Carga",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR544",
+            "name": "Roleta de Poder",
+            "desc": "Turn Start: All ally Skills gain Final Power +1~3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR545",
+            "name": "Canhão de Vidro",
+            "desc": "All allies deal +20% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR546",
+            "name": "Alto Risco",
+            "desc": "All allies deal +10% damage\nChange the Slash, Pierce, Blunt Resistance of the Final Boss of Section 3 to Weak(x1.3)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR547",
+            "name": "Roleta de Poder",
+            "desc": "Turn Start: All enemy Skills gain Final Power +1~3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR548",
+            "name": "Desafio Arriscado",
+            "desc": "Enemy Clash Power +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR549",
+            "name": "Vida ou Morte",
+            "desc": "-25% to max HP on all allies",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR550",
+            "name": "Risco Moderado",
+            "desc": "Enemy Plus Coin Power +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR551",
+            "name": "Sangramento Refratado",
+            "desc": "Turn Start: inflict 5 Bleed Potency and +3 Count to enemies at max HP (once per enemy per Part per Encounter)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR552",
+            "name": "버프 이름",
+            "desc": "Sempre que um inimigo morre, um inimigo ganha 2 Reforço de Poder de Embate no próximo turno, começando pelo inimigo com menor HP atual",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR5BaseP",
+            "name": "Reforços Ativos",
+            "desc": "",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR5BaseN",
+            "name": "Adversidades Ativas",
+            "desc": "",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR553",
+            "name": "Uma Única Respiração",
+            "desc": "E.G.O Skills deal +30% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR554",
+            "name": "버프 이름",
+            "desc": "All allies deal +15% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR555",
+            "name": "Poder de Confronto Refratado",
+            "desc": "Enemy Clash Power +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR556",
+            "name": "Canhão de Vidro",
+            "desc": "Todos os aliados sofrem +30% de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR557",
+            "name": "Postura Refratada",
+            "desc": "Deal +(10 + Poise Potency + Poise Count)% damage on Critical Hit (max 50%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR558",
+            "name": "Ira Refratada",
+            "desc": "Wrath Skills deal +30% damage\nChange the Wrath Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR559",
+            "name": "Luxúria Refratada",
+            "desc": "Lust Skills deal +30% damage\nChange the Lust Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR560",
+            "name": "Preguiça Refratada",
+            "desc": "Sloth Skills deal +30% damage\nChange the Sloth Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR561",
+            "name": "Gula Refratada",
+            "desc": "Gluttony Skills deal +30% damage\nChange the Gluttony Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR562",
+            "name": "Melancolia Refratada",
+            "desc": "Gloom Skills deal +30% damage\nChange the Gloom Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR563",
+            "name": "Orgulho Refratado",
+            "desc": "Pride Skills deal +30% damage\nChange the Pride Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR564",
+            "name": "Inveja Refratada",
+            "desc": "Envy Skills deal +30% damage\nChange the Envy Resistance of the Final Boss of Section 3 to Weak(x1.25)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR565",
+            "name": "Conforto",
+            "desc": "Raise Min & Max Speed values by 2 for all allies; Max HP +25%",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR566",
+            "name": "Refração Hostil",
+            "desc": "Enemy Clash Power +1; enemies deal +10% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR567",
+            "name": "Alto Risco",
+            "desc": "Enemy Plus Coin Power +2",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR568",
+            "name": "Refração Defensiva",
+            "desc": "Enemy Defense Level +3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MRR569",
+            "name": "Refração de Dano",
+            "desc": "Enemies deal +10% damage",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

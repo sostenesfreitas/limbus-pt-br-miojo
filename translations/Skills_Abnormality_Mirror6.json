@@ -1,0 +1,1547 @@
+﻿{
+    "dataList": [
+        {
+            "id": 123901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Infinite Parade",
+                    "desc": "[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 1 Gondola next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 123902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Eternal Festival",
+                    "desc": "[CantDuel]\nIf the target used a Defense Skill, the target does not take damage\n[WhenUse] Generate 4 Gondola next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Burning Thirst",
+                    "desc": "Poder Final +1 para cada 100 [BloodDinner] que esta unidade consumiu (máx. 5) || [WhenUse] Poder Base +1 para cada 5 [Laceration] no alvo (máx. 3) || [WhenUse] Consome até 30 [BloodDinner]: ganha 1 [RegainedStrength] para cada 10 [BloodDinner] consumidos || [DefeatDuel] Perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be Impaled",
+                    "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a 20% do PV máximo do alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a 20% do PV máximo do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 2 - Stake",
+                    "desc": "Ataca o alvo com mais [Laceration] || Poder Final +1 para cada 100 [BloodDinner] que esta unidade consumiu (máx. 5) || [WhenUse] Poder de Moeda +1 para cada 5 [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a (Potência X Contagem de [Laceration])"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Wedge",
+                    "desc": "Poder Final +1 para cada 100 [BloodDinner] que esta unidade consumiu (máx. 5) || [StartBattle] Peso de Atq +1 para cada 3 [RegainedStrength] em si (máx. 2) || [EndSkill] Consome 3 [RegainedStrength] || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] e +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desire for Blood",
+                    "desc": "[WhenUse] Consome até 40 [BloodDinner]: ganha 1 [RegainedStrength] e restaura 5 SP para cada 10 [BloodDinner] consumidos || [WhenUse] Aplica +1 Contagem de [Laceration] adicional para cada 5 [RegainedStrength] (máx. 2) || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Moment of Bloodfeast",
+                    "desc": "[CantIdentify] || [WhenUse] Consome até 300 [BloodDinner]: ganha 1 [RegainedStrength] e restaura 3 SP para cada 10 [BloodDinner] consumidos || [WhenUse] Se esta unidade consumiu [BloodDinner], restaura 30 SP || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 4 - Sundering",
+                    "desc": "Não pode ser Atordoada até usar esta Habilidade. || [WhenUse] Consome até 100 [BloodDinner]: ganha 1 [RegainedStrength] e restaura 15 SP para cada 10 [BloodDinner] consumidos || [WhenUse] Poder de Embate +1 para cada 30 [BloodDinner_Accumulation] por esta unidade (máx. 15) || [DefeatDuel] Causa -50% de dano, e o dano desta Habilidade não Atordoa o alvo. || [EndSkill] Por este turno e o próximo, ganha [AttackDown] e [DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 2 de [RegainedStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 14: Mantle",
+                    "desc": "Poder Base +1 para cada 100 [BloodDinner] que esta unidade consumiu (máx. 10) || [DuelGuard] || [WinDuel] Aplica 4 [Laceration] e [Burst] || [DefeatDuel] Consome 2 [RegainedStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124009,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Frail, So Frail",
+                    "desc": "[DuelCounter] || Poder Base +1 para cada 5 [RegainedStrength] || Poder de Moeda +1 para cada 5 [Laceration] no alvo (máx. 2) || [DefeatDuel] Perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124010,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bloody-Merry-Go-Round",
+                    "desc": "[CantDuel]\n[WhenUse] Does not deal any damage against enemies; generate Coagulated Dream units next turn\n[WhenUse] For every 5 [RegainedStrength], inflict +1 more [Laceration] Count (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124011,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Be Impaled",
+                    "desc": "[DefeatDuel] Lose 3 SP\n[DefeatDuel] Deal -50% final damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn"
+                                },
+                                {
+                                    "desc": "[EndCoin] O alvo perde 25 de Potência de [Laceration]. Ganha [Laceration] e aumenta [BloodDinner] igual a esse valor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124012,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
+                    "desc": "Não pode ser Atordoada até usar esta Habilidade. || Causa mais dano igual a [BloodDinner_Common_Accumulation]. (máx. 300%) || [WhenUse] Restaura 30 SP || [WhenUse] Poder de Embate +1 para cada 10 [RegainedStrength] || [EndSkill] Consome todo [RegainedStrength]. Ganha 5 [Vulnerable] neste turno e no próximo. Ganha 2 [Binding] no próximo turno. || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ferimentos Persistentes",
+                    "desc": "Se o alvo tiver 6+ de Potência de [Laceration], Recebe Poder de Moeda +1 e Recebe +1 de Potência de [Laceration] e Contagem infligida por esta Habilidade.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ferida",
+                    "desc": "Se o alvo tiver 6+ de Potência de [Laceration], Recebe Poder de Moeda +1 e Recebe +1 de Potência de [Laceration] e Contagem infligida por esta Habilidade.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Galhos que Constringem",
+                    "desc": "Se o alvo tiver 6+ de Potência de [Laceration], esta Habilidade inflige +1 de Potência de [Laceration] adicional.\nSe o alvo tiver 15+ (soma da Potência de [Laceration] e da Contagem de [Laceration]), ganhe +2 de Peso de Atq.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117511,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pétalas Polidípsicas",
+                    "desc": "Ataca o alvo com a maior soma de Potência de [Laceration] + Contagem\n[WhenUse] Poder de Moeda +1 para cada 6 de Potência de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [ScarletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (reduz Contagem de [Laceration] por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117512,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pétalas Explosivas",
+                    "desc": "Ataca o alvo com a maior soma de Potência de [Laceration] + Contagem\n[WhenUse] Poder de Moeda +1 para cada 6 de Potência de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [ScarletTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa todo o [Laceration] no alvo (completamente reduz Contagem de [Laceration])"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117513,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Tempestade de Espinhos",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ Potência de [Laceration], Poder Final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (reduz Contagem de [Laceration] por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117514,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Espinho Polidípsico",
+                    "desc": "[StartBattle] Recebe 3 de [AttackDmgUp] e 2 de [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 24 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117515,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fonte Infinita de Sangue",
+                    "desc": "[DuelCounter]\n[WhenUse] Alvos que confrontam com esta habilidade não perdem a Contagem de [Laceration] durante o confronto.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ative [Laceration] no alvo uma vez e consome imediatamente [BloodDinner] gerado pelo dano de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ative [Laceration] no alvo uma vez e consome imediatamente [BloodDinner] gerado pelo dano de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ative [Laceration] no alvo uma vez e consome imediatamente [BloodDinner] gerado pelo dano de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117516,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ânsia por Nutriente",
+                    "desc": "Ativa em 100+ [BloodDinner]\n[EndBattle] Consome até 100 [BloodDinner] para ativar os seguintes efeitos:\n- Cura os PV do Núcleo e das Partes do Corpo igual ao [BloodDinner] consumido\n- Recebe 1 [AttackUp] no próximo turno para cada 20 [BloodDinner] consumido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117517,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Espinheiros que Anseiam",
+                    "desc": "[WhenUse] Consome até 100 [BloodDinner] para ativar os seguintes efeitos:\n- Cura os PVs do Núcleo e das Partes do Corpo igual ao [BloodDinner] consumido\n- Essa Habilidade ganha Poder Final +1 para cada 20 [BloodDinner] consumido\n[EndSkill] Se essa Habilidade consumiu menos que 30 [BloodDinner], recebe 2 [Vulnerable] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118308,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Me Responda, Jia Baoyu",
+                    "desc": "[CantChangeTarget]\nPrioriza o alvo de menor ordem de Envio\n[WinDuel] Inflige +4 Contagem de [Burst]\n[DefeatDuel] Se o alvo tiver a menor ordem de Envio, Inflige 1 [Teaching]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118309,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estrela Tiāngāng - Forma (格)",
+                    "desc": "Prioriza o alvo de menor ordem de Envio\nPoder de Moeda -2 para cada [Teaching] no alvo\n[DefeatDuel] Não pode Atordoar com este ataque. Recebe 24 [DefenseDown] pelo resto do Encontro\n[DefeatDuel] Causa -50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +5% de dano para cada (Potência de [Burst] no alvo + Contagem de [Burst] no alvo + número de tipos de Rito Mortal no alvo) (100% Máx.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Berço da Jade Preciosa [寶玉搖籃]",
+                    "desc": "[CantChangeTarget] \nPrioriza o alvo de menor ordem de Envio\nQuando esta Habilidade alveja o alvo de menor ordem de Envio, causa 0 de dano\n[EndSkill] Quando esta Habilidade alveja a unidade com menor ordem de Envio, Atordoe-os, então transforme-os em [ExpensiveJade] no próximo turno; então, encerre o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118310,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Como uma Tempestade Estrondosa",
+                    "desc": "[CantDuel]\n[CantChangeTarget]\nEssa Habilidade ataca os alvo que não são os de menor ordem de Envio\nUsa o Bando Heishou - Filial Mao para Atordoar cada Identidade exceto a Identidade com menor ordem de Envio no próximo turno; esta unidade se recupera de Atordoamento\n[EndSkill] Encerra o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Você não conhece a profundidade dos poderes do olho, sua natureza especial",
+                    "desc": "Prioriza o alvo com menor Order de Envio\n[WhenUse] Quando houver Baoyu, a Jade Preciosa, converte todas as moedas nesta Habilidade para [SuperCoin]\n[WhenUse] Poder de Moeda +1 para cada 5 de (soma de [Laceration] e [Burst] no alvo) (Máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration] e +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e 1 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Observem-me Por Favor, Ó Xianren...!",
+                    "desc": "Prioriza o alvo de menor ordem de Envio\n[WinDuel] Recebe 5 de [Breath] e +2 Contagem de [Breath]\n[DefeatDuel] Recebe 2 de [AttackUp] e 2 de [DefenseDown] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] e 2 de [Vulnerable] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118707,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ainda não há nada que você possa fazer",
+                    "desc": "[WhenUse] Cura 8 PS\n[WhenUse] Se o alvo principal ter menos que 50% PV, ou se o alvo principal tiver 10+ (soma de [Burst] e [Laceration]), converta as moedas desta Habilidade para [SuperCoin]\n[DefeatDuel] Recebe 1 [Vulnerable]\n- Ao perder um Confronto contra Hong Lu, recebe 2 [Vulnerable] no lugar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] e 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 10 de dano de PS e aumenta  o Limiar de Atordoamento do alvo em 50% do Dano Causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 8 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blasting Shatterslash [爆碎斬]",
+                    "desc": "Prioriza alvos com [Prey] || Pode embater com esta Habilidade independentemente da Velocidade || Poder de Moeda +1 para cada 6 ([Combustion] + [Vibration]) no alvo (máx. 3) || [DefeatDuel] Causa -50% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Vibration] e +4 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] e +3 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tanglecleaver [快刀亂麻]",
+                    "desc": "Prioriza alvos com [Prey] || Pode Embater com esta Habilidade independentemente da Velocidade; esta unidade não fica Atordoada antes de usar esta Habilidade || [WhenUse] Consome toda Carga de [BattleSense] em si. Se esta unidade consumiu... || - ... 10+ Cargas, ganha Peso de Atq +1 para cada 10 Cargas consumidas (máx. 2) || - ... 25 Cargas, Poder Final +1 para cada 4 (soma de [Combustion] e [Vibration] no alvo principal)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend all [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion], Contagem de [Combustion], [Vibration], e Contagem de [Vibration] igual [BulletPropellant] gastas"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] três vezes; então, reduz a Contagem de [Vibration] do alvo por 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+                    "desc": "Prioriza alvos com [Prey] || Pode Embater com esta Habilidade independentemente da Velocidade; esta unidade não fica Atordoada antes de usar esta Habilidade || [WhenUse] Consome toda Carga de [BattleSense] em si. Se esta unidade consumiu... || - ... 10+ Cargas, ganha Peso de Atq +1 para cada 10 Cargas consumidas (máx. 4) || - ... 25 Cargas, Poder Final +1 para cada 4 (soma de [Combustion] e [Vibration] no alvo principal)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +6 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +6 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] 5 vezes; então, reduz a Contagem de [Vibration] do alvo por 5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reloading Tiantui Star's Blade",
+                    "desc": "[WhenUse] Heal 10 SP\n- At less than 0 SP, heal 5 additional SP\n[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Spend 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gimme Candy.",
+                    "desc": "Prioritizes targets with [GiveMeCandy]\n[WhenUse] Coin Power +1 for every [GiveMeCandy] on target (max 5)\n[DefeatDuel] Deal -50% final damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] If target has [GiveMeCandy], the target becomes Staggered next turn."
+                                },
+                                {
+                                    "desc": "[DefeatDuel] Gain Indulged equal to [GiveMeCandy] on target."
+                                },
+                                {
+                                    "desc": "[EndSkill] Remove completamente [GiveMeCandy] do alvo com o qual esta unidade embateu"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Candy.",
+                    "desc": "[BeforeAttack] Ganha +(# de Identidades com [GiveMeCandy]) Peso de Atq (máx. 3) || [WhenUse] Causa +10% de dano para cada Identidade com [GiveMeCandy] (máx. 50%) || [WhenUse] Poder de Moeda +1 para cada [GiveMeCandy] no alvo principal (máx. 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "All of you...",
+                    "desc": "[WhenUse] Coin Power +1 for every [GiveMeCandy] on target (max 5)\n[DefeatDuel] Deal -50% final damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vroom-Vroom",
+                    "desc": "[CantDuel]\n[WhenUse] Deal +20% damage for every Identity with [GiveMeCandy] (max 100%)",
+                    "coindescs": [
+                        {
+                            "desc": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eat. Together.",
+                    "desc": "[WhenUse] Apply 1 [GiveMeCandy] to 2 random enemies(prioritizes enemies without [GiveMeCandy])",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "... Kkomi's angry.",
+                    "desc": "[BeforeAttack] Ganha +(# de Identidades com [GiveMeCandy]) Peso de Atq || [WhenUse] Causa +10% de dano para cada Identidade com [GiveMeCandy] (máx. 50%) || [WhenUse] Ganha Poder de Embate igual ao número de Identidades com [GiveMeCandy] (máx. 5) || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You hit Kkomi.",
+                    "desc": "[DuelCounter]\n[WhenUse] All Parts gain 2 Clash Power Up next turn\n[WhenUse] All Parts gain 2 Haste next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punching",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Dano Contundente +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Dano Contundente +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kicking",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Dano Contundente +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Dano Contundente +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Payback",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] O Alvo perde 5 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Olha As Costas!",
+                    "desc": "If target has less than 0 SP, Coin Power +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 10 PS em si"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] e 2 de [Reduction] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] O Alvo perde 20 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Assemble",
+                    "desc": "[StartBattle] Summon 2 allies next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No More Tests",
+                    "desc": "[WhenUse] Ganha 3 [HitDamageUp] no próximo turno || [WhenUse] Se o alvo principal tem 3+ [MiddleFingerBook], converte todas as Moedas desta Habilidade em [SuperCoin]s || [WhenUse] Se o alvo principal tem 5+ [MiddleFingerBook], ganha +1 Peso de Atq || [DefeatDuel] Causa -80% de dano final",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Promised Suffering",
+                    "desc": "Prioriza alvos com a maior quantidade de [MiddleFingerBook]\n[WhenUse] Se o alvo tiver 3+ de [MiddleFingerBook], converte todas as Moedas nessa habilidade em [SuperCoin]\n[DefeatDuel] Causa -50% de dano final",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] nesse turno e no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] nesse turno e no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove todo [MiddleFingerBook] do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enough games",
+                    "desc": "[StartBattle] Restaura 10 SP em todos os aliados || [EndBattle] Se há aliados em Pânico, recupera-os do Pânico no próximo Início do Turno e zera o SP deles para 0 || [EndBattle] Aplica 1 [HitResultUp] em todos os aliados, incluindo esta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124209,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || Se o alvo principal tem 5+ [MiddleFingerBook], Poder Final +5 || [DefeatDuel] Causa -80% de dano final || [EndSkill] Remove [MiddleFingerBook] de todos os alvos atingidos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
