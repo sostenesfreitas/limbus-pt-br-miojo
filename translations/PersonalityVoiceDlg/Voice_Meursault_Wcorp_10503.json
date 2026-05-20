@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10503_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Diga-me seu destino, e eu o guiarei até lá."
+        },
+        {
+            "id": "lobby_morning_10503_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Há muitas coisas que falho em compreender, e aqueles que chegam atrasados ao trabalho são uma delas. Acredito que chegar pontualmente é um requisito básico para um funcionário cumprir."
+        },
+        {
+            "id": "lobby_noon_10503_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Frequentemente me exponho à luz do sol nesta hora. Pode ser atribuído ao fato de que a natureza da minha ocupação me impedia de vê-la com frequência."
+        },
+        {
+            "id": "lobby_night_10503_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Poucas pessoas gostam de conversar comigo. Isso faria de você uma estranha, Gerente."
+        },
+        {
+            "id": "smalltalk_10503_1",
+            "desc": "Conversa #1",
+            "dlg": "I am familiar with dead bodies. Familiarity does not assure pleasantness, however."
+        },
+        {
+            "id": "smalltalk_10503_2",
+            "desc": "Conversa #2",
+            "dlg": "Don Quixote diz que está orgulhosa de ter entrado para a W Corp. Achei isso bastante curioso."
+        },
+        {
+            "id": "smalltalk_10503_3",
+            "desc": "Conversa #3",
+            "dlg": "If you’re ever taking a WARP train, you may let me know, Manager. I will personally pick up your pieces."
+        },
+        {
+            "id": "smalltalk_10503_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Se é realmente tão importante empatizar com os outros... eles deveriam ter declarado isso nas diretrizes da empresa."
+        },
+        {
+            "id": "smalltalk_10503_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "A W Corp. viu particularmente muitas demissões. Os funcionários que pediam demissão sempre tinham copiosas quantidades de lágrimas e saliva em seus rostos. Não fiz um esforço ativo para compreender seu comportamento."
+        },
+        {
+            "id": "neglect_10503_1",
+            "desc": "Inativo",
+            "dlg": "Do make sure to return in time."
+        },
+        {
+            "id": "gacksung_10503_1",
+            "desc": "Enlaçamento",
+            "dlg": "Promotions… That, I am used to."
+        },
+        {
+            "id": "formation_10503_1",
+            "desc": "Envio",
+            "dlg": "Understood, I’ll get you to your destination."
+        },
+        {
+            "id": "battleentry_10503_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Onto our destination."
+        },
+        {
+            "id": "battle_select_10503_1",
+            "desc": "Visto em Batalha",
+            "dlg": "You are certainly a peculiar individual."
+        },
+        {
+            "id": "battle_endcommand_10503_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Removing obstacles."
+        },
+        {
+            "id": "battle_enemy_break_10503_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "I am not particularly amused."
+        },
+        {
+            "id": "battle_break_10503_1",
+            "desc": "Atordoado",
+            "dlg": "Humpf!"
+        },
+        {
+            "id": "battle_kill_10503_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Não vou ter que recolher esses restos."
+        },
+        {
+            "id": "battle_allydead_10503_1",
+            "desc": "Aliado Morto",
+            "dlg": "I’ll collect their remains later."
+        },
+        {
+            "id": "choice_success_p_10503_2",
+            "desc": "Passou no Teste",
+            "dlg": "I merely followed the procedures."
+        },
+        {
+            "id": "choice_fail_n_10503_1",
+            "desc": "Falha no Teste",
+            "dlg": "Isso não estava nos procedimentos."
+        },
+        {
+            "id": "battle_clear_10503_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Os cadáveres aqui são mais resistentes do que aqueles com que trabalho."
+        },
+        {
+            "id": "battle_clear_ex_10503_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Todos eles foram segmentados em pedaços adequados."
+        },
+        {
+            "id": "battle_defeat_10503_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "It’s a necessary step for familiarization."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10207_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Starting work on Contained Abnormality T-01-54."
+        },
+        {
+            "id": "lobby_morning_10207_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Bom dia, Gerente. Por favor compartilhe comigo a lista descendente de hoje do Trabalho para as Anormalidades, e eu o repassarei à equipe."
+        },
+        {
+            "id": "lobby_noon_10207_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Parece-me que os Clerks estão tendo um ótimo almoço juntos. Nós, Agentes da Equipe de Controle, não preferimos particularmente jantar em grupo... Mas devo me perguntar se é isso que a Sra. Malkuth gostaria que fizéssemos."
+        },
+        {
+            "id": "lobby_night_10207_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Progresso do Trabalho em 95%. Não devemos ter problemas em alcançar nossa meta de PE-Box hoje. Bom trabalho."
+        },
+        {
+            "id": "smalltalk_10207_1",
+            "desc": "Conversa #1",
+            "dlg": "O 'Forsaken Murderer'? Hm. Suponho que se destaque por não ter uma preferência particular por nenhum tipo de Trabalho. Parece que evitar Trabalho de Repressão é aconselhável, no entanto."
+        },
+        {
+            "id": "smalltalk_10207_2",
+            "desc": "Conversa #2",
+            "dlg": "Prevejo pouco trabalho pela frente, contanto que o funcionário designado tenha um entendimento decente deste Trabalho. Um mau resultado, contudo, pode levar a Anormalidades quebrarem a contenção."
+        },
+        {
+            "id": "smalltalk_10207_3",
+            "desc": "Conversa #3",
+            "dlg": "Os trajes E.G.O designados a nós parecem adequados. Contudo, tenho recebido relatos de funcionários com fortaleza mental mais fraca de que sentem como se a camisa-de-força estivesse se contraindo ao redor deles. Esses trajes são fracos contra dano BRANCO, afinal..."
+        },
+        {
+            "id": "smalltalk_10207_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Este E.G.O gift não é tão desconfortável quanto eu esperava. Embora tenha sido equipado sem meu conhecimento."
+        },
+        {
+            "id": "smalltalk_10207_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Estou curiosa: como é a sensação quando sua cabeça lentamente se transforma em metal? Ele consegue sentir isso? Sua cabeça toca quando este martelo esmaga nossos inimigos?"
+        },
+        {
+            "id": "neglect_10207_1",
+            "desc": "Inativo",
+            "dlg": "... More banging noises, again..."
+        },
+        {
+            "id": "gacksung_10207_1",
+            "desc": "Enlaçamento",
+            "dlg": "Control Team Captain, Agent Faust. Commencing suppression of the Green Dawn Ordeal as per the Manager's orders."
+        },
+        {
+            "id": "formation_10207_1",
+            "desc": "Envio",
+            "dlg": "I am ready."
+        },
+        {
+            "id": "battleentry_10207_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Preparing to suppress."
+        },
+        {
+            "id": "battle_select_10207_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Do you require more Work to be done?"
+        },
+        {
+            "id": "battle_endcommand_10207_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Containment Breach confirmed."
+        },
+        {
+            "id": "battle_enemy_break_10207_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "The entity is weakening."
+        },
+        {
+            "id": "battle_break_10207_1",
+            "desc": "Atordoado",
+            "dlg": "Uh..."
+        },
+        {
+            "id": "battle_kill_10207_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Escaped entity neutralized."
+        },
+        {
+            "id": "battle_dead_10207_1",
+            "desc": "Morte",
+            "dlg": "Suppression Work failed..."
+        },
+        {
+            "id": "choice_success_p_10207_2",
+            "desc": "Passou no Teste",
+            "dlg": "That was an adequate side work."
+        },
+        {
+            "id": "choice_fail_n_10207_1",
+            "desc": "Falha no Teste",
+            "dlg": "Este Trabalho não está alinhado com meus pontos fortes... vou anotar isso nos registros."
+        },
+        {
+            "id": "battle_clear_10207_1",
+            "desc": "Grito de Vitória",
+            "dlg": "We can end the Suppression Work here. Returning to management."
+        },
+        {
+            "id": "battle_clear_ex_10207_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Ameaça Suprimida. Recomendo que se familiarize com esses alarmes. Faust sabe que temos muitos dias até o 50º dia."
+        },
+        {
+            "id": "battle_defeat_10207_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Trabalho de Supressão da Equipe de Controle falhou. Solicitando assistência dos outros departamentos..."
+        }
+    ]
+}

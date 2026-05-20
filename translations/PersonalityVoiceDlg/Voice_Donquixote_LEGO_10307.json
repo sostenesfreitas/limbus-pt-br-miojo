@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10307_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Já contemplastes alguma vez uma Lanterna tão grosseiramente incandescente? Permanecei a meu lado, e a escuridão jamais nos há de consumir!"
+        },
+        {
+            "id": "lobby_morning_10307_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Hoje é mais um dia! Assim hei de labutar para reunir mais energia. Não te encontras tu deleitado com a ideia dos numerosos acontecimentos neste corredor hoje?"
+        },
+        {
+            "id": "lobby_noon_10307_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "'Tis time for a midday meal. I am far from famished... alas, these little teeth fellows are chattering expectantly. Heh heh."
+        },
+        {
+            "id": "lobby_night_10307_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Em verdade, não é hora de a Lanterna brilhar?"
+        },
+        {
+            "id": "smalltalk_10307_1",
+            "desc": "Conversa #1",
+            "dlg": "Vinde cá e contemplai, senhor Patrão! Não é fascinante ver tão belíssima flor no meio de um corredor? Olhai! Se eu a cutuco assim, ela se mexe e estremece..."
+        },
+        {
+            "id": "smalltalk_10307_2",
+            "desc": "Conversa #2",
+            "dlg": "Eita!!! Não ouviste tu a sirene indicando que uma Anormalidade está à solta? Pressa, pressa! Abri caminho! Esta é minha chance de brilhar!"
+        },
+        {
+            "id": "smalltalk_10307_3",
+            "desc": "Conversa #3",
+            "dlg": "Bem quente é este traje peludo! Ah, tomai cuidado para não acariciá-lo demais. Pode mordiscar teu dedo. Ou dedos...!"
+        },
+        {
+            "id": "smalltalk_10307_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "A Dama Outis <color=#325339>(É a Capitã Outis!)</color>, ahem, partilhou algo comigo... Que eu posso ser bem adepta em desempenhar o papel de 'isca'! Escondei-vos rapidamente atrás de mim ao primeiro sinal de perigo, deveis!"
+        },
+        {
+            "id": "smalltalk_10307_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Contemplai esta Lanterna por um instante. Não sentis dentro de vós o coração quente e a boa fortuna a rumorejar? || Mesmo num lugar como este onde a boa fortuna parece tão indisponível..."
+        },
+        {
+            "id": "neglect_10307_1",
+            "desc": "Inativo",
+            "dlg": "Para onde fostes, senhor Patrão?! Não podeis deixar a Lanterna emboscar-vos e mordiscar-vos!"
+        },
+        {
+            "id": "gacksung_10307_1",
+            "desc": "Enlaçamento",
+            "dlg": "I cannot contain my joy Manager Esquire!!! Prithee, bring forth more villains for me to thrash!"
+        },
+        {
+            "id": "formation_10307_1",
+            "desc": "Envio",
+            "dlg": "I! Can be quite the excellent bait, if I do say so myself!"
+        },
+        {
+            "id": "battleentry_10307_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Ah, my time to flash has come once again!"
+        },
+        {
+            "id": "battle_select_10307_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Is there aught else to suppress?!"
+        },
+        {
+            "id": "battle_endcommand_10307_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "I shall chew thee to shreds!"
+        },
+        {
+            "id": "battle_enemy_break_10307_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Só esperai! Sereis devorado por inteiro sem demora!"
+        },
+        {
+            "id": "battle_break_10307_1",
+            "desc": "Atordoado",
+            "dlg": "... 'Twas but a moment of hesitation."
+        },
+        {
+            "id": "battle_kill_10307_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Om nom."
+        },
+        {
+            "id": "battle_dead_10307_1",
+            "desc": "Morte",
+            "dlg": "So I have always... shone so brightly..."
+        },
+        {
+            "id": "choice_success_p_10307_2",
+            "desc": "Passou no Teste",
+            "dlg": "Ah... to follow the Lantern is to walk the path of answers!"
+        },
+        {
+            "id": "choice_fail_n_10307_1",
+            "desc": "Falha no Teste",
+            "dlg": "The answer... yet remains out of sight."
+        },
+        {
+            "id": "battle_clear_10307_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Have I not flashed so radiantly today?!"
+        },
+        {
+            "id": "battle_clear_ex_10307_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Thus I have gobbled them up without a trace! I hope Miss Hod finds it within herself to compliment mine achievements!"
+        },
+        {
+            "id": "battle_defeat_10307_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Eita, fui eu a ser engolida por estas mesmas presas..."
+        }
+    ]
+}

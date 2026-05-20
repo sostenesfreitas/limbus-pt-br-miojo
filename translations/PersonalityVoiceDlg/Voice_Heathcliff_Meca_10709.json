@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10709_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Today's slow as shite, innit...?"
+        },
+        {
+            "id": "lobby_morning_10709_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Tomara que tenha um contrato de campo esperando a gente no Escritório. Melhor do que ficar de bunda parada lá a manhã toda."
+        },
+        {
+            "id": "lobby_noon_10709_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Enjoy your lunches, lads. I think I'll get a little shut-eye in the office."
+        },
+        {
+            "id": "lobby_night_10709_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Quer saber por que tô de cara emburrada na hora de bater o ponto pra sair? Porque bater o ponto de novo amanhã soa simplesmente horrível, é por isso."
+        },
+        {
+            "id": "smalltalk_10709_1",
+            "desc": "Conversa #1",
+            "dlg": "Contrato de escavação de liga de crosta superior da X Corp.? Bem, suponho que isso tá bom pra umas marteladas de mente vazia... || Eles vão alugar o equipamento de escavação pra gente?"
+        },
+        {
+            "id": "smalltalk_10709_2",
+            "desc": "Conversa #2",
+            "dlg": "Equipei algo pra expandir a frequência audível dos meus tímpanos ou sei lá o quê, mas eles amplificam todo tipo de barulho... tá ficando bem irritante. || Talvez eu devesse trocar por outra coisa? Mas o custo... tsc, suponho que vai dar tudo certo de algum jeito."
+        },
+        {
+            "id": "smalltalk_10709_3",
+            "desc": "Conversa #3",
+            "dlg": "Ei, relógio. Quer ver algo tão maneiro quanto essa sua cabeça pegando fogo? || Eu consigo mover meus antebraços num eixo vertical. Cotovelos humanos não conseguem fazer isso, né? Dá uma olhada, olha~!"
+        },
+        {
+            "id": "smalltalk_10709_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "O MultiCrack Office só aceita aplicações de Solucionadores com próteses. Alguma coisa sobre como ter corpo protético ajuda a embotar o medo em combate, eu acho. || Bem, é exatamente assim que muitos morrem. Como vão saber onde estão machucados sem dor?"
+        },
+        {
+            "id": "smalltalk_10709_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Nossa viagem de negócios é para... hã, T Corp.? É onde fica aquela mansão. Bem bem bem, agora que arranjei uma carreira respeitável, eu devia— || ... Aff, não vale a pena. Por que eu pensei em voltar pra aquela mansão horrível? Não há... absolutamente nenhuma razão pra eu rastejar de volta àquele buraco."
+        },
+        {
+            "id": "neglect_10709_1",
+            "desc": "Inativo",
+            "dlg": "... Yaaawn."
+        },
+        {
+            "id": "gacksung_10709_1",
+            "desc": "Enlaçamento",
+            "dlg": "Ei, ei... Esse aqui tá morto! Sério, você morreu mesmo de levar uns furos no tronco?"
+        },
+        {
+            "id": "formation_10709_1",
+            "desc": "Envio",
+            "dlg": "Ooh...! Is it a field contract?"
+        },
+        {
+            "id": "battleentry_10709_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Woah, hang on... I ain't fully charged yet."
+        },
+        {
+            "id": "battle_select_10709_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Come on, out with it."
+        },
+        {
+            "id": "battle_endcommand_10709_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Outta my way! Let me at 'em first!"
+        },
+        {
+            "id": "battle_enemy_break_10709_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Now sit tight, you..."
+        },
+        {
+            "id": "battle_break_10709_1",
+            "desc": "Atordoado",
+            "dlg": "Huh...?"
+        },
+        {
+            "id": "battle_kill_10709_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Oi, you dead already?"
+        },
+        {
+            "id": "battle_dead_10709_1",
+            "desc": "Morte",
+            "dlg": "Huh, didn't think this would kill me..."
+        },
+        {
+            "id": "choice_success_p_10709_2",
+            "desc": "Passou no Teste",
+            "dlg": "I think this is how it's 'sposed to work... ah, I did it."
+        },
+        {
+            "id": "choice_fail_n_10709_1",
+            "desc": "Falha no Teste",
+            "dlg": "Oh bollocks, I fried my circuitry. Why'd you make me do this?"
+        },
+        {
+            "id": "battle_clear_10709_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Terminamos o contrato, mas... hm, como dizer? Não é muito... gratificante..."
+        },
+        {
+            "id": "battle_clear_ex_10709_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Beleza, acho que nossos clientes vão ficar bem satisfeitos vendo o quanto a gente destruiu eles. Vamos voltar."
+        },
+        {
+            "id": "battle_defeat_10709_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Se você não tem certeza se é ok dizer alguma coisa, não diz nada. Já tô irritado o bastante com esse contrato fracassado..."
+        }
+    ]
+}
