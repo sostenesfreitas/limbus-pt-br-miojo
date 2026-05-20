@@ -1,0 +1,563 @@
+﻿{
+    "dataList": [
+        {
+            "id": 133303,
+            "name": "Dama de Ferro - Desfibrilação",
+            "desc": "Ao ser Atordoado, recupera-se do Atordoamento e termina este turno (1 vez por Encontro)"
+        },
+        {
+            "id": 133101,
+            "name": "Cada parte de meu corpo é de Tibia.",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Recebe -50% de dano de [Laceration] || || Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento. Em seguida, ganha 2 [CrimsonTakeDamageUp] e fica incapaz de usar 'Installation Art no. 3: Improvised Ribcage' até o próximo turno (1 vez por Encontro) || || Fim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si mesma (máx. 15)"
+        },
+        {
+            "id": 133102,
+            "name": "Arte Corpo-cêntrica",
+            "desc": "Ao entrar no Encontro, restaura 30 SP || || Ao Acertar com Habilidade de Ataque: Se esta unidade aplica efeito negativo e ganha efeito benéfico simultaneamente, restaura 4 SP ao Fim do Ataque || - Se esta unidade está com SP máximo ao restaurar SP pelo efeito acima, ganha 1 [ResultEnhancement] no próximo turno (1 vez por turno)",
+            "flavor": "Uma forma de arte que esculpe e exibe obras usando ossos e músculos como matéria-prima. Cada ato de criação incorpora até o menor dos fragmentos de osso na arma intrincadamente forjada pela artista."
+        },
+        {
+            "id": 133103,
+            "name": "A Estética está dentro da Coleta e o Processamento dos materiais frescos.",
+            "desc": "Após usar uma Habilidade, ganha 30 [HumanBoneTheRings] e 1 [HumanBloodTheRings] para cada alvo danificado pela Habilidade desta unidade"
+        },
+        {
+            "id": 133104,
+            "name": "Magnum Opus: Tibia",
+            "desc": "Fim do Turno: Em 206 [HumanBoneTheRings] e 5 [HumanBloodTheRings], reduz a Carga de cada efeito em valores iguais a esses números respectivamente e ganha 1 [MineTheRings] || || Início do Turno: Se esta unidade tem [MineTheRings], usa um ataque poderoso neste turno || || <color=#ff6000><mark=#ff000040><b><u>Ao ser atingida por uma Habilidade de Ataque antes de usar o ataque poderoso, ganha 1 [PlusCoinValueDown] e 1 [ResultReduction]</u></b></mark></color> (1 vez por Habilidade; máx. 3 vezes por turno)",
+            "flavor": "Tibia, a obra-prima da vida da artista, completada quebrando seu próprio corpus e derramando seu sangue até a última gota — no sentido mais literal."
+        },
+        {
+            "id": 133105,
+            "name": "Arte Satisfatória",
+            "desc": "Quando [MineTheRings] expira, as seguintes unidades restauram 30 SP e ganham 2 [AttackUp] e 2 [DefenseUp] no próximo turno: || - Mãe Tutora do Anelar - Callisto || - Aprendiz do Anelar - Albina || - Teatro do Corpus[TabExplain]"
+        },
+        {
+            "id": 133106,
+            "name": "Vamos por um momento desfrutar da Exibição de minha Pupila?",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 133107,
+            "name": "Transcendendo o Corpo",
+            "desc": "Com menos de 50% de HP, recupera-se do Atordoamento e termina este turno || - Após a ativação deste efeito, equipa 'Closing Time - Installation Art no. 1: Your Flesh and Bones as the Gallery's Seats' no último Slot de Habilidade desta unidade no início do próximo turno"
+        },
+        {
+            "id": 133109,
+            "name": "Para a audiência que está Correndo por aí, Por favor Sente-se e Aproveitem o show.",
+            "desc": "Fim do Turno: Aplica [RedemptionTheRings] no próximo turno ao Pecador e Unidade de Apoio com maior Velocidade"
+        },
+        {
+            "id": 133201,
+            "name": "Bondage",
+            "desc": "Aplica os seguintes efeitos à unidade vinculada ao Teatro do Corpus: || - Torna-se 'imobilizada' || - Buffs, HP e SP desta unidade não podem ser alterados"
+        },
+        {
+            "id": 133202,
+            "name": "Ingredient Harvest",
+            "desc": "Se o Teatro do Corpus é destruído pela Mãe Tutora do Anelar, a unidade vinculada fica indisponível para o Encontro"
+        },
+        {
+            "id": 133203,
+            "name": "Fuga da Arte",
+            "desc": "Se o Teatro do Corpus é destruído por unidades que não sejam a Mãe Tutora do Anelar, ativa os seguintes efeitos: || - A unidade vinculada retorna à batalha no próximo turno; se a unidade está com menos de 10 SP, restaura SP a 10 || - A Mãe Tutora do Anelar e a Aprendiz do Anelar perdem 10 SP || - Ganha 2 de Recurso E.G.O para todas as Afinidades"
+        },
+        {
+            "id": 133204,
+            "name": "Flammable Material",
+            "desc": "Take x2 damage from [Combustion]"
+        },
+        {
+            "id": 133601,
+            "name": "A Pulsação do Corpo usada como material.",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Recebe -50% de dano de [Laceration] || || Fim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si mesma (máx. 15)",
+            "flavor": "Fáscia é feita da carne e do sangue de Albina. || Agora, Albina tem apenas o cérebro, enquanto Fáscia carece apenas do cérebro. || Para refletir: qual delas possui o verdadeiro corpus?"
+        },
+        {
+            "id": 133602,
+            "name": "Corporalismo",
+            "desc": "Ao Acertar com Habilidades de Ataque: Se esta unidade aplica efeito negativo e ganha efeito benéfico simultaneamente, restaura 4 SP || - Se esta unidade está com SP máximo ao restaurar SP pelo efeito acima, ganha 1 [Agility] no próximo turno (2 vezes por turno)"
+        },
+        {
+            "id": 133603,
+            "name": "Fascia, Minha Preciosa Obra de Arte",
+            "desc": "Fim do Turno: Em 2 [HumanFleshTheRings], remove [HumanFleshTheRings] e ganha [BoneBladeTheRings] no próximo turno || || Início do Turno: Se esta unidade tem [BoneBladeTheRings], usa um ataque poderoso neste turno || || <color=#ff6000><mark=#ff000040><b><u>Ao ser atingida por uma Habilidade de Ataque antes de usar o ataque poderoso, ganha 1 [PlusCoinValueDown] e 1 [ResultReduction]</u></b></mark></color> (1 vez por Habilidade; máx. 3 vezes por turno)"
+        },
+        {
+            "id": 133604,
+            "name": "Galerias de Arte tem suas próprias Regras para Visitantes, sabia.",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 133606,
+            "name": "Irei me provar através de meu trabalho, Maestro.",
+            "desc": "Com menos de 20 SP quando a Mãe Tutora do Anelar entra no Encontro, restaura SP a 20"
+        },
+        {
+            "id": 132701,
+            "name": "Tatuagens da Vingança [<s>Grande Irmão</s>]",
+            "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration] e [Burst] (arredondado para baixo) || -50% da quantidade de Limiar de Atordoamento elevado (arredondado para baixo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132702,
+            "name": " O Livro da Vingança",
+            "desc": "Início do Encontro: Aplica [VengeanceBookSpider] em todos os Pecadores e unidades LCD || || Se esta unidade acertou com mais de 3 Habilidades neste turno, ganha 1 [ReinforcedTattooSpider] no próximo turno para cada Habilidade excedente que acertou",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132703,
+            "name": "Educação Paterna",
+            "desc": "Ao Vencer Embate, ganha 1 [DaughterEducationSpider] || || Ao Acertar com uma Habilidade, ganha 1 [DaughterEducationSpider] (1 vez por Habilidade; este efeito não ativa para Moedas Trincadas) || || Ao Vencer Embate com a primeira Habilidade usada em um turno, ganha mais 1 [DaughterEducationSpider] e a Habilidade ganha Poder de Moeda +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132704,
+            "name": "Ressentimento",
+            "desc": "Ao ser atingida por 2 Habilidades, ganha 1 [ResentmentSpider] e perde 1 [DaughterEducationSpider] (o número de acertos sofridos é sempre rastreado) || || Em Carga máxima de [ResentmentSpider], usa um ataque poderoso || || Fim do Turno: Com menos de 80% / 60% / 40% de HP, maximiza a Carga de [ResentmentSpider] desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132706,
+            "name": "???",
+            "desc": "???",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 134101,
+            "name": "Tatuagens da Vingança Poder Maximizado... Lævateinn Selo Liberado!",
+            "desc": "Quando [MiddleFatherSwordFour] é liberado, esta unidade ganha [MiddleFatherGuts] || || Mira a unidade com [MosesRedBreathCharge]",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132801,
+            "name": "É desse jeito, né, Pai?!",
+            "desc": "Inicia o Encontro com [HeatingWireOffSpider] || || Início do Turno: Com 3+ [GotACompliment], ganha [HeatingWireOnSpider] pelo turno e também aplica [Combustion] com Habilidades que aplicam [Laceration] || || Fim do Turno: Com menos de 3 [GotACompliment], converte [HeatingWireOnSpider] desta unidade para [HeatingWireOffSpider]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'Eu gosto do papai porque ele sempre me elogia e me compra gibis.'"
+        },
+        {
+            "id": 132802,
+            "name": "The Middle Styled Tattoos",
+            "desc": "Se esta unidade acertou com mais de 2 Habilidades, ganha 1 [ReinforcedTattooSpiderDaughter] no próximo turno para cada Habilidade excedente que acertou",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'Será que as Irmãs e Irmãos maiores do Médio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
+        },
+        {
+            "id": 132803,
+            "name": "Elogios Podem Encantar Até o Coração Mais Escuro",
+            "desc": "Ao Vencer Embate, ganha 1 [GotACompliment] || || Ao Acertar com uma Habilidade, ganha 1 [GotACompliment] (1 vez por Habilidade; este efeito não ativa para Moedas Trincadas) || || Ao Vencer Embate com a primeira Habilidade usada em um turno, ganha mais 1 [GotACompliment] e a Habilidade ganha Poder de Moeda +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132804,
+            "name": "O Meio nunca esquece, tenho certeza disso",
+            "desc": "Ao ser atingida por 2 Habilidades, ganha 1 [ResentmentSpiderDaughter] e perde 1 [GotACompliment] (o número de acertos sofridos é sempre rastreado) || || Em Carga máxima de [ResentmentSpiderDaughter], usa um ataque poderoso || || Fim do Turno: Com menos de 80% / 60% / 40% de HP, maximiza a Carga de [ResentmentSpiderDaughter] desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 134201,
+            "name": "É desse jeito, né, Pai?!",
+            "desc": "Inicia o Encontro com [HeatingWireOffSpider] || || Início do Turno: Com 3+ [GotACompliment], ganha [HeatingWireOnSpider] pelo turno e também aplica [Combustion] com Habilidades que aplicam [Laceration] || || Fim do Turno: Com menos de 3 [GotACompliment], converte [HeatingWireOnSpider] desta unidade para [HeatingWireOffSpider]",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 134202,
+            "name": "Woaah... Isso parece super perigoso!",
+            "desc": "Se a Mãe Tutora do Médio tem [MiddleFatherSwordFour], não entra no estado [HeatingWireOffSpider] || || Mira a unidade com [MosesRedBreathCharge]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "A combinação de seus instintos animalescos e da experiência de combate grita-lhe em uníssono: || Seja lá o que aquela coisa vermelha for, se ela não impedir aquele ataque, ele <b>vai</b> matar."
+        },
+        {
+            "id": 132601,
+            "name": "Batalha Amedrontadora",
+            "desc": "Inicia a batalha com 20% de HP faltando || Nos primeiros 3 turnos do Encontro, ganha 2 [ResultReduction]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "Lutar contra uma Cor irá certamente fazer ele mais forte.\nCaso ele sobreviver e usar a experiência como combustível para crescer"
+        },
+        {
+            "id": 132602,
+            "name": "Postura Enfraquecida",
+            "desc": "Ganha os seguintes efeitos com base na Carga de [DuelEdge] do alvo || - Para cada Carga, causa +10% de dano contra e recebe -10% de dano do alvo com [DuelEdge] || - Com 3+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder de Embate +1 || - Com 5+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder Base +1 || - Com 7+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder de Moeda +1 || - Com 10+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder Final +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132603,
+            "name": "Aflição Desesperada",
+            "desc": "Depois que o Pai Tutor do Polegar entra em campo, desativa a Passiva \"Marca do Caçador\" e ganha os seguintes efeitos no lugar: || - Com menos de 30 SP, restaura até 30 SP || - Início do Turno: Ganha 3 [SupportProtect] || <color=#ff6000><mark=#ff000040><b><u>- Pode Embater independentemente da Velocidade || - Prioriza Embater contra Vergílio</u></b></mark></color> || - Quando o Pai Tutor do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
+            "summary": "",
+            "undefined": "",
+            "flavor": "'Agora mesmo, talvez consiga matar ela.'\n\nContemplando a sua mestra dormir, Lucio teve esse mesmo pensamento mais outra vez.\nA razão pela qual ele não agiu de acordo com esses pensamentos foi por um medo profundo e a gratidão que sentia por ser resgatado dos becos.\nMas o ressentimento que cresceu dentro de si era profundo. Mesmo que seguisse as ordens com vontade, Lucio fez um voto de silêncio.\n'Depois que essa batalha acabar, irei matá-la. Irei retirar seu olho e então perfurar e dilacerar ela, de novo e de novo, até que ela não possa mais se mover.'\nPela primeira vez, uma faísca de vida começou a brilhar diante os olhos do garoto coberto de machucados."
+        },
+        {
+            "id": 132604,
+            "name": "Hunter's Mark",
+            "desc": "Seleciona aleatoriamente um inimigo, reduz a Velocidade dele para 1, e mira-o com todas as Habilidades desta unidade || Ativa-se a cada 4 turnos após a ativação inicial",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132606,
+            "name": "Duello Disperato",
+            "desc": "Após o Embate, aplica 1 [DuelEdge] contra o alvo com quem esta unidade Embateu || Em um Embate contra alvos com [DuelEdge], restaura 2 SP para cada Carga de [DuelEdge] no alvo (máx. 10)"
+        },
+        {
+            "id": 131401,
+            "name": "O Olho da Precognição",
+            "desc": "Ao entrar no Encontro, ganha 30 [FutureEyeOn] || Com 0 de Carga de [FutureEyeOn], converte [FutureEyeOn] para [FutureEyeOff]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "Esta Relíquia, conhecida como o Olho de Odin, é apenas um terço de uma Relíquia inteira que foi partida em três."
+        },
+        {
+            "id": 131402,
+            "name": "Acelerando o Futuro",
+            "desc": "Em um Embate, <color=#ff6000><mark=#ff000040><b><u>ganha 1 [LookingFuture] a cada Embate</u></b></mark></color> || Pode ganhar até ([FutureEyeOn] Carga no Início do Turno / 3) [LookingFuture] por turno || Enquanto esta unidade tem [FutureEyeOn], <color=#ff6000><mark=#ff000040><b><u>ser atacada por Ataques Sem Oposição ou perder um Embate ativa a Habilidade \"Precognição\"</u></b></mark></color>",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Quanto mais embatemos, mais quente fica minha lâmina... e acelera para nos levar ao futuro que previ.\""
+        },
+        {
+            "id": 131408,
+            "name": "Sobrecarregado",
+            "desc": "O seguinte faz esta unidade perder Carga de [FutureEyeOn]: || - Se esta unidade falha em ganhar [LookingFuture], perde 1 [FutureEyeOn] a cada Embate || - Quando esta unidade é atacada por um Ataque Sem Oposição, perde 1 [FutureEyeOn] || - Ao Perder Embate, perde 3 [FutureEyeOn]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'The eye's heating up, its socket is starting to ache, and my vision is turning red.'"
+        },
+        {
+            "id": 131405,
+            "name": "La Spada di Palermo",
+            "desc": "Causa +15% a mais de dano contra Escudos para cada Queimadura no alvo principal (máx. 300%) || Ao Usar Habilidade, se a Habilidade de Ataque do alvo é Talho ou Perfuração, Poder de Embate +1 || Se os efeitos da Habilidade desta unidade dispararam [VibrationExplosion], ganha 2 [AttackDmgUp] no próximo turno (3 vezes por turno) || Se esta unidade acertou Criticamente com os efeitos da Habilidade, restaura 5 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 131404,
+            "name": "A Vergonha da Famiglia Bognatelli",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Laceration], [Burst], [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Com 1+ [AccelBullet], Habilidades que gastam [AccelBullet] causam +30% de dano e causam +150% de dano contra Escudos || Ganha 4 [Breath] para cada [AccelBullet] gasto || Ao lançar uma Moeda que gasta [AccelBullet], não cancela o ataque mesmo que esta unidade não tenha Tiro de Aceleração",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Tu eras uma herdeira do estilo Palermitano e portadora da relíquia de família — tinhas todo privilégio com que alguém poderia sonhar. Como ousas envergonhar-te assim?\" || \"Deixaremos que fiques com a Relíquia e a espada, pois foram contaminadas pelo teu fedor desonroso.\" || \"Ser promovida ao posto de Sottocapo, uma Subchefe... só para ser deposta em meros 3 dias. Ninguém mais sofreu humilhação tão patética além de ti, Valencina.\" || \"És a vergonha da nossa família. La Famiglia Bognatelli retira o seu amor de ti.\""
+        },
+        {
+            "id": 131409,
+            "name": "Shin (心) - Valencina",
+            "desc": "Ao ser atingido, ou quando \"O Aprendiz do Polegar - Lúcio\" é derrotado, ganha [ObsessionAndGreed] no próximo turno",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"*suspiro* Tá. Então, você está dizendo que a gente consegue o Ticket de volta indo lá e destruindo o lugar segundo o plano daquele fanático... Isso vai trazer mesmo o Ticket de volta pra gente?\""
+        },
+        {
+            "id": 131406,
+            "name": "Lucio. Seu pedaço de merda inútil!",
+            "desc": "When \"The Thumb Apprentice - Lucio\" is defeated, activate \"Time to Hunt\" Passive",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 131410,
+            "name": "Hora da Caça",
+            "desc": "Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento || || Seleciona um Pecador aleatoriamente e aplica [TeachersPrey] || - Ativa-se a cada 4 turnos após a ativação inicial || - Se esta unidade matar o alvo com a Habilidade \"Disposal\", ativa-a novamente no próximo turno",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "O Estilo Palermitano tem muito em comum com a originadora da técnica da espada — La Famiglia Bognatelli. || Tanto a Famiglia quanto o estilo da espada são renomados por focar implacavelmente em uma única presa durante uma caçada, que é concluída com um Coup de Grâce que poderia muito bem ser chamado de dissecação. Essas execuções não são realizadas nas sombras, mas, em vez disso, orgulhosamente exibidas para todos verem. || O estilo de espada espetacular e formidável concedeu à Famiglia muita honra e prestígio, garantindo-lhes um lugar entre as Sette Famiglie dos Becos. || Valencina, mestre do Estilo Palermitano, usou-o para caçar e executar muitos oficiais e os ditos soldados experientes durante a Guerra da Fumaça, tornando-se uma verdadeira \"Heroína de Guerra\". || Ironicamente, ninguém poderia ter imaginado que sua queda afundaria tão baixo quanto sua fama outrora se elevou."
+        },
+        {
+            "id": 134501,
+            "name": "Cada parte de meu corpo é de Tibia.",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Recebe -50% de dano de [Laceration] || || Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento. Em seguida, ganha 2 [CrimsonTakeDamageUp] (1 vez por Encontro) || || Fim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si mesma (máx. 15)",
+            "flavor": "Em breve, a obra-prima será concluída — a raison d'être da Casa das Aranhas. || Os Ramos de Ouro são... objet interessantes, com certeza, mas o fato é que não são essenciais à perfeição da obra-prima. || Duvido que fosse realmente necessário apoderar-se deles e arriscar fazer da Limbus Company uma inimiga... embora eu admita que esses passos de dança desleixados, no fim, se juntaram para formar um final bastante aceitável. || De toda forma, esta série de circunstâncias em que nos encontramos era o desejo de Rien — ou, mais precisamente, o prazer do dito deus em quem ele deposita sua fé. || Há de se perguntar, contudo... É bênção ou maldição ser tão irresistivelmente <i>amado</i> por tal coisa chamada \"deus\"? Fuhuhu..."
+        },
+        {
+            "id": 134502,
+            "name": "Corporalismo",
+            "desc": "Ao Acertar com Habilidades de Ataque: Se esta unidade aplica efeito negativo e ganha efeito positivo simultaneamente, restaura 4 SP ao Fim do Ataque || - Se esta unidade está com SP máximo ao restaurar SP pelo efeito acima, ganha 1 [ResultEnhancement] no próximo turno (1 vez por turno)"
+        },
+        {
+            "id": 134506,
+            "name": "Vamos por um momento desfrutar da Exibição de minha Pupila?",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 134509,
+            "name": "Bons Materiais vem de um Corpo saudável.",
+            "desc": "Esta unidade causa +150% de dano ao Pecador e Unidade de Apoio de maior nível e prioriza atacá-los",
+            "flavor": "\"Mas uma vez que tenhas alcançado certo nível de maestria, é melhor mirar no corpus mais robusto entre teus ingredientes.\" || \"Veja, um corpus saudável pode prover amplas peças de músculos e ossos para ampliar o escopo e a escala da obra.\" || \"Que perspectivas empolgantes, sim, querida Albina?\""
+        },
+        {
+            "id": 134510,
+            "name": "Magnum Opus: Tibia",
+            "desc": "Fim do Turno: Em 206 [HumanBoneTheRings] e 5 [HumanBloodTheRings], reduz a Carga de cada efeito em valores iguais a esses números e ganha 1 [MineTheRings] || || Início do Turno: Se esta unidade tem [MineTheRings], usa um ataque poderoso neste turno || || <color=#ff6000><mark=#ff000040><b><u>Ao ser atingida por uma Habilidade de Ataque antes de usar o ataque poderoso, ganha 1 [PlusCoinValueDown] e 1 [ResultReduction]</u></b></mark></color> (1 vez por Habilidade; máx. 3 vezes por turno)",
+            "flavor": "Tibia, a obra-prima da vida da artista, completada quebrando seu próprio corpus e derramando seu sangue até a última gota — no sentido mais literal."
+        },
+        {
+            "id": 134604,
+            "name": "Galerias de Arte tem suas próprias Regras para Visitantes, sabia.",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 134605,
+            "name": "Ingredient Selection",
+            "desc": "Este personagem prioriza atacar o Pecador e Unidade de Apoio de menor nível",
+            "flavor": "\"Vou colher primeiro os músculos e ossos do mais fraco.\" || \"Os ingredientes podem não ser dos melhores, mas serei capaz de colher melhores conforme produzo e exibo mais obras.\" || \"Que perspectiva empolgante, não, querida Fáscia?\""
+        },
+        {
+            "id": 132218,
+            "name": "132218",
+            "desc": "(미사용 패시브)",
+            "flavor": ""
+        },
+        {
+            "id": 132214,
+            "name": "Afterimage of the Future",
+            "desc": "A cada poucos turnos, usa a Habilidade \"Adversário Predestinado\" || <color=#ff6000><mark=#ff000040><b><u>Apenas o alvo do ataque desta unidade pode Embater com o referido Slot de Habilidade</u></b></mark></color> || || Se a Habilidade \"Adversário Predestinado\" desta unidade perde um Embate, recebe 36 ~ 60 de dano fixo || || Fim de Combate: <color=#ff6000><mark=#ff000040><b><u>Se cada Habilidade \"Adversário Predestinado\" que esta unidade usou neste turno perdeu um Embate</u></b></mark></color>, ganha 1 [Vulnerable] no próximo turno"
+        },
+        {
+            "id": 132217,
+            "name": "132217",
+            "desc": "(미사용 패시브)"
+        },
+        {
+            "id": 132219,
+            "name": "Lâmina Ferida da Estrela Tiansha [天殺星傷]",
+            "desc": "Encounter Start: Gain [LvDownLittleFingerBossTwo] and 4 [TimeEntangleUnstable]"
+        },
+        {
+            "id": 132222,
+            "name": "Do Anoitecer até o Amanhecer",
+            "desc": "Turn Start: At 0+ SP, gain 1 [SojiAbiAgeFuture]\nGain 1 [SojiAbiAgeFuture] for every 2 SP above 0\n\nTurn Start: At less than 0 SP, gain 1 [SojiAbiAgePast]\nGain 1 [SojiAbiAgePast] for every 2 SP below 0",
+            "flavor": "O passado, o presente, o futuro — as inúmeras instâncias convergem juntas, tornando insignificante a distinção do tempo. Versões juvenis e envelhecidas são puxadas para o aqui e agora a partir de cada ponto ao longo do continuum do tempo."
+        },
+        {
+            "id": 132223,
+            "name": "Spacetime Afterimage Collapse",
+            "desc": "Fim do Turno: Ganha 1 [TimeEntangleUnstable] para cada 5 SP de diferença entre o SP atual desta unidade e o SP no Início do Turno (máx. 5 por turno) || || Para cada 100 de dano sofrido cumulativamente, perde 1 [TimeEntangleUnstable] (incluindo dano em Escudo)",
+            "flavor": "'As imagens residuais que há tanto me envolveram em suas dobras são arrancadas, camada por camada... e eu fico em pé tanto em perda quanto em libertação.'"
+        },
+        {
+            "id": 133701,
+            "name": "Vontade da Prescrição",
+            "desc": "Início do Encontro: Ganha Escudo equivalente a 20% do HP máximo (permanece por todo este Encontro) || || Início do Turno: || - Ganha [IndexPrescript_Base_2nd] com base no estágio de [UnlockBuff_Base] em si mesma || - Aplica [IndexPrescriptTargetToPersonality] em um inimigo aleatório e prioriza atacá-lo (excluindo certo padrão) || || Causa +2,5% de dano a [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 20%) || - Com 9 [BlessingOfIndexPrescriptEnemy], causa +30% de dano a todos os alvos em vez disso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 133702,
+            "name": "Undertake Prescript",
+            "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, restaura 15 SP e ganha [BlessingOfIndexPrescriptEnemy] em (estágio [UnlockBuff_Base] + 1) (1 vez por turno) || || Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 1 [PressureOfPrescript] e 10 [KarmaOfIndexStudent] || - Se o estágio [UnlockBuff_Base] desta unidade está abaixo de 2, ganha 1 [BlessingOfIndexPrescriptEnemy] || - Com 9 [BlessingOfIndexPrescriptEnemy], não ganha [KarmaOfIndexStudent] || || - Ganha [EsteemNeeds] igual a [PressureOfPrescript] ganho toda vez que esta unidade ganha [PressureOfPrescript]",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 133703,
+            "name": "Destrave",
+            "desc": "Fim do Turno: Em 6/9 [BlessingOfIndexPrescriptEnemy] ou em 80%-/60%- HP, || - Ganha [UnlockBuff_2]/[UnlockBuff_3] || - Restaura a 45 SP || - Consome todo [PressureOfPrescript] e recupera-se do Atordoamento || || Se [UnlockBuff_Base] foi ganho com base na condicional de HP acima, || - Ganha [KarmaOfIndexStudent] em (soma de SP restaurado / 15) || - Aumenta [BlessingOfIndexPrescriptEnemy] para 6/9 se esta unidade tinha menos de 6/9 [BlessingOfIndexPrescriptEnemy]; ganha 1 [DefenseDown] e 2 [KarmaOfIndexStudent] no próximo turno para cada [BlessingOfIndexPrescriptEnemy] ganho || || Velocidade Mín. e Máx. +10 no turno em que esta unidade usa seu ataque poderoso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 133704,
+            "name": "E.G.O Florescente::Procuração",
+            "desc": "Por este Encontro, mantém o estado Effloresced[TabExplain] E.G.O::Procuration || - Início do Encontro: Ganha [UnlockBuff_1] e 3 [BlessingOfIndexPrescriptEnemy] || - Ganha [Blandishment_Enemy] e um conjunto diferente de valores de Resistência enquanto neste estado || - SP não cai abaixo de 0",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 133705,
+            "name": "Concentration",
+            "desc": "Em [UnlockBuff_3], aplica os seguintes efeitos: || - [Blandishment_Shin_Enemy], ganha Escudo equivalente a 50% do HP máximo (dura pelo restante deste Encontro) || - Intensifica [PressureOfPrescript] para [PressureOfPrescript_2nd] e maximiza sua Carga || - Início do Turno: Ganha 1 [PressureOfPrescript_2nd]",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 133801,
+            "name": "A Lâmina Ortodoxa [整劍]",
+            "desc": "Encounter Start: gain 50 [DicipleLittleFinger]"
+        },
+        {
+            "id": 133802,
+            "name": "Treinando para Herdar o Título de uma Estrela",
+            "desc": "Fim da Habilidade de Ataque: Causa (# de Moedas de Talho que acertaram Criticamente x 10) de dano de Talho contra cada alvo (não pode ser Atordoado por este dano)"
+        },
+        {
+            "id": 133803,
+            "name": "Foco Único da Mente",
+            "desc": "A Potência de [Breath] desta unidade é limitada a 25 || Qualquer Potência de [Breath] excedente além de 25 será convertida em [DicipleLittleFinger] || || Ganha [Fugacious] equivalente ao [DicipleLittleFinger] perdido toda vez que esta unidade perde Carga de [DicipleLittleFinger]"
+        },
+        {
+            "id": 133804,
+            "name": "Tranquilidade [靜念]",
+            "desc": "Se esta unidade tem [DicipleLittleFinger], ganha os seguintes efeitos: || - SP não cai abaixo de 0; se estiver abaixo de 0, recupera para 0 || - Converte qualquer dano de SP recebido em dano de Tristeza (exceto mudanças de SP devido a \"fatores base que aumentam/diminuem Sanidade\")"
+        },
+        {
+            "id": 133805,
+            "name": "Graça",
+            "desc": "Em um Embate contra alvos que não sejam Ryōshū, Poder de Embate -2 || Recebe -20% de dano de alvos que não sejam Ryōshū"
+        },
+        {
+            "id": 133901,
+            "name": "Os Súditos do Imperador",
+            "desc": "Início do Turno: Ganha 50 [DefenseBug] (Ganha 3 [DefenseBug] a menos a cada turno subsequente; redução máx. 20) || - Se esta unidade tem [Combustion], [Laceration], [Vibration], [Burst] ou [Sinking], <color=#ff6000><mark=#ff000040><b><u>reduz a Potência deles em um valor aleatório; em seguida, perde as mesmas Cargas de [DefenseBug] que esse valor aleatório</u></b></mark></color> || - Se os efeitos acima estão em 1 de Potência mas com Contagem 2+, reduz a Contagem deles em vez disso || || <color=#ff6000><mark=#ff000040><b><u>Se todo [DefenseBug] foi perdido</u></b></mark></color> durante a fase de combate, ganha os seguintes efeitos no próximo turno: || - Ganha 10 [DefenseDown] em vez de ganhar [DefenseBug] || - Gera 2 recursos E.G.O para cada uma das 3 Afinidades menos possuídas || - Fim do Turno: Remove todos os efeitos negativos desta unidade e começa a ganhar [DefenseBug] de novo",
+            "flavor": "Saem rastejando sem aviso de entre todas as linhas que se formam onde paredes se encontram."
+        },
+        {
+            "id": 133902,
+            "name": "O Manto do Imperador",
+            "desc": "Turn Start: Gain ([DefenseBug] x 40) Shield",
+            "flavor": "A Legião de Baratas move-se por ninguém senão seu Imperador."
+        },
+        {
+            "id": 133903,
+            "name": "O Exercito do Imperador",
+            "desc": "- On Clash Win, inflict 3 [OffenseBug] on target\n- On Hit with a Skill, inflict 1 [OffenseBug] on target",
+            "flavor": "Rip, seep, trickle, carve, tear, devour."
+        },
+        {
+            "id": 133904,
+            "name": "O Sangue Imperial",
+            "desc": "Recebe -50% de dano de HP e SP de [Combustion], [Laceration], [Burst] e [Sinking]; -50% no Limiar de Atordoamento elevado por [Vibration] || Não pode ser Atordoada por este dano || Início do Turno: Ganha 2 [ResultReduction] para cada 25% de HP faltando no Núcleo",
+            "flavor": "'Become dulled and inured to all things.'"
+        },
+        {
+            "id": 133905,
+            "name": "O Presente Rasgado",
+            "desc": "O valor de SP desta unidade não pode afetar o resultado dos lançamentos de Moeda, que ficam fixados em 50-50 || || <color=#ff6000><mark=#ff000040><b><u>Ao Vencer Embate contra Pecadores,</u></b></mark></color> perde 5 SP e causa -40% de dano contra eles || || <color=#ff6000><mark=#ff000040><b><u>Quando em estados de Moral Baixo ou Pânico</u></b></mark></color>, ganha [ParryingResultDown] e [ResultReduction] || Ao se recuperar do Pânico, ganha 2 [ResultReduction]",
+            "flavor": "'Are there really no more wrappings underneath?'"
+        },
+        {
+            "id": 133906,
+            "name": "A Ira do Imperador",
+            "desc": "Em 50% de HP, ou ao ser Atordoada, recupera-se do Atordoamento e remove todos os efeitos negativos desta unidade e ganha um novo padrão || Em seguida, ganha os seguintes efeitos: || - Zera o SP para 0 || - Ganha 50 [DefenseBug] || - Dobra a quantidade de [OffenseBug] aplicada pela Passiva \"Legião do Imperador\""
+        },
+        {
+            "id": 134701,
+            "name": "Rien, The Index Nursefather",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Recebe -50% de dano de Ataques Sem Oposição</u></b></mark></color> || Recebe -50% de dano de [Vibration], [Burst] e [Sinking] || Ao restaurar SP por [UnlockBuff_Base], se o SP desta unidade está abaixo de 0, restaura até 0 SP || || Início do Encontro: Ganha [BurningWoundRien_Mask] || || Em 55% de HP, ganha um novo padrão || - Remove todos os efeitos exceto os exclusivos desta unidade || - Zera a Carga de [StackRienSpecialSkill] para 0",
+            "flavor": "Esperei pelo \"momento\" como o Prescript me disse para esperar. || Mesmo depois que minha querida filha partiu, esperei. || || E após um tempo, fui contatado pela Limbus Company e vi que o Backdoor estava aberto. || Foi quando o dispositivo apitou e me avisou que finalmente era hora de trazer minha filha pra casa."
+        },
+        {
+            "id": 134702,
+            "name": "Dispositivo de Oráculo [Caduceus]",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color> || - [RienWeapon01Hatchet] || - [RienWeapon02Stiletto] || - [RienWeapon03Greatsword] || - [RienWeapon04Rapier] || - [RienWeapon05Sledgehammer] || - [RienWeapon06Ultragreatsword] || - [RienWeapon07Lance] || - [RienWeapon08Chain] || - [RienWeapon09Scythe] || || Ao usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill] (máx. 9) || - Pode ser ganho 1 vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes || || <color=#ff6000><mark=#ff000040><b><u>Início do Turno: Com 9 Cargas de [StackRienSpecialSkill], usa uma Habilidade poderosa</u></b></mark></color> || - Fim do Ataque: Após usar a Habilidade poderosa pela primeira vez, ganha [Shin_Rien] || - Zera o limite por Habilidade de [StackRienSpecialSkill] || - Velocidade Mín. e Máx. +25 || - Fim do Turno: Ganha 1 [Vulnerable] e 2 [ResultReduction] no próximo turno || || Início do Turno 5: Com menos de 9 [StackRienSpecialSkill], traz sua Carga a 9; em seguida, ganha (Carga ganha x 5) [KarmaOfIndexRien] || - Em seguida, ativa este efeito a cada 4 turnos",
+            "flavor": "Um frasco com algo parecido com metal líquido capaz de mudar de forma e massa, com qualidades quase como as de Singularidades, balança dentro do Dispositivo. || A forma que o fluido toma depende do Prescript que o Dispositivo recebe. As armas que produz dependem das informações sobre o alvo e do limite de tempo dado para realizar o assassinato. || Um dia, ao receber uma adaga pequena demais para a tarefa, ele optou por esperar até que produzisse uma arma diferente. Contudo, apesar do prazo se aproximando, ele se recusou a fornecer uma arma adequada; ele não teve escolha senão matar seu alvo com um garfo."
+        },
+        {
+            "id": 134703,
+            "name": "Vontade da Prescrição",
+            "desc": "Início do Turno: || - Ganha [IndexPrescript_Base_2nd] com base no estágio [UnlockBuff_Base] em si mesma || - Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório que não seja Ryōshū, e prioriza atacá-lo || <color=#ff6000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color> || · Se [IndexPrescriptTargetToPersonality] é morto, ou se esta unidade não pode mais atacar aquele alvo, <color=#ff6000><mark=#ff000040><b><u>usa as Habilidades restantes contra um Pecador aleatório que não seja Ryōshū (prioriza alvos com menor HP atual)</u></b></mark></color> || · Quando todos os outros Pecadores são mortos, aplica-o em Ryōshū || || Causa +2,5% de dano contra [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 20%) || - Com 9 [BlessingOfIndexPrescriptEnemy], causa +30% de dano contra todos os alvos",
+            "flavor": "Queres que eu crie uma família? || || \"Deve ter sido o destino que nos juntou. Pensar que eu encontraria um marido como você...\""
+        },
+        {
+            "id": 134704,
+            "name": "Undertake Prescript",
+            "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, restaura 10 SP e ganha 3 [BlessingOfIndexPrescriptEnemy] (1 vez por turno) || || <color=#ff6000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 8 [KarmaOfIndexRien], e o Pecador que tinha [IndexPrescriptTargetToPersonality] ganha 1 [ParryingResultUp] no próximo turno</u></b></mark></color> || - Se esta unidade não tem [UnlockBuff_Base], ganha 1 [BlessingOfIndexPrescriptEnemy] ao Fim do Turno || - Com 9 [BlessingOfIndexPrescriptEnemy], não ganha [KarmaOfIndexRien]",
+            "flavor": "Queres que eu perca minha família? || || \"Querido, eu tenho que dar uma viagem rápida pro norte hoje.\" || \"Ah, e também — ei, parceiro. Estou esperando uma encomenda esta tarde, então você pode ser uma graça e pegar pra mim, querido?\""
+        },
+        {
+            "id": 134705,
+            "name": "Destrave",
+            "desc": "Fim do Turno: Em 3/6/9 [BlessingOfIndexPrescriptEnemy] ou em 95%-/85%-/75%- HP, - Ganha [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3] || || Fim do Turno 1: Em estágio menor que [UnlockBuff_Base] 1, ganha [UnlockBuff_Rien1] || Fim do Turno 4: Em estágio menor que [UnlockBuff_Base] 2, ganha [UnlockBuff_Rien2] || || Quando [UnlockBuff_Base] é ativado devido a condicionais de HP ou Turno: || - Em Carga menor que 3/6/9 de [BlessingOfIndexPrescriptEnemy], eleva para 3/6/9 || Ganha 10 [KarmaOfIndexRien] no próximo Início do Turno para cada Carga ganha",
+            "flavor": "\"Following the Prescripts is to unlock what is locked.\""
+        },
+        {
+            "id": 134801,
+            "name": "Rien, the Father [Imitation]",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Recebe -75% de dano de Ataques Sem Oposição</u></b></mark></color> || Recebe -75% de dano de [Vibration], [Burst] e [Sinking] || Ao restaurar SP por [UnlockBuff_Base], se o SP desta unidade está abaixo de 15, restaura até 15 SP || || Quando esta unidade entra em uma nova fase em 55% de HP, ganha os seguintes efeitos: || - Remove todos os efeitos exceto os exclusivos desta unidade || - Zera a Carga de [StackRienSpecialSkill] para 0 || - Ganha [IndexPrescript_RienSecondPhase] || - Converte [BurningWoundRien_Mask] em [BurningWoundRien] || - Converte [KarmaOfIndexRien] em [KarmaOfIndexRien_2Phase]; em seguida ganha 10 Cargas desse efeito || - Se esta unidade não tem [Shin_Rien], imediatamente ganha esse efeito || || Em 25% ou menos de HP, ganha um novo padrão e melhora bastante uma certa Habilidade",
+            "flavor": "Uma vez, ele nutriu a suspeita de estar sendo moldado em imitação de alguém; duvidou da Vontade e quase a desafiou, pois não sabia quem deveria imitar. Só quando foi tarde demais é que entendeu sua intenção e veio a aceitar a vontade do Prescript. || Só então o falso pai foi completado."
+        },
+        {
+            "id": 134802,
+            "name": "Dispositivo de Oráculo [Caduceus] - Desbloqueio Total",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color> || - [RienWeapon01Hatchet2phase] || - [RienWeapon02Stiletto2phase] || - [RienWeapon03Greatsword2phase] || - [RienWeapon04Rapier2phase] || - [RienWeapon05Sledgehammer2phase] || - [RienWeapon06Ultragreatsword2phase] || - [RienWeapon07Lance2phase] || - [RienWeapon08Chain2phase] || - [RienWeapon09Scythe2phase] || || Ao usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill] (máx. 9) || - Pode ser ganho 1 vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes || - Não ganha Carga de uma Habilidade usada apenas em padrão especial || || Início do Turno: Com 9 Cargas de [StackRienSpecialSkill], usa uma Habilidade poderosa || - Zera o limite por Habilidade de [StackRienSpecialSkill] || - Velocidade Mín. e Máx. +25 || - Fim do Turno: Ganha 2 [Vulnerable] e 3 [ResultReduction] no próximo turno || || Ativa o seguinte, a partir do turno em que a fase mudou || - A cada 4 turnos, com menos de 9 [StackRienSpecialSkill], traz sua Carga a 9; em seguida, ganha (Carga ganha x 5) [KarmaOfIndexRien_2Phase]",
+            "flavor": "Uma arma sem paralelo e uma maldição concedida por Hermes, um deus da Cidade cujos Prescripts são distribuídos por ondas de rádio."
+        },
+        {
+            "id": 134803,
+            "name": "Vontade da Prescrição",
+            "desc": "Início do Turno: || - Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório que não seja Ryōshū, e prioriza atacá-lo || <color=#ff6000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color> || · Se [IndexPrescriptTargetToPersonality] é morto, ou se esta unidade não pode mais atacar aquele alvo, <color=#ff6000><mark=#ff000040><b><u>usa as Habilidades restantes contra um Pecador aleatório que não seja Ryōshū (prioriza alvos com menor HP atual, a menos que tenham 1 HP)</u></b></mark></color> || · Quando todos os outros Pecadores são mortos, aplica-o em Ryōshū || - Ganha [Protection] equivalente a [BlessingOfIndexPrescriptEnemy] (máx. 9) || <color=#ff6000><mark=#ff000040><b><u>· Perde 1 Carga para cada 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color> || || Causa +5% de dano contra [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 40%) || - Com 9 [BlessingOfIndexPrescriptEnemy], causa +50% de dano contra todos os alvos || || A partir do primeiro turno depois da mudança de fase, ativa os seguintes efeitos: || - Ganha [BlackNightmare] a cada 2 turnos. || - Ao ganhar [BlackNightmare], se esta unidade tem menos de 9 Cargas de [StackRienSpecialSkill], ativa um padrão único",
+            "flavor": "Eu criei uma família. || || \"Você não devia estar aqui agora.\" || \"Meu trabalho ainda está muito em andamento, e eu gostaria de esculpi-los em paz para que atinjam a beleza mais primorosa que posso esculpir.\" || \"... Não me diga, você veio aqui pra desafiar o Prescript?\""
+        },
+        {
+            "id": 134804,
+            "name": "Undertake Prescript",
+            "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, restaura 15 SP e ganha 1 [BlessingOfIndexPrescriptEnemy] (1 vez por turno) || || <color=#ff6000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 10 [KarmaOfIndexRien_2Phase], perde 1 [BlessingOfIndexPrescriptEnemy], e o Pecador que tinha [IndexPrescriptTargetToPersonality] ganha 2 [ParryingResultUp] no próximo turno</u></b></mark></color> || - Se esta unidade usou uma Habilidade poderosa neste turno, ganha 15 [KarmaOfIndexRien_2Phase] e perde 3 [BlessingOfIndexPrescriptEnemy] em vez disso",
+            "flavor": "Eu... perdi minha família. || || \"Não vá...\" || \"Não vá... Não... assim... Papai... Por favor... ajude a gente...\""
+        },
+        {
+            "id": 132224,
+            "name": "A Batalha Final",
+            "desc": "Neste Encontro, quando esta unidade sofre dano que leva seu HP a 0, anula esse dano e aplica os seguintes efeitos (1 vez por Encontro): || - Restaura HP máximo e remove todos os efeitos negativos removíveis desta unidade || - Por este Encontro, ganha 1 [Vulnerable] e fixa [TimeEntangleUnstable] em 1. Recebe (# do turno atual x 10) de dano fixo ao fim de cada turno || - Em seguida, termina o turno e o padrão de ataque torna-se reforçado",
+            "flavor": "\"Tu foste feito para esquecer tudo, e eu para lembrar de tudo.\""
+        },
+        {
+            "id": 137801,
+            "name": "Observation",
+            "desc": "Início do Encontro: Aplica 1 [ObservedPerson] em todos os inimigos; em seguida, ganha Potência e Contagem de [Breath] equivalente ao número de unidades com [ObservedPerson] || || Início do Turno: Aplica 1 [ObservedPerson] contra alvos sem [ObservedPerson] || || Para cada 10 [ObservedPerson] no alvo, aplica +1 a mais de Potência e Contagem de [Vibration] com as Habilidades desta unidade (máx. 3)"
+        },
+        {
+            "id": 137802,
+            "name": "Adaptation",
+            "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido || || <color=#ff6000><mark=#ff000040><b><u>Início do Turno: Aplica 3 [ResultReduction] e 5 [ObservedPerson] ao Pecador que causou mais dano a esta unidade no turno anterior || - Se o alvo tem 30 [ObservedPerson], aplica 5 [ResultReduction] em vez disso</u></b></mark></color>"
+        },
+        {
+            "id": 137803,
+            "name": "Defense Mechanism",
+            "desc": "Início do Turno: <color=#ff6000><mark=#ff000040><b><u>Ganha Escudo equivalente a 30% do HP faltante (HP do Escudo não pode exceder 25% do HP máximo)</u></b></mark></color> || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 1,5)% de HP do Escudo || - Escudo recebe +100% de dano de efeitos [Burst] || || Fim do Turno: Se o Escudo ganho por este efeito é destruído, pelo restante deste Encontro, ganha 1 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 5)"
+        },
+        {
+            "id": 137804,
+            "name": "Confirmation Bias",
+            "desc": "Fim do Turno: <color=#ff6000><mark=#ff000040><b><u>Sifona 10 SP dos Pecadores</u></b></mark></color> (máx. 3 Pecadores em ordem decrescente de SP; não se acumula no mesmo alvo) || (Não ativa se Hohenheim está em Pânico) || || <color=#ff6000><mark=#ff000040><b><u>O SP desta unidade não cai abaixo de 15</u></b></mark></color>"
+        },
+        {
+            "id": 137805,
+            "name": "Establish Hypothesis",
+            "desc": "No Turno 3: Ganha um novo padrão e prepara para usar uma Habilidade poderosa. || Após o Turno 3 terminar: O efeito acima ativa quando esta unidade tem 30+ Contagem de [Breath] ao Fim do Turno || || Se esta unidade não sofreu dano em HP durante o período de preparação antes de usar a Habilidade poderosa, melhora bastante a Habilidade (não conta danos sofridos pelo HP do Escudo)"
+        },
+        {
+            "id": 137806,
+            "name": "Maladaptation",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Adaptação」 || || Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3 || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido; contudo, reduz o [ObservedPerson] do alvo em 3 || || O dano crítico não aumenta nem diminui"
+        },
+        {
+            "id": 137807,
+            "name": "Inadequate Defense Mechanism",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Mecanismo de Defesa」 || || Início do Turno: Ganha Escudo equivalente a 15% do HP faltante (HP do Escudo não pode exceder 5% do HP máximo) || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 2)% de HP do Escudo || - Escudo recebe +150% de dano de efeitos [Burst] || || Fim do Turno: Se o Escudo ganho por este efeito é destruído, pelo restante deste Encontro, ganha 2 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 10)"
+        },
+        {
+            "id": 137808,
+            "name": "Self-doubt",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Viés de Confirmação」 || || Início do Turno: <color=#ff6000><mark=#ff000040><b><u>Ganha 3 [Vulnerable]</u></b></mark></color> e perde 15 SP || Fim do Turno: Sifona 5 SP de alvos com SP maior que o desta unidade (máx. 3 alvos; em ordem decrescente de SP; não pode empilhar no mesmo alvo) || (Não ativa se Hohenheim está em Pânico)"
+        },
+        {
+            "id": 137809,
+            "name": "Adaptation",
+            "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido || || <color=#ff6000><mark=#ff000040><b><u>Início do Turno: Aplica 3 [ResultReduction] e 5 [ObservedPerson] ao Pecador que causou mais dano a esta unidade no turno anterior || - Se o alvo tem 30 [ObservedPerson], aplica 5 [ResultReduction] em vez disso</u></b></mark></color>"
+        },
+        {
+            "id": 137810,
+            "name": "Defense Mechanism",
+            "desc": "Início do Turno: <color=#ff6000><mark=#ff000040><b><u>Ganha Escudo equivalente a 30% do HP faltante (HP do Escudo não pode exceder 25% do HP máximo)</u></b></mark></color> || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 1,5)% de HP do Escudo || - Escudo recebe +100% de dano de efeitos [Burst] || || Fim do Turno: Se o Escudo ganho por este efeito é destruído, pelo restante deste Encontro, ganha 1 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 5)"
+        },
+        {
+            "id": 137811,
+            "name": "Maladaptation",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Adaptação」 || || Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3 || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido; contudo, reduz o [ObservedPerson] do alvo em 3 || || O dano crítico não aumenta nem diminui"
+        }
+    ]
+}
