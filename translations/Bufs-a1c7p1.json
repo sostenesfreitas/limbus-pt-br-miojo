@@ -1,0 +1,186 @@
+﻿{
+    "dataList": [
+        {
+            "id": "BloodScissor",
+            "name": "Tesouras Tingidas de Sangue",
+            "desc": "- Valor Máx.: 10\n- Estágio 1 de Tesouras Tingidas de Sangue\n- Usado para habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorTwo",
+            "name": "Tesouras Tingidas de Sangue II",
+            "desc": "- Valor Máx.: 20\n- Estágio 2 de Tesouras Tingidas de Sangue\n- Início de Turno: recebe 1 de Nível Ofensivo Aumentado e 1 de Nível Defensivo Diminuído para cada 5 de Acúmulo\n- Usado para certas Habilidades",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorThree",
+            "name": "Tesouras Tingidas de Sangue III",
+            "desc": "- Valor Máx.: 30\n- Estágio 3 de Tesouras Tingidas de Sangue\n- Início de Turno: recebe 2 de Nível Ofensivo Aumentado e 1 de Nível Defensivo Reduzido para cada 5 Acúmulos\n- Usado para certas Habilidades",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner",
+            "name": "Banquete de Sangue",
+            "desc": "- Valor Máx.: 999\n- Armazena todo o Dano Causado por Sangramento nesta zona\n- Reseta quando se move para uma zona diferente\n- Este valor é compartilhado entre todos os personagens\n- Dentre aliados, se houver um Parente maior que também consome Banquete de Sangue no mesmo turno, esta unidade não consome Banquete de Sangue até o aliado consumir primeiro.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner_Accumulation",
+            "name": "Banquete de Sangue Consumido",
+            "desc": "- Valor Máx.: 999\n- Banquete de Sangue consumido neste Encontro total: {0}",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBlood_LowMorale",
+            "name": "Hunger",
+            "desc": "- Low Morale\n- Turn Start: gain 1 Bind and 3 Attack Power Up. Turn End: take 5 SP damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FamineBlood_Panic",
+            "name": "Hunger",
+            "desc": "- Panic\nTurn Start: Gain 2 Bind and 4 Attack Power Up.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DuelDeclaration_Camille",
+            "name": "Duelo Declarado - Camille",
+            "desc": "- Em um Embate entre a unidade que aplicou Duelo Declarado e a unidade com o status, o declarante tem +1 de Poder de Embate. Ao Acertar, o declarante ganha 1 Pressa no próximo turno. (4 vezes por turno) || - Expira quando a unidade aplica Duelo Declarado em um alvo diferente.  || - É substituído quando outra unidade aplica Duelo Declarado no mesmo alvo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RecklessDuel",
+            "name": "Foolhardy Duel",
+            "desc": "Fim do Turno: ganha 1 Reforço de Poder de Embate no próximo turno para cada 10% de HP faltante. (máx. 5) || Fim do Turno: ganha 1 Restrição no próximo turno para cada 10% de HP faltante. (máx. 5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConcentratedAttack",
+            "name": "Focused Attack",
+            "desc": "Used on certain Slots",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TrulyWeak",
+            "name": "The Weak",
+            "desc": "- Deal -10% damage\n- Turn End: Reduce Value by 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RealPaperBear",
+            "name": "An Actual Bear",
+            "desc": "- Ele come pessoas. Quão assustador!",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodScissorScars",
+            "name": "Deep Laceration",
+            "desc": "- On Clash Lose: gain +3 Bleed Count and trigger Bleed on self. Then, lose 1 Bleed Count.\n- Expires at Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "LineCutting",
+            "name": "Sewing Target",
+            "desc": "- Priorizado por ???.\n- Expira no Fim de Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingBarberOne",
+            "name": "Withered",
+            "desc": "- Starved for blood for a long, long time.\n- Lose 15 Base Offense Level\n- Lose 15 Base Defense Level",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingBarberTwo",
+            "name": "Withered",
+            "desc": "- Starved for blood for a long, long time.\n- Lose 25 Base Offense Level\n- Lose 25 Base Defense Level",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodShooting",
+            "name": "Blood-shooting!!",
+            "desc": "On Death:\n- Bloodfeast +30\n- gain 2 E.G.O resource for the least-owned E.G.O resource\n- Next turn: all allies gain 0.1 to all Phys. Resistances. This effect can stack. (max 5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RighteousFeeling",
+            "name": "HOW RIGHTEOUS!!",
+            "desc": "- A cada Fim do Turno: ganha 1 Pressa, 3 Nível de Ataque Up, e 3 Nível de Defesa Down no próximo turno || - Ganha 2 Nível de Ataque Up adicional após cada 3 turnos cumulativos (máx. 6) || - Ao Ganhar Embate, cura 3 SP || - Em Morte, ganha 1 Reforço de Poder de Embate no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DuelDeclarationMeursault",
+            "name": "Declared Duel - Meursault",
+            "desc": "- Em um Embate entre a unidade que aplicou Duelo Declarado e a unidade com o status, o declarante tem +1 de Poder de Embate. Ao Acertar, o declarante ganha 1 Pressa no próximo turno. (4 vezes por turno) || - Expira quando a unidade aplica Duelo Declarado em um alvo diferente.  || - É substituído quando outra unidade aplica Duelo Declarado no mesmo alvo.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConcentratedAttackMeursault",
+            "name": "Focused Attack - Meursault",
+            "desc": "<Apenas Encontros Focados> || A unidade que aplicou este Ataque Focado ganha os seguintes efeitos baseados na Pilha de Ataque Focado do Slot alvo. ||   · Pilha 1x: Ganha Poder de Embate +1 ||   · Pilha 2x: Ganha Poder Base +1 ||   · Pilha 3x: Ganha Poder Base +1 e Poder de Moeda +1 || - Expira se, por um turno, a unidade que o aplicou falhar em acertar o Slot afetado com seu Ataque Focado.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Duello_LowMorale",
+            "name": "Duel Specialist",
+            "desc": "- Low Morale\n- Turn Start: Gain 2 Offense Level Up. On Clash Lose, gain 1 Defense Level Down(max 3 per turn). Min. Speed -1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Duello_Panic",
+            "name": "Duel Specialist",
+            "desc": "- Panic\n- Turn Start: Gain 4 Offense Level Up. On Clash Lose, gain 2 Defense Level Down(max 6 per turn). Min. Speed -1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RighteousFeelingSancho",
+            "name": "I will take responsibility, through my bloody tears.",
+            "desc": "- Ganha 1 Hardblood adicional toda vez que esta unidade ganha Hardblood. (5 vezes por turno) || - A cada Fim do Turno: ganha 2 Pressa e 3 Nível de Ataque Up no próximo turno || - Ganha 2 Nível de Ataque Up adicional após cada 3 turnos cumulativos (máx. 6) || - Ao Ganhar Embate, cura 3 SP || - Em Morte, ganha 1 Reforço de Poder de Embate no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDreamSancho",
+            "name": "In which is recounted the thralldom to blood thicker than water.",
+            "desc": "- Ganha 2 Hardblood adicional toda vez que esta unidade ganha Hardblood. (5 vezes por turno) || - A cada Fim do Turno: ganha 2 Pressa e 3 Nível de Ataque Up no próximo turno || - Ganha 2 Nível de Ataque Up adicional após cada 3 turnos cumulativos (máx. 6) || - Ao Ganhar Embate, cura 3 SP || - Em Morte, ganha 2 Reforço de Poder de Embate no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeSancho",
+            "name": "Which treats the banquet of blood for the Family's suffering.",
+            "desc": "Gain Clash Power Up equal to Stack\nDeal +10% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeTwoSancho",
+            "name": "De como um Sanguinário solitário veio a carregar a culpa de assassinar o Pai que abandonou seus Filhos.",
+            "desc": "- Poder de Embate +4 para cada valor || - Aplica Escudo em si e em todos os aliados no Início de Combate || - Causa +20% de dano || - Ao Acertar, causa também 1 de dano fixo",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}
