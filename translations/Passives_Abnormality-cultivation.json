@@ -1,0 +1,89 @@
+﻿{
+    "dataList": [
+        {
+            "id": 124701,
+            "name": "Former Heishou - Wu Adept",
+            "desc": "Início do Encontro: zera o SP desta unidade para -15 e ganha 3 [LegStrengthHorse] e 1 [CrazyWei] || Sofre -50% de dano de [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] (arredondado para baixo) ||  || Se esta unidade acerta com uma [SuperCoin] Rachada, não ativa o efeito de [Burst] do alvo (também não consome Contagem) ||  || Causa +50% de dano contra inimigos Atordoados"
+        },
+        {
+            "id": 124702,
+            "name": "I will trample... and crush you to mulch",
+            "desc": "Se esta unidade tem [LegStrengthHorse], aplica 1 [ConcussionWei] contra o alvo principal quando esta unidade ativa [VibrationExplosion] contra o alvo principal"
+        },
+        {
+            "id": 124703,
+            "name": "Soul Lost in Daylight (魂飛中天)",
+            "desc": "Se esta unidade tem [LegStrengthHorse], ganha 1 [ReboundWei] ao acertar com uma Habilidade que ativa [VibrationExplosion] contra alvos sem [Vibration] (não ganha nenhum [ReboundWei] se sua Pilha já está maximizada) ||  || Fim do Turno: se a Pilha de [ReboundWei] desta unidade está maximizada, consome toda ela; em seguida, perde 1 [LegStrengthHorse] no próximo turno"
+        },
+        {
+            "id": 124704,
+            "name": "I'll scrape every filthy scale off your skin...",
+            "desc": "Início do Turno: ganha 1 [AttackUp] para cada 2 de Velocidade que esta unidade tem (máx. 2) || Em 5+ de Velocidade, ganha 1 [SlashDamageUp] e 1 [HitDamageUp] também"
+        },
+        {
+            "id": 124705,
+            "name": "Intrepid trespasser...!",
+            "desc": "Ao Perder Embate: se a Moeda do alvo era uma Moeda Positiva, alvo cura 5 SP; se a Moeda do alvo era uma Moeda Negativa, alvo perde 5 SP (não ativa se o SP do alvo está em -40 ou menos). Em seguida, dá 2 recursos E.G.O para a Afinidade da Habilidade que o alvo usou (3 vezes por turno) || - Se a Afinidade da Habilidade era Ira ou Gula, dá 2 recursos E.G.O das Afinidades menos possuídas também"
+        },
+        {
+            "id": 127201,
+            "name": "Damage Taken",
+            "desc": "Ao sofrer dano durante a fase de combate: +20% de dano pelo turno || Durante a fase de combate: Ao Perder Embate, sofre +15% de dano da Habilidade"
+        },
+        {
+            "id": 127202,
+            "name": "Plastered Training",
+            "desc": "Deal +2% damage for every 1% missing HP on self (max 100%)"
+        },
+        {
+            "id": 127203,
+            "name": "I've got nothing to fear with a bottle of wine by my side",
+            "desc": "Turn Start: at max [SipOfAlcoholJin] Stack, consume 2 of its Stack and gain [DrunkAwakening]"
+        },
+        {
+            "id": 127204,
+            "name": "Vagabundo Noturno da Palma Bêbada",
+            "desc": "Início do Encontro: zera o SP desta unidade para 10 || Sofre -50% de dano de [Combustion], [Laceration], [Vibration], [Burst], e [Sinking] (arredondado para baixo) ||  || Sofre -30% de dano dos Pecadores ||  || Se esta unidade ganhou 2 ou mais [SipOfAlcoholJin] no último turno, cura 5 SP para cada 10% de HP faltante no Início do Turno (máx. 40) ||  || Ao entrar em uma nova fase, se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 127205,
+            "name": "River of Blooddrops (血滴成河)",
+            "desc": "Ativa se ao menos 1 inimigo tem 10+ [Laceration] no Fim do Turno || Contra inimigos com [Laceration], aplica 1 [DrunkBlood] para cada 5 [Laceration] que têm (3 vezes por inimigo)"
+        },
+        {
+            "id": 124801,
+            "name": "Sparring Complete",
+            "desc": "Ends Encounter when this unit's HP drops below 20%"
+        },
+        {
+            "id": 124901,
+            "name": "Reversed Circuitry",
+            "desc": "Turn Start: at less than 10 [Charge] Count, consume 5% HP on self to gain +5 [Charge] Count\nTurn End: at 15+ [Charge] Count, consume 5 [Charge] Count to heal 5% HP on self"
+        },
+        {
+            "id": 125001,
+            "name": "Slightly Relieved Burdens",
+            "desc": "Turn Start: heal 5 SP\nTurn Start: at 20+ SP, gain 1 [Enhancement]"
+        },
+        {
+            "id": 125002,
+            "name": "Burden of Responsibility",
+            "desc": "Se o HP desta unidade cai abaixo de 50% ou menos neste Encontro, começando do próximo turno, ganha 2 [AttackDmgUp] a cada turno"
+        },
+        {
+            "id": 125101,
+            "name": "Rule by Fear",
+            "desc": "Se o alvo tem menos de 0 SP: causa ainda mais dano quanto mais distante o SP do alvo está de 0 (+3% de dano por 1 SP)"
+        },
+        {
+            "id": 125102,
+            "name": "Vai ser tão divertido, hmm?",
+            "desc": "Gain 1 [AttackUp] and 1 [DefenseUp] every time any target gains a negative effect"
+        },
+        {
+            "id": 125103,
+            "name": "Twisted Determination",
+            "desc": "On Clash Win, heal 5 SP\nOn Clash Lose, gain 1 [Enhancement]"
+        }
+    ]
+}

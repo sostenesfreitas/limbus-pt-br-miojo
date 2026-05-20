@@ -1,0 +1,220 @@
+﻿{
+    "dataList": [
+        {
+            "id": "MuscleContraction",
+            "name": "Automated Myofiber Activity",
+            "desc": "- Pilha Máx.: 2 || - Causa +15% de dano por Pilha || - Início de Combate: Em 2 Pilhas, converte todas as Moedas das Habilidades de Ataque desta unidade em Moedas Inquebráveis. || - Fim do Ataque: Perde este efeito",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DuelEdge",
+            "name": "O Duelo se Esquenta",
+            "desc": "- Pilha Máx.: 20 || - 'O Aprendiz do Polegar - Lucio' ganha Poder de Habilidade e causa mais dano a cada Embate com esta unidade || - Expira no Fim do Turno se esta unidade não Embateu com 'O Aprendiz do Polegar - Lucio' neste turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HostageCharon",
+            "name": "Refém Capturado",
+            "desc": "- When Clashing with 'The Thumb Apprentice - Lucio', Clash Power -1\n- Deal -20% damage to 'The Thumb Apprentice - Lucio'",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SeveredTendon",
+            "name": "Severed Tendon",
+            "desc": "- Max Stack: 3\n- Base Attack Skill Base Power -1 for every Stack\n- Turn End: Lose 1 Stack",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HowDareYouApple",
+            "name": "The Audacity...!",
+            "desc": "- Max Stack: 4\n- Deal +20% damage for every Stack\n- Consumed when using certain Skills",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RapidGrowthApple",
+            "name": "Rapid Growth",
+            "desc": "- Pilha Máx.: 3 || - Perde 1 Nível de Defesa para cada Pilha; Nível de Defesa mínimo devido a este efeito: 1 || - Perde este efeito quando todos os Braços são quebrados",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HumanFleshTheRings",
+            "name": "Ingrediente Corporal",
+            "desc": "- Max Stack: 2\n- Unique Charge (fixed Potency)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BoneBladeTheRings",
+            "name": "Artwork: Fascia",
+            "desc": "- Turn Start: Gain 4 Base Power Up\n- When inflicting Bleed with Attack Skills, inflict additional 2 Bleed Potency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnsteadyTheRings",
+            "name": "Arma Pesadamente Sacudida",
+            "desc": "- Pilha Máx.: 3 || - Ao usar 'Carne Reprimida', perde 10 Poder Final para cada Pilha || - Em 3 Pilhas após usar 'Carne Reprimida', perde este efeito e fica Atordoada até o próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IronMaiden_LowMorale",
+            "name": "Dama de Ferro",
+            "desc": "- Low Morale\n- Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
+            "summary": "Turn Start: Gain 1 Offense Level Down and 1 Defense Level Up",
+            "undefined": "-"
+        },
+        {
+            "id": "IronMaiden_Panic",
+            "name": "Dama de Ferro",
+            "desc": "- Panic\n- Turn Start: Gain 2 Offense Level Down and 2 Defense Level Up",
+            "summary": "Turn Start: Gain 2 Offense Level Down and 2 Defense Level Up",
+            "undefined": "-"
+        },
+        {
+            "id": "DicipleLittleFinger",
+            "name": "Moonlit Azure Blade",
+            "desc": "- Pilha Máx.: 50 || - Início do Turno: Ganha 5 de Escudo para cada Pilha || - +1% de Dano em Acerto Crítico para cada Pilha || - Perde 1 Pilha ao ser atingida",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RyoshuSlotPlusA1C9",
+            "name": "Odor de Tempos Passados",
+            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano a inimigos da Casa das Aranhas || - Quando Atordoada, imediatamente recupera-se do Atordoamento no início do próximo turno e ganha 1 Reforço de Poder de Ataque (uma vez por Encontro) || - Não pode Retirar",
+            "summary": "Deal more damage to The House of Spiders enemies",
+            "undefined": "-"
+        },
+        {
+            "id": "ObservationMoses",
+            "name": "Keen Observation",
+            "desc": "- Cannot be targeted for Charmed\n- Deal +25% damage to Fairy",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "CalmAnalysisMoses",
+            "name": "Untroubled Analysis",
+            "desc": "- Deal +25% damage to Faelantern",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TeachersCommand",
+            "name": "The Thumb Nursefather's Command",
+            "desc": "- Lose 5 Offense Levels",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TeachersPet_LowMorale",
+            "name": "Textbook",
+            "desc": "- Poder de Embate +1 ao Embater contra alvos com O Duelo Escala || - Perde Embate: Ganha 1 Frágil no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TeachersPet_Panic",
+            "name": "Textbook",
+            "desc": "- Poder de Embate +2 ao Embater contra alvos com O Duelo Escala || - Perde Embate: Ganha 1 Frágil no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RyoshuStartA1C9",
+            "name": "Rekindled Exhilaration",
+            "desc": "- Causa +10% de dano a inimigos da Casa das Aranhas || - Quando Atordoada, imediatamente recupera-se do Atordoamento no início do próximo turno e ganha 1 Reforço de Poder de Ataque (uma vez por Encontro)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BreathLoss_LowMorale",
+            "name": "Ragged Breath",
+            "desc": "Turn Start: Lose 3 Poise Potency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BreathLoss_Panic",
+            "name": "Ragged Breath",
+            "desc": "Turn Start: Lose 5 Poise Potency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IndexPrescriptTargetMarkToEnemy",
+            "name": "Marca da Prescrição",
+            "desc": "- Aplica Marca da Prescrição para uma Habilidade Ofensiva Base no Painel de Combate dessa unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IndexPrescriptTargetToEnemy",
+            "name": "Alvo da Prescrição",
+            "desc": "- Sofre +10% de dano de unidades do Indicador\n- Esse efeito é aplicado para um único alvo todo turno independente do número de unidades do Indicador enviados",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BlessingOfIndexPrescriptAlly",
+            "name": "Graça da Prescrição",
+            "desc": "- Nível Ofensivo +1 para cada 3 Acúmulos\n- Acúmulo Máx.: 9",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IndexPrescript_Base",
+            "name": "Prescrição",
+            "desc": "- Recebe Prescrição: [Ficha de Papel] sob condições específicas",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptFaust_0",
+            "name": "Prescrição: [Ficha de Papel] I",
+            "desc": "Use uma Habilidade marcada com Marca da Prescrição ou atinja um alvo com uma Habilidade marcada.\n\n- Início de Turno: Com 0~2 de Graça da Prescrição, recebe esse efeito\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 3",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptFaust_1",
+            "name": "Prescrição: [Ficha de Papel] II",
+            "desc": "Atinja um alvo com uma Habilidade marcada com Marca da Prescrição.\n\n- Início de Turno: Com 3~5 de Graça da Prescrição, recebe esse efeito\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 6",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptFaust_2",
+            "name": "Prescrição: [Ficha de Papel] III",
+            "desc": "Atinja um alvo com uma Habilidade de Despertar de E.G.O ou \"Habilidade 3\" marcada com Marca da Prescrição.\n\n- Início de Turno: Com 6~8 Graça da Prescrição, recebe esse efeito\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 9",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptFaust_3",
+            "name": "Prescrição: [Ficha de Papel] IV",
+            "desc": "Elimine todos os inimigos antes que a próxima Prescrição chegue.\n\n- Início de Turno: Com 9 de Graça da Prescrição, recebe esse efeito",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "KarmaOfIndexAlly",
+            "name": "Consequência Cármica",
+            "desc": "- Início de Turno:\n· Recebe 1 de Nível Defensivo Reduzido para cada 10 Acúmulos\n· Recebe 1 de Frágil para cada 20 Acúmulos\n- Acúmulo Máx.: 100\n",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "Recebe o Preceito e o realiza. Sua execução é gravada como karma, desenhada em um ciclo incessante que retorna à mão de seu executor."
+        }
+    ]
+}
