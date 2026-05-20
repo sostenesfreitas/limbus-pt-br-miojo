@@ -1,0 +1,22 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1067,
+            "panicName": "Ragged Breath",
+            "lowMoraleDescription": "Turn Start: Lose 3 [Breath] Potency",
+            "panicDescription": "Turn Start: Lose 5 [Breath] Potency"
+        },
+        {
+            "id": 1068,
+            "panicName": "Textbook",
+            "lowMoraleDescription": "Poder de Embate +1 ao Embater contra alvos com [DuelEdge] || Perde Embate: Ganha 1 [Vulnerable] no próximo turno (uma vez por turno)",
+            "panicDescription": "Poder de Embate +2 ao Embater contra alvos com [DuelEdge] || Perde Embate: Ganha 2 [Vulnerable] no próximo turno (uma vez por turno)"
+        },
+        {
+            "id": 1069,
+            "panicName": "Dama de Ferro",
+            "lowMoraleDescription": "Turn Start: gain 1 [AttackDown] and 1 [DefenseUp]",
+            "panicDescription": "Turn Start: gain 2 [AttackDown] and 2 [DefenseUp]"
+        }
+    ]
+}

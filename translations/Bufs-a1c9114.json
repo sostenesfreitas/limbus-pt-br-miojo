@@ -1,0 +1,46 @@
+﻿{
+    "dataList": [
+        {
+            "id": "A1c971a",
+            "name": "Boiling Wrath",
+            "desc": "Every Turn Start: gain Burn equal to Turn Count",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "A1c971b",
+            "name": "Propagating Gloom",
+            "desc": "Fim do Turno: em 1 Pilha, causa dano igual ao HP atual desta unidade contra o inimigo com menos HP, depois morre || Reduzido em 1 no Fim do Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "A1c971c",
+            "name": "Perpetuating Gluttony",
+            "desc": "Início do Turno: ganha 1 aumento de cura de HP a cada 2 turnos (máx. 5) || Início do Turno: ganha 1 Dano Up e 1 Reforço de Poder de Embate para cada 10 HP curado (máx. 5) ||  || HP Curado: {0}",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "A1c971d",
+            "name": "Gasping Breath",
+            "desc": "When gaining Poise, gain 3 additional Poise or +2 additional Poise Count",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "A1c971e",
+            "name": "Wounded Wound",
+            "desc": "On Hit, inflict 2 additional Bleed or +1 additional Bleed Count",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "A1c971f",
+            "name": "Lazy Sloth",
+            "desc": "Reduced by 1 at Turn End.\nFails Extra Condition at 0",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

@@ -1,0 +1,491 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9016201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Punhalada de Sangue Endurecido",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Clivada de Sangue Endurecido",
+                    "desc": "[WhenUse] Se o alvo tiver 8+ de [Laceration], +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 6+ de [Laceration], recebe 1 de [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 8 de [Laceration] e 1 de [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Hardblood Powercleave",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder Base +1\nCausa +5% de dano para cada [HardenedBlood] (max. 25%)\n[EndSkill] Consome todo [HardenedBlood] e [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([Laceration] no alvo)% PV (máx. 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[WhenUse] Poder Base +1 para cada [HardenedBlood] em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "É um Festival, um Festival!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Vamos Nos Vestir",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 5+ [Laceration], recebe 1 de [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Temos Um Evento Para Você!",
+                    "desc": "[WhenUse] Consome até 50 [BloodDinner]; recebe 1 de [BloodScissor] e cura 3 PS para cada 10 [BloodDinner] consumido\n[WhenUse] Se esta unidade falhar em consumir [BloodDinner] com esta Habilidade, recebe 5 de [Laceration] e 1 de [HardenedBlood].\n[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não Me Apresse",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ [Laceration], Poder de Moeda +1\n[WhenUse] Poder de Confronto +1 para cada [BloodScissor] (máx. 3)\nCausa +7% de dano para cada [HardenedBlood] (max. 35%)\n[EndSkill] Consome todo [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 8 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consome até 5 de [BloodScissor] e Causa +(20 x [BloodScissor] consumidas)% de dano (máx. +100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([Laceration] no alvo)% PV (máx. 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[WhenUse] Com 1+ [BloodScissor], Poder Base +1\n[WhenUse] Com 3+ [HardenedBlood], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Por favor, responda o questionário.",
+                    "desc": "[WhenUse] Recebe 5 de [Laceration] e +1 Contagem de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não! Não Me Interrompa!",
+                    "desc": "[WhenUse] Recebe 5 de [Laceration] e +1 Contagem de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 5+ [Laceration], recebe 1 de [BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Paciência Desbotada",
+                    "desc": "[WhenUse] Consome até 50 de [BloodDinner]; recebe 1 de [BloodyHand] para cada 10 [BloodDinner] consumido\n[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill] Se esta unidade falhou em consumir [BloodDinner] com esta Habilidade, ganha 10 [Laceration] e 1 [BloodyHand]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Expiação Sem Fim",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Moeda +1\n[WhenUse] Poder de Confronto +1 para cada [HardenedBlood] em si\n[DefeatDuel] Perde 2 de [BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consuma todo o [BloodyHand] para infligir +3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome todo o [HardenedBlood] em si para aumentar [BloodDinner] em ([HardenedBlood] x 3) e recebe 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([Laceration] no alvo)% PV (máx. 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[WhenUse] Com 1+ [BloodyHand], Poder Base +1\n[WhenUse] Com 3+ [HardenedBlood], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Bem-vindos ao Festival das Maravilhas!",
+                    "desc": "[WhenUse] Com 5+ de [FestivalFever], Poder Final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Juntem-se ao Desfile Alegre!",
+                    "desc": "[WhenUse] Poder Final +1 para cada 5 de [FestivalFever] em si ou para cada 6 de [Laceration] no alvo (máx. 3)\n[WhenUse] Com menos de 20 de [BloodDinner], recebe 20 de [Laceration] e imediatamente ativa-o, então reduz a Contagem de [Laceration] em 1\n[EndSkill] Consome 20 de [BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [HardenedBlood] para cada 6 de [Laceration] no alvo (máx. 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 4 de [Laceration] e +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2~3 de [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desabrochem Seus Sorrisos de Alegria!",
+                    "desc": "[WhenUse] Com 5+ de [FestivalFever], Poder de Moeda +1\n[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack] Recebe 2 de [FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Eterno Reino de Felicidade, La Manchaland!",
+                    "desc": "[WhenUse] Com menos de 40 [BloodDinner], recebe 20 de [Laceration] e +2 Contagem de [Laceration], imediatamente ativa-o duas vezes, e reduz Contagem de [Laceration] em 2\n[EndSkill] Consome 40 de [BloodDinner]\n[EndBattle] Consome todo [HardenedBlood] e [FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [Laceration] e [Burst] igual [HardenedBlood] em si"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([FestivalFever] x 4)% PV (máx. 40%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Esquivar",
+                    "desc": "[WhenUse] Com 5+ [FestivalFever], Poder Final +2\n[StartBattle] Recebe 3 de [FestivalFever]\n[OnDefeatEvade] Perde 3 de [FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

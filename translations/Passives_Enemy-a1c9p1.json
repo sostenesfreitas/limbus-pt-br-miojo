@@ -1,0 +1,19 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9103601,
+            "name": "Obra de Arte do Padrinho do Anelar",
+            "desc": "If the main target has 3+ types of negative effects, Final Power +1"
+        },
+        {
+            "id": 9103801,
+            "name": "Nó Ósseo",
+            "desc": "Quando Atordoada, recupera-se do Atordoamento no próximo turno e ganha 2 [Binding] || A cada Início do Turno subsequente: ganha 2 [Vulnerable] e 1 [Enhancement]"
+        },
+        {
+            "id": 9103802,
+            "name": "Fitas Rosas",
+            "desc": "Clash Win: inflict 1 [PinkRibbon_Ishmael]"
+        }
+    ]
+}

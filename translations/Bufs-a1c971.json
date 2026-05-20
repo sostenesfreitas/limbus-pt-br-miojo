@@ -1,0 +1,25 @@
+﻿{
+    "dataList": [
+        {
+            "id": "Bloodthirst",
+            "name": "Yearning for Blood",
+            "desc": "- Base Offense Level -35\n- Base Defense Level -35",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ObservedPerson",
+            "name": "Subject of Observation",
+            "desc": "- Pilha Máx.: 30 || - Início do Turno: ganha 3 Pilhas (começando do turno após esta unidade ganhar este efeito) || - Ganha 1 Pilha toda vez que esta unidade sofre ou causa dano com um efeito de Habilidade de Ataque contra Hohenheim Distorcido || - Sofre +(Pilha x 4)% de dano de inimigos || - Causa +(Pilha x 2)% de dano, mas Ao Acertar, sofre (Pilha / 2)% do dano causado como dano de HP (não pode ser Atordoada por este efeito)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodthirstHard",
+            "name": "Yearning for Blood",
+            "desc": "- Base Offense Level -25\n- Base Defense Level -25",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

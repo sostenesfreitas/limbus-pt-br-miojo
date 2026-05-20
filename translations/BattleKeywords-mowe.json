@@ -1,0 +1,39 @@
+﻿{
+    "dataList": [
+        {
+            "id": "KeptBlood",
+            "name": "Reserva de Sangue",
+            "desc": "- Valor Máx.: 10 || - Perde 1 valor toda vez que esta unidade perde 5% de HP. || - Ao Acertar, cura 1% do HP desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyCrave",
+            "name": "Ânsia Tingida a Sangue",
+            "desc": "- Ganha 1 Reforço de Poder de Embate e 1 Dano Up || - Ao Acertar, ganha 1 Sangue Armazenado || - Se esta unidade não ganhou Sangue Armazenado neste turno, ganha 2 Frágil, 1 Pressa, e 4 Nível de Ataque Up no próximo turno em vez do efeito acima",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodPocket_LowMorale",
+            "name": "Sede de Sangue",
+            "desc": "Início do turno: Recebe 1 de Frágil e Dano Aumentado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodPocket_Panic",
+            "name": "Sede de Sangue",
+            "desc": "Início do turno: Recebe 2 de Frágil e Dano Aumentado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HardenedBlood",
+            "name": "Sangue Coagulado",
+            "desc": "Recebe Nível Ofensivo e Nível Defensivo igual ao valor (Máx. 5)",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

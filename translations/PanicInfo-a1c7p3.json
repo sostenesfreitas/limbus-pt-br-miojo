@@ -1,0 +1,34 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1029,
+            "panicName": "Guilt",
+            "lowMoraleDescription": "Turn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn",
+            "panicDescription": "Turn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
+        },
+        {
+            "id": 1031,
+            "panicName": "Resanguination",
+            "lowMoraleDescription": "Se o alvo não tiver [Laceration], Poder de Confronto -1; Ao Atingir, cura PV igual a Potência de [Laceration] no alvo",
+            "panicDescription": "Se o alvo tiver [Laceration], Poder de Confronto +2; Se o alvo não tiver [Laceration], Poder de Confronto -2; Ao Atingir, cura PV igual a Potência de [Laceration] no alvo"
+        },
+        {
+            "id": 1032,
+            "panicName": "Guilt",
+            "lowMoraleDescription": "Turn End: gain 1 [Vulnerable] and [MentalIncreaseDown] next turn",
+            "panicDescription": "Turn End: gain 2 [Vulnerable] and [MentalIncreaseDown] next turn."
+        },
+        {
+            "id": 1034,
+            "panicName": "Burden of Responsibility",
+            "lowMoraleDescription": "- Ganha 2 [Enhancement] e 1 [Vulnerable]; eleva o valor de Velocidade Máx. em 2 || - Cura +30% mais HP ao curar || - Fim do Turno: se o [RegainedStrength] é menor que seu valor no Início do Turno, ganha 2 [AttackUp] e [DefenseDown] no próximo turno",
+            "panicDescription": "- Ganha 2 [Enhancement] e eleva o valor de Velocidade Máx. em 2 || - Cura +50% mais HP ao curar || - Fim do Turno: se o [RegainedStrength] é menor que seu valor no Início do Turno, ganha 3 [AttackUp] e 5 [DefenseDown] no próximo turno"
+        },
+        {
+            "id": 1033,
+            "panicName": "Reawakening Joy Of Carnage",
+            "lowMoraleDescription": "Every Turn Start: gain 2 [AttackUp]; +2 SP Efficiency",
+            "panicDescription": "Turn Start: gain 6 [DefenseUp], and gain 3 [AttackUp] next turn"
+        }
+    ]
+}

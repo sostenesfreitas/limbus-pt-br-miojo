@@ -1,0 +1,432 @@
+﻿{
+    "dataList": [
+        {
+            "id": 838101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Caminhe Com Elegância...",
+                    "desc": "Prioriza um aliado não atordoado. Se o alvo for um aliado, recebe Poder de Confronto +10, e fixa o dano em 0.\nPoder de Confronto +1 para cada 3 de [Laceration] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]\n- Se o alvo for um aliado, substitua esse efeito por 3 de [AttackUp] até o próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Mova-se Com Beleza...",
+                    "desc": "Prioriza um aliado não atordoado. Se o alvo for um aliado, recebe Poder de Confronto +10, e fixa o dano em 0.\nPoder de Confronto +1 para cada 3 de [Laceration] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]\n- Se o alvo for um aliado, substitua esse efeito por 3 de [DefenseUp] até o próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Traga a Audiência Mais Perto...",
+                    "desc": "[WhenUse] Poder Final +1 para cada 5 de [FestivalFever] em si ou para cada 6 de [Laceration] no alvo (máx. 4)\n[WhenUse] Com menos de 15 de [BloodDinner], recebe 15 de [Laceration] e imediatamente ativa-o, então reduz a Contagem de [Laceration] em 1 (Com menos de 10% de PV, ativa apenas o ganho de Potência e Contagem de [Laceration])\n[EndSkill] Consome 15 de [BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [AttackUp] e 1 de [DefenseUp] para cada 6 [Laceration] no alvo (máx. 3 de cada)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige +5 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 3 de [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desfile das Maravilhas",
+                    "desc": "[CantIdentify] || Prioriza inimigos para seu alvo principal, e prioriza aliados para seus subalvos. Se o alvo é um aliado, Poder de Embate +10 e sempre fixa o dano em 0. || [WhenUse] Poder de Embate +1 para cada 20 [BloodDinner_Accumulation] por esta unidade (máx. 10) || [WhenUse] Em menos de 25 [BloodDinner], ganha 25 [Laceration], imediatamente ativa-o uma vez, depois perde 1 Contagem de [Laceration] (em menos de 10% de HP, ativa apenas a parte deste efeito em que esta unidade ganha Potência e Contagem de [Laceration]) || [EndSkill] Consome 25 [BloodDinner] || [EndBattle] Consome todo [FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [AttackUp] e [DefenseUp] até o próximo turno com base em [FebreFestival] (1 para cada 3 de [FebreFestival], máx 3 de cada)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]\n- Se o alvo for um aliado, substitua esse efeito por 5 de [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838105,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "O Desfile se Repete pela Eternidade",
+                    "desc": "[WhenUse] Poder de Confronto +1 para cada 20 [BloodDinner_Accumulation] por esta unidade (máx. 10)\n[WhenUse] Com menos de 50 de [BloodDinner], recebe 25 de [Laceration], +2 Contagem de [Laceration] e imediatamente ativa-o duas vezes, então reduz a Contagem de [Laceration] em 2 (Com menos de 10% de PV, ativa apenas o ganho de Potência e Contagem de [Laceration])\n[WhenUse] Consome metade do [BloodDinner]\n[EndBattle] Consome todo o [IncompleteParade]\n[EndBattle] Recebe 10 de [FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura em 25% do Dano Causado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura em 25% do Dano Causado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura em 50% do Dano Causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e 5 de [Burst]"
+                                },
+                                {
+                                    "desc": "[EndCoin] Recebe 1 de [BloomingThorns] para cada 10 [BloodDinner] consumido por esta Habilidade (máx. 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838106,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "And that's all it does...",
+                    "desc": "[DuelCounter]\n[WhenUse] Com 5+ [FestivalFever], Poder de Confronto +3\n[StartBattle] Recebe 5 de [BloomingThorns]\n[DefeatDuel] Perde 5 de [BloomingThorns]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838107,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "El Finale",
+                    "desc": "[WhenUse] Consome a metade de [BloodDinner]\n[WinDuel] Causa +([BloodDinner] consumido por esta Habilidade)% de dano (máx. 150%)\n[DefeatDuel] Causa -50% de dano, e o dano causado por essa Habilidade não pode Atordoar o alvo\n[EndSkill] Os PS desta unidade caem para -45",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +6 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 6 de [Burst]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige +6 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[EndCoin] Recebe 1 de [BloomingThorns] para cada 10 [BloodDinner] consumido por esta Habilidade (máx. 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Dragon of the Spring",
+                    "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Lotus no Outono",
+                    "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Faint Trace",
+                    "desc": "[WhenUse] Recebe 3 [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [SlashTakeDamageUp]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pallid Trace",
+                    "desc": "Se a Velocidade do usuário é maior que a do alvo por 5 ou mais, Poder de Confronto +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 100 de dano adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frecha Vermelha",
+                    "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 50 de dano adicional"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 50 de dano adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frecha Preta",
+                    "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [MentalCrack]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [MentalCrack]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838907,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Mirror of Water",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Recebe 3 de [Protection]\n[WinDuel] Causa dano igual ao valor final do Poder de Confronto dessa Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838908,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Electron Accelerator Rail Activation",
+                    "desc": "[StartBattle] Recebe 10 de [Enhancement] e [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838909,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frecha",
+                    "desc": "[WhenUse] Recebe 5 de [PenetrateDamageUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

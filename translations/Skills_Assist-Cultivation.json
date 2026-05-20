@@ -1,0 +1,67 @@
+﻿{
+    "dataList": [
+        {
+            "id": 40000501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cutelo Carmesim",
+                    "desc": "[WhenUse] Base Power +1 for every 3 [Burst] on the target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reboco de Sono, Ondas Irrestritas",
+                    "desc": "Pode atrair qualquer ataque para esta unidade independentemente da Velocidade || [WhenUse] Poder Base +1 para cada 3 [Breath] (máx. 3) || [WhenUse] Poder Base +3 para cada tipo de efeito negativo no alvo (máx. 9) || [WhenUse] Ganha 5 [Agility] no próximo turno (uma vez por turno) || [WhenUse] Ganha 10 [Breath] e +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 7 de [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Deal +300% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

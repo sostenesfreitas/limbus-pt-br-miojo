@@ -1,0 +1,364 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9103601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pierce",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Flesh Rip",
+                    "desc": "Se o alvo tiver 5+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]\nSe o alvo tiver 3+ tipos de efeitos negativos, inflige +1 Contagem de [Laceration] adicionais. "
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]\nSe o alvo tiver 3+ tipos de efeitos negativos, inflige +1 Contagem de [Laceration] adicionais. "
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Obra de Arte: Liberação de Ossos em Ritmo Cardiaco",
+                    "desc": "Poder Base +1 para cada 20% de PV faltante no Núcleo dessa unidade (máx. 4)\nPoder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)\n[WinDuel] Inflige +2 Contagem de [Vibration]\n[DefeatDuel] Recebe 1 de [Paralysis] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnStartCoin] Lose 30% of this unit's current Core HP (does not get Staggered due to this effect; rounded down)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] em [VibrationBleeding]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contração Muscular",
+                    "desc": "[CanDuelGuard]\n[StartBattle] Recebe 1 [MuscleContraction] no próximo turno. Quando atingido, recebe 1 [MuscleContraction] adicional (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Inserir",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rasgo Vascular",
+                    "desc": "Se o alvo tiver 5+ [Laceration], Poder Base +1\nSe o alvo tiver 3+ tipos de efeitos negativos, Causa +30% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Obra de Arte: Liberação de Ossos em Ritmo Cardiaco",
+                    "desc": "Poder Base +1 para cada 20% de PV faltante no Núcleo dessa unidade (máx. 4)\nPoder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)\n[WinDuel] Inflige +2 Contagem de [Vibration]\n[DefeatDuel] Recebe 1 de [Paralysis] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnStartCoin] Lose 30% of this unit's current Core HP (does not get Staggered due to this effect; rounded down)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] em [VibrationBleeding]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contração Muscular",
+                    "desc": "[CanDuelGuard]\n[StartBattle] Recebe 1 [MuscleContraction] no próximo turno. Quando atingido, recebe 1 [MuscleContraction] adicional (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Músculos Rígidos",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 [Desire] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rasgar e Dilacerar",
+                    "desc": "Se o alvo tiver 5+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]\nSe o alvo tiver 3+ tipos de efeitos negativos, inflige +1 Contagem de [Laceration] adicionais. "
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 [Desire] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]\nSe o alvo tiver 3+ tipos de efeitos negativos, inflige +1 Contagem de [Laceration] adicionais. "
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflict 1 [Desire] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Obra de Arte Preenchida por Desejo",
+                    "desc": "Poder Base +1 para cada 20% de PV faltante no Núcleo dessa unidade (máx. 4)\nPoder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)\n[WinDuel] Inflige +2 Contagem de [Vibration]\n[DefeatDuel] Recebe 1 de [Paralysis] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnStartCoin] Lose 30% of this unit's current Core HP (does not get Staggered due to this effect; rounded down)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Desire] no próximo turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [Switch_Vibration] into [VibrationBleeding]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9103805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fitas Apertadas",
+                    "desc": "[CanDuelGuard] || Ao ser atingida, aplica 1 [PinkRibbon_Ishmael] contra o atacante (uma vez por Habilidade) || [StartBattle] Ganha 1 [MuscleContraction] no próximo turno. Ao ser atingida, ganha 1 [MuscleContraction] adicional (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

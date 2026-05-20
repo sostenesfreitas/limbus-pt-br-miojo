@@ -1,0 +1,104 @@
+﻿{
+    "dataList": [
+        {
+            "id": "railway_5_must_participate_all",
+            "content": "Envie todos os Pecadores.\n\n※ Na Ferrovia Refratada - Linha 5, todo pecador deve ser Enviado para poder entrar."
+        },
+        {
+            "id": "mainui_personality_blocked",
+            "content": "Não Designável"
+        },
+        {
+            "id": "railway5_clear_info",
+            "content": "Informação de Conclusão"
+        },
+        {
+            "id": "railway5_clear_info_node_ui",
+            "content": "Informação de Conclusão"
+        },
+        {
+            "id": "railway_dungeon_5_entrance_recommended_level",
+            "content": "- Identidades : Estágio de Enlace 4, Nível 50"
+        },
+        {
+            "id": "railway5_clear_info_clear_turn_count",
+            "content": "Turnos Usados"
+        },
+        {
+            "id": "railway5_clear_info_ego_stock",
+            "content": "Recursos Restantes"
+        },
+        {
+            "id": "railway5_clear_info_selected_buffs",
+            "content": "Reforço Selecionado"
+        },
+        {
+            "id": "railway_dungeon_5_reward_condition_special_ticket",
+            "content": "Obtido ao concluir a Linha 5 com 100 ou menos no Total de Turnos antes do término da Temporada 5 - Oblivion."
+        },
+        {
+            "id": "railway_dungeon_5_statistics_button",
+            "content": "Details"
+        },
+        {
+            "id": "railway_dungeon_5_required_condition_to_enter_format",
+            "content": "※ Information\n\nEach Sinner needs to have at least 2 Identities in order to enter {0}."
+        },
+        {
+            "id": "railway_dungeon_5_reward_condition_special_ticket_warning",
+            "content": "<color=#990000>※ This cannot be obtained after Season 5: Oblivion ends.</color>"
+        },
+        {
+            "id": "railway_dungeon_5_reward_condition_warning",
+            "content": "※ Observe que quaisquer recompensas reivindicadas após o fim da Temporada 5: Esquecimento serão afetadas pelo processo de transferência Sazonal. Quaisquer moedas Sazonais, como <color=#990000>Caixas de Egoshard e Caixas de Egoshard Nomeáveis</color> serão reduzidas pela metade. || (Caixas de Egoshard—tanto Aleatórias quanto Nomeáveis—que não foram transferidas são convertidas em Caixas de Fio.)"
+        },
+        {
+            "id": "railway_dungeon_5_banner_reward_condition_1",
+            "content": "Obtido ao concluir a Ferrovia Refratada - Linha 5"
+        },
+        {
+            "id": "railway_dungeon_5_banner_reward_condition_2",
+            "content": "Obtido ao concluir a Linha 5 com {0} ou menos no Total de Turnos antes do término da <color=#9a0634>Temporada 5: Oblivion</color>"
+        },
+        {
+            "id": "railway_5_banned_personality_exist",
+            "content": "Uma Identidade trancada está entre as Identidades Enviadas.\n\n※ Favor notar que, na Ferrovia Refratada - Linha 5, Identidades que participaram na Seção #1 não podem participar da Seção #2."
+        },
+        {
+            "id": "railway_5_ally_buff",
+            "content": "Reforços"
+        },
+        {
+            "id": "railway_5_enemy_buff",
+            "content": "Adversidades"
+        },
+        {
+            "id": "railway_5_section",
+            "content": "Seção #{0}"
+        },
+        {
+            "id": "railway_5_warning_enter_node_1",
+            "content": "Favor notar que as Identidades participando da Seção #1 não poderão participar da Seção #2.\n\nTem certeza de que você quer usar esta formação para a Seção #1?"
+        },
+        {
+            "id": "railway_5_select_buff_title",
+            "content": "Selecionar Reforços"
+        },
+        {
+            "id": "railway_5_stage_level_warning",
+            "content": "※ Current Avg. ID Level: <color=#990000>{0}</color> (Recommended Level: <color=#990000>{1}</color>)"
+        },
+        {
+            "id": "railway_dungeon_5_entrance_recommended_gacksung",
+            "content": "- E.G.O : Threadspin Tier 4"
+        },
+        {
+            "id": "railway_dungeon_advice_5_openCondition_desc",
+            "content": "Clear Canto VII"
+        },
+        {
+            "id": "railway_dungeon_advice_5_level_desc",
+            "content": "- Identidades : Estágio de Enlace 4, Nível 50\n- E.G.O : Estágio de Tecelagem 4"
+        }
+    ]
+}

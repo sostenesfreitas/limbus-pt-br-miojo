@@ -1,0 +1,627 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1001,
+            "name": "Máscara de um Devoto ",
+            "desc": "Todos os aliados recebem +5 Níveis Defensivos.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1001",
+                    "simpleDesc": "Nível Defensivo +5"
+                }
+            ]
+        },
+        {
+            "id": 1002,
+            "name": "Curativos Desgastados",
+            "desc": "Todos os aliados recebem +10% de PV Máx.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1002",
+                    "simpleDesc": "PV Máx. +10%"
+                }
+            ]
+        },
+        {
+            "id": 1003,
+            "name": "Fragmento Infectado",
+            "desc": "No início do turno, aliados com 50% ou menos saúde curam 5 PV.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1003",
+                    "simpleDesc": "Aliados com <50% de vida recuperam 5 PV"
+                }
+            ]
+        },
+        {
+            "id": 1004,
+            "name": "Máscara Ensanguentada de um Devoto",
+            "desc": "Todos os aliados recebem +5 Níveis Ofensivos e +5 Níveis Defensivos.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1004",
+                    "simpleDesc": "Nível Ofensivo & Defensivo +5"
+                }
+            ]
+        },
+        {
+            "id": 1005,
+            "name": "Broche de Ébano",
+            "desc": "Nos primeiros 3 turnos da batalha, inflige 2 Restrição em todos os inimigos.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1005",
+                    "simpleDesc": "Inflige 2 de Restrição"
+                }
+            ]
+        },
+        {
+            "id": 1006,
+            "name": "Gravura do Juízo Final",
+            "desc": "No primeiro turno da batalha, inflige 1 Queimadura em todos os inimigos 5 vezes.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1006",
+                    "simpleDesc": "Inflige 1 Queimadura"
+                }
+            ]
+        },
+        {
+            "id": 1011,
+            "name": "Punho de brinquedo",
+            "desc": "Todos os aliados causam +10% de dano.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1011",
+                    "simpleDesc": "Dano +10%"
+                }
+            ]
+        },
+        {
+            "id": 1012,
+            "name": "Pé de brinquedo",
+            "desc": "Todos os aliados recebem +1 de Velocidade.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1012",
+                    "simpleDesc": "VEL +1"
+                }
+            ]
+        },
+        {
+            "id": 1013,
+            "name": "Parafuso de brinquedo",
+            "desc": "Todos os aliados recebem +10% de PV Máx.",
+            "abnormalityName": "Cyborg",
+            "simpleDesc": [
+                {
+                    "abilityID": "1013",
+                    "simpleDesc": "PV Máx. +10%"
+                }
+            ]
+        },
+        {
+            "id": 1014,
+            "name": "Corda Arco-íris",
+            "desc": "No começo do turno, aplica 2 Proteção ao aliado com menor PV.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1014",
+                    "simpleDesc": "Recebe 2 Proteção"
+                }
+            ]
+        },
+        {
+            "id": 1015,
+            "name": "Corda Enferrujada",
+            "desc": "No começo do turno, aplica 1 Proteção ao aliado com menor PV.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1015",
+                    "simpleDesc": "Recebe 1 Proteção"
+                }
+            ]
+        },
+        {
+            "id": 1016,
+            "name": "Kit Cirúrgico de Emergência",
+            "desc": "Durante a batalha, se um aliado receber dano letal, seu PV não cairá abaixo de 1.\nNo próximo turno, cura completamente seu PV e ganha 3 Cirurgia.\nEle morrerá no final da batalha.\n(Ativa uma vez por masmorra, logo a Bênção expira.)",
+            "simpleDesc": [
+                {
+                    "abilityID": "1016",
+                    "simpleDesc": "Cura todos os PV"
+                },
+                {
+                    "abilityID": "10161",
+                    "simpleDesc": "Recebe 3 'Cirurgia'"
+                }
+            ]
+        },
+        {
+            "id": 1018,
+            "name": "Laço Serpenteante",
+            "desc": "Após ganhar um Confronto usando uma habilidade de Luxúria, inflige 1 Restrição e 1 Frágil no próximo turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1018",
+                    "simpleDesc": "Inflige 1 de Restrição"
+                },
+                {
+                    "abilityID": "10181",
+                    "simpleDesc": "Inflige 1 Fragilidade"
+                }
+            ]
+        },
+        {
+            "id": 1021,
+            "name": "Uma Marca",
+            "desc": "A determinação de Sinclair de enfrentar Kromer. Após três traços serem desenhados...",
+            "simpleDesc": [
+                {
+                    "abilityID": "1021",
+                    "simpleDesc": "Vontade do Sinclair"
+                }
+            ]
+        },
+        {
+            "id": 1022,
+            "name": "Uma Marca",
+            "desc": "A determinação de Sinclair de enfrentar Kromer. Após três traços serem desenhados...",
+            "simpleDesc": [
+                {
+                    "abilityID": "1022",
+                    "simpleDesc": "Vontade do Sinclair"
+                }
+            ]
+        },
+        {
+            "id": 1023,
+            "name": "Uma Marca",
+            "desc": "A determinação de Sinclair de enfrentar Kromer. Após três traços serem desenhados...",
+            "simpleDesc": [
+                {
+                    "abilityID": "1023",
+                    "simpleDesc": "Vontade do Sinclair"
+                }
+            ]
+        },
+        {
+            "id": 1024,
+            "name": "Uma Marca",
+            "desc": "A determinação de Sinclair de enfrentar Kromer. Após três traços serem desenhados...",
+            "simpleDesc": [
+                {
+                    "abilityID": "1024",
+                    "simpleDesc": "Vontade do Sinclair"
+                }
+            ]
+        },
+        {
+            "id": 1032,
+            "name": "Montante de Tochas",
+            "desc": "Inicia as próximas 3 batalhas com 3 de Aceleração.\nExpira em seguida.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1032",
+                    "simpleDesc": "Recebe 3 Aceleração"
+                }
+            ]
+        },
+        {
+            "id": 1033,
+            "name": "Chave do Antigo Armazém",
+            "desc": "Usada em certos eventos. Expira após uso.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1033",
+                    "simpleDesc": "Usado em eventos"
+                }
+            ]
+        },
+        {
+            "id": 1034,
+            "name": "Juba Vermelha como Sangue",
+            "desc": "Aliados com habilidades de Luxúria ganham os seguintes efeitos:\nSe a unidade não recebeu dano por ataques esse turno, ganha 2 de Aceleração e 2 de Poder Defensivo Aumentado no próximo turno.\nSe a unidade recebeu dano de ataques esse turno, ganha 2 Restrição e 2 Poder de Ataque Aumentado no próximo turno.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1034",
+                    "simpleDesc": "Recebe 2 Aceleração e Poder Defensivo Aumentado"
+                },
+                {
+                    "abilityID": "10341",
+                    "simpleDesc": "Recebe 2 Restrição e Poder de Ataque Aumentado"
+                }
+            ]
+        },
+        {
+            "id": 1037,
+            "name": "Selo da N Corp.",
+            "desc": "Usado em certos eventos. Expira após uso.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1037",
+                    "simpleDesc": "Usado em eventos"
+                }
+            ]
+        },
+        {
+            "id": 1038,
+            "name": "Emblema de Pureza",
+            "desc": "Para a identidade que realizou o rito: Aumenta o poder de habilidades de Ira em 2.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1038",
+                    "simpleDesc": "Poder de Habilidade de Ira +2"
+                }
+            ]
+        },
+        {
+            "id": 1039,
+            "name": "Emblema de Lágrimas",
+            "desc": "Para a identidade que realizou o rito: Aumenta o poder de habilidades de Melancolia em 2.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1039",
+                    "simpleDesc": "Poder de Habilidade de Melancolia +2"
+                }
+            ]
+        },
+        {
+            "id": 1040,
+            "name": "Crânio Brilhoso",
+            "desc": "No começo de seu turno, se o personagem sofreu 10+ dano no último turno, cure 5~15 PV.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1040",
+                    "simpleDesc": "Cura 5-15 PV"
+                }
+            ]
+        },
+        {
+            "id": 1041,
+            "name": "Mão Hemorrágica",
+            "desc": "No começo de seu turno, aplique Poder de Ataque Aumentado nos aliados que estão com 25% ou menos de vida.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1041",
+                    "simpleDesc": "Recebe 2 Poder de Ataque Aumentado"
+                }
+            ]
+        },
+        {
+            "id": 1042,
+            "name": "Língua Zombeteira",
+            "desc": "Causa +10% de dano num Confronto vitorioso.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1042",
+                    "simpleDesc": "Dano +10%"
+                }
+            ]
+        },
+        {
+            "id": 1043,
+            "name": "Emblema de Redenção",
+            "desc": "Para a identidade que realizou o rito: Aumente o Poder das habilidades de Luxúria em 2.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1043",
+                    "simpleDesc": "Poder de Habilidade de Luxúria +2"
+                }
+            ]
+        },
+        {
+            "id": 1044,
+            "name": "Direito do Ritualista",
+            "desc": "Todos aliados sofrem -20% de dano de ataques de Luxúria.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1044",
+                    "simpleDesc": "Dano Sofrido -20%"
+                }
+            ]
+        },
+        {
+            "id": 1046,
+            "name": "Pele Verde",
+            "desc": "Se um aliado sofrer um ataque letal, ele cura 50% de seu PV Máximo.\n(Uma vez por masmorra e expira após ativação.)",
+            "simpleDesc": [
+                {
+                    "abilityID": "1046",
+                    "simpleDesc": "Cura 50% dos PV Máx."
+                }
+            ]
+        },
+        {
+            "id": 1048,
+            "name": "Elmo Cilíndrico",
+            "desc": "Poder de Habilidade Defensiva +1",
+            "simpleDesc": [
+                {
+                    "abilityID": "1048",
+                    "simpleDesc": "Poder de Habilidade Defensiva +1"
+                }
+            ]
+        },
+        {
+            "id": 1049,
+            "name": "Martelo",
+            "desc": "Ao infligir Tremor com efeitos de Habilidade, 50% de chance de infligir mais 1.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1049",
+                    "simpleDesc": "Inflige 1 de Tremor adicional"
+                }
+            ]
+        },
+        {
+            "id": 1050,
+            "name": "Prego",
+            "desc": "Ao infligir Sangramento com efeitos de Habilidade, 50% de chance de infligir mais 1.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1050",
+                    "simpleDesc": "Inflige 1 de Sangramento adicional"
+                }
+            ]
+        },
+        {
+            "id": 1051,
+            "name": "Escrituras do Prego e Martelo",
+            "desc": "Ao usar uma habilidade de Orgulho, perca 5 PS, mas aumente o dano em 5%",
+            "simpleDesc": [
+                {
+                    "abilityID": "1051",
+                    "simpleDesc": "Habilidades de Orgulho custam 5 PS"
+                },
+                {
+                    "abilityID": "10511",
+                    "simpleDesc": "Dano de Habilidade de Orgulho +5%"
+                }
+            ]
+        },
+        {
+            "id": 1052,
+            "name": "Coxa de Frango Deliciosa",
+            "desc": "Ao infligir Queimadura com efeitos de habilidade em inimigos, inflige +5 Contagem de Queimadura.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1052",
+                    "simpleDesc": "When inflicting Burn with skill effects, inflict +5 Burn Count."
+                }
+            ]
+        },
+        {
+            "id": 1053,
+            "name": "Peito de Frango seco de rachar",
+            "desc": "Ao infligir Ruptura com efeitos de habilidades contra inimigos, inflige +5 Contagem de Ruptura.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1053",
+                    "simpleDesc": "When inflicting Rupture with skill effects, inflict +5 Rupture Count."
+                }
+            ]
+        },
+        {
+            "id": 1054,
+            "name": "Marinada ao Tango",
+            "desc": "Aliados ganham Poder de Confronto pela metade de sua Velocidade contra oponentes com Velocidade menor.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1054",
+                    "simpleDesc": "Gain +(Speed/2) Clash Power."
+                }
+            ]
+        },
+        {
+            "id": 1055,
+            "name": "Agulha e Linha Contaminadas",
+            "desc": "A cada turno, a primeira habilidade a causar dano a um inimigo inflige Sangramento em 1/3 do dano causado.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1055",
+                    "simpleDesc": "Inflict (damage dealt/3) Bleed Potency"
+                }
+            ]
+        },
+        {
+            "id": 1056,
+            "name": "Agulha Afiada e Linha",
+            "desc": "A cada turno, a primeira habilidade a causar dano a um inimigo causa dano fixo adicional equivalente à metade do dano causado.",
+            "simpleDesc": [
+                {
+                    "abilityID": "1056",
+                    "simpleDesc": "Deal (damage dealt/2) bonus fixed damage"
+                }
+            ]
+        },
+        {
+            "id": 2001,
+            "name": "Ampola Pequena",
+            "desc": "No início do turno, aliados abaixo de 40% de PV curam 100% do PV Máx. (Uma vez por Piso)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2001",
+                    "simpleDesc": "Cura Completa Condicional"
+                }
+            ]
+        },
+        {
+            "id": 2002,
+            "name": "Pedaço de Ovo Quebrado",
+            "desc": "No primeiro turno de cada encontro, ganha 2 recursos E.G.O de uma afinidade aleatória em posse",
+            "simpleDesc": [
+                {
+                    "abilityID": "2002",
+                    "simpleDesc": "Recebe 2 Recursos E.G.O para uma afinidade aleatório que você possui"
+                }
+            ]
+        },
+        {
+            "id": 2003,
+            "name": "Ilusão Fria",
+            "desc": "Habilidades de Gula causam +10% de dano",
+            "simpleDesc": [
+                {
+                    "abilityID": "2003",
+                    "simpleDesc": "Dano de Habilidade de Gula +10%"
+                }
+            ]
+        },
+        {
+            "id": 2004,
+            "name": "Ilusão Afiada",
+            "desc": "Habilidades de Orgulho causam +10% de dano",
+            "simpleDesc": [
+                {
+                    "abilityID": "2004",
+                    "simpleDesc": "Dano de Habilidade de Orgulho +10%"
+                }
+            ]
+        },
+        {
+            "id": 2005,
+            "name": "Ilusão Fragrante",
+            "desc": "Habilidades de Preguiça causam +10% de dano",
+            "simpleDesc": [
+                {
+                    "abilityID": "2005",
+                    "simpleDesc": "Dano de Habilidade de Preguiça +10%"
+                }
+            ]
+        },
+        {
+            "id": 2006,
+            "name": "Rastro de Estrelas",
+            "desc": "Quando abaixo de 0 PS, habilidades de Melancolia e Preguiça tem +1 de Poder Final",
+            "simpleDesc": [
+                {
+                    "abilityID": "2006",
+                    "simpleDesc": "Poder Final de Habilidade de Preguiça e Melancolia +1 quando PS está abaixo de 0"
+                }
+            ]
+        },
+        {
+            "id": 2007,
+            "name": "Broto Pungente",
+            "desc": "Ao infligir Afogamento com efeitos de Habilidade, 50% de chance de infligir mais 1.",
+            "simpleDesc": [
+                {
+                    "abilityID": "2007",
+                    "simpleDesc": "Ao infligir Afogamento com efeitos de Habilidade, aplica 1 de Afogamento a mais com 50% de chance"
+                }
+            ]
+        },
+        {
+            "id": 2008,
+            "name": "Lágrimas Quentes",
+            "desc": "Recebe -10% dano de afinidade de Ira\nQuando atingido, ganha 1 Poder de Ataque Aumentado próximo turno (Uma vez por turno por Pecador)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2009",
+                    "simpleDesc": "Dano de Ira Sofrido -20%"
+                },
+                {
+                    "abilityID": "200901",
+                    "simpleDesc": "Ao ser atingido, recebe 1 Poder de Ataque Aumentado no próximo turno"
+                }
+            ]
+        },
+        {
+            "id": 2009,
+            "name": "Lágrima Fria",
+            "desc": "Quando atacado, recebe 1 de proteção no próximo turno (Uma vez por turno por Pecador)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2009",
+                    "simpleDesc": "Ao ser atingido, recebe 1 Proteção no próximo turno"
+                }
+            ]
+        },
+        {
+            "id": 2010,
+            "name": "Memórias de Fragmentos",
+            "desc": "Em um Confronto, habilidades de Orgulho e Inveja tem +1 de Poder de Confronto",
+            "simpleDesc": [
+                {
+                    "abilityID": "2010",
+                    "simpleDesc": "Em um Confronto, Habilidades de Orgulho e Inveja recebem Poder de Confronto +1"
+                }
+            ]
+        },
+        {
+            "id": 2011,
+            "name": "Pedaço de uma Primavera Despedaçada.",
+            "desc": "Recebe -10% de dano de Afinidade com Orgulho.\n\n<i>\"Eu sentiria um desejo de me dispersar pelos ventos em um azul exuberante, sentindo o balançar das sementes mergulhando em minha mente turbulenta.\"</i> ",
+            "simpleDesc": [
+                {
+                    "abilityID": "2011",
+                    "simpleDesc": "Dano de Orgulho Sofrido -10%"
+                }
+            ]
+        },
+        {
+            "id": 2012,
+            "name": "Pedaço de um Verão Despedaçado",
+            "desc": "Recebe -10% de dano de afinidade com Gula\n\n<i>\"Não via sentido em tentar compreender os caprichos do clima. Simplesmente esperaria as coisas se acalmarem, aguardando a chegada do dia</i>\"",
+            "simpleDesc": [
+                {
+                    "abilityID": "2012",
+                    "simpleDesc": "Sofre -10% de dano de afinidade Gula ||  || <i>\"Ai, fui descuidada em minha suposição de que poderia simplesmente observar de viés conforme acontecesse até que tivesse se infiltrado... A realização vem tarde demais.\"</i>"
+                }
+            ]
+        },
+        {
+            "id": 2013,
+            "name": "Pedaço de um Outono Despedaçado",
+            "desc": "Recebe -10% de dano de afinidade com Melancolia\n\n<i>\"Infelizmente, Fui descuidado ao supor que poderia simplesmente observar de soslaio enquanto acontecia, até que se infiltrasse... A compreensão chega tarde demais.\"</i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2013",
+                    "simpleDesc": "Dano de Melancolia Sofrido -10%"
+                }
+            ]
+        },
+        {
+            "id": 2014,
+            "name": "Pedaço de um Inverno Despedaçado.",
+            "desc": "Recebe -10% de dano de Afinidade com preguiça\n\n<i>\"A explosão da liga dos nove destruiu tudo q existia, e tudo chegou ao fim para mim também.\"</i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2014",
+                    "simpleDesc": "Dano de Preguiça Sofrido -10%"
+                }
+            ]
+        },
+        {
+            "id": 2015,
+            "name": "Pedaço de um Vínculo Quebrado",
+            "desc": "As habilidades de Yi Sang ganham +2 de Poder Final\nQuando um aliado morre, os aliados restantes ganham 1 de Aceleração e 1 de Poder de Ataque Aumentado no próximo turno. (Uma vez por turno)\n\n<i>\"Olhando para trás em nossos caminhos... todos nós temos sofrido grandes perdas.\"</i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2015",
+                    "simpleDesc": "Poder de Habilidade Final do Yi Sang +2"
+                },
+                {
+                    "abilityID": "201501",
+                    "simpleDesc": "Quando um aliado morre, os aliados restantes recebem 1 Aceleração e 1 Poder de Habilidade de Ataque Aumentado no próximo turno (Uma vez por turno)"
+                }
+            ]
+        },
+        {
+            "id": 2016,
+            "name": "Pedaço de Memórias Avessas",
+            "desc": "O nível do Yi Sang aumenta para 35.\nOs Estágios de Enlace e Tecelagem do Yi Sang vão para o Estágio 3.\n\n<i>\"Não éramos magnatas nem abutres vorazes; éramos meras crianças que amavam tecnologia.\"</i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2016",
+                    "simpleDesc": "Nível do Yi Sang sobe para 35."
+                },
+                {
+                    "abilityID": "201601",
+                    "simpleDesc": "Estágios de Enlace e Tecelagem de Yi Sang sobem para o Estágio 4"
+                }
+            ]
+        }
+    ]
+}

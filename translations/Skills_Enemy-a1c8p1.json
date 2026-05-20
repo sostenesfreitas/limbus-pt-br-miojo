@@ -1,0 +1,1416 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9020301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressure Point Penetration",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressure Point Crush",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ de [Laceration], Poder de Confronto +1\n[WhenUse] Se o alvo tiver 4+ de [Vibration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Palanquin Crush",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ de [Laceration], Poder de Confronto +1\n[WhenUse] Se o alvo tiver 4+ de [Vibration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guarda",
+                    "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)"
+                }
+            ]
+        },
+        {
+            "id": 9020401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressure Point Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressure Point Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ de [Laceration], Poder de Confronto +1\n[WhenUse] Se o alvo tiver 4+ de [Vibration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Palanquin Buster",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ Contagem de [Laceration], Poder de Confronto +1\n[WhenUse] Se o alvo tiver 4+ Contagem de [Vibration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] [VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guarda",
+                    "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)"
+                }
+            ]
+        },
+        {
+            "id": 9020101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pinpoint Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Circular Roundhouse Point-Strike",
+                    "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Circular Roundhouse Strike",
+                    "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "Gain Coin Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Center Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Semicircular Roundhouse Point-Strike",
+                    "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Semicircular Roundhouse Strike",
+                    "desc": "Gain Clash Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "Gain Coin Power +1 for every type of negative effect on self (max 3)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Arranhar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Arranhos Selvagem",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Tear Off",
+                    "desc": "[WhenUse] Poder Base +1 para cada 20% de PV faltante em si (máx. 4)\n[WhenUse] Poder de Moeda +1 para cada 6 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de [Burst] e +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leaping Cracked Jar",
+                    "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Claw Scratch",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wild Scratching",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Latching On",
+                    "desc": "[WhenUse] Poder Base +1 para cada 20% de PV faltante em si (máx. 4)\n[WhenUse] Poder de Moeda +1 para cada 6 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leaping Cracked Jar",
+                    "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wound Digging",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wild Digging",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Flesh Digging",
+                    "desc": "[WhenUse] Poder Base +1 para cada 20% de PV faltante em si (máx. 4)\n[WhenUse] Poder de Moeda +1 para cada 6 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leaping Cracked Jar",
+                    "desc": "[EndSkill] Randomly inflict 2 of the following effects next turn. Dies after dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wound Clawing",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Flesh Tearing",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Writhing in Loneliness",
+                    "desc": "[WhenUse] Poder Base +1 para cada 10%  de PV faltante em si (máx. 5)\n[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 3)\n\n[WhenUse] Se o alvo tiver 10+ de ([Burst] + Contagem de [Burst]), inflije Contagem de [Burst] igual ao Contagem de [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 15+ de ([Burst] + Contagem de [Burst]), inflige (Potência de [Burst] x Contagem de [Burst]) de dano de Gula (máx. 40)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +5 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 5+ de [Burst], reusa essa Habilidade (2 vezes máx.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102205,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leaping Cracked Jar",
+                    "desc": "[EndSkill] Randomly inflict 3 of the following effects next turn. Dies after dealing 30 damage\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Slash",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressuring",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ruptured Image Execution",
+                    "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sweep Away",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cornering",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Execution of the Ruptured Image",
+                    "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Parrying Slash",
+                    "desc": "[WhenUse] Se o alvo tiver 8+ de [Laceration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pressuring Slash",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Waveslash",
+                    "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 20%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Becalming of a Bewildered Steed",
+                    "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Deal +2% damage for every ([Laceration] + [Laceration] Count) on the target (max 50%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Counter",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [AttackDown] e [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frontal Swirl",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ [Laceration], Poder Base +1\n[WhenUse] Recebe 1 de [SipOfAlcohol]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Way of the Open-throat Chugging",
+                    "desc": "[WhenUse] Poder Base +1 para cada 5 de [Laceration] no alvo (máx. 2)\n[WhenUse] Recebe 1 de [SipOfAlcohol]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Waterfall",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ [Laceration], Poder de Moeda +1\n\n[DefeatDuel] Perde 3 de [SipOfAlcohol]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Drunklaim",
+                    "desc": "[WhenUse] Coin Power +1 for every 5 [Laceration] on target (max 2)\n[WhenUse] At 3+ [SipOfAlcohol], convert all Coins on this Skill to [SuperCoin]s",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 20%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se essa unidade tiver 3+ [SipOfAlcohol], reusa esta Habilidade uma vez (uma vez por Habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102105,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Drunken Returning Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [AttackDown] e [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102106,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Verdadeiro Golpe Finalizador",
+                    "desc": "[StartBattle] HP does not drop below 1 before this Skill ends.\n[WhenUse] Gain 10 [AttackUp]\n[WhenUse] Gain 5 [Enhancement]\n[WhenUse] Gain 10 [AttackDmgUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [SipOfAlcohol]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102107,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Intoxicated Leaning",
+                    "desc": "[WhenUse] Ganha 5 de Escudo para cada [SipOfAlcohol] em si (máx. 25) || [WhenUse] Ganha [SipOfAlcohol] igual ao número de Habilidades mirando esta unidade (máx. 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

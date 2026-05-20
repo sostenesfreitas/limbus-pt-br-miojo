@@ -1,0 +1,249 @@
+﻿{
+    "dataList": [
+        {
+            "id": "battle_8099_s4_1-02",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Chega de brincadeira."
+        },
+        {
+            "id": "battle_8099_s2_2-01",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Todos serão..."
+        },
+        {
+            "id": "battle_8099_s2_2-02",
+            "desc": "Ativação de Habilidade",
+            "dlg": "EXTERMINADOS!"
+        },
+        {
+            "id": "battle_ak_8105_1-02",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Eu sou a capitã deste Lago... da Cidade...\nEu destruirei o coração desta besta e cortarei o mal pelas raízes!"
+        },
+        {
+            "id": "battle_selection1_8105_1",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Sim... rasgue meu coração e impale meu crânio, Ishmael!"
+        },
+        {
+            "id": "battle_selection2_8105_1",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Se já foi uma Ahab... sempre serás uma Ahab...!"
+        },
+        {
+            "id": "battle_sacrifice_8106_1",
+            "desc": "Início de Fase",
+            "dlg": "Agora, lutem em meu lugar!"
+        },
+        {
+            "id": "battle_sacrifice_8106_2",
+            "desc": "Início de Fase",
+            "dlg": "Finalmente chegou a hora, minha cara tripulação!"
+        },
+        {
+            "id": "battle_order_attack_8106",
+            "desc": "Assist Attack",
+            "dlg": "Me cobre!"
+        },
+        {
+            "id": "battle_order_defence_8106",
+            "desc": "Defesa Assistente",
+            "dlg": "Agora, me protege!"
+        },
+        {
+            "id": "battle_entry_10001_1",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Quando você perder de vista o seu caminho,\nquando não souber qual estrada seguir..."
+        },
+        {
+            "id": "battle_entry_10001_2",
+            "desc": "Ativação de Habilidade",
+            "dlg": "O guia lhe mostrará o caminho,"
+        },
+        {
+            "id": "battle_entry_10001_3",
+            "desc": "Ativação de Habilidade",
+            "dlg": "Dante."
+        },
+        {
+            "id": "battle_8173_phaseclear_2",
+            "desc": "",
+            "dlg": "Que revoltante."
+        },
+        {
+            "id": "battle_8173_phaseclear_3",
+            "desc": "",
+            "dlg": "Não há descanso que nos aguarde."
+        },
+        {
+            "id": "battle_8173_kill_1",
+            "desc": "",
+            "dlg": "Não, você terá de sofrer ainda mais!"
+        },
+        {
+            "id": "battle_8173_kill_2",
+            "desc": "",
+            "dlg": "Sequer temos o direito de respirar."
+        },
+        {
+            "id": "battle_8173_kill_3",
+            "desc": "",
+            "dlg": "Feche os olhos e afunde em tua própria miséria."
+        },
+        {
+            "id": "battle_8173_skill_1",
+            "desc": "",
+            "dlg": "O momento da ruína se aproxima."
+        },
+        {
+            "id": "battle_8173_skill_2",
+            "desc": "",
+            "dlg": "Que se contorçam no mais profundo abismo de tormento!"
+        },
+        {
+            "id": "battle_8173_phase_1_1",
+            "desc": "",
+            "dlg": "Onde está...? Venha aos meus braços, Catherine!"
+        },
+        {
+            "id": "battle_8173_phase_1_2",
+            "desc": "",
+            "dlg": "Heathcliff!"
+        },
+        {
+            "id": "battle_8173_phase_1_3",
+            "desc": "",
+            "dlg": "Em algum lugar... Eu ouço tua voz. Oh, eu suplico..."
+        },
+        {
+            "id": "battle_8173_phase_2",
+            "desc": "",
+            "dlg": "Que desperte em meio ao tormento, minha querida Catherine."
+        },
+        {
+            "id": "battle_8173_phase_3",
+            "desc": "",
+            "dlg": "Por favor, Catherine... Apareça diante de mim e faça-me em pedaços.\nDeixe-me olhar em teus olhos enquanto expio..."
+        },
+        {
+            "id": "7SV-016",
+            "desc": "",
+            "dlg": "You can stop galloping onward, now."
+        },
+        {
+            "id": "7SV-017",
+            "desc": "",
+            "dlg": "Que aventura podeis vós possivelmente empreender, com almas tão frágeis?"
+        },
+        {
+            "id": "S703V-1312",
+            "desc": "",
+            "dlg": "My name... is Quixote!"
+        },
+        {
+            "id": "S703V-1313",
+            "desc": "",
+            "dlg": "I, Don Quixote, declare upon my honor: this lance shall end that hollow, juvenile dream!"
+        },
+        {
+            "id": "S703V-1314",
+            "desc": "",
+            "dlg": "My name is Sancho!"
+        },
+        {
+            "id": "S703V-1314-1",
+            "desc": "",
+            "dlg": "E eu, Sancho, declaro por minha honra: esta lança porá fim àquele apodrecente e indolente sonho!"
+        },
+        {
+            "id": "7SV-104-01",
+            "desc": "",
+            "dlg": "No matter how impossible it may be..."
+        },
+        {
+            "id": "7SV-104-02",
+            "desc": "",
+            "dlg": "Until I reach that dream..."
+        },
+        {
+            "id": "7SV-104-03",
+            "desc": "",
+            "dlg": "I'll keep pushing to the—"
+        },
+        {
+            "id": "7SV-104-04",
+            "desc": "",
+            "dlg": "Nay... I shall gallop ever-onward, unbroken, unrelenting to the end!!"
+        },
+        {
+            "id": "8SV-033",
+            "desc": "",
+            "dlg": "Vou mandar a real. Bem impressionante que cês conseguiram chegar tão longe."
+        },
+        {
+            "id": "8SV-033-1",
+            "desc": "",
+            "dlg": "Mas... Yoshihide..."
+        },
+        {
+            "id": "8SV-033-2",
+            "desc": "",
+            "dlg": "... Se cê queria vencer pra valer, era pra ter sacado a tua espada!"
+        },
+        {
+            "id": "8SV-043",
+            "desc": "",
+            "dlg": "Sejam honrados em minha presença, logo que...\n... são os primeiros a observar o poder deste Bolus."
+        },
+        {
+            "id": "HONGLU_EMOTION_HAPPY",
+            "desc": "",
+            "dlg": "Felicidade"
+        },
+        {
+            "id": "HONGLU_EMOTION_ANGRY",
+            "desc": "",
+            "dlg": "Ira"
+        },
+        {
+            "id": "HONGLU_EMOTION_SAD",
+            "desc": "",
+            "dlg": "Mágoa"
+        },
+        {
+            "id": "HONGLU_EMOTION_JOY",
+            "desc": "",
+            "dlg": "Alegria"
+        },
+        {
+            "id": "9SV-BAT14-02-1",
+            "desc": "",
+            "dlg": "Anxiously I have awaited"
+        },
+        {
+            "id": "9SV-BAT14-02-2",
+            "desc": "",
+            "dlg": "Desperately I have hoped"
+        },
+        {
+            "id": "9SV-BAT14-02-3",
+            "desc": "",
+            "dlg": "Beyond all reckoning, I have blamed"
+        },
+        {
+            "id": "9SV-BAT14-02-4",
+            "desc": "",
+            "dlg": "And so, this moment, too...\nshall be severed."
+        },
+        {
+            "id": "9SV-BAT2-07-07",
+            "desc": "",
+            "dlg": "Ponto Carmesim."
+        },
+        {
+            "id": "9SV-BAT1-13",
+            "desc": "",
+            "dlg": "... I will cut him down."
+        }
+    ]
+}

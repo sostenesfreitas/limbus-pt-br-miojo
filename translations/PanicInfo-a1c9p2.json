@@ -1,0 +1,22 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1070,
+            "panicName": "Afeição e Ressentimento",
+            "lowMoraleDescription": "Deal +10% damage to and take +10% damage from Ryōshū",
+            "panicDescription": "Deal +20% damage to and take +10% damage from Ryōshū"
+        },
+        {
+            "id": 1074,
+            "panicName": "Vexation",
+            "lowMoraleDescription": "Gain 1 [PenetrateResultUp] and 1 [MentalIncreaseDown]",
+            "panicDescription": "Recebe 2 de [PenetrateResultUp], 1 de [PenetrateDamageUp], e 2 de [MentalIncreaseDown]"
+        },
+        {
+            "id": 1072,
+            "panicName": "Prescript Incompliance Risk",
+            "lowMoraleDescription": "Causa +20% de dano em [IndexPrescriptTargetToPersonality] || Sofre +10% de dano daqueles que não são [IndexPrescriptTargetToPersonality]",
+            "panicDescription": "Causa +30% de dano em [IndexPrescriptTargetToPersonality] || Sofre +20% de dano daqueles que não são [IndexPrescriptTargetToPersonality]"
+        }
+    ]
+}

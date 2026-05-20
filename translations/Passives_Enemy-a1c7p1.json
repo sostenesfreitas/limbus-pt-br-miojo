@@ -1,0 +1,109 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9015206,
+            "name": "Starved and Withered",
+            "desc": "Gain [StarvingBarberOne] at the start of the Encounter"
+        },
+        {
+            "id": 9015202,
+            "name": "Withered",
+            "desc": "Turn Start: if no one has [Laceration], Min Speed -2 (checks both allies & enemies)"
+        },
+        {
+            "id": 9015203,
+            "name": "Bloodsucking",
+            "desc": "Ao Atingir, se o alvo tiver [Laceration], cura em 15% do Dano Causado"
+        },
+        {
+            "id": 9015204,
+            "name": "Sangue Coagulado",
+            "desc": "Após o Ataque: Se o alvo tiver 8+ de [Laceration], recebe 1 de [HardenedBlood]"
+        },
+        {
+            "id": 9015205,
+            "name": "Blood-tinged Scissorblades",
+            "desc": "At 1+ [BloodScissor], enhance the blades of the scissor."
+        },
+        {
+            "id": 9015207,
+            "name": "Bloodbag",
+            "desc": "Quando atingido, recebe +1 Contagem de [Laceration]\nRecebe 1 de [HardenedBlood] toda vez que esta unidade perder 20% de PV\nSe tem outro Sanguemônio no campo, independente se for um aliado ou inimigo, aumenta [BloodDinner] em 30"
+        },
+        {
+            "id": 9015401,
+            "name": "Bloodsucking",
+            "desc": "On Hit, if the target has [Laceration], heal by 20% of damage dealt"
+        },
+        {
+            "id": 9015402,
+            "name": "Sangue Coagulado",
+            "desc": "Após o Ataque: Se o alvo tiver 5+ de [Laceration], recebe 1 de [HardenedBlood]"
+        },
+        {
+            "id": 9015403,
+            "name": "Thirst for Blood",
+            "desc": "- Prioriza alvos com [Laceration] || Fim do Turno: se esta unidade falhou em causar qualquer dano neste turno, ganha 2 [Vulnerable] e 2 Nível de Ataque Up no próximo turno || - Fim do Turno: se esta unidade causou dano neste turno, cura 5 SP"
+        },
+        {
+            "id": 9015404,
+            "name": "Banquete de Sangue",
+            "desc": "Se essa unidade estiver em campo ou for uma das unidades que podem aparecer nessa Fase, aumenta o valor de [BloodDinner] pela quantidade de dano de [Laceration] coletivamente recebido por todas as unidades.\nQuando essa unidade entrar em campo, o sangue dormente que encharca o campo de batalha acordará."
+        },
+        {
+            "id": 9015405,
+            "name": "Blood-tinged Scissorblades",
+            "desc": "At 2+ [BloodScissor], enhance the blades of the scissor."
+        },
+        {
+            "id": 9015601,
+            "name": "Bloodfiend Hunter",
+            "desc": "If the target is a <Bloodfiend> or a <Bloodbag>, deal +10% damage"
+        },
+        {
+            "id": 9015602,
+            "name": "Aggressive Hunting Techniques",
+            "desc": "When hitting an enemy with an Attack Skill, 10% chance to inflict +2 [Burst] Count"
+        },
+        {
+            "id": 9015603,
+            "name": "Anti-Bloodfiend Hammer",
+            "desc": "Ao usar Habilidade, se o alvo tem 10+ [Burst], causa +30% de dano em vez de aplicar [Burst] com as Habilidades desta unidade"
+        },
+        {
+            "id": 9015604,
+            "name": "Styptics",
+            "desc": "Turn End: if this unit has [Laceration], lose 1 [Laceration] Count"
+        },
+        {
+            "id": 9016001,
+            "name": "Weakling Mark",
+            "desc": "On Clash Win, inflict [TrulyWeak]"
+        },
+        {
+            "id": 9016002,
+            "name": "The Wicked Caitiffs",
+            "desc": "Loves bullying the weak"
+        },
+        {
+            "id": 9016003,
+            "name": "Bullies",
+            "desc": "Clash Power +1 when attacking an enemy with [TrulyWeak]"
+        },
+        {
+            "id": 9016101,
+            "name": "An Encounter of Moderate Difficulty",
+            "desc": "Deals +15% damage"
+        },
+        {
+            "id": 9016102,
+            "name": "The Man-eating Bear",
+            "desc": "Deal +25% damage against targets with 50%- HP"
+        },
+        {
+            "id": 9016103,
+            "name": "Big & Scary",
+            "desc": "In a Clash, the opponent just might lose 1 SP, maybe"
+        }
+    ]
+}

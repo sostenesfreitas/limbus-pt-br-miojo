@@ -1,0 +1,24 @@
+﻿{
+    "dataList": [
+        {
+            "id": 40000201,
+            "name": "Paired Assault",
+            "desc": "Quando um aliado causa dano atingindo um inimigo, usa a Habilidade 'Estocada da Fraqueza' como um Ataque sem Oposição após o ataque do aliado terminar (2 vezes por turno)"
+        },
+        {
+            "id": 40000202,
+            "name": "Aiding Stab",
+            "desc": "Quando um inimigo ataca outro aliado, e se a unidade aliada tem menos de 25% de HP após o ataque, usa a Habilidade 'Golpe de Auxílio' como um Ataque sem Oposição contra o atacante (uma vez por Encontro)"
+        },
+        {
+            "id": 40000203,
+            "name": "Siphoning Fulfillment",
+            "desc": "Turn End: gain 1 Defense Level Up next turn for every 3 Poise on self (max 6)"
+        },
+        {
+            "id": 40000204,
+            "name": "Morale Boost",
+            "desc": "On Kill, heal 10 SP for 2 Sinners with the least SP"
+        }
+    ]
+}

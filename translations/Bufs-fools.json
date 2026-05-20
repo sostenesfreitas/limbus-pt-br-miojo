@@ -1,0 +1,32 @@
+﻿{
+    "dataList": [
+        {
+            "id": "CandyForCharon",
+            "name": "Candy?",
+            "desc": "- Max Value: 1\n- Where's the candy?",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TickTockTickTock",
+            "name": "Tick-Tock?!",
+            "desc": "- Heal 10 SP at Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "CandyForCharon_LowMorale",
+            "name": "Candy",
+            "desc": "- Moral Baixa || - Ao Embater contra Identidades com Doce, Poder de Embate +3; ao embater contra outras Identidades, Poder de Embate -1",
+            "summary": "Conditional Clash Power increase",
+            "undefined": "-"
+        },
+        {
+            "id": "CandyForCharon_Panic",
+            "name": "Candy",
+            "desc": "- Pânico || - Ao Embater contra Identidades com Doce, Poder de Embate +5; ao embater contra outras Identidades, Poder de Embate -2",
+            "summary": "Conditional Clash Power increase",
+            "undefined": "-"
+        }
+    ]
+}

@@ -1,0 +1,830 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9021001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Tacada",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Brandir",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Esmagar",
+                    "desc": "[WhenUse] Consome 5 Contagem de [Charge] para ganhar Poder de Moeda +1 (máx. 2)\n[BeforeAttack] Se esta unidade consumir 5+ Contagem de [Charge], inflige +1 de [Burst]\n[BeforeAttack] Se esta unidade consumir 10+ Contagem de [Charge], inflige +3 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst] para cada 5 Contagem de [Charge] consumido Ao Usar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Ritmo",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Talho",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Enroscar",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Explodir",
+                    "desc": "[WhenUse] Consome 5 Contagem de [Charge] para ganhar Poder de Moeda +1 (máx. 2)\n[BeforeAttack] Se esta unidade consumir 5+ Contagem de [Charge], inflige +1 de [Burst]\n[BeforeAttack] Se esta unidade consumir 10+ Contagem de [Charge], inflige +3 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst] para cada 5 Contagem de [Charge] consumido Ao Usar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Ritmo",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Talhar e Esmagar",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Esmagamento Final",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Quebradiço",
+                    "desc": "[WhenUse] Consome 5 Contagem de [Charge] para ganhar Poder de Moeda +1 (máx. 2)\n[BeforeAttack] Se esta unidade consumir 5+ Contagem de [Charge], inflige +2 de [Burst]\n[BeforeAttack] Se esta unidade consumir 10+ Contagem de [Charge], inflige +3 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Dano de Gula igual à Potência de [Burst] no alvo; então reduz a Contagem de [Burst] em 1 (máx. 30)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo de Machado Carregado - Ritmo Correspondente",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Colidir",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pandemônio",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Agressão Frenética ",
+                    "desc": "[StartBattle] Com 50%- de PV, converte a terceira Moeda desta Habilidade em [SuperCoin]\n[WhenUse] Poder de Confronto +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst] e +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack] Cura em ([DefenseUp] em si)% do PV (Máx. 10%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Agachar",
+                    "desc": "[WhenUse] Recebe Escudo igual a 10% do PV Máx.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Colidir",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pandemônio",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Cura 1 outro aliado com a menor porcentagem de PV em 5% do PV Máx. desta unidade"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Voleio Frenético",
+                    "desc": "[StartBattle] Com 50%- de PV, converte a terceira Moeda desta Habilidade em [SuperCoin]\n[WhenUse] Poder Base +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack] Cura 2 outros aliados com a menor porcentagem de PV em 10% do PV Máx. desta unidade"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Agachar",
+                    "desc": "[OnSucceedEvade] Inflige +2 Contagem de [Burst] (2 vezes por turno)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Colidir",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pandemônio",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frantic Swinging",
+                    "desc": "[StartBattle] Com 50%- de PV, converte a terceira Moeda desta Habilidade em [SuperCoin]\n[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa mais +1% de dano para cada 1% de PV faltante (máx. 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Reusar esta Habilidade (1 vez máx.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Agachar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Talisman Strike",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Trigger Effect",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz em 2 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Deathrite Doll",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst] e +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz em 5 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Defend",
+                    "desc": "[StartBattle] Gain (20 - this unit's SP) Shield (min 0, max 20)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Talisman Strike",
+                    "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Trigger Effect",
+                    "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz em 3 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Execution",
+                    "desc": "[StartBattle] Em -30 SP ou menos, converte a Moeda final desta Habilidade em [SuperCoin] || [DefeatDuel] Reduz o Poder Base desta Habilidade em 75% (arredondado para baixo) || [WhenUse] Poder Final +1 para cada 4 [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reduz em 5 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Vile Burst",
+                    "desc": "[StartBattle] Poder Final +1 para cada 10 SP abaixo de 0 (máx. 3) || [DefeatDuel] Reduz o Poder Base desta Habilidade em 75% (arredondado para baixo); também, o dano ou efeito desta Habilidade não pode atordoar o(s) alvo(s) || [EndSkill] Zera o SP para 0",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de [Burst] e +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9020905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Defend",
+                    "desc": "[StartBattle] Gain (20 - this unit's SP) Shield (min 0, max 40)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿{
+    "dataList": [
+        {
+            "id": "unable_to_edit",
+            "content": "Cannot be Edited"
+        },
+        {
+            "id": "start_mp_changed",
+            "content": "Entry SP {1} {0}"
+        },
+        {
+            "id": "new_season_former_global_growth_piece_to_current_piece_desc",
+            "content": "Uma parte do Shard apenas de Aperfeiçoamento & Tecimento de Fio (Universal) que você possui será transferida para a temporada atual."
+        },
+        {
+            "id": "new_season_former_global_growth_piece_to_thread_desc",
+            "content": "Os Shards apenas de Aperfeiçoamento & Tecimento de Fio que não foram transferidos são convertidos em Fio."
+        }
+    ]
+}
