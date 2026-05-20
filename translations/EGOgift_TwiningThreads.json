@@ -1,0 +1,92 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9260,
+            "name": "Artwork: Pulsation",
+            "desc": "Se um aliado consumiu 10+ Contagem de [Charge] em um único turno com suas Habilidades Base, o referido aliado causa +20% de dano com Habilidades Base no próximo turno (excluindo 'Carga Única' com Potência fixa) || - Se a [Charge] consumida era 'Carga Única', aplica +1 a mais de [Laceration] e Contagem de [Laceration] no próximo turno",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9261,
+            "name": "Artwork: Ferity",
+            "desc": "Causa +20% de dano com Habilidades Contundentes contra inimigos que têm 35+ de Potência de [Sinking] ou estão em 15 ou menos SP (Potência de [Sinking] é calculada por Parte) || - Se a referida Habilidade Contundente é uma Habilidade de Melancolia ou uma Habilidade que aplica Potência, Contagem de [Laceration] ou 'Sangramento Único', e atingiu o alvo, ganha 1 [Enhancement] no próximo turno (uma vez por turno por Identidade)",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9262,
+            "name": "Universal Skeleton",
+            "desc": "The Ring-faction Identities: At Attack End, inflict 1 Stack of a random Attack Type Resist Down on target (2 times per turn)\n\nThe Ring-faction Identities deal +10% damage",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9263,
+            "name": "Artwork: Evolving Pulsation",
+            "desc": "Início do Turno: Ativa quando há 2 ou mais Identidades da facção do Anel (conta apenas Identidades em campo) ||  || Identidades da facção Escola de Corporismo do Anel aplicam 1 [SlashResistDown] Ao Acertar com Habilidades Base (uma vez por Habilidade; 2 vezes por turno) ||  || Identidades do Anel causam +20% de dano ||  || Início do Turno: Em 99+ de soma total de Potência de [Laceration] em todos os inimigos, Identidades da facção Escola de Corporismo do Anel ganham 1 [RingFingerPhysical]",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9264,
+            "name": "Artwork: Taxidermied Ferity",
+            "desc": "Início do Turno: Ativa quando há 2 ou mais Identidades da facção do Anel (conta apenas Identidades em campo) ||  || Identidades da facção Escola de Fauvismo do Anel aplicam 1 [HitResistDown] Ao Acertar com Habilidades Base (uma vez por Habilidade; 2 vezes por turno) ||  || Identidades do Anel causam +20% de dano ||  || Início do Turno: Em 99+ de soma total de Potência de [Laceration] em todos os inimigos, Identidades da facção Escola de Fauvismo do Anel ganham 1 [RingFingerFauvism]",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9265,
+            "name": "The Middle Styled Knuckle-dusters",
+            "desc": "If the target has 1.5 or lower Blunt Resistance, Blunt Resistance +0.3",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9266,
+            "name": "Unoccupied Birdcage",
+            "desc": "No Fim do Ataque de uma Habilidade que tem 2+ Peso de Atq, ganha +(# de acertos em um inimigo / 2) recurso E.G.O da Afinidade daquela Habilidade (arredondado para baixo; máx. 5 por Habilidade) ||  || Em Crítico com uma Habilidade que tem 2+ Peso de Atq, ganha +(# de Moedas que acertaram Criticamente) recurso E.G.O da Afinidade menos possuída no Fim do Ataque (máx. 3)",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9267,
+            "name": "Searing Brass",
+            "desc": "Max [Combustion] Potency +11\n\nTriple the first [Combustion] Potency to be inflicted in the Encounter (once per Encounter)",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 19267,
+            "name": "Searing Brass+",
+            "desc": "Max [Combustion] Potency +<style=\"upgradeHighlight\">21</style>\n\nTriple the first [Combustion] Potency to be inflicted in the Encounter (once per Encounter)",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 29267,
+            "name": "Searing Brass++",
+            "desc": "Potência Máx. de [Combustion] +21 ||  || Triplica a primeira Potência de [Combustion] a ser aplicada no Encontro (uma vez por Encontro) ||  || <style=\"upgradeHighlight\">Ao ativar [Combustion], (Reson. de Ira x 10)% de chance de causar (Potência de [Combustion] x Contagem / 11) de dano de Ira e reduzir a Contagem de [Combustion] do alvo em 1 (chance máx. de ativação: 50%; uma vez por turno)</style>",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9268,
+            "name": "Universal Instinct",
+            "desc": "Fim do Turno: Aplica aleatoriamente 1 Pilha de <noparse>Dano Up</noparse> de uma Afinidade aleatória no próximo turno em (# de inimigos com [Laceration]) Identidades da facção do Anel (uma vez por Identidade por turno; em Encontros Focados, Partes) ||  || Identidades da facção do Anel causam +10% de dano",
+            "simpleDesc": [
+                {}
+            ]
+        }
+    ]
+}

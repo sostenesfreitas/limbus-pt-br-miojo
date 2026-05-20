@@ -1,0 +1,104 @@
+﻿{
+    "dataList": [
+        {
+            "id": 940000501,
+            "name": "The Inner Self",
+            "desc": "Starting from Turn 3: gain 2 [AttackUp] at every Turn Start"
+        },
+        {
+            "id": 940000502,
+            "name": "Widening Knowledge",
+            "desc": "Antes do Ataque: o inimigo alvo ganha +1 Resist. Contundente (reseta após a Habilidade terminar)"
+        },
+        {
+            "id": 940000503,
+            "name": "Spirit of Fixers",
+            "desc": "Remove o primeiro Limiar de Atordoamento desta unidade || Ao ser atingida, ganha 1 [Protection], 1 [AttackUp], e cura 3 SP (uma vez por turno)"
+        },
+        {
+            "id": 940000504,
+            "name": "The Tianya Sword",
+            "desc": "Fim do Turno: em 15+ de Potência de [Breath], reduz a Potência de [Breath] pela metade e ganha os seguintes efeitos: || - Todos os aliados, incluindo esta unidade, curam 10 HP || - Todos os aliados, incluindo esta unidade, curam 3 SP || - Reduz pela metade todos os efeitos negativos removíveis de todos os aliados, incluindo esta unidade"
+        },
+        {
+            "id": 940000505,
+            "name": "How to Prepare for War",
+            "desc": "Encounter Start: heals 10 SP, gain 2 [AttackUp], and 2 [DefenseUp]"
+        },
+        {
+            "id": 940000506,
+            "name": "How to Survive",
+            "desc": "Neste Encontro, quando esta unidade sofre dano que reduz seu HP a 0, anula esse dano; em seguida, o HP desta unidade não pode cair abaixo de 1 pelo turno. (uma vez por Encontro)"
+        },
+        {
+            "id": 940000507,
+            "name": "Apathetic Response",
+            "desc": "When other allies are hit, gain 1 [AttackUp]; then, gain 2 [Agility] next turn (once per turn)"
+        },
+        {
+            "id": 940000508,
+            "name": "POW Torture Technique",
+            "desc": "On Hit: if target has [Binding] or [Laceration], gain 1 Clash Power Up next turn (2 times per turn)"
+        },
+        {
+            "id": 940000509,
+            "name": "The Reassuring Heart",
+            "desc": "Início do Turno: todos os aliados, incluindo esta unidade, curam 5 SP || Início de Combate: se o SP do alvo principal é igual ou maior ao desta unidade, ganha 1 [Protection] (uma vez por turno)"
+        },
+        {
+            "id": 940000510,
+            "name": "God of Gamblers",
+            "desc": "Ao Ganhar Embate sem perder nenhuma Moeda: independentemente de acertarem ou não, se cada Moeda virada por aquela Habilidade, até a Moeda final, caiu em cara, a Moeda final causa +30% de dano"
+        },
+        {
+            "id": 940000511,
+            "name": "My Bestie and a Rival",
+            "desc": "Início do Turno: se o Pecador Sinclair está participando desta batalha, esta unidade e Sinclair ambos ganham 2 [AttackUp] e 2 [DefenseUp] (não conta se ele é uma Unidade de Reserva)"
+        },
+        {
+            "id": 940000512,
+            "name": "The Hierarch of Hongyuan",
+            "desc": "Turn Start: apply 1 [DefenseUp] to all allies, including this unit"
+        },
+        {
+            "id": 940000513,
+            "name": "The Hierarch of Hongyuan",
+            "desc": "Turn Start: apply 1 [AttackUp] and 1 [DefenseUp] to all allies, including this unit"
+        },
+        {
+            "id": 940000514,
+            "name": "The Hierarch of Hongyuan",
+            "desc": "Turn Start: apply 2 [AttackUp] and 2 [DefenseUp] to all allies, including this unit"
+        },
+        {
+            "id": 940000515,
+            "name": "The Hierarch of Hongyuan",
+            "desc": "Turn Start: apply 3 [AttackUp] and 3 [DefenseUp] to all allies, including this unit"
+        },
+        {
+            "id": 940000516,
+            "name": "Jin Gang Bolus",
+            "desc": "On Clash Lose, gain 1 [Protection] and 3 [DefenseUp] (2 times per turn)"
+        },
+        {
+            "id": 940000517,
+            "name": "Jin Gang Bolus",
+            "desc": "On Clash Lose, gain 1 [Protection], 1 [AttackUp], and 3 [DefenseUp] (2 times per turn)"
+        },
+        {
+            "id": 940000518,
+            "name": "Jin Gang Bolus",
+            "desc": "On Clash Lose, gain 2 [Protection], 1 [AttackUp], and 3 [DefenseUp] (2 times per turn)"
+        },
+        {
+            "id": 940000519,
+            "name": "Jin Gang Bolus",
+            "desc": "On Clash Lose, gain 2 [Protection], 1 [AttackUp], and 4 [DefenseUp] (2 times per turn)"
+        },
+        {
+            "id": 940000520,
+            "name": "Jin Gang Bolus",
+            "desc": "On Clash Lose, gain 3 [Protection], 1 [AttackUp], and 4 [DefenseUp] (2 times per turn)"
+        }
+    ]
+}

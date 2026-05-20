@@ -1,0 +1,52 @@
+﻿{
+    "dataList": [
+        {
+            "id": "railway_dungeon_save_formation",
+            "content": "Salvar Equipe"
+        },
+        {
+            "id": "railway_dungeon_init_saved_stage_data",
+            "content": "Reset"
+        },
+        {
+            "id": "railway_dungeon_init_saved_stage_data_desc",
+            "content": "Resetar o progresso atual da Estação || e retornar ao estado imediatamente antes da entrada?"
+        },
+        {
+            "id": "railway_dungeon_3_reward_condition_special_ticket",
+            "content": "※ Obtido ao concluir o Terminal da Linha 3 com <color=#cd5e00>{0}</color> Turnos ou menos de Turnos Totais antes do fim da || <color=#003c3e>Temporada 3: Boa Viagem</color>"
+        },
+        {
+            "id": "railway_dungeon_3_banner_reward_condition_1",
+            "content": "Obtained by clearing the Terminus of Refraction Railway Line 3"
+        },
+        {
+            "id": "railway_dungeon_3_banner_reward_condition_2",
+            "content": "Obtido ao concluir o Terminal da Linha 3 com {0} Turnos ou menos de Turnos Totais antes do fim da Temporada 3: Boa Viagem"
+        },
+        {
+            "id": "railway_dungeon_before_enter_past_node_change_formation",
+            "content": "Salvar seu Loadout de Equipe vai completamente resetar qualquer progresso || feito após a Estação de Descanso selecionada. ||  || Salvar seu Loadout de Equipe assim mesmo?"
+        },
+        {
+            "id": "railway_dungeon_3_retry_popup_init",
+            "content": "Return"
+        },
+        {
+            "id": "railway_dungeon_3_boss_accumulated_turn",
+            "content": "Total de Turnos"
+        },
+        {
+            "id": "railway_dungeon_3_unit_recovered",
+            "content": "HP e SP foram restaurados."
+        },
+        {
+            "id": "railway_dungeon_3_formation_saved",
+            "content": "Seu Loadout de Equipe foi salvo."
+        },
+        {
+            "id": "railway_dungeon_before_enter_past_node_battle",
+            "content": "Tentar novamente uma Estação já concluída || vai completamente resetar qualquer progresso || que você fez desde aquela Estação. ||  || Tentar a Estação novamente assim mesmo?"
+        }
+    ]
+}

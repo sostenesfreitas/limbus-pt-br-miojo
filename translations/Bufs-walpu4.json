@@ -1,0 +1,94 @@
+﻿{
+    "dataList": [
+        {
+            "id": "RedEyeFirst",
+            "name": "Olhos Vermelhos",
+            "desc": "- Efeitos de Moeda de Habilidades Base infligem +1 de Sangramento\n- Valor Máx.: 20\n- Carga Única (Potência fixa)\n- Recurso usado por certas Habilidades para efeitos adicionais\n- Aumenta o Estágio de aprimoramento baseado no Valor\n· Estágio 1 (1~7) : Olhos Vermelhos\n· Estágio 2 (8~15) : Olhos Vermelhos - Alerta\n· Estágio 3 (16~20) : Olhos Vermelhos - Predação\n- A quantidade adicional de Sangramento infligida pela primeira linha deste reforço é equivalente ao Estágio de aprimoramento (Máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "RedEyeSecond",
+            "name": "Olhos Vermelhos - Alerta",
+            "desc": "- Efeitos de Moeda de Habilidade Base aplicam +2 a mais Sangramento || - Valor Máx.: 20 || - Carga Única (Potência fixa) || - Recurso usado por certas Habilidades para efeitos adicionais || - Aprimora o Estágio do buff baseado no Valor || · Estágio 1 (1~7): Olhos Vermelhos || · Estágio 2 (8~15): Olhos Vermelhos - Alerta || · Estágio 3 (16~20): Olhos Vermelhos - Devorando || - A quantidade de sangramento adicional aplicada pela primeira linha deste buff é igual ao Estágio de aprimoramento do buff (máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "RedEyeThird",
+            "name": "Olhos Vermelhos - Predação",
+            "desc": "- Efeitos de Moeda de Habilidade Base aplicam +3 a mais Sangramento || - Valor Máx.: 20 || - Carga Única (Potência fixa) || - Recurso usado por certas Habilidades para efeitos adicionais || - Aprimora o Estágio do buff baseado no Valor || · Estágio 1 (1~7): Olhos Vermelhos || · Estágio 2 (8~15): Olhos Vermelhos - Alerta || · Estágio 3 (16~20): Olhos Vermelhos - Devorando || - A quantidade de sangramento adicional aplicada pela primeira linha deste buff é igual ao Estágio de aprimoramento do buff (máx. 3)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceFirst",
+            "name": "Penitência",
+            "desc": "- Cura 2 SP Ao Acertar com Moedas de Habilidade Base que ganham Penitência || - Valor Máx.: 20 || - Carga Única (Potência fixa) || - Início do Turno: ganha (Penitência)% do HP máx. como Escudo || - Recurso usado por certas Habilidades para efeitos adicionais || - Aprimora o Estágio do buff baseado no Valor || · Estágio 1 (1~7): Penitência || · Estágio 2 (8~15): Penitência - Periferia || · Estágio 3 (16~20): Penitência - Confissão || - A quantidade de SP curado pela primeira linha deste buff é baseada no Estágio de aprimoramento (Estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceSecond",
+            "name": "Penitência - Vigilância",
+            "desc": "- Cura 4 SP Ao Acertar com Moedas de Habilidade Base que ganham Penitência || - Valor Máx.: 20 || - Carga Única (Potência fixa) || - Início do Turno: ganha (Penitência)% do HP máx. como Escudo || - Recurso usado por certas Habilidades para efeitos adicionais || - Aprimora o Estágio do buff baseado no Valor || · Estágio 1 (1~7): Penitência || · Estágio 2 (8~15): Penitência - Periferia || · Estágio 3 (16~20): Penitência - Confissão || - A quantidade de SP curado pela primeira linha deste buff é baseada no Estágio de aprimoramento (Estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "PenanceThird",
+            "name": "Penitência - Confissão",
+            "desc": "- Cura 6 SP Ao Acertar com Moedas de Habilidade Base que ganham Penitência || - Valor Máx.: 20 || - Carga Única (Potência fixa) || - Início do Turno: ganha (Penitência)% do HP máx. como Escudo || - Recurso usado por certas Habilidades para efeitos adicionais || - Aprimora o Estágio do buff baseado no Valor || · Estágio 1 (1~7): Penitência || · Estágio 2 (8~15): Penitência - Periferia || · Estágio 3 (16~20): Penitência - Confissão || - A quantidade de SP curado pela primeira linha deste buff é baseada no Estágio de aprimoramento (Estágio de aprimoramento x 2)",
+            "summary": ""
+        },
+        {
+            "id": "Emptiness",
+            "name": "Só Restam Cinzas",
+            "desc": "- Não consegue manter Olhos Vermelhos & Penitência\n- Ao receber Olhos Vermelhos com efeitos de Habilidades Base, cura a si e a 1 aliado com a menor porcentagem de PV por (Olhos Vermelhos ganhos)% do PV Máx. dessa unidade (2 vezes por turno)\n- Ao receber Penitência com efeitos de Habilidades Base, cura a si e a 1 aliado com a menor quantidade de PS por ((Penitência ganha)/2) PS (2 vezes por turno)\n- Fim de Turno: este efeito expira",
+            "summary": ""
+        },
+        {
+            "id": "SinkingWhite",
+            "name": "Borboleta",
+            "desc": "- Afundamento Único || - Valor Base: 0, Valor Máx.: 15 || - Ao ser atingida, o atacante cura {2} SP. || - Ao ser atingida, e se o SP desta unidade está em menos de 0, sofre {3} de dano de Melancolia. || - Fim do Turno: Zera Os Partidos deste efeito para 0; ganha Afundamento igual a Os Vivos (Potência) e converte Os Vivos em Os Partidos (Contagem). || - Este efeito expira quando tanto Os Vivos quanto Os Partidos alcançam 0.",
+            "summary": ""
+        },
+        {
+            "id": "SinkingBlack",
+            "name": "!!!OUDATED EFFECT!!!",
+            "desc": "",
+            "summary": ""
+        },
+        {
+            "id": "BulletLament",
+            "name": "Os Vivos e Os Partidos",
+            "desc": "- Munição Única\n- Potência + Contagem = Máx. 20\n- Consumido por certas Habilidades.\n- Quando consumido, seleciona aleatoriamente entre Os Vivos (Potência) ou Os Mortos (Contagem).\n- Alguns ataque cancelam se faltar Munição.",
+            "summary": ""
+        },
+        {
+            "id": "TrainTeamCaptain",
+            "name": "Training Team Captain",
+            "desc": "Slot de Habilidade +1 || Modifica o pool de Habilidades: Ganha 1 uso da Habilidade 3, mas perde 1 uso da Habilidade 1 || Início do Turno: cura 15 SP || Aumenta a quantidade de Queimadura, Sangramento, Ruptura, Afundamento ou Tremor aplicada em +1 (incluindo 'Efeitos de Status Únicos') || Aumenta a quantidade de Equilíbrio ou Carga (incluindo 'Carga Única') ganha em +1 || Em Morte, Ganha +2 recursos E.G.O para a Afinidade da Habilidade que derrotou o inimigo; ganha +1 recurso E.G.O para o resto das Afinidades",
+            "summary": ""
+        },
+        {
+            "id": "VioletUnderstand",
+            "name": "Understanding",
+            "desc": "- Deal +5% damage per Stack\n- Take +5% damage per Stack\n(max value : 5)",
+            "summary": ""
+        },
+        {
+            "id": "MentalCrack",
+            "name": "Mental Fracture",
+            "desc": "SP Loss Efficiency +1 per Stack (max 5)\nExpires when it reaches 5 Stack, and take 10 SP damage\nLose 1 Stack per turn",
+            "summary": ""
+        },
+        {
+            "id": "ImpendingCollapse",
+            "name": "Imminent Decay",
+            "desc": "Turn End: Lose 1 Stack\nTurn Start: At 1- Stack, use a special Skill",
+            "summary": ""
+        },
+        {
+            "id": "ReloadLament",
+            "name": "Recarrega",
+            "desc": "- Consome (30 - (Os Vivos + Os Partidos))/2 PS. (arredondado para baixo)\n- Redefine os valores de ambos Os Vivos e Os Partidos em si para 0, e recebe o valor máximo de sua soma baseado nas probabilidades listadas na Passiva 'ObservoABorboletaEmFalecimento.'\n- Ao Recarregar, recebe no mínimo 1 de Os Vivos e Os Partidos",
+            "summary": ""
+        }
+    ]
+}
