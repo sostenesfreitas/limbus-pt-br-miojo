@@ -1,0 +1,496 @@
+﻿{
+    "dataList": [
+        {
+            "id": 10801,
+            "name": "막힌길_뚫기",
+            "subDesc": "",
+            "desc": "Uma parede em ruínas bloqueia nosso caminho.\nHá um dispositivo nela com um rótulo que diz \"Retire seu cartão de entrada aqui\". Ao lado, há uma espécie de mostrador.\n\n'Parece que não vão nos deixar passar tão fácil.'\n'Tem alguém aqui particularmente bom com esses dispositivos? Não consigo entender este...'",
+            "options": [
+                {
+                    "message": "Interface with the device.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10802,
+            "name": "부적_떼기",
+            "subDesc": "",
+            "desc": "Há vários talismãs colados à parede.\n\nDá pra sentir o vento soprando pelas frestas mal-visíveis na parede.\n\n'Parece haver algo do outro lado.'\n\nSerá que há uma passagem escondida aqui?\n\nOs Pecadores tiram um momento para investigar o quarto, e encontram uma parede com talismãs de cores diferentes dispostos de forma conspícua.\n\n'Ohh~ Devem ser as cores que correspondem a cada um dos pontos cardeais~'\n'Parece que vamos ter que descolar esses talismãs na ordem certa.'\n\nDevemos tentar descolar os talismãs?",
+            "options": [
+                {
+                    "message": "Let's try peeling a talisman.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080201,
+            "name": "부적_떼기_북",
+            "subDesc": "",
+            "desc": "Há algo escrito no talismã azul, a Oeste.\n\nParece estar indicando que este é o primeiro talismã a ser removido.\n\nQuando removo o talismã, a parede começa a tremer.\n\nQual devemos remover em seguida?",
+            "options": [
+                {
+                    "message": "Center",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                },
+                {
+                    "message": "East",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                },
+                {
+                    "message": "South",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                },
+                {
+                    "message": "North",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080202,
+            "name": "부적_떼기_중앙",
+            "subDesc": "",
+            "desc": "Removo o talismã vermelho ao Norte.\n\nAs paredes estão agora tremendo com maior intensidade.\n\nQual devemos descolar em seguida?",
+            "options": [
+                {
+                    "message": "Center",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "East",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                },
+                {
+                    "message": "South",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080203,
+            "name": "부적_떼기_서",
+            "subDesc": "",
+            "desc": "Removo o talismã amarelo no centro.\n\nAs paredes estão agora tremendo com maior intensidade.\n\nQual devemos descolar em seguida?",
+            "options": [
+                {
+                    "message": "East",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "South",
+                    "messageDesc": "",
+                    "result": [
+                        "As paredes param de tremer, mas algo parece errado.\n\nE bem na hora, a voz vibrante do apresentador começa a estrondear pelos alto-falantes.\n\n'Candidatos que falharam no enigma merecem um castigo, não acham?'\n\nOuviu-se um som de coisas de madeira batendo umas nas outras...\nE algumas portas se abriram enquanto bonecos de madeira saíam correndo."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080204,
+            "name": "부적_떼기_서",
+            "subDesc": "",
+            "desc": "Removo o talismã branco a Leste.\n\nAs paredes estão tremendo como se fossem desabar a qualquer momento.\n\nFalta apenas mais um talismã para descolar.",
+            "options": [
+                {
+                    "message": "South",
+                    "messageDesc": "",
+                    "result": [
+                        "A parede desmorona, abrindo um novo caminho à frente.\n\nEncontro algumas moedas cintilantes espalhadas pelos escombros."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10803,
+            "name": "붉은_출입증_획득_전투",
+            "subDesc": "",
+            "desc": "'Ahem. Vocês devem ser o Jia Baoyu… e o clã dele, certo?'\n\n'Eu, ah… me separei da minha facção quando as paredes brotaram do chão de repente.'\n\n'Alguns ainda estão comigo, mas acho que não vou conseguir ir muito longe assim…'\n\n'Vocês podem me ajudar a encontrar onde está o resto da minha facção?'\n\n'Olha, se vocês me ajudarem hoje, eu cuido de vocês quando eu me tornar o Patriarca da Família.'\n\n'Anda, mano. Me ajudem aí!'",
+            "options": [
+                {
+                    "message": "Entregar o Cartão de Entrada.\n<size=75%><color=#a16a3b>Escolha disponível com o 'Cartão de Entrada Gasto'</color></size>",
+                    "messageDesc": "Gain an Artifact",
+                    "result": [
+                        "Esse cara é bem chato…\n\nMas não temos motivo para arrumar briga quando não sabemos quantas brigas ainda nos esperam. Não é como se ele estivesse sendo agressivo.\n\nEm vez de começar uma briga, eu entrego o cartão de entrada usado.\n\n'A gente também pegou uma coisa parecida com essa, mas… acabou se mostrando bastante inútil.'\n\n'Tomara que esse aqui seja melhor. Bom… acho que vou trocar o seu cartão pelo meu. Joga fora ou guarda, fica a seu critério.'\n\n'Ah, e… peguei essa pílula esquisita de outro candidato. Pareceu meio suspeita pra mim, então… acho que deixo vocês cuidarem dela.'\n\n'Bem, é isso. Olha, eu não vou pegar leve da próxima vez que a gente se encontrar, então se cuida.'"
+                    ]
+                },
+                {
+                    "message": "Eliminá-lo e pegar as moedas dele.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "Quando eu estava prestes a explicar aos Pecadores que a gente não precisa necessariamente brigar…\n\n… digo, será que a gente precisa mesmo ajudar esse cara?\n\nEntão, em vez disso, eu sugiro aos Pecadores que a gente devia simplesmente bater nele e ficar com as moedas. A maioria dos Pecadores concorda com a cabeça.\n\n'M-mas que merda? Sério mesmo? Vão brigar comigo? Vocês fazem ideia de quem eu sou? Eu sou da eminente família Shi—'\n\nOs Pecadores começam a bater nele antes que a conversa se estendesse mais que o necessário."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10804,
+            "name": "죄수_꽃뜯기",
+            "subDesc": "",
+            "desc": "<i>Um profere uma lamentação vazia,\nO outro anseia em um desejo oco.\nUm é uma lua sobre a água, um reflexo,\nE o outro é a imagem de uma flor num espelho.</i>\n\nFlores brotaram sobre os corpos dos prisioneiros.\nNão vejo nenhum movimento… parece que estão todos mortos.\n\n'Essas flores possuem… as qualidades intensificadoras da H Corp.'\n'Provavelmente proporcionarão alguma vantagem nas batalhas que virão.'\n\nQual flor devemos colher?",
+            "options": [
+                {
+                    "message": "Lotus",
+                    "messageDesc": "Select to gain an Artifact",
+                    "result": [
+                        "Colhemos a flor de lótus.\nA flor se transforma em uma pequena pílula,\ne as outras flores desabrocham no espelho.\n\nQue os prisioneiros descansem em paz…\nSeguimos em frente, após prestar nossas homenagens aos mortos."
+                    ]
+                },
+                {
+                    "message": "Red Spider Lily",
+                    "messageDesc": "Select to gain an Artifact",
+                    "result": [
+                        "Colhemos o lírio aranha vermelho.\nA flor se transforma em uma pequena pílula,\ne as outras flores desabrocham no espelho.\n\nQue os prisioneiros descansem em paz…\nSeguimos em frente, após prestar nossas homenagens aos mortos."
+                    ]
+                },
+                {
+                    "message": "Nameless Herb",
+                    "messageDesc": "Select to gain an Artifact",
+                    "result": [
+                        "Colhemos a erva sem nome.\nA erva se transforma em uma pequena pílula,\ne as outras flores desabrocham no espelho.\n\nQue os prisioneiros descansem em paz…\nSeguimos em frente, após prestar nossas homenagens aos mortos."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10805,
+            "name": "환_도박",
+            "subDesc": "",
+            "desc": "Entramos em uma nova sala e vemos um prisioneiro amarrado ao lado de uma pílula sobre uma mesa.\nLá, vemos um candidato em pé, como se estivesse esperando alguém chegar.\n\n'Ah, agora temos gente suficiente para esse jogo especial começar!'\n\n'Por favor, prestem atenção na pílula sobre a mesa! Observem bem!'\n\n'Trata-se de uma pílula atualmente em desenvolvimento aqui na H Corp; ainda não foi comercializada para uso em massa.'\n\n'Aparentemente pode ajudar a restaurar a vitalidade quando ingerida, mas… vamos ver o quanto isso é verdade, certo?'\n\n'Vocês acham que ela é mesmo um novo produto bem-sucedido, ou… é um fracasso?'\n\n'É hora de fazerem suas apostas com suas moedas! Adivinhem — é um sucesso, ou um fracasso?'\n\n'O candidato que acertar a pergunta ganha todas as moedas do pote!'",
+            "options": [
+                {
+                    "message": "It's a success.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "It's a failure.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080501,
+            "name": "환_도박_코인_성공",
+            "subDesc": "",
+            "desc": "O outro candidato aposta em 'fracasso'.\n\nQuantas moedas devemos apostar?",
+            "options": [
+                {
+                    "message": "1 coin.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 1 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar algumas moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos uma moeda, e o outro candidato também aposta uma moeda.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO condenado engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do prisioneiro fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso ganha as moedas…'\n'… enquanto o candidato que apostou no fracasso deve entregar suas moedas!'",
+                        "Apostamos uma moeda, e o outro candidato também aposta uma moeda.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso ganha as moedas…'\n'… enquanto o candidato que apostou no sucesso deve entregar suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "2 coins.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 2 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar uma quantidade moderada de moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos duas moedas, e o outro candidato também aposta duas moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do condenado fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso ganha as moedas…'\n'… enquanto o candidato que apostou no fracasso deve entregar suas moedas!'",
+                        "Apostamos duas moedas, e o outro candidato também aposta duas moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso ganha as moedas…'\n'… enquanto o candidato que apostou no sucesso deve entregar suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "3 coins.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 3 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar um grande bolo de moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos três moedas, e o outro candidato também aposta três moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do condenado fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso vai ganhar as moedas!'\n'E também, uma moeda bônus pela sua coragem!'\n'O candidato que apostou no fracasso, por favor entregue suas moedas!'",
+                        "Apostamos três moedas, e o outro candidato também aposta três moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso vai ganhar as moedas!'\n'E também, uma moeda bônus pela sua coragem!'\n'O candidato que apostou no sucesso, por favor entregue suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "Apostar não vale o risco. Vamos sair fora.",
+                    "messageDesc": "",
+                    "result": [
+                        "'Ai, ai… Essa pequena aposta foi assustadora demais para você?'\n\n'Vai ser meio difícil navegar este jogo daqui em diante com um coração tão fraquinho!'\n\nApostar sempre carrega um risco.\nDeixamos a sala, abandonando o preso e o outro candidato."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1080502,
+            "name": "환_도박_코인_실패",
+            "subDesc": "",
+            "desc": "O outro candidato aposta em 'sucesso'.\n\nQuantas moedas devemos apostar?",
+            "options": [
+                {
+                    "message": "1 coin.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 1 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar algumas moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos uma moeda, e o outro candidato também aposta uma moeda.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso ganha as moedas…'\n'… enquanto o candidato que apostou no sucesso deve entregar suas moedas!'",
+                        "Apostamos uma moeda, e o outro candidato também aposta uma moeda.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do condenado fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso ganha as moedas…'\n'… enquanto o candidato que apostou no fracasso deve entregar suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "2 coins.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 2 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar uma quantidade moderada de moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos duas moedas, e o outro candidato também aposta duas moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso ganha as moedas…'\n'… enquanto o candidato que apostou no sucesso deve entregar suas moedas!'",
+                        "Apostamos duas moedas, e o outro candidato também aposta duas moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do condenado fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso ganha as moedas…'\n'… enquanto o candidato que apostou no fracasso deve entregar suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "3 coins.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 3 or more coin(s)</color></size>",
+                    "messageDesc": "Vença a aposta para ganhar um grande bolo de moedas\nPerca a aposta e abra mão das moedas que apostou",
+                    "result": [
+                        "Apostamos três moedas, e o outro candidato também aposta três moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula e imediatamente começa a gritar de dor.\nEle cai inconsciente no chão depois de se debater e se contorcer descontroladamente por um minuto.\n\n'Ai, que pena. Foi um fracasso.'\n'O candidato que apostou no fracasso vai ganhar as moedas!'\n'E também, uma moeda bônus pela sua coragem!'\n'O candidato que apostou no sucesso, por favor entregue suas moedas!'",
+                        "Apostamos três moedas, e o outro candidato também aposta três moedas.\n\n'Beleza, vamos conferir o que acontece, então!'\n\nO preso engole a pílula, mas parece estar em paz.\nEsperamos um pouco mais, e a flor que cresce do condenado fica mais vibrante.\n\n'Que maravilha! A pílula foi um sucesso, parece!'\n'O candidato que apostou no sucesso vai ganhar as moedas!'\n'E também, uma moeda bônus pela sua coragem!'\n'O candidato que apostou no fracasso, por favor entregue suas moedas!'"
+                    ]
+                },
+                {
+                    "message": "Apostar não vale o risco. Vamos sair fora.",
+                    "messageDesc": "",
+                    "result": [
+                        "'Ai, ai… Essa pequena aposta foi assustadora demais para você?'\n\n'Vai ser meio difícil navegar este jogo daqui em diante com um coração tão fraquinho!'\n\nApostar sempre carrega um risco.\nDeixamos a sala, abandonando o preso e o outro candidato."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10806,
+            "name": "낭떠러지_도전",
+            "subDesc": "",
+            "desc": "<i>Nenhuma sabedoria nem virtude pode mudar o passado e o futuro,\ne as conexões humanas e o destino tornam vizinhos em estranhos.</i>\n\n'Bem-vindos, candidatos! Parabéns por chegarem ao subsolo!'\n\n'Vocês sabiam que há aqui embaixo muito mais oportunidades de juntar aquelas moedas que vocês todos querem?'\n\n'Na verdade, há tantas oportunidades que… há uma bem debaixo dos seus pés, naquele buraco!'\n\n'Quem ousará fazer a descida sombria para reivindicar as moedas?!'\n\nO buraco leva à escuridão total das ruínas do prédio. Não precisamos descer para saber que provavelmente é uma jornada bem arriscada.\n\nA gente precisa das moedas, mas… esse risco pode ser grande demais. E se a gente se ferir, ou pior, morrer?\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Jump in.",
+                    "messageDesc": "Run a Lust, Gluttony, and Envy Advantage check. Pass to gain coin(s).",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Don't jump in.",
+                    "messageDesc": "",
+                    "result": [
+                        "Coletar moedas é importante, mas eu não quero potencialmente jogar fora as vidas dos Pecadores assim, sem ganho, tão cedo no jogo. Há variáveis demais.\nDecidimos seguir em frente sem nos meter no buraco."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10807,
+            "name": "죄인_고문",
+            "subDesc": "",
+            "desc": "Entramos na sala e encontramos um condenado de Hongyuan amarrado à parede.\nDiante dele há várias armas de castigo, como chicotes e cassetetes.\n\n'O homem que está sentado diante de vocês é um prisioneiro da H Corp. É um condenado que cometeu um crime grave.'\n'Castiguem o condenado, candidatos, e serão recompensados com moedas!'\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Punish the condemned.",
+                    "messageDesc": "Run a Gluttony and Pride Advantage check. Pass to gain coin(s).",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Não vamos castigá-lo. Recusar jogar segundo as regras deles.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "O prisioneiro já parece estar sentindo muita dor, efeito colateral de algum experimento.\nClaro, ele supostamente é um dos condenados, mas… eu não acho que temos nem motivo nem direito de castigá-lo…\nApós uma breve discussão com os Pecadores, decido pôr fim ao sofrimento dele em vez disso."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10808,
+            "name": "항아리_보기_뽀개기",
+            "subDesc": "",
+            "desc": "Entramos em uma sala nova com uma coleção de jarras no centro.\nSerá que são as jarras do Xue Pan que ele não chegou a usar?\n\nReparo que uma das jarras está rachada e aberta.\nHá um som vindo de dentro…\n\nTalvez tenha alguém preso lá, mas…\n… não sei se é uma boa ideia mexer nessas coisas.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Peer into the jar.",
+                    "messageDesc": "Run a Gloom Advantage check. Pass to gain an Artifact.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Destroy the jar.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "Vamos correr um risco indevido abrindo e olhando dentro dessas jarras suspeitas.\nDeixá-las aqui vai representar perigo não só para nós mas… também para qualquer um que tiver contato com elas.\n\nApós alguma reflexão, decidimos quebrar todas as jarras da sala."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10809,
+            "name": "타임어택_인형_전투",
+            "subDesc": "",
+            "desc": "<i>O rancor é um ciclo vingativo de peso infinito,\ncada encontro e reencontro um destino imutável;\nassim, o carma de uma vida anterior mede a estadia mundana de cada um antes do voo final.</i>\n\n<i>A riqueza no crepúsculo da vida é uma fortuna rara em demasia;\naqueles que entendem isso deixam o lar pelos templos,\ne aqueles que são seduzidos por ela enchem seu tempo com ar vazio.</i>\n\n<i>Os pássaros, com a barriga cheia de ração, esvoaçam para a floresta;\no campo de neve branca permanece imaculado, sem uma pegada que macule sua pureza.</i>\n\n'Vejo um candidato que acaba de perder um monte de moedas!'\n'Alguém na plateia quer conceder a oportunidade de uma recuperação!'\n'Bem, parece que… vamos ter que enviar bonecos de madeira pra você recuperar suas moedas perdidas!'",
+            "options": [
+                {
+                    "message": "Challenge the battle.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "Precisamos recuperar as moedas que perdemos. Vamos desafiar os bonecos de madeira.\nOs Pecadores e eu estamos de acordo."
+                    ]
+                },
+                {
+                    "message": "Don't challenge the battle.",
+                    "messageDesc": "",
+                    "result": [
+                        "Neste momento, precisamos mais de descanso do que de moedas."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10810,
+            "name": "공포_견디기_내기",
+            "subDesc": "",
+            "desc": "<i>Os riachos ficam carmesim com pétalas caídas,\ne tristezas indizíveis se tornam um vasto e incontável sistema de raízes;\nassim, o rancor não resolvido não culpa nada além da brisa primaveril.</i>\n\nHá duas grandes jarras na sala, com dois dispositivos misteriosos pendendo acima delas.\nA voz do apresentador trovoa pelos alto-falantes assim que nos aproximamos das jarras.\n\n'Mais uma chance de ganhar algumas moedas!'\n'As condições são simples: permaneça o máximo de tempo possível dentro daquelas jarras.'\n'Tente enviar um membro do clã que não se assuste facilmente, e pegue suas moedas! Fácil, né?'",
+            "options": [
+                {
+                    "message": "Select a Sinner.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10811,
+            "name": "붉은_출입증_사용",
+            "subDesc": "",
+            "desc": "<i>O sonho primaveril se dispersa como nuvens ao vento,\ne pétalas caídas flutuam pelo riacho;\nassim, a cada filho e filha, fazemos esta pergunta:\npor que buscar e vagar por tão vão sofrimento?</i>\n\nHá outro candidato nesta sala.\nNo momento em que cruzamos o limiar, a porta se fecha atrás de nós, e a voz do apresentador trovoa pelos alto-falantes mais uma vez.\n\n'Derrote o candidato adversário, e seja agraciado com a oportunidade de encontrar um novo caminho com <i>oportunidades ainda melhores</i>!'\n\n'Mas… não queremos que essa briga fique tediosa demais, queremos? Vamos adicionar algumas variáveis.'\n\nCom um som pesado, plumas suspeitas de fumaça começam a escapar do chão. Os Pecadores que a inalaram começam a tossir violentamente.\n… Isso não pode ser bom.",
+            "options": [
+                {
+                    "message": "Challenge the battle.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s) and open a new path on the map.",
+                    "result": [
+                        "Vamos derrotar os inimigos rapidamente antes que os Pecadores sofram muito dano."
+                    ]
+                },
+                {
+                    "message": "Usar o Cartão de Entrada para destrancar a porta e sair.\n<size=75%><color=#a16a3b>Escolha disponível com o 'Cartão de Entrada Vermelho'</color></size>",
+                    "messageDesc": "A new path opens up on the map",
+                    "result": [
+                        "Esta não é uma boa hora para enfrentar outro candidato.\n\nEnquanto a gente se pergunta se há alguma saída disto, percebemos um mecanismo de fechadura com um leitor de cartão.\nEi, talvez a gente possa usar o cartão de entrada que o candidato que encontramos antes nos deu.\nEncosto o cartão no leitor, só para o caso de funcionar.\n\n<i>Entrada autorizada.</i>\n\nA porta destranca com um bipe.\nA gente sai da sala assim que a porta abre…\n… e a gente parte antes que o outro candidato perceba."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10812,
+            "name": "가문_기물_획득",
+            "subDesc": "",
+            "desc": "'Bem, qualquer que tenha sido o método que vocês usaram para chegar nesta sala… parabéns!'\n'Como recompensa por encontrarem essa sala secreta… fiquem à vontade para pegar um artefato útil! Só um, porém.'\n'E também… alguns desses artefatos podem estar fora dos limites para quem não tem moedas suficientes!'\n'Por favor, escolham com cuidado. São artefatos preciosos das grandes casas.'\n\nQual devemos escolher?",
+            "options": [
+                {
+                    "message": "Shi Family's Artifact",
+                    "messageDesc": "",
+                    "result": [
+                        "Abro a caixa mais à esquerda.\nDentro dela há um machado, o mesmo que os membros da família Shi usam.\n\nSe estou me lembrando direito, este machado deve ser capaz de carregar para criar ondas poderosas…\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala.",
+                        "Abro a caixa mais à esquerda.\nDentro dela há um machado, o mesmo que os membros da família Shi usam.\n\nSe estou me lembrando direito, este machado deve ser capaz de carregar para criar ondas poderosas…\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala."
+                    ]
+                },
+                {
+                    "message": "Wang Family's Artifact\n<size=75%><color=#a16a3b>Choice unlocked when carrying 10 or more coin(s)</color></size>",
+                    "messageDesc": "",
+                    "result": [
+                        "Abro a segunda caixa a partir da esquerda.\nDentro dela há um talismã, o mesmo que os membros da família Wang usam.\n\nEsses talismãs parecem possuir cada um um poder especial… devem ser bem úteis.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala.",
+                        "Abro a segunda caixa a partir da esquerda.\nDentro dela há um talismã, o mesmo que os membros da família Wang usam.\n\nEsses talismãs parecem possuir cada um um poder especial… devem ser bem úteis.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala."
+                    ]
+                },
+                {
+                    "message": "Xue Family's Artifact\n<size=75%><color=#a16a3b>Choice unlocked when carrying 20 or more coin(s)</color></size>",
+                    "messageDesc": "",
+                    "result": [
+                        "Abro a segunda caixa a partir da direita.\nDentro dela há uma podao, a mesma que os guerreiros vagabundos da família Xue usam.\n\nEsta espada era enorme, mas… eles a brandiam por aí como se pesasse só uma pluma.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala.",
+                        "Abro a segunda caixa a partir da direita.\nDentro dela há uma podao, a mesma que os guerreiros vagabundos da família Xue usam.\n\nEsta espada era enorme, mas… eles a brandiam por aí como se pesasse só uma pluma.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala."
+                    ]
+                },
+                {
+                    "message": "Jia Family's Artifact\n<size=75%><color=#a16a3b>Choice unlocked when carrying 25 or more coin(s)</color></size>",
+                    "messageDesc": "",
+                    "result": [
+                        "Abro a caixa mais à direita.\nDentro dela há uma pílula de cor auspiciosa da família Jia.\n\nDeve ter qualidades impressionantes, dado que é uma das Singularidades da H Corp.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala.",
+                        "Abro a caixa mais à direita.\nDentro dela há uma pílula de cor auspiciosa da família Jia.\n\nDeve ter qualidades impressionantes, dado que é uma das Singularidades da H Corp.\nIsso vai ser útil para os Pecadores.\n\nPegamos o artefato e deixamos a sala."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10813,
+            "name": "막바지_보너스",
+            "subDesc": "",
+            "desc": "<i>A felicidade e o riso não passam de ilusões.\nA tristeza e o luto também não passam de ilusões.\nA avareza, o desejo e o anseio não passam de manifestações da própria vacuidade.</i>\n\nEncontramos o clã de um outro candidato em um corredor estreito.\n\n'Fiquem à vontade para se enfrentarem, mas… com o consentimento mútuo dos candidatos…'\n'Acho que a gente pode transformar esta batalha em um jogo mais interessante.'\n'Depende de vocês dois, claro!'",
+            "options": [
+                {
+                    "message": "Fight them.",
+                    "messageDesc": "Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "Não precisa apostar quando a gente provavelmente já tem vantagem de qualquer jeito.\nDecidimos lutar com eles como sempre."
+                    ]
+                },
+                {
+                    "message": "Make a wager.\n<size=75%><color=#a16a3b>Choice unlocked when carrying 5 or more coin(s)</color></size>",
+                    "messageDesc": "Run a Lust and Gluttony Advantage check. Pass to gain coin(s), fail to lose coin(s).",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1081302,
+            "name": "막바지_보너스_내기_패배",
+            "subDesc": "",
+            "desc": "Quer dizer, será que a gente <i>tem</i> que entregar nossas moedas?\nPor que a gente não bate neles e recupera nossas moedas?\nAliás… ei, nada nos impede de bater neles e pegar <i>as moedas deles</i> também!\n\nA questão é… devemos?",
+            "options": [
+                {
+                    "message": "Fight them.",
+                    "messageDesc": "- Begin a combat encounter. Win to gain coin(s).",
+                    "result": [
+                        "'Mais um dia, mais uma excelente demonstração de um julgamento extremamente apurado, Senhor Gerente Executivo!'\n'Buá… Senhor Patrão… por que cometeis tamanha vilania…?'\n\nOs Pecadores comentam minha decisão antes de partirem para cima do candidato adversário."
+                    ]
+                },
+                {
+                    "message": "Back off.",
+                    "messageDesc": "",
+                    "result": [
+                        "Eles venceram o jogo de forma justa. Vamos aceitar nossa derrota com elegância e seguir em frente.\n\nDeixamos as moedas e seguimos em frente, ainda que a contragosto."
+                    ]
+                }
+            ]
+        }
+    ]
+}

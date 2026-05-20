@@ -1,0 +1,19 @@
+﻿{
+    "dataList": [
+        {
+            "id": 130802,
+            "name": "Faelantern",
+            "subDesc": "",
+            "desc": "\"E-espera. O que tá rolando com essa coisa? Não parece a mesma entidade que a gente encontrou no Mirror Dungeon!\"\n\"… Se formos nos aprofundar, parece refletir a que encontramos na Ferrovia da Refração.\"\n\n\"… Embora Hohenheim de fato nutra algum interesse neste assunto…\"\n\n\"Ele não é genial o bastante para transformar essa curiosidade em realidade.\"\n\"Então por que isto poderia estar acontecendo…?\"\n\n\"Esperem — alguém deixou isto aqui.\"\n\"Hum. Parece ser uma página rasgada de uma anotação. Está coberta de tinta fluorescente para ser mais fácil de notar.\"\n\nQuem quer que tenha deixado isto não poderia saber que estávamos chegando. Provavelmente é uma anotação destinada a possíveis sobreviventes.\nNenhum motivo para não ler.\n\n- Registro de Observação: Irregularidades\nEscrito por Moses, Chefe da Equipe de Raciocínio Investigativo de Campo do LCD\n\nEsta entidade escapou abruptamente de sua câmara de contenção durante o assalto.\nLeitores desta nota devem ser advertidos de que esta entidade apresenta algumas irregularidades que não haviam sido observadas anteriormente.",
+            "options": [
+                {
+                    "message": "Keep reading the record",
+                    "messageDesc": "",
+                    "result": [
+                        "Quando um número elevado de funcionários dentro da Instalação de Pesquisa foi morto, a Faelantern escapou da contenção.\n\nSegundo os protocolos de controle de Anormalidades do LCE, tal escape é conhecido por ocorrer apenas quando um funcionário com aptidão inerentemente baixa exibe um nível de Sintonia superior a 75% com o LCE E.G.O::Faelantern, ou quando o resultado do trabalho gerencial é determinado como acima de \"Muito Bom\".\n\nA Faelantern, cujo escape foi disparado pelas mortes ao seu redor, desviou de seu padrão de comportamento esperado de predar vítimas encantadas uma a uma, e em vez disso começou a consumir múltiplos alvos de uma só vez.\nPresumivelmente, a entidade deve ter percebido que suas reservas de comida estavam sendo rapidamente esgotadas.\n\nDepois que Ezra destruiu a is… emendando: Depois que Ezra destruiu a unidade isca duas vezes (designada como \"Fada Azul\" no Registro de Observação do LCB), a agressividade da Faelantern aumentou significativamente. Nesse ponto, Ezra já não era afetada por seu encanto.\n\nCom base nessas observações, pude estabelecer a hipótese de que qualquer pessoa que observe a \"Fada Azul\" por pelo menos 7 segundos e imediatamente destrua sua cabeça torna-se imune à sua influência. Como esse efeito se aplica somente ao indivíduo que a destrói, esta informação pode não ser de muita utilidade para a maioria dos pesquisadores; ainda assim, deixarei uma nota a respeito para ser consultada caso surja a necessidade.\n\nAdendo: Quando a Faelantern identificou apenas um único indivíduo, ela não tentou encantá-lo, e em vez disso pareceu cautelosa o bastante para simplesmente observá-lo. Contudo, dado o tamanho limitado da amostra, será necessária maior confirmação.\n\n\"Isso aí é bastante dica útil.\"\n\"Bom… Acho que agora tenho uma ideia geral de como lidar com ela.\"\n\n<… Tudo bem. Vamos consultar este registro para a inteligência e tentar suprimi-la mais uma vez.>"
+                    ]
+                }
+            ]
+        }
+    ]
+}

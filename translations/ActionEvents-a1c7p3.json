@@ -1,0 +1,302 @@
+﻿{
+    "dataList": [
+        {
+            "id": 837901,
+            "name": "아파하는 테디 선택지 선택 이벤트",
+            "subDesc": "UNUSED TEXT",
+            "desc": "Um urso de pelúcia nos olha com uma expressão triste. Vários pregos afiados estão cravados em seu corpo.",
+            "options": [
+                {
+                    "message": "Abrace o ursinho de pelúcia.",
+                    "messageDesc": "Escolha para reduzir o Poder de Confronto da Anormalidade. Passe um Teste de Luxúria, e a Identidade escolhida perderá uma parcela dos PV atuais, mas também irá recuperar muitos PS",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Desvie o olhar.",
+                    "messageDesc": "Todas as identidades perdem PS.",
+                    "result": [
+                        "Talvez os pregos parecessem ameaçadores demais.\n\nNinguém quis se aproximar do urso de pelúcia.\n\nEle abaixa os ombros, claramente magoado.\n\nFica nítido que a maioria dos Pecadores se sentiu mal com essa decisão."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10701,
+            "name": "",
+            "subDesc": "",
+            "desc": "Nos aproximamos da placa desbotada neste espaço distorcido.\n\n<i>Bem-vindos a La Manchaland.</i>\n\nDois tipos de ingresso e seus preços estão escritos abaixo desse logotipo.\n\nParece que vamos ter que comprar um ingresso aqui para entrar…\n\nQual devemos comprar?",
+            "options": [
+                {
+                    "message": "Compre o passe livre.",
+                    "messageDesc": "Todos os aliados perdem PV. Ganhe uma Bênção de E.G.O.",
+                    "result": [
+                        "Cada Pecador pagou seu próprio Passe Livre com seu sangue.\n\nAlguns não ficaram muito felizes com essa decisão, mas todos concordaram em ir de Passe Livre.\n\nDevemos conseguir vivenciar todas as atrações daqui contanto que tenhamos esse ingresso."
+                    ]
+                },
+                {
+                    "message": "Compre um Passe Padrão.",
+                    "messageDesc": "Todos os aliados recebem Bênção de E.G.O que causam sangramento.",
+                    "result": [
+                        "Pode não ser sensato perder tanto sangue logo na entrada.\n\nApós uma conversa com os Pecadores, decidimos ir com o Passe Padrão, que não exige pagamento em sangue.\n\nHá um aviso no ingresso: 'visitantes devem pagar uma certa quantidade de sangue antes de participar de uma atração'.\n\nA gente pode aproveitar mais o nosso sangue, contanto que escolha com cuidado para qual atração ir."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070101,
+            "name": "",
+            "subDesc": "",
+            "desc": "Atravessamos a entrada e adentramos La Manchaland.\n\nPor qual Área devemos começar para escapar deste parque de diversões labiríntico?",
+            "options": [
+                {
+                    "message": "Participate in a game of Fantasy Blood-shooting.",
+                    "messageDesc": "Inicie um encontro de combate. Ganhe para receber uma Bênção de E.G.O.",
+                    "result": [
+                        "Talvez a saída se abra se derrotarmos o maior número possível de Sanguinários.\n\nAlguns Pecadores sugeriram que tentássemos o Tiro ao Sangue Fantasia de novo.\n\n<i>Aos Aventureiros que chegarem ao fim da atração, concedemos um Símbolo da Vitória!</i>\n\nAtravés da locução pré-gravada, um Sanguinário nos dá força.\n\nA gente já fez isso uma vez; tenho certeza de que conseguimos de novo."
+                    ]
+                },
+                {
+                    "message": "Vá ao Confessionário.",
+                    "messageDesc": "Faça um Teste de Orgulho. Passe para receber uma Bênção de E.G.O.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Assista o Desfile",
+                    "messageDesc": "Ganhe uma Bênção de E.G.O",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070103,
+            "name": "",
+            "subDesc": "",
+            "desc": "Chegamos à Área do Desfile sem desperdiçar mais tempo.\n\nApós um tempo caminhando ao longo do Desfile até a frente, um Sanguinário se aproximou de nós de repente.\n\n\"Que tal uma foto comemorativa com o Desfile ao fundo?\"\n\"Um pouquinho de sangue, e vocês podem lembrar deste momento para-todo-o-sempre!\"\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Pague com sangue e tire uma foto comemorativa.",
+                    "messageDesc": "Alguns Pecadores perdem PV. Ganhe uma Bênção de E.G.O.",
+                    "result": [
+                        "Alguns Pecadores concordaram em pagar com sangue por algumas fotos.\n\nNão consigo deixar de sentir a dor da ausência do Don Quixote agora que estamos todos juntos para uma foto de grupo.\n\nQuando recebemos a fotografia, que apareceu após o flash, o Desfile marchou para longe, bem para longe de nós, enquanto o espaço distorcido voltava ao normal.\n\nA fotografia em minhas mãos havia sumido, substituída por uma máscara de Sanguinário."
+                    ]
+                },
+                {
+                    "message": "Saia daqui.",
+                    "result": [
+                        "Não há tempo a perder com fotos.\n\nDecidimos seguir caminhando, passando pelo Desfile."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10702,
+            "name": "",
+            "subDesc": "",
+            "desc": "Vemos uma porta para uma câmara de contenção gigantesca.\n\nVamos ter que atravessá-la para escapar deste labirinto.\n\nHá uma máquina desconhecida no caminho para a câmara.\n\nDeve ser uma máquina de sorteio que La Manchaland usava em períodos de evento.\n\n<i>Um pouquinho de sangue por algo muito útil!</i>\n\nHá um anúncio escrito em tipografia elaborada.\n\nSerá que conseguimos encontrar 'algo muito útil' aí?",
+            "options": [
+                {
+                    "message": "Pague com sangue para participar do sorteio.",
+                    "messageDesc": "Um Pecador aleatório perde PV. Chance aleatória de receber uma Bênção de E.G.O.",
+                    "result": [
+                        "Quando o Pecador paga com seu sangue, a máquina de sorteio começa a zumbir alto.\n\n<i>Você não levou… nada!</i>\n\nCom um jingle triste, a máquina vai parando lentamente até ficar em silêncio.\n\nAs chances de tirar o que a gente quer devem ser bem baixas.",
+                        "Quando o Pecador paga com seu sangue, a máquina de sorteio começa a zumbir alto.\n\n<i>VOCÊ GANHOU! VOCÊ GANHOU!</i>\n\nUm jingle alto e alegre toca, e um cristal cúbico feito de sangue rola para fora da máquina.\n\nPode ser útil pra alguma coisa."
+                    ]
+                },
+                {
+                    "message": "Destrua a máquina de sorteios.",
+                    "messageDesc": "...",
+                    "result": [
+                        "Não era como se houvesse alguém por perto para nos impedir.\n\nPor que pagar com o sangue dos Pecadores para ativar essa máquina de sorteio?\n\nA gente não pode simplesmente arrombar essa coisa e levar o prêmio daí?\n\nMando os Pecadores quebrarem a máquina, e alguns Pecadores ficaram só contentes em obedecer.\n\nA máquina começa a distorcer numa forma bizarra — então um peccatulum gigantesco aparece diante de nós."
+                    ]
+                },
+                {
+                    "message": "Saia.",
+                    "result": [
+                        "Eu duvido que haja algo de útil pra gente por aqui.\n\nNós decidimos ignorar a máquina de sorteios e seguimos em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070201,
+            "name": "",
+            "subDesc": "",
+            "desc": "Um pouquinho de sangue não nos rendeu nada.\n\nSerá que o texto do anúncio está mentindo pra gente?\n\nOu talvez a gente tenha tido azar.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Pague com sangue para participar do sorteio.",
+                    "messageDesc": "Um Pecador aleatório perde PV. Chance aleatória de receber uma Bênção de E.G.O.",
+                    "result": [
+                        "Quando o Pecador paga com seu sangue, a máquina de sorteio começa a zumbir alto.\n\n<i>Você não levou… nada!</i>\n\nCom um jingle triste, a máquina vai parando lentamente até ficar em silêncio.\n\nAs chances de tirar o que a gente quer devem ser bem baixas.",
+                        "Quando o Pecador paga com seu sangue, a máquina de sorteio começa a zumbir alto.\n\n<i>VOCÊ GANHOU! VOCÊ GANHOU!</i>\n\nUm jingle alto e alegre toca, e um cristal cúbico feito de sangue rola para fora da máquina.\n\nPode ser útil pra alguma coisa."
+                    ]
+                },
+                {
+                    "message": "Destrua a máquina de sorteios.",
+                    "messageDesc": "...",
+                    "result": [
+                        "Não era como se houvesse alguém por perto para nos impedir.\n\nPor que pagar com o sangue dos Pecadores para ativar essa máquina de sorteio?\n\nA gente não pode simplesmente arrombar essa coisa e levar o prêmio daí?\n\nMando os Pecadores quebrarem a máquina, e alguns Pecadores ficaram só contentes em obedecer.\n\nA máquina começa a distorcer numa forma bizarra — então um peccatulum gigantesco aparece diante de nós."
+                    ]
+                },
+                {
+                    "message": "Leave.",
+                    "result": [
+                        "Duvido que haja algo de útil pra nós aí.\n\nDecidimos ignorar a máquina de sorteio e seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10703,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Enquanto o nobre Cavaleiro e seu Escudeiro estavam em sua mais maravilhosa aventura...\"\n\n\"O resto de sua Família esperava, mastigando lentamente o que de subsistência lhes era oferecido.\"\n\n\"Embora seja incerto se valeu a pena toda aquela espera.\"\n\nUma narração sarcástica e incorpórea ecoa de algum lugar.\n\nDiante dos Pecadores apareceu a 'subsistência' que a Família estava comendo.",
+            "options": [
+                {
+                    "message": "Eat the hemobar. (It is flavorless.)",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Deixa pra lá.",
+                    "result": [
+                        "Esperamos um tempo, recusando-nos a comer aquilo. O espaço ao nosso redor se deformou e retorceu, antes de abrir um caminho à frente.\n\nNão há tempo para descansar. Vamos seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070301,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Eles engolem aquela 'comida' seca, sem sabor.\"\n\n\"Mas a fome deles não é do tipo que se sacia com tais suplementos.\"\n\n\"Incapazes de suportar aquele sentimento de vazio, tentaram comer mais daquela comida.\"\n\n\"Como se tentassem convencer a si mesmos de que se empanturrando daquela coisa se libertariam dessa fome.\"",
+            "options": [
+                {
+                    "message": "Eat the hemobar.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Eat the hemobar.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Stop eating.",
+                    "result": [
+                        "Esperamos um tempo, recusando-nos a comer aquilo. O espaço ao nosso redor se deformou e retorceu, antes de abrir um caminho à frente.\n\nNão há tempo para descansar. Vamos seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070302,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Mais uma vez, eles devoraram a comida.\"\n\n\"Comeram, e comeram, e comeram até não conseguirem enfiar mais nada na boca.\"\n\n\"Mas, ah, que infelicidade… eles <i>ainda estavam com fome</i>.\"\n\n\"A Família mais uma vez, sem juízo, começa a pôr aquela comida sem sabor sobre a mesa.\"",
+            "options": [
+                {
+                    "message": "Eat ten hemobars.",
+                    "messageDesc": "WARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Eat ten hemobars.",
+                    "messageDesc": "WARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Eat ten hemobars.",
+                    "messageDesc": "WARNING) Continuing to eat will result in gaining an E.G.O Gift with a downside",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Stop eating.",
+                    "result": [
+                        "Esperamos um tempo, recusando-nos a comer aquilo. O espaço ao nosso redor se deformou e retorceu, antes de abrir um caminho à frente.\n\nNão há tempo para descansar. Vamos seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1070303,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Parece que eles, em sua infinita ingenuidade, ainda acreditam que simplesmente não comeram comida o suficiente.\"\n\n\"Vejamos por quanto tempo este… banquete sem sentido vai durar.\"",
+            "options": [
+                {
+                    "message": "Keep eating the hemobars.",
+                    "messageDesc": "Gain an E.G.O Gift with downsides",
+                    "result": [
+                        "\"A família comeu, e comeu, e comeu naquele desejo desesperado.\"\n\n\"De que essa fome dolorosa pudesse passar.\"\n\n\"O que veio em seguida foi uma espécie de expectativa.\"\n\n\"De que talvez, só talvez, essa fome pudesse passar quando o Cavaleiro e seu Escudeiro voltassem de sua aventura.\"\n\n\"Mas ela não vai passar.\"\n\n\"Nunca vai.\"\n\nComeçamos a sentir uma fome repentina e sem fundo quando a narração termina.\n\nCada Pecador se curva de fome tão intensa que se tornou dor.\n\nMas o caminho se abre, sem tempo para enchermos o estômago.\n\nSem escolha a não ser seguir em frente, eu suponho."
+                    ]
+                },
+                {
+                    "message": "Keep eating the hemobars.",
+                    "messageDesc": "Gain an E.G.O Gift with downsides",
+                    "result": [
+                        "\"A família comeu, e comeu, e comeu naquele desejo desesperado.\"\n\n\"De que essa fome dolorosa pudesse passar.\"\n\n\"O que veio em seguida foi uma espécie de expectativa.\"\n\n\"De que talvez, só talvez, essa fome pudesse passar quando o Cavaleiro e seu Escudeiro voltassem de sua aventura.\"\n\n\"Mas ela não vai passar.\"\n\n\"Nunca vai.\"\n\nComeçamos a sentir uma fome repentina e sem fundo quando a narração termina.\n\nCada Pecador se curva de fome tão intensa que se tornou dor.\n\nMas o caminho se abre, sem tempo para enchermos o estômago.\n\nSem escolha a não ser seguir em frente, eu suponho."
+                    ]
+                },
+                {
+                    "message": "Keep eating the hemobars.",
+                    "messageDesc": "Gain an E.G.O Gift with downsides",
+                    "result": [
+                        "\"A família comeu, e comeu, e comeu naquele desejo desesperado.\"\n\n\"De que essa fome dolorosa pudesse passar.\"\n\n\"O que veio em seguida foi uma espécie de expectativa.\"\n\n\"De que talvez, só talvez, essa fome pudesse passar quando o Cavaleiro e seu Escudeiro voltassem de sua aventura.\"\n\n\"Mas ela não vai passar.\"\n\n\"Nunca vai.\"\n\nComeçamos a sentir uma fome repentina e sem fundo quando a narração termina.\n\nCada Pecador se curva de fome tão intensa que se tornou dor.\n\nMas o caminho se abre, sem tempo para enchermos o estômago.\n\nSem escolha a não ser seguir em frente, eu suponho."
+                    ]
+                },
+                {
+                    "message": "Continue comendo as hemobarras.",
+                    "messageDesc": "Ganhe uma Bênção de E.G.O com desvantagens",
+                    "result": [
+                        "\"A família comeu, e comeu, e comeu naquele desejo desesperado.\"\n\n\"De que essa fome dolorosa pudesse passar.\"\n\n\"O que veio em seguida foi uma espécie de expectativa.\"\n\n\"De que talvez, só talvez, essa fome pudesse passar quando o Cavaleiro e seu Escudeiro voltassem de sua aventura.\"\n\n\"Mas ela não vai passar.\"\n\n\"Nunca vai.\"\n\nComeçamos a sentir uma fome repentina e sem fundo quando a narração termina.\n\nCada Pecador se curva de fome tão intensa que se tornou dor.\n\nMas o caminho se abre, sem tempo para enchermos o estômago.\n\nSem escolha a não ser seguir em frente, eu suponho."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10704,
+            "name": "",
+            "subDesc": "",
+            "desc": "Uma massa de espinheiros, com espinhos afiados, se ergue no nosso caminho.\n\n\"O Cavaleiro e o Escudeiro aventuraram-se juntos por muito, muito tempo.\"\n\n\"Eles aproveitaram tantas aventuras juntos.\"\n\n\"Qual delas foi a mais interessante?\"\n\nA narração, de novo.\n\nO que devemos dizer?",
+            "options": [
+                {
+                    "message": "Em verdade, foi a batalha contra os gigantes montanhosos.",
+                    "messageDesc": "Receba recursos E.G.O de Ira e Orgulho",
+                    "result": [
+                        "\"Há muito, muito tempo, o Cavaleiro e o Escudeiro guerrearam contra os gigantes.\"\n\n\"Mas não foi muito emocionante, já que sempre terminava com a vitória do Cavaleiro.\"\n\n\"Que outra aventura aguarda, fica-se a perguntar.\""
+                    ]
+                },
+                {
+                    "message": "'Twas the deliverance of a troubled village from evil, verily",
+                    "messageDesc": "Receba recursos E.G.O de Luxúria e Gula",
+                    "result": [
+                        "\"O Cavaleiro e o Escudeiro resgataram a aldeia atribulada.\"\n\n\"Foi tão, tão fácil para eles, sendo dois seres poderosos que ocultavam suas verdadeiras forças.\"\n\n\"Que outra aventura aguarda, fica-se a perguntar.\""
+                    ]
+                },
+                {
+                    "message": "Indeed, 'twas the adventure for the helm of Mambrino",
+                    "messageDesc": "Receba recursos E.G.O de Melancolia e Inveja",
+                    "result": [
+                        "\"Após uma longa e árdua jornada, o Cavaleiro e o Escudeiro reivindicaram o grande elmo de Mambrino para si.\"\n\n\"Sem fazer ideia dos verdadeiros poderes do elmo.\"\n\n\"Que outra aventura aguarda, fica-se a perguntar.\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

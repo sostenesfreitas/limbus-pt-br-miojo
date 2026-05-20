@@ -1,0 +1,26 @@
+﻿{
+    "dataList": [
+        {
+            "id": 877401,
+            "name": "아파하는 테디 선택지 선택 이벤트",
+            "subDesc": "사용 안하는 텍스트",
+            "desc": "Um urso de pelúcia nos olha com uma expressão triste. Vários pregos afiados estão cravados em seu corpo.",
+            "options": [
+                {
+                    "message": "Hug the teddy bear.",
+                    "messageDesc": "Selecione para reduzir o Poder de Embate da Anormalidade. Passar na verificação de Luxúria faz a Identidade selecionada perder um pouco de Vida, mas restaura muita SP.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Look away.",
+                    "messageDesc": "All Identities lose SP",
+                    "result": [
+                        "Talvez os pregos parecessem ameaçadores demais.\n\nNinguém quis se aproximar do urso de pelúcia.\n\nEle abaixa os ombros, claramente magoado.\n\nFica nítido que a maioria dos Pecadores se sentiu mal com essa decisão."
+                    ]
+                }
+            ]
+        }
+    ]
+}
