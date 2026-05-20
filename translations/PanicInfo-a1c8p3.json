@@ -1,0 +1,46 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1049,
+            "panicName": "Beastly Instinct",
+            "lowMoraleDescription": "Causa +(diferença de porcentagem de HP / 2)% de dano contra alvos com maior porcentagem de HP que esta unidade (máx. 10%) || Início do Turno: ganha 1 [Enhancement], 1 [AttackDmgUp], e 1 [Vulnerable]",
+            "panicDescription": "Causa +(diferença de porcentagem de HP)% de dano contra alvos com maior porcentagem de HP que esta unidade (máx. 25%) || Início do Turno: ganha 1 [PlusCoinValueUp], 2 [AttackDmgUp], e 2 [Vulnerable]"
+        },
+        {
+            "id": 1046,
+            "panicName": "Flesh Scoop",
+            "lowMoraleDescription": "Turn Start: gain 5 [Laceration] and 1 [Enhancement].",
+            "panicDescription": "Turn Start: gain 10 [Laceration] and 2 [Enhancement]."
+        },
+        {
+            "id": 1050,
+            "panicName": "Le Regole",
+            "lowMoraleDescription": "Se esta unidade aplicou 2+ [Vibration] no último turno, ganha 1 [AmberDamageUp] || Se esta unidade aplicou 2+ [Combustion] no último turno, ganha 1 [CrimsonDamageUp] || Se esta unidade falhou em aplicar qualquer coisa, ganha 2 [DefenseDown]",
+            "panicDescription": "Se esta unidade aplicou 2+ [Vibration] no último turno, ganha 2 [AmberDamageUp] || Se esta unidade aplicou 2+ [Combustion] no último turno, ganha 2 [CrimsonDamageUp] || Se esta unidade falhou em aplicar qualquer coisa, ganha 3 [DefenseDown]"
+        },
+        {
+            "id": 1051,
+            "panicName": "Soft Goldcasted Heart",
+            "lowMoraleDescription": "Turn Start: gain 1 [Enhancement] and 1 [Vulnerable]",
+            "panicDescription": "Turn Start: gain 2 [Enhancement] and 2 [Vulnerable]"
+        },
+        {
+            "id": 1052,
+            "panicName": "Heart Toward the New Era",
+            "lowMoraleDescription": "Ao Atingir, consome 3 PS em si para infligir 2 de [Sinking]",
+            "panicDescription": "On Hit, inflict 3 [Sinking] and gain 1 [Sinking]"
+        },
+        {
+            "id": 1053,
+            "panicName": "Inherited Will of Hongyuan",
+            "lowMoraleDescription": "Todas as Partes ganham 2 [Enhancement] e 1 [Binding] || - Quando a Parte Corpo perde um Embate contra Hong Lu: a Parte Corpo ganha 1 [AttackDmgUp] e 1 [Vulnerable] no próximo turno (uma vez por turno)",
+            "panicDescription": "Todas as Partes ganham 2 [Enhancement] e 2 [Binding] || - Quando a Parte Corpo perde um Embate contra Hong Lu: a Parte Corpo ganha 2 [AttackDmgUp] e 2 [Vulnerable] no próximo turno (uma vez por turno)"
+        },
+        {
+            "id": 1054,
+            "panicName": "Infinitely Bequeathing Will of Hongyuan",
+            "lowMoraleDescription": "Ganha 2 [Enhancement] e 1 [Vulnerable] || Unidades geradas por esta unidade ganham 3 [DefenseDown] || Causa +20% de dano. Se o HP da Parte Palanquim cai a 0, causa -10% de dano em vez disso",
+            "panicDescription": "Ganha 2 [Enhancement] e 2 [Vulnerable] || Unidades geradas por esta unidade ganham 6 [DefenseDown] || Causa +30% de dano. Se o HP da Parte Palanquim cai a 0, causa -15% de dano em vez disso"
+        }
+    ]
+}

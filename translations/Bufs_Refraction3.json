@@ -1,0 +1,64 @@
+﻿{
+    "dataList": [
+        {
+            "id": "MRcAfBa",
+            "name": "Gossypium",
+            "desc": "Quando o Gossypium Encharcado está em estado de Gossypium Manchado de Vermelho, ganha (valor de Gossypium/2) Sangramento e Contagem de Sangramento no Fim do Turno",
+            "summary": "Turn End: Gain (Gossypium value/2) Bleed and Bleed Count"
+        },
+        {
+            "id": "MRcAfBb",
+            "name": "Red-stained Gossypium",
+            "desc": "Início do Turno: Dobra o Sangramento e Contagem de Sangramento aplicados pelas Habilidades de Ataque. || Se o alvo tem Gossypium, ganha Poder de Embate +(valor de Gossypium/2)",
+            "summary": "Gain Clash Power +(Gossypium value/2)"
+        },
+        {
+            "id": "MRcAiBa",
+            "name": "Brasas",
+            "desc": "Máx. 5 || Ao ganhar Brasa, converte {0} Habilidades com Afinidade não-Ira em Habilidades com Afinidade Ira. || Quando a Parte Asas é quebrada, aplica Brasa Cintilante igual ao valor de Brasa no último atacante; em seguida, toda Brasa em si expira.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAiBb",
+            "name": "Brasas Cintilantes",
+            "desc": "Max 5\nGain Spark when hit by a certain Skill. All Shimmering Ember expires.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAiBc",
+            "name": "Centelha",
+            "desc": "Início de Combate: aplica Queimadura igual à Queimadura em si contra 2 unidades adjacentes (baseado em Velocidade). || Não pode ganhar Brasa quando esta unidade tem Faísca. || Fim do Turno: reduz o valor em 1",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBa",
+            "name": "Desprezo",
+            "desc": "Turn End: Lose 3 E.G.O Resource of the Affinity corresponding to the selected Skill Affinity.\nTurn End: Gain 3 Damage Down next turn.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBb",
+            "name": "Aperto",
+            "desc": "Máx. 3 || Não pode agir || Fim do Turno: em 2- de valor, causa dano igual à metade do HP Máx. do alvo. Em seguida, todas as Partes da Espiral de Desprezo curam a mesma quantidade de HP que o dano causado por este efeito. || Fim do Turno: reduz o valor em 1. || Se este efeito reduz o HP do alvo a 0, o alvo não pode mais ser curado.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBc",
+            "name": "Olhar",
+            "desc": "Causa +10% de dano para cada valor de Olhar || Fim do Turno: em 7 Olhar, ganha 15 Sangramento e substitui este efeito por Desprezo.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBd",
+            "name": "Olhar que Tudo Vê",
+            "desc": "Ganha 1 a cada Fim do Turno. || Fim do Turno: todas as unidades com Olhar sofrem (4 x {0}) dano fixo de HP e (4 x {0}) dano fixo de SP.",
+            "summary": ""
+        },
+        {
+            "id": "MRcAmBbDisplay",
+            "name": "Aperto",
+            "desc": "Máx. 3 || Não pode agir || Fim do Turno: em 2- de valor, causa dano igual à metade do HP Máx. do alvo. Em seguida, todas as Partes da Espiral de Desprezo curam a mesma quantidade de HP que o dano causado por este efeito. || Fim do Turno: reduz o valor em 1. || Se este efeito reduz o HP do alvo a 0, o alvo não pode mais ser curado.",
+            "summary": ""
+        }
+    ]
+}

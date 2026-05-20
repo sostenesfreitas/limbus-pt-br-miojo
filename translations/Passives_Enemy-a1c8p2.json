@@ -1,0 +1,74 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9021001,
+            "name": "Rival Candidate",
+            "desc": "Deal +10% damage against Hong Lu"
+        },
+        {
+            "id": 9021002,
+            "name": "Shi(史) Family Charge Circuitry",
+            "desc": "Ganha 1 [Charge] toda vez que esta unidade consome 10 Contagem cumulativa de [Charge] neste Encontro || Fim do Turno: Em 2+ [Charge], ganha 1 [ParryingResultUp] no próximo turno"
+        },
+        {
+            "id": 9021003,
+            "name": "Charge Circuitry Activation",
+            "desc": "Deal +5% damage for every 6 [Burst] on target (Max 10%)"
+        },
+        {
+            "id": 9021004,
+            "name": "Overload",
+            "desc": "Turn End: at 3+ [Charge], gain 3 [DefenseDown] and 1 [AttackDmgUp] next turn"
+        },
+        {
+            "id": 9021201,
+            "name": "Severe Overload",
+            "desc": "Turn End: at 5+ [Charge], gain 4 [DefenseDown] and 3 [AttackDmgUp] next turn"
+        },
+        {
+            "id": 9020501,
+            "name": "Experiment Goal - Maturation",
+            "desc": "Início do Turno: ganha [DefenseUp] igual a (número de vezes que esta unidade foi atingida pelas Habilidades de Ataque dos inimigos / 2) (máx. 10) ||  || Perde este efeito quando Atordoada pela primeira vez; em seguida, no próximo Início do Turno, ganha 10 [DefenseDown]"
+        },
+        {
+            "id": 9020601,
+            "name": "Experiment Goal - Germination",
+            "desc": "Início do Turno: se esta unidade não está com HP máx., cura 80% do HP faltante || - A cada cura, reduz pela metade o efeito de cura desta Passiva (reduz à metade até 10% mínimo; aplica-se apenas quando esta unidade cura mais de 1 HP) || - Não ativa quando Atordoada ||  || Após esta unidade ser Atordoada pela primeira vez, ou quando o efeito de cura for reduzido ao mínimo, ganha 3 [Vulnerable] a cada Início do Turno"
+        },
+        {
+            "id": 9020701,
+            "name": "Experiment Goal - Blossom",
+            "desc": "Quando esta unidade sofre dano que reduz seu HP a 0, mantém o HP desta unidade em 1 até o próximo turno; causa +50% de dano (uma vez por Encontro) ||  || Não ativa quando Atordoada"
+        },
+        {
+            "id": 9020801,
+            "name": "Talisman Sorcerer",
+            "desc": "Toda vez que esta unidade aplica [OminousTalisman] contra um inimigo, perde 10 SP ||  || Contra alvos com [OminousTalisman], causa +(0 - SP em si)% de dano (máx. 30%, mín. 0%)"
+        },
+        {
+            "id": 9020802,
+            "name": "Proliferating Misfortune",
+            "desc": "On death, apply 10 [OminousTalisman] against a random enemy without [OminousTalisman]\n- If all enemies already have [OminousTalisman], then reduce all enemies' [OminousTalisman] by 1 instead"
+        },
+        {
+            "id": 9020803,
+            "name": "Wicked Energy",
+            "desc": "Ao aplicar [OminousTalisman] em um inimigo, se o alvo já tem [OminousTalisman], consome 1~2 [OminousTalisman] no alvo e aplica o mesmo valor como Pilhas de [DefenseDown] no alvo neste turno e no próximo turno "
+        },
+        {
+            "id": 9020901,
+            "name": "Skilled Talisman Sorcerer",
+            "desc": "Toda vez que esta unidade aplica [OminousTalisman] contra um inimigo, perde 10 SP ||  || Contra alvos com [OminousTalisman], causa +(10 - SP em si)% de dano (máx. 50%, mín. 0%)"
+        },
+        {
+            "id": 9020902,
+            "name": "Soul Siphon Technique",
+            "desc": "Início do Turno: em 50% ou menos de HP, sacrifica um Monge Rito de Morte Iníquo aleatório para curar (10% do HP desta unidade + 50% do HP da unidade sacrificada) HP, curar 25 SP, e recuperar-se do Atordoamento (uma vez por turno)"
+        },
+        {
+            "id": 9020903,
+            "name": "Wicked Energy",
+            "desc": "Ao aplicar [OminousTalisman] em um inimigo, se o alvo já tem [OminousTalisman], consome até 3 [OminousTalisman] no alvo e aplica o mesmo valor como Pilhas de [DefenseDown] no alvo neste turno e no próximo turno "
+        }
+    ]
+}
