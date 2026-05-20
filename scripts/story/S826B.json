@@ -1,5 +1,7 @@
 {
   "0": "Tal como Rodya disse.",
+  "1": "… Não tardou para que outra facção surgisse diante de nós.",
+  "2": "Alto lá. Quem é o vosso senhor?",
   "3": "Por que vocês estão perambulando por um lugar destes?",
   "4": "É que há um lugar aonde a gente precisa ir.",
   "5": "E vocês, por que estão perambulando por um lugar destes?",
@@ -11,5 +13,7 @@
   "11": "Se vocês simplesmente nos disserem o caminho, quietinhos, e sumirem, nós não os perseguiremos.",
   "12": "Uma coisa sem qualificação se tornar patriarca... desistam dessa ideia descabida.",
   "13": "Essa ameaça... a gente já ouviu agora há pouco.",
-  "labels": { "Passageway to Tiekan Temple": "Corredor que Leva a Cheolhamsa" }
+  "labels": {
+    "Passageway to Tiekan Temple": "Corredor que Leva a Cheolhamsa"
+  }
 }

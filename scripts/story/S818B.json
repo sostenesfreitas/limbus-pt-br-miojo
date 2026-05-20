@@ -6,9 +6,11 @@
   "7": "Não foi por o senhor Dante estar aqui que eu bebi sem pensar em nada. Se fosse esse o caso, aumentariam as vezes em que o senhor Dante sofreria à toa.",
   "8": "É apenas que... mesmo a Xiren tendo ficado seca assim, a Xiren continua sendo a Xiren, então eu pensei que não haveria problema.",
   "9": "...Só então eu pude perceber que a mudança estranha que se sentia em Xiren era semelhante à das pessoas que eu vira nos becos do Distrito 8.",
+  "10": "<… A Xiren passou por várias ressurreições, não foi?>",
   "11": "Isso mesmo. Por ser a minha criada mais próxima, ela tinha um seguro de vida caro.",
   "12": "<'Continua sendo a Xiren' significa que a memória ainda está intacta.>",
   "13": "Sim, porque o seguro de vida não mexe na memória em si.",
+  "14": "Mas, ainda assim, aos poucos você vai…",
   "15": "Dizem que ela vai se desgastando. E assim a memória, como uma rocha esculpida pelo vento forte e pela chuva... vai aos poucos diminuindo, ficando turva, e por fim nem a forma resta.",
   "16": "Ah, fica apenas a sensação de 'havia uma rocha com aquele formato, um dia'.",
   "17": "Mas eu... eu gostaria que, ao menos essa sensação, ficasse como uma memória calorosa para a Xiren.",
@@ -31,6 +33,7 @@
   "35": "Como vocês sabem... este lugar, o Grande Jardim, é conduzido pelas quatro famílias que existem desde tempos remotos: a casa Ga, a casa Sa, a casa Seol e a casa Wang.",
   "36": "Desde antes de eu nascer, neste lugar circulavam incontáveis intrigas, estratagemas e mortes violentas e, agora, a casa Ga ocupa a maior influência entre as 4 Grandes Famílias.",
   "37": "E graças a isso eu pude viver de modo um pouco mais rico e confortável, uma vida que todos invejam e admiram.",
+  "38": "Mas o irmão Qiu, ele…",
   "39": "Ele estava abaixo daquele fundo.",
   "40": "Fundo...? É uma metáfora de algo?",
   "41": "Se não for metáfora, 'estava abaixo do fundo' soa como se alguém o tivesse empurrado.",
@@ -48,6 +51,10 @@
   "55": "O que se aliou ao Polegar... fiquem em guarda também contra essas coisas.",
   "56": "A emoção de Ryoshu estava mais exaltada.",
   "57": "O Polegar...? Ah, aquele brutamontes daquela vez?",
+  "60": "É porque ele é poderoso.",
   "62": "...Ryoshu, de bom grado, dizer que alguém é forte — alguém aqui já ouviu isso...?",
-  "labels": { "Daguanyuan - Yihongyuan Interior": "Grande Jardim - Interior de Yihongyuan", "Palanquin Interior": "Interior do Palanquim" }
+  "labels": {
+    "Daguanyuan - Yihongyuan Interior": "Grande Jardim - Interior de Yihongyuan",
+    "Palanquin Interior": "Interior do Palanquim"
+  }
 }

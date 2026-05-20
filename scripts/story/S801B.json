@@ -1,4 +1,5 @@
 {
+  "1": "<i><color=#5bffde>Cores desbotam, perfume fenece — mas quem chorará por sua perda?</i></color>",
   "2": "<i><color=#5bffde>Com o ancinho de flores na mão, saí para o jardim,</i></color>",
   "3": "<i><color=#5bffde>mas vagueio, temendo pisar as pétalas caídas.</i></color>",
   "4": "<i><color=#5bffde>Pois, afinal, neste mundo de poeira e vento...</i></color>",
@@ -17,6 +18,7 @@
   "21": "Haha... senhor Hong Lu, essa foi a piada mais engraçada que eu ouvi até agora, hahaha...",
   "22": "Haha, não foi algo que eu disse para ser engraçado, mas, se graças a isso o senhor se divertiu, ainda bem~",
   "23": "Mas, senhor Hong Lu, onde estão os outros irmãos? Eu ouvi que era a vossa festa de boas-vindas...",
+  "24": "Ei, também é a minha festa de boas-vindas.",
   "25": "E de que adianta ver gente que só de ver a cara já me franze o cenho?",
   "26": "Só de me sentar à mesma mesa, isso já foi quase 10 anos atrás.",
   "27": "E... não fale comigo. Você esqueceu o que eu disse agora há pouco? Eu agora estou completamente de costas viradas para vocês.",
@@ -52,6 +54,7 @@
   "72": "Wei nos fitou com olhos, nunca antes vistos, frios e, ainda assim, com algo de cintilante.",
   "73": "I-isso... a gente também... pensava igual... os corações se entenderam... ha... haha...",
   "74": "Dito ao contrário, isso também significa que vocês podem me apunhalar a qualquer momento.",
+  "75": "Uh… não, jamais. Nem em sonho eu pensaria em fazer algo como—",
   "76": "Sem sequer dar atenção a Sinclair, que se atrapalhava, Ga Shichun fitou Hong Lu de frente.",
   "77": "Pode ser a última oportunidade... de mudar de ideia, mano.",
   "78": "Eu não te propus entrar para a minha facção com um coração simplesmente leviano.",
@@ -61,6 +64,7 @@
   "82": "Por isso, o peso que nós sentimos há de ser o mesmo.",
   "84": "Tá. Então a relação de cooperação, que se manteve, ainda que frágil, termina aqui.",
   "85": "Bom, tanto faz. Para uma aliança passageira motivada pela necessidade, ela até se arrastou tempo demais.",
+  "86": "… A gente só está voltando ao que era antes, só isso.",
   "87": "Então, que tal pararmos por aqui de trocar palavras de modo tão tranquilo?",
   "88": "Sim, se é o que você quer, que seja assim.",
   "91": "...Você poderia não contar às pessoas da família que eu vou participar?",
@@ -90,5 +94,9 @@
   "121": "U-uns sujeitos suspeitos vindo em bando daquele lado...",
   "122": "Quem ordenou um ataque visando os candidatos não há de ter sido só Saihwa... Gerente. Parece ser melhor liquidarmos os capangas antes que o próximo palanquim chegue.",
   "123": "<...É. E não há outro jeito.>",
-  "labels": { "Daguanyuan Banquet Hall": "Salão de Banquetes do Grande Jardim", "Busy-looking Servant": "Criado de Aspecto Ocupado", "Xichun's Clan": "Casa de Shichun" }
+  "labels": {
+    "Daguanyuan Banquet Hall": "Salão de Banquetes do Grande Jardim",
+    "Busy-looking Servant": "Criado de Aspecto Ocupado",
+    "Xichun's Clan": "Casa de Shichun"
+  }
 }

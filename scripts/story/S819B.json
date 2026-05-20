@@ -52,6 +52,7 @@
   "64": "De um alto-falante, junto com um chiado, ouviu-se a voz de alguém, e...",
   "66": "...a porta do elevador que nos transportara se fechou por completo.",
   "67": "Ah... agora eu sei que lugar é este.",
+  "68": "Você já esteve aqui antes?",
   "70": "É o terreno da antiga Firma H, que a casa Gong administrava antigamente.",
   "71": "Há de ser um lugar onde as feridas daquela época ainda não cicatrizaram por completo, e, agora, será que sangue novo vai recobri-lo de novo?",
   "72": "Um espaço agitado, em meio a uma multidão incontável.",
@@ -59,5 +60,11 @@
   "74": "O Hong Lu que eu fitei, erguendo a cabeça...",
   "75": "...com um aspecto muito mais jovem que o de agora.",
   "76": "...estava com uma expressão imersa numa profunda angústia, como se fosse chorar.",
-  "labels": { "Round 2 Evaluations Assembly": "Local de Reunião da 2ª Seleção", "Daguanyuan - Yihongyuan Yard, Past": "Passado, Grande Jardim - Pátio de Yihongyuan", "Bodyguard": "Guarda-costas", "Grand Lift": "Elevador de Estilo Antigo", "Somewhere in Hongyuan": "Algum Lugar de Hongwon" }
+  "labels": {
+    "Round 2 Evaluations Assembly": "Local de Reunião da 2ª Seleção",
+    "Daguanyuan - Yihongyuan Yard, Past": "Passado, Grande Jardim - Pátio de Yihongyuan",
+    "Bodyguard": "Guarda-costas",
+    "Grand Lift": "Elevador de Estilo Antigo",
+    "Somewhere in Hongyuan": "Algum Lugar de Hongwon"
+  }
 }

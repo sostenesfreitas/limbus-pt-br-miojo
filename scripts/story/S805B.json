@@ -47,7 +47,9 @@
   "62": "E, se elas forem levadas pela correnteza, a gente acaba sujando as flores, não é?",
   "63": "Irmão Book, você também, por favor, não disperse todas as pétalas que tinha no peito.",
   "65": "<Não há ninguém que você queira ver no Grande Jardim?>",
+  "67": "Não, não há.",
   "68": "...Como é que pode ser assim? O senhor há de ter deixado para trás a família... e várias pessoas queridas...",
+  "70": "Bem, contanto que eu acredite que estejam bem…",
   "71": "É que não há razão para se ter, de propósito, um coração saudoso.",
   "73": "<As suas pétalas, você as guarda... bem?>",
   "74": "Não, eu dispersei todas elas quando parti de casa.",
@@ -58,11 +60,13 @@
   "85": "Talvez ele estivesse tentando captar, ainda que vagamente, um senso de afinidade. Pois era o caminho rumo à casa onde estava a família.",
   "86": "Os dois são lúcidos quanto à razão das coisas.",
   "88": "Tanto a minha mãe quanto o meu pai me trataram com carinho.",
+  "90": "Ah, parece que já estamos quase chegando.",
   "91": "Dá para ver o jardim.",
   "93": "Para entrar na casa principal ainda falta um pouco.",
   "94": "É que antigamente cervos e coelhos também corriam e brincavam no jardim. Hehe.",
   "95": "Isto aqui, para passear, dá para caminhar o dia inteiro...",
   "96": "Eu, em geral, só andava em volta do quarto em que eu morava. Porque é perigoso de vários modos.",
+  "97": "<É perigoso? Por quê?>",
   "98": "Caminhando por um caminho errado, a gente pode encontrar até pessoas inesperadas~ e pode virar alvo também. À noite, a gente pode até não enxergar o que tem à frente.",
   "99": "Que isso... a gente simplesmente corre no quintal, pode é ralar o joelho e arranhar um pouco a cara num galho, e é isso.",
   "100": "Hehe, sendo o senhor Heathcliff, eu acho que o senhor corria livremente. Ainda assim, é melhor ter sempre cuidado.",
@@ -71,5 +75,8 @@
   "104": "...por acaso ou não, era justo no galho ao redor dela que o veneno estava impregnado.",
   "105": "E... e o que aconteceu com ela?",
   "108": "Xiren foi sempre inteligente, então deve ter acabado assim.",
-  "labels": { "Palanquin Interior": "Interior do Palanquim", "Somewhere in Daguanyuan, Past": "Passado, Algum Lugar do Grande Jardim" }
+  "labels": {
+    "Palanquin Interior": "Interior do Palanquim",
+    "Somewhere in Daguanyuan, Past": "Passado, Algum Lugar do Grande Jardim"
+  }
 }

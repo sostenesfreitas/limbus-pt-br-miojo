@@ -2,6 +2,7 @@
   "0": "Depois que o combate contra os Sanguinários entrou, por um instante, numa trégua...",
   "1": "Eu fitei por um instante a direção em que estava Don Quixote e, em seguida, me aproximei de Faust.",
   "2": "Antes de avançar mais para a frente, há uma história cuja resposta eu preciso ouvir.",
+  "3": "<… A Faust sabe por quê, não sabe?>",
   "4": "<Por que Don Quixote mudou naquela hora...>",
   "6": "Já que chegamos até aqui, não há motivo para eu não lhe dizer.",
   "7": "...Para um Sanguinário, a perversão de ir contra a hierarquia do sangue é um tabu. Naquela hora, Cassetti tentou tornar o senhor Don Quixote seu vassalo. Um vassalo inferior tentou tomar como vassalo um vassalo superior.",
@@ -21,5 +22,9 @@
   "25": "♬Se rasgando♬ (As minhas unhas não param de cair...!)",
   "27": "♬Estampe♬ ♬Um sorriso♬",
   "29": "A letra da música, sem que eu saiba por quê, aos poucos...",
-  "labels": { "Carnival Parade": "Desfile do Carnaval", "Bloodfiend holding a Parasol": "Sanguinário Segurando uma Sombrinha", "Bloodfiend with a Parasol": "Sanguinário com Sombrinha" }
+  "labels": {
+    "Carnival Parade": "Desfile do Carnaval",
+    "Bloodfiend holding a Parasol": "Sanguinário Segurando uma Sombrinha",
+    "Bloodfiend with a Parasol": "Sanguinário com Sombrinha"
+  }
 }

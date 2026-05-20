@@ -15,6 +15,7 @@
   "14": "Que é um sentimento que logo vai desbotar, isso eu também sei.",
   "15": "Há de ser uma emoção que, em breve, vai se dispersar como poeira.",
   "16": "Eu sou diferente de vocês.",
+  "17": "Não quero mudar nada. Também não quero conquistar nada.",
   "18": "Por isso, sorrindo... eu apenas observo, sorrindo sem parar.",
   "19": "<Não tem problema não haver nada que você queira realizar.>",
   "20": "<Mas, enquanto você estiver neste ônibus... vão continuar a existir coisas boas e coisas dolorosas.>",
@@ -49,6 +50,7 @@
   "57": "<Eu posso, por vocês, continuar a girar o relógio e acompanhar o caminho de vocês até o fim, mas...>",
   "58": "<...no fim, quem pode salvar a si mesmo... há de ser só você.>",
   "59": "Ah, a minha pipa, que eu pensava ter voado embora para sempre...",
+  "60": "Mas continuava aqui.",
   "62": "Quando a flor desabrocha, é adorável, mas, quando ela murcha, só se acrescenta tristeza, não é?",
   "64": "<E, ainda assim, o mundo que você observa será sempre belo.>",
   "65": "<Hong Lu, porque você é gentil mais do que qualquer um.>",
@@ -56,5 +58,8 @@
   "67": "As pétalas que um dia vão se dispersar ao vento...",
   "68": "...se é viver naquele instante fugaz, mesmo sabendo que vão desaparecer...",
   "69": "<...é só você mostrar as pétalas que juntou.>",
-  "labels": { "Tiekan Temple Interior": "Interior de Cheolhamsa", "Front Gates of Daguanyuan, Past": "Passado, Portão Principal do Grande Jardim" }
+  "labels": {
+    "Tiekan Temple Interior": "Interior de Cheolhamsa",
+    "Front Gates of Daguanyuan, Past": "Passado, Portão Principal do Grande Jardim"
+  }
 }

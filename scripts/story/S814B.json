@@ -7,11 +7,15 @@
   "7": "O meu trabalho vai apenas até entregá-la...",
   "8": "Mantê-la em forma intacta não é o meu encargo.",
   "9": "Senhor Hong Lu, esta pessoa é mesmo a sua criada?",
+  "10": "Tá tudo bem~",
   "12": "Xiren, Xiren, vem cá. Eu tinha combinado de brincar do jogo das pedrinhas com o Ga Ryeong, por que é que ele não aparece de jeito nenhum?",
+  "13": "Ah, é que… é…",
   "14": "Hum... eh... então, jovem senhor. Da última vez, até que número o senhor decorou?",
   "15": "Naquela vez, eu e a Xiren aprendemos até o número dez.",
   "16": "Hum, então, depois que o senhor dormir até cem noites, ele vai voltar. Cem é só repetir dez vezes o passar de dez noites.",
   "17": "Uau, é assim~ a Xiren é super inteligente!",
+  "18": "Ah, não é nada. É algo que a gente aprende crescendo.",
+  "19": "Xiren. Já se passaram dez vezes dez noites, e ainda não sei pra onde Jia Ling foi.",
   "21": "...Por acaso eu disse que o jovem senhor Ga Ryeong vai voltar?",
   "22": "Sim, você disse que ele volta depois que eu dormir até cem noites.",
   "25": "Vai ter de passar mil noites, isso sim.",
@@ -78,6 +82,7 @@
   "101": "Isso. Por uma via indireta, de qualquer modo que seja, tanto faz.",
   "102": "Por isso, não confie nem nos seus criados, mano.",
   "104": "Obrigado por vir pessoalmente até aqui, Shichun.",
+  "106": "Sei que é tarde demais para mudar qualquer coisa… mas amanhã…",
   "107": "Ga Shichun, quando ia cuspir mais alguma palavra, talvez por ter mudado de ideia, virou-se e desapareceu.",
   "109": "Na verdade, quando a senhorita disse que viria até aqui... eu a dissuadi três vezes.",
   "110": "Dissuadir nada menos que três vezes, da minha posição, é de fato algo impróprio, mas...",
@@ -87,5 +92,11 @@
   "114": "Que de modo algum venhamos a nos cruzar — é o que eu desejo de coração.",
   "115": "Concordo.",
   "116": "Eu gostaria de desejar que não venha a haver dano mútuo entre nós e eles.",
-  "labels": { "Daguanyuan - Yihongyuan Interior": "Grande Jardim - Interior de Yihongyuan", "Daguanyuan - Yihongyuan Interior, Past": "Passado, Grande Jardim - Interior de Yihongyuan", "Xichun's Clan": "Casa de Shichun" }
+  "117": "Bem, quando é que algo já saiu como a gente queria, hein…?",
+  "118": "Mas Heathcliff parecia tão inquieto quanto.",
+  "labels": {
+    "Daguanyuan - Yihongyuan Interior": "Grande Jardim - Interior de Yihongyuan",
+    "Daguanyuan - Yihongyuan Interior, Past": "Passado, Grande Jardim - Interior de Yihongyuan",
+    "Xichun's Clan": "Casa de Shichun"
+  }
 }
