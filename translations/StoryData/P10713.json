@@ -4,7 +4,7 @@
             "id": 0,
             "teller": "Anúncio",
             "title": "W Corp.",
-            "content": "Confirming: Railway status Unobstructed."
+            "content": "Confirmando: Status da Ferrovia Desobstruída."
         },
         {
             "id": 1,
@@ -308,7 +308,7 @@
             "id": 57,
             "model": "홍루",
             "title": "Agente de Limpeza da W Corp.",
-            "content": "Clocking out early today?"
+            "content": "Saindo cedo do trabalho hoje?"
         },
         {
             "id": 58,
@@ -374,7 +374,7 @@
             "id": 69,
             "model": "히스클리프",
             "title": "Agente de Limpeza da W Corp.",
-            "content": "... and grab a pint..."
+            "content": "... e tomar uma cerveja..."
         },
         {
             "id": 70,
@@ -436,13 +436,13 @@
             "id": 82,
             "teller": "Anúncio",
             "title": "W Corp.",
-            "content": "Attention, all Agents. Railway Congestion detected. Railway Congestion detected."
+            "content": "Atenção, todos os Agentes. Congestionamento de Ferrovia detectado. Congestionamento de Ferrovia detectado."
         },
         {
             "id": 83,
             "teller": "Anúncio",
             "title": "W Corp.",
-            "content": "Attention, all Agents."
+            "content": "Atenção, todos os Agentes."
         },
         {
             "id": 84,
