@@ -1,0 +1,160 @@
+﻿{
+    "dataList": [
+        {
+            "id": "faq_description",
+            "content": "Você pode consultar\nas Perguntas Frequentes aqui."
+        },
+        {
+            "id": "faq_payment",
+            "content": "Forma de Pagamento"
+        },
+        {
+            "id": "faq_payment_title_1",
+            "content": "Como funciona o Pacote Mensal de Lunacy?"
+        },
+        {
+            "id": "faq_payment_desc_1",
+            "content": "Ao comprar o <b>Suprimento Mensal de Lunacy<b>, você receberá 650 Lunacy antecipadamente e poderá receber as recompensas diárias listadas abaixo pelos próximos 30 dias.\nAo comprar o <b>Pacote Mensal de Lunacy<b>, você receberá 130 Lunacy antecipadamente e poderá receber as recompensas diárias listadas abaixo pelos próximos 30 dias.\n\n■ Recompensas Diárias do Suprimento Mensal de Lunacy:\n65 Lunacy Grátis\n\n■ Recompensas Diárias do Pacote Mensal de Lunacy:\n39 Lunacy Grátis\n\n※ NOTAS\n1) Todas as recompensas são fornecidas na caixa de correio no jogo.\n2) Os dois pacotes mensais operam separadamente.\n3) Os dois pacotes mensais podem ser recomprados até duas vezes durante sua duração. (A duração pode ser estendida para até 67 dias.)\n4) As recompensas diárias não serão fornecidas nos dias em que você não fizer login no jogo."
+        },
+        {
+            "id": "faq_payment_title_2",
+            "content": "Quero reembolsar um produto que comprei. Como faço isso?"
+        },
+        {
+            "id": "faq_payment_desc_2",
+            "content": "Você pode solicitar um reembolso em até 7 dias a partir da data da compra, desde que não tenha usado o produto adquirido."
+        },
+        {
+            "id": "faq_payment_title_3",
+            "content": "Quais compras posso reembolsar?"
+        },
+        {
+            "id": "faq_payment_desc_3",
+            "content": "Por favor, entenda que certos pacotes, produtos disponíveis por tempo limitado, produtos que incluem bônus e outros produtos com validade imediata após a compra podem ser difíceis de reembolsar.\nCaso contrário, você pode solicitar o reembolso dos produtos em até 14 dias após a compra, desde que não os tenha utilizado."
+        },
+        {
+            "id": "faq_payment_title_4",
+            "content": "Onde posso ver meu histórico de compras ou recibos de pagamento?"
+        },
+        {
+            "id": "faq_payment_desc_4",
+            "content": "<b>Usando Google Pay</b>\n\n1. Acesse o centro de pagamentos do Google (<color=#F8C200><u>\\<link=\"[https://payments.google.com/\">https://payments.google.com/](https://payments.google.com/%22>https://payments.google.com/)</link></u></color>)\n\n2. Faça login com a conta do Google usada para realizar a compra\n3. Vá para [Atividade]\n4. Selecione a transação que deseja examinar\n5. Verifique o ID da transação (GPA. 0000-0000-0000-00000)\n\n<b>Usando App Store</b>\n\n1. Acesse a página do iTunes (\\<color=#F8C200><u>\\<link=\"[https://www.apple.com/kr/itunes/\">https://www.apple.com/kr/itunes/](https://www.apple.com/kr/itunes/%22>https://www.apple.com/kr/itunes/)</link></u></color>)\n2. Faça login e vá para [Conta]\n3. Selecione [Ver tudo] no histórico de compras\n\n<b>Usando Steam</b>\n\n1. Acesse a página de atendimento ao cliente (<color=#F8C200><u>\\<link=\"[https://help.steampowered.com/\">https://help.steampowered.com/](https://help.steampowered.com/%22>https://help.steampowered.com/)</link></u></color>)\n2. Vá para [Compras]\n3. Vá para [Ver o histórico completo de compras]\n4. Verifique a transação\n"
+        },
+        {
+            "id": "faq_payment_title_5",
+            "content": "Vários pagamentos foram feitos pelo mesmo produto."
+        },
+        {
+            "id": "faq_payment_desc_5",
+            "content": "Caso você encontre um erro em que vários pagamentos foram feitos para um único produto, envie um tíquete ao atendimento ao cliente com seu histórico de compras e comprovante de pagamento incluídos."
+        },
+        {
+            "id": "faq_payment_title_6",
+            "content": "Fiz uma compra, mas não recebi o produto. O que devo fazer?"
+        },
+        {
+            "id": "faq_payment_desc_6",
+            "content": "Caso você tenha encontrado um erro que fez com que seu produto no jogo não pudesse receber sua compra, envie uma solicitação ao atendimento ao cliente com seu histórico de compras e comprovante de pagamento incluídos."
+        },
+        {
+            "id": "faq_payment_title_7",
+            "content": "Meu método de pagamento continua falhando no processamento. Por que isso acontece?"
+        },
+        {
+            "id": "faq_payment_desc_7",
+            "content": "Os itens dentro do jogo são atualmente vendidos pela Google Play Store e App Store, aceitando uma variedade de métodos de pagamento; pode haver várias causas para o problema. ||  || ■ Possíveis Soluções para Transações Falhadas || 1) Reinicie o jogo com uma conexão de rede estável || 2) Para problemas com a configuração da conta:  ||  || Suporte ao Cliente do Google || Link: <color=#F8C200><u><link=\"https://payments.google.com/payments/u/2/home#oneTimePurchase\">https://payments.google.com/payments/u/2/home#oneTimePurchase</link></u></color> ||  || Suporte ao Cliente da Apple || Link: <color=#F8C200><u><link=\"https://expresslane.apple.com/GetproductgroupList.action\">https://expresslane.apple.com/GetproductgroupList.action</link></u></color> ||  || Suporte ao Cliente do Steam || Link: <color=#F8C200><u><link=\"https://help.steampowered.com/\">https://help.steampowered.com/</link></u></color> ||  || 3) Para problemas com o processamento do pagamento: || - Para problemas com o método de pagamento como limites de orçamento, você pode consultar o suporte ao cliente da operadora do cartão ou do provedor de rede."
+        },
+        {
+            "id": "faq_payment_title_8",
+            "content": "O preço de venda de um produto não corresponde ao seu preço real."
+        },
+        {
+            "id": "faq_payment_desc_8",
+            "content": "Os produtos pagos na Limbus Company seguem as políticas da respectiva loja (Google Play Store, App Store, Steam) onde o jogo está hospedado. Os preços dos itens são os indicados.\n\nNo entanto, observe que pode haver pequenas diferenças no valor do pagamento devido a fatores externos, como taxas de câmbio e taxas, dependendo do método de pagamento."
+        },
+        {
+            "id": "faq_payment_common_template",
+            "content": "■ Modelo de Consulta para Android || 1) UID (Identificação do Usuário): || 2) Pedido: Cancelamento de pagamento || 3) Conta de Pagamento Google: (Insira o e-mail aqui) || 4) Data da Compra: || 5) Item Comprado e Preço Pago: || 6) ID da Transação: (Ou uma captura de tela do recibo do Google com o ID da transação visível) ||  || ■ Modelo de Consulta para iOS || 1) UID (Identificação do Usuário): || 2) Pedido: Cancelamento de pagamento / Reemissão de item || 3) Captura de Tela do Registro de Compra no iTunes com ID de Transação Identificável (Obrigatório) || 4) Data da Compra:  || 5) Item Comprado e Preço Pago:  ||  || ■ Modelo de Consulta para STEAM || 1) UID (Identificação do Usuário): || 2) Pedido: Cancelamento de pagamento || 3) Captura de Tela do Registro de Compra no Steam com ID de Transação Identificável (Obrigatório) || 4) Data da Compra:  || 5) Item Comprado e Preço Pago: "
+        },
+        {
+            "id": "faq_account",
+            "content": "Conta"
+        },
+        {
+            "id": "faq_account_title_1",
+            "content": "Where can I check my account ID?"
+        },
+        {
+            "id": "faq_account_desc_1",
+            "content": "O ID da conta é exibido acima do nível na parte inferior da tela."
+        },
+        {
+            "id": "faq_account_title_2",
+            "content": "I want to know how to link my account."
+        },
+        {
+            "id": "faq_account_desc_2",
+            "content": "Para vincular sua conta, vá em Configurações → Outros → Conta. ||  || Se você usa uma conta de convidado, ela será convertida em uma conta registrada após a vinculação. Observe que contas não vinculadas estão suscetíveis à perda de dados quando o acesso imediato é perdido. ||  || ※ NOTA || Para evitar perda de dados da conta, contas vinculadas pelo menos uma vez devem manter vinculação com pelo menos 1 serviço externo por vez."
+        },
+        {
+            "id": "faq_account_title_3",
+            "content": "I forgot my account ID and/or the password."
+        },
+        {
+            "id": "faq_account_desc_3",
+            "content": "Se você não consegue lembrar do ID ou da senha da conta à qual vinculou sua conta do jogo, entre em contato com o suporte ao cliente do respectivo serviço. ||  || Suporte ao Cliente do Google: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color> || Suporte ao Cliente da Apple: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color> || Suporte ao Cliente do Steam: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color> ||  || ※ NOTA || Por favor saiba que contas de convidado não vinculadas podem ser perdidas permanentemente ao migrar de dispositivo ou deletar o aplicativo."
+        },
+        {
+            "id": "faq_account_title_4",
+            "content": "Can I keep using my account after changing to a different device or reinstalling the game?"
+        },
+        {
+            "id": "faq_account_desc_4",
+            "content": "Mesmo se você migrar para um dispositivo diferente ou deletar e reinstalar o aplicativo, você pode fazer login com uma conta existente para continuar jogando. ||  || Contudo, observe que contas de convidado que não passaram por nenhuma integração podem ser perdidas quando o acesso ao aplicativo é perdido."
+        },
+        {
+            "id": "faq_account_title_5",
+            "content": "How do I delete (close) my account?"
+        },
+        {
+            "id": "faq_account_desc_5",
+            "content": "Você só pode deletar (encerrar) uma conta que está vinculada com outro serviço. || Contas de convidado também precisam ser vinculadas antes do encerramento. || Para deletar (encerrar) uma conta, entre em Configurações → 'Outros' → 'Encerrar Conta'. ||  || ※ Quando você optar por encerrar a conta, será dado um período de carência de 14 dias, após o qual o encerramento é totalmente concluído. || ※ Todos os dados do jogo serão perdidos quando a conta for deletada, então prossiga com cautela."
+        },
+        {
+            "id": "faq_account_title_6",
+            "content": "Can a closed account be recovered?"
+        },
+        {
+            "id": "faq_account_desc_6",
+            "content": "Se você fizer login na conta antes que o período de carência de 14 dias termine, você pode restaurar a conta."
+        },
+        {
+            "id": "faq_account_title_7",
+            "content": "Minha conta foi suspensa. Por que isso?"
+        },
+        {
+            "id": "faq_account_desc_7",
+            "content": "Para fornecer uma experiência agradável, operamos sob Termos de Serviço. || Má conduta e violações dos termos que afetam negativamente o serviço e seu gerenciamento podem resultar em restrições para jogar. ||  || <color=#F8C200><u><link=\"https://limbuscompany.kr/policy/\">[Ler texto completo]</link></u></color> ||  || Por favor entenda que não conseguiremos ajudá-lo com restrições aplicadas de acordo com os Termos de Serviço."
+        },
+        {
+            "id": "faq_account_title_8",
+            "content": "Regarding failure to link accounts"
+        },
+        {
+            "id": "faq_account_desc_8",
+            "content": "Por favor entenda que não conseguiremos fornecer ajuda em relação a problemas com contas externas vinculadas à conta do jogo do usuário pois não conseguimos garantir que o acesso não é fraudulento. Nesses casos, entre em contato com o suporte ao cliente do respectivo serviço. ||  || Suporte ao Cliente do Google: <color=#F8C200><u><link=\"https://support.google.com/accounts/#topic=3382296\">https://support.google.com/accounts/#topic=3382296</link></u></color> || Suporte ao Cliente da Apple: <color=#F8C200><u><link=\"https://support.apple.com/ko-kr\">https://support.apple.com/ko-kr</link></u></color> || Suporte ao Cliente do Steam: <color=#F8C200><u><link=\"https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In\">https://help.steampowered.com/ko/wizard/HelpWithPurchase.Vender+cromos+raacutepidamente+con+Steam+In</link></u></color>"
+        },
+        {
+            "id": "faq_normal",
+            "content": "Geral"
+        },
+        {
+            "id": "faq_normal_title_1",
+            "content": "Não encontrei um artigo que responda minha pergunta. Onde devo fazer minha consulta?"
+        },
+        {
+            "id": "faq_normal_desc_1",
+            "content": "Para consultas não cobertas no FAQ, entre em contato com nossos e-mails de Atendimento ao Cliente listados abaixo. ||  || Consulta de Conta || <color=#F8C200><u><link=\"mailto:limbussupport+account@projmoon.com\">limbussupport+account@projmoon.com</link></u></color> ||  || Consulta de Pagamento || <color=#F8C200><u><link=\"mailto:limbussupport+payment@projmoon.com\">limbussupport+payment@projmoon.com</link></u></color> ||  || Relatório de Bug || <color=#F8C200><u><link=\"mailto:limbussupport+bug@projmoon.com\">limbussupport+bug@projmoon.com</link></u></color> ||  || Problemas com uso do aplicativo || <color=#F8C200><u><link=\"mailto:limbussupport+applicationissue@projmoon.com\">limbussupport+applicationissue@projmoon.com</link></u></color> ||  || Outras Consultas || <color=#F8C200><u><link=\"mailto:limbussupport+others@projmoon.com\">limbussupport+others@projmoon.com</link></u></color>"
+        }
+    ]
+}

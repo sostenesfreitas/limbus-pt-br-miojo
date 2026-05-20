@@ -1,0 +1,262 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971001,
+            "name": "O Conflito das Galinhas",
+            "desc": "Algumas pessoas estão bloqueando o caminho.\nEstão sentadas em um deck, gritando umas com as outras.\n“Olhe para este pedaço suculento! O caldo rico escorrendo pelas fibras da carne deliciosa... Isso que é frango de verdade!”\n“Errado. Este pedaço tem um sabor limpo, sem um pingo de gordura manchando a língua. Isso sim é o que há de melhor.”\nOs dois se viram ao mesmo tempo para encararem vocês.\n“Você aí! Diga-nos qual é o melhor!”",
+            "options": [
+                {
+                    "message": "Frango é frango, ué.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Queimadura e uma Bênção de E.G.O de Ruptura.",
+                    "result": [
+                        "“Isso... é verdade.”\n“Uma afirmação irrefutável.”\nEles abaixaram suas mãos e se acalmaram.\n“Que coisa mais estranha essa pela qual estávamos brigando.”\n“Eles têm razão... A única verdade é que o frango está sempre certo.”\nApós um aperto de mãos entusiasmado, os dois te deram seus baldes de frango.\n“Um gourmet tão sábio quanto você merece os dois pedaços. Por favor, tome, nós insistimos.”"
+                    ]
+                },
+                {
+                    "message": "Tem que ser as coxas, todas ricas e suculentas.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Queimadura.",
+                    "result": [
+                        "“Viu só! As coxas são melhores!”\n“Você não sabe o que é bom gosto.”\nA pessoa segurando o peito de frango deixou escapar um suspiro incrédulo.\n“Aí! Aqui sua recompensa. Você merece uma coxa própria para você.”\nSatisfeito, o que segurava a coxa te deu outra de seu balde.\n“Conto com você para manter essa perna firme!”\nSem muita certeza do que ele espera de você, você saiu da mesa com a coxa em mãos."
+                    ]
+                },
+                {
+                    "message": "O peito, claro, tão limpo e suave.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Ruptura.",
+                    "result": [
+                        "“Mas nem ferrando! Você deixaria de lado esse banquete de suculência...?”\n“É gordura, não suculência. O peito é saudável, leve, vem em porções maiores, é fácil de comer — é óbvio que é a escolha mais razoável.”\nA pessoa segurando um pedaço de peito de frango afirmou alegremente.\n“Aqui, uma recompensa pra você. Leva esse peito.”\nUm pedaço volumoso foi tirado do balde.\n“Boa sorte com seus ganhos. Espero que você continue saudável.”\nSem muita certeza do que é que você deve ganhar, você saiu da mesa com o peito de frango em mãos."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971003,
+            "name": "Tango da Paixão Avícola",
+            "desc": "Um holofote brilhante ilumina uma parte da área barulhenta.\nParece que as galinhas estão participando de um... baile.\n“Esse é o tango.”\nObservando os movimentos delas, que podem ser uma dança ou uma briga, você percebe molho vazando de uma delas.\nEla não parece estar ciente disso...",
+            "options": [
+                {
+                    "message": "Alerte-a com sinceridade.",
+                    "messageDesc": "Receba uma Bênção de E.G.O de Sangramento dependendo do resultado da próxima escolha",
+                    "result": [
+                        "“Escutai-me!!!!! O molho está vazando de teu corpo!!!!!!” || “Não grita tão alto, sua tonta...” || Notificada de seu vazamento, a galinha rapidamente passou suas asas pelas costas—ou o que parecia ser suas costas. || Infelizmente, o nó tinha afrouxado em sua costura. || “Kieegh, kiiierg...” || Significa que não consegue fazer sozinha? Aproximando-se com um rastro de molho pingando atrás, segurava linha e agulha em suas mãos, ahn, asas. || Será que ela quer que você costure suas costas?"
+                    ]
+                },
+                {
+                    "message": "Você não viu nada.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O Sem Palavras-chave.",
+                    "result": [
+                        "“Não deveríamos informá-las?”\n“É, mas~ Elas parecem bem felizes agora, não parecem? Não faz mal sentar e assistir um pouco mais, né?”\n“O que aconterá com ela quando perder todo o seu molho?”\n“Talvez só se torne uma galinha mal temperada.”\nCom o tempo, o vazamento parou.\n“Kiehg!”\nTalvez tenha percebido que ficou mais leve? De repente, ela executou um movimento bastante técnico.\n“Surpreendente.”\nAs galinhas ao seu redor pararam suas danças e assistiram sua performance, hipnotizadas. Em pouco tempo, elas se aproximaram da dançarina, deixando escapar gritos que pareciam aplausos.\nElas andaram para fora da luz, arremessando a galinha especial para cima e para baixo, como em uma celebração.\nTudo que havia restado... era o molho derramado."
+                    ]
+                },
+                {
+                    "message": "Dê algumas dicas sutis.",
+                    "messageDesc": "Escolha para ter 50% de chance de receber uma Bênção de E.G.O Sem Palavras-chave.",
+                    "result": [
+                        "“Mm-mmm~ Nossa, eu sinto o cheiro de alguma coisa gostosa! De onde será que esse cheiro tá viiindo~?!”\n“... Imagino que seria tolice minha esperar uma atuação mais crível.”\nA voz do Pecador fez com que as galinhas enfim parassem sua dança entusiasmada.\nExaminando as costas umas das outras, elas logo encontraram a fonte do vazamento.\n“Kieh, kierg.”\n“Giiegh”\nSem entrar em pânico, elas pegaram uma linha e uma agulha para costurar suas costas — ou melhor, o que parecia ser suas costas.\nSua maestria era impecável.\nAssim que a costura estava feita, elas desapareceram no escuro.\nTudo que restava era a linha e a agulha que elas haviam usado."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971012,
+            "name": "Escolha de Livro de Registros Obscuros",
+            "subDesc": "",
+            "desc": "\"É território do Clã Kurokumo daqui em diante.\"\n\n\"É tão difícil assim vocês entenderem que precisam pagar o pedágio pra usarem a estrada? Hein?\"\n\nPessoas vestidas em roupas do Clã Kurokumo ficam a frente de civis desarmados, os ameaçando.\n\n\"...Suponho que esta desculpa foi o bastante para eles também entrarem em nosso território.\"\n\nAeng-du não esconde sua indignação. Ela range seus dentes.\n\nO que deveríamos fazer sobre isso?",
+            "options": [
+                {
+                    "message": "Salvar os civis.",
+                    "messageDesc": "Receba uma Bênção de E.G.O Sem Palavra-chave dependendo do resultado da próxima escolha"
+                },
+                {
+                    "message": "Fazer vista grossa.",
+                    "result": [
+                        "\"Mais um dia, mais uma extorsão na Cidade.\"\n\nUm dos Pecadores resmunga e suspira.\n\n\"......\"\n\nAeng-du permanece imóvel com seus olhos clamando para que façamos algo, mas não toma a frente.\n\nDeveríamos evitar batalhas desnecessárias...\n\n... se quisermos sobreviver às batalhas que virão e enfrentar o Kim do Chapéu de Bambu Distorcido que nos aguarda ao fim deste caminho.\n\nIsso deixou um gosto ruim em nossas bocas enquanto ignorávamos e nos distanciávamos da situação."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97101202,
+            "name": "Escolha de Livro de Registros Obscuros #2",
+            "subDesc": "",
+            "desc": "\"Obrigado, muito obrigado...\"\n\nOs civis, libertos da ameaça do Clã Kurokumo, curvam-se e nos agradecem.\n\n\"Mas... Você não estão vestidos como o pessoal daqui.\n\n\"Se não se importam com a pergunta... quem são vocês?\"",
+            "options": [
+                {
+                    "message": "Diga que você está apenas passando.",
+                    "result": [
+                        "\"Hãã...?\"\n\nOs civis parecem confusos.\n\n\"Você vai apenas... \"passar\" com essa quantidade de pessoas atrás de você?\"\n\nTalvez eu deveria ter pensado mais em minha resposta antes de responder...\n\n\"Por que você nos ajudaria se não há nenhuma relação com o Clã Kurokumo...?\"\n\nEles trocaram olhares entre si, claramente confusos.\n\n\"O-obrigado mesmo assim.\"\n\n\"Te-tenham uma boa jornada!\"\n\nE, assim, apressadamente saíram do local."
+                    ]
+                },
+                {
+                    "message": "Dizer que você está com o Pacto da Lâmina.",
+                    "messageDesc": "Teste de Vantagem de Orgulho. Passe para ganhar uma Bênção de E.G.O Sem Palavras-chave."
+                }
+            ]
+        },
+        {
+            "id": 971013,
+            "name": "Escolha da Empunhadura Enferrujada",
+            "subDesc": "",
+            "desc": "\"Isso deve ser uma taverna...\"\n\nEsse bar ou hotel está movimentado, e seus clientes estão energicamente conversando. Todos parecem estar de bom humor.\n\nUm trio no meio da multidão está discutindo, fazendo barulho e apontando dedos um aos outros.\n\n\"Não, NÃO! Eu não entendo como isso sequer é algo que dê pra discutir! Uma lâmina é uma arma feita para corte, e o jeito 'certo' de usar uma lâmina é cortar com ela.\"\n\n\"Você não sabe do que tá falando! Apunhale um único ponto com toda a sua força e o seu inimigo vai cair com certeza!\"\n\n\"...Os dois estão errados. Seus cortes e apunhaladas não vão fazer nada exceto irritar eles. Eles vão voltar de pé imediatamente!\"\n\n\"Bata nos crânios deles com a parte contundente—cabo ou bainha, e os derrubem de vez! Deixe eles tão tontos que não vão conseguir levantar!\"\n\nO trio aparentava estar tendo uma discussão bem séria, então tínhamos parado para ouvir o debate...\n\nEles repentinamente viraram em nossa direção e nos chamaram.\n\n\"Vocês! O seu grupinho claramente consegue usar bem suas armas, tô certo?\"\n\n\"Responde. Qual o melhor jeito de usar sua espada?\"\n\n\"É claro, cortar é o melhor jeito de usar uma lâmina, não é?\"\n\nO que deveria dizer?",
+            "options": [
+                {
+                    "message": "Right. Slashing is the way to go when wielding a blade.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Orgulho. Passe para receber uma Bênção de E.G.O Cortante."
+                },
+                {
+                    "message": "Não é verdade. Talho, Perfuração e Contundente todos têm seus usos.",
+                    "result": [
+                        "\"Hm.\" ||  || Os três deles ficam de repente muito obviamente desconfortáveis. ||  || \"Essa é a resposta certa, não é?\" ||  || \"Essa é certamente a resposta do livro didático.\" ||  || \"Não é como se não soubéssemos qual é a resposta certa...\" ||  || Todos eles dão goles frustrados em seus respectivos copos. ||  || \"O quê, você acha que estamos sentados aqui falando de armas como generais se preparando para a guerra?\" ||  || \"É só um tópico divertido para discutir com bebida na barriga. Que jeito de matar o clima com essa resposta sem inspiração...\" ||  || \"Bah, esqueça. Siga seu caminho, então!\" ||  || Eles viraram as costas para nós e voltaram a beber, claramente tendo perdido o interesse."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971014,
+            "name": "Escolha da Lâmina Quebrada & Fragmentada",
+            "subDesc": "",
+            "desc": "\"Mas que estranho... essa neblina é...\"\n\nEu não sei quando aconteceu, mas uma grossa camada de neblina apareceu ao nosso redor.\n\n\"Eu tinha ouvido uma história de uma tal caminhada noturna. Nesta história, um viajante despreparado descuidadamente vaga para dentro de uma grossa neblina, e se vê de frente com um ser inacreditável—\"\n\n\"AAAGH! Para, para!\"\n\nEnquanto os Pecadores começaram a brigar uns com os outros, eu percebi que havia algo nebuloso em nossa frente.\n\n\"Aquela coisa tá... dançando?\"\n\nAlgo misterioso, vestido de branco, dançava lindamente a nossa frente com uma grande lâmina em sua mão.\n\nQuando ele revidou meu olhar... ou, quando pensei que tinha...\n\n... uma lâmina embainhada havia se materializado em minha mão.\n\nO que ele quer que eu faça com isso?",
+            "options": [
+                {
+                    "message": "Assume a stance like I'm about to draw the sword.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Melancolia. Passe para receber uma Bênção de E.G.O de Sangramento."
+                },
+                {
+                    "message": "Unsheathe the sword and hold it on my side.",
+                    "messageDesc": "Teste de Vantagem de Orgulho & Ira. Passe para ganhar uma Bênção de E.G.O de Postura."
+                },
+                {
+                    "message": "Leave the sword, let's leave.",
+                    "result": [
+                        "Não é uma Anormalidade com a qual temos de lidar, e a empresa nunca disse que tínhamos que engajá-los. ||  || Eu deveria sempre evitar batalhas contra entidades desconhecidas. ||  || Joguei a espada no chão antes de fugir da cena com os Pecadores. ||  || Uma risada chorosa parecia me seguir o caminho todo de volta."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971016,
+            "name": "Escolha da Borla Vermelha",
+            "subDesc": "",
+            "desc": "Ouvimos um par de vozes enquanto caminhávamos perto de uma cerca de pedra. Os dois viajantes ambos carregam lâminas.\n\n\"Tenho dó das pessoas daqui...\"\n\n\"Bem, a decisão de uma Asa é absoluta para suas penas. Não tem muito que consigam fazer sobre.\"\n\nUm deles se destaca—sua roupa o distingue dos que vivem aqui. Talvez ele não seja daqui.\n\n\"Mesmo assim, permitir com que o Clã Kurokumo venha para cá? É um exagero.\"\n\n\"A Asa não liga para muita coisa além de bater suas asas. Todo o resto se torna insignificante.\n\nParece que estão falando da atual S Corp.\n\n\"Vejo mais forasteiros. Que conveniente.\"\n\nO par para, então vira para olhar para nós.\n\n\"O Clã Kurokumo... não. Você não vestem suas roupas. Também não parecem serem camponeses tentando conseguir um dinheiro com o caos da Periferia...\"\n\n\"Então. O que os forasteiros acham do atual clima?\"\n\nComo deveria responder isso?",
+            "options": [
+                {
+                    "message": "É a Cidade. Esse tipo de coisa simplesmente acontece com peixes pequenos que se misturam  conflitos de larga escala.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Orgulho. Passe para receber uma Bênção de E.G.O Cortante."
+                },
+                {
+                    "message": "Não tenho opiniões sobre a situação. Mas é uma pena.",
+                    "result": [
+                        "\"Uma pena, você diz...\" ||  || O homem que carrega a espada cruza os braços, depois suspira. ||  || \"Claro, suponho que essa é uma maneira de ver. Um pensamento deve permanecer livre, de fato.\" ||  || \"No entanto, se você não tem pensamentos a respeito do assunto, entenda que sentir pena pode ser um pecado por si só.\" ||  || A dupla se afasta. Ambos vestem uma expressão sombria."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971017,
+            "name": "Escolha do Chapéu de Bambu & Roupão",
+            "subDesc": "",
+            "desc": "Letras azuis brilhantes flutuam em sua frente.\n\nO jeito em que estas palavras parecidas são organizadas torna difícil de entender o que está tentando ser dito.\n\nDizer que o que é certo é certo e que o que é errado é errado não é certo,\n\nmas que isto não é dizer que o que é errado é certo e que certo é errado é errado.\n\nQue dizer que o que é errado é certo e certo é errado não é errado,\n\ne que dizer que o que é certo é certo e que o que é errado é errado é, então, dizer que este erro é certo\n\n... Será que ele quer saber a minha interpretação destas palavras?\n\nDo que ele está falando?",
+            "options": [
+                {
+                    "message": "O que é \"certo\" e o que é \"errado\"... é de fato necessário distinguirmos qual é qual? Dizer que o que realmente importa é outra coisa.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Orgulho. Passe para receber uma Bênção de E.G.O de Postura."
+                },
+                {
+                    "message": "Porém, ainda é necessário dizer que o que é certo, é certo.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Orgulho. Passe para receber uma Bênção de E.G.O Cortante."
+                }
+            ]
+        },
+        {
+            "id": 971021,
+            "name": "Trabalhador da Fábrica",
+            "subDesc": "",
+            "desc": "É somente outra ocupada, ocupada fábrica de relógios.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nUm homem em brilhantes sapatos sociais e um terno social, obviamente o dono da fábrica, está gritando com seus empregados que vestem roupas sujas de óleo.\n\nAlgo toma sua atenção, fazendo com que ele encare um de seus empregados e grite com raiva.\n\nO empregado, que já estava ocupada com seu trabalho, fica envergonhado e tenta dizer algo. Mas ele demora eras para sequer abrir sua boca.\n\nO dono saca um gravador em uma frustrada tentativa de se comunicar, mas não adianta.\n\n\"Eu recém chequei a câmera de segurança. Você tem dormido por duas horas! Dê uma boa explicação.\"\n\n\"F... ... ... á... ... ...\"\n\n\"... ... b... ... ... r...\"\n\n\"Cara, você não consegue falar um pouco mais rápido?!\"\n\nTalvez tenha algo aqui para resolver a situação?",
+            "options": [
+                {
+                    "message": "Dê uma olhada ao redor da fábrica.",
+                    "messageDesc": "Teste de Vantagem de Gula & Orgulho. Passe para receber uma Bênção de E.G.O de Tremor."
+                },
+                {
+                    "message": "Dê uma boa olhada no dono da fábrica e no funcionário.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Preguiça. Passe para receber uma Bênção de E.G.O de Tremor."
+                }
+            ]
+        },
+        {
+            "id": 971022,
+            "name": "Coleta de Imposto da T Corp.",
+            "subDesc": "",
+            "desc": "Uma rua aleatória da T Corp. Um Funcionário de Cobrança está cobrando impostos de alguém. ||  || \"Você fará seus pagamentos a tempo, ou em dinheiro?\" ||  || \"Como eu disse, já pagamos nossos Impostos sobre o Tempo por inteiro! Além disso, trezentos milhões de Ahn? Isso é absurdo...!\" ||  || \"Os registros indicam que você acumulou responsabilidades adicionais de Imposto sobre o Tempo devido ao imposto de presente de doação.\" ||  || \"De jeito nenhum. É porque eu dei meu tempo àquelas crianças nas Ruelas dos Fundos?\" ||  || \"Eu só dei a eles trezentas horas, então como diabos isso se transforma em um imposto de trezentos milhões de Ahn?! Isso não faz nenhum sentido!\" ||  || \"Os cálculos de impostos na T Corp. são sempre excepcionalmente precisos.\" ||  || O Coletor de Tempo avança em direção ao cidadão para neutralizá-lo.",
+            "options": [
+                {
+                    "message": "Falar com eles.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Preguiça. Passe para receber uma Bênção de E.G.O Sem Palavras-chave."
+                },
+                {
+                    "message": "Walk away.",
+                    "result": [
+                        "Parece que ele terá de se defender de alguma forma no Escritório de Cobranças. ||  || Não é como se você pudesse mudar algo intervindo. ||  || ... Você de repente percebe que esse é o tipo de pensamento que transformou a T Corp. em um lugar como este. Você se vira e tenta intervir... ||  || ... Mas o Coletor de Tempo já tinha extraído tempo do cidadão, retardando-o a passos de tartaruga."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971023,
+            "name": "Ruas da T Corp.",
+            "subDesc": "",
+            "desc": "Pessoas de todas as esferas da vida, todas com horas diferentes para gastar em um dado dia, falam e se movem em velocidades variadas. ||  || O som vindo dessa estranha desigualdade preenche a rua com incongruência. ||  || Duas pessoas chamam sua atenção naquele caos. ||  || Um jovem de aparência rica, apesar de sua aparente abundância de tempo, está caminhando em ritmo apressado em direção às ruas... ||  || ... e um velho de aparência pobre, apesar de sua aparente pobreza de tempo, está caminhando lentamente em direção a um beco com uma expressão tranquila no rosto. ||  || Quem seguir?",
+            "options": [
+                {
+                    "message": "Seguir o jovem.",
+                    "messageDesc": "Teste de Vantagem de Orgulho & Gula. Passe para receber uma Bênção de E.G.O de Tremor."
+                },
+                {
+                    "message": "Seguir o velho.",
+                    "messageDesc": "Teste de Vantagem de Preguiça & Luxúria. Passe para receber uma Bênção de E.G.O de Tremor. "
+                },
+                {
+                    "message": "Não seguir ninguém.",
+                    "result": [
+                        "São apenas duas pessoas cuidando da própria vida, gastando o próprio tempo com as coisas que querem.\n\nPara que segui-los? Vamos fazer o mesmo e gastar nossos tempos da forma que bem entendermos.\n\nVocê continua seguindo a rua, com sua cabeça transbordando de pensamentos sobre a desigualdade temporal."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971024,
+            "name": "Esconderijo dos Yurodiviye",
+            "subDesc": "",
+            "desc": "Um esconderijo secreto dos Yurodiviye. Um Yurodivy está fervorosamente recitando os textos dados a eles pelo Santo. ||  || \"Tornamo-nos nada além de engrenagens em uma máquina que existe somente para os industrialistas, a burguesia, e as Alas.\" ||  || \"O que mais, que outra relação humana resta entre os Cidadãos senão o estreito interesse próprio e laços sem coração criados pelo capital?\" ||  || \"Portanto, devemos deitar fora o frio e impassível metal que chamamos de moeda; em vez disso, trocaremos nosso calor uns com os outros baseados em nossas necessidades!\" ||  || \"Para os que têm, as leis dos Ninhos são escudos que protegem seus privilégios; mas, para os que não têm, são correntes que nos algemam!\" ||  || \"Então desafiaremos as leis do Ninho! Mostraremos a eles a ira dos que não têm!\" ||  || \"Tudo o que os Yurodiviye têm a perder são nossas correntes; tudo o que temos a ganhar é um mundo sem fome!\" ||  || O Yurodivy de repente aponta em nossa direção. ||  || Parece que vamos ter de dizer algo.",
+            "options": [
+                {
+                    "message": "T-the Yurodiviye of the City, Unite!",
+                    "messageDesc": "Wrath & Envy & Gluttony Advantage check. Pass to gain a Tremor E.G.O Gift."
+                },
+                {
+                    "message": "Gosto da ideia, mas não tem como dar certo.",
+                    "result": [
+                        "Assim que o Pecador termina de falar, o quarto imediatamente fica frio e silencioso. ||  || O Yurodivy que parece ser o líder deles aponta para a porta e o motiva a sair. ||  || Você deixa o lugar antes que algo aconteça."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971025,
+            "name": "Cena do Crime de Matar Tempo",
+            "subDesc": "",
+            "desc": "Você vê uma vítima do Estripador do Tempo. ||  || Você não pode nem tocá-los graças ao fenômeno de superposição de deslocamento espaço-temporal. ||  || Há algo que você possa fazer aqui para ajudar?",
+            "options": [
+                {
+                    "message": "Tentar ajudar.",
+                    "messageDesc": "Teste de Vantagem de Preguiça & Gula & Orgulho. Passe para receber uma Bênção de E.G.O Sem Palavras-chave."
+                },
+                {
+                    "message": "Ignorar eles e ir embora.",
+                    "result": [
+                        "Você precisa ir atrás do Estripador Temporal.\n\nNão há tempo a perder."
+                    ]
+                }
+            ]
+        }
+    ]
+}
