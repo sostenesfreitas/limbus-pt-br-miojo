@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10912_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Fiz tudo como me mandaram... fui ferozmente leal... então... por que não foi eu?"
+        },
+        {
+            "id": "lobby_morning_10912_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Sun's up, gotta keep m'lord updated. Fuhu, he's gonna love me for it."
+        },
+        {
+            "id": "lobby_noon_10912_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Depois que tomei a Pílula Si, perdi a maior parte do meu paladar... mas, ei, ainda dá pra curtir a textura."
+        },
+        {
+            "id": "lobby_night_10912_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Eu curto as noites. Recebo um monte de missões, e sempre tem chance de um assassino se infiltrar pra eu derrotar dramaticamente... Se eu derrotar bem na hora em que os grandões estão olhando pra mim... He, jeito melhor de fazer nome não tem, né~?"
+        },
+        {
+            "id": "smalltalk_10912_1",
+            "desc": "Conversa #1",
+            "dlg": "Sabe de uma coisa? Se esses senhores tiverem reivindicações sobrando do Heishou, eles podem desistir delas ou pagar um valor equivalente por uma fera... pra libertar um membro do Bando. Significa que existe uma chance de eu não ter que ser mais essa silhueta sem cara de animal."
+        },
+        {
+            "id": "smalltalk_10912_2",
+            "desc": "Conversa #2",
+            "dlg": "A lealdade de um Heishou é ao título do senhor, não a quem o veste. Ouvi isso mais vezes do que consigo contar. Mas... como eu poderia esperar me libertar deste lamaçal e realmente brilhar sem mostrar alguma lealdade à pessoa que segura minha coleira? Preciso dele(a) pra me ajudar a trocar de pele, no fim das contas."
+        },
+        {
+            "id": "smalltalk_10912_3",
+            "desc": "Conversa #3",
+            "dlg": "É nojento e feio, né? Fica pior com o tempo. Vou ficar como as outras cobras, como os outros bichos do Bando Heishou... ficar dormente pra tudo."
+        },
+        {
+            "id": "smalltalk_10912_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "T-tô bem. Pensei nisso ontem à noite, e... acho que é melhor ficar de coleira como Heishou. Quero dizer, mesmo se eu fosse libertada, que outras perspectivas eu tenho? Ser morta depois de ser arrastada pra alguma conspiração aleatória e sem ligação? || Além disso, nosso último senhor não era essas coisas, era? Eu... sou boa demais pra ele."
+        },
+        {
+            "id": "smalltalk_10912_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Os candidatos a Patriarca da Família são um bando de dramáticos que agem como se tivessem recebido a pior mão possível da vida. Quero dizer, esses ricaços têm tudo — roupas de seda, boa comida... o que mais poderiam querer? || O pessoal dos Becos recebeu a mesma mão merda. Todas as desvantagens de viver aqui onde a vida é precária... mas, em vez de luxo, recebem trapos rasgados e estômagos famintos."
+        },
+        {
+            "id": "neglect_10912_1",
+            "desc": "Inativo",
+            "dlg": "Isso dá oitenta missões... Só mais algumas, e não vou ter que viver mais como um bicho."
+        },
+        {
+            "id": "gacksung_10912_1",
+            "desc": "Enlaçamento",
+            "dlg": "Viu aquilo? Duvido que tenha... Uma cobra torta chicoteia mais rápido que a velocidade do som, sabia."
+        },
+        {
+            "id": "formation_10912_1",
+            "desc": "Envio",
+            "dlg": "Espera! Vou pegar essa missão. Tudo bem por você?"
+        },
+        {
+            "id": "battleentry_10912_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Você não vai achar uma cobra melhor pra esse serviço~"
+        },
+        {
+            "id": "battle_select_10912_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Didya call, m'lord? Feel free to summon me for anything ya need."
+        },
+        {
+            "id": "battle_endcommand_10912_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Vamos cravar nossas presas naquela coisa."
+        },
+        {
+            "id": "battle_enemy_break_10912_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "My, did I catch ya off guard?"
+        },
+        {
+            "id": "battle_break_10912_1",
+            "desc": "Atordoado",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10912_1",
+            "desc": "Inimigo Morto",
+            "dlg": "So sloppy."
+        },
+        {
+            "id": "battle_dead_10912_1",
+            "desc": "Morte",
+            "dlg": "Qual... era a graça...? Todo aquele tempo... que desperdicei... pelo senhor..."
+        },
+        {
+            "id": "choice_success_p_10912_2",
+            "desc": "Passou no Teste",
+            "dlg": "Viu? Sou melhor nisso do que as outras cobras."
+        },
+        {
+            "id": "choice_fail_n_10912_1",
+            "desc": "Falha no Teste",
+            "dlg": "Isso... isso foi só um deslize, tá? Vou acertar da próxima vez."
+        },
+        {
+            "id": "battle_clear_10912_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Ótimo, são noventa missões bem-sucedidas, atendi todos os pedidos extras também... Talvez meu senhor finalmente me considere sua número um?"
+        },
+        {
+            "id": "battle_clear_ex_10912_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Lembra da promessa que fez, meu senhor? Sabe~ você me disse pra completar cem missões, e você ia... || Senhor? Não me diga que você já usou todas as suas reivindicações...? V-você tá brincando comigo...? Não foi isso que você prometeu!"
+        },
+        {
+            "id": "battle_defeat_10912_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "... Parece que esse senhor também não tem muito tempo. Bem, eu nunca esperei muito dele de qualquer jeito. Só tenho que bajular o próximo senhor. E... e um dia, eu vou..."
+        }
+    ]
+}

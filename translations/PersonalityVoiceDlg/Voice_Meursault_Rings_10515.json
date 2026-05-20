@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10515_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Priorize a crueza do meio sobre a funcionalidade, aplique o pigmento adesivo de modo a acentuar os espasmos cadavéricos — Entendido, Docente. As impressões destacadas em seu feedback serão todas tratadas."
+        },
+        {
+            "id": "lobby_morning_10515_1",
+            "desc": "Morning Greeting",
+            "dlg": "Eu estava observando o... processo de flebotomização. O material coletado durante a noite necessita desta etapa preliminar antes de poder ser condicionado por um método mais natural. || Segundo as lições, o intervalo transitório entre o amanhecer e o nascer do sol é o momento mais apto para conduzir este trabalho, pois a luz assume um tom azul cortante. É por isso que o utilizo com frequência."
+        },
+        {
+            "id": "lobby_noon_10515_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Observar nosso processo de trabalho durante uma refeição geralmente não é recomendado a indivíduos não familiarizados com o ambiente do nosso estúdio. Para preservar a pureza crua dos ingredientes, evitamos processá-los com antissépticos ou produtos químicos de desodorização, o que significa — ah. O banheiro fica fora."
+        },
+        {
+            "id": "lobby_night_10515_1",
+            "desc": "Evening Greeting",
+            "dlg": "Desculpe-me. Eu estava engajado em uma sessão noturna refinando meu trabalho e não esperava vê-lo aqui a esta hora. Este é o trabalho a ser concluído hoje — estou aplicando algumas revisões finais para que o resultado possa ser mais... consistente com os critérios de avaliação. || Hm. A avaliação \"isso parece bom\" é apreciada. Contudo, tal apreciação subjetiva não pode servir de padrão para meu trabalho."
+        },
+        {
+            "id": "smalltalk_10515_1",
+            "desc": "Chatter #1",
+            "dlg": "Subjetividade não é uma questão a se preocupar. A falha crítica do meu trabalho foi que violou os preceitos tradicionais do Fauvismo. || Quaisquer partes reforçadas por materiais retirados de outros animais serão removidas e substituídas por tendões sobrepostos do ingrediente primário."
+        },
+        {
+            "id": "smalltalk_10515_2",
+            "desc": "Chatter #2",
+            "dlg": "\"Boa demonstração de teoria e prática da arte, mas falta impacto.\" 21 de 37 críticas ao meu trabalho continham esta avaliação. Ainda não recebi nota reprovativa, mas é difícil pontuar acima de B- em todos os trabalhos. || Esta peça, também, foi produzida em perfeita conformidade com a técnica e os critérios de revisão exigidos — é difícil discernir o raciocínio por trás desta avaliação."
+        },
+        {
+            "id": "smalltalk_10515_3",
+            "desc": "Chatter #3",
+            "dlg": "O Fauvismo é frequentemente descrito como um movimento consagrado pelo tempo. Isso sugere que suas fundações permaneceram estáveis por muitos anos — esta continuidade provavelmente sustenta sua aclamação. || Portanto, a conclusão natural é que o movimento praticado por aquele que tentou sobrepor um sobre o outro sem consideração por seus princípios definidores deve ser considerado, na melhor das hipóteses, abaixo do padrão."
+        },
+        {
+            "id": "smalltalk_10515_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Ao selecionar o meio, é primordial que seu habitat seja suficientemente observado antes da aquisição. Sujeitos de interesse podem incluir o seguinte: como sua pele e pelo se movem em conjunto com a deambulação, como seus olhos e bocarra brilham e babam ao espreitar a presa... || E como seu corpo relaxa em rendição quando confrontado com um predador inescapável."
+        },
+        {
+            "id": "smalltalk_10515_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "\"Não existe cachorro ruim.\" Esta é a impressão que ganhei ao longo de trabalhar com, processar e vestir incontáveis iterações do meio. || Diz-se que a pata dianteira canina é a mais bela, e suas presas as mais ferozes — meu trabalho convida você a observar as pinceladas amplas e ousadas na primeira... e a impressão de um salto decidido e determinado nas últimas."
+        },
+        {
+            "id": "neglect_10515_1",
+            "desc": "Idle",
+            "dlg": "Quaisquer partes ausentes do meio devem ser remendadas. Agulhas para expansão-e-adesão de miofibras também devem ser reabastecidas com sua tinta."
+        },
+        {
+            "id": "gacksung_10515_1",
+            "desc": "Uptying",
+            "dlg": "Hm. Garras frouxas: tratadas. A empolgação do sujeito prestes a agarrar a presa em suas garras: ... claramente comunicada. Esta iteração particular agora é digna de submissão para avaliação. || ... Nesse caso, agora seria o momento oportuno para coletar novo material para minha próxima peça."
+        },
+        {
+            "id": "formation_10515_1",
+            "desc": "Deployment",
+            "dlg": "Entendo que temos uma data para a exposição experimental."
+        },
+        {
+            "id": "battleentry_10515_1",
+            "desc": "Stage Entry",
+            "dlg": "Requesting your most rigorous evaluation."
+        },
+        {
+            "id": "battle_select_10515_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Tugging a hound's leash before its prey is—!"
+        },
+        {
+            "id": "battle_endcommand_10515_1",
+            "desc": "Commencing Attack",
+            "dlg": "C'est sauvage!"
+        },
+        {
+            "id": "battle_enemy_break_10515_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Uma vez que o material canino seja dominado,"
+        },
+        {
+            "id": "battle_break_10515_1",
+            "desc": "Staggered",
+            "dlg": "Ngh, but the assignment—"
+        },
+        {
+            "id": "battle_kill_10515_1",
+            "desc": "Enemy Killed",
+            "dlg": "I would like to work <i>with</i> you for my next project."
+        },
+        {
+            "id": "battle_dead_10515_1",
+            "desc": "Death",
+            "dlg": "O fedor da morte... era eu mesmo como a obra de arte... o tempo todo."
+        },
+        {
+            "id": "choice_success_p_10515_2",
+            "desc": "Check Passed",
+            "dlg": "Perhaps the tail is to be wagged at such an occasion."
+        },
+        {
+            "id": "choice_fail_n_10515_1",
+            "desc": "Check Failed",
+            "dlg": "Apologies. This does not align with my subject matter."
+        },
+        {
+            "id": "battle_clear_10515_1",
+            "desc": "Victory Cry",
+            "dlg": "Nota de aprovação, mas não boa. Todos os feedbacks já foram aplicados, mas a questão persiste: não consigo pensar em ideias adicionais para melhorar este trabalho."
+        },
+        {
+            "id": "battle_clear_ex_10515_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "B+... Isso é de fato um passo à frente, por menor que seja. Devo conduzir uma análise deste desempenho para identificar as causas desta nota elevada. || ... Hm, eu brevemente perdi a razão e entrei na proverbial \"zona\" no meio da batalha. É uma pena que não consiga recordar plenamente as memórias dessa experiência."
+        },
+        {
+            "id": "battle_defeat_10515_1",
+            "desc": "Defeat Wail",
+            "dlg": "C+... Ah, Docente. Se me permite... Poderia fornecer elaboração adicional sobre sua avaliação do meu— <color=#923838>*suspiro* Querido, deixe-me te perguntar uma coisa — exatamente <i>que</i> parte de uma arte que se conforma tão obedientemente ao molde você acha que demonstra o conceito de <i>le Fauve</i>?</color> Se você indicasse graciosamente os aspectos precisos que sua avaliação aborda, então eu os melhoraria."
+        }
+    ]
+}

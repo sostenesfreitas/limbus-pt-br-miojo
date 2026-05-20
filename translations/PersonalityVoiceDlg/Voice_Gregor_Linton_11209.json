@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11209_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Você está aqui para se juntar à caçada por aquele desgraçado também? Ou veio apenas para... apreciar esta desolação?"
+        },
+        {
+            "id": "lobby_morning_11209_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Feche a janela, por favor. Tive a infelicidade de nascer em um corpo que entra em ataques de tosse com a menor brisa."
+        },
+        {
+            "id": "lobby_noon_11209_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Não espere ver o sol tão cedo enquanto estiver aqui. Ele se esconde para todo o sempre além do céu nublado. Está tão distante quanto a noção de paz está de nós."
+        },
+        {
+            "id": "lobby_night_11209_1",
+            "desc": "Saudação Noturna",
+            "dlg": "O vendaval me desperta do meu já leve sono. Talvez meus pesadelos tenham voltado do esquecimento para baterem em minhas janelas novamente."
+        },
+        {
+            "id": "smalltalk_11209_1",
+            "desc": "Conversa #1",
+            "dlg": "Ah, é você. Um... visitante bastante desagradável me visita de tempos em tempos. Embora eu tenha feito uma aliança com ele por falta de alternativa... sei que ele está sempre pronto para me apunhalar pelas costas."
+        },
+        {
+            "id": "smalltalk_11209_2",
+            "desc": "Conversa #2",
+            "dlg": "Uma lâmina mais afiada leva a uma mente mais aguçada? Que monte de besteira. Minha lâmina é mais afiada que qualquer coisa... porque paguei bom dinheiro por ela. Mas... toda noite... toda vez que acordo, fico preso em um mundo de dúvida sem fim... me perguntando se tudo isto não passou de um pesadelo terrível."
+        },
+        {
+            "id": "smalltalk_11209_3",
+            "desc": "Conversa #3",
+            "dlg": "Você já viu aquela mansão por si mesmo? Aquele lugar desolado visitado apenas pelos ventos uivantes e relâmpagos. Não inspira nada além de desespero... que é, ironicamente, o que me mantém em movimento."
+        },
+        {
+            "id": "smalltalk_11209_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Às vezes, quando vejo uma lápide sem nome... meu coração começa a bater como se fosse explodir. Agora... você sabe por que pode ser?"
+        },
+        {
+            "id": "smalltalk_11209_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Aquele desgraçado deliberadamente cortou apenas um dos meus braços. Eu não escapei; fui solto. Ele me diz que devemos participar de um jogo de esconde-esconde que não pudemos quando crianças. Veremos quem caça quem no fim."
+        },
+        {
+            "id": "neglect_11209_1",
+            "desc": "Inativo",
+            "dlg": "Don't worry. I'm used to being forgotten."
+        },
+        {
+            "id": "gacksung_11209_1",
+            "desc": "Enlaçamento",
+            "dlg": "Sim... está na hora de afiar a lâmina da minha espada."
+        },
+        {
+            "id": "formation_11209_1",
+            "desc": "Envio",
+            "dlg": "Encontramos nossa presa?"
+        },
+        {
+            "id": "battleentry_11209_1",
+            "desc": "Entrada na Fase",
+            "dlg": "This is the time for lamentation."
+        },
+        {
+            "id": "battle_select_11209_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Have you something to say to me?"
+        },
+        {
+            "id": "battle_endcommand_11209_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "I dedicate this blade to you."
+        },
+        {
+            "id": "battle_enemy_break_11209_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Espero que você não estivesse esperando encontrar honra nesta batalha."
+        },
+        {
+            "id": "battle_break_11209_1",
+            "desc": "Atordoado",
+            "dlg": "If I were to fall here... he would... mock me so savagely."
+        },
+        {
+            "id": "battle_kill_11209_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Atingi apenas um dos seus pontos vitais..."
+        },
+        {
+            "id": "battle_dead_11209_1",
+            "desc": "Morte",
+            "dlg": "Ah, a névoa se dissipa... Finalmente posso ver o rosto daquela que eu tanto ansiava ver em meus sonhos..."
+        },
+        {
+            "id": "choice_success_p_11209_2",
+            "desc": "Passou no Teste",
+            "dlg": "Comparado ao que ceifei em meu caminho, isto foi... fácil."
+        },
+        {
+            "id": "choice_fail_n_11209_1",
+            "desc": "Falha no Teste",
+            "dlg": "It slipped my sight."
+        },
+        {
+            "id": "battle_clear_11209_1",
+            "desc": "Grito de Vitória",
+            "dlg": "A batalha final ainda está além. Mal há tempo para comemorar."
+        },
+        {
+            "id": "battle_clear_ex_11209_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Que esta lâmina encontre seu caminho até o coração negro dele."
+        },
+        {
+            "id": "battle_defeat_11209_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "It was simply not the time."
+        }
+    ]
+}

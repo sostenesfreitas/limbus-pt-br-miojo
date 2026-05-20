@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10513_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Um reino derrotado não tem lugar para um Príncipe... Assim, ele deve se erguer à altura e coroar-se monarca."
+        },
+        {
+            "id": "lobby_morning_10513_1",
+            "desc": "Morning Greeting",
+            "dlg": "Dedicar as manhãs em audiência ao Rei é, de fato, uma demonstração mais que louvável de fidelidade. Confiarei no seu apoio contínuo a este esforço de construir nossa nova Família."
+        },
+        {
+            "id": "lobby_noon_10513_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Meio-dia... passageiros rumo à P Corp. estarão embarcando em breve. E quando o fizerem, esta pressão sanguínea, a responsabilidade de reconstruir a Família, sem dúvida se tornará insuportável. || A responsabilidade conferida a mim... como o novo Terceiro Aparentado."
+        },
+        {
+            "id": "lobby_night_10513_1",
+            "desc": "Evening Greeting",
+            "dlg": "A noite não desce sobre este reino. Mas... sei por instinto que agora é a hora do Desfile. || Os cantos dos meus lábios estão... tremendo... Tenho que... sorrir."
+        },
+        {
+            "id": "smalltalk_10513_1",
+            "desc": "Conversa #1",
+            "dlg": "Maman... expressou que o Desfile não tem fim... || Tudo o que tenho a fazer é... completar meu papel dentro deste cortejo contínuo."
+        },
+        {
+            "id": "smalltalk_10513_2",
+            "desc": "Conversa #2",
+            "dlg": "Refreem sua fome pelo primeiro mês; criem não mais que um único Saco de Sangue por dia, e deixem os humanos lutarem entre si. || Apenas aqueles que se erguerem acima dos demais serão admitidos em nossa Família."
+        },
+        {
+            "id": "smalltalk_10513_3",
+            "desc": "Conversa #3",
+            "dlg": "Basta. Criem demasiados de nós, e arriscamos a descoberta de nosso reino furtivo; portanto, retornem e adormeçam. Durmam, até que éons passem e o próximo cortejo seja preparado..."
+        },
+        {
+            "id": "smalltalk_10513_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Ajoelhem-se diante de mim e demonstrem decoro. Não baixem a cabeça, pois desejo lembrar do semblante daqueles a meu serviço."
+        },
+        {
+            "id": "smalltalk_10513_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Ergam as cabeças altas, marchem com vigor, e façam a multidão sorrir. || Que este cortejo demonstre a euforia da alegre existência que aguarda os novos súditos do reino."
+        },
+        {
+            "id": "neglect_10513_1",
+            "desc": "Idle",
+            "dlg": "Não há diferenças significativas entre o papel que me foi dado ao nascer e o papel que me foi conferido como Sanguinário do cortejo. Sou apenas o que se espera de mim."
+        },
+        {
+            "id": "gacksung_10513_1",
+            "desc": "Enlaçamento",
+            "dlg": "O Desfile começa. Abram os portões do palácio e deixem os soldados tomarem a vanguarda neste cortejo. || Este é o Carnaval interminável e eternamente abençoado... Então, divirtam-se."
+        },
+        {
+            "id": "formation_10513_1",
+            "desc": "Deployment",
+            "dlg": "Time to open the gates, is it?"
+        },
+        {
+            "id": "battleentry_10513_1",
+            "desc": "Stage Entry",
+            "dlg": "Witness the King's march."
+        },
+        {
+            "id": "battle_select_10513_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Are you enjoying the banquet?"
+        },
+        {
+            "id": "battle_endcommand_10513_1",
+            "desc": "Commencing Attack",
+            "dlg": "O Desfile e seu Apogeu."
+        },
+        {
+            "id": "battle_enemy_break_10513_1",
+            "desc": "Enemy Stagger",
+            "dlg": "That's it. Kneel."
+        },
+        {
+            "id": "battle_break_10513_1",
+            "desc": "Staggered",
+            "dlg": "... Hah. Blood... more blood...!"
+        },
+        {
+            "id": "battle_kill_10513_1",
+            "desc": "Enemy Killed",
+            "dlg": "You... are too feeble to join the Family."
+        },
+        {
+            "id": "battle_dead_10513_1",
+            "desc": "Death",
+            "dlg": "Thus, in the end... our royal Family too, marches to ruin..."
+        },
+        {
+            "id": "choice_success_p_10513_2",
+            "desc": "Check Passed",
+            "dlg": "Com isto, mais um obstáculo ao Desfile é removido."
+        },
+        {
+            "id": "choice_fail_n_10513_1",
+            "desc": "Check Failed",
+            "dlg": "Já tive minha cota de fracassos, mas... isto também eu suportarei."
+        },
+        {
+            "id": "battle_clear_10513_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Foi uma marcha aceitável para um ensaio geral. || Atendam-me, ó Família minha e seus régios súditos — preparem o novo Desfile, pois o que vem a seguir será ainda maior."
+        },
+        {
+            "id": "battle_clear_ex_10513_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Não cessem este cortejo, não até nos elevarmos além deste reino estreito, não até retornarmos àquela terra de nossa ruína. || Vejam, enquanto eles nos contemplam em assombro..."
+        },
+        {
+            "id": "battle_defeat_10513_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "... Não foi sangue o bastante...?! Nngh... Voltem às sombras... só precisamos recomeçar. || É... tudo a mesma coisa, no fim."
+        }
+    ]
+}

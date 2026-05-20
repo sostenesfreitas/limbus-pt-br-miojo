@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11214_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Apesar do sentimento popular, \"da próxima vez, outro dia\" raramente chegam. || Então desta vez, vou fazer algo a respeito. Arrependimentos tardios só deixam para trás aquela... emoção hedionda, no fim das contas."
+        },
+        {
+            "id": "lobby_morning_11214_1",
+            "desc": "Morning Greeting",
+            "dlg": "Vou ficar responsável pela patrulha matinal da Instalação de Pesquisa hoje. || Tenho que confirmar com meus próprios olhos que todo invasor saiu das instalações... e garantir que nenhum deles ainda esteja espreitando aqui dentro."
+        },
+        {
+            "id": "lobby_noon_11214_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Não te avisei sempre que excesso de carboidratos é o que causa sonolência pós-prandial? Por favor, traga três xícaras de café para a minha equipe também, se não se impo— || ... Hã. Não, não se preocupe. Esqueça o que eu disse, vou pegar meu próprio café."
+        },
+        {
+            "id": "lobby_night_11214_1",
+            "desc": "Evening Greeting",
+            "dlg": "Entendo. Então escolheram negar meu pedido de demissão em troca de aceitar o plano da missão. || Me fizeram esperar até a noite por uma resposta tão simples? Que previsível."
+        },
+        {
+            "id": "smalltalk_11214_1",
+            "desc": "Chatter #1",
+            "dlg": "Embora a instalação tenha sido totalmente restaurada, as atividades de pesquisa não podem ser retomadas imediatamente. Precisamos de tempo para colocar as coisas nos eixos, preencher as novas vagas... || ... Terei muito a fazer assim que completarmos esta operação — vou redesenhar a instalação do zero. ... Teia de aranha, é? Certo, é melhor eu usar o que aprendi."
+        },
+        {
+            "id": "smalltalk_11214_2",
+            "desc": "Chatter #2",
+            "dlg": "Ouvi um boato ridículo, originário de algum outro departamento, de que sou na verdade um Agente de alto Nível que conseguiu escapar do Quartel-General quando ele caiu. Deve ter começado a circular por volta de ontem, eu acredito. || Entendo que muitos estão curiosos sobre onde eu teria conseguido este equipamento do Quartel-General, mas algum de vocês realmente acha que essa conjectura faz qualquer sentido?"
+        },
+        {
+            "id": "smalltalk_11214_3",
+            "desc": "Chatter #3",
+            "dlg": "De fato tenho orgulho de cada sucesso acadêmico que alcancei em minha vida dedicada à pesquisa, mas em nenhum momento os considerei radiantes. || ... Talvez seja isso que me deixou curioso para saber o que é o tal \"orgulho radiante\" deste Equipamento E.G.O."
+        },
+        {
+            "id": "smalltalk_11214_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Você realmente acredita que eu estou no escuro sobre as maquinações dos superiores? Eu só estou de bico calado porque... Porque que bem eu faria ao apontar isso? || Mas espero que não esqueçam que <i>alguém</i> está sempre observando, examinando enquanto tramam."
+        },
+        {
+            "id": "smalltalk_11214_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Eu sei que matar a chamada \"Mãe Tutora do Anelar\" não vai mudar nada. || É por isso que minha participação não passa de uma busca cega por satisfação pessoal, um ato hediondo de covardia com vingar os mortos como uma desculpa conveniente para apaziguar minha consciência."
+        },
+        {
+            "id": "neglect_11214_1",
+            "desc": "Idle",
+            "dlg": "Não se deve parar de verbalizar os pensamentos assim, para não ser deslumbrado pelos sussurros da Anormalidade. A estranheza de pensamentos incomuns fica mais óbvia quando dita em voz alta, e ajudará você a perceber que déjà vu é apenas uma ilusão da mente."
+        },
+        {
+            "id": "gacksung_11214_1",
+            "desc": "Uptying",
+            "dlg": "Posso ver tudo com clareza absoluta, não importa a distância — coisas que eu não conseguia ver antes, coisas que estavam veladas em sombras. || ... Chega de testes. É óbvio que tenho aptidão suficiente para empunhar tanto este E.G.O quanto o Gift ao mesmo tempo."
+        },
+        {
+            "id": "formation_11214_1",
+            "desc": "Deployment",
+            "dlg": "A missão vai começar em breve. Pessoal— ... Não me deixem perder vocês de vista."
+        },
+        {
+            "id": "battleentry_11214_1",
+            "desc": "Stage Entry",
+            "dlg": "É você... Você é a fera desta floresta."
+        },
+        {
+            "id": "battle_select_11214_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Tristemente, apenas os mortos vivem em minha floresta. Agora, a única coisa que posso fazer... é matar a fera."
+        },
+        {
+            "id": "battle_endcommand_11214_1",
+            "desc": "Commencing Attack",
+            "dlg": "Boosting E.G.O Attunement..."
+        },
+        {
+            "id": "battle_enemy_break_11214_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Sit still."
+        },
+        {
+            "id": "battle_break_11214_1",
+            "desc": "Staggered",
+            "dlg": "Oh..."
+        },
+        {
+            "id": "battle_kill_11214_1",
+            "desc": "Enemy Killed",
+            "dlg": "I'm here to save you."
+        },
+        {
+            "id": "battle_dead_11214_1",
+            "desc": "Death",
+            "dlg": "So... this is how it ends, huh..."
+        },
+        {
+            "id": "choice_success_p_11214_2",
+            "desc": "Check Passed",
+            "dlg": "Se isso ajudar a aumentar a chance do nosso sucesso, então por que não."
+        },
+        {
+            "id": "choice_fail_n_11214_1",
+            "desc": "Check Failed",
+            "dlg": "Não há necessidade de me consolar por isso. Nós, pesquisadores, consideramos tais falhas nada mais que um deslize inofensivo."
+        },
+        {
+            "id": "battle_clear_11214_1",
+            "desc": "Victory Cry",
+            "dlg": "Você sabe o que é realmente devastador? Que serão minhas próprias mãos a rabiscar \"Missão Cumprida\" no relatório póstumo. *suspiro* Há mais nomes a serem apagados. Na verdade, acho que vou descartar aquela proposta de pesquisa inteiramente."
+        },
+        {
+            "id": "battle_clear_ex_11214_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Eu não estava realmente tentando lhe ensinar lições de vida como \"sempre há mais na realidade do que aparenta\" ou \"as coisas realmente importantes são invisíveis aos olhos\". || Eu só queria tentar dar uma pancada com esta arma invisível na sua cabeça."
+        },
+        {
+            "id": "battle_defeat_11214_1",
+            "desc": "Defeat Wail",
+            "dlg": "Ah... entendo. Nunca houve nenhuma fera... nesta floresta..."
+        }
+    ]
+}

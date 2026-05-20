@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11014_1",
+            "desc": "Identity Acquisition",
+            "dlg": "O senhor finalmente permitiu que os galos cantassem. A hora de exterminar a praga que infesta Hongyuan... chegou."
+        },
+        {
+            "id": "lobby_morning_11014_1",
+            "desc": "Morning Greeting",
+            "dlg": "É tão chato ficar só sentado num poleiro e cochilando... Espero que o novo senhor convoque os galos logo."
+        },
+        {
+            "id": "lobby_noon_11014_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Almoço...? Tenho que botar pra fora um pouco desse vapor primeiro. Se não vou ser mandado em missão hoje, vou ter que ir bater — quer dizer, treinar com um galo colega."
+        },
+        {
+            "id": "lobby_night_11014_1",
+            "desc": "Evening Greeting",
+            "dlg": "Deixa pros galos contarem a noite (使鷄司夜). O sol se pôs, mas se você não se importa que o mundo inteiro descubra do feito, por que não deixa pros galos em vez das cobras ou coelhos?"
+        },
+        {
+            "id": "smalltalk_11014_1",
+            "desc": "Conversa #1",
+            "dlg": "Desde o momento em que fomos infundidos com as Pílulas You, os galos são amaldiçoados com uma fome interminável por batalha. Encontrar um campo de guerra onde a chuva é sangue e brasas se erguem, para espalhar e bater nossas asas lá! ... E isso se tornou nossa única alegria na vida."
+        },
+        {
+            "id": "smalltalk_11014_2",
+            "desc": "Conversa #2",
+            "dlg": "Cada um dos doze ramos do Heishou inspira medo nas pessoas por razões diferentes, mas a maior parte do cidadão comum que não está envolvido na política de Hongyuan teme mais os galos. || Isso porque a visão do nosso ramo descendo a rua principal em fileiras cerradas geralmente implica que... uma guerra total está prestes a estourar em algum lugar."
+        },
+        {
+            "id": "smalltalk_11014_3",
+            "desc": "Conversa #3",
+            "dlg": "Uma vez que a missão começa, vamos pular e bicar cada coisinha, cada sombra passageira. Então... mantenha distância, hein? A menos que você seja um de nós, eu não terei o discernimento de saber se estou rasgando um inimigo ou um amigo."
+        },
+        {
+            "id": "smalltalk_11014_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Você acha que ficar pulando pra todo lado me faz parecer palhaço? Não me importo. Não me importo enquanto eu puder derrubar mais deles, enquanto eu puder curtir mais a chacina... || Eu corto, corto, corto e corto... isso é tudo o que há."
+        },
+        {
+            "id": "smalltalk_11014_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "A Lâmina Xueyan (Chama Sanguínea), ironicamente, não tem uma lâmina longa. Em vez disso, há um óleo especial da H Corp. fluindo por dentro — o tipo de óleo que faísca em chamas pela fricção desta arma atingindo sangue."
+        },
+        {
+            "id": "neglect_11014_1",
+            "desc": "Idle",
+            "dlg": "... We're alert even in sleep, so rest easy."
+        },
+        {
+            "id": "gacksung_11014_1",
+            "desc": "Enlaçamento",
+            "dlg": "Não há nada de injusto na maneira como você está partindo. Não é azar nem desfavor do senhor que te matou aqui hoje. || É a sua fraqueza."
+        },
+        {
+            "id": "formation_11014_1",
+            "desc": "Deployment",
+            "dlg": "O senhor nos deu ração..."
+        },
+        {
+            "id": "battleentry_11014_1",
+            "desc": "Stage Entry",
+            "dlg": "Do poleiro ao campo de batalha."
+        },
+        {
+            "id": "battle_select_11014_1",
+            "desc": "Viewed in Battle",
+            "dlg": "... Pare de boquear como uma galinha no campo de batalha. Um galo com um estilo particularmente violento pode acabar te bicando até a morte."
+        },
+        {
+            "id": "battle_endcommand_11014_1",
+            "desc": "Commencing Attack",
+            "dlg": "Estendo minhas asas, e os perfuro com minhas garras."
+        },
+        {
+            "id": "battle_enemy_break_11014_1",
+            "desc": "Enemy Stagger",
+            "dlg": "You're cornered. Nowhere to go."
+        },
+        {
+            "id": "battle_break_11014_1",
+            "desc": "Staggered",
+            "dlg": "... <i>*spits*</i>"
+        },
+        {
+            "id": "battle_kill_11014_1",
+            "desc": "Enemy Killed",
+            "dlg": "... Dead. Where to next..."
+        },
+        {
+            "id": "battle_dead_11014_1",
+            "desc": "Death",
+            "dlg": "I wanted to see the sun rise... over this battlefield..."
+        },
+        {
+            "id": "choice_success_p_11014_2",
+            "desc": "Check Passed",
+            "dlg": "... Isso acabou antes mesmo de eu ter a chance de esquentar."
+        },
+        {
+            "id": "choice_fail_n_11014_1",
+            "desc": "Check Failed",
+            "dlg": "I must've been too drunk on the heat of battle..."
+        },
+        {
+            "id": "battle_clear_11014_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Isso não é o suficiente. Isso não é o suficiente para alcançar os objetivos do meu senhor. Preciso ser mais selvagem, mais quente, e eriçar minhas penas."
+        },
+        {
+            "id": "battle_clear_ex_11014_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Uma família foi reduzida a cinzas (家門一消). Só dê ração aos galos... e garantiremos que o círculo de areia seja limpo de qualquer praga. || Agora que viu como os galos podem ser úteis, meu senhor, ordene-nos ao próximo campo de batalha, para que possamos estender nossas asas lá."
+        },
+        {
+            "id": "battle_defeat_11014_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "My talons may break... my wings may burn... and my flesh may tear, but... I need to fight... more...! More...! Nngh..."
+        }
+    ]
+}

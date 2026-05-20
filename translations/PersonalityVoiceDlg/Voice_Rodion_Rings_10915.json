@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10915_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Lembro vividamente de vocês chamarem meu trabalho de \"não-refinado\", \"selvagem\"... Então por que tão com tanta dificuldade de desviar o olhar agora? Olha vocês — parecem apaixonados."
+        },
+        {
+            "id": "lobby_morning_10915_1",
+            "desc": "Morning Greeting",
+            "dlg": "Aff~ Meu corpo diz um sólido \"não\" pra começar o dia com livros~ Mas, ei, o que eu faço? Os novatos hoje em dia vêm com cotovelos bem afiados. Bobeia e pula o estudo, e antes que você perceba, esses Estudantes vão te comer no café da manhã."
+        },
+        {
+            "id": "lobby_noon_10915_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Aquele ceratotauro de antes — o que descornamos e desencapamos pra aquele projeto — ainda tá lá, certo? Pode pegar umas línguas do que sobrou? || Ouvi algo interessante quando visitei a galeria do Distrito 23 da última vez. Aparentemente, línguas de ceratotauro são ótimas pra recheio de sanduíche. Pensei em fazer um pra mim!"
+        },
+        {
+            "id": "lobby_night_10915_1",
+            "desc": "Evening Greeting",
+            "dlg": "Já ouviu um lobo uivar no meio da noite? Aquele zumbido baixo e pesado, roçando cada fibra nervosa como névoa rastejando sob sua pele... *risadinha* No momento em que ouvi, eu soube. Era aquilo — eu sabia exatamente a fera perfeita que eu queria remodelar e pintar."
+        },
+        {
+            "id": "smalltalk_10915_1",
+            "desc": "Chatter #1",
+            "dlg": "Taranã! O que acharam? \"Obra de Arte: Lago Morto\". Com a textura de retalhos do Grande Lago como inspiração, peguei as peles de diferentes Baleias do lago e as costurei juntas. Chama de minha peça-assinatura! || Hehe... Pode até ser bom o bastante pra um leilão VIP, quem sabe? Ou talvez até um pedestal próprio na Bienal..."
+        },
+        {
+            "id": "smalltalk_10915_2",
+            "desc": "Chatter #2",
+            "dlg": "No momento em que vi aquele monstro de urso, percebi que esse braço tinha que ser meu. Olha só: a tensão elástica nas fibras musculares, o pelo grosseiro e duro, e essas garras inquebráveis! || Achei que seria uma tentativa ousada e criativa costurar e mesclar essa parte com outra criatura que tinha um toque um pouco diferente. O resultado? Jackpot, claro!"
+        },
+        {
+            "id": "smalltalk_10915_3",
+            "desc": "Chatter #3",
+            "dlg": "Hmm... é, não. Entrega isso assim como tá, e o melhor que posso te dar é um D+. || Arte deveria ser feroz, viciosa — o suficiente pra prender a atenção com um único olhar. Ainda básico demais pra fazer isso? Então pelo menos tenta algo que arraste os espectadores pela gola — dá pra eles uma impressão pra vida toda. É disso que o Fauvismo se trata, você sabe! Se prefere criar algo morno..."
+        },
+        {
+            "id": "smalltalk_10915_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Não tenho uso pra espectadores fingidos que entram em pânico e enxáguam o cérebro porque não aguentam o quadro. Se já respirou a visão, então deixa cravar uma cicatriz nas suas sensibilidades pra vida. Aquele efeito cru e visceral — é o único toque fauve que leigos como você podem adicionar à arte, não é?"
+        },
+        {
+            "id": "smalltalk_10915_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Nunca dei muita bola pra arte porque pensava que era paixão de pobre. Aí um dia... é, peguei uma fumaça. Lá estava ela, abafada por todo aquele fedor almiscarado de feras... o perfume incrível do dinheiro."
+        },
+        {
+            "id": "neglect_10915_1",
+            "desc": "Idle",
+            "dlg": "Olá? Então era você encarando? Quase pensei que fosse uma daquelas pragas de capacete azul que ficam se infiltrando no Corredor sem ser convidadas."
+        },
+        {
+            "id": "gacksung_10915_1",
+            "desc": "Uptying",
+            "dlg": "Ouviu isso? É a melodia selvagem dos ossos, todos tirados de criaturas diferentes, finalmente se travando juntos. Pronto — alguns tendões puxados e tudo se encaixa no lugar, limpo e justo... || Ei, espera. Você nem vai fingir que vai me ouvir antes de dar no pé? Bem, se não quer... Acho que vou ter que esculpir nos seus ossos em vez disso. Isso tende a deixar uma impressão inesquecível."
+        },
+        {
+            "id": "formation_10915_1",
+            "desc": "Deployment",
+            "dlg": "Back for another look? Knew you'd pine for my work."
+        },
+        {
+            "id": "battleentry_10915_1",
+            "desc": "Stage Entry",
+            "dlg": "Vamos rasgar carne e colocar mais vermelho na mistura."
+        },
+        {
+            "id": "battle_select_10915_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Cuidado. Você está despindo a obra de arte com os olhos."
+        },
+        {
+            "id": "battle_endcommand_10915_1",
+            "desc": "Commencing Attack",
+            "dlg": "With a palette of colors out of this world."
+        },
+        {
+            "id": "battle_enemy_break_10915_1",
+            "desc": "Enemy Stagger",
+            "dlg": "What's wrong? Did my claws get under your skin?"
+        },
+        {
+            "id": "battle_break_10915_1",
+            "desc": "Staggered",
+            "dlg": "Hmm. This material's got more bite than it looks."
+        },
+        {
+            "id": "battle_kill_10915_1",
+            "desc": "Enemy Killed",
+            "dlg": "Adieu."
+        },
+        {
+            "id": "battle_dead_10915_1",
+            "desc": "Death",
+            "dlg": "Ha... Não tava planejando... colocar premium póstumo... no meu trabalho tão cedo."
+        },
+        {
+            "id": "choice_success_p_10915_2",
+            "desc": "Check Passed",
+            "dlg": "*risadinha* Viu isso? Só um toquezinho meu e o quadro salta com aquele tempero extra~"
+        },
+        {
+            "id": "choice_fail_n_10915_1",
+            "desc": "Check Failed",
+            "dlg": "Needs a rougher touch for this part... Eeep! It broke!"
+        },
+        {
+            "id": "battle_clear_10915_1",
+            "desc": "Victory Cry",
+            "dlg": "Ah, uau! Esse haul é bem maior do que eu esperava. Essa técnica... é, parece útil — vou guardar. Vou levar essa também, tem potencial como arma. He, essa passou na peneira. Hora de voltar! Só largar o resto dessas peças medíocres."
+        },
+        {
+            "id": "battle_clear_ex_10915_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Arco áspero e irregular... e cicatrizes como fios arrancados de uma costura. Espera, isso quer dizer que a Casa das Aranhas realmente fez? || Tá, não é hora de ficar parada aqui... O Maestro precisa ouvir isso. Em algum lugar deste Corredor... tem uma obra-prima que cada Dedo vai babar pra colocar as mãos nela."
+        },
+        {
+            "id": "battle_defeat_10915_1",
+            "desc": "Defeat Wail",
+            "dlg": "Merda! Isso não faz sentido nenhum! Eu sei que o Corporismo tá acabado, mas como uma galeria de Maestro pode estar cheia de lixo produzido em massa...? || Voltar de mãos vazias é meio frustrante... Ah! Provavelmente devia pegar pelo menos algumas ferramentas usáveis. Medíocres também, se a gente puder colar alguma história pra puxar o coração."
+        }
+    ]
+}
