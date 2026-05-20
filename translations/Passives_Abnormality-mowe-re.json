@@ -1,0 +1,24 @@
+﻿{
+    "dataList": [
+        {
+            "id": 123806,
+            "name": "Nightmare of La Manchaland",
+            "desc": "Se há Sanguinários de La Manchaland entre os inimigos, ganha os seguintes efeitos: || - Em um Embate contra Sanguinários de La Manchaland, perde 4 Poder de Embate || - Ao atacar Sanguinários de La Manchaland, perde 5 SP (uma vez por Habilidade; 2 vezes por turno) || - Causa -20% de dano de Habilidade contra Sanguinários de La Manchaland"
+        },
+        {
+            "id": 123801,
+            "name": "Stored Blood",
+            "desc": "No Fim do Turno, dependendo da Pilha de [KeptBlood] em si: || - Aplica +2 [Laceration] e +1 Contagem de [Laceration] em si para cada Pilha || - Em 5 ou menos Pilhas: ganha 1 [Binding], 1 [Vulnerable], 1 [AttackDown] e perde 5 SP no próximo turno para cada (6 - Pilha) (este efeito não pode reduzir o SP desta unidade abaixo de -20) || - Em mais de 5 Pilhas: ganha 1 [AttackUp], 1 [DefenseUp], e cura 8 SP no próximo turno para cada (Pilha - 5) (este efeito não pode aumentar o SP desta unidade acima de 30)"
+        },
+        {
+            "id": 123805,
+            "name": "Sanguivore - Coagulation",
+            "desc": "Ao entrar, cura 30 SP || Início do Turno: se esta unidade tem [Laceration], || - Ganha 1 [AttackUp] e 1 [DefenseUp] para cada 5 [Laceration] (máx. 5) || - Ganha 1 [ParryingResultUp] para cada 10 [Laceration] (máx. 2) || Sofre -50% de dano de [Laceration] (arredondado para baixo)"
+        },
+        {
+            "id": 130502,
+            "name": "Prosthesis Model - L37",
+            "desc": "Upon entry, heal 20 SP\nTurn Start: For every 1 [Charge] Count, heal 1 SP (max 15)\nTurn Start: At less than 5 [Charge] Count, inflict 1 [Reduction] on self\nTurn Start: At 5+ [Charge] Count, gain 2 [ParryingResultUp]\nTurn Start: At 10+ [Charge] Count, gain 1 [PlusCoinValueUp]\nTurn Start: At 15+ [Charge] Count, deal +([Charge] Count on self x 2)% damage with Base Attack Skills"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9021701,
+            "name": "Esecuzione della Regola - Preparation Stage",
+            "desc": "If this unit triggered [VibrationExplosion] last turn, gain 1 [Enhancement] and 1 [AttackDmgUp] next turn"
+        },
+        {
+            "id": 9021702,
+            "name": "Esecuzione della Regola - Crush the Lower Jaw",
+            "desc": "Causa +10% de dano contra inimigos Atordoados || Se um inimigo foi Atordoado no último turno: pelo próximo turno, aplica 2 [Vibration] Ao Acertar com uma Habilidade após Ganhar Embate (2 vezes por turno)"
+        },
+        {
+            "id": 9021703,
+            "name": "Regola Infranta",
+            "desc": "If 1 or more ally has been defeated, gain 1 [ParryingResultUp] starting next turn"
+        },
+        {
+            "id": 9021301,
+            "name": "Four-leaf Clover",
+            "desc": "Início do Turno: ganha 5 [Breath] e +2 Contagem de [Breath] || Início de Combate: se um aliado com [Breath] Atinge Criticamente um inimigo com uma Habilidade, aplica 5 de Potência de [Breath] e +2 de Potência de [Breath] em um aliado aleatório no próximo Início do Turno (uma vez por turno)"
+        },
+        {
+            "id": 9021302,
+            "name": "Tasty Flesh",
+            "desc": "Em 50%- de HP: Ao Acertar contra inimigos com [Laceration], cura 1% de HP para cada [Laceration] no alvo (máx. 10%; uma vez por Encontro)"
+        }
+    ]
+}

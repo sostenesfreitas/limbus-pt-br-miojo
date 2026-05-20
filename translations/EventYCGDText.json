@@ -1,0 +1,80 @@
+﻿{
+    "dataList": [
+        {
+            "id": "ycgd_stagebutton_not_clear",
+            "content": "Completar 5.5-12 para Desbloquear"
+        },
+        {
+            "id": "ycgd_stagebutton_normal",
+            "content": "Fases"
+        },
+        {
+            "id": "ycgd_stagebutton_end_event",
+            "content": "Evento Encerrado"
+        },
+        {
+            "id": "ycgd_storybutton_before_start",
+            "content": "<size=75%>Veja a 1ª Fase da História do evento para desbloquear</size> "
+        },
+        {
+            "id": "ycgd_storybutton_normal",
+            "content": "Ao Cinema"
+        },
+        {
+            "id": "ycgd_rewardShopButton",
+            "content": "Troca de Recompensas"
+        },
+        {
+            "id": "ycgd_scrap_guide_title",
+            "content": "Guia da Moeda de Evento"
+        },
+        {
+            "id": "ycgd_scrap_guide_desc",
+            "content": "Rarely, you may obtain <color=#1998fe>[Resentful Scabbard]</color> from clearing Event Stages, Main Story Stages, or Mirror Dungeons.\n\n<color=#1998fe>[Resentful Scabbard]</color> is converted to 20 <color=#008d0d>[Bloodied Scabbard]</color>."
+        },
+        {
+            "id": "ycgd_rewardpage_desc",
+            "content": "Você pode obter <color=#1998fe>[Bainha Ensanguentada]</color> de Fases de Evento e Masmorra. || Você também tem uma pequena chance de obter <color=#7fc6ff>[Bainha Ressentida]</color> no processo. ||  || <color=#7fc6ff>[Bainha Ressentida]</color> é imediatamente convertida em 20 <color=#1998fe>[Bainha Ensanguentada]</color> ao ser adquirida."
+        },
+        {
+            "id": "ycgd_reward_popup_desc",
+            "content": "Ganhe <color=#1998fe>[Bainha Ensanguentada]</color> através dos seguintes métodos: || conclusões de Fase de Evento, conclusões de Masmorra Espelho, || e conclusões de primeira vez de Fase da História Principal. ||  || Na janela <color=#1998fe>[Troca de Recompensas]</color>, você pode comprar várias recompensas || gastando a <color=#1998fe>[Bainha Ensanguentada]</color> que coletou."
+        },
+        {
+            "id": "ycgd_reward_popup_num_of_owned_items",
+            "content": "Bainhas Coletadas"
+        },
+        {
+            "id": "ycgd_bonusUI_Title",
+            "content": "Ganho"
+        },
+        {
+            "id": "ycgd_bonusUI_Title_contain_false",
+            "content": "Não Possuídos"
+        },
+        {
+            "id": "ycgd_bonusUI_Desc",
+            "content": "Durante o período do evento, implantar as seguintes Identidades em sua equipe irá || aumentar a quantidade de <color=#1998fe>[Bainha Ensanguentada]</color> ganha. || Você pode ganhar um aumento máximo de <color=#1998fe>120%</color> na quantidade de moeda de evento ganha."
+        },
+        {
+            "id": "ycgd_bonus_popup_title",
+            "content": "Unidades de Bônus de Evento"
+        },
+        {
+            "id": "ycgd_bonus_preview",
+            "content": "Unidades de Bônus de Evento"
+        },
+        {
+            "id": "ycgd_chapter_map_difficulty_ui_9107",
+            "content": "NORMAL"
+        },
+        {
+            "id": "ycgd_chapter_map_difficulty_ui_9115",
+            "content": "DIFÍCIL"
+        },
+        {
+            "id": "ycgd_chapter_map_difficulty_ui_unlock_condition",
+            "content": "Complete {0}-{1} para Desbloquear a Dificuldade Difícil."
+        }
+    ]
+}

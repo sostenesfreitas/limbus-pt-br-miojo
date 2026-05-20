@@ -1,0 +1,16 @@
+﻿{
+    "dataList": [
+        {
+            "id": 40000601,
+            "name": "O Arpão Amarelo (nomeado por: Ezra)",
+            "desc": "Turn Start: Gain [YellowHarpoon] (once per Encounter)\n\nBegins Encounter at 35 SP\n\nTurn End: If the enemy has less than 50% HP, gain [YellowHarpoonSin]",
+            "flavor": "<color=#fde55d>\"Ok, escuta. Escuta, Abelhinha! || Você é bom com arpões, certo? || Você usa um arpão especial superdoido, certo? || E está mirando a Cor Amarela, certo? || Bum! Aí está! ||  || <b>O Arpão Amarelo</b>!!!\"</color>"
+        },
+        {
+            "id": 40000602,
+            "name": "Gungnir",
+            "desc": "Ao Ganhar Embate contra alvos com [BeeSting], ativa [Switch_Vibration] em seu [Vibration] em [VibrationBleeding] ||  || Ao Ganhar Embate contra alvos com [ArtifactBeeSting], ativa [FusionVibration] em seu [Vibration] em [VibrationEcho] ||  || Ao Acertar com a Moeda final contra alvos com tanto [BeeSting] quanto [ArtifactBeeSting], ativa [VibrationExplosion]",
+            "flavor": "<color=#fde55d>Uma preciosa Relíquia da maior raridade, encontrada nas profundezas das Ruínas. || Foi por mera coincidência que o jovem rapaz, encharcado de sangue, veio a estar em posse desta ponta de lança; coincidentemente, ele também possuía a aptidão para empunhá-la.  ||  || O que é coincidência, de fato?</color>"
+        }
+    ]
+}

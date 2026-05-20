@@ -1,0 +1,905 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9018301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Unmannerly Attack",
+                    "desc": "[WhenUse] Recebe 1 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Tendon Slice",
+                    "desc": "[WhenUse] Se a Velocidade dessa unidade for maior que a do alvo, Poder de Moeda +1\n[WhenUse] Se o alvo tiver 3+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Messy Attack",
+                    "desc": "[WhenUse] Com 7+ de Velocidade, Poder de Moeda +1\n[WhenUse] Se o alvo tiver 4+ de [Laceration], Poder de Moeda +1\n[WinDuel] Causa mais dano baseado na quantidade de Confronto (+5% pra cada Confronto, máx. 50%)\n[WinDuel] Inflige +3 Contagem de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guarda",
+                    "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cleave",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leg Wound",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wild Swipe",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[BeforeHit] Gain 2 Shield for every type of negative effect on self (max 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se essa unidade tem Escudo, inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Extrair Combustível",
+                    "desc": "Se o alvo tiver 2+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 2 PV."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sweep the Backstreets",
+                    "desc": "Se o alvo tiver 2+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Trash Disposal",
+                    "desc": "Se o alvo tiver 4+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "Ao Acertar com esta Moeda, cura 30% do dano de HP causado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Reuse this Coin (3 times per Skill)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "333..1973",
+                    "desc": "[StartBattle] Recebe 4 de [Persistent]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz o Limiar de Atordoamento em 5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pela Família",
+                    "desc": "[StartBattle] Aplica 1 de [Protection] para 2 aliados aleatórios",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018706,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Noite na Periferia",
+                    "desc": "Se o alvo tiver 2+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 8 PV."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 8 PV."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz o Limiar de Atordoamento em 8"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (reduz Contagem de [Laceration] por 1)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque Súbito",
+                    "desc": "[WhenUse] Recebe 1 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fatiar Músculos",
+                    "desc": "[WhenUse] Se a Velocidade dessa unidade for maior que a do alvo, Poder de Moeda +1\n[WhenUse] Se o alvo tiver 3+ de [Laceration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque Indiscriminado",
+                    "desc": "[WhenUse] Com 7+ de Velocidade, Poder de Moeda +1\n[WhenUse] Se o alvo tiver 4+ de [Laceration], Poder de Moeda +1\n[WinDuel] Causa mais dano baseado na quantidade de Confronto (+5% pra cada Confronto, máx. 50%)\n[WinDuel] Inflige 5 de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guarda",
+                    "desc": "[WhenUse] Gain 3 Shield for every type of negative effect on self (max 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Muscle Wound",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Swift Attack",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 3 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9019404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[BeforeHit] Gain 2 Shield for every type of negative effect on self (max 10)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se essa unidade tem Escudo, inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Startling Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Restraint",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 4) times (max 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Feather Strike",
+                    "desc": "Se a Velocidade dessa unidade for maior que a do alvo, Poder de Moeda +1 para cada 2 de diferença (máx. 3)\n[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +3 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 3 de [LegStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Windup",
+                    "desc": "[DuelCounter]\n[WinDuel] Recebe 3 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pursuit",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Overwhelm",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reuse this Coin (this unit's Speed / 4) times (max 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Umbra Strike",
+                    "desc": "Se a Velocidade dessa unidade for maior que a do alvo, Poder de Moeda +1 para cada 2 de diferença (máx. 3)\n[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +3 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 3 de [LegStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Windup",
+                    "desc": "[DuelCounter]\n[WinDuel] Recebe 3 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Aim for the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Right in the Dome",
+                    "desc": "[WhenUse] Se o alvo tiver [MiddleFingerBook], inflige 2 de [DefenseDown] adicionais com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Gut Crush",
+                    "desc": "[WhenUse] Se o alvo tiver [MiddleFingerBook], inflige 1 de [AttackDown] adicionais com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [AttackDown] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [MiddleFingerBook], recebe 1 [PlusCoinValueUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [AttackDown] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [MiddleFingerBook], recebe 1 [PlusCoinValueUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "A vingança espera todos vocês!",
+                    "desc": "Causa +10% de dano para cada 2 [MiddleFingerBook] no alvo (máx. 50%) || [BeforeAttack] Em 40% ou menos de HP, ganha Peso de Atq +1 || [WhenUse] Se o alvo principal tem [MiddleFingerBook], converte todas as Moedas desta Habilidade em [SuperCoin]s || [WhenUse] Poder de Moeda +1 para cada 3 inimigos com [MiddleFingerBook] (máx. 2) || [WhenUse] Poder de Embate +1 para cada 2 [MiddleFingerBook] no alvo principal (máx. 5) || [EndSkill] Se esta unidade matou um alvo com [MiddleFingerBook], ganha 1 [PlusCoinValueUp] no próximo turno (2 vezes por turno) || [EndSkill] Remove [MiddleFingerBook] em todos os alvos atingidos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Binding] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Reduction] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Seize ya Chance",
+                    "desc": "[BeforeHit] Ganha 5 de Escudo para cada [MiddleFingerBook] no alvo (uma vez por turno; máx. 50) || [WhenUse] Se o alvo tem 5+ [MiddleFingerBook], Poder Base +3; aplica 4 [DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento em 20"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 15 de dano de PV fixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento em 20"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 15 de dano de PV fixo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

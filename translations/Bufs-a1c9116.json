@@ -1,0 +1,95 @@
+﻿{
+    "dataList": [
+        {
+            "id": "BurstAgility",
+            "name": "Rito Mortal 【Aceleração】",
+            "desc": "Acúmulo Base: 3\nAo ter Ruptura ativada por ser atingido por uma Habilidade de Ataque por um alvo com 10+ de Velocidade, perde 1 Acúmulo e recebe +1 de Contagem de Ruptura.\nQuando o Acúmulo for zerado, sofre dano de Gula igual à Potência de Ruptura em si; então, este efeito expira.\n※ Não é possível ganhar Acúmulos adicionais deste efeito enquanto ele já estiver ativo.",
+            "summary": "Se as condições forem atendidas: inflige dano bônus de Gula",
+            "undefined": "-"
+        },
+        {
+            "id": "LegStrength",
+            "name": "Ímpeto 【Mǎo】",
+            "desc": "Acúmulo Máx.: 3\nFim de Turno: recebe 5 de Aceleração no próximo turno\nReduz por 1 no Fim de Turno",
+            "summary": "If conditions are met: inflict Gluttony bonus damage",
+            "undefined": "-"
+        },
+        {
+            "id": "DarkBeast_LowMorale",
+            "name": "Deception",
+            "desc": "- Moral Baixa || - Se a Velocidade desta unidade é maior que a do alvo ou ao usar um Ataque sem Oposição, causa +10% de dano contra o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DarkBeast_Panic",
+            "name": "Deception",
+            "desc": "- Pânico || - Se a Velocidade desta unidade é maior que a do alvo ou ao usar um Ataque sem Oposição, causa +20% de dano contra o alvo; se a Velocidade desta unidade é maior que a do alvo, sofre -20% de dano",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RepressedMurderousIntend",
+            "name": "Repressed Bloodthirst",
+            "desc": "Base Offense Level -10\nBase Defense Level -10",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeighedMurderousIntend",
+            "name": "Crushed Bloodthirst",
+            "desc": "Base Offense Level -25\nBase Defense Level -25",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MiddleFingerBook",
+            "name": "The Middle's Vendetta Mark",
+            "desc": "Max Stack: 10\nWhen attacked by The Middle, take +3% damage per Stack (max 30%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Persistent",
+            "name": "Persistence",
+            "desc": "Pilha Máx.: 4 || Ao sofrer dano letal, 80% de chance de não receber esse dano, curar 60 HP, recuperar-se do Atordoamento, e perder este efeito ||  || Os efeitos acima não ativam nas seguintes condições: || - Quando o dano de Moeda recebido excede o HP máx. desta unidade || - Quando esta unidade tem o efeito de Redução de Cura de HP || Reduzido em 1 no Fim do Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BackstreetsNight_LowMorale",
+            "name": "Noite na Periferia",
+            "desc": "- Low Morale\n- Turn Start: gain 1 Attack Power Up, 1 HP Healing Boost, and 1 Fragile",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BackstreetsNight_Panic",
+            "name": "Noite na Periferia",
+            "desc": "- Panic\n- Turn Start: gain 2 Attack Power Up, 2 HP Healing Boost, and 1 Fragile",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperA",
+            "name": "The First Wave",
+            "desc": "The first wave ends after {0} turn(s)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperB",
+            "name": "The Second Wave",
+            "desc": "The second wave ends after {0} turn(s)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SweeperC",
+            "name": "The Third Wave",
+            "desc": "The third wave ends after {0} turn(s)",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

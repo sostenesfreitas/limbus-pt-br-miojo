@@ -1,0 +1,604 @@
+﻿{
+    "dataList": [
+        {
+            "id": 860501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leave This Place",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Sinking], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Don't Make That Face",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ Contagem de [Sinking], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Who Might You Be?",
+                    "desc": "Prioriza [UninvitedGuest] || Se o alvo tem [UninvitedGuest], aplica +1 a mais de Potência e Contagem de [Sinking] com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [UninvitedGuest], Inflige 2 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Interloper, Are You?",
+                    "desc": "Prioriza [UninvitedGuest] || Se o alvo tem [UninvitedGuest], aplica +1 a mais de Potência e Contagem de [Sinking] com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [UninvitedGuest], Inflige 2 de [Paralysis] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Leave, Interloper",
+                    "desc": "Prioriza [UninvitedGuest] || Ganha Peso de Atq igual ao número de inimigos com [UninvitedGuest] || [WhenUse] Ganha Poder de Embate igual ao número de inimigos com [UninvitedGuest]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa [SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860506,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "My Master",
+                    "desc": "[DefeatDuel] Reveals the Portrait attached to this Skill Slot",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860507,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "My Tragic Master",
+                    "desc": "[DefeatDuel] Reveals the Portrait attached to this Skill Slot",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Master...?",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Esquivar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Horned Charge",
+                    "desc": "[WhenUse] Recebe +1 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ram Charge",
+                    "desc": "[WhenUse] Recebe +1 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "O Choro da Ovelha",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Manipulação de Raios",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Grito Elétrico",
+                    "desc": "[WhenUse] Peso de Atq +1 para cada 4 Contagem de [Charge] em si (máx. 5)\n[WhenUse] Poder de Confronto +3 para cada 5 Contagem de [Charge] em si (máx. 4)\n[WhenUse] Recebe 1 de [VioletDamageUp] para cada 6 Contagem de [Charge] em si (máx. 3)\n[EndBattle] Toda Contagem de [Charge] expira. Perde [ConnectedPlug]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [AttackDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860806,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Grito Elétrico",
+                    "desc": "[CantDuel]\n[WhenUse] Recebe 10 de [Protection]\n[WhenUse] Peso de Atq +1 para cada 4 Contagem de [Charge] em si (máx. 5)\n[WhenUse] Poder de Confronto +3 para cada 5 Contagem de [Charge] em si (máx. 4)\n[WhenUse] Recebe 1 de [VioletDamageUp] para cada 6 Contagem de [Charge] em si (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860807,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Recusa de Aterramento",
+                    "desc": "Prioriza alvos com [AntiSheepGround]\nPoder de Confronto +1 para cada [ConnectedPlug]\n[StartBattle] Recebe 2 (3 - [ConnectedPlug]) [Protection]\n[WhenUse] Recebe +1 Contagem de [Charge]\n[DefeatDuel] Se o alvo tiver [AntiSheepGround], recebe 1 [ConnectedPlug]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Liberar Sobrecarga",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Resignação Envolvente",
+                    "desc": "Se o alvo tiver 6+ de [Sinking], Poder de Moeda +1\n[WinDuel] Inflige +3 Contagem de [Sinking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desespero Estrangulador ",
+                    "desc": "Poder de Moeda +1 para cada 6 de [Sinking] no alvo (máx. 2)\n[WinDuel] Inflige +3 Contagem de [Sinking]\n[DefeatDuel] Reduz a Contagem de [Sinking] em 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Quebracorrentes ",
+                    "desc": "Se o alvo tiver [Binding], Poder de Confronto +1\n[WinDuel] Inflige +4 Contagem de [Sinking]\n[DefeatDuel] Reduz a Potência de [Sinking] em 2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Atado às Correntes",
+                    "desc": "Poder de Moeda +1 para cada 6 de [Sinking] no alvo (máx. 2)\n[DefeatDuel] Reduz a Contagem de [Sinking] em 2\n[DefeatDuel] Aplica [BandageOfTheBoundKing]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Binding] no próximo turno\n[OnSucceedAttack] Inflige [Vibration] igual a [Sinking] no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Afogai-vos",
+                    "desc": "Se o alvo tiver [Binding], Poder de Confronto +1\n[WinDuel] Inflige +2 Contagem de [Sinking]\n[DefeatDuel] Reduz a Potência de [Sinking] em 4",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa [SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 862906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Apresentai-vos Diante do Rei",
+                    "desc": "[CantDuel]\n[StartBattle] Recebe 5 de [Binding], 1 de [ComeForwardToTheKing], e 2 de [Enhancement] no próximo turno\n[WhenUse] Aplica 300 de Escudo aos alvos com [BandageOfTheBoundKing]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se esta unidade causar dano no alvo, inflige [Vibration] igual a [Sinking] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 860602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "O Retrato do Mestre",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

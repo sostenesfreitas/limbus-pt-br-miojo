@@ -1,0 +1,369 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "name": "Lunacy",
+            "desc": "Contém 140 Lunacy Paga."
+        },
+        {
+            "id": 2,
+            "name": "Raminho de Lunacy",
+            "desc": "Contém 588 Lunacy Paga."
+        },
+        {
+            "id": 3,
+            "name": "Buquê de Lunacy",
+            "desc": "Contém 2028 Lunacy Paga."
+        },
+        {
+            "id": 4,
+            "name": "Caixa de Lunacy",
+            "desc": "Contém 4294 Lunacy Paga."
+        },
+        {
+            "id": 5,
+            "name": "Saco de Lunacy",
+            "desc": "Contém 8206 Lunacy Paga."
+        },
+        {
+            "id": 6,
+            "name": "Baú de Lunacy",
+            "desc": "Contém 16672 Lunacy Paga."
+        },
+        {
+            "id": 11,
+            "name": "Lunacy",
+            "desc": "Contém 70 Lunacy Paga."
+        },
+        {
+            "id": 12,
+            "name": "Raminho de Lunacy",
+            "desc": "Contém 294 Lunacy Paga.\nTambém receberá 31 Lunacy Grátis como bônus."
+        },
+        {
+            "id": 13,
+            "name": "Buquê de Lunacy",
+            "desc": "Contém 1014 Lunacy Paga.\nTambém receberá 156 Lunacy Grátis como bônus."
+        },
+        {
+            "id": 14,
+            "name": "Caixa de Lunacy",
+            "desc": "Contém 2147 Lunacy Paga.\nTambém receberá 323 Lunacy Grátis como bônus."
+        },
+        {
+            "id": 15,
+            "name": "Saco de Lunacy",
+            "desc": "Contém 4103 Lunacy Paga.\nTambém receberá 642 Lunacy Grátis como bônus."
+        },
+        {
+            "id": 16,
+            "name": "Baú de Lunacy",
+            "desc": "Contém 8336 Lunacy Paga.\nTambém receberá 1349 Lunacy Grátis como bônus."
+        },
+        {
+            "id": 21,
+            "name": "Suprimento Mensal de Lunacy",
+            "desc": "Ganha 650 Lunacy Paga instantaneamente ao comprar.\nRecebe um adicional de 65 Lunacy Grátis para cada sessão diária por 30 dias."
+        },
+        {
+            "id": 22,
+            "name": "Lote Mensal de Lunacy",
+            "desc": "Ganha 130 Lunacy Paga instantaneamente ao comprar.\nRecebe um adicional de 39 Lunacy Grátis para cada sessão diária por 30 dias."
+        },
+        {
+            "id": 101,
+            "name": "Pacote Mensal de Extração",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Lunacy Paga x650\n· Bilhete de Decaextração x1"
+        },
+        {
+            "id": 102,
+            "name": "Pacote Mensal de Extração I",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Lunacy Paga x1690\n· Bilhete de Decaextração x2\n· Bilhete de Impulso de Nível II x1\n· Bilhete de Impulso de Nível I x2\n· Bilhete de Treinamento de Identidade III x10\n· Bilhete de Treinamento de Identidade II x30"
+        },
+        {
+            "id": 103,
+            "name": "Pacote Mensal de Extração II",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Lunacy Paga x1690\n· Bilhete de Decaextração x2\n· Fio x120"
+        },
+        {
+            "id": 104,
+            "name": "Pacote Mensal de EXP",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Bilhete de Impulso de Nível IV x2\n· Bilhete de Treinamento de Identidade IV x20\n· Bilhete de Treinamento de Identidade III x20"
+        },
+        {
+            "id": 105,
+            "name": "Pacote Mensal de Fio",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Fio x300"
+        },
+        {
+            "id": 111,
+            "name": "Pacote de Boas-Vindas do Gerente Novato",
+            "desc": "Uma oferta única para gerentes recém-recrutados. O pacote contém o seguinte:\n\n· Bilhete de Decaextração com Garantia de 3★ x1 \n· Bilhete de Decaextração x1"
+        },
+        {
+            "id": 121,
+            "name": "Fornecimento Principal da 1ª Temporada",
+            "desc": "Somente disponível para compra durante o período de orientação da 1ª Temporada. O pacote contém o seguinte:\n\n· Lunacy x5040\n· Bilhete de Decaextração x3\n· Bilhete de Impulso de Nível III x1\n· Bilhete de Treinamento de Identidade II x40\n· Fio x80\n· Caixa de Egocristal Nominável da 1ª Temporada x40"
+        },
+        {
+            "id": 122,
+            "name": "Fornecimento Principal da 2ª Temporada",
+            "desc": "Somente disponível para compra durante o período de orientação da 2ª Temporada. O pacote contém o seguinte:\n\n· Lunacy x5040\n· Bilhete de Decaextração x3\n· Bilhete de Impulso de Nível III x1\n· Bilhete de Treinamento de Identidade III x30\n· Fio x80\n· Caixa de Egocristal Nominável da 2ª Temporada x40"
+        },
+        {
+            "id": 123,
+            "name": "Fornecimento Principal da 3ª Temporada",
+            "desc": "Somente disponível para compra durante o período de orientação da 3ª Temporada. O pacote contém o seguinte:\n\n· Lunacy x5040\n· Bilhete de Decaextração x3\n· Bilhete de Impulso de Nível III x1\n· Bilhete de Treinamento de Identidade III x30\n· Fio x80\n· Caixa de Egocristal Nominável da 3ª Temporada x40"
+        },
+        {
+            "id": 131,
+            "name": "Pacote Semanal de Extração",
+            "desc": "Uma oferta semanal que contém o seguinte:\n\n· Lunacy Paga x273\n· Bilhete de Extração x5"
+        },
+        {
+            "id": 133,
+            "name": "Pacote Semanal de Fio",
+            "desc": "Uma oferta semanal que contém o seguinte:\n\n· Fio x75"
+        },
+        {
+            "id": 134,
+            "name": "Pacote Semanal de Encefalina",
+            "desc": "Uma oferta semanal que contém o seguinte:\n\n· Caixa de Encefalina x20"
+        },
+        {
+            "id": 135,
+            "name": "Pacote Semanal de EXP",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Bilhete de Impulso de Nível III x 1\n· Bilhete de Treinamento de Identidade IV x12\n· Bilhete de Treinamento de Identidade III x20"
+        },
+        {
+            "id": 136,
+            "name": "Pacote Semanal de Fio",
+            "desc": "Uma oferta semanal que contém o seguinte:\n\n· Fio x100"
+        },
+        {
+            "id": 141,
+            "name": "Pacote Mensal de Bilhete de Extração I",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Bilhete de Decaextração x3"
+        },
+        {
+            "id": 142,
+            "name": "Pacote Mensal de Bilhete de Extração II",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Bilhete de Decaextração x5"
+        },
+        {
+            "id": 143,
+            "name": "Pacote Semanal de Bilhete de Extração I",
+            "desc": "Uma oferta mensal que contém o seguinte:\n\n· Bilhete de Decaextração x10"
+        },
+        {
+            "id": 144,
+            "name": "Pacote Mensal de EXP I",
+            "desc": "A monthly offer that contains the following:\n\n· Level Boost Ticket IV x2\n· Identity Training Ticket IV x20\n· Identity Training Ticket III x20"
+        },
+        {
+            "id": 145,
+            "name": "Pacote Mensal de EXP II",
+            "desc": "A monthly offer that contains the following:\n\n· Level Boost Ticket IV x4\n· Identity Training Ticket IV x20\n· Identity Training Ticket III x20"
+        },
+        {
+            "id": 146,
+            "name": "Pacote Mensal de EXP III",
+            "desc": "A monthly offer that contains the following:\n\n· Level Boost Ticket IV x8\n· Identity Training Ticket IV x40\n· Identity Training Ticket III x40"
+        },
+        {
+            "id": 147,
+            "name": "Pacote Mensal de Fio I",
+            "desc": "A monthly offer that contains the following:\n\n· Thread x300"
+        },
+        {
+            "id": 148,
+            "name": "Pacote Mensal de Fio II",
+            "desc": "A monthly offer that contains the following:\n\n· Thread x500"
+        },
+        {
+            "id": 149,
+            "name": "Pacote Mensal de Fio III",
+            "desc": "A monthly offer that contains the following:\n\n· Thread x1000"
+        },
+        {
+            "id": 201,
+            "name": "Pacote de 1º Aniversário",
+            "desc": "Um Pacote de 1º Aniversário limitado. Contém os seguintes itens:\n\n· Imediato acesso a Locutora Angela\n· Bilhete de Decaextração com Garantia de 3★ x1\n· Bilhete de Impulsionamento de Identidade x1\n\n※ Se você já obteve a Locutora Angela, adquira x50 Caixas de Fio no lugar.\n※ Bilhete de Impulsionamento de Identidade aumenta o nível da Identidade para o nível 40, e o Estágio de Enlace para o Estágio 4."
+        },
+        {
+            "id": 999,
+            "name": "Limbus Passe",
+            "desc": "Atualiza o Passe de Batalha para o Passe Limbus. ||  || ※ Aplica-se apenas ao passe da temporada atual."
+        },
+        {
+            "id": 124,
+            "name": "Pacote de Lunacy de Começo da 4ª Temporada",
+            "desc": "Uma oferta Sazonal que contém o seguinte: ||  || · Lunacy x1300 ||  || ※ Observe que toda a Lunacy contida neste pacote é Lunacy Paga."
+        },
+        {
+            "id": 125,
+            "name": "Season 4 Settler Supplies",
+            "desc": "Disponível para compra apenas durante a Temporada 4. O pacote contém o seguinte: ||  || · Lunacy x5040 || · Bilhete de Decaextração x3 || · Bilhete de Aumento de Nível III x1 || · Bilhete de Treinamento de Identidade III x30 || · Fio x80 || · Caixa de Egoshard Nomeável da Temporada 4 x40"
+        },
+        {
+            "id": 150,
+            "name": "Pacote Semanal de EXP",
+            "desc": "A weekly offer that contains the following:\n\n· Identity Training Ticket IV x25\n· Identity Training Ticket III x18"
+        },
+        {
+            "id": 151,
+            "name": "Pacote Mensal de EXP I",
+            "desc": "A monthly offer that contains the following:\n\n· Identity Training Ticket IV x72\n· Identity Training Ticket III x48"
+        },
+        {
+            "id": 152,
+            "name": "Pacote Mensal de EXP II",
+            "desc": "A monthly offer that contains the following:\n\n· Identity Training Ticket IV x125\n· Identity Training Ticket III x72"
+        },
+        {
+            "id": 153,
+            "name": "Pacote Mensal de EXP III",
+            "desc": "A monthly offer that contains the following:\n\n· Identity Training Ticket IV x250\n· Identity Training Ticket III x144"
+        },
+        {
+            "id": 202,
+            "name": "Pacote de Melhoria de Identidade\nComemorativo\nda Lua Cheia 2024",
+            "desc": "Um Pacote Comemorativo da Campanha da Lua Cheia 2024. Contém os seguintes itens:\n\n· Módulo de Impulsionamento - Enlace de ID x1\n· Bilhete de Treinamento de Identidade IV x80\n\n※ Utilizar o Módulo de Impulsionamento - Enlaçar Identidade aumenta o Estágio de Enlace da Identidade selecionada para 4."
+        },
+        {
+            "id": 203,
+            "name": "Pacote de Melhoria de E.G.O\nComemorativo\nda Lua Cheia 2024",
+            "desc": "Um Pacote Comemorativo da Campanha da Lua Cheia 2024. Contém os seguintes itens:\n\n· Bilhete de Decaextração x3\n· Módulo de Impulsionamento - Tecelagem de E.G.O [WAW] x1\n\n※ Utilizar o Módulo de Impulsionamento - Tecelagem de E.G.O [WAW] aumenta o Estágio de Tecelagem do E.G.O selecionado para 4. (Utilizável somente em E.G.Os de nível WAW ou inferior)"
+        },
+        {
+            "id": 204,
+            "name": "Pacote Completo\nComemorativo\nda Lua Cheia 2024",
+            "desc": "Um Pacote Comemorativo da Campanha da Lua Cheia 2024. Contém os seguintes itens:\n\n· Bilhete de Decaextração x4\n· Módulo de Impulsionamento - Enlace de ID x1\n· Módulo de Impulsionamento - Tecelagem de E.G.O [WAW] x1\n· Bilhete de Treinamento de Identidade IV x80\n· Fio x100\n\n※ Utilizar o Módulo de Impulsionamento - Enlace de ID aumenta o Estágio de Enlace da Identidade selecionado a 4.\n\n※ Utilizar o Módulo de Impulsionamento - Tecelagem de E.G.O [WAW] aumenta o Estágio de Tecelagem do E.G.O selecionado para 4. (Utilizável somente em E.G.Os de nível WAW ou inferior)"
+        },
+        {
+            "id": 401,
+            "name": "Pacote de Volta ao Escritório",
+            "desc": "Um pacote limitado a gerentes retornante. Contém os seguintes itens:\n※ Este item só é visível a usuários retornantes, e só pode ser comprado durante o período do evento de retorno.\n\n·  Bilhete de Extração x5\n·  Bilhete de Treinamento de Identidade IV x45\n·  Fio x100"
+        },
+        {
+            "id": 402,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada - Don Quixote A Gerente de La Manchaland」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 403,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada - Don Quixote A Gerente de La Manchaland」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 404,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Intervallo III: Milagre no Distrito 20 BokGak」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 405,
+            "name": "Pacote de Melhoria de E.G.O",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Intervallo III: Milagre no Distrito 20 BokGak」.\n\n· Módulo de Impulsionamento - Tecelagem de E.G.O [HE] x 1"
+        },
+        {
+            "id": 406,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「A 5ª Noite de Walpurgis」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 407,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「A 5ª Noite de Walpurgis」.\n\n\n· Módulo de Impulsionamento - Progressão de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 408,
+            "name": "Pacote de Melhoria de E.G.O",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「A 5ª Noite de Walpurgis」.\n\n· Módulo de Impulsionamento - Tecelagem de E.G.O [HE] x 1"
+        },
+        {
+            "id": 409,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Cheque Médico de LCB」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 410,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Cheque Médico da LCB」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 411,
+            "name": "Pacote de Melhoria de E.G.O",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Cheque Médico da LCB」.\n\n· Módulo de Impulsionamento - Tecelagem de E.G.O [HE] x 1"
+        },
+        {
+            "id": 412,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Rendo Minha Carne para Usurpar Teus Ossos BokGak」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 413,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Rendo Minha Carne para Usurpar Teus Ossos BokGak」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 414,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada de Nova Identidade e E.G.O: Yi Sang Associação Liu Seção 3- Sul & Faust Toracalgia」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 415,
+            "name": "Pacote de Melhoria de E.G.O",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada de Nova Identidade e E.G.O: Yi Sang Associação Liu Seção 3- Sul & Faust Toracalgia」.\n\n· Módulo de Impulsionamento - Tecelagem de E.G.O [HE] x 1"
+        },
+        {
+            "id": 416,
+            "name": "Pacote de Bilhete de Extração\ndo 2º Aniversário",
+            "desc": "Um Pacote limitado do 2º Aniversário. Contém os seguintes itens:\n\n· Bilhete de Decaextração x5"
+        },
+        {
+            "id": 417,
+            "name": "Pacote de Crescimento de Identidade\ndo 2º Aniversário",
+            "desc": "Um Pacote limitado do 2º Aniversário. Contém os seguintes itens:\n\n· Bilhete de Treinamento de Identidade IV x125\n· Fio x400"
+        },
+        {
+            "id": 418,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Nova Extração Focada - Don Quixote Associação Cinq Seção 3 - Leste & Gregor Sobrevivente do Escritório de Punho de Fogo」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 419,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Varredura Noturna」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 420,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Varredura Noturna」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 205,
+            "name": "Pacote de 2º Aniversário",
+            "desc": "Um Pacote limitado de 2º Aniversário. Contém os seguintes itens:\n\n· Imediato acesso ao Locutor Vergilius\n· Bilhete de Decaextração com Garantia de 3★ x1\n· Bilhete de Impulsionamento de Identidade - ver.2 x1\n\n※ Se você já obteve o Locutor Vergilius, adquira x50 Caixas de Fio no lugar.\n※ Bilhete de Impulsionamento de Identidade aumenta o nível da Identidade para o nível 40, e o Estágio de Enlace para o Estágio 4."
+        },
+        {
+            "id": 421,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Nova Extração Focada - Sinclair O Irmãozinho do Meio」.\n\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        },
+        {
+            "id": 422,
+            "name": "Pacote de Extração Focada",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada de E.G.O - Rodion Julgamento Designado」.\n\n· Bilhete de Decaextração x 4"
+        },
+        {
+            "id": 423,
+            "name": "Pacote de Melhoria de E.G.O",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Extração Focada de E.G.O - Rodion Julgamento Designado」.\n\n· Módulo de Impulsionamento - Tecelagem de E.G.O [WAW] x 1"
+        },
+        {
+            "id": 424,
+            "name": "Pacote de Crescimento de Identidade",
+            "desc": "Você pode obter os seguintes itens deste Pacote limitado comemorativo do lançamento de「Nova Extração Focada - Hong Lu Rena do 4º Bando da R Corp.」.\n\n· Módulo de Impulsionamento - Enlace de Identidade x 1\n· Bilhete de Treinamento de Identidade IV x 50\n· Bilhete de Treinamento de Identidade III x 20"
+        }
+    ]
+}
