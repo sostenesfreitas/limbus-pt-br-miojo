@@ -1,0 +1,167 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971085,
+            "name": "Rendo Minha Carne",
+            "desc": "Os longos beirais das telhas projetam uma umbra impenetrável. Abaixo dela, há uma figura submersa nas sombras, encostada na parede. \n\nEla nos cumprimenta em um silêncio momentâneo antes de murmurar uma pergunta com a voz baixa.\n\n\"Você... está preparado para render sua carne, se isso singifica que você pode ceifar os ossos de seus inimigos?\"\n\"Pegue esta lámina, se você carrega tal determinação.\"\n\nMesmo de relance, há algo na espada que a figura lhe ergueu que tem um ar perturbador.",
+            "options": [
+                {
+                    "message": "Pegue a espada.",
+                    "messageDesc": "Selecione para receber uma Bênção de E.G.O Amaldiçoada.",
+                    "result": [
+                        "\"Rendo Minha Carne para Usurpar Teus Ossos. Esteja pronto para sacrificar a ameixeira para salvar o pessegueiro.\" (肉斬骨斷, 李代桃僵)\n\"A determinação de ser cortado permite que se cause uma ferida ainda mais profunda.\"\n\nO peso da \"determinação de ser cortado\" é inbuida em nós no momento em que pegamos a espada."
+                    ]
+                },
+                {
+                    "message": "Não pegue a espada.",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Aqueles que se recusam a cortar não tem uso nem para espadas e nem determinação.\"\n\nCom isso, a figura retorna a espada para seu cinto e sai sem falar mais nada."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971086,
+            "name": "Aparato Temporal Pré-pago da T Corp.",
+            "desc": "Atrás de um velho letreiro que viu dias melhores vocês encontram uma maquina de venda automática embrazada com um logo meio desbotado da T Corp.\n\nA maquina é alta, com dezenas de pequenos ponteiros de relógio batendo e girando no seu corpo cilíndrico; tem uma linha promocional escrita abaixo delas.\n\n\"Para de pegar tempo emprestado!\"\n\"Pré-pague com seu tempo de sobra, e compre tempo sem esperar quando apertar!\"\n\nTem um pequeno espaço do lado da máquina para os usuários colocarem suas mãos.\nEspere, abaixo do espaço—tem vários avisos escritos em um fonte quase ilegível.\n\n<O que diabos está escrito?>\n\"No ato do uso deste dispositivo, com a cláusula restritiva que o usuário faz o pagamento da soma do recuso temporal, o usuário será imposto a uma restrição temporária de tempo <i>abre parenteses</i> para os fins deste acordo, a “restrição temporária de tempo” mencionada será baseada na Escala Variável de Tempo da T Corp.; entretanto, qualquer soma de um dia ou mais será medida na base Padrão de Tempo da A Corp. <i>fecha parenteses </i>; o pré-pagamento do tempo recebido será automaticamente depositado e acumulado no dispositivo de acumulação auxiliar dentro da máquina e será preparado para provisão para o usário dadas as circunstancias em que eles façam o pedido de retirada por meio de uma série de procedimentos ou o cumprimento das condições de reembolso estipuladas no manual do mesmo,  pela soma do total de horas diárias do usuário e dos subsídios da taxa de aceleração extrapolada, calculados por uma fórmula distinta; o período preciso, a ordem e as limitações no reflexo dessas alterações no saldo da conta do usuário são determinados pelos termos de serviço do dispositivo, conforme descrito—\"\n\n\"M-Muito bem. Não é necessário recitar na íntegra todo o conteúdo deste texto prolixo.\"\n\n\"Espere aí, isso não é uma daquelas coisas que os Coletores usam nos braços?\"",
+            "options": [
+                {
+                    "message": "Use o dispositivo.",
+                    "messageDesc": "Selecione para receber uma Bênção de E.G.O Amaldiçoada.",
+                    "result": [
+                        "Bem, já que temos tempo de sobra, podemos fazer um depósito.\n\n\"Parece que este dispositivo funciona em um mecanismo muito similar aos que estão instalados nas luvas da Equipe de Coletores da T Corp., Gerente Executivo.\"\n\n\"Você tem certeza que o pagamento foi? Eu não me sinto diferente.\n\n<…….>\n\nCom a fala lenta dos Pecadores ficando para trás, eu segui em frente rapidamente."
+                    ]
+                },
+                {
+                    "message": "Não use o dispositivo.",
+                    "messageDesc": "",
+                    "result": [
+                        "Não estamos exatamento com tempo de sobra nesse exato momento.\n\nNós decidimos deixar o dispositivo sem usa-lo."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971087,
+            "name": "Registros de Áudio Daquele Dia",
+            "desc": "Nós vemos um velho gravador de áudio com uma etiqueta desbotada.\n\n<i><Lobotomy Corporation ■■ Registros de Entrevista com Sobreviventes de Filial></i>\n\nO botão de \"Tocar\" está liso e gasto de uso—como se alguém tivesse apertado ele centenas de vezes.",
+            "options": [
+                {
+                    "message": "Toque a gravação.",
+                    "messageDesc": "Selecione para receber uma Bênção de E.G.O Amaldiçoada.",
+                    "result": [
+                        "\"Pesquisador ■■■■■■■■■. Estamos prontos para começar a entrevista?\"\n\n\"Uma pergunta totalmente desnecessária, já que ambos sabemos que você tem total autoridade para decidir quando começar.\"\n\n\"Haha... Verdade. Então vamos começar.\"\n\n\"Sobre o incidente ■■■■■ ■■■■■■, ■■■■ ■■■■ em ■■■... como foi a situação quando aconteceu?\"\n\n\"Toda a instalação começou a tremer e a ceder. Então veio a transmissão: Iniciando o enterramento do local em 100 segundos.\"\n\n\"100 segundos.. sim, isso parece muito pouco tempo, mas considerando a tecnologia implementada na ■ Corp. e a disponibilidade das unidades de transporte, essa quantidade de tempo devia ser o suficiente para evacuar.\"\n\n\"Como você deve saber, a Filial ■■■ era uma das maiores instalações, abrigando inúmeras Anormalidades de Níveis de Risco mais altos. Por exemplo, ■■■ ■■■ ou ■■.\"\n\n\"E naturalmente, algumas destas entidades tinham a habilidade de tomar o controle das instalações.\"\n\n\"A maioria das saidas estavam barradas, incluido os elevadores. Só tinhamos uma cápsula de fuga á caminho.\"\n\n\"Fui considerado a pessoa com maior valor humano entre os presentes — o único funcionário para quem deveriam ser reservados todos os meios de fuga disponíveis.\"\n\n\"Os outros, racionalmente, concordaram, que eu deveria ser quem seria evacuado.\"\n\n\"Isso é tudo.\"\n\n“... Você parece extremamente calmo. Como se estivesse relatando um evento que nem mesmo aconteceu com você.”\n\n“Adendos desnecessários não mudam a questão central do assunto em discussão, você não concorda?”\n\n“Nada poderia ser mais ineficiente do que adicionar sentimentos inúteis às palavras.”\n\n“Você não sente pena deles? Nem mesmo um traço de remorso?”\n\n“Nenhum.”\n\n“O pré-requisito para um sentimento de desculpas é a existência daqueles que deveriam recebê-lo.”\n\n“Essa condição não se aplica a mim. Portanto, não tenho necessidade de me entregar a tais sentimentalismos.”\n\nNo registro de áudio, o pesquisador continuou a responder às perguntas com um distanciamento impassível.\n\nA gravação foi interrompida por um ruído estridente e desagradável, deixando um silêncio vazio em seu rastro."
+                    ]
+                },
+                {
+                    "message": "Sair.",
+                    "messageDesc": "",
+                    "result": [
+                        "As vezes, a melhor escolha é se retirar.\n\nNós decidimos seguir sem tocar a gravação."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971088,
+            "name": "Fé e Promesa Recorrentes",
+            "desc": "Nós encontramos duas formas de vida bizzaras ao lado de uma mesa com uma velha roleta.\n\n\"Deseja testar sua sorte? Um premio aguarda aqueles que tem a benção da sorte.\"\n\"Perca. Sem prêmio. Saia se não quiser.\"\n\nA velha roleta que eles apontam está inscrita com simbolos estranhos.\n\nNão conseguimos decifrar os simbolos, mas alguma coisa neles nos chamam a atenção constantemente.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Gire a roleta.",
+                    "messageDesc": "Escolha para ganhar ou perder Custo.",
+                    "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Perdeu. Vaza.\"\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\nNos fomos jogados para fora da câmara, sem nada."
+                    ]
+                },
+                {
+                    "message": "Pare.",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Escolha. Sábia.\"\n\"Então você é um covarde.\"\n\nNós escapamos da câmara."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97108801,
+            "name": "Fé e Promesa Recorrentes 2",
+            "desc": "\"Outra girada, talvez? O prêmio é dobrado dessa vez.\"\n\"Saia. Se. Não. Quiser.\"",
+            "options": [
+                {
+                    "message": "Continue girando a roleta.",
+                    "messageDesc": "Escolha para ganhar ou perder Custo.",
+                    "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Perdeu. Vaza.\"\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\nNos fomos jogados para fora da câmara, sem nada."
+                    ]
+                },
+                {
+                    "message": "Pare.",
+                    "messageDesc": "Escolha para ganhar Custo",
+                    "result": [
+                        "\"O sábio sabe quando é melhor parar.\"\n\"O sábio. Não. Aposta.\"\n\nEu não sinto mais, em meu olhar, a atração magnética da roleta que sentia anteriormente.\n\nNós saimos da sala com um saco de dinheiro nas mãos."
+                    ]
+                },
+                {
+                    "message": "Diga \"Eu quero a roleta.\"",
+                    "messageDesc": "Selecione para ganhar uma Bênção de E.G.O",
+                    "result": [
+                        "\"Não. Essas. Regras.\"\n\"Isso com certeza seria uma escolha bastante interessante.\"\n\nAs criaturas bizzaras vibraram suas peças por um momento, então desapareceram para dentro da roleta.\n\nNós pegamos a roleta e seguimos nosso caminho."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97108802,
+            "name": "Fé e Promesa Recorrentes 3",
+            "desc": "\"O que acha de um último jogo?\"\n\"Lembre-se. Sempre. Em moderação.\"",
+            "options": [
+                {
+                    "message": "Continue girando a roleta.",
+                    "messageDesc": "Escolha para ganhar ou perder Custo.",
+                    "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\"Suspeitava. Nunca. Mais. Volte.\"\n\nNos fomos jogados para fora da câmara, sem nada."
+                    ]
+                },
+                {
+                    "message": "Pare.",
+                    "messageDesc": "Escolha para ganhar Custo",
+                    "result": [
+                        "\"O sábio sabe quando é melhor parar.\"\n\"O sábio. Não. Aposta.\"\n\nEu não sinto mais, em meu olhar, a atração magnética da roleta que sentia anteriormente.\n\nNós saimos da sala com um saco de dinheiro nas mãos."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971089,
+            "name": "Poultry Memory",
+            "desc": "'Bar & Fritadeira do Eunbong!' || 'Disque 555-0102-0386-2664! Isso é 555-0102-Zero-EUN-BONG!' ||  || Seguimos o estranho e chiclete jingle e nos encontramos diante de uma máquina estranhamente familiar. ||  || \"Ei, é uma máquina de garra. Tem... Huh, esses são...\" || <... Por que tem pelúcias do Bongy aqui?> || \"Aquele cara não disse algo sobre como aquele que ele nos deu era um tesouro inestimável e único? Que não havia nada igual?\" || \"... Tal promessa carrega pouco peso na Masmorra Espelho.\" || \"Mm. Pode ser uma idiossincrasia da experiência que ainda não foi identificada.\" || \"Pessoal, segurem. Olhem aquela pelúcia ali—acabei de ver um brilho dourado pelas suas costuras! Tem que ter dinheiro nessas coisas!\" ||  || Há pelúcias do Bongy de vários designs dentro da máquina de garra. || Qual devemos pegar?",
+            "options": [
+                {
+                    "message": "Get the small Bongy plushie.",
+                    "messageDesc": "Choose to gain Cost",
+                    "result": [
+                        "Uma pelúcia pequena do Bongy deve ser uma vitória fácil para nós. ||  || Cuidadosamente manobro a garra sobre as pelúcias e agarro a pequena pelúcia com extrema cautela... e de alguma forma, conseguiu viajar até a calha sem cair no meio do caminho. Um <i>clunk</i> pesado e metálico ecoa do bocal. ||  || \"Soa pesado. Será que tem algo caro aí?\" || \"Duh! Não viu aquele brilho dourado antes? Me dá isso, Dante!\" || \"Que diabos você—\" || \"Vou cortar a barriga dele bem aberta!\" || \"Pequeno Sir Bongy!!!!!!\" ||  || Um dos Pecadores corta a barriga da pelúcia do Bongy aberta, e moedas começam a derramar dele. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
+                    ]
+                },
+                {
+                    "message": "Get the medium-sized Bongy plushie.",
+                    "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+                    "result": [
+                        "Identificamos a Pelúcia média do Bongy em um lugar decente para ser apanhada, e decidimos tentar a sorte. ||  || Cuidadosamente manobro a garra sobre as pelúcias e agarro a pelúcia média com extrema cautela... e de alguma forma, conseguiu viajar até a calha sem cair no meio do caminho. Um <i>clunk</i> pesado e metálico ecoa do bocal. <i>Duas vezes.</i> ||  || \"Ooh... Junto do Bongy selecionado há um Bongy de dimensões menores; de fato, o ditado 'dois pássaros com uma pedrada' seria mais apto aqui. Não apenas as duas aves nos concederam sustento, também nos deram riquezas.\" || <Bem, ouço algo tilintando aí dentro. Moedas, talvez?> || \"Você acha? Me dá isso, Dante!\" || \"Que diabos você—\" || \"Vou cortar as barrigas deles bem abertas!\" || \"Pequeno Sir Bongy! E Pequeníssimo Sir Bongy!!!!!\" ||  || Um dos Pecadores corta as barrigas de ambas as pelúcias do Bongy abertas, e moedas começam a derramar delas. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra.",
+                        "Cuidadosamente manobro a garra sobre as pelúcias e agarro a pelúcia média com extrema cautela... mas ela de alguma forma ficou presa na calha. || Felizmente, uma pelúcia pequena bem ao lado dela caiu da calha com um baque. ||  || \"Está rasgada... Deve ter ficado presa antes de sair da calha.\" || \"Hmm? Ei, me dá isso, Dante!\" || \"Que diabos você—\" || \"A pelúcia está recheada de moedas. Sorte!\" ||  || Um dos Pecadores corta a barriga da pelúcia do Bongy aberta, e moedas começam a derramar dele. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
+                    ]
+                },
+                {
+                    "message": "Get the huge Bongy plushie.",
+                    "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+                    "result": [
+                        "Aquelas pinças frágeis podiam mesmo levantar aquela pelúcia massiva do Bongy? ||  || Eu não tinha muita certeza, mas cuidadosamente manobrei a garra e fui para o agarro de qualquer forma. ||  || Um baque metálico pesado ressoou da calha de prêmios quando o boneco caiu. ||  || \"F-fie! As costuras do Pequeno Sir Bongy se romperam completamente!\" || \"Não pôde aguentar o impacto da queda.\" || \"Espera, olha aquilo! Algo derramando das costuras~ Ei, é dinheiro!\" ||  || Recolhemos as moedas recheadas dentro do boneco. || Enquanto estávamos ocupados com as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra.",
+                        "Aquelas pinças frágeis podiam mesmo levantar aquela pelúcia massiva do Bongy? ||  || Eu não tinha muita certeza, mas cuidadosamente manobrei a garra e fui para o agarro de qualquer forma. ||  || Pudemos ouvir um chocalhar da calha de prêmios quando o boneco caiu. ||  || \"Não vai descer... Acho que está preso.\" || \"As costuras devem ter se soltado—tem moedas caindo.\" || <Vamos ao menos pegá-las.> ||  || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
+                    ]
+                }
+            ]
+        }
+    ]
+}

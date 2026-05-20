@@ -1,0 +1,399 @@
+﻿{
+    "dataList": [
+        {
+            "id": "MD6LimitBaseN",
+            "name": "Adversidades Cumulativas",
+            "desc": "",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MD6101",
+            "name": "Perspicaz XII",
+            "desc": "Poder de Confronto +1, Nível Ofensivo +8, Nível Defensivo +3, PV Máx. +40%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6102",
+            "name": "Resiliente XII",
+            "desc": "Poder de Confronto +1, Nível Ofensivo +4, Nível Defensivo +11, PV Máx. 40%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6103",
+            "name": "Corpo Melhorado XII",
+            "desc": "Poder de Confronto +1, Nível Ofensivo +6, Nível Defensivo +7, PV Máx. +35%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6104",
+            "name": "Crescimento XII",
+            "desc": "Poder de Confronto +1, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +72.5%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6105",
+            "name": "Poder de Confronto Aumentado VII",
+            "desc": "Poder de Confronto +3, Nível Ofensivo +2, Nível Defensivo +2, PV Máx. +42.5%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6106",
+            "name": "Poder Final Aumentado VII",
+            "desc": "Poder de Confronto +1, Poder Final +2, Nível Ofensivo +2, Nível Defensivo +2, PV Máx. +37.5%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6107",
+            "name": "Poder Base Aumentado VII",
+            "desc": "Poder de Confronto +1, Poder Base +2, Nível Ofensivo +2, Nível Defensivo +2, PV Máx. +32.5%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6111",
+            "name": "Perspicaz XIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Nível Ofensivo +8, Nível Defensivo +5, PV Máx. +40%, Dano Causado +12.5%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6112",
+            "name": "Resiliente XIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Nível Ofensivo +5, Nível Defensivo +12, PV Máx. +42.5%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6113",
+            "name": "Corpo Melhorado XIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Nível Ofensivo +7, Nível Defensivo +7, PV Máx. +40%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6114",
+            "name": "Crescimento XIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +80%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6115",
+            "name": "Poder de Confronto Aumentado VIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Poder de Confronto +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +45%, Dano Causado +12.5%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6116",
+            "name": "Poder Final Aumentado VIII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Poder Final +2, Nível Ofensivo +2, Nível Defensivo +2, PV Máx. +40%, Dano Causado +12.5%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6117",
+            "name": "Poder Base Aumentado VII",
+            "desc": "Poder de Moeda Positiva +1, Poder de Moeda Negativa -1, Poder Base +2, Nível Ofensivo +2, Nível Defensivo +2, PV Máx. +35%, Dano Causado +12.5%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6121",
+            "name": "Perspicaz XIV",
+            "desc": "Nível Ofensivo +10, Nível Defensivo +5, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6122",
+            "name": "Resiliente XIV",
+            "desc": "Nível Ofensivo +5, Nível Defensivo +15, PV Máx. +45%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6123",
+            "name": "Corpo Melhorado XIV",
+            "desc": "Nível Ofensívo +8, Nível Defensivo +8, PV Máx. +45%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6124",
+            "name": "Crescimento XIV",
+            "desc": "Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +90%, Dano Causado +10%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6125",
+            "name": "Poder de Confronto Aumentado IX",
+            "desc": "Poder de Confronto +2, Nível Ofensivo +4, Nível Defensivo +4, PV Máx. +45%, Dano Causado +15%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6126",
+            "name": "Poder Final Aumentado IX",
+            "desc": "Poder Final +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6127",
+            "name": "Poder Base Aumentado IX",
+            "desc": "Poder Base +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +35%, Dano Causado +15%, PV Máx. de Chefe +30%"
+        },
+        {
+            "id": "MD6131",
+            "name": "Perspicaz XV",
+            "desc": "Nível Ofensivo +10, Nível Defensivo +5, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6132",
+            "name": "Resiliente XV",
+            "desc": "Nível Ofensivo +5, Nível Defensivo +15, PV Máx. +45%, Dano Causado +10%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6133",
+            "name": "Corpo Melhorado XV",
+            "desc": "Nível Ofensivo +8, Nível Defensivo +8, PV Máx. +45%, Dano Causado +10%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6134",
+            "name": "Crescimento XV",
+            "desc": "Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +90%, Dano Causado +10%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6135",
+            "name": "Poder de Confronto Aumentado X",
+            "desc": "Poder de Confronto +2, Nível Ofensivo +4, Nível Defensivo +4, PV Máx. +45%, Dano Causado +15%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6136",
+            "name": "Poder Final Aumentado X",
+            "desc": "Poder Final +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6137",
+            "name": "Poder Base Aumentado X",
+            "desc": "Poder Base +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +35%, Dano Causado +15%, PV Máx. de Chefe +40%"
+        },
+        {
+            "id": "MD6141",
+            "name": "Perspicaz XVI",
+            "desc": "Nível Ofensivo +10, Nível Defensivo +5, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6142",
+            "name": "Resiliente XVI",
+            "desc": "Nível Ofensivo +5, Nível Defensivo +15, PV Máx. +45%. Dano Causado +10%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6143",
+            "name": "Corpo Melhorado XVI",
+            "desc": "Nível Ofensivo +8, Nível Defensivo +8, PV Máx. +45%, Dano Causado +10%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6144",
+            "name": "Crescimento XVI",
+            "desc": "Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +90%, Dano Causado +10%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6145",
+            "name": "Poder de Confronto Aumentado XI",
+            "desc": "Poder de Confronto +2, Nível Ofensivo +4, Nível Defensivo +4, PV Máx. +45%, Dano Causado +15%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6146",
+            "name": "Poder Final Aumentado XI",
+            "desc": "Poder Final +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +40%, Dano Causado +15%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6147",
+            "name": "Poder Base Aumentado XI",
+            "desc": "Poder Base +2, Nível Ofensivo +3, Nível Defensivo +3, PV Máx. +35%, Dano Causado +15%, PV Máx. de Chefe +50%"
+        },
+        {
+            "id": "MD6Limit101",
+            "name": "Melhoria de Nível",
+            "desc": "Nível de Todos os Inimigos +3"
+        },
+        {
+            "id": "MD6Limit102",
+            "name": "Fraqueza",
+            "desc": "-10% PV Máx. para todos os aliados"
+        },
+        {
+            "id": "MD6Limit103",
+            "name": "Marca do Fogo I",
+            "desc": "Fim de Turno: aliados sofrem 5 de dano de PV fixo. Dano fixo aumenta em 3 todos os turnos. (máx. 20)"
+        },
+        {
+            "id": "MD6Limit104",
+            "name": "Inflação I",
+            "desc": "Duplica o custo de toda função da Loja, exceto vender Bênçãos de E.G.O"
+        },
+        {
+            "id": "MD6Limit105",
+            "name": "Interferência de Ego I",
+            "desc": "Duplica o valor de Recursos E.G.O consumidos ao usar Habilidades E.G.O"
+        },
+        {
+            "id": "MD6Limit111",
+            "name": "Melhoria de Nível",
+            "desc": "Nível de Todos os Inimigos +3"
+        },
+        {
+            "id": "MD6Limit112",
+            "name": "Fraqueza",
+            "desc": "-10% PV Máx. para todos os aliados"
+        },
+        {
+            "id": "MD6Limit113",
+            "name": "Psicose Mental I",
+            "desc": "Fim de Turno: todos os aliados perdem 3 PS"
+        },
+        {
+            "id": "MD6Limit114",
+            "name": "Aceleração dos Nervos I",
+            "desc": "Aumenta o valor Máx. & Mín. de Velocidade de todos os inimigos por 1"
+        },
+        {
+            "id": "MD6Limit115",
+            "name": "Fadiga de PS I",
+            "desc": "Em batalha, aliados não podem recuperar mais que 35 PS"
+        },
+        {
+            "id": "MD6Limit121",
+            "name": "Melhoria de Nível",
+            "desc": "Nível de Todos os Inimigos +3"
+        },
+        {
+            "id": "MD6Limit122",
+            "name": "Fraqueza",
+            "desc": "-10% PV Máx. para todos os aliados"
+        },
+        {
+            "id": "MD6Limit123",
+            "name": "Barreira de Tremor",
+            "desc": "Remove o primeiro Limiar de Atordoamento de todos os inimigos"
+        },
+        {
+            "id": "MD6Limit124",
+            "name": "Inflação II",
+            "desc": "Triplica o custo de toda função da Loja, exceto vender Bênçãos de E.G.O"
+        },
+        {
+            "id": "MD6Limit125",
+            "name": "Interferência de Ego II",
+            "desc": "Triplica a quantia de Recursos E.G.O consumidos ao usar Habilidades E.G.O"
+        },
+        {
+            "id": "MD6Limit131",
+            "name": "Melhoria de Nível",
+            "desc": "Nível de Todos os Inimigos +3"
+        },
+        {
+            "id": "MD6Limit132",
+            "name": "Fraqueza",
+            "desc": "-10% PV Máx. para todos os aliados"
+        },
+        {
+            "id": "MD6Limit133",
+            "name": "Melhoria de Vitalidade",
+            "desc": "+30% PV Máx. para todos os inimigos"
+        },
+        {
+            "id": "MD6Limit134",
+            "name": "Brutalidade",
+            "desc": "Poder de Moeda Positiva +2, Poder de Moeda Negativa -2 para todos os inimigos"
+        },
+        {
+            "id": "MD6Limit135",
+            "name": "Marca do Fogo II",
+            "desc": "Fim de Turno: todos os aliados recebem 10 de dano de PV fixo. O dano fixo aumenta em 5 todos os turnos. (máx. 30)"
+        },
+        {
+            "id": "MD6Limit141",
+            "name": "Melhoria de Nível",
+            "desc": "Nível de Todos os Inimigos +3"
+        },
+        {
+            "id": "MD6Limit142",
+            "name": "Fraqueza",
+            "desc": "-10% PV Máx. para todos os aliados"
+        },
+        {
+            "id": "MD6Limit143",
+            "name": "Psicose Mental II",
+            "desc": "Fim de Turno: todos os aliados perdem 5 PS"
+        },
+        {
+            "id": "MD6Limit144",
+            "name": "Aceleração dos Nervos II",
+            "desc": "Aumenta o valor Máx. & Mín. de Velocidade de todos os inimigos por 2"
+        },
+        {
+            "id": "MD6Limit145",
+            "name": "Fadiga de PS II",
+            "desc": "Em batalha, aliados não podem recuperar mais que 30 PS"
+        },
+        {
+            "id": "DerivativeHugeIrritation",
+            "name": "Shin (心) - Estrela Tiantui [天退星]",
+            "desc": "- Início do Turno: ganha 1 Dano Up e 1 Power Up para cada 15% de HP faltante em si (máx. 5 cada) || - Aplica +3 a mais de Potência de Tremor e +1 a mais de Contagem de Tremor com as Habilidades desta unidade || - Se a Velocidade desta unidade é maior que a do alvo em 3 ou mais, causa +(diferença de Velocidade x 5)% de dano (máx. 40%) || - Converte as Moedas finais de 'Talho Duplo - Explosão' e 'Talho Triplo - Burst' em Moedas Inquebráveis",
+            "summary": ""
+        },
+        {
+            "id": "GiveMeCandy",
+            "iconId": "CandyForCharon",
+            "name": "Candy",
+            "desc": "Max Stack: 99\n- Are you hoarding candy all for yourself?",
+            "summary": ""
+        },
+        {
+            "id": "HungryCharon",
+            "name": "Hunger-Rage",
+            "desc": "Max Stack: 3\nI'm starving. I want candy now",
+            "summary": ""
+        },
+        {
+            "id": "FullCharon",
+            "name": "Indulged",
+            "desc": "Turn Start: for every 2 Stack, gain 1 Clash Power Down (max 5)",
+            "summary": ""
+        },
+        {
+            "id": "GiveMeCandy_LowMorale",
+            "name": "Candy",
+            "desc": "- Moral Baixa || - Ao Embater contra Identidades com Doce, Poder de Embate +3; ao embater contra outras Identidades, Poder de Embate -1",
+            "summary": "Conditional Clash Power fluctuation",
+            "undefined": "-"
+        },
+        {
+            "id": "GiveMeCandy_Panic",
+            "name": "Candy",
+            "desc": "- Pânico || - Ao Embater contra Identidades com Doce, Poder de Embate +5; ao embater contra outras Identidades, Poder de Embate -2",
+            "summary": "Conditional Clash Power fluctuation",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDreamMirror",
+            "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
+            "desc": "- A cada Fim do Turno: ganha 1 Pressa e 3 Nível de Ataque Up no próximo turno || - Ganha 2 Nível de Ataque Up adicional após cada 3 turnos cumulativos (máx. 6) || - Ao Ganhar Embate, cura 3 SP || - Em Morte, ganha 1 Reforço de Poder de Embate no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDreamSanchoMirror",
+            "name": "In which is recounted the thralldom to blood thicker than water.",
+            "desc": "- Ganha 2 Hardblood adicional toda vez que esta unidade ganha Hardblood. (5 vezes por turno) || - A cada Fim do Turno: ganha 2 Pressa e 3 Nível de Ataque Up no próximo turno || - Ganha 2 Nível de Ataque Up adicional após cada 3 turnos cumulativos (máx. 6) || - Ao Ganhar Embate, cura 3 SP || - Em Morte, ganha 1 Reforço de Poder de Embate no próximo turno (uma vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeFamilyMirror",
+            "name": "O compatriots of my dear child",
+            "desc": "Clash Power +1 per Stack (max 4)\nDeal +5% damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeTwoFamilyMirror",
+            "name": "Dream her dream together in my stead",
+            "desc": "Clash Power +2 for every value (max 8)\n- Apply Shield to self and all allies at Combat Start\n- On Hit, deal 1 fixed damage",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VerEmergencyCandy",
+            "name": "Backup Candy",
+            "desc": "Turn End: at less than 60% HP...\nHeal 30% HP, heal 15 SP, lose 1 Backup Candy, and 1 Hunger\nAt 0 Stack, apply 1 Incandescent Indulgence, then expires",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VerHunger",
+            "name": "Hunger",
+            "desc": "Max Stack: 3\nTurn End: gain 2 Offense Level Up and 1 Damage Up next turn for every Stack\nAt max Stack(3), lose 5% HP at Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "VerShiningFullness",
+            "name": "Incandescent Indulgence",
+            "desc": "Gain 30% base HP for this Encounter\nTurn Start: fully heal HP and SP (once per Encounter)",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

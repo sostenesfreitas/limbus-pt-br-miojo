@@ -1,0 +1,56 @@
+﻿{
+    "dataList": [
+        {
+            "id": 97104301,
+            "title": "Nós somos os \"espécimes\".",
+            "eventDesc": "",
+            "prevDesc": "",
+            "behaveDesc": "Quem dará um passo à frente?",
+            "successDesc": [
+                "\"Ora, mas que reação interessante. Uma taxa de sincronização decente também.\"\n\nTalvez o pesquisador gostou do que viu?\n\nDepois de anotar suas observações em inúmeros documentos, o pesquisador permitiu que {0} parasse.\n\n{0} tirou o equipamento e mostrou ao pesquisador com intenção de devolver, mas a única resposta foi um simples balançar de sua cabeça.\n\n\"Esse equipamento parece lhe caber como uma luva. Leve-o com você.\""
+            ],
+            "failureDesc": [
+                "\"Hm, muito estresse para o seu corpo, não? Talvez não te sirva muito bem.\"\n\nO pesquisador franze as sobrancelhas, claramente descontente com os resultados.\n\n{0} também franze, mas por conta da dor.\n\n\"Bom, talvez leve algum tempo para que você se familiarize com ele. Leve-o com você e tente se acostumar com o equipamento.\"\n\n\"Experimente algumas vezes e traga-o de volta caso o avalie como insuportável.\""
+            ]
+        },
+        {
+            "id": 97104401,
+            "title": "Coma-o.",
+            "eventDesc": "",
+            "prevDesc": "",
+            "behaveDesc": "Quem dará um passo à frente?",
+            "successDesc": [
+                "A feição de {0} expressa plena surpresa assim que tomam um gole da poção do pesquisador.\n\nA poção parece ter aliviado uma grande porção do estresse de {0}, seus olhos pareciam até brilhar.\n\n\"A pesquisa clínica foi um grande sucesso. Obrigado por se voluntariar.\"\n\n\"Por favor, fique com isto. É uma das nossas mais novas linhas de medicamentos.\""
+            ],
+            "failureDesc": [
+                "O rosto de {0} se enruga de desgosto assim que tomam um gole da poção do pesquisador. ||  || Não parece que {0} está nada bem—pior ainda, parece que não conseguem parar de vomitar com o sabor. ||  || \"Esse teste clínico foi um fracasso, eu acho... Desculpe por isso.\" ||  || \"Pelo menos leve isto consigo. É uma das nossas linhas mais novas de medicamentos.\""
+            ]
+        },
+        {
+            "id": 97104701,
+            "title": "Aceite e investigue.",
+            "eventDesc": "",
+            "prevDesc": "",
+            "behaveDesc": "Quem vai aceitar?",
+            "successDesc": [
+                "\"Adoro ver um entusiasmo apropriado. Sim... gosto da sua atitude. Leve isto consigo.\" ||  || \"Vai ajudar em suas investigações.\" ||  || Após nos entregar o equipamento, os pesquisadores se aproximaram dos Pecadores e começaram a examiná-los. ||  || Uma vez terminados, os Pecadores estavam todos em forma novamente."
+            ],
+            "failureDesc": [
+                "\"Ao menos tente fingir algum entusiasmo, vai?\" ||  || \"Bem, ao menos vamos garantir que você esteja totalmente recuperado. Não fique tão emburrado com isso.\" ||  || Os pesquisadores se aproximaram dos Pecadores e começaram a examiná-los. ||  || Uma vez terminados, os Pecadores estavam todos em forma novamente."
+            ]
+        },
+        {
+            "id": 97104801,
+            "title": "Olhar ao redor cuidadosamente.",
+            "eventDesc": "",
+            "prevDesc": "",
+            "behaveDesc": "Quem vai procurar?",
+            "successDesc": [
+                "Notando algo, {0} aponta para uma área na parede. ||  || Há uma pequena rachadura entre os inúmeros rabiscos de letras. Cuidadosamente estendo minha mão na abertura, e— ||  || Aha, posso sentir a ponta dos meus dedos roçando contra um cartão. Alguém deve tê-lo escondido ali. ||  || Isso pode ser útil mais tarde."
+            ],
+            "failureDesc": [
+                "Notando algo, {0} aponta para uma área na parede. ||  || Há uma pequena rachadura entre os inúmeros rabiscos de letras. Cuidadosamente estendo minha mão na abertura, e— ||  || Sinto a ponta dos meus dedos roçando contra uma ampola de cura, sua superfície pegajosa de sangue. ||  || Talvez tenha havido uma briga por essa ampola. ||  || Há sinais de desespero persistente e morte por todo este lugar. ||  || Usamos a ampola e seguimos em frente, mas um olhar sombrio está estampado no rosto de todos."
+            ]
+        }
+    ]
+}

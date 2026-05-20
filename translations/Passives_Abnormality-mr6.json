@@ -1,0 +1,84 @@
+﻿{
+    "dataList": [
+        {
+            "id": 814201,
+            "name": "Duelo",
+            "desc": "Quando o PV cai abaixo de 50%, usa uma habilidade especial para atingir 1 unidade e, então, fica imune a Atordoamento e Pânico pelos próximos 2 turnos.\nSe Yi Sang tiver \"Duelo\", Dongbaek recebe 1 de Poder de Ataque Aumentado.\nSe Yi Sang vencer o duelo, todos os aliados recebem 3 Dano Aumentado.\nSe Dongbaek vencer o duelo, Dongbaek cura totalmente o PS."
+        },
+        {
+            "id": 118301,
+            "name": "Ainda não ouvi sua resposta.",
+            "desc": "Início de cada Turno: Núcleo e Parte Recebem 900 de Escudo.\n- Quando a unidade com a ordem de Envio mais antiga tiver [Teaching], perca 300 de Escudo por Acúmulo em Hong Lu.\n- Quando a unidade com a ordem de Envio mais antiga tiver 3 ou mais [Teaching], esta unidade não Recebe Escudo pelo restante do Encontro."
+        },
+        {
+            "id": 118701,
+            "name": "Olhe esta garotinha...!",
+            "desc": "Se houver unidades que essa unidade invocou no Início de Turno, cure 10 PS"
+        },
+        {
+            "id": 124105,
+            "name": "Tigermark Round Reload",
+            "desc": "Fim do Turno: em 90% ou menos de HP, ou no fim do 2º turno, recarrega [BulletPropellant] e ganha um novo padrão no próximo turno || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 124106,
+            "name": "Lei Heng [雷橫]",
+            "desc": "Fim do Turno: em 80% ou menos de HP, ou no fim do 4º turno, ganha um novo padrão no próximo turno || - Usa um ataque poderoso ('Cortador de Emaranhados'), repete a cada 3º turno. +10 à Velocidade Mín. e Máx. para turnos em que esta unidade usa esta Habilidade || - No início daquele turno, ganha 25 [BattleSense] || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 124107,
+            "name": "Tiantui Star [天退星]",
+            "desc": "Se o HP desta unidade caiu a 60% ou abaixo no Fim do Turno, ou se esta unidade está marcada para usar um ataque poderoso ('Cortador de Emaranhados') no próximo turno pela segunda vez neste Encontro, ganha um novo padrão no próximo turno || - Quando aquele turno começar, ganha 1 [Irritation] || - Quando aquele turno começar, ganha 18 [BulletPropellantSpecial] e recarrega imediatamente || · Se esta unidade gasta todo [BulletPropellantSpecial], converte o efeito em [BulletPropellant] e convoca 2 unidades de \"Soldato Severo do Polegar\" no próximo turno e faz com que abasteçam esta unidade com [BulletPropellantSpecial] || - Quando Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 124108,
+            "name": "Lei Heng, The Pinky's Tiantui Star",
+            "desc": "Fim do Turno: em 40% ou menos de HP, ou se esta unidade está marcada para usar um ataque poderoso ('Cortador de Emaranhados') no próximo turno pela terceira vez neste Encontro, ganha um novo padrão no próximo turno || - Substitui o ataque poderoso 'Cortador de Emaranhados' por 'Rajada de Lâminas Aperfeiçoada do Caçador Selvagem de Tigres'. +15 à Velocidade Mín. e Máx. para turnos em que esta unidade usa esta Habilidade || - Converte [BattleSense] em [RestoredBattleSense] || - Converte [Irritation] em [DerivativeHugeIrritation] || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 124112,
+            "name": "Tiantui Star's Blade - Overheat",
+            "desc": "Se esta unidade usou um ataque poderoso ('Cortador de Emaranhados' ou 'Rajada de Lâminas Aperfeiçoada do Caçador Selvagem de Tigres'), ganha [Complacency] no próximo turno igual ao número de vezes que essas habilidades foram usadas (máx. 5)"
+        },
+        {
+            "id": 124301,
+            "name": "I'm Stuffed",
+            "desc": "At 10+ [FullCharon]...\n- Turn Start: enter a forced Stagger State (for a turn)\n- Turn End: remove [HungryCharon] and [FullCharon] completely"
+        },
+        {
+            "id": 124302,
+            "name": "Vroom-vroom. Angry now",
+            "desc": "Combat Start: Vergilius gains 1 [HungryCharon]\nAt 3 [HungryCharon], uses a devastating attack (\"Vroom-Vroom\")\n※ Does not activate at \"Combat Start\" if this unit is Staggered due to [FullCharon]"
+        },
+        {
+            "id": 124303,
+            "name": "Got Candy?",
+            "desc": "Turn Start: in Deployment Order, inflict 1 [GiveMeCandy] against 1 enemy without [GiveMeCandy]"
+        },
+        {
+            "id": 124304,
+            "name": "Kkomi's not a Piñata",
+            "desc": "Inflict 1 [GiveMeCandy] to the target who attacked Kkomi"
+        },
+        {
+            "id": 124001,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Quando esta unidade é morta devido a ataque inimigo ou dano de efeito de Status, aumenta [BloodDinner] em 30. Não ativa se esta unidade se matou."
+        },
+        {
+            "id": 124002,
+            "name": "Memories of the Journeys Past",
+            "desc": "Apply special effect to all allies"
+        },
+        {
+            "id": 124003,
+            "name": "Memories of the Journeys Past",
+            "desc": "Início de Turno: Inflige 3 de [Laceration] e +1 Contagem de [Laceration] contra todos os inimigos"
+        },
+        {
+            "id": 124004,
+            "name": "Memories of the Journeys Past",
+            "desc": "Turn End: Apply 1 [RegainedStrength] on Don Quixote"
+        }
+    ]
+}
