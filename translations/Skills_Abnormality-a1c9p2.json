@@ -1,0 +1,1110 @@
+﻿{
+    "dataList": [
+        {
+            "id": 132001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flame Strike",
+                    "desc": "[WhenUse] Recebe 1 de [MRcAiBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] e +3 Contagem de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Pinions",
+                    "desc": "[WhenUse] Recebe 2 de [MRcAiBa]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [CrimsonResistDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spark",
+                    "desc": "[WhenUse] Inflige +2 Contagem de [Combustion]\n[WinDuel] Inflige [Combustion] igual a [Combustion] no alvo\n[DefeatDuel] Recebe os seguintes efeitos:\n- Dano causado por essa Habilidade não pode Atordoar o alvo\n- Se esta for uma Habilidade de Ira, remove [Combustion] no alvo\n- Essa Habilidade inflige apenas metade de [Combustion] e Contagem de [Combustion]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Se o alvo tiver 3+ de [MRcAiBb]\n- Inflige 10 de [Combustion]\n- Inflige +2 Contagem de [Combustion]\n- Inflige 2 de [MRcAiBc]\n- [MRcAiBc] expira completamente"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Combustion] e +4 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [CrimsonResistDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dust Explosion",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Combustion], essa Habilidade recebe Poder de Confronto +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Contra o inimigo com a menor Velocidade, aplica Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Contra o inimigo com a menor Velocidade, aplica [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Star",
+                    "desc": "Ganha Poder de Embate igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) || [WhenUse] Aplica (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) [Combustion] em todos os inimigos || [DefeatDuel] Ganha os seguintes efeitos: || - Esta Habilidade de Ataque causa 0 de dano || - Remove [Combustion] de todos os alvos || - Divide ao meio a quantidade de [Combustion] e Contagem de [Combustion] que esta Habilidade aplica",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt"
+                                },
+                                {
+                                    "desc": "- Aplica 10 [Combustion] contra alvos que foram Atordoados por esta"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[WhenUse] Poder Base +1 para cada 4 de [Combustion] no alvo (máx. 3)\n[WhenUse] Inflige 4 de [Combustion]\n[OnSucceedEvade] Recebe 1 de [MRcAiBa] no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stoke the Flames",
+                    "desc": "[CantDuel] [CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [MRcAiBb] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bite",
+                    "desc": "[StartBattle] Recebe 2 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder Base +2\n[DefeatDuel] Perde 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tail Poke",
+                    "desc": "[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\n[DefeatDuel] Lose 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wrapping Coil",
+                    "desc": "[StartBattle] Gain 3 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Load",
+                    "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 2 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Release",
+                    "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 3 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Electric Discharge",
+                    "desc": "[StartBattle] Gain 1 [SelfCharge]\nIf target has [Paralysis], deal +30% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "High-voltage Electric Discharge",
+                    "desc": "Em mais de 7 [SelfCharge], causa +10% de dano para cada [SelfCharge] excedente além de 7 (máx. 120%) || [WhenUse] Perde todo [SelfCharge] em si; se esta unidade perdeu 10+ [SelfCharge], ganha Poder de Embate +5 || [DefeatDuel] Esta Habilidade de Ataque causa 0 de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Vulnerable] on the main target"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ElectricStorage]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis] on the main target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] If target has [ElectricStorage], deal 40% of final damage dealt as fixed damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coil Up",
+                    "desc": "[StartBattle] A Parte da Cabeça ganha Escudo igual ao seu HP atual || [EndBattle] Se a Parte da Cabeça tem Escudo, ganha 10 [SelfCharge] no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132109,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggling Head",
+                    "desc": "Prioriza alvos com o menor HP || Se o alvo tem [Paralysis], causa +50% de dano || <color=#ff6000><mark color=#ff000040><b><u>Se o alvo usou uma Habilidade de Defesa, causa -100% de dano</color></mark></b></u> || Poder Base +1 para cada [SelfCharge] || [WhenUse] Perde 1 [SelfCharge] || [EndSkill] Se foi um Ataque Sem Oposição, perde 1 [SelfCharge] || - Se o alvo atacado por esta Habilidade usou uma Habilidade de Defesa, perde mais 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132110,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggling Tail",
+                    "desc": "Prioriza alvos com o menor HP || Se o alvo tem [Paralysis], causa +50% de dano || <color=#ff6000><mark color=#ff000040><b><u>Se o alvo usou uma Habilidade de Defesa, causa -100% de dano</color></mark></b></u> || Poder Base +1 para cada [SelfCharge] || [WhenUse] Perde 1 [SelfCharge] || [EndSkill] Se foi um Ataque Sem Oposição, perde 1 [SelfCharge] || - Se o alvo atacado por esta Habilidade usou uma Habilidade de Defesa, perde mais 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corte Duplo [二連]",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corte Triplo [三連]",
+                    "desc": "[WhenUse] Recebe +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desvio Veloz [快閃]",
+                    "desc": "[OnDirectAttack] Recebe 5 de [Breath]\n[DefeatDuel] -2 Peso de Atq",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "+30% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corte Informe [無形斬]",
+                    "desc": "[WideAreaRampage] || Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada até esta Habilidade terminar || [DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Reuse this Coin (4 times max)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Romper Espaço [空間斬]",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada até esta Habilidade terminar || [DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Termina este turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "+100% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consome todo [PhantomIncision] no alvo</u></b></mark></color> e causa ([PhantomIncision] consumido)% de dano em HP contra cada alvo, respectivamente"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Passo Fantasma [殘像步]",
+                    "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Halve the [PhantomIncision] Stack on target</u></b></mark></color> (rounded down)\n[DefeatDuel] Lose 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cautela Silenciosa",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Target heals 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gume Mortal [絶命]",
+                    "desc": "Esta Habilidade não dispara a Habilidade de Defesa do alvo || Prioriza o alvo com a menor porcentagem de HP || - Prioriza alvos que não sejam Ryōshū",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision] para cada 1% de PV faltante no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132209,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Romper Espaço - Lótus [空間斬-緣]",
+                    "desc": "[WhenUse] Em 10+ SP, gera 1 Mang. Poder Final +5 || Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada até esta Habilidade terminar || [DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Se esta Habilidade gerou 1 Mang, perde 10 SP || [EndSkill] Termina este turno",
+                    "flavor": "Uma técnica que corta o próprio espaço. Cindir a trama do espaço há muito é a ambição daqueles que vivem pela espada — um feito árduo alcançado através de disciplinas divergentes.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "+100% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consome todo [PhantomIncision] no alvo</u></b></mark></color> e causa ([PhantomIncision] consumido)% de dano em HP contra cada alvo, respectivamente"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Recebe 1 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Esmagar Crânio",
+                    "desc": "Poder Final +1 para cada ([Breath] em si + [Sinking] no alvo) (máx. 2)\n[WhenUse] Recebe +2 Contagem de [Breath] ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ah, Por favor faça Silêncio",
+                    "desc": "Poder Final +1 para cada 6 ([Breath] em si + [Sinking] no alvo) (máx. 2) || [StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se esta unidade tem [PressureOfPrescript], ou se o alvo tem [IndexPrescriptTargetToPersonality]</u></b></mark></color>, converte a Moeda final em [SuperCoin] || [DefeatDuel] Causa -50% de dano; Ao Acertar, não Atordoa o alvo; Ao Acertar, não ativa [Sinking] no alvo || [WhenUse] Ganha 2 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Sinking] e +1 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "E-eu Tenho de Executar a Prescrição Agora...!",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>Em 2 [PressureOfPrescript], não pode trocar de alvo</u></b></mark></color> || <color=#ff6000><mark=#ff000040><b><u>Não dispara Habilidades de Defesa</u></b></mark></color> || Poder Final +1 para cada 6 ([Breath] em si + [Sinking] no alvo) (máx. 3) || [StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se esta unidade tem [PressureOfPrescript], ou se o alvo tem [IndexPrescriptTargetToPersonality]</u></b></mark></color>, converte todas as Moedas em [SuperCoin]s",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Deal +20% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Por favor, Apenas Fique Parado e Seja Esmagado até a Morte",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>Pode Embater com esta Habilidade independentemente da Velocidade</u></b></mark></color> || [DefeatDuel] Ganha 3 [ResultReduction] e 4 [Paralysis] || [DefeatDuel] Causa -90% de dano; Ao Acertar, não Atordoa o alvo; Ao Acertar, não ativa [Sinking] no alvo || [EndSkill] Consome todo [PressureOfPrescript]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 1 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Deixe Estas Mãos serem as Procuradoras...",
+                    "desc": "Poder Final +1 para cada ([Breath] em si + [Sinking] no alvo) (máx. 2)\n[WhenUse] Recebe +2 Contagem de [Breath]\n[EndSkill] Perde 3 de PS",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dilacerar e Dilacerar até chegar ao Fim",
+                    "desc": "Poder Final +1 para cada 6 ([Breath] em si + [Sinking] no alvo) (máx. 2) || [StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se esta unidade tem [PressureOfPrescript], ou se o alvo tem [IndexPrescriptTargetToPersonality]</u></b></mark></color>, converte a Moeda final em [SuperCoin] || [DefeatDuel] Causa -50% de dano; Ao Acertar, não Atordoa o alvo; Ao Acertar, não ativa [Sinking] no alvo || [WhenUse] Ganha 2 [Breath] || [EndSkill] Perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Procuração: Entalhar",
+                    "desc": "Poder de Moeda +1 para cada 6 ([Breath] em si + [Sinking] no alvo) (máx. 2) || [StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se esta unidade tem [PressureOfPrescript], ou se o alvo tem [IndexPrescriptTargetToPersonality]</u></b></mark></color>, converte todas as Moedas desta Habilidade em [SuperCoin]s || [WhenUse]<color=#ff6000><mark=#ff000040><b><u>Se o alvo tem [IndexPrescriptTargetToPersonality], causa +50% de dano</u></b></mark></color> || [WhenUse] Ganha 3 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132508,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Procuração: Aniquilar",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>Pode Embater com esta Habilidade independentemente da Velocidade</u></b></mark></color> || [WhenUse] <color=#ff6000><mark=#ff000040><b><u>Se o alvo tem [IndexPrescriptTargetToPersonality], causa +100% de dano</u></b></mark></color> || [DefeatDuel] Ganha 3 [ResultReduction] e 4 [Paralysis] || [DefeatDuel] Causa -90% de dano; Ao Acertar, não Atordoa o alvo; Ao Acertar, não ativa [Sinking] no alvo || [EndSkill] Perde 15 SP || [EndSkill] Consome todo [PressureOfPrescript]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 132509,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Procuração: Aniquilar - Mang do Desejo Iminente [本望]",
+                    "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Em 0+ SP, gera 1 Mang</u></b></mark></color> || - <color=#ff6000><mark=#ff000040><b><u>Causa +20% de dano, Poder Final +2, Poder de Moeda +2</u></b></mark></color> || [EndSkill] Perde 15 SP || [EndSkill] Se esta Habilidade gerou Mang, perde 20 SP || [EndSkill] Consome todo [PressureOfPrescript] e termina este turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 877311,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Envying Roots",
+                    "desc": "Esta Habilidade não causa dano || [WhenUse] Consome todo [HowDareYouApple] em si e Reusa suas Moedas pela Carga de [HowDareYouApple] consumida (máx. 4) || [DefeatDuel] Esta Habilidade não ativa [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 877205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ardor Blossom Star",
+                    "desc": "Ganha Poder de Embate igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) || [WhenUse] Aplica (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) [Combustion] em todos os inimigos || [DefeatDuel] Ganha os seguintes efeitos: || - Esta Habilidade de Ataque causa 0 de dano || - Remove [Combustion] de todos os alvos || - Divide ao meio a quantidade de [Combustion] e Contagem de [Combustion] que esta Habilidade aplica",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt"
+                                },
+                                {
+                                    "desc": "- Aplica 10 [Combustion] contra alvos que foram Atordoados por esta"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+﻿{
+    "dataList": [
+        {
+            "id": 130601,
+            "name": "Duello",
+            "desc": "Após o Embate, aplica 1 [DuelEdge] contra o alvo com quem esta unidade Embateu || Em um Embate contra alvos com [DuelEdge], restaura 3 SP para cada Carga de [DuelEdge] no alvo (máx. 15)"
+        },
+        {
+            "id": 130602,
+            "name": "Esgrima Palermitana",
+            "desc": "Ganha os seguintes efeitos com base na Carga de [DuelEdge] do alvo || - Para cada Carga, causa +5% de dano contra e recebe -5% de dano do alvo com [DuelEdge] || - Com 1+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder de Embate +1 || - Com 2+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder Base +1 || - Com 3+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder de Moeda +1 e aplica 3 [SeveredTendon] Ao Acertar || - Com 4+ Cargas, em um Embate contra alvos com [DuelEdge], ganha Poder Final +1"
+        },
+        {
+            "id": 130603,
+            "name": "Rapieira Palermitana / O Sabre Cortante",
+            "desc": "If this unit's Skill effects triggered [VibrationExplosion], gain 2 [AttackUp] next turn (3 times per turn)"
+        },
+        {
+            "id": 130604,
+            "name": "Marca do Caçador",
+            "desc": "A cada 3 turnos, seleciona um inimigo aleatório (exceto Ryōshū), reduz a Velocidade dele para 1, e mira-o com todas as Habilidades desta unidade || (Se este efeito não pôde ser ativado por causa de Atordoamento, ativa-o no próximo turno)"
+        },
+        {
+            "id": 130605,
+            "name": "Um Exemplar com apenas um Único Propósito",
+            "desc": "Início do Encontro: ganha [TeachersCommand] || Em um Embate contra Ryōshū, Poder de Embate -3 e converte as Moedas nas Habilidades de Ataque Base desta unidade em [SuperCoin]s. || Também, ao Perder Embate, causa -80% de dano e quaisquer efeitos \"Ao Acertar\" não ativam"
+        },
+        {
+            "id": 130701,
+            "name": "Searching Arm - Partial Deterrence Release",
+            "desc": "Se um Braço está com Parte Quebrada, converte as Moedas nas Habilidades do Braço restante em [SuperCoin]s, e elas ganham +1 Peso de Atq || - Ao usar uma Habilidade afetada por este efeito, ganha 1 [RapidGrowthApple]"
+        },
+        {
+            "id": 130702,
+            "name": "Ebony Queen - Partial Deterrence Release",
+            "desc": "Se esta unidade tem Raízes, ganha 1 [HowDareYouApple] após sua Parte de Fruta ser atingida || || Em 4 [HowDareYouApple], usa uma Habilidade poderosa que aplica efeitos negativos poderosos || || Se esta unidade não tem Raízes, não ganha nem perde [HowDareYouApple] || Quando a Parte de Fruta é quebrada, perde [HowDareYouApple]"
+        },
+        {
+            "id": 130703,
+            "name": "Entangling Roots",
+            "desc": "Turn Start: inflict 2 [Binding] on all enemies\nThis lasts until the Roots are broken"
+        },
+        {
+            "id": 130704,
+            "name": "One Sole Root",
+            "desc": "A Parte Raízes ganha 3 [Enhancement] para cada Parte de Braço não-quebrada || Não ganha este efeito se as Raízes estão quebradas"
+        },
+        {
+            "id": 131901,
+            "name": "Armadura de Proteção e Repressão",
+            "desc": "Início do Turno: se esta unidade não está Atordoada, ganha 2 [Protection], 10 [DefenseUp] e HP de Escudo igual a 10% do HP atual desta unidade || || Toda vez que esta unidade usa a Habilidade \"Carne Reprimida\" neste Encontro, ganha 1 [Protection] a menos, 5 [DefenseUp] a menos e reduz a porcentagem mencionada acima em 5%"
+        },
+        {
+            "id": 131902,
+            "name": "Dama de Ferro - Espinhos",
+            "desc": "Se esta unidade não está Atordoada, ao ser atingida pela última Moeda de um atacante, ativa o seguinte: || - Causa dano de Perfuração em 20% do dano da referida Moeda e aplica 2 [Laceration] (dano máx. por Habilidade: 100) || - O dano deste efeito não pode Atordoar o alvo"
+        },
+        {
+            "id": 131903,
+            "name": "Dama de Ferro - Desfibrilação",
+            "desc": "Ao entrar, restaura 30 SP || || Em 60% de HP, recupera-se do Atordoamento e termina o turno (1 vez por Encontro)"
+        },
+        {
+            "id": 131904,
+            "name": "Carne Usada como Material",
+            "desc": "Take -30% HP, SP damage from [Combustion], [Burst], [Sinking]; -30% to Stagger Threshold raised by [Vibration]\nTake -50% damage from [Laceration]"
+        },
+        {
+            "id": 131905,
+            "name": "Fascia, Minha Preciosa Obra de Arte",
+            "desc": "Fim do Turno: em 2 [HumanFleshTheRings], [HumanFleshTheRings] expira no próximo turno; em seguida, ganha [BoneBladeTheRings] || || Início do Turno: se esta unidade tem [BoneBladeTheRings], usa um ataque poderoso neste turno || || Se esta unidade é atingida por uma Habilidade de Ataque antes de usar o ataque poderoso, ganha 1 [UnsteadyTheRings]"
+        },
+        {
+            "id": 131801,
+            "name": "Treinando para Herdar o Título de uma Estrela",
+            "desc": "Fim da Habilidade de Ataque: Causa (# de Moedas de Talho que acertaram Criticamente x 10) de dano de Talho contra cada alvo (não pode ser Atordoada por este dano)"
+        },
+        {
+            "id": 131802,
+            "name": "Foco Único da Mente",
+            "desc": "This unit's [Breath] Potency is capped at 25\nAny excess [Breath] Potency gained past 25 will be converted to [DicipleLittleFinger]"
+        },
+        {
+            "id": 131803,
+            "name": "A Lâmina Ortodoxa [整劍]",
+            "desc": "Encounter Start: gain 50 [DicipleLittleFinger]"
+        },
+        {
+            "id": 131804,
+            "name": "Tranquilidade [靜念]",
+            "desc": "Se esta unidade tem [DicipleLittleFinger], ganha os seguintes efeitos: || - SP não cai abaixo de 0; se estava abaixo de 0, recupera para 0 || - Converte qualquer dano de SP recebido em dano de Tristeza (exceto mudanças de SP devido a \"fatores base que aumentam/diminuem Sanidade\")"
+        },
+        {
+            "id": 131805,
+            "name": "Graça",
+            "desc": "Em um Embate contra alvos que não sejam Ryōshū, Poder de Embate -2 || Recebe -20% de dano de alvos que não sejam Ryōshū"
+        },
+        {
+            "id": 130801,
+            "name": "Charmed",
+            "desc": "Início do Turno: com base no número de unidades no Encontro, aplica [FairyCharm] em Pecadores com a menor Velocidade || O número de unidades de [FairyCharm] aumenta toda vez que a Parte Fada é restaurada"
+        },
+        {
+            "id": 130802,
+            "name": "Uncovered Abyss",
+            "desc": "Revela o corpo quando a Parte Fada é quebrada || Todos os Buffs e Debuffs expiram quando o Corpo se esconde novamente"
+        },
+        {
+            "id": 130803,
+            "name": "Leading Lure",
+            "desc": "Cannot damage Core HP by damaging the Fairy\nA certain Skill gains Atk Weight based on the number of [FairyCharm] units"
+        },
+        {
+            "id": 130804,
+            "name": "Broken Stump",
+            "desc": "Quando o Corpo é quebrado: || - A Fada terá 60% do seu HP máx. ao ser restaurada || - O Núcleo restaura +20 HP a mais com efeitos de Habilidade"
+        },
+        {
+            "id": 130805,
+            "name": "Evolving Lure",
+            "desc": "Fairy gains 30% increased max HP with each restoration"
+        },
+        {
+            "id": 130806,
+            "name": "Fairy Dust",
+            "desc": "Quando a Fada é morta, todas as Identidades ganham 5 [Breath] e +2 Contagem de [Breath] no próximo turno"
+        },
+        {
+            "id": 130807,
+            "name": "Increased Aggression - Partial Deterrence Release",
+            "desc": "Usa Habilidades mais poderosas depois que a Fada é restaurada pela segunda vez"
+        },
+        {
+            "id": 130901,
+            "name": "Dimensional Escape",
+            "desc": "A partir do turno 2, esta unidade invoca 4 Dimensões aleatórias e se esconde || - Quando todas as Partes estão Atordoadas, este efeito ativa no próximo turno || - Não pode ser Atordoada enquanto escondida dentro de uma 'Fenda Dimensional'."
+        },
+        {
+            "id": 130902,
+            "name": "Trapped Dimensional Escape",
+            "desc": "Quando todas as 'Fendas Dimensionais' são quebradas, esta unidade voluntariamente emerge de uma 'Fenda Dimensional' no próximo turno || Em seguida, esta unidade perde 5 Contagem de [Charge] e todos os Limiares de Atordoamento de suas Partes são elevados em 30"
+        },
+        {
+            "id": 130903,
+            "name": "Regenerate Dimensional Refraction Blade",
+            "desc": "Quando a Parte Lâmina é quebrada, perde 5 Contagem de [Charge] || No próximo Fim do Turno, consome 2 Contagem de [Charge] para restaurar a Lâmina quebrada. || || Enquanto a Parte Lâmina está quebrada, ganha 2 [AttackDown] a cada Início do Turno."
+        },
+        {
+            "id": 130904,
+            "name": "Forced Dimensional Breach Attempt - Partial Deterrence Release",
+            "desc": "Em 60% ou menos de HP do Núcleo, termina o turno e ganha um novo padrão || - Desativa a Passiva \"Fuga Dimensional\" || - Desativa a Passiva \"Fuga Dimensional Aprisionada\" || - Se nenhum de seus Braços está quebrado, usa uma Habilidade poderosa a cada poucos turnos"
+        },
+        {
+            "id": 131001,
+            "name": "Hemorrhaging Dimension",
+            "desc": "Causa +10% de dano depois de atravessar a Dimensão Hemorrágica"
+        },
+        {
+            "id": 131101,
+            "name": "Poisonous Dimension",
+            "desc": "O Núcleo ganha +20% de HP máx. depois de atravessar a Dimensão Venenosa"
+        },
+        {
+            "id": 131201,
+            "name": "Tremoring Dimension",
+            "desc": "Ganha 1 de Velocidade depois de atravessar a Dimensão de Tremor"
+        },
+        {
+            "id": 131301,
+            "name": "Electrifying Dimension",
+            "desc": "Ganha +1 Poder de Moeda depois de atravessar a Dimensão Eletrizante"
+        }
+    ]
+}

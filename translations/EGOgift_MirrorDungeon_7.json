@@ -1,0 +1,482 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9209,
+            "name": "Para Você Que Ama a Cidade",
+            "desc": "Se um aliado está com menos de 30% de HP quando atingido, esse aliado restaura 80% de HP e os outros aliados restauram 40% de HP no próximo turno (1 vez por Encontro) || - Cura excedente além do HP máx. é aplicada como Escudo || - Se um aliado restaurou 50+ HP pelo efeito acima, ganha 3 [AttackUp] e 3 [DefenseDown]",
+            "simpleDesc": [
+                {
+                    "abilityID": 9209,
+                    "simpleDesc": "Heal HP"
+                }
+            ]
+        },
+        {
+            "id": 9210,
+            "name": "Meat Tenderizer",
+            "desc": "[Efeitos aplicam apenas à Identidade Implantada #4] || || Se esta unidade tem 2+ Habilidades de Ataque Contundente, ganha 1 [ParryingResultUp] no Início do Turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 9210,
+                    "simpleDesc": "Gain [ParryingResultUp]"
+                }
+            ]
+        },
+        {
+            "id": 19210,
+            "name": "Meat Tenderizer+",
+            "desc": "[Efeitos aplicam apenas à Identidade Implantada #4] || || Se esta unidade tem 2+ Habilidades de Ataque Contundente, ganha <style=\"upgradeHighlight\">2</style> [ParryingResultUp] no Início do Turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 19210,
+                    "simpleDesc": "Gain [ParryingResultUp]"
+                }
+            ]
+        },
+        {
+            "id": 29210,
+            "name": "Meat Tenderizer++",
+            "desc": "[Efeitos aplicam apenas às Identidades Implantadas #4, <style=\"upgradeHighlight\">#5</style>] || || Se esta unidade tem 2+ Habilidades de Ataque Contundente, ganha 2 [ParryingResultUp] no Início do Turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 29210,
+                    "simpleDesc": "Gain [ParryingResultUp]"
+                }
+            ]
+        },
+        {
+            "id": 9207,
+            "name": "Chance & Choice",
+            "desc": "Random chance for the leftmost Slot's E.G.O Skill to deal -50% damage or +150% damage (once per turn)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9207,
+                    "simpleDesc": "E.G.O Skills deal more(or less) damage"
+                }
+            ]
+        },
+        {
+            "id": 9208,
+            "name": "Entangled Fate",
+            "desc": "Combat Start: At 7+ A-Reson., all allies gain Final Power +5 for this turn (once per Encounter)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9208,
+                    "simpleDesc": "Gain Final Power"
+                }
+            ]
+        },
+        {
+            "id": 9211,
+            "name": "Raincloud",
+            "desc": "Início do Turno: Em 30+ de soma total de Potência de [Sinking] e Contagem de [Sinking] em todos os inimigos, aplica os seguintes efeitos: || || - Habilidades que aplicam Potência ou Contagem de [Sinking]: Poder Final +1 (incluindo 'Sinking Único'; excluindo Habilidades E.G.O) || || - Quando 6 ou mais Identidades têm Habilidades de Ataque que aplicam Potência, Contagem ou 'Sinking Único', Habilidades que aplicam Potência ou Contagem de [Sinking] também causam +20% de dano (incluindo 'Sinking Único' e Unidades de Reserva; excluindo Habilidades E.G.O)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9211,
+                    "simpleDesc": "Sinking Skills gain Final Power"
+                },
+                {
+                    "abilityID": 92111,
+                    "simpleDesc": "Sinking Skills deal more damage"
+                },
+                {
+                    "abilityID": 92112,
+                    "simpleDesc": "Sinking Skills gain Coin/Base Power"
+                }
+            ]
+        },
+        {
+            "id": 9212,
+            "name": "The End of all Evil",
+            "desc": "Ativa quando há 3 ou mais Identidades da facção Pequod (contando unidades de Reserva) || || Ao Acertar com Habilidade de Ataque contra inimigos com [Laceration] ou 'Sangramento Único': Ganha 3 [Breath] ou +2 Contagem de [Breath] (3 vezes por turno por Identidade) || || Em Crítico: 80% de chance de ganhar 1 [PenetrateResultUp] no próximo turno (2 vezes por turno por Identidade; incluindo Habilidades E.G.O e Habilidades de Contra-Ataque) || - Identidades da facção Pequod ganham 1 [PlusCoinValueUp] no próximo turno também (1 vez por turno por Identidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9212,
+                    "simpleDesc": "Gain Poise"
+                },
+                {
+                    "abilityID": 92121,
+                    "simpleDesc": "Em Crítico: Chance de ganhar [PenetrateResultUp] no próximo turno; ganha [PlusCoinValueUp] e aumenta a quantidade de efeito negativo aplicado quando as condições são atendidas"
+                },
+                {
+                    "abilityID": 92122,
+                    "simpleDesc": "Gain [PenetrateResultUp], [Protection], and [CriticalDamageUp]"
+                },
+                {
+                    "abilityID": 92123,
+                    "simpleDesc": "Heal SP"
+                }
+            ]
+        },
+        {
+            "id": 9213,
+            "name": "Miniature Ferris Wheel",
+            "desc": "Todos os aliados Sanguinários: Poder Base de Moeda de Habilidade +1, causa +([BloodDinner_Accumulation] / 10)% de dano de Habilidade || || Fim do Turno: Entre os aliados com [Laceration], 2 aliados com menor HP restauram 5% de HP e ganham 10 [SwirlingBloodPersonality] no próximo Início do Turno || || Ao Abater inimigo, aumenta [BloodDinner] em (HP máx. do Núcleo inimigo / 10) (máx. 50) || || Fim do Turno: Se um aliado morreu neste turno, todos os aliados ganham 2 [Enhancement] no próximo turno || || Em Encontros onde inimigos de reforço aparecem: Quando novos inimigos aparecem, aplica 5 [Laceration]",
+            "simpleDesc": [
+                {
+                    "abilityID": 9213,
+                    "simpleDesc": "Gain Base Skill Coin Power"
+                },
+                {
+                    "abilityID": 92131,
+                    "simpleDesc": "Heal HP and gain [SwirlingBloodPersonality]"
+                },
+                {
+                    "abilityID": 92132,
+                    "simpleDesc": "Gain Attack Power Up"
+                },
+                {
+                    "abilityID": 92133,
+                    "simpleDesc": "Inflict Bleed Potency and Count"
+                }
+            ]
+        },
+        {
+            "id": 9214,
+            "name": "Searing Hammer",
+            "desc": "Se o inimigo tem [VibrationIgnition], aplica os seguintes efeitos: || - Ao Acertar com Habilidade Base, aplica 1 [Combustion] (3 vezes por Habilidade) || - Ao Acertar com Habilidade Base, se o inimigo tem 15+ [VibrationIgnition], aplica +1 Contagem de [Combustion] (2 vezes por Habilidade) || - Para cada 3 [Combustion], +1% no Limiar de Atordoamento elevado por [VibrationExplosion] (máx. 15%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9214,
+                    "simpleDesc": "Inflict Burn"
+                },
+                {
+                    "abilityID": 92141,
+                    "simpleDesc": "Tremor Burst increases Stagger threshold further"
+                }
+            ]
+        },
+        {
+            "id": 9215,
+            "name": "Red Necktie",
+            "desc": "Skill 3 that inflicts [Combustion] Potency, Count, or 'Unique Burn': Clash Power +2 and deal +30% damage",
+            "simpleDesc": [
+                {
+                    "abilityID": 9215,
+                    "simpleDesc": "Gain Clash Power and deal more damage"
+                }
+            ]
+        },
+        {
+            "id": 9216,
+            "name": "Uniform - Liu Assoc.",
+            "desc": "Início do Turno: Este Gift ativa pelo Encontro inteiro quando 5 ou mais Identidades têm Habilidades de Ataque que aplicam Potência, Contagem de [Combustion] ou 'Queimadura Única'. (exceto Habilidades E.G.O; exceto Unidades de Reserva) || || Identidades da Associação Liu: Habilidades de Ataque Base ganham Poder de Moeda Positiva +2 (Habilidades de Moeda Negativa ganham Poder Base +(8 / # de Moedas) (mín. 1; arredondado para baixo)) || || Habilidades Não-Skill 3 (incluindo Habilidades E.G.O) que aplicam Potência, Contagem de [Combustion] ou 'Queimadura Única' causam +20% de dano",
+            "simpleDesc": [
+                {
+                    "abilityID": 9216,
+                    "simpleDesc": "Gain Skill Power and deal more damage"
+                }
+            ]
+        },
+        {
+            "id": 9217,
+            "name": "Someone's Device",
+            "desc": "Fim do Ataque: Se [IndexPrescriptTargetToEnemy] é morto, a Identidade que atacou e matou [IndexPrescriptTargetToEnemy] ganha 1 [AzureResultUp] no próximo turno; aplica +3 Contagem de [Sinking] a 1 inimigo sobrevivente aleatório (1 vez por turno) || - Se a unidade que matou [IndexPrescriptTargetToEnemy] está na facção O Índice, ganha 1 [Enhancement] em vez de [AzureResultUp] no próximo turno (1 vez por turno) || || Fim do Turno: As unidades da facção O Índice recebem ([KarmaOfIndexAlly] Carga em si)% de dano em HP. || (Não pode ser Atordoada por este dano)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9217,
+                    "simpleDesc": "Gain Gloom Power Up. The Index Identities gain Attack Power Up instead"
+                },
+                {
+                    "abilityID": 92171,
+                    "simpleDesc": "The Index Identities take damage and gain Power Up next turn"
+                }
+            ]
+        },
+        {
+            "id": 9218,
+            "name": "Providence of the Prescript",
+            "desc": "Identidades que aplicaram [Sinking], Contagem de [Sinking] ou 'Sinking Único' ganham 3 [Breath] ou +2 Contagem de [Breath] no Início do Turno (1 vez por turno por Identidade) || || Durante o Encontro, se uma Identidade ganhou [Breath] 3 vezes pelo efeito acima, a partir do próximo turno, o referido Pecador causa +30% de dano em Acerto Crítico",
+            "simpleDesc": [
+                {
+                    "abilityID": 9218,
+                    "simpleDesc": "Gain Poise Potency and Count"
+                },
+                {
+                    "abilityID": 92181,
+                    "simpleDesc": "Deal more Damage on Critical Hit"
+                }
+            ]
+        },
+        {
+            "id": 9219,
+            "name": "Omni-tool",
+            "desc": "Quando Habilidades do mesmo Tipo de Ataque acertam um inimigo 12 vezes, o inimigo ganha +0.1 de Resistência contra aquele Tipo de Ataque (3 vezes por Encontro por inimigo/Partes de Anormalidade; este efeito não pode elevar o valor de Resistência acima de 2.0)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9219,
+                    "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+                }
+            ]
+        },
+        {
+            "id": 19219,
+            "name": "Omni-tool+",
+            "desc": "Quando Habilidades do mesmo Tipo de Ataque acertam um inimigo <style=\"upgradeHighlight\">9 vezes</style>, o inimigo ganha +0.1 de Resistência contra aquele Tipo de Ataque (3 vezes por Encontro por inimigo/Partes de Anormalidade; este efeito não pode elevar o valor de Resistência acima de 2.0)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19219,
+                    "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+                }
+            ]
+        },
+        {
+            "id": 29219,
+            "name": "Omni-tool++",
+            "desc": "Quando Habilidades do mesmo Tipo de Ataque acertam um inimigo <style=\"upgradeHighlight\">6 vezes</style>, o inimigo ganha +0.1 de Resistência contra aquele Tipo de Ataque (3 vezes por Encontro por inimigo/Partes de Anormalidade; este efeito não pode elevar o valor de Resistência acima de 2.0)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29219,
+                    "simpleDesc": "Target becomes more vulnerable to an Attack Type"
+                }
+            ]
+        },
+        {
+            "id": 9220,
+            "name": "Stolen Fixer Magazine",
+            "desc": "Início do Turno: Ganha 1 [HitResultUp] || || Início de Combate: Ganha 1 [HitDamageUp] se A-Reson. de Inveja estiver ativada || || Início do Encontro: Se há 4 ou mais Identidades da facção O Médio no campo de batalha, aplica [RetaliationBook] em um inimigo aleatório",
+            "simpleDesc": [
+                {
+                    "abilityID": 9220,
+                    "simpleDesc": ""
+                }
+            ]
+        },
+        {
+            "id": 9221,
+            "name": "Thermal Weapon",
+            "desc": "Ao Acertar com Habilidade de Inveja ou Habilidade de Contra-Ataque, aplica +1 Contagem de [Laceration] ou +1 Contagem de [Combustion] (3 vezes por turno) || || Quando a Contagem de [Laceration] em um inimigo cai abaixo de 1 durante o combate, reduz a Contagem de [Combustion] em vez disso se o referido inimigo tem 2+ Contagem de [Combustion] (3 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9221,
+                    "simpleDesc": "Inflict Bleed Count and Burn Count"
+                },
+                {
+                    "abilityID": 92211,
+                    "simpleDesc": "Reduce Burn Count"
+                }
+            ]
+        },
+        {
+            "id": 9222,
+            "name": "Pure-white Canvas",
+            "desc": "Ao Acertar com Habilidades de Ataque de Moeda Positiva contra um inimigo que tem 15+ [Laceration], restaura 3 SP (1 vez por turno para cada Identidade) || - Se a referida Identidade ou alvo tem 3+ tipos de efeitos negativos, restaura 6 SP em vez disso",
+            "simpleDesc": [
+                {
+                    "abilityID": 9222,
+                    "simpleDesc": "Heal SP"
+                }
+            ]
+        },
+        {
+            "id": 9223,
+            "name": "Average Artwork",
+            "desc": "As Identidades da facção O Anelar ganham [Inspire] || || Se a Identidade da facção O Anelar com [Inspire] acerta um inimigo com Habilidades de Luxúria ou Talho, aplica [ObjectOfExploration] no inimigo no próximo turno || - Se o inimigo já tem [ObjectOfExploration], substitui [ObjectOfExploration] por [PaintingMaterial] || || Se a Identidade da facção O Anelar com [Inspire] mata um inimigo que tem [PaintingMaterial], a referida Identidade ganha 1 [PlusCoinValueUp] no próximo turno (1 vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9223,
+                    "simpleDesc": "Inflict [ObjectOfExploration]"
+                },
+                {
+                    "abilityID": 92231,
+                    "simpleDesc": "Gain [PlusCoinValueUp]"
+                }
+            ]
+        },
+        {
+            "id": 9224,
+            "name": "Exquisite Artwork",
+            "desc": "As Identidades da facção O Anelar ganham [Inspire] || || Se a Identidade da facção O Anelar com [Inspire] acerta um inimigo, aplica [ObjectOfExploration] no inimigo || - Se o inimigo já tem [ObjectOfExploration], substitui [ObjectOfExploration] por [PaintingMaterial] || || Se a Identidade da facção O Anelar com [Inspire] mata um inimigo que tem [PaintingMaterial], a referida Identidade perde [Inspire] e ganha [GreatAesthetics] || || Ao Acertar com Habilidades de Ataque de Moeda Positiva contra um inimigo que tem 15+ [Laceration], restaura 3 SP",
+            "simpleDesc": [
+                {
+                    "abilityID": 9224,
+                    "simpleDesc": "Gain [Inspire]"
+                },
+                {
+                    "abilityID": 92241,
+                    "simpleDesc": "Inflict [ObjectOfExploration]"
+                },
+                {
+                    "abilityID": 92242,
+                    "simpleDesc": "Gain [GreatAesthetics]"
+                }
+            ]
+        },
+        {
+            "id": 9225,
+            "name": "The Spider's Thread",
+            "desc": "Allies who use Defense Skill deal +10% damage with Skill 3 next turn (once per turn)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9225,
+                    "simpleDesc": "Skill 3 deals more damage"
+                }
+            ]
+        },
+        {
+            "id": 19225,
+            "name": "The Spider's Thread+",
+            "desc": "Allies who use Defense Skill deal <style=\"upgradeHighlight\">+15%</style> damage with Skill 3 next turn (once per turn)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19225,
+                    "simpleDesc": "Skill 3 deals more damage"
+                }
+            ]
+        },
+        {
+            "id": 29225,
+            "name": "The Spider's Thread++",
+            "desc": "Allies who use Defense Skill deal <style=\"upgradeHighlight\">+20%</style> damage with Skill 3 next turn (once per turn)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29225,
+                    "simpleDesc": "Skill 3 deals more damage"
+                }
+            ]
+        },
+        {
+            "id": 9226,
+            "name": "Someone's Azure Blade",
+            "desc": "Início de Combate: Aliados com Escudo ganham 1 [CriticalDamageUp] || Em Crítico com Habilidade aliada, o referido aliado ganha Escudo igual a ([Breath] / 5) no próximo turno (máx. 15)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9226,
+                    "simpleDesc": "Gain [CriticalDamageUp]"
+                },
+                {
+                    "abilityID": 92261,
+                    "simpleDesc": "Gain Shield"
+                }
+            ]
+        },
+        {
+            "id": 9227,
+            "name": "Baleful Hwando",
+            "desc": "This E.G.O Gift changes after 6 Encounter wins\n{0}\n\nFor all allies: Take +20% damage, Clash Power -1",
+            "simpleDesc": [
+                {
+                    "abilityID": 9227,
+                    "simpleDesc": "Take more damage and lose Clash Power"
+                }
+            ]
+        },
+        {
+            "id": 9228,
+            "name": "One with the Blade",
+            "desc": "All allies deal +25% damage",
+            "simpleDesc": [
+                {
+                    "abilityID": 9228,
+                    "simpleDesc": "Deal more damage"
+                }
+            ]
+        },
+        {
+            "id": 9229,
+            "name": "Tarnished Gauntlet",
+            "desc": "Este E.G.O Gift muda após 6 vitórias em Encontros || {0} || || Velocidade Mín. e Máx. -5 para todos os aliados (este efeito não pode reduzir Velocidade abaixo de 1)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9229,
+                    "simpleDesc": "Reduce Speed"
+                }
+            ]
+        },
+        {
+            "id": 9230,
+            "name": "Golden Hour",
+            "desc": "Velocidade Mín. e Máx. +3 para todos os aliados || Poder Final +2 ao usar Habilidades contra alvos mais lentos com 4+ de diferença de Velocidade || Ao Acertar contra um inimigo, aplica 1 Vínculo no próximo turno (4 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9230,
+                    "simpleDesc": "Gain Speed and Final Power"
+                }
+            ]
+        },
+        {
+            "id": 9231,
+            "name": "Record Logs of That Day",
+            "desc": "Este E.G.O Gift muda após 6 vitórias em Encontros || {0} || || Início do Turno: Um aliado aleatório que não está Atordoado entra em estado de Atordoamento forçado",
+            "simpleDesc": [
+                {
+                    "abilityID": 9231,
+                    "simpleDesc": "Gets Staggered"
+                }
+            ]
+        },
+        {
+            "id": 9232,
+            "name": "Potentialities",
+            "desc": "Ao ser Atordoada por dano, recupera-se do Atordoamento; em seguida, ganha Escudo igual a 50% do HP Máx. e remove 1 efeito negativo removível aleatório em si (excluindo Atordoamentos forçados, 2 vezes por Encontro) || || Ganha 20 de Equilíbrio no início do próximo turno após ativar o efeito acima (1 vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9232,
+                    "simpleDesc": "Recover from Stagger; remove negative effect"
+                }
+            ]
+        },
+        {
+            "id": 9242,
+            "name": "Bongy Plush",
+            "desc": "Multiply Cost owned by 1.5 upon clearing a Floor\n\n- Deal +0.5% damage for every E.G.O Gift owned (Current: +{0}%; max 100%)\n- Turn Start: Gain 1 [Enhancement] for every 20 E.G.O Gift owned (Current Stack: {1}; max 10)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9242,
+                    "simpleDesc": "Deal more damage"
+                },
+                {
+                    "abilityID": 92421,
+                    "simpleDesc": "Gain [Enhancement]"
+                }
+            ]
+        },
+        {
+            "id": 9256,
+            "name": "Imperfect Eye of Precognition",
+            "desc": "Habilidades de Moeda Positiva dos aliados: Ganham Poder de Moeda +(8 / # de Moedas) (ganha pelo menos 1 Poder de Moeda, inclui Habilidades E.G.O; arredondado para baixo) || || Habilidades de Moeda Negativa dos aliados: Ganham Poder Final +(8 / # de Moedas) (ganha pelo menos 1 Poder Final, inclui Habilidades E.G.O; arredondado para baixo) || || [Efeitos aplicam apenas à Identidade Implantada #1] || - Em um Embate, ganha 1 [LookingFutureMirror] a cada Embate. Aplica 2 [Vibration] e [Combustion] no alvo (10 vezes por Habilidade) || - Ao Vencer Embate, dispara [Switch_Vibration]",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9257,
+            "name": "The Abandoned Oracle",
+            "desc": "Habilidades de Moeda Positiva dos aliados: Ganham Poder de Moeda +(8 / # de Moedas) (ganha pelo menos 1 Poder de Moeda, inclui Habilidades E.G.O; arredondado para baixo) || || Habilidades de Moeda Negativa dos aliados: Ganham Poder Final +(8 / # de Moedas) (ganha pelo menos 1 Poder Final, inclui Habilidades E.G.O; arredondado para baixo) || || Em um Embate, ganha Poder de Embate +1 para cada 30 ([Sinking] no alvo + [Breath] em si) (máx. 5) || || Causa +25% de dano com [SuperCoin]s || Recebe -25% de dano de [SuperCoin]s || || [Efeito Exclusivo da facção O Índice]",
+            "simpleDesc": [
+                {
+                    "abilityID": 98270,
+                    "simpleDesc": "Allies gain a significant amount of Coin Power or Final Power"
+                },
+                {
+                    "abilityID": 9257,
+                    "simpleDesc": "Gain Clash Power based on the sum of Sinking on target and Poise on self"
+                },
+                {
+                    "abilityID": 92571,
+                    "simpleDesc": "Deal +25% damage with Unbreakable Coins"
+                },
+                {
+                    "abilityID": 92572,
+                    "simpleDesc": "Deal +50% damage against The Prescript's Target"
+                }
+            ]
+        },
+        {
+            "id": 9258,
+            "name": "The Book of Vengeance: Annex",
+            "desc": "Habilidades de Moeda Positiva dos aliados: Ganham Poder de Moeda +(8 / # de Moedas) (ganha pelo menos 1 Poder de Moeda, inclui Habilidades E.G.O; arredondado para baixo) || || Habilidades de Moeda Negativa dos aliados: Ganham Poder Final +(8 / # de Moedas) (ganha pelo menos 1 Poder Final, inclui Habilidades E.G.O; arredondado para baixo) || || Início do Encontro: Todos os aliados ganham 50 de Escudo para cada unidade aliada da facção O Médio no campo (excluindo unidades de Reserva; Escudo ganho por este efeito não expira ao Fim do Turno) || || Fim do Ataque com unidade aliada da facção O Médio",
+            "simpleDesc": [
+                {}
+            ]
+        },
+        {
+            "id": 9259,
+            "name": "A Maestro's Ring-Turned-Artwork",
+            "desc": "Habilidades de Moeda Positiva dos aliados: Ganham Poder de Moeda +(8 / # de Moedas) (ganha pelo menos 1 Poder de Moeda, inclui Habilidades E.G.O; arredondado para baixo) || || Habilidades de Moeda Negativa dos aliados: Ganham Poder Final +(8 / # de Moedas) (ganha pelo menos 1 Poder Final, inclui Habilidades E.G.O; arredondado para baixo) || || Quando Identidades da facção O Anelar usam Habilidades de Ataque Base, aplica os seguintes efeitos com base no número de tipos de efeito negativo no alvo: || - 2+: Poder de Embate +2 || - 4+: Causa +15% de dano || - 6+: Aplica +1 a mais de Potência e Contagem",
+            "simpleDesc": [
+                {}
+            ]
+        }
+    ]
+}
