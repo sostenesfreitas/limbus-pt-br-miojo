@@ -1,0 +1,195 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971055,
+            "name": "Máquina Bizarra",
+            "desc": "Há uma máquina de aparência muito bizarra. Em frente à ela, uma moeda.\n\nHá uma fresta em forma de moeda na máquina, ele brilha e pisca—é quase como se estivesse nos induzindo a colocar a moeda ali dentro.\n\nUm voz mecânica, sem corpo à vista, ecoa de algum lugar quando andamos para a máquina.\n\n\"Tente a sua sorte!\"\n\nDe onde essa voz veio? Seria da máquina ou seria este lugar em si sussurrando para mim?\n\nEu quase falho em me parar após pegar a moeda sem pensar e andar em direção à seu receptáculo. Eu deveria pensar bem sobre isso.",
+            "options": [
+                {
+                    "message": "Levar só a moeda.",
+                    "messageDesc": "",
+                    "result": [
+                        "Olhando mais de perto, essa moeda pode ser útil na Masmorra.\n\n... Nós deveríamos sair enquanto estamos ganhando, mesmo que seja pouco. Muito melhor do que apostar essa moeda nessa máquina suspeita, por alguma recompensa desconhecida e misteriosa, que não temos um único jeito de dizer o que seria.\n\nPegamos a moeda e deixamos a máquina para trás."
+                    ]
+                },
+                {
+                    "message": "Coloque a moeda na máquina.",
+                    "messageDesc": "???",
+                    "result": [
+                        "A fresta sugou a moeda para dentro, com um som de claque.\n\n\"......\"\n\nEntão... nada.\n\n\"Ah, que droga! Ela comeu a moeda!\"\n\nUm dos Pecadores pisoteou em direção à máquina para bater nela, mas ela rapidamente some para algum lugar, antes mesmo que tivéssemos uma chance de ver o que aconteceria."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971056,
+            "name": "Carnaval em La Manchaland",
+            "desc": "\"Neste eterno... infinito...desfile divino...\"\n\nO desfile traz exclamações felizes e sorrisos aos espectadores. É exagerado e extravagante, não importa para onde olharmos.\n\nÉ exatamente como a letra da música diz... realmente parece que este desfile é eterno e abençoado a ser infinito.\n\n\"Oh.\"\n\nAlguém solta um breve grito de dor, uma seringa enferrujada cai no chão, com um alto barulho.\n\n\"S-sangue! Sangue!\n\"S-só uma gota, por favor...!\"\n\nO desfile desmorona imediatamente, todos seus membros correm loucamente em direção a seringa.\nÉ como se eles nem tivessem percebido quem ou o que está em sua volta; eles parecem prontos para simplesmente destruir qualquer coisa que estiver no caminho.\n\nDeveríamos parar eles?",
+            "options": [
+                {
+                    "message": "Tente parar eles.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Preguiça. Passe para receber uma Bênção de E.G.O de Sangramento."
+                },
+                {
+                    "message": "Ignorar eles.",
+                    "messageDesc": "",
+                    "result": [
+                        "Nada aconteceu."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971057,
+            "name": "O Carrossel",
+            "subDesc": "",
+            "desc": "Aquilo é... um carrossel?\n\nHá uma estrutura incandescente, brilhando quase ao ponto de cegar, raiando luz nesse lugar escuro.\n\n\".......\"\n\n\"Minha nossa, algo de errado?\"\n\n\"Hm? N-Nada, não há nada com o que se preocupar.\" \n\nO carrossel parecia estar ocupando a mente de alguns Pecadores.\n\nDeveríamos fazer uma parada?",
+            "options": [
+                {
+                    "message": "Parar no carrossel.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Preguiça. Passe para receber uma Bênção de E.G.O Sem Palavras-chave."
+                },
+                {
+                    "message": "Parece perigoso. Vamos continuar.",
+                    "result": [
+                        "Nada aconteceu."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971058,
+            "name": "Saco de Dormir de um Tempo Passado Refratado",
+            "subDesc": "",
+            "desc": "Algo está respirando de um modo pesado. Sua fonte, sua forma estranha, está ali.\n\nEla parece ser uma Anormalidade. Essa coisa está sofrendo até mesmo para respirar—cada respiro sendo trabalhoso e irregular.\n\nEla está... chorando?",
+            "options": [
+                {
+                    "message": "Escute a respiração.",
+                    "messageDesc": "Faça um Teste de Vantagem de Orgulho & Inveja. Passe para receber uma Bênção de E.G.O de Postura. "
+                },
+                {
+                    "message": "Tampe seus ouvidos.",
+                    "result": [
+                        "Ouvir essa respiração doida é de cortar o coração.\n\nSó a sensação era tão sobrecarregada que me deixava tonto. Os Pecadores não estavam tão bem, também; eles estavam com as mãos na cabeça e lentamente ficando encharcados com um suor frio.\n\n\"T-tampem seus ouvidos. Eu acho que... que esse som está me deixando insano.\"\n\nEu digo para os Pecadores fazerem igual, nós lentamente nos sentimos melhores.\n\n... A Anormalidade continuou a fazer esse barulho por algum tempo, antes de cair em um completo silêncio."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971059,
+            "name": "Quatrocentas Rosas Refratada",
+            "subDesc": "",
+            "desc": "A pétalas ensanguentadas são tão carmesim que alguém pode até pensar que elas estão sangrando.\n\nSeu caule, que suga o sangue de algum lugar para alimentar as pétalas, está retorcido, negro e vermelho.\n\nEspinhos medonhos e afiados estão espalhados por sua pele.\n\nA curiosidade te toma—talvez quebrar um dos espinhos possa fazer ela sangrar?",
+            "options": [
+                {
+                    "message": "Quebre um dos espinhos.",
+                    "messageDesc": "Teste de Vantagem de Luxúria & Inveja. Passe para receber uma Bênção de E.G.O de Sangramento."
+                },
+                {
+                    "message": "Não faça isso.",
+                    "result": [
+                        "A curiosidade é o maior suspeito quando se trata de gatos mortos.\n\nNão vamos provocar quando não é necessário."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971064,
+            "name": "Daily Life",
+            "desc": "\"Ah, olha...!\"\n\nEu me viro e vejo alguém tropeçando sobre os trilhos... até cair.\n\nCaindo... como uma pena, de uma altura que não é nem muito alta, nem muito baixa, como uma pessoa afundando na água.\n\n\"ATENTA-TE!!\" \n\nUm dos Pecadores grita vigorosamente para nos alertar do perigo.\n\nNós corremos em direção a área onde a pessoa caía, mas parecia que ela ainda estava caindo quando chegamos lá, até tivemos tempo de recuperar o fôlego.\n\nPensar sobre a demora da sua colisão com o chão me fez duvidar se isto seria tão fácil e leve quanto parar a queda de uma folha de papel.\n\n\"Massa é um fator que não poderá ser ignorado neste caso. Apesar da lentidão de sua queda, se a pararmos subitamente...\"\n\n\"Veremos cada milissegundo em que sua coluna lentamente se esfarela, e subsequentemente, seus últimos momentos de agonia que se prolongarão por minutos.\"\n\n\"Ecaa...\"\n\nAinda temos tempo para impedir que a pessoa atinja o chão. Temos que encontrar algo que amorteça sua queda...",
+            "options": [
+                {
+                    "message": "Find something to break their fall.",
+                    "messageDesc": "Run a Lust & Sloth Advantage check to gain a Tremor E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Reach out our arms to grab the falling civilian.",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Não precisa de tudo isso. Olhem só. Deixa eu mostrar como é que se faz.\"\n\nOs Pecadores fizeram um círculo sob a pessoa caindo e impediram o impacto.\n\n\"A-agradeço...\"\n\nA pessoa nos agradeceu e nos entregou uma pequena porção do que carregava.\n\nMas tenho certeza de que vi um dos Pecadores torcer o calcanhar..."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971065,
+            "name": "",
+            "desc": "\"Alto lá! Esta área é proibida a forasteiros!\" ||  || Um homem usando uma alta cartola, presumivelmente um funcionário da T Corp., nos para. ||  || \"Apenas aqueles contratados pela T Corp., ou aqueles com folhetos de autorização especial, podem passar por aqui.\" ||  || Percebendo que estávamos apenas parados ali atônitos e sem saber o que devíamos fazer, ele aponta para o lado e continua. ||  || \"Hmm, parece que vocês têm o direito de passar por aqui. Talvez tenham perdido seu passe.\" ||  || \"Vocês podem solicitar uma reemissão ali, ao lado. Vão tentar a sorte lá.\"",
+            "options": [
+                {
+                    "message": "Receive a pass.",
+                    "messageDesc": "Lust & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Take a contract.",
+                    "messageDesc": "Begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        "\"Bem, tivemos alguns problemas por aqui na T Corp. Daremos as boas-vindas a ajuda externa se conseguirmos.\" ||  || \"Um deles sendo os Yurodiviye—eles publicaram um manifesto ou algo assim, que estão pensando em causar problemas aqui. Eliminem-nos, e podemos lhes entregar um distintivo sem ter que passar pelo processo de obter uma autorização separada.\" Como se sob comando, nos encontramos cercados por um grupo de pessoas com lenços marcantes."
+                    ]
+                },
+                {
+                    "message": "Present the Warning Notice.",
+                    "messageDesc": "Begin a combat encounter. Win to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        "\"... Ok? Mas... por quê?\" ||  || \"Que benefício você poderia possivelmente ter a ganhar apresentando aquele aviso?\" ||  || \"Quero dizer, eu ia procurar seus nomes no sistema, o que teria mostrado que vocês foram todos avisados; significando, era só uma questão de tempo antes que eu—espera, vocês estavam tentando economizar meu tempo?\" ||  || \"Bem, aprecio o gesto, pessoal. Não vamos desperdiçar mais tempo e encerrar isso.\" ||  || Então, como se sob comando, um tremor cai em frente ao balcão da recepção, e uma sirene começa a soar. ||  || ... Não demorou muito antes que estivéssemos cercados por funcionários da T Corp."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971066,
+            "name": "",
+            "desc": "Viramos uma esquina e nos deparamos com um cartaz desenhado de forma bastante rude. ||  || Escrita no cartaz há uma breve introdução ao lado de uma pequena nota com direções. ||  || 'Sem tempo, mas queimando de frustração? Então venha se juntar aos Yurodiviye. ||  || Você está contente em deixar a iniquidade pisar em você? ||  || Ou preferiria viver para sua destruição? ||  || Deseje, deseje com força! ||  || Pegue este cartaz, deixe-o ser seu bilhete de trem. ||  || No beco ■■■, encare a estrada ■■ e caminhe à velocidade de 120km por dia. Sozinho.'",
+            "options": [
+                {
+                    "message": "Pegue o cartaz e siga as direções na nota.",
+                    "messageDesc": "Run a Lust, Sloth, and Gluttony Advantage check to gain a Tremor E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Ignore the poster.",
+                    "messageDesc": "",
+                    "result": [
+                        "Faz alguém se perguntar: para o que os Yurodiviye poderiam estar recrutando? Mas parece ser uma perda de tempo seguir essa pista. ||  || Olho para longe do cartaz e apresso-me ao lado dos Pecadores."
+                    ]
+                },
+                {
+                    "message": "Brandir o Cálice do Gotejamento",
+                    "messageDesc": "Select to gain a Tremor E.G.O Gift",
+                    "result": [
+                        "Alguém se aproxima à distância. ||  || \"Espera, esse cálice...\" ||  || \"Claro, ouvi os contos. Alguém trabalhando duro para a redistribuição de riqueza, apesar de não usar nossa cor...\" ||  || \"Continue com o bom trabalho, camarada... esta máquina vai ser útil, pegue-a.\" ||  || Claramente, ele deve ter se enganado. Deu um leve tapinha no meu ombro antes de deixar algo em minhas mãos."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971067,
+            "name": "",
+            "desc": "Uma voz desesperada ecoa de longe. ||  || \"Juntem-se a nós. Vamos derrubar as iniquidades, juntos.\" ||  || Outra voz fala. ||  || \"Estamos salvando tempo de suas pobres e miseráveis mortes. Este é um feito santo.\" ||  || Outra voz fala empolgada. ||  || \"Junte-se a nós, parceiro. Torne-se um dos ladrões fantasmas. Conhece os caras, certo? Os ladrões cavalheiros, os ladrões que servem à justiça... Hm, ou somos mais como assaltantes da justiça?\" ||  || ... Talvez possamos usar isso como uma oportunidade para enganá-los.",
+            "options": [
+                {
+                    "message": "Pretend to join them.",
+                    "messageDesc": "Run a Lust & Sloth Advantage check. Pass to gain Cost.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Refuse.",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Vocês recusam...? Vocês nos recusaram...?\" ||  || \"Não, isto é melhor. Ainda não é hora do segredo de nossa existência ser revelado.\" ||  || \"Nunca tive nenhuma fé neles para começar!\" ||  || \"Você não poderia ter sido um pouco mais cuidadoso? Eles já ouviram tudo! Sobre nosso propósito!\" ||  || As vozes parecem discutir entre si por um momento antes que a figura finalmente se aproxime de nós. ||  || \"Esqueçam que tivemos esta conversa. Parece que nossa oferta foi feita com pressa, sem um acordo apropriado feito até mesmo entre nós.\""
+                    ]
+                }
+            ]
+        }
+    ]
+}

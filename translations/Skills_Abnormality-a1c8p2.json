@@ -1,0 +1,1806 @@
+﻿{
+    "dataList": [
+        {
+            "id": 113101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque Supressivo",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Reprimir",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reusar essa Moeda (Velocidade desta unidade / 3) vezes (máx. 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Golpe de Pena",
+                    "desc": "Se a Velocidade dessa unidade for maior que a do alvo principal, Poder de Moeda +1 para cada 2 de diferença (máx. 3)\n[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +3 Contagem de [Burst] ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 3 de [LegStrength]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Reusar esta Moeda uma vez (uma vez por Habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Movimento Preparatório",
+                    "desc": "[WhenUse] Recebe 3 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Perseguição ",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sobrepujar",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reusar essa Moeda (Velocidade desta unidade / 3) vezes (máx. 2)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque Sombrio",
+                    "desc": "Se a Velocidade dessa unidade for maior que a do alvo principal, Poder de Moeda +1 para cada 2 de diferença (máx. 3)\n[WhenUse] Se o alvo tiver 4+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +3 Contagem de [Burst] ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 3 de [LegStrength]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Reusar esta Moeda uma vez (uma vez por Habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Movimento Preparatório",
+                    "desc": "[WhenUse] Recebe 3 de [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pergunta. (問)",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Resposta (答)",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Act Not With Impropriety (非禮勿動)",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)\n[WhenUse] Poder de Confronto +1 para cada 2 Contagem de [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 1 de [Binding] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstStop]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Esquivar",
+                    "desc": "Se essa unidade falhar em usar esta Habilidade, recebe 1 de [Binding] no próximo turno\n[WhenUse] Poder de Moeda +1 para cada 2 de [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Golpe Fulminante",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstWave]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113706,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Eles, Mao.",
+                    "desc": "[WhenUse] Cura 10 PS\n[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige 2 de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstSuppress]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113707,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Vou Ter Que Insistir Ainda Mais",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)\n[WhenUse] Poder de Confronto +1 para cada 2 Contagem de [Burst] no alvo (máx. 3)\n[WinDuel] Inflige 2 [Burst] e +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +4 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +5% de dano para cada (Potência de [Burst] no alvo + Contagem de [Burst] no alvo) (máx. +200%)\n[OnSucceedAttack] Reduz a 0 todos os Ritos Mortais"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113708,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não Se Intrometam",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 3)\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstWave]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque Supressivo",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Assassinato Perfurante",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1\n[WhenUse] Recebe 3 de [LegStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstAgility], recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Etching Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cutelo do Decreto Maldito - Passo Veloz",
+                    "desc": "Prioriza alvos com [BurstAgility]\n[StartBattle] Recebe 1 de [SupportProtect]\nCausa +15% de dano para cada 2 diferença de Velocidade entre esta unidade e o alvo (Máx. 60%)\n[WhenUse] Poder de Moeda +1 para cada 5 de [Burst] no alvo (máx. 2)\n[WhenUse] Poder Base +1 para cada 2 Contagem de [Burst] no alvo (máx. 3)\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reusa esta Moeda uma vez (uma vez por Habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113305,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Decreto Maldito",
+                    "desc": "[WhenUse] Se a Velocidade dessa unidade for maior que a do alvo por 3 ou mais, Poder de Confronto +1\n[WhenUse] Se o alvo tiver [BurstAgility], inflige +1 Contagem de [Burst] com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113306,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Incomplete Seal Release: <Tianjiu Star's Blade>",
+                    "desc": "+20% de dano para cada 2 de diferença de Velocidade entre esta unidade e o alvo (máx. 60%) || [WhenUse] Poder de Moeda +1 para cada 5 [Burst] no alvo (máx. 3) || [WhenUse] Poder de Embate +1 para cada 2 Contagem de [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstZilu]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Volto a Perguntar",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Act Not With Impropriety (非禮勿動)",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstStop]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Você Não Vai Se Intrometer",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstSuppress]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Golpe Fulminante - Onda (波)",
+                    "desc": "Prioriza alvos com mais tipos de Rito Mortal\n[WhenUse] Poder de Moeda +1 para cada 2 de [Burst] no alvo principal (máx. 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 2+ tipos de Rito Mortal, inflige [BurstWave]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114105,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Heishou - Mao Linkstrike - Bladestorm",
+                    "desc": "[WhenUse] Cura 10 PS\n[WhenUse] Poder de Moeda +1 para cada 5 de [Burst] no alvo (máx. 2)\n[WinDuel] Inflige 2 de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114106,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Até Mim, Zilu.",
+                    "desc": "[WhenUse] Cura 10 PS\n[WhenUse] Poder de Moeda +1 para cada 5 de [Burst] no alvo (máx. 2)\n[WinDuel] Inflige 2 de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstZilu]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114107,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Dilúvio de Rito Mortal",
+                    "desc": "[CantChangeTarget]\nPrioriza alvos com mais tipos de Rito Mortal\n[WhenUse] Poder de Moeda +1 para cada tipo de Rito Mortal no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +5% de dano para cada (Potência + Contagem de [Burst] no alvo + número de tipos de Rito Mortal no alvo) (máx. 200%)\n[OnSucceedAttack] Reduz a 0 todos os Ritos Mortais no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114108,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Me Responda, Jia Baoyu",
+                    "desc": "[CantChangeTarget]\nPrioriza Hong Lu\n[WinDuel] Inflige +4 Contagem de [Burst]\n[DefeatDuel] Se o alvo for Hong Lu, inflige 1 de [Teaching]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114109,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estrela Tiāngāng - Forma (格)",
+                    "desc": "Prioriza Hong Lu\nPoder de Moeda -2 para cada [Teaching] no alvo\n[DefeatDuel] Não atordoa com esse ataque. Recebe [DefenseDown] por esse Encontro\n[DefeatDuel] Causa -50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +5% de dano para cada (Potência de [Burst] no alvo + Contagem de [Burst] no alvo + número de tipos de Rito Mortal no alvo) (100% Máx.)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fracotes...",
+                    "desc": "[StartBattle] Aplica 2 [AttackDmgUp] ao aliado mais rápido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Idiotas...",
+                    "desc": "[StartBattle] Aplica 2 de [Agility] ao aliado mais lento no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Eu Vou Te Matar!",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ tipos de efeitos nocivos, Poder Base +1\n[WhenUse] Poder de Moeda +1 para cada 6 de [Burst] no alvo (máx. 2)\n[DefeatDuel] Recebe 1 de [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano de PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano de PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Jump In!!",
+                    "desc": "[WhenUse] Cura 15 SP || [WhenUse] Se o alvo tem 3+ tipos de efeitos negativos, Poder Base +1 || [EndSkill] 1 Jarro com menos HP atual usa a Habilidade 'Jarro Rachado Saltitante' no alvo (ignora Atordoamento)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Let's Watch This Spectacle, All Together!",
+                    "desc": "[StartBattle] Summon 2 Jars next turn\n[WhenUse] If target has 3+ negative effects, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Talisman Strike",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 3)\n[WhenUse] Poder de Confronto +1 para cada 30% de PV faltante em si (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst] e +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Trigger Effect",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 3)\n[WhenUse] Poder de Confronto +1 para cada 30% de PV faltante em si (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst] e +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz em 2 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Deathrite Doll",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Burst] no alvo (máx. 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de [Burst] e +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Reduce [OminousTalisman] on target by 5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spirit Talisman School - Vilerage",
+                    "desc": "[StartBattle] Peso de Atq +1 para cada 20% de HP faltante em si (máx. 4) || [WhenUse] Poder Final +1 para cada 4 [Burst] no alvo (máx. 4 || [DefeatDuel] Causa -50% de dano; esta Habilidade não pode Atordoar o alvo com dano ou efeito || [EndSkill] Se esta Habilidade derrotou um inimigo, aplica 2 [ResultEnhancement] e 2 [AttackDmgUp] em todos os aliados, incluindo esta unidade, no próximo turno (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Take This!",
+                    "desc": "[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "KNEEL!",
+                    "desc": "[CantIdentify]\n[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Look at You Flaming Idiots!",
+                    "desc": "[WhenUse] Coin Power +1 for every 2 types of negative effect on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Burst] no alvo uma vez. O alvo perde 1 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [Laceration] e [Burst] igual aos acúmulos de [MadFeather] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Know Your Place!",
+                    "desc": "[WideAreaRampage]\n[WhenUse] Consume 3% HP on self (this damage does not kill this unit)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [ShamrockTakeDamageUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [ShamrockTakeDamageUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [ShamrockTakeDamageUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Kowtow Before Me!",
+                    "desc": "[CantIdentify]\n[WhenUse] Consume 5% HP on self (this damage does not kill this unit)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict ([MadFeather] on target x 10) [Burst]; all [MadFeather] on target expires"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Burst] no alvo 2 vez. O alvo perde 2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115806,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "I'll Give You a Chance",
+                    "desc": "[DuelCounter] \n[DefeatDuel] All [MadFeather] on target expires",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 [MadFeather]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [MadFeather]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Blade Style - Downward Cleave",
+                    "desc": "[WhenUse] Consume 5 [Charge] Count to gain Final Power +1 (max 2)\n[WhenUse] Gain +2 [Charge] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Blade Style - Windup Slash",
+                    "desc": "[WhenUse] Consume 5 [Charge] Count to gain Clash Power +1 (max 2)\n[WhenUse] Gain +5 [Charge] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Blade Style - Crushing Slice",
+                    "desc": "[WhenUse] Consome 5 Contagem de [Charge] para ganhar Poder de Moeda +1 (máx. 2) || [WhenUse] Se esta unidade consumiu 5+ Contagem de [Charge], aplica +2 a mais [Burst] || [WhenUse] Se esta unidade consumiu 10+ Contagem de [Charge], aplica +3 Contagem de [Burst] || [WhenUse] Em 5~9 Contagem de [Charge], ganha 2(13 - Contagem atual de [Charge]) [Burst] para elevar a Contagem de [Charge] desta unidade para 10 || [DefeatDuel] Causa -75% de dano; dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Dano de Gula igual à Potência de [Burst] no alvo; então reduz a Contagem de [Burst] em 1 (máx. 30)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst] para cada 5 Contagem de [Charge] consumida Ao Usar (máx. 4)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Blade Style - Flowing Slash",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Fist Style - Faceoff",
+                    "desc": "[WhenUse] Final Power +1 for every 4 [Burst] on target (max 2)\n[WhenUse] Gain +3 [Charge] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Fist Style - Roundhouse Punch",
+                    "desc": "[WhenUse] Final Power +1 for every 5 [Burst] on target (max 2)\n[WhenUse] Consume 5 [Charge] Count to gain Final Power +1\n[WhenUse] At 5~9 [Charge] Count, gain 2(13 - current [Charge] Count) [Burst] Potency to raise [Charge] Count to 10 (once per turn)\n[WhenUse] Gain +5 [Charge] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +5 Contagem de [Charge]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com +2 de Carga, inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Fist Style - Destroy",
+                    "desc": "[WhenUse] Poder Final +1 para cada 6 [Burst] no alvo (máx. 2) || [WhenUse] Consome 5 Contagem de [Charge] para ganhar Poder de Moeda +1 (máx. 3) || [WhenUse] Se esta unidade consumiu 5+ Contagem de [Charge], aplica +2 a mais [Burst] || [WhenUse] Se esta unidade consumiu 10+ Contagem de [Charge], aplica +3 Contagem de [Burst] || [DefeatDuel] Causa -80% de dano; dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +5 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 10 [OminousTalisman]\n- If this unit consumed 10+ [Charge] Count, inflict ([Charge] Count consumed - 10) [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +5 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove todos os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit consumed 5+ [Charge] Count On Use, inflict 10 [OminousTalisman]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] If this unit consumed 10+ [Charge] Count On Use, consume all [OminousTalisman] on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 116004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Charge Fist Style - Rhythm Matching",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reduz em 3 os [OminousTalisman] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113307,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Swiftfeet Protection",
+                    "desc": "[CanDuelGuard] || [BeforeUse] Em 2+ [SupportProtect], ativa 'Heishou Ascendente - Técnica Mao: Manifestação Rachadora de Nuvens' em vez disso || [WhenUse] Ganha 1 Nível de Defesa para cada 5% de HP que esta unidade perdeu cumulativamente neste Encontro (máx. 10) || [WhenUse] Não pode ser Atordoada por dano até esta Habilidade terminar",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113308,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ascendant Heishou - Mao Technique: Cloudsplitting Manifestation",
+                    "desc": "+20% de dano para cada 2 de diferença de Velocidade entre esta unidade e o alvo (máx. 60%) || [WhenUse] Poder de Moeda +1 para cada 5 [Burst] no alvo (máx. 3) || [WhenUse] Poder de Embate +1 para cada 2 Contagem de [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstZilu]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114110,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Like a Roaring Storm",
+                    "desc": "[CantDuel] || [CantChangeTarget] || Esta Habilidade ataca alvos que não são Hong Lu || Usa o Bando Heishou - Ramo Mao para Atordoar cada Identidade exceto Hong Lu no próximo turno; esta unidade se recupera do Atordoamento || [EndSkill] Encerra o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
