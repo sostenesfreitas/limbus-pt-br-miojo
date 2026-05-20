@@ -1,0 +1,324 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9021501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Elongating Palm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 10 de ([Breath] em si + [Burst] no alvo)\n[WhenUse] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Puncturing Serpent Arm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 8 de ([Breath] em si + [Burst] no alvo) (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Serpent's Concealed Puncture",
+                    "desc": "Se esta unidade tem [SnakeStance] e o alvo tem [BurstPoison], esta Habilidade torna-se uma Habilidade Não-Embatível || Poder de Moeda +1 para cada 4 ([Breath] em si + [Burst] no alvo) (máx. 10) || [WinDuel] Aplica +2 Contagem de [Burst] e ganha +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Deal +25% damage for every [SnakeStance] on self (max 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consume 3 [BurstPoison] for every [SnakeStance] on self (max 5 per turn)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstPoison] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Eyeing for a Chance",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)\n[WhenUse] Recebe 3 de [SnakeStance] (uma vez por Habilidade)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Elongating Arm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 10 de ([Breath] em si + [Burst] no alvo)\n[WhenUse] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Gnawing Serpent Arm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 8 de ([Breath] em si + [Burst] no alvo) (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Serpent's Shadowed Puncture",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada ([Breath] em si + [Burst] no alvo) (máx. 4)\n[WinDuel] Inflige +2 Contagem de [Burst]\n[WinDuel] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstPoison] no próximo turno (uma vez por Habilidade)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se esta unidade tem [SnakeStance], Reusa esta Moeda uma vez (uma vez por Habilidade)"
+                                },
+                                {
+                                    "desc": "- The Reused Coin deals -70% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9021604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Observe for a Chance",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)\n[WhenUse] Recebe 3 de [SnakeStance] (uma vez por Habilidade)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Mutated Elongating Arm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 10 de ([Breath] em si + [Burst] no alvo)\n[WinDuel] Recebe +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Se esta unidade tem 10+ [Breath], ganha 1 [SnakeStance] e Reusa Moeda uma vez (uma vez por Habilidade; pode ganhar até 2 [SnakeStance] por turno)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Elongating Serpent Arm",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 8 ([Breath] em si + [Burst] no alvo) (máx. 3) || [BeforeAttack] Se esta unidade tem [SnakeStance], ganha +2 Peso de Atq || - Torna-se uma Habilidade [WideAreaRampage] || - Ao atacar o mesmo alvo, se o alvo tem 2 ou menos Contagem de [Burst], aplica +1 Contagem de [Burst] e consome 1 [BurstPoison] || [WinDuel] Aplica +1 Contagem de [Burst] em todos os alvos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstPoison], inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Serpent's Keenlance",
+                    "desc": "Se esta unidade tem [SnakeStance] e o alvo tem [BurstPoison], esta Habilidade torna-se uma Habilidade Não-Embatível || [WhenUse] Poder de Moeda +1 para cada 4 ([Breath] em si + [Burst] no alvo) (máx. 10) || [WinDuel] Aplica +2 Contagem de [Burst] e ganha +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "If this unit has [SnakeStance], deal +100% damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consume 5 [BurstPoison] for every [SnakeStance] on self (once per turn)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstPoison] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Wait for a Chance",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 for every 4 [Burst] on target (max 3)\n[WhenUse] Gain 3 [SnakeStance] (once per Skill)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,954 @@
+﻿{
+    "dataList": [
+        {
+            "id": 124701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ironsteed Trample",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de ([Burst] + [Vibration]), Poder Base +3\n[DefeatDuel] Reduz em 2 a Potência de [Vibration] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rupturing Trample",
+                    "desc": "[WhenUse]  Poder Base +2 para cada 4 de ([Burst] + [Vibration]) no alvo (máx. 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Line-Crushing Cavalry Charge",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de ([Burst] + [Vibration]), Poder Base +2\n[WhenUse] Com -30 ou menos de PS, as Moedas dessa unidade sempre caem Cara\n[DefeatDuel] Reduz em 2 a Potência de [Vibration] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Burst] e +5 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Trample and Decapitate",
+                    "desc": "[WhenUse] Poder Base +2 para cada 4 de ([Burst] + [Vibration]) no alvo (máx. 4)\n- Com 15+ de  ([Burst] + [Vibration]) no alvo, Poder de Moeda Negativa +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Filthy snakes... I'll crush you all...",
+                    "desc": "[WhenUse] Poder Base +2 para cada 4 de ([Burst] + [Vibration]) no alvo principal (máx. 4)\n[DefeatDuel] Poder Base -8\n[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [SweptAwayWei] contra alvos secundários no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swiftsteed Linebreaker",
+                    "desc": "[WhenUse] Poder Base +2 para cada 4 de ([Burst] + [Vibration]) no alvo principal (máx. 6)\n[DefeatDuel] Poder Base -5\n[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se é o alvo principal, inflige +5 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Vibration] contra 1 sub-alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict [SweptAwayWei] against sub-targets next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Shall Not Pass...!",
+                    "desc": "Prioriza alvos com a menor Potência de [Vibration]\n[WhenUse] Se o alvo não tiver [Vibration], Poder Base -5\n[BeforeAttack] Se o alvo não tiver [Vibration], causa -90% de dano\n[DefeatDuel] Poder Base -5\n[DefeatDuel] Dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 124708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mad Steed's Voidrender",
+                    "desc": "Causa +1% de dano para cada 1% de HP faltante em si (máx. 80%) || [BeforeAttack] Em 50% ou menos de HP, ganha +2 a mais de Peso de Atq || [BeforeAttack] Se esta unidade não tem [LegStrengthHorse], esta Habilidade causa +120% de dano; em seguida, ganha 2 [Vulnerable] no próximo turno || [DefeatDuel] Poder Base -12 || [DefeatDuel] Causa -80% de dano e dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Burst] e +5 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Vibration] e +5 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Frontal Swirl (前旋斬)",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 5 de [Laceration] no alvo (máx. 2)\n[WhenUse] Recebe 1 de [SipOfAlcoholJin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Way of the Open-throat Chugging (咽道酒)",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 5 de [Laceration] no alvo (máx. 2)\n[WhenUse] Recebe 1 de [SipOfAlcoholJin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 5+ [Laceration], inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Waterfall (落酒)",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ [Laceration], Poder de Moeda +1\n[WhenUse] Poder Base +1 para cada Contagem de [DrunkBlood] no alvo (máx. 2)\n[WinDuel] Recebe 1 de [SipOfAlcoholJin]\n[DefeatDuel] Perde 2 [SipOfAlcoholJin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drunklaim (取)",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 5 de [Laceration] no alvo (máx. 2)\n[WhenUse] Poder Base +1 para cada [DrunkBlood] no alvo (máx. 2)\n[WhenUse] Com 3+ de [SipOfAlcoholJin], converte todas as Moedas em [SuperCoin]\n[DefeatDuel] Causa -80% de dano, e dano causado por esta Habilidade não pode Atordoar o alvo ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 20%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se essa unidade tiver 3+ [SipOfAlcoholJin], reusa esta Habilidade uma vez (uma vez por Habilidade)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Verdadeiro Golpe Finalizador (眞鎭終斬)",
+                    "desc": "[WhenUse] Poder de Moeda +5 para cada 6 de [Laceration] no alvo (máx. 10)\n[WhenUse] Se o alvo tiver [DrunkBlood], converte todas as Moedas em [SuperCoin]\n[DefeatDuel] Causa -80% de dano, e dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 100%)"
+                                },
+                                {
+                                    "desc": "Deal +10% damage for every [DrunkBlood] on target (max 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [SipOfAlcoholJin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa ([DrunkBlood] no alvo x 5) dano de Luxúria (máx. 25)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Intoxicated Leaning (醉靠)",
+                    "desc": "[WhenUse] Recebe 10 de Escudo para cada [SipOfAlcoholJin] em si (máx. 50)\n[WhenUse] Se o alvo tiver [DrunkBlood], inflige 5 de [Laceration]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drunken Returning Strike (醉回攻)",
+                    "desc": "[DuelCounter]\n[WhenUse] Deal +20% damage for every [SipOfAlcoholJin] on self (max 100%)\n[WhenUse] If target has [DrunkBlood], deal +50% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa ([DrunkBlood] no alvo x 5) dano de Luxúria (máx. 25)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127208,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Verdadeiro Golpe Finalizador Supremo (眞-眞鎭終斬)",
+                    "desc": "Prioriza Jia Xichun || [CantChangeTarget] || [WhenUse] Se a Velocidade desta unidade é maior que a do alvo, Poder de Moeda +1 || [WhenUse] Ganha 1 [AttackUp] e 1 [Agility] no próximo turno para cada [SipOfAlcoholJin] em si (máx. 3) || [WinDuel] Ganha +7 Peso de Atq",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 100%)"
+                                },
+                                {
+                                    "desc": "Deal +10% damage for every [DrunkBlood] on target (max 50%)"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal ([DrunkBlood] on target x 10) Lust damage (max 50)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127209,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drunken Decapitation Bladefall (落醉斬)",
+                    "desc": "[WhenUse] Poder Base +1 para cada 5 [Breath] em si (máx. 2) || [WhenUse] Se a Velocidade desta unidade é maior que a do alvo, Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Ultimate True Decapitation Deathblow (眞-眞鎭終斬) deals +20% damage"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Reuse this Coin (5 times max)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 127210,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drunken Shadowwalking (醉影步)",
+                    "desc": "[WhenUse] Base Power +6 for every 2 surviving ally (max 12)\n[OnSucceedEvade] Gain 3 [Breath]\n[EndBattle] Gain +2 [Breath] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Verdadeiro Golpe Finalizador",
+                    "desc": "[StartBattle] HP não cai abaixo de 1 antes desta Habilidade terminar. || [WhenUse] Ganha 10 [AttackUp] || [WhenUse] Ganha 5 [Enhancement] || [WhenUse] Ganha 10 [AttackDmgUp] || [DefeatDuel] Causa -80% de dano e dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +1% de dano para cada ([Laceration] + Contagem de [Laceration]) no alvo (Máx. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [SipOfAlcohol]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Downward Slam",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stick Combo",
+                    "desc": "[WinDuel] Deal +30% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Powerful Swing",
+                    "desc": "[WinDuel] Gain 1 [Enhancement]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9102605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Growth",
+                    "desc": "[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +20% de Dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +50% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Spirit Talisman School - Vilerage",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 [Burst] no alvo (máx. 4) || [DefeatDuel] Causa -50% de dano e dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [OminousTalisman]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Remove all [OminousTalisman] on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oh, damn...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What is this foolish pretend-fight?",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...",
+                    "desc": "[WhenUse] Se o alvo tiver 3+ tipos de efeitos nocivos, Poder Base +1\n[WhenUse] Poder de Moeda +1 para cada 6 de [Burst] no alvo (máx. 2)\n[DefeatDuel] Recebe 1 de [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "Deal 5 SP damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "Deal 5 SP damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115709,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What's this Child's Play?",
+                    "desc": "[WhenUse] Cura 15 PS\n[WhenUse] Se o alvo tiver 3+ tipos de efeitos negativos, Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

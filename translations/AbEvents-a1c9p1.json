@@ -1,0 +1,17 @@
+﻿{
+    "dataList": [
+        {
+            "id": 130801,
+            "title": "Faelantern",
+            "prevDesc": "A fada cor-azul-petróleo apareceu novamente na ponta do galho. || A essa altura todos sabiam que não passava de uma isca.",
+            "eventDesc": "Atacar aquela fada novamente revelará sua verdadeira forma. ||  || Esta não é sua primeira vez enfrentando esta entidade. Não será tão difícil quanto da primeira vez. ||  || Os Pecadores parecem concordar. ||  || A fada simplesmente sentou ali em quase completa imobilidade, interrompida apenas pelas asas vibrando intermitentemente. Era como se a fada soubesse que vocês estavam vindo.",
+            "behaveDesc": "Who will answer the bait?",
+            "successDesc": [
+                "[{0}] avançou em direção à fada. ||  || Após um leve salto no ar, o Pecador balançou a arma em direção à fada. ||  || ”!!!” ||  || A fada parecia gritar, mas nenhum som saiu de sua boca. ||  || Talvez ela não estivesse gritando de jeito nenhum. Talvez fosse apenas o balanço dos galhos. ||  || ”Os olhos estão saindo...” ||  || ”Saiam daí! Lá vamos nós de novo.” ||  || Inúmeros olhos se abrem um a um, brilhando das sombras. ||  || Eles oscilam como se fossem saltar sobre nós a qualquer minuto. ||  || Então... O que fazer agora?"
+            ],
+            "failureDesc": [
+                "[{0}] avançou em direção à fada. ||  || Após levemente saltar no ar, o Pecador balançou a arma em direção à fada. ||  || Mas... ||  || ”Aquela coisa pode esquivar...?!” ||  || Claro, não ia ser tão fácil. Presumir que uma isca permaneceria parada é um pensamento complacente. ||  || A fada também voou levemente para o ar e fitou o Pecador, que ousou atacá-la. ||  || ”S-saiam daí! Está começando a se mover de novo!” ||  || [{0}] tentou se afastar, mas seu corpo principal já tinha apertado em volta das pernas do Pecador. ||  || Então... O que fazer agora?"
+            ]
+        }
+    ]
+}

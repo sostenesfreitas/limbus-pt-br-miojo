@@ -1,0 +1,39 @@
+﻿{
+    "dataList": [
+        {
+            "id": "Smoke",
+            "name": "Smoke",
+            "desc": "- Max Potency: 10\n- Max Count: 5\n- At 9+ Potency, Final Power +1\n- Take +5% damage for every Potency\n- Lose 1 Count at Turn End",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Church_LowMorale",
+            "name": "The Church",
+            "desc": "- Moral Baixa || - Ganha 1 Fumaça ou Contagem de Fumaça adicional ao ganhá-los || - Início do Turno: ganha 3 Fragilidade, 2 Dano Up e 1 Reforço de Poder de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Church_Panic",
+            "name": "The Church",
+            "desc": "- Pânico || - Ganha 2 Fumaça ou Contagem de Fumaça adicional ao ganhá-los || - Início do Turno: ganha 3 Fragilidade, 4 Dano Up e 2 Reforço de Poder de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MeatGearForce",
+            "name": "Meat Gear: Coercion",
+            "desc": "- HP não cai abaixo de 1 HP durante a Fase de Combate. || - Esta unidade morre se está com 1 HP no Fim do Turno.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AllSetForShooting",
+            "name": "Ready to Fire",
+            "desc": "- Slot de Habilidade +1 || - Modifica o pool de Habilidades: Ganha 1 uso da Habilidade 3, mas perde 1 uso da Habilidade 1 || - Causa +10% de dano para cada Munição que a Habilidade de Ataque Base gasta || - Habilidades de Ataque que ganham Munição causam +10% de dano para cada Bala Mágica (aplica o que tiver o maior ganho de dano) || - Em Morte com uma Habilidade: cura 25 SP em 2 aliados (incluindo si) com menos SP; +2 recursos E.G.O para a Afinidade da Habilidade que derrotou o alvo; +1 recurso E.G.O para todas as outras Afinidades",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

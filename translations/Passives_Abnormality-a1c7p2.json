@@ -1,0 +1,54 @@
+﻿{
+    "dataList": [
+        {
+            "id": 838101,
+            "name": "Festival of Wonders",
+            "desc": "Ganha 1 [FestivalFever] toda vez que esta unidade aplica um buff positivo em outros aliados com seus efeitos de Habilidade (uma vez por tipo de buff) ||  || Início do Turno: ganha [FestivalFever] igual ao número de outros aliados (máx. 3) || Fim do Turno: cura SP igual a [FestivalFever] em si (não ativa em -45 SP) ||  || Fim do Turno: em 10+ [FestivalFever], usa uma Habilidade poderosa no próximo turno (contudo, se 'O Desfile Se Repete por Toda a Eternidade' está ativa, este efeito não ativa)"
+        },
+        {
+            "id": 838102,
+            "name": "The Parade's Lady",
+            "desc": "Início do Turno: ganha 8 [Protection] || - A cada morte de aliado, ganha 1 [Protection] a menos no Início do Turno || Fim do Turno: Se esta unidade não sofreu dano de HP neste turno, ganha 2 [Agility] no próximo turno"
+        },
+        {
+            "id": 838103,
+            "name": "O Desfile se Repete pela Eternidade",
+            "desc": "Turn End: if at 5+ [IncompleteParade], use a powerful Skill next turn"
+        },
+        {
+            "id": 838104,
+            "name": "Parade of Happiness",
+            "desc": "Ganha um novo padrão quando o HP desta unidade cai a 66% ou menos pela primeira vez ||  || Após a mudança de padrão, || - Eleva os valores de Velocidade Mín. e Máx. em 1 || - Converte [BloomingThorns] em si para [BloomingThorns_2nd] || - Todos os aliados ganham 3 [FestivalFever] e 3 [BloomingThorns] a cada turno"
+        },
+        {
+            "id": 838105,
+            "name": "Eternal Parade of Happiness",
+            "desc": "Ganha um novo padrão quando o HP desta unidade cai a 33% ou menos pela primeira vez ||  || Após a mudança de padrão, || - Eleva os valores de Velocidade Mín. e Máx. em 2 || - Usa uma Habilidade poderosa; em seguida enfraquece as Resistências contra Talho, Perfuração e Contundente (+0.5) || - Converte [BloomingThorns] e [BloomingThorns_2nd] em si para [BloomingThorns_3rd] || - Todos os aliados ganham 5 [FestivalFever] e 5 [BloomingThorns] a cada turno"
+        },
+        {
+            "id": 838106,
+            "name": "This isn't how it ends",
+            "desc": "Fim do Turno: Se não há aliados sobreviventes nem aliados de Reserva, consome todo [FestivalFever] e [IncompleteParade] no próximo turno e fica Atordoada (ativa imediatamente se não há aliados sobreviventes no Início do Turno) ||  || No turno após esta unidade ficar Atordoada, invoca 2 Sanguinários Aparentados"
+        },
+        {
+            "id": 838107,
+            "name": "Banquete de Sangue",
+            "desc": "Se essa unidade estiver em campo ou for uma das unidades que podem aparecer nessa Fase, aumenta o valor de [BloodDinner] pela quantidade de dano de [Laceration] coletivamente recebido por todas as unidades.\nQuando essa unidade entrar em campo, o sangue dormente que encharca o campo de batalha acordará."
+        },
+        {
+            "id": 838108,
+            "name": "Starved and Withered",
+            "desc": "Gain [StarvingDolcineaOne] at the start of the Encounter"
+        },
+        {
+            "id": 838901,
+            "name": "O Cavaleiro da Lua Branca",
+            "desc": "Damage Taken -20%\nGain 3 [Enhancement] on Clash Lose"
+        },
+        {
+            "id": 838902,
+            "name": "A Close Match",
+            "desc": "Com 10+ Confrontos contra o mesmo inimigo, perde ou recebe Poder de Confronto aleatoriamente por (Contagem de Confronto / 10) em um Confronto. (arredondado para baixo)"
+        }
+    ]
+}
