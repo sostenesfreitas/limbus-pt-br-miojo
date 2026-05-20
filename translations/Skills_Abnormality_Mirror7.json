@@ -1,0 +1,1474 @@
+﻿{
+    "dataList": [
+        {
+            "id": 136401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggling Head",
+                    "desc": "Prioriza alvos com o menor HP || Se o alvo tem [Paralysis], causa +50% de dano || <color=#ff6000><mark color=#ff000040><b><u>Se o alvo usou uma Habilidade de Defesa, causa -200% de dano</color></mark></b></u> || Poder Base +1 para cada [SelfCharge] || [WhenUse] Perde 1 [SelfCharge] || [DefeatDuel] Perde 1 [SelfCharge] || [EndSkill] Se foi um Ataque Sem Oposição, perde 1 [SelfCharge] || - Se o alvo atacado por esta Habilidade usou uma Habilidade de Defesa, perde mais 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 136402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wriggling Tail",
+                    "desc": "Prioriza alvos com o menor HP || Se o alvo tem [Paralysis], causa +50% de dano || <color=#ff6000><mark color=#ff000040><b><u>Se o alvo usou uma Habilidade de Defesa, causa -200% de dano</color></mark></b></u> || Poder Base +1 para cada [SelfCharge] || [WhenUse] Perde 1 [SelfCharge] || [DefeatDuel] Perde 1 [SelfCharge] || [EndSkill] Se foi um Ataque Sem Oposição, perde 1 [SelfCharge] || - Se o alvo atacado por esta Habilidade usou uma Habilidade de Defesa, perde mais 1 [SelfCharge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 135509,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Procuration: Annihilation - Mang of Immanent Yearning [本望]",
+                    "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Em 0+ SP, gera 1 Mang</u></b></mark></color> || - <color=#ff6000><mark=#ff000040><b><u>Causa +20% de dano, Poder Final +3</u></b></mark></color> || [EndSkill] Perde 15 SP || [EndSkill] Se esta Habilidade gerou Mang, perde 20 SP || [EndSkill] Consome todo [PressureOfPrescript] e termina este turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stomping",
+                    "desc": "Se o alvo tem 4+ [Laceration], Poder de Moeda +1 || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stamp of Vengeance",
+                    "desc": "Poder Base +1 para cada 3 [Laceration] no alvo (máx. 3) || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Consome todo [ResentmentSpider] em si mesma e ganha 1 [DaughterEducationSpider]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't Let Somethin' Like This Break Ya!",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 5 de dano bônus Contundente Ao Acertar com Moeda Não Quebrada || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gonna Unbox a Layer of Packaging!",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 10 de dano bônus Contundente Ao Acertar com Moeda Não Quebrada || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] [MiddleFatherSwordOne] torna-se [MiddleFatherSwordTwo]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138207,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stomping",
+                    "desc": "Se o alvo tem 4+ [Laceration], Poder de Moeda +1 || [WhenUse] Se esta unidade tem [ReinforcedTattooSpider], aplica 1 [Laceration] Ao Acertar com Moeda || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [DefeatDuel] Ganha 1 [ParryingResultUp] no próximo turno (2 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138209,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stamp of Vengeance",
+                    "desc": "Poder Base +1 para cada 3 [Laceration] no alvo (máx. 3) || [WhenUse] Se esta unidade tem [ReinforcedTattooSpider], aplica 1 [Laceration] Ao Acertar com Moeda || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Consome todo [ResentmentSpider] em si mesma e ganha 1 [DaughterEducationSpider]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138210,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Are Ya Feelin' the Heat?!",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 10 de dano bônus Contundente Ao Acertar com Moeda Não Quebrada || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [BeforeAttack] Em 50%- HP, causa +40% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 15 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138212,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looks Like I Gotta Unbox the Second Layer, too.",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 10 de dano bônus Contundente Ao Acertar com Moeda Não Quebrada || [EndSkill] [MiddleFatherSwordTwo] torna-se [MiddleFatherSwordThree]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 5 [Vulnerable]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138213,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stomping!",
+                    "desc": "Se o alvo tem 4+ [Laceration], Poder de Moeda +1 || [WhenUse] Se esta unidade tem [ReinforcedTattooSpider], aplica 1 [Laceration] Ao Acertar com Moeda || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [DefeatDuel] Ganha 1 [SkillPowerUp] no próximo turno (2 vezes por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138215,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stamp of Complete and Total Extermination!",
+                    "desc": "Poder Base +1 para cada 3 [Laceration] no alvo (máx. 3) || [WhenUse] Se esta unidade tem [ReinforcedTattooSpider], aplica 1 [Laceration] Ao Acertar com Moeda || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Consome todo [ResentmentSpider] em si mesma e ganha 1 [DaughterEducationSpider]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpider], inflict 2 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138216,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to Melt Away and Die",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 10 de dano bônus de Talho Ao Acertar com Moeda Não Quebrada || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [BeforeAttack] Em 50%- HP, causa +40% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 15 Slash bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138218,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lævateinn - Faz Tempo Que Não Precisava Desencaixotar a Coisa Inteira!",
+                    "desc": "[WhenUse] Se esta unidade tem [ReinforcedTattooSpider], causa 10 de dano bônus de Talho Ao Acertar com Moeda Não Quebrada || [EndSkill] [MiddleFatherSwordThree] torna-se [MiddleFatherSwordFour]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Slash bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Slash bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Slash bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Vulnerable]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138220,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gut Stab [Lævateinn]",
+                    "desc": "[BeforeUse] Perde 10 SP || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo || [BeforeAttack] Em 50%- HP, causa +40% de dano || [BeforeAttack] Ganha (# de Moedas nesta Habilidade x 2) [Combustion]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 10 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +4 [Combustion] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time for Some Warm-up!",
+                    "desc": "Se o alvo tem 5+ [Laceration], Poder Base +2 || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Deal 3 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Deal 3 Blunt bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 3 Blunt bonus damage"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughter], inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crossing Dervish!",
+                    "desc": "Habilidade de Lâmina Térmica. || Quando em estado [HeatingWireOnSpider], esta Habilidade ativa seus efeitos de Lâmina Térmica || Se o alvo tem 4+ [Laceration], Poder de Moeda +1 || [WhenUse] Se esta unidade tem [ReinforcedTattooSpiderDaughter], aplica +1 Contagem de [Laceration] Ao Acertar com Moeda || [DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 Blunt bonus damage"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] If this unit has [ReinforcedTattooSpiderDaughter], inflict 2 [Binding] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Destroy the Sound, Crush Flat the Thought",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || Se esta unidade tem [BlackNightmare]: || - Converte todas as Moedas em [SuperCoin]s || - <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-Contundente</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano || - Ao Perder Embate contra uma Habilidade Contundente: || - Poder de Moeda -2 e causa -50% de dano || - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo || || Armas Contundentes aparecem com mais frequência || - Em 75+ [KarmaOfIndexRien_2Phase], aparecem com menos frequência",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain 2 [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab the Heart of Silence, Penetrate the Memory",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || Se esta unidade tem [BlackNightmare]: || - Converte todas as Moedas em [SuperCoin]s || - <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-Perfurante</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano || - Ao Perder Embate contra uma Habilidade Perfurante: || - Poder de Moeda -2 e causa -50% de dano || - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo || || Armas Perfurantes aparecem com mais frequência || - Em 75+ [KarmaOfIndexRien_2Phase], aparecem com menos frequência",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain +2 [Breath] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138109,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "With Tempered Secret, Sever the Form",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || Se esta unidade tem [BlackNightmare]: || - Converte todas as Moedas em [SuperCoin]s || - <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-de-Talho</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano || - Ao Perder Embate contra uma Habilidade de Talho: || - Poder de Moeda -2 e causa -50% de dano || - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo || || Armas de Talho aparecem com mais frequência || - Em 75+ [KarmaOfIndexRien_2Phase], aparecem com menos frequência",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain 3 [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Gain +3 [Breath] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Sinking] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138010,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Furioso-Replica",
+                    "desc": "[WideAreaRampage] || <color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color> || Pode Embater com esta Habilidade independentemente da Velocidade || [WhenUse] || - Ganha 3 [Breath] e +3 Contagem de [Breath] || - Poder de Embate +5 (<color=#ff6000><mark=#ff000040><b><u>O Poder de Embate ganho é reduzido em 1 para cada 5 [KarmaOfIndexRien] em si, até 0</u></b></mark></color>) || [WhenUse] Em 0+ SP, gera 1 Mang || - Causa +20% de dano; Poder Final +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138110,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Furioso [Crescendo]",
+                    "desc": "[WideAreaRampage] || <color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color> || Pode Embater com esta Habilidade independentemente da Velocidade || [WhenUse] || - Ganha 6 [Breath] e +6 Contagem de [Breath] || - Poder de Embate +10 (<color=#ff6000><mark=#ff000040><b><u>O Poder de Embate ganho é reduzido em 1 para cada 5 [KarmaOfIndexRien_2Phase] em si</u></b></mark></color>) || [WhenUse] Em 0+ SP, gera 2 Mangs || - Causa +40% de dano; Poder Final +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138111,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Furioso [Lacrimosa-Crescendo]",
+                    "desc": "[WideAreaRampage] || <color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color> || Pode Embater com esta Habilidade independentemente da Velocidade || [WhenUse] || - Ganha 9 [Breath] e +9 Contagem de [Breath] || - Poder de Embate +15 (O Poder de Embate ganho é reduzido em 1 para cada 5 [KarmaOfIndexRien_2Phase] em si) || [WhenUse] Em 0+ SP, gera 3 Mangs || - Causa +60% de dano; Poder Final +8 || || [WinDuel] || - Fim do Ataque: Aplica 5 [Laceration], 3 [Binding] e 3 [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reuse this Coin (7 times max)</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Installation Art no. 3: Improvised Ribcage",
+                    "desc": "[CantDuel] [CantChangeTarget] || Prioriza o inimigo de maior nível || Esta Habilidade não dispara Habilidades de Defesa || [WhenUse] Poder de Moeda +1 para cada 8 [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "This Coin does not deal HP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 15 SP on self"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack]\n<color=#ff6000><mark=#ff000040><b><u>Stagger target and turn target into [LivingSpecimenTheRings] next turn</u></b></mark></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Anatomize",
+                    "desc": "[WhenUse] Se o alvo tem 6+ [Laceration], Poder de Moeda +1 || [DefeatDuel] Causa -80% de dano final e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 4 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gather Ingredient - Blood-bathed Objet",
+                    "desc": "Prioriza Teatros do Corpus || [WhenUse] Se o alvo tem 6+ [Laceration], Poder de Moeda +1 || [DefeatDuel] Causa -80% de dano final e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tibia's Melody - Anatomization of the Unanatomized by the Anatomized",
+                    "desc": "Durante o turno em que esta unidade tem esta Habilidade equipada, ganha 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>ao ser atingida por Habilidades de Ataque</u></b></mark></color> (1 vez por Habilidade; máx. 3 vezes por turno) || Não pode ser Atordoada antes de usar esta Habilidade || Ao Abater com esta Habilidade: restaura 15 SP para cada alvo abatido || [StartBattle] Ganha 4 [Protection] || [WhenUse] Causa +3% de dano para cada 6 ([Laceration] no alvo principal + [Laceration] no subalvo) (máx. 30%) || [DefeatDuel] Causa -60% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 5 SP (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oh, Como Adoramos a Carne e o Sangue",
+                    "desc": "Prioritizes The Ring Apprentice - Albina\n[DefeatDuel] Gain <color=#ff6000><mark=#ff000040><b><u>8 [AttackDmgDown]</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "This Coin does not deal HP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "- If target is an ally, apply 6 [AttackUp] instead of the effect above"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138306,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Curating the Exhibition",
+                    "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Gain 3 [SupportProtect]</u></b></mark></color>\n[WhenUse] The attacker does not lose [Laceration] Count before Attack End",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 138307,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please. Vandalism is Prohibited.",
+                    "desc": "[DuelCounter] || Habilidade exclusiva [SupportProtect] || Não pode ser Atordoada antes de usar esta Habilidade || [WhenUse] Ganha 1 [Protection] || [WhenUse] Se o alvo tem 6+ [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 1 [ResultReduction] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [ResultEnhancement] next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 141704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time to Eat, Fascia",
+                    "desc": "[DefeatDuel] Causa -80% de dano final e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 10 SP on self"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [HumanFleshTheRings]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 141705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Liberation of the Repressed Flesh",
+                    "desc": "Durante o turno em que esta unidade tem esta Habilidade equipada, ganha 1 [PlusCoinValueDown] e 1 [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>ao ser atingida por Habilidades de Ataque</u></b></mark></color> (1 vez por Habilidade; máx. 3 vezes por turno) || Não pode ser Atordoada antes de usar esta Habilidade || Ao Abater com esta Habilidade: restaura 15 SP para cada alvo abatido || [StartBattle] Ganha 4 [Protection] || [WhenUse] Causa +3% de dano para cada 6 ([Laceration] no alvo principal + [Laceration] no subalvo) (máx. 30%) || [DefeatDuel] Causa -60% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Deal 5 SP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 5 SP (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [Protection] next turn (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [AttackDmgDown] next turn"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gain 1 [AttackDmgUp] next turn (once per Skill)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 141706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Exhibition Begins",
+                    "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u> Gain 2 [SupportProtect]</u></b></mark></color>\n[StartBattle] Gain 1 [Agility] next turn",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sezionatura di Coniglio",
+                    "desc": "At 6+ [Breath], Coin Power +1\n[WhenUse] Base Power +1 for every 4 ([Combustion] + [Vibration]) on target (max 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Combustion] and +3 [Combustion] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Precognition",
+                    "desc": "Ao esquivar com sucesso de todas as Moedas de uma Habilidade, usa \"Sezionatura di Coniglio\" como Ataque Sem Oposição contra o atacante || [WhenUse] <color=#ff6000><mark=#ff000040><b><u>Poder Base +1 a cada 3 Cargas de [FutureEyeOn]</u></b></mark></color> || [WhenUse] [FullReload] (1 vez por turno) || [OnSucceedEvade] Ganha 3 [Breath] (2 vezes por turno) || [OnDefeatEvade] Perde 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+﻿{
+    "dataList": [
+        {
+            "id": 131911,
+            "name": "Iron Maiden - Defibrillation",
+            "desc": "Upon entry, heal 30 SP"
+        },
+        {
+            "id": 135201,
+            "name": "Hunter's Mark",
+            "desc": "A cada 3 turnos, seleciona um inimigo aleatório, reduz a Velocidade dele para 1, e mira-o com todas as Habilidades desta unidade || (Se este efeito não pôde ser ativado por causa de Atordoamento, ativa-o no próximo turno)"
+        },
+        {
+            "id": 135501,
+            "name": "Prescript Delivered on a Device",
+            "desc": "Início do Encontro: Ganha Escudo equivalente a 20% do HP máx. (permanece por todo este Encontro) || || Início do Turno: || - Ganha [IndexPrescript_Base_2nd] com base no estágio [UnlockBuff_Base] em si mesma || - <color=#ff6000><mark=#ff000040><b><u>Aplica [IndexPrescriptTargetToPersonality] em um inimigo aleatório e prioriza atacá-lo</u></b></mark></color> || || Causa +2,5% de dano a [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 20%) || - Em 9 [BlessingOfIndexPrescriptEnemy], causa +30% de dano a todos os alvos em vez disso"
+        },
+        {
+            "id": 135503,
+            "name": "Unlock",
+            "desc": "Fim do Turno: Em 3/6/9 [BlessingOfIndexPrescriptEnemy] ou em 90%-/70%-/50%- HP, || - Ganha [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3] || - Restaura a 45 SP || - Consome todo [PressureOfPrescript] e recupera-se do Atordoamento || - Ganha 1 [BlessingOfIndexPrescriptEnemy] no turno após [UnlockBuff_Base] ter sido ganho pela primeira vez || || Se [UnlockBuff_Base] foi ganho com base na condicional de HP acima, || - Ganha [KarmaOfIndexStudent] em (soma de SP restaurado / 15) || - Aumenta [BlessingOfIndexPrescriptEnemy] para o valor correspondente"
+        },
+        {
+            "id": 135505,
+            "name": "Concentration",
+            "desc": "Em [UnlockBuff_3], aplica os seguintes efeitos: || - [BlandishmentShinEnemyDelete], ganha Escudo equivalente a 50% do HP máx. (dura pelo restante deste Encontro) || - Intensifica [PressureOfPrescript] para [PressureOfPrescript_2nd] e maximiza sua Carga || - Início do Turno: Ganha 1 [PressureOfPrescript_2nd]"
+        },
+        {
+            "id": 141801,
+            "name": "Desperate Struggle",
+            "desc": "- Início do Turno: Ganha 3 [SupportProtect] || - Quando o Pai Tutor do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
+            "summary": "",
+            "undefined": "",
+            "flavor": "'Talvez eu possa matá-la agora. Talvez esta seja minha chance.' || || Mais uma vez, a mesma contemplação toma conta de Lúcio enquanto ele se ergue sobre sua mestra, que dorme profundamente. || Mas esse impulso permanece um pensamento não acionado, pois ele tinha tanto medo nascido da experiência quanto gratidão por sua libertação dos Becos. || Ainda assim, seu ressentimento corre fundo demais. Lúcio faz uma promessa consigo mesmo, mesmo enquanto jura fidelidade absoluta sem traço de engano: || 'Quando esta batalha estiver atrás de nós, eu a matarei.'"
+        },
+        {
+            "id": 137901,
+            "name": "Authority Unbroken",
+            "desc": "Take -50% final damage if \"The Thumb Apprentice - Lucio\" is on the field"
+        },
+        {
+            "id": 137911,
+            "name": "The Eye of Precognition",
+            "desc": "Ao entrar no Encontro, ganha 30 [FutureEyeOnMirror] || Com 0 de Carga de [FutureEyeOnMirror], converte [FutureEyeOnMirror] para [FutureEyeOffMirror]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "Esta Relíquia, conhecida como o Olho de Odin, é apenas um terço de uma Relíquia inteira que foi partida em três."
+        },
+        {
+            "id": 137902,
+            "name": "Accelerating Future",
+            "desc": "Em um Embate, <color=#ff6000><mark=#ff000040><b><u>ganha 1 [LookingFuture] a cada Embate</u></b></mark></color> || Pode ganhar até ([FutureEyeOnMirror] Carga no Início do Turno / 3) [LookingFuture] por turno || Enquanto esta unidade tem [FutureEyeOnMirror], <color=#ff6000><mark=#ff000040><b><u>ser atacada por Ataques Sem Oposição ou perder um Embate ativa a Habilidade \"Precognição\"</u></b></mark></color>",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Quanto mais embatemos, mais quente fica minha lâmina... e acelera para nos levar ao futuro que previ.\""
+        },
+        {
+            "id": 137908,
+            "name": "Overloaded",
+            "desc": "O seguinte faz esta unidade perder Carga de [FutureEyeOnMirror]: || - Se esta unidade falha em ganhar [LookingFuture], perde 1 [FutureEyeOnMirror] a cada Embate || - Quando esta unidade é atacada por um Ataque Sem Oposição, perde 1 [FutureEyeOnMirror] || - Ao Perder Embate, perde 3 [FutureEyeOnMirror]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'The eye's heating up, its socket is starting to ache, and my vision is turning red.'"
+        },
+        {
+            "id": 137905,
+            "name": "La Spada di Palermo",
+            "desc": "Causa +15% a mais de dano contra Escudos para cada Queimadura no alvo principal (máx. 300%) || Ao Usar Habilidade, se a Habilidade de Ataque do alvo é Talho ou Perfuração, Poder de Embate +1 || Se os efeitos da Habilidade desta unidade dispararam [VibrationExplosion], ganha 2 [AttackDmgUp] no próximo turno (3 vezes por turno) || Se esta unidade acertou Criticamente com os efeitos da Habilidade, restaura 5 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 137904,
+            "name": "The Shame of Famiglia Bognatelli",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Laceration], [Burst], [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Com 1+ [AccelBullet], Habilidades que gastam [AccelBullet] causam +30% de dano e causam +150% de dano contra Escudos || Ganha 4 [Breath] para cada [AccelBullet] gasto || Ao lançar uma Moeda que gasta [AccelBullet], não cancela o ataque mesmo que esta unidade não tenha Tiro de Aceleração",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Tu eras uma herdeira do estilo Palermitano e portadora da relíquia de família — tinhas todo privilégio com que alguém poderia sonhar. Como ousas envergonhar-te assim?\" || \"Deixaremos que fiques com a Relíquia e a espada, pois foram contaminadas pelo teu fedor desonroso.\" || \"Ser promovida ao posto de Sottocapo, uma Subchefe... só para ser deposta em meros 3 dias. Ninguém mais sofreu humilhação tão patética além de ti, Valencina.\" || \"És a vergonha da nossa família. La Famiglia Bognatelli retira o seu amor de ti.\""
+        },
+        {
+            "id": 137909,
+            "name": "Shin (心) - Valencina",
+            "desc": "Ao ser atingido, ou quando \"O Aprendiz do Polegar - Lúcio\" é derrotado, ganha [ObsessionAndGreed] no próximo turno",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"*suspiro* Tá. Então, você está dizendo que a gente consegue o Ticket de volta indo lá e destruindo o lugar segundo o plano daquele fanático... Isso vai trazer mesmo o Ticket de volta pra gente?\""
+        },
+        {
+            "id": 137906,
+            "name": "Lucio, you useless little shit!",
+            "desc": "When \"The Thumb Apprentice - Lucio\" is defeated, activate \"Time to Hunt\" Passive",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 137910,
+            "name": "Time to Hunt",
+            "desc": "Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento || || Seleciona um Pecador aleatoriamente e aplica [TeachersPrey] || - Ativa-se a cada 4 turnos após a ativação inicial || - Se esta unidade matar o alvo com a Habilidade \"Disposal\", ativa-a novamente no próximo turno",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "O Estilo Palermitano tem muito em comum com a originadora da técnica da espada — La Famiglia Bognatelli. || Tanto a Famiglia quanto o estilo da espada são renomados por focar implacavelmente em uma única presa durante uma caçada, que é concluída com um Coup de Grâce que poderia muito bem ser chamado de dissecação. Essas execuções não são realizadas nas sombras, mas, em vez disso, orgulhosamente exibidas para todos verem. || O estilo de espada espetacular e formidável concedeu à Famiglia muita honra e prestígio, garantindo-lhes um lugar entre as Sette Famiglie dos Becos. || Valencina, mestre do Estilo Palermitano, usou-o para caçar e executar muitos oficiais e os ditos soldados experientes durante a Guerra da Fumaça, tornando-se uma verdadeira \"Heroína de Guerra\". || Ironicamente, ninguém poderia ter imaginado que sua queda afundaria tão baixo quanto sua fama outrora se elevou."
+        },
+        {
+            "id": 138201,
+            "name": "Vengeance Tattoos [<s>Great Brother</s>]",
+            "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration] e [Burst] (arredondado para baixo) || -50% da quantidade de Limiar de Atordoamento elevado (arredondado para baixo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 138202,
+            "name": "The Book of Vengeance",
+            "desc": "Início do Encontro: Aplica [VengeanceBookSpider] em todos os Pecadores || || Se esta unidade acertou com mais de 3 Habilidades neste turno, ganha 1 [ReinforcedTattooSpider] no próximo turno para cada Habilidade excedente que acertou",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 138203,
+            "name": "My Daughter's Education",
+            "desc": "Ao Vencer Embate, ganha 1 [DaughterEducationSpider] || || Ao Acertar com uma Habilidade, ganha 1 [DaughterEducationSpider] (1 vez por Habilidade; este efeito não ativa para Moedas Trincadas) || || Ao Vencer Embate com a primeira Habilidade usada em um turno, ganha mais 1 [DaughterEducationSpider] e a Habilidade ganha Poder de Moeda +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 138204,
+            "name": "Resentment",
+            "desc": "Ao ser atingida por 2 Habilidades, ganha 1 [ResentmentSpider] e perde 1 [DaughterEducationSpider] (o número de acertos sofridos é sempre rastreado) || || Em Carga máxima de [ResentmentSpider], usa um ataque poderoso || || Fim do Turno: Com menos de 90% / 60% / 40% de HP, maximiza a Carga de [ResentmentSpider] desta unidade"
+        },
+        {
+            "id": 138205,
+            "name": "Vengeance Tattoos Max Output... Unseal Lævateinn!",
+            "desc": "When [MiddleFatherSwordFour] is unsealed, this unit gains [MiddleFatherGutsMirror]"
+        },
+        {
+            "id": 138801,
+            "name": "Am I doing this right, Papa?!",
+            "desc": "Inicia o Encontro com [HeatingWireOffSpider] || || Início do Turno: Com 3+ [GotACompliment], ganha [HeatingWireOnSpider] e também aplica [Combustion] com Habilidades que aplicam [Laceration] || - Fim do Turno: Com menos de 3 [GotACompliment], converte [HeatingWireOnSpider] desta unidade para [HeatingWireOffSpider] || || Se \"O Pai Tutor do Médio - Matthias\" tem [MiddleFatherSwordFour], esta unidade não entra no estado [HeatingWireOffSpider]",
+            "flavor": "\"Eu gosto do papai porque ele sempre me elogia e me compra gibis.\""
+        },
+        {
+            "id": 138802,
+            "name": "The Middle Styled Tattoos",
+            "desc": "Se esta unidade acertou com mais de 2 Habilidades, ganha 1 [ReinforcedTattooSpiderDaughter] no próximo turno para cada Habilidade excedente que acertou",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'Será que as Irmãs e Irmãos maiores do Médio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
+        },
+        {
+            "id": 138803,
+            "name": "Praise is the Wind in Her Sail",
+            "desc": "Ao Vencer Embate, ganha 1 [GotACompliment] || || Ao Acertar com uma Habilidade, ganha 1 [GotACompliment] (1 vez por Habilidade; este efeito não ativa para Moedas Trincadas) || || Ao Vencer Embate com a primeira Habilidade usada em um turno, ganha mais 1 [GotACompliment] e a Habilidade ganha Poder de Moeda +1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 138804,
+            "name": "I'm pretty sure the Middle never forgets",
+            "desc": "Ao ser atingida por 2 Habilidades, ganha 1 [ResentmentSpiderDaughter] e perde 1 [GotACompliment] (o número de acertos sofridos é sempre rastreado) || || Em Carga máxima de [ResentmentSpiderDaughter], usa um ataque poderoso || || Fim do Turno: Com menos de 80% / 60% / 40% de HP, maximiza a Carga de [ResentmentSpiderDaughter] desta unidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 138001,
+            "name": "Rien, The Index Nursefather",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Recebe -50% de dano de Ataques Sem Oposição</u></b></mark></color> || Recebe -50% de dano de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking] || Ao restaurar SP por [UnlockBuff_Base], se o SP desta unidade está abaixo de 15, restaura SP até 15 || || Início do Encontro: Ganha [BurningWoundRien_Mask] e restaura SP até 30 || || Em 55%- HP, termina o turno e ganha um novo padrão || - Remove todos os efeitos exceto os exclusivos desta unidade || - Em menos de 9 [StackRienSpecialSkill], maximiza para 9",
+            "flavor": "Esperei pelo \"momento\" como o Prescript me disse para esperar. || Mesmo depois que minha querida filha partiu, esperei. || || E após um tempo, fui contatado pela Limbus Company e vi que o Backdoor estava aberto. || Foi quando o dispositivo apitou e me avisou que finalmente era hora de trazer minha filha pra casa."
+        },
+        {
+            "id": 138002,
+            "name": "Oracle Device [Caduceus]",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color> || - [RienWeapon01Hatchet] || - [RienWeapon02Stiletto] || - [RienWeapon03Greatsword] || - [RienWeapon04Rapier] || - [RienWeapon05Sledgehammer] || - [RienWeapon06Ultragreatsword] || - [RienWeapon07Lance] || - [RienWeapon08Chain] || - [RienWeapon09Scythe] || || Ao usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill] (máx. 9) || - Pode ser ganho 1 vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes",
+            "flavor": "Um frasco com algo parecido com metal líquido capaz de mudar de forma e massa, com qualidades quase como as de Singularidades, balança dentro do Dispositivo. || A forma que o fluido toma depende do Prescript que o Dispositivo recebe. As armas que produz dependem das informações sobre o alvo e do limite de tempo dado para realizar o assassinato. || Um dia, ao receber uma adaga pequena demais para a tarefa, ele optou por esperar até que produzisse uma arma diferente. Contudo, apesar do prazo se aproximando, ele se recusou a fornecer uma arma adequada; ele não teve escolha senão matar seu alvo com um garfo."
+        },
+        {
+            "id": 138003,
+            "name": "Will of the Prescript",
+            "desc": "Início do Turno: || - Ganha [IndexPrescript_Base_2nd] com base no estágio [UnlockBuff_Base] em si mesma || - Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório, e prioriza atacá-lo || <color=#ff6000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color> || || Ao atacar, se [IndexPrescriptTargetToPersonality] é morto, ou se esta unidade não pode mais atacar aquele alvo, <color=#ff6000><mark=#ff000040><b><u>usa as Habilidades restantes contra um Pecador aleatório</u></b></mark></color>",
+            "flavor": "Queres que eu crie uma família? || || \"Deve ter sido o destino que nos juntou. Pensar que eu encontraria um marido como você...\""
+        },
+        {
+            "id": 138004,
+            "name": "Undertake Prescript",
+            "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, restaura 10 SP e ganha 3 [BlessingOfIndexPrescriptEnemy] (1 vez por turno) || || <color=#ff6000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 8 [KarmaOfIndexRien]</u></b></mark></color> || - Se esta unidade não tem [UnlockBuff_Base], ganha 1 [BlessingOfIndexPrescriptEnemy] ao Fim do Turno || - Em 9 [BlessingOfIndexPrescriptEnemy], não ganha [KarmaOfIndexRien]",
+            "flavor": "Queres que eu perca minha família? || || \"Querido, eu tenho que dar uma viagem rápida pro norte hoje.\" || \"Ah, e também — ei, parceiro. Estou esperando uma encomenda esta tarde, então você pode ser uma graça e pegar pra mim, querido?\""
+        },
+        {
+            "id": 138005,
+            "name": "Unlock",
+            "desc": "Fim do Turno: Em 3/6/9 [BlessingOfIndexPrescriptEnemy] ou em 95%-/85%-/75%- HP, || - Ganha [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3] || || Fim do Turno 1: Em estágio menor que [UnlockBuff_Base] 1, ganha [UnlockBuff_Rien1] || Fim do Turno 2: Em estágio menor que [UnlockBuff_Base] 2, ganha [UnlockBuff_Rien2] || || Ao ganhar [UnlockBuff_Base] pela primeira vez, se o SP desta unidade está abaixo de 15, restaura até 15 SP || || Quando [UnlockBuff_Base] é ativado devido a condicionais de HP ou Turno: || - Em Carga menor que 3/6/9 de [BlessingOfIndexPrescriptEnemy], eleva para 3/6/9",
+            "flavor": "\"Following the Prescripts is to unlock what is locked.\""
+        },
+        {
+            "id": 138101,
+            "name": "Rien, the Father [Imitation]",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Recebe -75% de dano de Ataques Sem Oposição</u></b></mark></color> || Recebe -75% de dano de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking] || Ao restaurar SP por [UnlockBuff_Base], se o SP desta unidade está abaixo de 15, restaura até 15 SP || || Quando esta unidade entra em uma nova fase em 55% de HP, ganha os seguintes efeitos: || - Remove todos os efeitos exceto os exclusivos desta unidade || - Ganha [IndexPrescript_RienSecondPhase] || - Converte [BurningWoundRien_Mask] em [BurningWoundRien]",
+            "flavor": "Uma vez, ele nutriu a suspeita de estar sendo moldado em imitação de alguém; duvidou da Vontade e quase a desafiou, pois não sabia quem deveria imitar. Só quando foi tarde demais é que entendeu sua intenção e veio a aceitar a vontade do Prescript. || Só então o falso pai foi completado."
+        },
+        {
+            "id": 138102,
+            "name": "Oracle Device [Caduceus] - Full Unlock",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color> || - [RienWeapon01Hatchet2phase] || - [RienWeapon02Stiletto2phase] || - [RienWeapon03Greatsword2phase] || - [RienWeapon04Rapier2phase] || - [RienWeapon05Sledgehammer2phase] || - [RienWeapon06Ultragreatsword2phase] || - [RienWeapon07Lance2phase] || - [RienWeapon08Chain2phase] || - [RienWeapon09Scythe2phase] || || Ao usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill]",
+            "flavor": "Uma arma sem paralelo e uma maldição concedida por Hermes, um deus da Cidade cujos Prescripts são distribuídos por ondas de rádio."
+        },
+        {
+            "id": 138103,
+            "name": "Will of the Prescript",
+            "desc": "Início do Turno: || - Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório, e prioriza atacá-lo || <color=#ff6000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color> || - Ganha [Protection] equivalente a [BlessingOfIndexPrescriptEnemy] (máx. 9) || <color=#ff6000><mark=#ff000040><b><u> || · Perde 1 Carga para cada 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color> || || Ao atacar, se [IndexPrescriptTargetToPersonality] é morto, ou se esta unidade não pode mais atacar aquele alvo, usa as Habilidades restantes contra um Pecador aleatório",
+            "flavor": "Eu criei uma família. || || \"Você não devia estar aqui agora.\" || \"Meu trabalho ainda está muito em andamento, e eu gostaria de esculpi-los em paz para que atinjam a beleza mais primorosa que posso esculpir.\" || \"... Não me diga, você veio aqui pra desafiar o Prescript?\""
+        },
+        {
+            "id": 138104,
+            "name": "Undertake Prescript",
+            "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, restaura 15 SP e ganha 1 [BlessingOfIndexPrescriptEnemy] (1 vez por turno) || || <color=#ff6000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 8 [KarmaOfIndexRien_2Phase] e perde 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color> || - Se esta unidade usou uma Habilidade poderosa neste turno, ganha 12 [KarmaOfIndexRien_2Phase] e perde 2 [BlessingOfIndexPrescriptEnemy] em vez disso",
+            "flavor": "Eu... perdi minha família. || || \"Não vá...\" || \"Não vá... Não... assim... Papai... Por favor... ajude a gente...\""
+        },
+        {
+            "id": 138301,
+            "name": "All of My Corpus has been Given to Tibia",
+            "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Vibration], [Burst] e [Sinking] || Recebe -50% de dano de [Laceration] || || Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento. Em seguida, ganha 2 [CrimsonTakeDamageUp] e fica incapaz de usar 'Installation Art no. 3: Improvised Ribcage' até o próximo turno (1 vez por Encontro) || || Fim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si mesma (máx. 15)"
+        },
+        {
+            "id": 138306,
+            "name": "Allow Me to Briefly Enjoy My Pupil's Exhibition",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 141704,
+            "name": "Visitors Must Respect the Rules of the Gallery",
+            "desc": "If this unit has [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>lose 1 [SupportProtect] on Clash Start</u></b></mark></color> (once per Skill)"
+        },
+        {
+            "id": 141706,
+            "name": "Com Esta Obra, Provarei o Meu Valor Diante do Maestro",
+            "desc": "Com menos de 20 SP quando a Mãe Tutora do Anelar entra no Encontro, restaura SP a 20"
+        },
+        {
+            "id": 138302,
+            "name": "Please, Do Stop Running and Be Seated",
+            "desc": "Fim do Turno: Aplica [RedemptionTheRings] no próximo turno ao Pecador com maior Velocidade"
+        }
+    ]
+}
