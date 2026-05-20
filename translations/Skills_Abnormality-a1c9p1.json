@@ -1,0 +1,1323 @@
+﻿{
+    "dataList": [
+        {
+            "id": 130601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "La Spada di Palermo",
+                    "desc": "Se o alvo tiver 6+ de [Vibration], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Colpi Sottani",
+                    "desc": "Poder Base +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Il Cacciatore",
+                    "desc": "Poder de Moeda +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 2)\n\n[WhenUse] Se o alvo tiver [DuelEdge], converte todas as Moedas dessa Habilidade em [SuperCoin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [FusionVibration] para [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Recebe 2 [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sezionatura di Cervo",
+                    "desc": "[CantChangeTarget]\nNão pode ser Atordoado antes de usar essa Habilidade\n\nPara <color=#ff6000><mark color=#ff000040><b><u>cada Habilidade Ofensiva dessa unidade que perdeu um Confronto esse turno</color></mark></b></u>, Poder Final -2 e Peso de Atq -1\n(Mín. Peso de Atq: 1)\n\n[DefeatDuel] Causa -90% de Dano e Dano Causado por essa Habilidade não pode Atordoar o alvo\n[DefeatDuel] Perca 15 PS; no próximo turno, ganhe 6 Nível Ofensivo Reduzido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [FusionVibration] em [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo por 2 "
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo por 2 "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Medindo da Ponta da Espada",
+                    "desc": "[DuelCounter]\nSe o alvo tiver 2+ [DuelEdge], Causa +30% de Dano\n\n[WinDuel] Inflige 1 [DuelEdge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fruta Vã",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Me Traga a Branca de Neve.",
+                    "desc": "[WhenUse] Com 5+ de ([Laceration] + [Burst]) no alvo, Poder Base+5\n[WhenUse] Se essa unidade tiver  [HowDareYouApple],, recebe +2 Peso de Atq",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 10 de dano de PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Que Insolência!",
+                    "desc": "[WhenUse] Poder de Moeda +2 para cada 4 de ([Laceration] + [Burst]) no alvo (máx. 4)\n[WhenUse] Se essa unidade tiver [HowDareYouApple],, recebe +2 Peso de Atq\n[DefeatDuel] Recebe os seguintes efeitos:\n- Recebe 2 de [Paralysis]\n- Causa -50% de dano\n- Esta Habilidade não pode Atordoar o alvo\n- Não ativa [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano de PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano de PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Só mais um pouco...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desconfiança",
+                    "desc": "[WhenUse] Poder de Moeda +2 para cada 3 de ([Laceration] + [Burst]) no alvo (máx. 4) ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130706,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Caule Pálido",
+                    "desc": "[WhenUse] Poder Final +3 para cada 4 de ([Laceration] + [Burst]) no alvo (máx. 6)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130707,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Caule Espinhoso",
+                    "desc": "[WhenUse] Poder Final +3 para cada 4 de ([Laceration] + [Burst]) no alvo (máx. 6)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130708,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Dor Compartilhada",
+                    "desc": "[WhenUse] Poder Final +3 para cada 4 de ([Laceration] + [Burst]) no alvo (máx. 6)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130709,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Espinho de Raiz",
+                    "desc": "[DefeatDuel] Recebe os seguintes efeitos:\n- Recebe 1 de [Paralysis]\n- Causa -80% de dano\n- O dano causado por essa Habilidade não pode Atordoar o alvo\n- Não ativa [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +5 Contagem de [Laceration] no próximo turno"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige (soma das Potências de todos os efeitos negativos no alvo) de [Laceration] ou [Burst] (máx. 30)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130711,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Raízes Invejosas",
+                    "desc": "Esta Habilidade não causa dano\n[WhenUse] Contome todo [HowDareYouApple] em si e Reusar suas Moedas igual aos Acúmulos de [HowDareYouApple] consumidos (máx. 4)\n[DefeatDuel] Esta Habilidade não ativa [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130712,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Raízes Escavadoras",
+                    "desc": "[WhenUse] Poder de Confronto +1 para cada 4 de ([Laceration] + [Burst]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130713,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fruta Vã",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Despedaçar - Costelas",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Protection] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Vendaval Lancinante",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rupturar Tendão",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [ResultReduction] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [ResultEnhancement] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fascia Esfomeada",
+                    "desc": "[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 5 PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [HumanFleshTheRings]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Carne Oprimida",
+                    "desc": "Durante o turno em que esta unidade tem esta Habilidade equipada, ganha os seguintes efeitos: || - <color=#ff6000><mark=#ff000040><b><u>Ao ser atingida por Habilidades de Ataque</u></b></mark></color> antes de usar esta Habilidade, ganha 1 [UnsteadyTheRings] (uma vez por Habilidade inimiga; incluindo Habilidades E.G.O) || - Não ativa os efeitos da Passiva \"Donzela de Ferro[TabExplain] - Espinhos\" || - Esta unidade não pode ser Atordoada antes de usar esta Habilidade ||  || Em Morte com esta Habilidade: cura 15 SP || [WhenUse] Poder de Moeda +1 para cada 4 [Laceration] no alvo (máx. 4) || [WhenUse] Causa +10% de dano para cada 2 [Laceration] no alvo (máx. 100%) || [DefeatDuel] Dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Perde [BoneBladeTheRings]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 5 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Protection] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [AttackDmgDown] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [AttackDmgUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Preparativos para Exibição",
+                    "desc": "[StartBattle] Quando atingido por Habilidades Ofensivas, inflige +1 Contagem de [Laceration] contra o atacante (incluí Habilidades E.G.O)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131907,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cortina de Ferro",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>Multiplica o dano da Passiva \"Donzela de Ferro[TabExplain] - Espinhos\" em 20</u></b></mark></color> (este efeito não pode ser desabilitado por Anular esta Habilidade) || [StartBattle] Ao ser atingida por Habilidades de Ataque, aplica +1 Contagem de [Laceration] contra o atacante (incluindo Habilidades E.G.O)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desvio Curvado [回]",
+                    "desc": "[StartBattle] Ganha 8 [Breath] || - Se o Slot de Habilidade usando esta Habilidade é alvo principal de uma Habilidade de Ataque, ganha 4 a menos de Potência de [Breath] deste efeito ||  || [OnSucceedEvade] Ganha 1 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Defender [守]",
+                    "desc": "[CanDuelGuard] || [StartBattle] Ganha +4 Contagem de [Breath] || - Se o Slot de Habilidade usando esta Habilidade é alvo principal de uma Habilidade de Ataque, ganha 2 a menos Contagem de [Breath] deste efeito ||  || [WinDuel] Ganha +1 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Refletir [反]",
+                    "desc": "[DuelCounter]\n[DefeatDuel] Perde -1 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Não Nomeado [無名閃]",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +50% de dano em Acerto Crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte em Cadeia [連鎖斬]",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [SlashTakeDamageUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131807,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Assassinato da Estrela Caída [落星一殺]",
+                    "desc": "Pode Confrontar com essa Habilidade independente de Velocidade\nCausa 1% de dano para cada [DicipleLittleFinger] em si\n[WhenUse] Poder de Moeda +1 para cada 10 de [DicipleLittleFinger] em si\n[DefeatDuel] Causa -50% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +50% de dano em Acerto Crítico"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa dano Cortante igual ao dano final desta moeda."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131808,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Postura Recuada [收勢]",
+                    "desc": "[StartBattle] Recebe 10 x (Contagem de [DicipleLittleFinger]  em si) PV de Escudo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131809,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Golpe Duplo [二擊]",
+                    "desc": "[WinDuel] Recebe 1 de [DicipleLittleFinger]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131810,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Golpe Triplo [三擊]",
+                    "desc": "[WinDuel] Recebe 1 de [DicipleLittleFinger]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Causa +30% de Dano em Acerto Crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Isca Mordida",
+                    "desc": "[CantDuel]\nPrioriza Pecadores  com [FairyCharm]\nO Peso de Atq desta habilidade = Número de Pecadores com [FairyCharm]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] O Núcleo e Corpo cura 15 PV"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Raízes Escavadoras",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Raízes Crescentes",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Caules Desgastados",
+                    "desc": "[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]\n[OnSucceedAttack] Causa +5% de dano para cada [Burst] no alvo (Máx. 100%) "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Abismo Descoberto",
+                    "desc": "Se o alvo tiver 5+ de [Burst], causa +100% de dano\n[DefeatDuel] Causa -80% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130806,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Consciência Encantada",
+                    "desc": "Atacar o Lampião das Fadas não causa dano.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130807,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Isca Mordida",
+                    "desc": "[CantDuel]\nNão pode ser Atordoado antes de usar esta Habilidade\nPrioriza Pecadores  com [FairyCharm]\nO Peso de Atq desta habilidade = Número de Pecadores com [FairyCharm] ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de [Burst] e +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] e +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] O Núcleo e o Corpo cura 30 PV"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Dimensional",
+                    "desc": "[WhenUse] Recebe +3 Contagem de [Charge]\n[DefeatDuel] Consome 2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cortes Dimensional Consecutivos",
+                    "desc": "[WhenUse] Recebe +3 Contagem de [Charge]\n[DefeatDuel] Consome 2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Descarregar Subprodutos",
+                    "desc": "[WhenUse] Recebe +4 Contagem de [Charge]\n[DefeatDuel] Consome 2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Espacial",
+                    "desc": "Com 10+ Contagem de [Charge], consome 10 Contagem de [Charge] para receber +5 Poder de Confronto e causar +100% de dano\nCom menos que 10 Contagem de [Charge], consome 100 de PV do Núcleo e causa +80% de dano\nOs PVs dessa unidade não podem cair abaixo de 0 devido aos efeitos desta Habilidade\n[DefeatDuel] Recebe os seguintes efeitos:\n- Recebe 2 de [Paralysis]\n- Causa -80% de dano\n- Esta Habilidade não pode Atordoar o alvo\n- Não ativa [Burst] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Recebe +2 Contagem de [Charge]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Retribuição Preparada",
+                    "desc": "[WhenUse] Recebe +1 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Vomitar Subprodutos",
+                    "desc": "[WhenUse] Se o alvo principal tiver [DimensionRift], causa +10% de dano\n[DefeatDuel] Consome 2 Contagem de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [DimensionRift]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130907,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Espacial De Alta Velocidade",
+                    "desc": "Pode Confrontar com essa Habilidade independente de Velocidade; Não pode ser Atordoado antes de usar esta Habilidade\n[DefeatDuel]\n- Recebe 2 de [ResultReduction] e 1 de [Paralysis]\n- Causa -90% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo\nRecebe 1 de Poder de Confronto para cada efeito Dimensional em si\nCausa +10% para cada efeito Dimensional em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130908,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Oportunidade Encontrada",
+                    "desc": "[WhenUse] Se o alvo tiver [DimensionRift], causa +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 130909,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ataque de Fenda",
+                    "desc": "[WhenUse] Se o alvo tiver [DimensionRift], causa +10% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [DimensionRift]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Salto Dimensional",
+                    "desc": "If this 'Dimensional Rift' remains, deal +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Salto Dimensional",
+                    "desc": "If this 'Dimensional Rift' remains, max HP +20%",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Salto Dimensional",
+                    "desc": "If this 'Dimensional Rift' remains, gain 1 Speed",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 131301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Salto Dimensional",
+                    "desc": "If this 'Dimensional Rift' remains, Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

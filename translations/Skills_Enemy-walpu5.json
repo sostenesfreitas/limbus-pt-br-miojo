@@ -1,0 +1,311 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9017801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Orientação das Engrenagens",
+                    "desc": "[WhenUse] Recebe 2 de [Smoke]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [Smoke]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem Carnal: Parar",
+                    "desc": "[WhenUse] Recebe 4 de [Smoke] e +2 Contagem de [Smoke]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Vapor",
+                    "desc": "Poder de Embate +1 para cada 3 [Smoke] no alvo (máx. 2) || Causa +10% de dano para cada 3 [Smoke] em si (máx. 20%) || [WhenUse] Em 10 [Smoke], Poder de Moeda +2 || [EndSkill] Consome toda [Smoke] em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reusa esta Moeda para cada 3 de [Smoke] no alvo (máx. 3 vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ordens de Esquiva",
+                    "desc": "[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guiado pelas Engrenagens",
+                    "desc": "[WhenUse] Recebe 2 de [Smoke]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [Smoke]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem Carnal: Agarrar",
+                    "desc": "[WhenUse] Recebe 4 de [Smoke] e +2 Contagem de [Smoke]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Binding] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ordens de Assalto",
+                    "desc": "Poder de Embate +1 para cada 3 [Smoke] no alvo (máx. 2) || Causa +10% de dano para cada 3 [Smoke] em si (máx. 20%) || [WhenUse] Em 10 [Smoke], Poder de Moeda +2 || [EndSkill] Consome toda [Smoke] em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reusa esta Moeda para cada 3 de [Smoke] no alvo (máx. 3 vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9017904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ordens de Esquiva",
+                    "desc": "[OnSucceedEvade] Gain 3 [Smoke] and +1 [Smoke] Count\n[OnSucceedEvade] At 10 [Smoke], gain 1 [ParryingResultUp] and 3 [Protection] next turn (once per turn)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem Carnal: Ordenar",
+                    "desc": "[WhenUse] Recebe 3 de [Smoke] e +2 Contagem de [Smoke]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Smoke] e +2 Contagem de [Smoke]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem de Pensamento: Coletar",
+                    "desc": "[WhenUse] Recebe 4 de [Smoke] e +2 Contagem de [Smoke]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Smoke] e +2 Contagem de [Smoke]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem Carnal: Restringir",
+                    "desc": "Poder de Moeda +1 para cada 3 [Smoke] no alvo || Causa +10% de dano para cada 3 [Smoke] em si || Consome 3 [Smoke] em si toda vez que esta Habilidade Reusa Moeda || [WhenUse] Em 10 [Smoke], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reusa esta Moeda para cada 5 de [Smoke] no alvo (máx. 2 vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem de Pensamento: Eliminar",
+                    "desc": "Poder de Embate +1 para cada 3 [Smoke] no alvo || Causa +20% de dano para cada 3 [Smoke] em si || [WhenUse] Em 10 [Smoke], Poder de Moeda +2 || [EndSkill] Consome toda [Smoke] em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Smoke]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Reusa esta Moeda para cada 3 de [Smoke] no alvo (máx. 3 vezes)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9018005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Engrenagem de Pensamento: Vapor",
+                    "desc": "[WhenUse] Gain 5 [Smoke] and +2 [Smoke] Count\n[WhenUse] At 10 [Smoke], gain 2 [PlusCoinValueUp] and 3 [Protection] next turn (once per turn)",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

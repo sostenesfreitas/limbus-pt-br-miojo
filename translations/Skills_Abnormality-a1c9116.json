@@ -1,0 +1,249 @@
+﻿{
+    "dataList": [
+        {
+            "id": 112701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "No More Tests",
+                    "desc": "[WhenUse] Ganha 3 [HitDamageUp] no próximo turno || [WhenUse] Se o alvo principal tem 3+ [MiddleFingerBook], converte todas as Moedas desta Habilidade em [SuperCoin]s",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Promised Suffering",
+                    "desc": "Prioriza alvos com a maior Pilha de [MiddleFingerBook] || [WhenUse] Se o alvo tem 3+ [MiddleFingerBook], converte todas as Moedas desta Habilidade em [SuperCoin]s",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] nesse turno e no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] nesse turno e no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 3) Blunt bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove todo [MiddleFingerBook] do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Enough games",
+                    "desc": "[StartBattle] Cura o SP de todos os aliados em 10 || [EndBattle] Se há aliados em Pânico, recupera-os do Pânico no próximo Início do Turno e zera o SP deles para 0 || [EndBattle] Aplica 1 [HitResultUp] em todos os aliados, incluindo esta unidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || Se o alvo principal tem 5+ [MiddleFingerBook], Poder Final +5 || [EndSkill] Remove [MiddleFingerBook] de todos os alvos atingidos",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict ([MiddleFingerBook] on the target x 10) Blunt bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Startling Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Perforating Kill",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Confronto +1\n[WhenUse] Recebe 3 de [LegStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [BurstAgility], recebe 1 de [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Etching Strike",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Burst], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cursewrit Butcherblade - Blinkstep",
+                    "desc": "Prioriza alvos com [BurstAgility]\nCausa +15% de dano para cada 2 diferença de Velocidade entre esta unidade e o alvo (Máx. 60%)\n[WhenUse] Poder de Moeda +1 para cada 5 de [Burst] no alvo (Máx. 2)\n[WhenUse] Poder Base +1 para cada 2 Contagem de [Burst] no alvo (Máx 3)\n[EndSkill] Com 10+ Velocidade, e se o alvo for derrotado, Reusa esta Habilidade contra um inimigo aleatório (uma vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Se o alvo tiver [BurstAgility], +50% de Dano"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cursewrit",
+                    "desc": "[DuelCounter]\n[WhenUse] Se o alvo tiver [BurstAgility], inflige +1 Contagem de [Burst] adicional com esta Habilidade.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

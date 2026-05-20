@@ -1,0 +1,69 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9015801,
+            "name": "Clumsy Bloodsucking",
+            "desc": "On Hit, if the target has [Laceration], heal by 5~10% of damage dealt"
+        },
+        {
+            "id": 9017501,
+            "name": "Festive Mood",
+            "desc": "Ganha 1 [FestivalFever] toda vez que esta unidade ganha buff positivo com efeitos de Habilidade (uma vez por tipo de buff) ||  || Início do Turno: ganha [FestivalFever] igual ao número de outros aliados (máx. 3) || Fim do Turno: perde [FestivalFever] igual ao número de aliados que foram mortos neste turno || Fim do Turno: cura SP igual a [FestivalFever] em si (não ativa em -45 SP) ||  || Fim do Turno: em 8+ [FestivalFever], usa uma Habilidade poderosa no próximo turno"
+        },
+        {
+            "id": 9017502,
+            "name": "Bloodsucking",
+            "desc": "On Hit, if the target has [Laceration], heal by 20% of damage dealt"
+        },
+        {
+            "id": 9017503,
+            "name": "Sangue Coagulado",
+            "desc": "Após o Ataque: Se o alvo tiver 5+ de [Laceration], recebe 1 de [HardenedBlood]"
+        },
+        {
+            "id": 9017504,
+            "name": "Thirst for Blood",
+            "desc": "- Prioriza alvos com [Laceration] || Fim do Turno: se esta unidade falhou em causar qualquer dano neste turno, ganha 2 [Vulnerable] e 2 Nível de Ataque Up no próximo turno || - Fim do Turno: se esta unidade causou dano neste turno, cura 5 SP"
+        },
+        {
+            "id": 9017505,
+            "name": "Banquete de Sangue",
+            "desc": "Se essa unidade estiver em campo ou for uma das unidades que podem aparecer nessa Fase, aumenta o valor de [BloodDinner] pela quantidade de dano de [Laceration] coletivamente recebido por todas as unidades.\nQuando essa unidade entrar em campo, o sangue dormente que encharca o campo de batalha acordará."
+        },
+        {
+            "id": 9017506,
+            "name": "Starved and Withered",
+            "desc": "Gain [StarvingDolcineaServant] at the start of the Encounter"
+        },
+        {
+            "id": 9017301,
+            "name": "Festive Sounds",
+            "desc": "Ganha 1 [FestivalFever] toda vez que esta unidade ganha buff positivo com efeitos de Habilidade (uma vez por tipo de buff) ||  || Início do Turno: ganha [FestivalFever] igual ao número de outros aliados (máx. 3) || Fim do Turno: perde [FestivalFever] igual ao número de aliados que foram mortos neste turno ||  || Fim do Turno: em 8+ [FestivalFever], usa uma Habilidade poderosa no próximo turno"
+        },
+        {
+            "id": 9017302,
+            "name": "Bloodsucking",
+            "desc": "Ao Atingir, se o alvo tiver [Laceration], cura em 15% do Dano Causado"
+        },
+        {
+            "id": 9017303,
+            "name": "Sangue Coagulado",
+            "desc": "Após o Ataque: Se o alvo tiver 8+ de [Laceration], recebe 1 de [HardenedBlood]"
+        },
+        {
+            "id": 9017304,
+            "name": "Thirst for Blood",
+            "desc": "Prioriza alvos com [Laceration] || Fim do Turno: se esta unidade falhou em causar qualquer dano neste turno, ganha 2 [Vulnerable] e 2 [AttackUp] no próximo turno"
+        },
+        {
+            "id": 9017305,
+            "name": "Bloodbag",
+            "desc": "Quando atingido, recebe +1 Contagem de [Laceration]\nRecebe 1 de [HardenedBlood] e 1 de [BloomingThorns] toda vez que esta unidade perde 20% de PV.\nSe tem outro Sanguemônio no campo, independente se for um aliado ou inimigo, aumenta [BloodDinner] em 30 ao morrer"
+        },
+        {
+            "id": 9017101,
+            "name": "Starved and Withered",
+            "desc": "Gain [StarvingPriestOne] at the start of the Encounter"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+﻿{
+    "dataList": [
+        {
+            "id": 837101,
+            "name": "Casual Opportunity",
+            "desc": "Turn Start: if this unit's Speed is faster than the target's, gain 1 [PenetrateDamageUp]"
+        },
+        {
+            "id": 837102,
+            "name": "Leisurely Breathing",
+            "desc": "Turn End: Heal 7 SP\nTurn End: Gain [Agility] equal to ([Breath] on self/4) next turn (max 3)"
+        },
+        {
+            "id": 837103,
+            "name": "Single Combat",
+            "desc": "Use Salut if the target is Staggered"
+        },
+        {
+            "id": 837104,
+            "name": "Focused Attack",
+            "desc": "Ao usar uma Habilidade contra o mesmo Slot em que esta unidade acertou com sucesso no último turno, ganha os seguintes efeitos baseados no número de turnos consecutivos em que acertou o Slot com sucesso || Reseta se esta unidade falhou em atacar no último turno. || - 1 Acerto Consecutivo: Poder de Embate +1 || - 2 Acertos Consecutivos: Poder Base +1 || - 3 Acertos Consecutivos: Poder Base +1, Poder de Moeda +1"
+        },
+        {
+            "id": 837201,
+            "name": "I'll Cut You First!",
+            "desc": "Prioritizes [LineCutting]."
+        },
+        {
+            "id": 837202,
+            "name": "Tesoura de Sangue Endurecido",
+            "desc": "Em um Confronto Vencido, se o alvo tiver [Laceration], cure as Partes e o Núcleo desta unidade em 40% do dano de PV causado\nApós o Ataque, se esta unidade curou pelo menos 100 PV, cura 10 PS\nEste efeito não ativa Ao Acertar com uma Habilidade com Moeda Inquebrável se perder o Confronto.",
+            "summary": "Cura ao atacar inimigos com Sangramento. Quando esta unidade cura 100 HP, cura SP também."
+        },
+        {
+            "id": 837203,
+            "name": "I Don't Need Ugly Things!!",
+            "desc": "Se houver quaisquer inimigos com 30% ou menos de HP, usa a Habilidade 'Não Preciso de Coisas Feias!!'."
+        },
+        {
+            "id": 837204,
+            "name": "It's Not Over Yet",
+            "desc": "Recebe outro padrão com 40% do PV Máx. desta unidade\nAo mudar o padrão, recebe 10 de [Laceration] e 2 de [BloodScissor]."
+        },
+        {
+            "id": 837205,
+            "name": "Banquete de Sangue",
+            "desc": "Se essa unidade estiver em campo ou for uma das unidades que podem aparecer nessa Fase, aumenta o valor de [BloodDinner] pela quantidade de dano de [Laceration] coletivamente recebido por todas as unidades.\nQuando essa unidade entrar em campo, o sangue dormente que encharca o campo de batalha acordará."
+        },
+        {
+            "id": 837206,
+            "name": "Bloodsteeped Scissors",
+            "desc": "Início de Combate: ganha 10 [BloodScissor] || - [BloodScissor] não pode cair abaixo de 1 || - Em 10+ [BloodScissor], converte para [BloodScissorTwo]. || - Em 20+ [BloodScissor], converte para [BloodScissorThree]. || Se esta unidade consome [BloodScissor] e cai abaixo dos limites acima, converte de acordo."
+        },
+        {
+            "id": 837207,
+            "name": "Starved and Withered",
+            "desc": "Combat Start: gain [StarvingBarberTwo]"
+        },
+        {
+            "id": 837208,
+            "name": "Blood... Blood... Blood...!",
+            "desc": "Fim do Turno: Se estiver em Pânico, recupere-se do Pânico no próximo Início do Turno e redefina SP para 0.\nAo se recuperar do Pânico:\n- Consuma 30 [BloodDinner] para ganhar 2 de [Enhancement] e 1 de [BloodScissor] no próximo turno, e cure 20 SP.\n- Se esta unidade não conseguir consumir [BloodScissor], ganhe 30 [Laceration], receba imediatamente o dano de [Laceration], então perca 3 Contagem de [Laceration]. Então, ganhe 2 de [Enhancement], 2 de [AttackDmgUp], e cure 20 SP no próximo turno."
+        },
+        {
+            "id": 9999997,
+            "name": "Recuperação do Pânico",
+            "desc": "Fim de Turno: se estiver em Pânico, reseta o PS para 0."
+        },
+        {
+            "id": 9999996,
+            "name": "Pânico Fixo",
+            "desc": "O Tipo de Pânico dessa unidade não muda quando infligido com um efeito que muda Tipos de Pânico. Em seu lugar, essa unidade é infligida com um efeito que é infligido contra alvos sem PS."
+        }
+    ]
+}
