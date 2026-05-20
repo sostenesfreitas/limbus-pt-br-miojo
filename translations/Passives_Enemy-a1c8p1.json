@@ -1,0 +1,109 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9020301,
+            "name": "Easy Money",
+            "desc": "Fim do Turno: Se esta unidade acertou um alvo neste turno, ganha 1 [Enhancement] no próximo turno || Se o alvo é Hong Lu, ganha 1 [ParryingResultUp] e 1 [AttackDmgUp] no próximo turno também"
+        },
+        {
+            "id": 9020302,
+            "name": "oh no",
+            "desc": "Lose 5 SP on Clash Lose\nWhen Staggered, gain 2 [Vulnerable] next turn (once per turn)"
+        },
+        {
+            "id": 9020101,
+            "name": "Training Dummy",
+            "desc": "Can be damaged only with damages equal to or higher than 10\nAll damage under 10 is nullified"
+        },
+        {
+            "id": 9020102,
+            "name": "Upgradable Training Dummy",
+            "desc": "Fim do Turno: se esta unidade falhou em acertar com uma Habilidade, ganha [ParryingResultUp] no próximo turno igual ao número de turnos em que esta unidade falhou em acertar || Se esta unidade acerta um inimigo com uma Habilidade, zera a pilha acima"
+        },
+        {
+            "id": 9020103,
+            "name": "Remember the Basics",
+            "desc": "Fim do Turno: se esta unidade foi atingida por 4 ou mais Habilidades de Ataque, em todos os inimigos que atacaram esta unidade, aplica 1 [AttackDmgUp] no próximo turno para cada turno em que esta unidade foi atingida || Se esta unidade foi atingida por 3 ou menos Habilidades de Ataque, zera a pilha acima"
+        },
+        {
+            "id": 9019501,
+            "name": "Off-mark Curse",
+            "desc": "Quando esta unidade é Atordoada, reduz pela metade a Potência de [Burst] e Contagem de [Burst] no alvo que esta unidade acertou por último"
+        },
+        {
+            "id": 9019502,
+            "name": "Jar-haunting Curse",
+            "desc": "Fim do Turno: Se esta unidade acertou um alvo neste turno, ganha 1 [Enhancement] no próximo turno || Se esta unidade se mata, aplica 1 [Enhancement] em todos os aliados"
+        },
+        {
+            "id": 9019601,
+            "name": "Jar-haunting Curse",
+            "desc": "Ao acertar com Habilidade: se o alvo tem 1 Contagem restante de [Burst], aplica +1 Contagem de [Burst] (2 vezes por turno) || Ao Acertar: se o alvo tem 1 [Burst] restante, aplica 2 [Burst] (2 vezes por turno) || Se esta unidade se mata, aplica 2 [Burst] e +1 Contagem de [Burst] em todos os inimigos"
+        },
+        {
+            "id": 9019701,
+            "name": "Jar-haunting Curse",
+            "desc": "On Skill hit: if target has 4+ [Burst], inflict 1 [DefenseDown] next turn (3 times per turn)\nIf this unit kills itself, inflict 3 [DefenseDown] on all enemies"
+        },
+        {
+            "id": 9102201,
+            "name": "Off-mark Curse",
+            "desc": "Quando esta unidade é Atordoada, elimina a Potência de [Burst] e Contagem de [Burst] no alvo que esta unidade acertou por último"
+        },
+        {
+            "id": 9102202,
+            "name": "Cursed Spirit Jar",
+            "desc": "On Hit, if the target has 5+ ([Burst] Potency + [Burst] Count), inflict 1 [DefenseDown] (5 times per turn)"
+        },
+        {
+            "id": 9102203,
+            "name": "Jar-haunting Curse",
+            "desc": "Fim do Turno: contra todos os inimigos, aplica [Poison] igual ao número de turnos que se passaram desde que esta unidade entrou na batalha (máx. 5) || Se esta unidade se mata, aplica (# de turnos x 5) [Poison] e aplica +2 Contagem de [Burst] em todos os inimigos no próximo turno (máx. 25)"
+        },
+        {
+            "id": 9019801,
+            "name": "Damage Taken",
+            "desc": "Ao ser atingido durante a fase de combate: +10% de dano pelo turno || Ao ser atingido durante a fase de combate: ao Ganhar Embate, +20% de dano"
+        },
+        {
+            "id": 9019802,
+            "name": "Target - Jia Baoyu",
+            "desc": "Prioritizes Hong Lu"
+        },
+        {
+            "id": 9019803,
+            "name": "Focusing on Target",
+            "desc": "Em 70%+ de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, ganha 1 [Reduction] no próximo turno || Em menos de 70% de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, aplica +1 [Laceration] e Contagem de [Laceration] no próximo turno"
+        },
+        {
+            "id": 9020001,
+            "name": "Mission Progress",
+            "desc": "Deal +0.5% damage for every 1% missing HP on self (max 50%)"
+        },
+        {
+            "id": 9020002,
+            "name": "Honing in on Target",
+            "desc": "Em 70%+ de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, ganha 1 [Reduction] no próximo turno || Em menos de 70% de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, ganha 1 [Enhancement] no próximo turno || - aplica +1 a mais de [Laceration] e Contagem de [Laceration] no próximo turno"
+        },
+        {
+            "id": 9102101,
+            "name": "Damage Taken",
+            "desc": "Ao ser atingido durante a fase de combate: +20% de dano pelo turno || Durante a fase de combate: Ao Perder Embate, sofre +15% de dano da Habilidade"
+        },
+        {
+            "id": 9102102,
+            "name": "Plastered Training",
+            "desc": "Deal +2% damage for every 1% missing HP on self (max 100%)"
+        },
+        {
+            "id": 9102103,
+            "name": "Bem, bem... Hic. Isso não vai dar",
+            "desc": "Em 50% de HP, recupera-se do Atordoamento e encerra este turno. || Fixa a Velocidade desta unidade em 10 no próximo turno"
+        },
+        {
+            "id": 9102104,
+            "name": "Clear Target",
+            "desc": "Em 70%+ de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, ganha 3 [AttackDown] no próximo turno || Em menos de 70% de HP: no Fim do Turno, se esta unidade falhou em acertar Hong Lu com uma Habilidade, ganha 6 [AttackUp] no próximo turno"
+        }
+    ]
+}
