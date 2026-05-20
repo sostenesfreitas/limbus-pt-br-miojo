@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11215_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Pois bem, deixe-me dar as boas-vindas à nossa humilde equipe de pesquisa. Aceite — perdi uma aposta hoje, então tenho que pagar uma xícara de café pra todo mundo."
+        },
+        {
+            "id": "lobby_morning_11215_1",
+            "desc": "Morning Greeting",
+            "dlg": "Ah... Já é hora das minhas rondas no laboratório? Sinto muito, mas você se importa em me substituir nas rondas matinais? Faço outra à tarde. Posso estar num ponto em que tenho de considerar seriamente minha mortalidade se negar o apelo do meu corpo por sono."
+        },
+        {
+            "id": "lobby_noon_11215_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Viu? Nossos corpos estão atualmente sobrecarregados por sonolência pós-prandial causada por excesso de carboidratos — agora é o momento ideal para cafeinação. Meus tempos recomendados de recarga de café são os seguintes: em 1 hora, em 2 horas e 30 minutos, em 4 horas, em 6 horas e em 6 horas e 30 minutos."
+        },
+        {
+            "id": "lobby_night_11215_1",
+            "desc": "Evening Greeting",
+            "dlg": "Ainda não bateu ponto de saída? Tive uma intuição de que te encontraria aqui. Bem, já que parece ser uma conclusão inevitável que ambos passaremos a noite aqui no trabalho, por que não vem cá um minuto? Deixe-me mostrar algo interessante — embora dificilmente uma compensação apta por hora extra, claro. || Outro departamento em breve nos visitará para um check-up regular..."
+        },
+        {
+            "id": "smalltalk_11215_1",
+            "desc": "Chatter #1",
+            "dlg": "De fato, liderar outros é sofrer... embora eu não me importe com a incongruência que possa existir entre meus colegas e eu. || Mas ser empurrado contra a minha vontade a assumir a liderança antes de todos os outros... isso, não suporto."
+        },
+        {
+            "id": "smalltalk_11215_2",
+            "desc": "Chatter #2",
+            "dlg": "Potencialidades... uma palavra cruel. Dá origem àquela ilusão de otimismo, como uma maldição... ou um espectro. || Bem, sendo justo... A vida <i>se tornaria</i> mais fascinante se acreditássemos que feitiçaria e espíritos são reais, não é?"
+        },
+        {
+            "id": "smalltalk_11215_3",
+            "desc": "Chatter #3",
+            "dlg": "Espera. Este relatório — foi você que entregou isso? Ou a privação de sono finalmente me venceu, ou os números que você registrou aqui estão ridiculamente errados... E nem me faça começar sobre o design relaxado do experimento em si que, devo acrescentar, é desprovido de qualquer pensamento lógico. || ... Ah. Ainda assim, vejo que você se esforçou. Vá descansar, está bem?"
+        },
+        {
+            "id": "smalltalk_11215_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Esta não é a primeira quebra de contenção de Peccatulum com a qual tivemos que lidar, mas... *puxa* Quebra de Peccatulum Classe 3 é... um desafio difícil. Yi Sang, Faust — deixarei a batalha com vocês dois por ora. || Eu seria negligente em desperdiçar uma oportunidade de compilar um relatório de danos sobre engajamentos E.G.O contra múltiplos oponentes."
+        },
+        {
+            "id": "smalltalk_11215_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "... Então as pedrinhas rolaram e rolaram, eventualmente se acumulando nesta pilha montanhosa — o terminus da escória que não pôde se tornar nem Distorções. Suas potencialidades devem ter se manifestado como uma inércia ladeira abaixo imparável, e... *expira*"
+        },
+        {
+            "id": "neglect_11215_1",
+            "desc": "Idle",
+            "dlg": "I must've dreamed. *sigh* I still remember... everything."
+        },
+        {
+            "id": "gacksung_11215_1",
+            "desc": "Uptying",
+            "dlg": "Ativando o analisador estrutural... Hm. Está operacional. Pois bem, gravem essa forma na cabeça, porque se eu tirar Coroa com o Monolito... isto pode muito bem ser no que eu me torno. || Vejam bem as vulnerabilidades agora, para que possam me derrubar de uma vez depois. Entendido?"
+        },
+        {
+            "id": "formation_11215_1",
+            "desc": "Deployment",
+            "dlg": "Entrusting the exertion of physical force to a researcher, I must say, is a rather ill-considered arrangement."
+        },
+        {
+            "id": "battleentry_11215_1",
+            "desc": "Stage Entry",
+            "dlg": "Se não há ninguém à altura da tarefa... então cabe a mim resolver este apuro."
+        },
+        {
+            "id": "battle_select_11215_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Experiment is underway. Do practice caution when controlling the variables."
+        },
+        {
+            "id": "battle_endcommand_11215_1",
+            "desc": "Commencing Attack",
+            "dlg": "Let us run a test and trial."
+        },
+        {
+            "id": "battle_enemy_break_11215_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Admirable effort. However..."
+        },
+        {
+            "id": "battle_break_11215_1",
+            "desc": "Staggered",
+            "dlg": "Ngh... Hah."
+        },
+        {
+            "id": "battle_kill_11215_1",
+            "desc": "Enemy Killed",
+            "dlg": "... Nothing too remarkable."
+        },
+        {
+            "id": "battle_dead_11215_1",
+            "desc": "Death",
+            "dlg": "Bem... eu não suponho que eu fosse tão excepcional, também..."
+        },
+        {
+            "id": "choice_success_p_11215_2",
+            "desc": "Check Passed",
+            "dlg": "Work Result: Good. Hm. Faster reaction speed, as expected."
+        },
+        {
+            "id": "choice_fail_n_11215_1",
+            "desc": "Check Failed",
+            "dlg": "Work Result: Bad. Well, I'll take it. Production rate has increased."
+        },
+        {
+            "id": "battle_clear_11215_1",
+            "desc": "Victory Cry",
+            "dlg": "Parece haver uma certa irregularidade questionável nos resultados do teste. Tudo bem. Fracasso é esperado de mentes ordinárias; fazer o esforço de superá-lo é o que define o pesquisador ideal. || Devo admitir, acho tal esforço bastante impressionante. Emendar fracassos é algo que eu nunca fiz — nunca tive que fazer pessoalmente."
+        },
+        {
+            "id": "battle_clear_ex_11215_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Hm... Muito bem. Vou encaminhar este relatório diretamente aos superiores. Os números parecem promissores. Ah, você aí, está bem descansado(a) agora? Então entregue este relatório por mim... e leve isto também. É um relatório sobre seu experimento. Fiz alguns ajustes — refaça o teste. || Hmm...? Por que me agradecer? Eu te emprestei minha ajuda simplesmente em virtude de minha mente superior."
+        },
+        {
+            "id": "battle_defeat_11215_1",
+            "desc": "Defeat Wail",
+            "dlg": "Ira é apenas uma emoção hedionda, nada mais. Ainda assim... flutuações emocionais podem inevitavelmente ocorrer em tais recriações do passado. *puxa*"
+        }
+    ]
+}

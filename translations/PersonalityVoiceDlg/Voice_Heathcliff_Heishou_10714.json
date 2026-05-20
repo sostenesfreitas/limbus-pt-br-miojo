@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10714_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Issssso...! Finalmente! Escutem aqui, galos de briga! Tirem essas garras! Vamos lutar a noite toda hoje, até não sobrar mais ração no círculo de areia...!"
+        },
+        {
+            "id": "lobby_morning_10714_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Vai, mata a gente, quebra nossos pescoços um atrás do outro... Mas acredita, não importa o quanto você se debata, vai ficar morto pra cacete quando a gente terminar. Te prometo, é tão certo quanto o amanhecer toda manhã."
+        },
+        {
+            "id": "lobby_noon_10714_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Beleza. O próximo é entre... você, e você aí. Só o vencedor da briga vai almoçar; mesma regra de sempre. || ... Ah, e como na última vez, o último em pé vai dar um rolê comigo. Qual é, eu também tenho que me dar um agrado, né? Não se preocupa, você ganha sua ração mesmo se perder pra mim."
+        },
+        {
+            "id": "lobby_night_10714_1",
+            "desc": "Saudação Noturna",
+            "dlg": "... Mmh. Ei, beleza? Não consigo deixar de querer cochilar quando escurece assim. Preciso bombear sangue no cérebro, espancar minhas asas com vontade... || Não tá certo deixar um Adepto como eu sentado de bunda quieta, esperando o dia todo... Essa porra me chateia, cara..."
+        },
+        {
+            "id": "smalltalk_10714_1",
+            "desc": "Conversa #1",
+            "dlg": "Eu lembro de algumas coisas de vez em quando. O que me levou a virar um Heishou? E por que o ramo You, justo? Sabe, perguntas assim. || Alguma coisa deve ter me levado a buscar mérito, a me tornar um homem de qualidade... Bem, suponho que reinar sobre as galinhas é um tipo de sucesso também, quando você vai a fundo."
+        },
+        {
+            "id": "smalltalk_10714_2",
+            "desc": "Conversa #2",
+            "dlg": "Não somos complicados. Soltem a gente das jaulas, façam um círculo de areia legal pra gente pirar... e a gente luta até alguém cair. Não tem nada de especial em ser Adepto, também — eu só calhei de ser o melhor galo de briga de todos. E sobrevivi."
+        },
+        {
+            "id": "smalltalk_10714_3",
+            "desc": "Conversa #3",
+            "dlg": "A Pílula You tem esse efeito colateral de transformar as pessoas em loucos sedentos por batalha. Afeta alguns de nós mais que outros, fazendo-os surtar sem ordem explícita para tal. Mas aqueles velhotes desgraçados nem tentam melhorar a Pílula. || Sacou do que eu tô falando? Pra eles, somos forragem; estão só felizes de nos jogar no moedor e repor nossos números quando o serviço termina. \"O quanto pior poderia ficar?\""
+        },
+        {
+            "id": "smalltalk_10714_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Ah... e eu pensando que ia conseguir manter a calma o dia todo hoje. Coelhos malditos — vou aceitar a sua intrusão no círculo de areia como o convite pra fazer espetinho de coelho de todos vocês!"
+        },
+        {
+            "id": "smalltalk_10714_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "2 caíram... 6 caíram...! Hã... só isso? Que merda, e eu pensando que ia conseguir bater minhas asas pra valer e bicar umas pragas hoje. || Nngh... ei, vocês aí. Saiam da minha vista e levem a luta de vocês pra outro lugar. Me irritem e eu vou bicar vocês também."
+        },
+        {
+            "id": "neglect_10714_1",
+            "desc": "Idle",
+            "dlg": "*bocejo* ... Ei, mantenham as cabeças bem vazias quando a gente não tem nada rolando. É esse pensamento que faz a gente querer brigar... né?"
+        },
+        {
+            "id": "gacksung_10714_1",
+            "desc": "Enlaçamento",
+            "dlg": "Aprende a apreciar nosso silêncio de manhã, hein? Os galos só cantam quando o senhor que segura nossa coleira manda."
+        },
+        {
+            "id": "formation_10714_1",
+            "desc": "Deployment",
+            "dlg": "Whassit...? Oh, a calling from our lord?"
+        },
+        {
+            "id": "battleentry_10714_1",
+            "desc": "Stage Entry",
+            "dlg": "Hah... Let's fill up!"
+        },
+        {
+            "id": "battle_select_10714_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Sod off or die."
+        },
+        {
+            "id": "battle_endcommand_10714_1",
+            "desc": "Commencing Attack",
+            "dlg": "Talons out!"
+        },
+        {
+            "id": "battle_enemy_break_10714_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Wha, you're down already? That's a bit bland, innit?"
+        },
+        {
+            "id": "battle_break_10714_1",
+            "desc": "Staggered",
+            "dlg": "Keheh, yes! I like that!"
+        },
+        {
+            "id": "battle_kill_10714_1",
+            "desc": "Enemy Killed",
+            "dlg": "Pecked 'em to death! Next! NEXT!"
+        },
+        {
+            "id": "battle_dead_10714_1",
+            "desc": "Death",
+            "dlg": "Há... Eu perdi totalmente o controle, né...? Bem... eu sempre ia acabar como carcaça... de qualquer jeito."
+        },
+        {
+            "id": "choice_success_p_10714_2",
+            "desc": "Check Passed",
+            "dlg": "Escuta... eu fiz isso por você em vez de ceder aos meus impulsos de luta. Lembra disso, hein."
+        },
+        {
+            "id": "choice_fail_n_10714_1",
+            "desc": "Check Failed",
+            "dlg": "Get this shite out of my face! I ain't wastin' time on a battlefield..."
+        },
+        {
+            "id": "battle_clear_10714_1",
+            "desc": "Victory Cry",
+            "dlg": "Só isso?! Onde estão os outros? Onde?! Eu não vou parar até— *inspira* ... Tá... Aguenta firme. Tenho que segurar isso... ou não vou poder lutar outro dia."
+        },
+        {
+            "id": "battle_clear_ex_10714_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Ah, tsc... por que você tinha que ficar zanzando por perto? É assim que você se mata, ficando à toa perto de um Heishou You sem nada pra matar. || Há, o quê? Vocês ainda não tomaram chá, também...? Beleza! Vem me pegar!"
+        },
+        {
+            "id": "battle_defeat_10714_1",
+            "desc": "Defeat Wail",
+            "dlg": "Meu senhor! Ordem de retirada, agora? E-eu tava prestes a entrar no meio agora que o resto desses pintinhos inúteis morreram! Tá falando sério, porra?! || Aff... que se foda. Não é como se eu pudesse desobedecer uma ordem..."
+        }
+    ]
+}

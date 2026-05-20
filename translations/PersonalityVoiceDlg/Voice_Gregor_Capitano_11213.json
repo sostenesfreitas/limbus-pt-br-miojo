@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11213_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Tenho que sair desse beco pra valer assim que a chuva parar. || *puxa* Não tenho intenção de levar tiro tão cedo."
+        },
+        {
+            "id": "lobby_morning_11213_1",
+            "desc": "Morning Greeting",
+            "dlg": "... Faz tempo que uma Purga não durava até depois do amanhecer. Acho que tem muito mais boca-aberta hoje em dia que não sabe ficar de bico calado mesmo com o Arco-Sino do Dedo pairando lá em cima."
+        },
+        {
+            "id": "lobby_noon_11213_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "... Entendido. Valeu — levo essa pro túmulo. || Uma Purga, é? Bem, um pequeno alívio que os conhecidos que fiz no serviço... não foram totalmente inúteis. Agora que tivemos um aviso prévio... vamos torcer pra que alguns de nós consigam sair daqui vivos."
+        },
+        {
+            "id": "lobby_night_11213_1",
+            "desc": "Evening Greeting",
+            "dlg": "Irônico depois de todas aquelas noites no comando das Purgas... agora somos nós que estão sendo cortados. || Caiu a noite — hora de usar aquele Convite. Se estamos condenados a andar na escuridão pra onde quer que a gente vá... que a Estrela da Cidade ilumine o nosso caminho."
+        },
+        {
+            "id": "smalltalk_11213_1",
+            "desc": "Conversa #1",
+            "dlg": "Não é que eu não tenha visto isso vindo. Eu sabia que o Chefe... era jovem e impulsivo demais pra deixar uma injustiça passar ou pra lembrar que a curiosidade matou o gato. || Acho que por isso não perdi a cabeça com como tudo aconteceu, mas aquele \"acidente\"... tinha que ser uma pergunta tão idiota, questionando as intenções do Padrino... *suspiro* quanto mais penso, mais me explode a cabeça."
+        },
+        {
+            "id": "smalltalk_11213_2",
+            "desc": "Conversa #2",
+            "dlg": "Ficar torto, falar de boca cheia, suspirar, cortar a fala de um superior... Eu disse pra todos eles, vez após vez — não façam isso. Mas sempre tem uns lerdos que dizem que não conseguem largar o hábito. || Sob o Polegar, não tem jeito mais rápido de cavar a própria cova do que \"hábitos\" desleixados e imprudentes."
+        },
+        {
+            "id": "smalltalk_11213_3",
+            "desc": "Conversa #3",
+            "dlg": "Apenas um dos muitos Executores da Purga aqui no Sul. Esse teria sido o topo do serviço que nós, Awls da Noite, poderíamos ter conseguido — não somos de uma Famiglia particularmente conhecida, e nunca fizemos parte das facções mais poderosas tampouco... || Agora já não importa. A gente arranhou como cães vira-lata pra esculpir nosso próprio território nos Becos da L Corp., e... pra quê?"
+        },
+        {
+            "id": "smalltalk_11213_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Se você for marcado para ser Purgado pelo Polegar, melhor procurar as Awls da Noite se preferir ser poupado de uma morte dolorosa. || No mínimo... vamos te acertar onde você tem certeza de morrer, misericordioso e rápido. Na Cidade, essa é mais ou menos a melhor morte que você vai conseguir."
+        },
+        {
+            "id": "smalltalk_11213_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Calouros que conseguem por as mãos em algum tecido decente feito em Oficina... eles sempre têm que levar uma pancada numa briga, ver quanto aguenta. || Eles não valorizam a vida, na minha opinião. Não importa se é feito de aço, ou algo recém-saído do chão da Oficina... se não é o melhor que tem, roupas vão ter costuras."
+        },
+        {
+            "id": "neglect_11213_1",
+            "desc": "Idle",
+            "dlg": "*puxa* Esse silêncio... não é tão ruim. || Quem é surdo, cego e calado viverá cem anos em paz."
+        },
+        {
+            "id": "gacksung_11213_1",
+            "desc": "Enlaçamento",
+            "dlg": "O Índice, a W Corp., a Associação Shi... Estão usando todo tipo de técnica, como já ouvi falar. || Mesmo assim, contra quem quer que você esteja, sempre tem uma brecha pra atacar. Ainda há esperança... A gente pode sair dessa vivo ainda."
+        },
+        {
+            "id": "formation_11213_1",
+            "desc": "Deployment",
+            "dlg": "Survival matters the most... I'll do anything for it."
+        },
+        {
+            "id": "battleentry_11213_1",
+            "desc": "Stage Entry",
+            "dlg": "No choice but to keep fighting... until the very end."
+        },
+        {
+            "id": "battle_select_11213_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Fica esperto e foca na luta se não quer apagar."
+        },
+        {
+            "id": "battle_endcommand_11213_1",
+            "desc": "Commencing Attack",
+            "dlg": "Vamos resolver isso rápido."
+        },
+        {
+            "id": "battle_enemy_break_11213_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Is this your weak spot?"
+        },
+        {
+            "id": "battle_break_11213_1",
+            "desc": "Staggered",
+            "dlg": "Gah..."
+        },
+        {
+            "id": "battle_kill_11213_1",
+            "desc": "Enemy Killed",
+            "dlg": "You were full of openings."
+        },
+        {
+            "id": "battle_dead_11213_1",
+            "desc": "Death",
+            "dlg": "I guess running away... did nothing to unseal our fate..."
+        },
+        {
+            "id": "choice_success_p_11213_2",
+            "desc": "Check Passed",
+            "dlg": "Anything else left? Let's deal with it fast."
+        },
+        {
+            "id": "choice_fail_n_11213_1",
+            "desc": "Check Failed",
+            "dlg": "... If only hard work guaranteed results."
+        },
+        {
+            "id": "battle_clear_11213_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Quantos sobraram? Vocês todos ainda conseguem ficar em pé? || A gente devia começar a recrutar mais assim que sair daqui. Voltar pro Polegar com tão poucos de nós restantes... só nos faria parecer inúteis aos olhos do Capo dei Capi."
+        },
+        {
+            "id": "battle_clear_ex_11213_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "É melhor a gente se apressar, ou sobreviver até agora terá sido em vão. || Livro do Índice, é... Não foi nada mal — a gente conseguiu cuidar disso direito. Com isso, pelo menos não vamos ser Purgados."
+        },
+        {
+            "id": "battle_defeat_11213_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "A Biblioteca, os Becos... Foi inútil pensar em rotas de fuga. || *respiração trêmula* Tentar correr da Purga... não dava pra trapacear a morte... no fim."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10512_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Think it over three times, hard, before talking to me. I have ripped out enough tongues today."
+        },
+        {
+            "id": "lobby_morning_10512_1",
+            "desc": "Morning Greeting",
+            "dlg": "Iniciem os relatórios matinais, começando por quem estiver pronto. E como já disse muitas vezes no passado, o estado de estar 'pronto' envolve várias etapas e procedimentos: propósito, método, processo, resultado... e, mais importante, a adesão abrangente às boas maneiras. Aqueles que não estiverem 'prontos' por este critério serão considerados indignos de vida."
+        },
+        {
+            "id": "lobby_noon_10512_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "É meio-dia, e o lixo ainda está aqui... Lembro de insistir que isso deveria ser limpo, pois espero dar boas-vindas a um cliente importante aqui. || ... Hm, ninguém sobrou para a limpeza, também, eu vejo. Suponho que fatores de intimidação também podem ser elementos significativos nestas consultas."
+        },
+        {
+            "id": "lobby_night_10512_1",
+            "desc": "Evening Greeting",
+            "dlg": "Não acha que é bastante deselegante visitar-me tão tarde da noite? Mesmo que sua posição lhe conceda o direito de me olhar diretamente nos olhos... || ... Entendo. Então a etiqueta ditaria que você merece ser bem-recebido aqui a esta hora. Peço desculpas por minha descortesia."
+        },
+        {
+            "id": "smalltalk_10512_1",
+            "desc": "Conversa #1",
+            "dlg": "Um contrato da família Shi era esperado, mas uma visitação de alguém de tão distinta categoria... não. || Eu podia deduzir pelo fato de este indivíduo ter solicitado uma reunião privada que seria com alguém de posição estimada, mas... hm. Eu certamente não esperava você."
+        },
+        {
+            "id": "smalltalk_10512_2",
+            "desc": "Conversa #2",
+            "dlg": "Vinho tinto com dois dentes recém-extraídos faz um bom par, um <i>mariage</i> com esta circunstância em particular. Quase como uma obra de arte. || ... Hm. Parece que minha recente visita à Casa das Aranhas afetou minha fala. Usar palavras como 'arte'... não condiz com o Capo do Polegar."
+        },
+        {
+            "id": "smalltalk_10512_3",
+            "desc": "Conversa #3",
+            "dlg": "O valor de uma única Munição Tigermark é equivalente ao valor de três destes charutos premium. Cortar meu inimigo consumindo cada munição em suas câmaras é como perder o valor inteiro de um humidor de charutos, mas... || ... às vezes, uma boa luta vale mais que um maço de charutos. Eu seria negligente em deixar esta chance passar em favor da frugalidade."
+        },
+        {
+            "id": "smalltalk_10512_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "... Vejo que você é digno do custo da minha munição. Prepare-se para enfrentar meu poder pleno. || Esta 'empolgação'... que sensação rara."
+        },
+        {
+            "id": "smalltalk_10512_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Não se deve embarcar em uma caçada ao tigre sem se preparar para ser mordido por seus dentes. Presumo que você se sinta pronto, então? || Eu sou Meursault. Capo do Polegar, uma das Dez Lâminas do Oriente. Agora o encontrarei em batalha com toda a minha força."
+        },
+        {
+            "id": "neglect_10512_1",
+            "desc": "Idle",
+            "dlg": "Foi uma decisão astuta da sua parte não se dirigir a mim diretamente. Encontre um superior seu que seja inferior à minha posição para transmitir sua mensagem."
+        },
+        {
+            "id": "gacksung_10512_1",
+            "desc": "Enlaçamento",
+            "dlg": "O fato de o nome da lâmina da Estrela Tiantui dever permanecer oculto é, de fato, uma pena... mas aqui, esse desejo é cumprido por outro — que eu possa rugir como um tigre alado. Isso me sacia."
+        },
+        {
+            "id": "formation_10512_1",
+            "desc": "Deployment",
+            "dlg": "É melhor você torcer para que esta tarefa seja digna da minha presença."
+        },
+        {
+            "id": "battleentry_10512_1",
+            "desc": "Stage Entry",
+            "dlg": "Off to hunt, then? Oh, good... I'm burning up."
+        },
+        {
+            "id": "battle_select_10512_1",
+            "desc": "Viewed in Battle",
+            "dlg": "... The concept of manners must be alien to you."
+        },
+        {
+            "id": "battle_endcommand_10512_1",
+            "desc": "Commencing Attack",
+            "dlg": "Are you ready?"
+        },
+        {
+            "id": "battle_enemy_break_10512_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Is this really your best?"
+        },
+        {
+            "id": "battle_break_10512_1",
+            "desc": "Staggered",
+            "dlg": "Keh... Why, that's quite good."
+        },
+        {
+            "id": "battle_kill_10512_1",
+            "desc": "Enemy Killed",
+            "dlg": "Ficar parado como você fez foi o que lhe custou a cabeça."
+        },
+        {
+            "id": "battle_dead_10512_1",
+            "desc": "Death",
+            "dlg": "Puff... motherfucker..."
+        },
+        {
+            "id": "choice_success_p_10512_2",
+            "desc": "Passou no Teste",
+            "dlg": "É melhor que isto tenha sido um contrato. Pode ser que eu tenha que remover ambos os seus braços se for um pedido insolente."
+        },
+        {
+            "id": "choice_fail_n_10512_1",
+            "desc": "Check Failed",
+            "dlg": "... I will not be taking your life. As a compensation for failing this mission."
+        },
+        {
+            "id": "battle_clear_10512_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Decepcionante. Este é realmente o seu melhor? || Diga-me o nome e a localização do seu superior. Devo reivindicar a cabeça dele para que isto valha o esforço."
+        },
+        {
+            "id": "battle_clear_ex_10512_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Não há muitas coisas neste mundo que me empolgam. Contudo... este é um desses raros casos. || Eu apreciei esta dança. Guarde quaisquer cápsulas de bala que eu errei — considere-as uma gorjeta."
+        },
+        {
+            "id": "battle_defeat_10512_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Deixe-me ser direto. Existe algum meio pelo qual eu possa sobreviver a este encontro? Ou, se uma compensação monetária bastar, então forneça um número. || ... Se não, então... há. Parece que devo perder minha cabeça."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10713_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "E os novatos tão todos mortos... É, tive um pressentimento assim que olhei pro painel de monitoramento. Pra fora desse compartimento Congestionado, vocês todos — chega o Agente de Limpeza L4."
+        },
+        {
+            "id": "lobby_morning_10713_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Distrito 23 é todo lavado de azul, claro, mas ainda tem mais cor do que onde eu morava. As únicas cores que eu via lá eram as roupas caras que eu nem podia usar... e as flores no jardim."
+        },
+        {
+            "id": "lobby_noon_10713_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Às vezes, aparecem uns putos torcidos vindo até o Distrito 23 só pra cheirar as Ruas do Sabor, mas não fica perambulando por lá só porque é perto do QG. Eu mesmo sou dos Becos, mas só de pensar naquele lugar... Tsc, embrulha meu estômago. Mantém a cabeça reta e nem olha pra esse lado."
+        },
+        {
+            "id": "lobby_night_10713_1",
+            "desc": "Saudação Noturna",
+            "dlg": "E daí se tem menos limpeza pra fazer? Ainda tem um monte pra resolver. Tá vendo? Nem terminei e já perdi o último trem pra casa."
+        },
+        {
+            "id": "smalltalk_10713_1",
+            "desc": "Conversa #1",
+            "dlg": "Deviam reduzir o preço da Primeira Classe, não só ficar jogando Vales de Desconto da Classe Econômica fora. Não tem uma alma aqui em cima que ache que a Primeira Classe vale o dinheiro. É por isso que aqueles putos que deveriam estar na Primeira Classe estão fingindo quem são pra se enfiar na Econômica."
+        },
+        {
+            "id": "smalltalk_10713_2",
+            "desc": "Conversa #2",
+            "dlg": "Consegui um lugar no Ninho e pensei que finalmente tinha juntado algum trocado... E pra quê? Toda vez que termino um serviço, tô coberto de toda essa... sujeira... humilhante. Ainda assim, se eu tivesse acabado num emprego confortável onde só usa a cabeça, eu nunca teria chegado tão longe, né?"
+        },
+        {
+            "id": "smalltalk_10713_3",
+            "desc": "Conversa #3",
+            "dlg": "Aaai! Não dá pra tirar mais devagar? Argh — caramba! Eu disse que dói! Uffa... Terminou? Toda vez que essa armadura sai, é como se quase me matasse."
+        },
+        {
+            "id": "smalltalk_10713_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Quer saber por que tenho que disparar lasers pelo cotovelo? Ouvi que era algum tipo de aumentador de potência a princípio... Algo sobre correntes bidirecionais e miniaturização, toda essa parada técnica. Então é, não dá pra simplesmente atirar pra frente. Meio chato, mas usável. Mas, ei... tenho que admitir — também parece bem legal, né?"
+        },
+        {
+            "id": "smalltalk_10713_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Tá tudo no manual. Coisa normal como gente se matando é arquivada como \"Desimpedido\". Qualquer coisa que agentes abaixo do Nível 3 não conseguem lidar é marcada como \"Atrasado\". \"Congestionado\" significa que está além do que os equipamentos padrão da W Corp. podem lidar, ou que tipos raros de inimigos apareceram. Se a ameaça é de nível de Solucionador de Grau 1, é classificada como \"Cancelado\". Nem se incomode em decorar a próxima página — \"Descarrilhado\" quer dizer..."
+        },
+        {
+            "id": "neglect_10713_1",
+            "desc": "Idle",
+            "dlg": "O tempo tava limpo... O trabalho acabou tarde... Nunca pegue o Trem WARP — assim que chegar em casa, vou escrever uma car... Ei! Há quanto tempo você tá aí parado?"
+        },
+        {
+            "id": "gacksung_10713_1",
+            "desc": "Enlaçamento",
+            "dlg": "Volta pro outro compartimento... Esse desgraçado é um clandestino."
+        },
+        {
+            "id": "formation_10713_1",
+            "desc": "Deployment",
+            "dlg": "Congestion Cleaning Armour. Estimated time until deployment: 1 minute..."
+        },
+        {
+            "id": "battleentry_10713_1",
+            "desc": "Stage Entry",
+            "dlg": "Assessing train status."
+        },
+        {
+            "id": "battle_select_10713_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Deixa a limpeza pros novatos. Vou pro compartimento Congestionado."
+        },
+        {
+            "id": "battle_endcommand_10713_1",
+            "desc": "Commencing Attack",
+            "dlg": "Confirming armour activation."
+        },
+        {
+            "id": "battle_enemy_break_10713_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Now sit there nice and quiet..."
+        },
+        {
+            "id": "battle_break_10713_1",
+            "desc": "Staggered",
+            "dlg": "Gah..."
+        },
+        {
+            "id": "battle_kill_10713_1",
+            "desc": "Enemy Killed",
+            "dlg": "... Train's done operatin', that's what!"
+        },
+        {
+            "id": "battle_dead_10713_1",
+            "desc": "Death",
+            "dlg": "... So this is the last stop."
+        },
+        {
+            "id": "choice_success_p_10713_2",
+            "desc": "Check Passed",
+            "dlg": "Aí está. Já tive meu bocado dessa merda quando entrei."
+        },
+        {
+            "id": "choice_fail_n_10713_1",
+            "desc": "Check Failed",
+            "dlg": "Oi, I did it just like the manual said, all right?"
+        },
+        {
+            "id": "battle_clear_10713_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Ufa... Curto-circuitou, hein. Sobrecargas demais fariam isso, suponho... Essa coisa não tá se mexendo. Ei, me arrasta pra fora daqui se tiver terminado de limpar."
+        },
+        {
+            "id": "battle_clear_ex_10713_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "... Limpeza concluída. Algumas das partes espirraram bem longe, então vai ser um saco arrumar... mas se vira. Não me chamam pra desgraçados em quem eu posso pegar leve."
+        },
+        {
+            "id": "battle_defeat_10713_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Droga, isso não é o tipo de problema com que Agentes de Limpeza podem lidar... Nngh! R Corp. ou Associação de Solucionadores — chama quem você puder! Nesse ritmo, todo mundo aqui vai ser..."
+        }
+    ]
+}

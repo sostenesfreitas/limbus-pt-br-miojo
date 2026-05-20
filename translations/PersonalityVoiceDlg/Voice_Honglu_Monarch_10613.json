@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10613_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Então é assim que Daguanyuan parece do zênite de Hongyuan, é? Fuhu, então suponho... || ... Não preciso mais desta pretensão."
+        },
+        {
+            "id": "lobby_morning_10613_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Foi tempo demais. Toda manhã, eu ia cumprimentar minha avó, prestar respeitos àqueles anciãos ressequidos com um sorriso falso e indiferente, e... há. Entretê-los. || Mas não mais."
+        },
+        {
+            "id": "lobby_noon_10613_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Tudo o que algum dia me trouxe felicidade e alegria... eu os enterrei além do véu do esquecimento, ao lado das memórias horríveis daquele dia. || Por que exumá-los agora, quando só encontrarei um túmulo vazio lá — um abismo vazio, como minha órbita ocular esquerda em putrefação?"
+        },
+        {
+            "id": "lobby_night_10613_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Eu não ordenei que não me perturbem à noite, quando esta dor persistente assombra meu olho? || Saiam. Hongyuan já viu mortes demais para que eu vos execute por essa falha. Os corpos que abati poderiam formar uma montanha que alcança o céu de ferro."
+        },
+        {
+            "id": "smalltalk_10613_1",
+            "desc": "Conversa #1",
+            "dlg": "O assento de Patriarca de Daguanyuan, obrigado aos cretinos que reverenciavam como anciãos, não existe mais. Vou arrancar os estandartes das quatro grandes casas que outrora manipulavam Hongyuan ao seu bel-prazer e atirá-los na terra. || Doravante... eu serei o único e absoluto senhor de Hongyuan."
+        },
+        {
+            "id": "smalltalk_10613_2",
+            "desc": "Conversa #2",
+            "dlg": "Está tão curioso por essas bandagens...? Hê, está bem. Elas nem sempre foram tão vermelhas, sabia? Eram apenas bandagens. || Mas... essa cavidade onde o olho costumava estar nunca para de chorar esse sangue negro e pútrido, e por mais que eu tente... eu nunca consegui estancá-lo. Então estão sempre... encharcadas neste tom de vermelho."
+        },
+        {
+            "id": "smalltalk_10613_3",
+            "desc": "Conversa #3",
+            "dlg": "Ah... com você em minhas mãos, os doze ramos do Heishou agora são meus. Por que resistiu, hm? Você me custou o precioso Heishou... || Visitarei o Heishou-Xianren amanhã eu mesmo. Parece que não consigo ter nenhum 'diálogo' real com vocês Adeptos."
+        },
+        {
+            "id": "smalltalk_10613_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "No dia em que a ruína veio à Família Kong, arranquei este jade abominável do meu olho, manchando este tecido outrora cor de jade de vermelho. || A cavidade onde o jade precioso da família Jia outrora repousava chorava lágrimas sangrentas como... gotas de orvalho carmesim (紅露 - Hóng Lù). Assim, Hong Lu é o nome."
+        },
+        {
+            "id": "smalltalk_10613_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "As quatro grandes casas não existem mais — vocês agora não passam de zés-ninguém insignificantes, para desaparecer entre a multidão fervilhante, pois o Senhor de Hongyuan reina sozinho. || Portanto, escolham agora: caiam, envoltos nos estandartes de suas famílias, ou prosperem, sob a vontade de Hongyuan."
+        },
+        {
+            "id": "neglect_10613_1",
+            "desc": "Idle",
+            "dlg": "... Você esperava que sombras o escondessem da minha visão? Hmmh... estou ficando cansado disto."
+        },
+        {
+            "id": "gacksung_10613_1",
+            "desc": "Enlaçamento",
+            "dlg": "Adeptos de cada Ramo, ouçam-me: vosso Senhor considera esta presente circunstância... totalmente irritante. || Eduquem-nos. Ensinem-lhes a conclusão que aguarda aqueles que ousam empunhar a lâmina da rebelião contra seu Senhor."
+        },
+        {
+            "id": "formation_10613_1",
+            "desc": "Deployment",
+            "dlg": "The Lord of Hongyuan marches to war."
+        },
+        {
+            "id": "battleentry_10613_1",
+            "desc": "Stage Entry",
+            "dlg": "Heed my command, twelve beasts(十二獸)—assemble."
+        },
+        {
+            "id": "battle_select_10613_1",
+            "desc": "Viewed in Battle",
+            "dlg": "I rule with blood."
+        },
+        {
+            "id": "battle_endcommand_10613_1",
+            "desc": "Commencing Attack",
+            "dlg": "Unleash the beasts."
+        },
+        {
+            "id": "battle_enemy_break_10613_1",
+            "desc": "Enemy Stagger",
+            "dlg": "To let oneself be shaken by this siltcurrent..."
+        },
+        {
+            "id": "battle_break_10613_1",
+            "desc": "Staggered",
+            "dlg": "... Such insolence."
+        },
+        {
+            "id": "battle_kill_10613_1",
+            "desc": "Enemy Killed",
+            "dlg": "Never shall the green within you wake."
+        },
+        {
+            "id": "battle_dead_10613_1",
+            "desc": "Death",
+            "dlg": "Refletindo sobre o caminho que me trouxe até aqui, este é... apenas mais um caminho que devo tomar..."
+        },
+        {
+            "id": "choice_success_p_10613_2",
+            "desc": "Passou no Teste",
+            "dlg": "I will not pretend ignorance before understanding."
+        },
+        {
+            "id": "choice_fail_n_10613_1",
+            "desc": "Check Failed",
+            "dlg": "Pretense of understanding may not have been a wise decision."
+        },
+        {
+            "id": "battle_clear_10613_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Retirem-se agora, meus Heishou. A infestação de Daguanyuan não reinará mais. || Mantenho-vos em ódio, vermes odiosos cuja única busca na vida é se agarrar a ela; morram, e tornem-se esterco para o crescimento de Hongyuan."
+        },
+        {
+            "id": "battle_clear_ex_10613_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Mais uma linha é traçada: o traço abre um caminho novo, com sangue como tinta... mas com o tempo, Hongyuan aprenderá como eu, Hong Lu, remoldei o destino desta terra."
+        },
+        {
+            "id": "battle_defeat_10613_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Quando a primeira tentativa já aperfeiçoou alguma coisa? || Nunca, nem uma vez desde que parti de Daguanyuan. Só preciso sangrar e lutar até que acabe. || ... Tenho veneno mais que suficiente para ver isto até o fim, afinal."
+        }
+    ]
+}
