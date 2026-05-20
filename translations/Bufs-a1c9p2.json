@@ -1,0 +1,375 @@
+﻿{
+    "dataList": [
+        {
+            "id": "IndexPrescriptTargetToPersonality",
+            "name": "The Prescript's Target - The Index",
+            "desc": "Poder de Habilidade -2 contra e recebe +20% de dano de inimigos do Índice",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BlessingOfIndexPrescriptEnemy",
+            "name": "Grace of the Prescript",
+            "desc": "- Offense Level +1 for every 3 Stack\n- Max Stack: 9",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "IndexPrescript_Base_2nd",
+            "name": "Prescrição",
+            "desc": "Recebe Prescrição: [Dispositivo] sob condições específicas",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptStudent_0",
+            "name": "Prescrição: [Dispositivo] I",
+            "desc": "Ataque e acerte um Alvo do Prescript. || || - Início do Turno: Ganha este efeito quando esta unidade não tem Desbloqueio || - Graça do Prescript empilhável máxima com este Prescript é limitada a 3",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptStudent_1",
+            "name": "Prescrição: [Dispositivo] II",
+            "desc": "Acerte um Alvo do Prescript com a Habilidade equipada no primeiro Slot, ou elimine um alvo aleatório. || || - Início do Turno: Ganha este efeito se esta unidade tem Desbloqueio - I || - Graça do Prescript empilhável máxima com este Prescript é limitada a 6",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptStudent_2",
+            "name": "Prescrição: [Dispositivo] III",
+            "desc": "Atordoe ou elimine um alvo aleatório. || || - Início do Turno: Ganha este efeito se esta unidade tem Desbloqueio - II || - Graça do Prescript empilhável máxima com este Prescript é limitada a 9",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptStudent_3",
+            "name": "Prescript: [Device] IV",
+            "desc": "Elimine todos os obstáculos antes do próximo Prescript chegar. || || - Início do Turno: Ganha este efeito se esta unidade tem Desbloqueio - III",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "UnlockBuff_1",
+            "name": "Destrave - I",
+            "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 15 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnlockBuff_2",
+            "name": "Destrave - II",
+            "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 30 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnlockBuff_3",
+            "name": "Destrave - III",
+            "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 45 SP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "KarmaOfIndexStudent",
+            "name": "Karmic Consequence",
+            "desc": "- Turn Start:\n· Gain 1 Defense Level Down for every 10 Stacks\n· Gain 1 Fragile for every 20 Stacks\n- Max Stack: 100",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "Receba o Prescript e o execute. Sua execução é gravada como carma, atraída a um ciclo incessante que retorna à mão de seu executor."
+        },
+        {
+            "id": "Blandishment_Enemy",
+            "name": "Faith Beyond Question",
+            "desc": "- Min & Max Speed +1\n- Offense Level +3, Defense Level +3\n- Gain +1 more Poise Potency from Skills",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Não é... Não é evidente? Cada palavra que o bipe concede é inquestionavelmente... a-além de questão.\""
+        },
+        {
+            "id": "Blandishment_Shin_Enemy",
+            "name": "Shin (心) - Sora",
+            "desc": "- Min & Max Speed +1\n- Offense Level +2, Defense Level +2\n- Gain +1 more Poise Potency and Poise Count from Skills\n- Deal +(missing HP percentage + 25)% damage (max 100%)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "PressureOfPrescript",
+            "name": "Onus",
+            "desc": "- Deal +25% damage for every Stack (max 50%)\n- Under Effloresced E.G.O::Procuration state:\n· At 1 Stack, Final Power +1\n· At 2 Stack, Final Power +3 instead\n- Max Stack: 2",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'W-what should I do? What is unquestionable must be carried out unquestionably...'"
+        },
+        {
+            "id": "PressureOfPrescript_2nd",
+            "name": "Extreme Onus",
+            "desc": "- Causa +50% de dano para cada Carga (máx. 100%) || - Sob estado Effloresced E.G.O::Procuration: || · Em 1 Carga, Poder Final +2 || · Em 2 Cargas, Poder de Moeda Positiva +1 e Poder Final +3 em vez disso || - Carga Máx.: 2 || - Ao usar certas Habilidades, conta como Ônus e é consumida",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BlindFaith_LowMorale",
+            "name": "Prescript Incompliance Risk",
+            "desc": "- Moral Baixo || - Causa +20% de dano contra alvos que têm o Alvo do Prescript || - Recebe +10% de dano de alvos que não têm o Alvo do Prescript",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BlindFaith_Panic",
+            "name": "Prescript Incompliance Risk",
+            "desc": "- Pânico || - Causa +30% de dano contra alvos que têm o Alvo do Prescript || - Recebe +20% de dano de alvos que não têm o Alvo do Prescript",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "YellowHarpoon",
+            "name": "O Arpão Amarelo",
+            "desc": "- Turn Start: Gain 4 Haste and 8 Poise\n- Turn End: Gain +3 Poise Count if an enemy has Nested Harpoon",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "YellowHarpoonSin",
+            "name": "Shin(心) - O Arpão Amarelo",
+            "desc": "- Nível de Ataque Base +3, Nível de Defesa Base +3 || - Restaura 3 SP ao atacar o alvo que atacou esta unidade no turno anterior || - Em 0+ SP, ganha Poder Final em (SP / 10) (arredondado para baixo)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BeeSting",
+            "name": "Arpão Alastrado [Picada de Abelha]",
+            "desc": "- Resist. a Talho +0.2, Resist. a Preguiça +0.2 || - Fim do Turno: Ganha 2 Vínculo no próximo turno || - Ao Acertar: Ganha 1 Potência de Sangramento || - Ao ser atacado por Vespa, ganha 2 Estridência de Gungnir || - Ativa Sangramento nesta unidade uma vez quando este efeito é removido",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ArtifactBeeSting",
+            "name": "Arpão Alastrado [Picada de Vespa]",
+            "desc": "- Resist. a Talho +1, Resist. a Preguiça +1 || - Fim do Turno: Ganha 4 Vínculo no próximo turno || - Ao Acertar: Ganha 3 Potência de Sangramento || - Ao ser atacado por Vespa, ganha 3 Estridência de Gungnir || - Ativa Sangramento nesta unidade 2 vezes quando este efeito é removido",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "HornetPoison",
+            "name": "Gungnir's Droning",
+            "desc": "- Ao ser atacado por Vespa, recebe dano fixo igual à Potência deste efeito || - Reduz a Contagem em 1 após o Fim do Turno (Interage da mesma forma que Tremor normal interage com efeitos que elevam Contagem de Tremor)",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "<color=#fde55d>Os empalados pelo arpão são pulverizados conforme golpes sucessivos amplificam sua força vibratória.</color>"
+        },
+        {
+            "id": "CriticalDmgUpVespa",
+            "name": "Apic Flashburst Blade Art - Hwando",
+            "desc": "Deal +10% more damage on Critical Hit for every Stack this turn",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "<color=#fde55d>Um estilo de esgrima originado do Oriente, adequado àqueles que empregam rajadas instantâneas de movimento de salto que beiram a teletransporte. || || O rapaz enfrentou o aprimoramento ameaçador à vida com resolução desesperada, e sua sobrevivência provou seu valor.</color>"
+        },
+        {
+            "id": "Vespa_LowMorale",
+            "name": "Vexation",
+            "desc": "- Low Morale\n- Gain 1 Pierce Power Up and 1 SP Heal Efficiency Down",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Vespa_Panic",
+            "name": "Vexation",
+            "desc": "- Panic\n- Gain 2 Pierce Power Up, 1 Pierce DMG Up, and 2 SP Heal Efficiency Down",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ScarBygoneDays_LowMorale",
+            "name": "Afeição e Ressentimento",
+            "desc": "Deal +10% damage to and take +10% damage from Ryōshū",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ScarBygoneDays_Panic",
+            "name": "Afeição e Ressentimento",
+            "desc": "Deal +20% damage to and take +20% damage from Ryōshū",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "PhantomIncision",
+            "name": "Marca da Lâmina [Miragem]",
+            "desc": "- Max Stack: 99\n- Turn Start: Gain 1 Fragile for every 10 Stack (max 5)",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "PhantomIncisionTotal",
+            "name": "Lâmina da Estrela Dihui",
+            "desc": "- Total sum of Bladetrail [Afterimage] Stack in this Encounter",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "LvDownLittleFingerBoss",
+            "name": "Cautela Silenciosa",
+            "desc": "UNUSED BUFF",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeGapAb",
+            "name": "Disjunção",
+            "desc": "- Início do Turno: A Parte ganha Escudo igual à Carga || - A redução no Escudo reduz a Carga também",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeEntangleFour",
+            "name": "Miragem Quádrupla Entrelaçada",
+            "desc": "Stage 4 Afterimage Entanglement\n- Min & Max Speed -2 for this unit\n- On Hit, activate the following effects:\n  · Inflict 1 Poison\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
+            "summary": "Stage 4 Afterimage Entanglement",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeEntangleThree",
+            "name": "Miragem Tripla Entrelaçada",
+            "desc": "Stage 3 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Bleed\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
+            "summary": "Stage 3 Afterimage Entanglement",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeEntangleTwo",
+            "name": "Miragem Dupla Entrelaçada",
+            "desc": "Stage 2 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 1 Bind next turn\n  · Inflict 2 Burn",
+            "summary": "Stage 2 Afterimage Entanglement",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeEntangleOne",
+            "name": "Miragem Única Entrelaçada",
+            "desc": "Stage 1 Afterimage Entanglement\n- On Hit, activate the following effects:\n  · Inflict 2 Burn",
+            "summary": "Stage 1 Afterimage Entanglement",
+            "undefined": "-"
+        },
+        {
+            "id": "LittleFingerBoss_Shin",
+            "name": "Shin (心) - Estrela Dihui",
+            "desc": "- Carga Máx.: 3 || - Início do Turno: Aplica os seguintes efeitos || · Ganha 5 de Potência de Equilíbrio e +1 Contagem de Equilíbrio para cada Carga || · Ganha 1 Aumento de DANO de Talho para cada 15% de HP faltando em si (máx. 5)",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "RyoshuParrySoji",
+            "name": "Memórias e Lembranças Distorcidas e Entrelaçadas",
+            "desc": "- Slot de Habilidade +1 || - Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
+            "summary": "If there is a surviving ally, HP does not drop below 1",
+            "undefined": "-"
+        },
+        {
+            "id": "RyoshuStartA1C9P2",
+            "name": "Mutilated Memory",
+            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos da Casa das Aranhas || - Ao ser Atordoada, recupera-se imediatamente do Atordoamento no início do próximo turno e ganha 1 Reforço de Poder de Ataque (1 vez por Encontro)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Ryoshu_IndexFightBuff",
+            "name": "Mutilated Memory and Recollection",
+            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos da Casa das Aranhas || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; e ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
+            "summary": "Ryōshū Exclusive Effect",
+            "undefined": "-"
+        },
+        {
+            "id": "Malkuth_Imperfect",
+            "name": "Reino de Malkuth - Manifestação Incompleta",
+            "desc": "<i><color=#d3a562>Um vislumbre imperfeito do poder que reinará sobre o Reino</color></i>",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "TimeEntangleDesc",
+            "name": "Miragem Entrelaçada",
+            "desc": "Afterimages are Entangled\nEffect Stage changes with the progress of combat pattern",
+            "summary": " ",
+            "undefined": "-"
+        },
+        {
+            "id": "IndexPrescriptDon_0",
+            "name": "Prescrição: [Dispositivo] I",
+            "desc": "Use uma Habilidade marcada com Marca da Prescrição ou atinja um alvo com uma Habilidade marcada.\n\n- Início de Turno: Recebe esse efeito quando essa unidade não tiver Destrave\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 3",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptDon_1",
+            "name": "Prescript: [Device] II",
+            "desc": "Atinja um alvo com uma Habilidade marcada com Marca da Prescrição.\n\n- Início de Turno: Recebe esse efeito se essa unidade tiver Destrave - I\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 6",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptDon_2",
+            "name": "Prescript: [Device] III",
+            "desc": "Atinja um alvo com uma Habilidade de Despertar de E.G.O ou \"Habilidade 3\" marcada com Marca da Prescrição.\n\n- Início de Turno: Recebe esse efeito se essa unidade tiver Destrave - II\n- Limite de acúmulo máximo de Graça da Prescrição com essa Prescrição: 9",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "IndexPrescriptDon_3",
+            "name": "Prescript: [Device] IV",
+            "desc": "Elimine todos os inimigos antes que a próxima Prescrição chegue.\n\n- Início de Turno: Recebe esse efeito se essa unidade tiver Destrave - III",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "As Prescrições são entregues por diversos meios; sua forma de transmissão é determinada com finalidade semelhante a uma profecia divina."
+        },
+        {
+            "id": "UnlockBuff_Base",
+            "name": "Destrave",
+            "desc": "- Ganha este efeito ao ultrapassar certa Carga de Graça do Prescript || - O estágio do efeito aumenta com base na Carga de Graça do Prescript || - Máx.: Estágio 3",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnlockBuffAlly_1",
+            "name": "Destrave - I",
+            "desc": "- Nível Defensivo +1\n- Fim de Combate: Cura 5 PS",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnlockBuffAlly_2",
+            "name": "Destrave - II",
+            "desc": "- Nível Defensivo +2\n- Fim de Combate: Cura 10 PS",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnlockBuffAlly_3",
+            "name": "Destrave - III",
+            "desc": "- Nível Defensivo +3\n- Fim de Combate: Cura 15 PS",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Blandishment",
+            "name": "Fé Inquestionável",
+            "desc": "- Velocidade Mín. e Máx. +1\n- Nível Ofensivo +2, Nível Defensivo +2\n- Recebe +1 Potência de Postura de Habilidades Base\n- O PS dessa unidade não cai abaixo de -15 por efeitos de perda de PS nas Habilidades Ofensivas Base nessa unidade\n- Acúmulo Máx.: 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Blandishment_Shin",
+            "name": "Shin (心) - Procuração",
+            "desc": "- Velocidade Mín. e Máx. +2\n- Nível Ofensivo +1, Nível Defensivo +1\n- Recebe +1 Potência de Postura e Contagem de Postura de Habilidades Base\n- Causa +(porcentagem de PV faltante / 2)% de dano com Habilidades Base (máx. 40%)\n- Acúmulo Máx.: 1",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

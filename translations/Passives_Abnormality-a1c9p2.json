@@ -1,0 +1,147 @@
+﻿{
+    "dataList": [
+        {
+            "id": 132203,
+            "name": "Miragens Sobrepostas",
+            "desc": "Início do Encontro: Ganha [TimeEntangleFour] || No início do primeiro turno de cada padrão, ganha [TimeGapAb] igual a ([TimeEntangleDesc] estágio x 400) (1 vez por estágio de [TimeEntangleDesc]) || || Nos estágios 3 e 4 de [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>se esta unidade perde todo [TimeGapAb], o padrão muda e fica Atordoada no próximo turno</u></b></mark></color> || || Recebe -30% de dano de HP e SP de [Combustion], [Laceration], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132204,
+            "name": "Eco das Miragens",
+            "desc": "Ao acertar com Moeda desta unidade, causa dano de Talho igual a (dano final da Moeda / 10) || - Este efeito ativa ([TimeEntangleDesc] estágio) vezes; o dano deste efeito não pode Atordoar o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132205,
+            "name": "Dilacerando Miragens Através do Tempo",
+            "desc": "Fim da Habilidade de Ataque: Causa (# de Moedas de Talho que acertaram Criticamente x 10) de dano de Talho contra cada alvo (o dano deste efeito não pode Atordoar o alvo) || || Fim da Habilidade de Ataque: Consome toda Potência de [Breath] excedente além de 20 em si e aplica [PhantomIncision] no alvo pela Potência de [Breath] consumida",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132208,
+            "name": "Desembainhar Lâmina da Estrela Dihui",
+            "desc": "Use a powerful attack pattern every 4 turns\n- At 50+ [PhantomIncisionTotal], the pattern above becomes empowered",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'... I'm weary of this stigma of a blade.'"
+        },
+        {
+            "id": 132216,
+            "name": "'Vou Lhe Dar Uma Certa Vantagem'",
+            "desc": "Causa -50% de dano final com a Habilidade desta unidade contra alvos que usaram Habilidade de Defesa || || Fim do Turno: Ganha 2 [Vulnerable] e 2 [AttackDmgUp] a cada 4 turnos neste Encontro (aplica cumulativamente; máx. 2 vezes por Encontro)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132101,
+            "name": "Living Nerves - Partial Deterrence Release",
+            "desc": "Ao morrer, todas as Habilidades são canceladas pelo turno || Ganha 10 [SelfCharge] quando o efeito acima ativa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132102,
+            "name": "Undying Persistence",
+            "desc": "Every 5 turns, gains a Shield equal to the head's HP",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132103,
+            "name": "Terminated Persistence",
+            "desc": "After using 'Coil Up', if the Shield is exhausted, spend all [SelfCharge]\nAll parts become Staggered next turn",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132001,
+            "name": "The Last Ember",
+            "desc": "At 30%- HP, gain +1 more [MRcAiBa]",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132002,
+            "name": "Stoke the Flames",
+            "desc": "Quando a Parte das Asas é quebrada, aplica [MRcAiBb] igual à Carga de [MRcAiBa] no último atacante; em seguida, todo [MRcAiBa] em si expira. || || Ao usar 'Estrela da Flor Ardor' em 0 [MRcAiBa], usa 'Acende as Chamas' também",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132003,
+            "name": "Flaming Ember",
+            "desc": "Convert a number of non-Wrath Skills equal to [MRcAiBa] Stack into Wrath Skills",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132004,
+            "name": "Interlocking Ardor Blossom",
+            "desc": "Se esta unidade tem [MRcAiBa], converte um número de Habilidades Não-Ira igual à Carga de [MRcAiBa] em Habilidades de Ira || || Ao Acertar, aplica [Combustion] igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno) || || Ao Acertar, restaura HP igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x 2)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132005,
+            "name": "Supply Resources",
+            "desc": "Quando a Parte das Asas é quebrada, ganha 2 Recursos E.G.O de todas as Afinidades e restaura 15 SP de todos os Pecadores",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132006,
+            "name": "Flaming Wings - Partial Deterrence Release",
+            "desc": "Não recebe dano de [Combustion]\n\nFim de Turno: Cura o Núcleo em ([Combustion] em si x 5)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132501,
+            "name": "Prescrição Entregue em um Dispositivo",
+            "desc": "Início do Encontro: Ganha Escudo equivalente a 20% do HP máx. (permanece por todo este Encontro) || || Início do Turno: || - Ganha [IndexPrescript_Base_2nd] com base no estágio [UnlockBuff_Base] em si mesma || - <color=#ff6000><mark=#ff000040><b><u>Aplica [IndexPrescriptTargetToPersonality] em um inimigo aleatório e prioriza atacá-lo</u></b></mark></color> (excluindo certo padrão) || || Causa +2,5% de dano a [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 20%) || - Em 9 [BlessingOfIndexPrescriptEnemy], causa +30% de dano a todos os alvos em vez disso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132502,
+            "name": "Vontade da Prescrição",
+            "desc": "Fim do Turno: <color=#ff6000><mark=#ff000040><b><u>Se [IndexPrescript_Base_2nd] foi executada neste turno,</u></b></mark></color> restaura 15 SP e ganha [BlessingOfIndexPrescriptEnemy] em (estágio [UnlockBuff_Base] + 1) (1 vez por turno) || || Fim do Turno: <color=#ff6000><mark=#ff000040><b><u>Se [IndexPrescript_Base_2nd] não foi executada neste turno</u></b></mark></color>, ganha 1 [PressureOfPrescript] e 5 [KarmaOfIndexStudent] || - Se esta unidade não tem [UnlockBuff_Base], ganha 1 [BlessingOfIndexPrescriptEnemy] em vez disso",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132503,
+            "name": "Destrave",
+            "desc": "Fim do Turno: Em 3/6/9 [BlessingOfIndexPrescriptEnemy] ou em 90%-/75%-/60%- HP, || - Ganha [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3] || - Restaura a 45 SP || - <color=#ff6000><mark=#ff000040><b><u>Consome todo [PressureOfPrescript]</u></b></mark></color> e recupera-se do Atordoamento || - Ganha 1 [BlessingOfIndexPrescriptEnemy] no turno após [UnlockBuff_Base] ter sido ganho pela primeira vez || || Se [UnlockBuff_Base] foi ganho com base na condicional de HP acima, || - Ganha [KarmaOfIndexStudent] em (soma de SP restaurado / 15)",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "\"Dizem que a lâmina e o tecido concedidos pelo Prescript desbloqueiam seu poder apenas quando o Prescript é executado.\""
+        },
+        {
+            "id": 132504,
+            "name": "E.G.O Florescente::Procuração",
+            "desc": "Início do Turno: se esta unidade tem [UnlockBuff_Base] e está em 25+ SP, consome 15 SP para entrar no estado Effloresced[TabExplain] E.G.O::Procuration e recupera-se do Atordoamento || - Ganha [Blandishment_Enemy] e um conjunto diferente de valores de Resistência enquanto neste estado || - Início do Turno: em 0 ou menos SP, sai do estado Effloresced[TabExplain] E.G.O::Procuration",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": 132505,
+            "name": "Postura de Aniquilação",
+            "desc": "Quando Vespa entra no campo de batalha: || - Se [UnlockBuff_Base] está abaixo do estágio II, ganha [UnlockBuff_3], restaura SP a 45 e recupera-se do Atordoamento || - Ganha 1 [Blandishment_Shin_Enemy] e ganha Escudo igual a 50% do HP máx. (dura pelo restante deste Encontro) || - Desabilita o custo de [PressureOfPrescript] para ativar a Passiva 'Desbloqueio[TabExplain]' || - Intensifica [PressureOfPrescript] para [PressureOfPrescript_2nd] e maximiza sua Carga || - Início do Turno: Ganha 1 [PressureOfPrescript_2nd]",
+            "summary": "",
+            "undefined": "-",
+            "flavor": "'Q-que pessoa perigosa... O Prescript pode ficar não cumprido neste ritmo.'"
+        },
+        {
+            "id": 132230,
+            "name": "Panic Recovery",
+            "desc": "Turn End: if in Panic, reset SP to 30.",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

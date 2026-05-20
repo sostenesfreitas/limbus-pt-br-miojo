@@ -1,0 +1,1571 @@
+﻿{
+    "dataList": [
+        {
+            "id": 114501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Double Slash",
+                    "desc": "Poder Final +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Triple Slash",
+                    "desc": "Poder Final +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo por 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Double Slash - Blast [爆]",
+                    "desc": "Poder Final +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 4)\n[DefeatDuel] Perde 1 de [BulletPropellant]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Triple Slash - Blast [爆]",
+                    "desc": "Poder Final +1 para cada 4 de ([Combustion] + [Vibration]) no alvo (máx. 4)\n[DefeatDuel] Perde 1 de [BulletPropellant]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration] e +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] e +2 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Blasting Shatterslash [爆碎斬]",
+                    "desc": "Prioriza alvos com [Prey] || Pode embater com esta Habilidade independentemente da Velocidade || Poder de Moeda +1 para cada 6 ([Combustion] + [Vibration]) no alvo (máx. 3) || [DefeatDuel] Perde 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Vibration] e +4 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "If this unit spent [BulletPropellant] due to this Coin's effect, deal +50% damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] e +3 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo por 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114506,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Clivada Desatadora [快刀亂麻]",
+                    "desc": "Prioriza alvos com [Prey] || Pode Embater com esta Habilidade independentemente da Velocidade; esta unidade não fica Atordoada antes de usar esta Habilidade || [WhenUse] Consome toda Carga de [BattleSense] em si. Se esta unidade consumiu... || - ... 10+ Cargas, ganha Peso de Atq +1 para cada 10 Cargas consumidas (máx. 2) || - ... 25 Cargas, Poder Final +1 para cada 4 ([Combustion] + [Vibration]) no alvo principal (máx. 5) || [DefeatDuel] Ganha 4 [ResultReduction] || [DefeatDuel] Ganha 1 [Paralysis] || [DefeatDuel] Causa -80% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste todos [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion], Contagem de [Combustion], [Vibration], e Contagem de [Vibration] igual [BulletPropellant] gastas"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] três vezes; então, reduz a Contagem de [Vibration] do alvo por 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114507,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rajada de Lâminas Aperfeiçoadas do Matatigre Selvagem [超絕猛虎殺擊亂斬]",
+                    "desc": "Prioriza alvos com [Prey] || Pode Embater com esta Habilidade independentemente da Velocidade; esta unidade não fica Atordoada antes de usar esta Habilidade || [WhenUse] Consome toda Carga de [BattleSense] em si. Se esta unidade consumiu... || - ... 10+ Cargas, ganha Peso de Atq +1 para cada 10 Cargas consumidas (máx. 4) || - ... 25 Cargas, Poder Final +1 para cada 4 ([Combustion] + [Vibration]) no alvo principal (máx. 6) || - ... 50 Cargas, Poder de Moeda +1 e causa +50% de dano || [DefeatDuel] Ganha 2 [ResultReduction]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +6 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +6 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [Switch_Vibration] para [VibrationIgnition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Provoca [VibrationExplosion] 5 vezes; então, reduz a Contagem de [Vibration] do alvo por 5"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114508,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Reloading Tiantui Star's Blade",
+                    "desc": "[DuelCounter]\n[DefeatDuel] Lose 1 [BulletPropellant]\n[EndSkill] [FullReload] (once per turn)\n- If this unit has [BulletPropellantSpecial], [ReloadKeepAmmo] instead (once per turn)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Gaste 1 [BulletPropellant]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Savage Tigermark Support",
+                    "desc": "[EndBattle] If this unit survives, give 6 [BulletPropellantSpecial] to Lei Heng\n[EndBattle] [DisengageCombat]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desprezo",
+                    "desc": "Se o alvo tiver 3+ [GazeReplica], dobra a quantidade de efeitos nocivos infligidos por esta Habilidade\n[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Awe",
+                    "desc": "Se o alvo tiver 3+ [GazeReplica], dobra a quantidade de efeitos nocivos infligidos por esta Habilidade\n[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflict 3 [DefenseDown] next turn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [AttackDmgDown] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desprezo, Temor【Liberado】",
+                    "desc": "[CantChangeTarget]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 10 de dano de PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento do alvo igual a ([GazeReplica] no alvo x 5)"
+                                },
+                                {
+                                    "desc": "[EndSkill] Remove [GazeReplica] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contemptuous Thing",
+                    "desc": "Prioritizes Hong Lu\n[WhenUse] Inflict 4 [GraspReplica]\n[WhenUse] Gain 2 [AttackDmgUp] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Be Awed",
+                    "desc": "Prioritizes targets with [GraspReplica]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113506,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "You Must Confront This",
+                    "desc": "[DuelCounter]\n[DefeatDuel] Reduce target's [GazeReplica] by 2\n[DefeatDuel] Reduce target's [GraspReplica] by 1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113507,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Awe, Contempt【Unleashed】",
+                    "desc": "[BeforeAttack] Gain Atk Weight by the number of Sinners with 4+ [GazeReplica]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] If target has 4+ [GazeReplica], inflict 1 [GazeReplica]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113508,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spiral Warp Field",
+                    "desc": "[CanDuelGuard]\n[StartBattle] Jia Huan and Gubo gain 30 Shield\n[WinDuel] Jia Huan and Gubo gain 30 Shield",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Front Line Fire",
+                    "desc": "Alveja o alvo mais a frente\n[WhenUse] Recebe 1 de [BoseProjektilReplica]\n[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1\n[WhenUse] Recebe +1 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+50% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rear Line Fire",
+                    "desc": "Alveja o alvo mais atrás\n[WhenUse] Recebe 1 de [BoseProjektilReplica]\n[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1\n[WhenUse] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "+70% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sigilshattered Bullet",
+                    "desc": "Targets the frontmost target\n[WhenUse] Gain 3 [Breath] and +2 [Breath] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta Moeda causa dano apenas contra o alvo principal"
+                                },
+                                {
+                                    "desc": "[EnemyKill] A última Moeda causa +100% de Dano"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta Moeda causa dano apenas contra os subalvos"
+                                },
+                                {
+                                    "desc": "+100% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Bullet Drenched with the Blood of a Comrade",
+                    "desc": "[CantChangeTarget] || Prioriza Funcionários da N Corp. || - Se esta unidade falhou em atacar a unidade alvo, cancela esta Habilidade || [WhenUse] Ganha 5 [Breath] || [EndBattle] Restaura 20 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta Moeda causa dano apenas contra o alvo principal"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica (HP do alvo no timing 'Ao Acertar') de dano bônus de Soberba com a Moeda final"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Mata o alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Esta Moeda causa dano apenas contra os subalvos"
+                                },
+                                {
+                                    "desc": "+100% Damage on Critical Hit"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Sinking] e +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Reminiscence Shattering Bullet",
+                    "desc": "[WideAreaRampage]\nDeal +10% damage for every [BoseProjektilReplica] on self\n[WhenUse] Lose 10 SP\n[EndSkill] Spend all [BoseProjektilReplica] on self",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Perde 5 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Perde 5 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Perde 5 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Perde 5 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113606,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Melee Combat",
+                    "desc": "[DuelCounter]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - Wei [未]",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de ([Laceration] + [Burst]), Poder de Confronto +1\n[WhenUse] Se o alvo tiver 7+ de ([Laceration] + [Burst]), recebe 5 de [Breath] e +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - Yin [寅]",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 5 de ([Laceration] + [Burst]) no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - Si [巳]",
+                    "desc": "[WhenUse] Se o alvo principal tiver 1-+ de ([Laceration] + [Burst]), Peso de Atq +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Poison]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Poison]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - You [酉]",
+                    "desc": "[WhenUse] Se o alvo tiver 10+ de ([Laceration] + [Burst]), Poder de Moeda +1\nInflige 1 de [Laceration] e [DefenseDown] com cada Acerto Crítico",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 2 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 2 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 2 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - Hun [混]",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada tipo de efeito nocivo no alvo principal (máx. 2)\n[DefeatDuel] Causa -50% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo\n[EndSkill] Recebe 2 de [Binding] e 6 de [DefenseDown] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Poison]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 114606,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Completed Heixian Bolus - You [酉] - Defense",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Se o alvo tiver 5+ de ([Laceration] + [Burst]), Poder de Moeda +2\n[WhenUse] Cura 8 PS\n[WhenUse] Recebe 3 de [Breath] e +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Precious Jade's Cradle [寶玉搖籃]",
+                    "desc": "[CantChangeTarget] || Prioriza Hong Lu || Quando esta Habilidade mira Hong Lu, causa 0 de dano || [EndSkill] Quando esta Habilidade mira Hong Lu, o Atordoa, em seguida o transforma em [ExpensiveJade] no próximo turno; em seguida, termina o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Supernatural, Strength, Chaos, and Spirits - Yin Si You [寅巳酉]",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 5 de ([Laceration] + [Burst]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não conheces as profundezas do poder do olho, sua natureza especial",
+                    "desc": "Prioriza Hong Lu || [WhenUse] Quando há Baoyu, a Pedra Preciosa, converte todas as Moedas desta Habilidade em [SuperCoin]s || [WhenUse] Poder de Moeda +1 para cada 5 (soma de [Laceration] e [Burst] no alvo) (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration] e +3 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e 1 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Please Watch me, O Xianren...!",
+                    "desc": "Prioritizes Hong Lu\n[WinDuel] Gain 5 [Breath] and +2 [Breath] Count\n[DefeatDuel] Gain 2 [AttackUp] and 2 [DefenseDown] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] e 2 de [Vulnerable] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115205,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não conheces o destino de uma Patriarca sem o cuidado dos Xianren!",
+                    "desc": "[WhenUse] Cura 25 PS\n[DefeatDuel] Causa -50% de dano e o dano causado por essa Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +2.5% de Dano para cada ([Burst] + [Laceration]) no alvo (Máx. 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Poison]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +2.5% de Dano para cada ([Burst] + [Laceration]) no alvo (Máx. 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa +2.5% de Dano para cada ([Burst] + [Laceration]) no alvo (Máx. 50%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115206,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Nothing But a Meaningless Struggle...!",
+                    "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu heals 15 SP. At 0 SP, heal 30 SP instead.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115207,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Still, you can do nothing",
+                    "desc": "[WhenUse] Ganha [OutpouringAnger] || [WhenUse] Restaura 8 SP || [WhenUse] Se o alvo principal tem menos de 50% de HP, ou se o alvo principal tem 10+ ([Burst] + [Laceration]), converte as Moedas desta Habilidade em [SuperCoin]s || [DefeatDuel] Ganha 1 [Vulnerable] || - Ao perder um embate contra Hong Lu, ganha 2 [Vulnerable] em vez disso",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] e 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Deal 10 SP damage and raise target's Stagger Threshold by 50% of damage dealt"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 8 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115208,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Uma Patriarca sem a bênção dos Xianren é Patriarca apenas em nome; morrerá morte de inseto!!!",
+                    "desc": "[WhenUse] Em 30% ou menos de HP do Núcleo: Poder de Moeda +3, causa +30% de dano || [WhenUse] Em menos de 50% de HP do Núcleo: converte as Moedas desta Habilidade em [SuperCoin]s || [DefeatDuel] Causa -50% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [PileObedient]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 5 PS"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [PileObedient]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 5 PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115209,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Be honored to be in audience of such a great man",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada antes de usar esta Habilidade || [WhenUse] Ganha 2 [Enhancement], 2 [Endurance] e 2 [AttackDmgUp] na Parte do Corpo no próximo turno || [WhenUse] Restaura o SP desta unidade até 30 SP || [DefeatDuel] Causa -50% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Sinking] "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115210,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Be with this little girl, O Xianren",
+                    "desc": "[StartBattle] Partes do Corpo e do Núcleo ganham Escudo igual a 10% do seu HP máx., respectivamente || [WhenUse] Parte do Corpo ganha 1 [Enhancement], 1 [Endurance] e 2 [AttackDmgUp] no próximo turno || [WhenUse] Restaura 15 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] e +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115211,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "O Xianren...!",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada antes de usar esta Habilidade || [StartBattle] Gera 5 Árvores Anciãs no próximo turno || [DefeatDuel] Causa -50% de dano e este dano causado por esta Habilidade não pode Atordoar o alvo || [EndSkill] Termina o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115212,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please give me, Shi Miyin, your strength!",
+                    "desc": "If target has 50%+ HP, Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Entre os alvos sem [ImperfectEternalLife], escolhe e restaura 15% de HP para o aliado com menor HP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Entre os alvos sem [ImperfectEternalLife], escolhe e restaura 15% de HP para o aliado com menor HP"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115213,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "An Offering of Extreme Extracted Immortality [極仙榨滴供養]",
+                    "desc": "[CantIdentify] || Esta Habilidade não pode causar dano em aliados || Pode Embater com esta Habilidade independentemente da Velocidade; não pode ser Atordoada antes de usar esta Habilidade || [WhenUse] Poder de Moeda +2 e causa +20% de dano para cada 1 aliado com [SupremeEternalLife] || [WhenUse] Se não há aliados com [SupremeEternalLife], aplica 200 de Escudo em todos os alvos || [EndSkill] Termina o turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo é um aliado, sifona o HP restante e o [ImperfectEternalLife] dele. Em seguida, aplica a mesma quantidade de Carga de [ImperfectEternalLife] em todas as Partes desta unidade no próximo turno. Elimina a unidade Sifonada depois."
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 8 de [Laceration] e 8 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "I greet you now",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de PS"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "I'll be docile",
+                    "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu heals 15 SP. At 0 SP, heal 30 SP instead.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "I'll be your amusement",
+                    "desc": "[CantDuel] || [EndSkill] Mata esta unidade e restaura o SP de Jia Mu até 45 SP. Aplica 2 [Enhancement] e 5 [AttackDmgUp] em Jia Mu no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 15 de dano de PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento por 50% do Dano Causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Give me your vitality",
+                    "desc": "If target has 50%+ HP, Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 20% dos PV Máx."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 20% dos PV Máx."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Please me",
+                    "desc": "If target has 50%+ HP, Clash Power +2\n[WhenUse] Heal 10 SP for Jia Mu",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Xianren's Wise Counsel",
+                    "desc": "[WhenUse] Apply 1 [Enhancement] and 1 [AttackDmgUp] to Jia Mu next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Xianren's True Counsel",
+                    "desc": "[WhenUse] Apply 1 [Endurance] and 1 [Protection] to Jia Mu next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115405,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "I need more vitality...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 115214,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Nothing But a Meaningless Struggle...!",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Poder de Moeda +1 para cada 5 de ([Laceration] + [Burst]) no alvo (máx. 3)\n[WinDuel] Inflige +1 Contagem de [Burst], inflige 2 de [DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

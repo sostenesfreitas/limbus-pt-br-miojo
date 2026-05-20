@@ -1,0 +1,214 @@
+﻿{
+    "dataList": [
+        {
+            "id": 113101,
+            "name": "Failed Ambush",
+            "desc": "Turn End: if this unit lost a Clash this turn, gain 2 [Binding] next turn"
+        },
+        {
+            "id": 113102,
+            "name": "Jia Qiu's Test",
+            "desc": "First Turn Start: gain [RepressedMurderousIntendTwo]\nEnds Encounter when Hong Lu dies"
+        },
+        {
+            "id": 113701,
+            "name": "Effloresced E.G.O::Érlì",
+            "desc": "First Turn Start: heal 30 SP and gain [ExaminationOfQiu]"
+        },
+        {
+            "id": 113702,
+            "name": "Deteriorate (削貶)",
+            "desc": "If target has 4+ negative effects, Clash Power +1"
+        },
+        {
+            "id": 113703,
+            "name": "Deathrite [Halt (勿動)]",
+            "desc": "Deal +10% damage against targets with [BurstStop]"
+        },
+        {
+            "id": 113704,
+            "name": "Deathrite [Impede (掣肘)]",
+            "desc": "Take -20% damage from targets with [BurstSuppress]"
+        },
+        {
+            "id": 113706,
+            "name": "Heed me, Zilu",
+            "desc": "Gains a new pattern at 85% HP\nEnter a new phase at 60% HP"
+        },
+        {
+            "id": 113707,
+            "name": "É aqui que teu caminho termina",
+            "desc": "Ends encounter when Hong Lu dies"
+        },
+        {
+            "id": 113708,
+            "name": "Overwhelm",
+            "desc": "Quando o HP de uma Identidade cai a 1 ou abaixo, retira-a do Encontro"
+        },
+        {
+            "id": 113301,
+            "name": "Estimation",
+            "desc": "Turn End: for every Clash this unit lost, gain 1 Binding next turn (max 6)"
+        },
+        {
+            "id": 113302,
+            "name": "Shin (心) Divergência",
+            "desc": "Início do Primeiro Turno: restaura 30 SP || Ganha um novo padrão em 85% HP || Ganha 500 de Escudo no Início do Turno, em 60% HP || - Após este efeito ativar, esta unidade não cai abaixo de 1 HP"
+        },
+        {
+            "id": 114101,
+            "name": "Effloresced E.G.O::Érlì",
+            "desc": "First Turn Start: gain [ExaminationOfQiu]"
+        },
+        {
+            "id": 114102,
+            "name": "Diminish (貶)",
+            "desc": "If target has 3+ types of Deathrites, Coin Power +1"
+        },
+        {
+            "id": 114104,
+            "name": "I will ask again",
+            "desc": "Ends the Encounter at 50% HP "
+        },
+        {
+            "id": 114105,
+            "name": "Focus",
+            "desc": "When using 'Bring Forth a Real Answer', summon the Heishou"
+        },
+        {
+            "id": 114106,
+            "name": "Focus",
+            "desc": "Inicia o Encontro com metade da Potência e Contagem dos seguintes efeitos que esta unidade tinha no início desta fase: [Burst], [Combustion], [Sinking], [Vibration], [Laceration]"
+        },
+        {
+            "id": 113709,
+            "name": "Infinite Song of Erudition",
+            "desc": "Fim do Ataque: restaura 5 SP para cada Deathrite no alvo || Ao Acertar, quando o Deathrite do alvo é disparado, restaura 3 SP para cada Deathrite disparado"
+        },
+        {
+            "id": 114107,
+            "name": "I still await your answer.",
+            "desc": "A cada Início do Turno: Núcleo e Parte ganham 900 de Escudo. || - Quando Hong Lu tem [Teaching], perde 300 de Escudo por Carga em Hong Lu || - Quando Hong Lu tem 3+ [Teaching], esta unidade não ganha Escudo pelo restante do Encontro"
+        },
+        {
+            "id": 115701,
+            "name": "Hate",
+            "desc": "Final Power +2 in Clashes against Hong Lu"
+        },
+        {
+            "id": 115702,
+            "name": "Unleashed Curse",
+            "desc": "Turn Start: gain [AttackUp] equal to the number of Jars defeated in this Encounter (max 5)"
+        },
+        {
+            "id": 115703,
+            "name": "Returning the Pain",
+            "desc": "Deal +1% damage for every 1% missing HP on self (max 50%)"
+        },
+        {
+            "id": 115801,
+            "name": "Bolus of... Immortality?",
+            "desc": "Ao Acertar com uma Habilidade: restaura 10% do dano causado (arredondado para baixo) || Se o alvo tem [MadFeather], restaura ([MadFeather] Carga no alvo)% de HP adicional"
+        },
+        {
+            "id": 115802,
+            "name": "I'VE NEVER FELT BETTER!",
+            "desc": "On Hit, heal 3 SP on self"
+        },
+        {
+            "id": 115803,
+            "name": "MY REVENGEANCE HAS JUST BEGUN!",
+            "desc": "Gain 1 [AttackUp] next turn every time this unit loses a Clash (max 3)"
+        },
+        {
+            "id": 115804,
+            "name": "Rupture by Feathers",
+            "desc": "Toda vez que esta unidade acerta o mesmo alvo três vezes no mesmo turno, aplica 1 [Vulnerable] no próximo turno"
+        },
+        {
+            "id": 115805,
+            "name": "Rampage",
+            "desc": "Nível de Ataque +1 e Nível de Defesa -1 para cada 15% de HP que esta unidade perdeu cumulativamente neste Encontro (máx. 6)"
+        },
+        {
+            "id": 115901,
+            "name": "Wounded",
+            "desc": "Encounter Start: enters the battle with 80% HP"
+        },
+        {
+            "id": 115902,
+            "name": "Master of the Deathrite Monks",
+            "desc": "Fim do Turno: em 20 ou menos SP, esta unidade sifona 10 SP de 3 aliados aleatórios com maior SP para restaurar o próprio SP || || Início do Turno: Aplica 2 [AttackDmgUp] em todos os outros aliados com -20 ou menos SP"
+        },
+        {
+            "id": 115903,
+            "name": "Wicked Energy",
+            "desc": "Ao aplicar [OminousTalisman] em um inimigo, se o alvo já tem [OminousTalisman], consome até 3 [OminousTalisman] no alvo e aplica o mesmo valor como Cargas de [DefenseDown] no alvo neste turno e no próximo"
+        },
+        {
+            "id": 115904,
+            "name": "Dammit... Take them out!",
+            "desc": "Neste Encontro, se esta unidade sofrer dano que leve seu HP à metade ou menos, anula esse dano e termina o turno. Em seguida, move-se para a última posição da ordem de Substituição (quando Atordoada, recupera-se imediatamente) || || Se não há mais inimigos para Substituir, ou se não há o suficiente deles restantes (ou seja, se há mais inimigos mortos neste turno que esperando para Substituir no Encontro), este efeito não ativa"
+        },
+        {
+            "id": 115905,
+            "name": "The Battle's End",
+            "desc": "Quando Wang Qingshan perde todo o HP neste Encontro, o Encontro termina"
+        },
+        {
+            "id": 116701,
+            "name": "Ugh... these damn engravings...!",
+            "desc": "Turn End: at 7+ [Charge], gain 4 [DefenseDown] and 3 [AttackDmgUp] next turn"
+        },
+        {
+            "id": 116702,
+            "name": "Your shabby weapons are incomparable to mine",
+            "desc": "If this unit inflicted 4 or more [Burst] during this turn, gain +3 [Charge] Count at Turn End (once per turn)"
+        },
+        {
+            "id": 116703,
+            "name": "Is that all you've got?",
+            "desc": "Turn Start: gain 1 [AttackDmgUp] for every [Charge] on self"
+        },
+        {
+            "id": 116704,
+            "name": "The Battle's End",
+            "desc": "Quando Shi Hua... alguma coisa? perde todo o HP neste Encontro, o Encontro termina"
+        },
+        {
+            "id": 116705,
+            "name": "Deploy Lightning Shield",
+            "desc": "Início do Turno: se esta unidade tem [Charge], ganha (100 - (([Charge] - 1) x 10)) de Escudo. Em 7+ [Charge], esta unidade não ganha mais Escudo com esta Passiva."
+        },
+        {
+            "id": 116001,
+            "name": "É assim que se usa os recursos humanos",
+            "desc": "Início do Turno: se esta unidade tem 50% ou menos HP, sacrifica um Mercenário da Família Shi aleatório para restaurar (10% do HP desta unidade + 50% do HP da unidade sacrificada) de HP, restaura 25 SP e recupera-se do Atordoamento (1 vez por turno)"
+        },
+        {
+            "id": 116002,
+            "name": "Jin Gang, Unbreakable Diamond",
+            "desc": "Início do Turno: ganha 5 [Protection] || - Ganha menos Cargas dependendo do [Charge] desta unidade || - Em 5+ [Charge], esta unidade não ganha mais [Protection] com esta Passiva"
+        },
+        {
+            "id": 116003,
+            "name": "The Battle's End",
+            "desc": "Quando Shi Sijing perde todo o HP neste Encontro, o Encontro termina"
+        },
+        {
+            "id": 115704,
+            "name": "The Battle's End",
+            "desc": "Quando Xue Pan perde todo o HP neste Encontro, o Encontro termina"
+        },
+        {
+            "id": 115806,
+            "name": "The Battle's End",
+            "desc": "Quando Shi Yihua perde todo o HP neste Encontro, o Encontro termina"
+        },
+        {
+            "id": 114401,
+            "name": "My Lord",
+            "desc": "Turn Start: heal 30 SP\nTurn Start: gain up to 500 Shield\n- This unit does not drop below 1 HP"
+        }
+    ]
+}
