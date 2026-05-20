@@ -1,0 +1,1749 @@
+﻿{
+    "dataList": [
+        {
+            "id": 40000901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Obstrução",
+                    "desc": "Causa +50% de dano para cada tipo de efeito nocivo no alvo (máx +100%)\n[WhenUse] Poder Base +1 para cada 2 de ([Laceration] + [Vibration]) no alvo (máx. 5)\n[WhenUse] Recebe +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Duplo em Cadeia",
+                    "desc": "Causa +50% de dano para cada tipo de efeito nocivo no alvo (máx +100%)\n[WhenUse] Poder Base +1 para cada 2 de ([Laceration] + [Vibration]) no alvo (máx. 5)\n[WhenUse] Recebe +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Lançamento de Arpão",
+                    "desc": "Causa +50% de dano para cada tipo de efeito nocivo no alvo (máx +200%)\n[WhenUse] Recebe 2 de [CriticalDmgUpVespa] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BeeSting]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento em 40% do Dano Causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Empalamento de Arpão - É isso?",
+                    "desc": "Causa +50% de dano para cada tipo de efeito nocivo no alvo (máx +300%)\n[WhenUse] Recebe 5 de [CriticalDmgUpVespa] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [ArtifactBeeSting]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta o Limiar de Atordoamento por 60% do Dano Causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Chamar o Arpão",
+                    "desc": "[CantDuel] || Mira a unidade que tem o Arpão Aninhado (cancela esta Habilidade quando não há alvo disponível) || Causa +50% de dano para cada tipo de efeito negativo no alvo (máx. 200%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Remove the Nested Harpoon on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque.",
+                    "desc": "[DuelCounter]\nDeal +50% damage for every type of negative effect on target (max 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Gain 1 [SupportProtect]</color></mark></b></u>\n[WhenUse] Gain 2 [ResultEnhancement] and 2 [AttackDmgUp] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000907,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Assistência Defensiva.",
+                    "desc": "[CanDuelGuard]\n[SupportProtect] exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Faction",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000908,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ferrão Amarelado da Vespa [黄蜂針]",
+                    "desc": "Deal +50% damage for every type of negative effect on target (max 100%)\n[WhenUse] Gain 3 [CriticalDmgUpVespa] next turn",
+                    "flavor": "<color=#fde55d>\"Nem pense em resistir.\"</color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BeeSting] no alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove [BeeSting] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000909,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Gungnir",
+                    "desc": "Causa +50% de dano para cada tipo de efeito negativo no alvo (máx. 100%) || [WhenUse] Causa +20% de dano para cada 10 de Potência de [Vibration] no alvo || [BeforeAttack] Se o alvo está com menos de 50% de HP, [VibrationExplosion] disparado por esta Habilidade não consome Contagem de Tremor || [WhenUse] Em 0+ SP, gera 1 Mang (望) || - Poder de Moeda +1, causa +50% de dano || [WhenUse] Ganha 3 [CriticalDmgUpVespa] no próximo turno || [EndSkill] Se esta Habilidade gerou Mang (望), perde 2 SP",
+                    "flavor": "<color=#fde55d>\"Este arremesso vai atingir e perfurar sem falha.\"</color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo em 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [ArtifactBeeSting] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000910,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Romper Espaço - Lâmina da Ferroada Relâmpago [空間斬 - 閃蜂光劍]",
+                    "desc": "Causa +50% de dano para cada tipo de efeito negativo no alvo (máx. 100%) || [WhenUse] Causa +20% de dano para cada 10 de Potência de [Laceration] no alvo || [WhenUse] Em 0+ SP, gera 2 Mang (望) || - Poder de Moeda +2, causa +100% de dano || [BeforeAttack] Se o alvo está com menos de 50% de HP, [Laceration] disparado por esta Habilidade não consome Contagem de Sangramento || [EndSkill] Se esta Habilidade gerou Mang (望), perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (alvo perde 1 Contagem de [Laceration])"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (alvo perde 1 Contagem de [Laceration])"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (alvo perde 1 Contagem de [Laceration])"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (alvo perde 1 Contagem de [Laceration])"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Atordoa o alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Carmesim: Incisão",
+                    "desc": "If target has a negative effect, deal +50% damage\n[WhenUse] Lose 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 5 de dano bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Branca: Nevoa. Alvorecer. Esconder - Proteção Mental",
+                    "desc": "[CantDuel] || Esta Habilidade mira aliados, não dispara Habilidades de Defesa e não causa dano || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] O Alvo cura 15 PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica 2 de [MosesWhiteBreathMental] em si e no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Carmesim: Carne. Sangue. Acelerar. Endurecer - Fortalecimento Corporal",
+                    "desc": "[CantDuel] || Esta Habilidade mira aliados, não dispara Habilidades de Defesa e não causa dano || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica 2 de [MosesRedBreathBody], 1 de [AttackUp] e 1 de [DefenseUp] em si e no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Violeta: Irascível. Palpitando. Apertando - Suprimir",
+                    "desc": "Esta Habilidade não dispara a Habilidade de Defesa do alvo || Se o alvo tem um efeito negativo, causa +50% de dano || [WhenUse] Perde 8 SP || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 8 de dano de PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [MosesPurpleBreathBind], 2 de [Vulnerable] e 3 [PlusCoinValueDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Parar pra Respirar",
+                    "desc": "[CantDuel] || Esta Habilidade não acerta inimigos e não dispara Habilidades de Defesa || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001006,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Carmesim: Sangue. Músculo. Contração - Proteção",
+                    "desc": "[CantDuel] || Esta Habilidade mira aliados, não dispara Habilidades de Defesa e não causa dano || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica 1 de [MosesRedBreathShield] e 5 [Protection] em si e no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001007,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "'Inspiro Profundamente uma Fumaça Carmesim.'",
+                    "desc": "[CantDuel]\nThis Skill does not hit enemies and does not trigger Defense Skills\n[StartBattle] Gain 100 Shield (once per Encounter)\n[StartBattle]<color=#ff6000><mark=#ff000040><b><u>Gain 1 [MosesRedBreathCharge]</u></b></mark></color>\n[EndBattle] Lose 15 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001008,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Fumaça Carmesim: Pulsando. Sangue. Endurecer. Irá. Impulso - Além dos Limites",
+                    "desc": "[CantDuel] || Esta Habilidade mira aliados, não dispara Habilidades de Defesa e não causa dano || [WhenUse] Ganha 5 [Breath] e +3 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica 1 de [MosesRedBreathAttack] e 5 de [AttackUp]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001101,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Oficina Allas - Soco Sônico!",
+                    "desc": "At 6+ Speed, deal +50% damage\n[WhenUse] Gain 3 [Agility] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 3 de dano Contundente bônus"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 3 de dano Contundente bônus"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001102,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Oficina Nester - Um! Dois! Difusão!",
+                    "desc": "If target has a negative effect, deal +50% damage\n[WhenUse] If target has 5+ [Vibration], inflict +1 [Vibration] Count on Coin Hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                                },
+                                {
+                                    "desc": "- At 6+ Speed, inflict 2 additional [Vibration] Potency"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Agility] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001103,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Atelie Screw - Parafusar! Furar!",
+                    "desc": "If target has a negative effect, deal +50% damage\n[WhenUse] Gain +5 [Charge] Count\n[WhenUse] At 10+ [Charge] Count, convert all Coins of this Skill to [SuperCoin]s",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 6+ Contagem de [Charge], inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [Charge]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [Charge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001104,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Oficina Namir - Cinco Vezes seu Peso!",
+                    "desc": "Se o alvo tem um efeito negativo, causa +50% de dano || [WhenUse] Se esta unidade não tem Contagem de [Charge], aplica +1 Contagem de [Vibration] adicional no alvo ao Acertar com Habilidade || [WhenUse] Em 15+ Contagem de [Charge], consome toda Contagem de [Charge] e aplica os seguintes efeitos: || - Dispara um [VibrationExplosion] adicional || - [VibrationExplosion] disparado por esta Habilidade não consome a Contagem de [Vibration] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion] duas vezes; então, reduz a Contagem de [Vibration] do alvo em 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001105,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Irei Defender e Te Manter Seguro!",
+                    "desc": "[CanDuelGuard]\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Gain 1 [SupportProtect]</color></mark></b></u>\n[WinDuel] Inflict 2 [Vibration] and +2 [Vibration] Count on target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001106,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Não posso deixar os Novatos roubarem o Show!",
+                    "desc": "[CanDuelGuard]\n[SupportProtect] exclusive Skill\n[WinDuel] Heal 4 SP for all allies (including this unit)\n- Heal 8 SP instead for LCD Faction",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001107,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ateliê da YuRia - Ataque Máximo, Mk. 17!",
+                    "desc": "Causa +50% de dano para cada tipo de efeito negativo no alvo (máx. 100%) || [WhenUse] Se o alvo tem 6+ [Vibration], Poder Base +3 || [WhenUse] Em 0+ SP, gera 1 Mang (望) || - Poder Base +2, causa +20% de dano || [EndSkill] Se esta Habilidade gerou Mang (望), perde 10 SP",
+                    "flavor": "Special Handmade Golden Retriever-Exclusive Axe.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo uma vez (alvo perde 1 Contagem de [Laceration])"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; então, reduz a Contagem de [Vibration] do alvo em 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ignição",
+                    "desc": "[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Coin Power +1 for every 6 ([Combustion] on self + [Combustion] on target) (max 2)\n[WhenUse] Gain +1 [Combustion] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Combustion] e +1 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000702,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ativação E.G.O - E.C.A",
+                    "desc": "[WhenUse] If target has 3+ types of negative effects, Base Power +1\n[WhenUse] Coin Power +1 for every 6 ([Combustion] on self + [Combustion] on main target) (max 2)\n[WhenUse] Gain +3 [Combustion] Count\n[BeforeAttack] At 5+ [Combustion], Atk Weight +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000703,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Atraída pela Chama",
+                    "desc": "[WhenUse] Se o alvo tem 3+ tipos de efeitos negativos, Poder Base +1 || [WhenUse] Poder de Moeda +1 para cada 6 ([Combustion] em si + [Combustion] no alvo principal) (máx. 2) || [WhenUse] Causa +1% de dano para cada 1 ([Combustion] em si + [Combustion] no alvo principal) (máx. 50%) || [WhenUse] Ganha +2 Contagem de [Combustion] || [BeforeAttack] Peso de Atq +1 para cada 5 [Combustion] em si (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000704,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Irei Aumentar o Nível de Sincronização com a E.C.A",
+                    "desc": "[WhenUse] At 10+ [Combustion], Coin Power +3\n[WhenUse] Lose 10 [Combustion]\n[OnSucceedEvade] Lose 5 [Combustion] (once per turn)",
+                    "flavor": "'Don't worry. I've thought of a way that might get me out of this alive.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000705,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "E.C.A Sintonização Máx.【Corrosão Degradada】",
+                    "desc": "[CantDuel] || Esta unidade não pode ser derrotada enquanto usa esta Habilidade || [BeforeAttack] Ganha +(número total de Slots de todos os inimigos) de Peso de Atq || [WhenUse] Causa +1% de dano para cada 1 ([Combustion] em si + [Combustion] em todos os alvos) (máx. 100%) || [EndSkillAll] Esta unidade é derrotada",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [Combustion] e +2 Contagem de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Olhos que Brilham como Lamparinas",
+                    "desc": "[CanDuelGuard] || Se a Velocidade do alvo é maior que a desta unidade, Poder de Moeda +1 para cada 2 de diferença de Velocidade (máx. 2) || - Em 1 de Velocidade, Poder de Moeda +2 em vez disso || [StartBattle] Ganha 6 [LanternHohenheimBigBird]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Tiro Rápido",
+                    "desc": "Se a Velocidade do alvo é maior que a desta unidade, Poder de Moeda +1 para cada 2 de diferença de Velocidade (máx. 2) || - Em 1 de Velocidade, Poder de Moeda +2 em vez disso || [WhenUse] Ganha 5 [LanternHohenheimBigBird]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion] e +1 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] e +1 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "<noparse>Olhar</noparse> Intenso: Queima-roupa",
+                    "desc": "Se a Velocidade do alvo é maior que a desta unidade, Poder de Moeda +1 para cada 2 de diferença de Velocidade (máx. 2) || - Em 1 de Velocidade, Poder de Moeda +2 em vez disso || [WhenUse] Ganha 4 [LanternHohenheimBigBird]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Sinking] e +1 Contagem de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40000804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Salvação para Aqueles Encantados pela Lamparina",
+                    "desc": "Até o fim do Ataque Sem Oposição, esta unidade não recebe dano de HP e não ganha efeitos negativos || Se a Velocidade do alvo é maior que a desta unidade, Poder de Moeda +1 para cada 1 de diferença de Velocidade (máx. 6) || - Em 1 de Velocidade, Poder de Moeda +6 em vez disso || Se o alvo tem [DelusionHohenheimBigBird], +0.5 na Resist. a Perfuração do alvo até o Fim do Ataque || [EndSkill] Remove [DelusionHohenheimBigBird] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnStartCoin] Consume all [LanternHohenheimBigBird] Stack and deal +15% damage for every Stack consumed (max 300%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Sinking] e +2 Contagem de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Combustion] e +2 Contagem de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001201,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Punção Flamejante",
+                    "desc": "Poder de Moeda +1 para cada 6 de ([Combustion] + [Laceration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001202,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Incisão Ardente ",
+                    "desc": "Poder de Moeda +1 para cada 6 de ([Combustion] + [Laceration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001203,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Seguindo o Fluxo",
+                    "desc": "Poder de Moeda +1 para cada 6 de ([Combustion] + [Laceration]) no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001204,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Eu Devo Abrir o Caminho",
+                    "desc": "Poder de Moeda +1 para cada 6 ([Combustion] + [Laceration]) no alvo (máx. 3) || [WhenUse] Em 0+ SP, gera 1 Mang (望) || - Poder de Moeda +1 e causa +30% de dano || [EndSkill] Se esta Habilidade gerou Mang, consome 1 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [SlashTakeDamageUp]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001205,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Silêncio",
+                    "desc": "Poder de Moeda +1 para cada 6 ([Combustion] + [Laceration]) no alvo (máx. 4) || [WhenUse] Em 0+ SP, gera 2 Mang (望) || - Poder de Moeda +2 e causa +60% de dano || [EndSkill] Se esta Habilidade gerou Mang, consome 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001206,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sangramento Interno",
+                    "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001207,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sangue Lancinante",
+                    "desc": "Deal +1% damage for every ([Laceration] on self + [Laceration] on target) (max 20%)\n[WhenUse] Gain 3 [Laceration] and +5 [Laceration] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001208,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Se Afogue no próprio Sangue.",
+                    "desc": "Causa +1% de dano para cada ([Laceration] em si + [Laceration] no alvo) (máx. 30%) || [WhenUse] Ganha 6 [Laceration] e +5 Contagem de [Laceration] || [WhenUse] Em 0+ SP, gera 2 Mang (望) || - Poder de Moeda +2 e causa +60% de dano || [EndSkill] Se esta Habilidade gerou Mang, consome 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodBranch] para cada 5 de ([Laceration] em si + [Laceration] no alvo) (máx. 3)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001209,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Funeral para um Sanguemônio Morto",
+                    "desc": "Causa +1% de dano para cada ([Laceration] em si + [Laceration] no alvo) (máx. 50%) || [WhenUse] Ganha 10 [Laceration] e +5 Contagem de [Laceration] || [WhenUse] Em 0+ SP, gera 3 Mang (望) || - Poder de Moeda +3 e causa +90% de dano || [EndSkill] Se esta Habilidade gerou Mang, consome 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodBranch]  para cada 5 de ([Laceration] em si + [Laceration] no alvo) (máx. 5)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Corte Descendente",
+                    "desc": "[WhenUse] At 6+ Speed, deal +20% damage\n[WhenUse] Gain 4 [Breath] and +2 [Breath] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cortes Consecutivos",
+                    "desc": "[WhenUse] At 6+ Speed, deal +30% damage\n[WhenUse] Gain 1 [Breath] and +3 [Breath] Count\n[WinDuel] Deal +30% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Combate com Lanças Especializada em Trincheiras",
+                    "desc": "[WhenUse] At 7+ Speed, deal +40% damage\n[WhenUse] Gain +4 [Breath] Count\n[WinDuel] Gain 1 [Enhancement]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 6 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Verdadeiro Golpe Finalizador",
+                    "desc": "Se esta unidade tem [WillAwakenSinclair], +1 na Resist. a Talho do alvo até o Fim do Ataque || [WhenUse] Poder Base +2 para cada 5 [Breath] (máx. 8) || [WhenUse] Em 5+ SP, gera 1 Mang; Poder Base +3 || [EndSkill] Se esta Habilidade gerou Mang, perde 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[ExtractCoin]"
+                                },
+                                {
+                                    "desc": "Deal +1% damage for every ([Burst] + [Burst] Count) on the target (max 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa ([Breath] em si x 4) de dano de Orgulho (máx. 80)"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Deal +150% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001305,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Reboco de Sono, Ondas Irrestritas",
+                    "desc": "Se esta unidade tem [WillAwakenSinclair], +1 na Resist. a Talho do alvo até o Fim do Ataque || Pode atrair qualquer ataque para esta unidade independentemente da Velocidade || [WhenUse] Poder Base +1 para cada 3 [Breath] (máx. 2) || [WhenUse] Poder Base +2 para cada tipo de efeito negativo no alvo (máx. 4) || [WhenUse] Ganha 5 [Agility] no próximo turno || [WhenUse] Ganha 10 [Breath] e +2 Contagem de [Breath] || [WhenUse] Em 10+ SP, gera 2 Mang; Poder Base +6 || [EndSkill] Se esta Habilidade gerou Mang, perde 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[ExtractCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 7 de [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] no próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Deal +400% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001306,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Limpando a Fumaça",
+                    "desc": "[CantDuel] || Mira o inimigo com o menor HP máx. || Esta Habilidade não dispara a Habilidade de Defesa do alvo || [BeforeAttack] Ganha +(número total de Slots de todos os inimigos) de Peso de Atq || [WhenUse] Em 4+ Velocidade, causa +50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Deal (40% of this Coin's final damage) Slash damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sever",
+                    "desc": "Cannot change target\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 3)\nFinal Power +1 for every 6 [Laceration] on target (max 3)",
+                    "flavor": "'Não posso deixar Araya viver uma vida como a minha. Ela deve levar uma vida nova longe deste lugar, longe de mim.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration] e +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Paint",
+                    "desc": "Cannot change target\nFinal Power +1 for every 10 [CutbondRyoshu] on self (max 3)\nFinal Power +1 for every 6 [Laceration] on target (max 3)",
+                    "flavor": "'We will escape the House of Spiders...'\n\n'Before Araya meets the same fate as Saru.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Splatter",
+                    "desc": "Não pode trocar de alvo || Chance aleatória de apagar a Moeda mais antiga da Habilidade com a qual esta unidade Embateu || Poder Final +1 para cada 10 [CutbondRyoshu] em si (máx. 5) || Poder Final +1 para cada 6 [Laceration] no alvo (máx. 4)",
+                    "flavor": "'But I cannot guarantee Araya's safety while fighting off the Nursefathers' pursuit.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Laceration] e +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Brushstroke",
+                    "desc": "Não pode trocar de alvo || Chance aleatória de apagar a Moeda mais antiga da Habilidade com a qual esta unidade Embateu || Poder Final +1 para cada 10 [CutbondRyoshu] em si (máx. 5) || Poder Final +1 para cada 6 [Laceration] no alvo (máx. 4)",
+                    "flavor": "'Vou escondê-la. Vou escondê-la bem debaixo do nariz deles — naquela sala cheia de Cofres do Tempo onde eles estão sempre indo e vindo.' || || 'Cofres do Tempo são seguros. Posso pôr Araya em um deles.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Slay the Heavens - Tiansha [天殺]",
+                    "desc": "Não pode trocar de alvo || Chance aleatória de apagar a Moeda mais antiga da Habilidade com a qual esta unidade Embateu || Poder Final +1 para cada 4 [CutbondRyoshu] em si (máx. 12)",
+                    "flavor": "'E então, vou fazer uma pequena marca no cofre de Araya com minha lâmina.' || || 'Desse jeito, quando eu voltar, a marca feita pela minha espada vai ficar fresca de novo e poderei identificar o dela mesmo se os Cofres forem embaralhados.' || || 'O melhor lugar para esconder uma árvore é na floresta.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40001506,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "\"Me Apagando, Te Apagando.\"",
+                    "desc": "Não pode trocar de alvo || Chance aleatória de apagar a Moeda mais antiga da Habilidade com a qual esta unidade Embateu",
+                    "flavor": "'Por mais que o tempo escorra, espero que pra ela pareça apenas um instante fugaz.'",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
