@@ -1,0 +1,166 @@
+﻿{
+    "dataList": [
+        {
+            "id": 836602,
+            "name": "",
+            "subDesc": "",
+            "desc": "Parece que a gente pode restaurar um dos sistemas desativados da Equipe de Segurança, além das funcionalidades básicas do Regenerador.\n\nQual devemos reativar?",
+            "options": [
+                {
+                    "message": "Regenerator Mk2",
+                    "messageDesc": "Select to heal HP for all allies.",
+                    "result": [
+                        "Regenerador Mk2 reativado.\n\nDá pra sentir os corpos dos Pecadores se regenerando rapidamente.\n\nNão regenerou só nossos ferimentos; curou também a fadiga e os pequenos machucados."
+                    ]
+                },
+                {
+                    "message": "Mental Corruption Neutralizing Gas",
+                    "messageDesc": "Select to heal SP for all allies.",
+                    "result": [
+                        "O Gás Neutralizador de Corrupção Mental foi ativado.\n\nTodos os Pecadores parecem visivelmente mais confortáveis, como se suas cabeças tivessem clareado.\n\nAgora estamos todos prontos para a próxima batalha."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971032,
+            "name": "Education & Machine Console",
+            "desc": "Encontramos uma câmara de contenção enquanto atravessávamos o corredor. A porta dela está soltando faíscas de eletricidade.\n\nParece que o gerador está com curto; a porta se recusa a fechar. Mas não parece que qualquer Anormalidade lá dentro tenha escapado.\n\nPor mais que a gente tente olhar melhor pra dentro, a escuridão absoluta da câmara torna difícil saber o que está acontecendo lá.\n\nAs teias pendendo do teto e o chão suspeitamente escuro como breu eram bem bizarros de se ver, no entanto.",
+            "options": [
+                {
+                    "message": "Stare at the webs.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Sangramento.",
+                    "result": [
+                        "Olhar pelas teias revela... pequenas aranhas se arrastando dentro delas.\n\nE que não eram apenas teias comuns.\n\nA escuridão que devorou o chão se ilumina, olhos vermelhos brilhando e fervilhando.\n\nAs aranhinhas notam o gerador, e começam a tecer suas teias.\n\nAlgumas delas se grudam nos Pecadores, lentamente subindo por seus corpos."
+                    ]
+                },
+                {
+                    "message": "Check the generator.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Carga.",
+                    "result": [
+                        "Felizmente, não leva muito tempo até identificarmos uma peça com defeito.\n\nNós removemos com cuidado a peça defeituosa...\n\n... e, de repente, o gerador para de chiar, e a porta da câmara de contenção se fecha com um estrondo."
+                    ]
+                },
+                {
+                    "message": "Verificar o gerador, mas sem tirar os olhos das teias.",
+                    "messageDesc": "Envy & Lust Advantage check. Pass to gain a Bleed & Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971033,
+            "name": "Safety Team",
+            "desc": "Todos os cantos desta sala estão tomados por uma luz esmeralda.\n\nAlguém derramou um monte de Enkephalin na mesa, o suficiente para começar a pingar lentamente no chão.\n\n'Senhor Gerente Executivo, encontramos um pouco de Enkephalin aqui.'\n\n'Mm. Provavelmente será útil ao nosso empreendimento se o coletarmos.'\n\n'P.A.G.D.V?'\n\n'\"Pega aquela garrafa de vidro de gás, douro vossas mercês?\" ... é o que ela diz...'",
+            "options": [
+                {
+                    "message": "Scoop up some Enkephalin.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Afogamento.",
+                    "result": [
+                        "'É uma estratégia terrível mexer com gás cujos efeitos você não conhece! Eu digo que a gente deixa o gás e leva só o Enkephalin.'\n\n'Hmph, você não sabe do que está falando.'\n\n'Não enxergam a beleza retorcida que emana daquele recipiente ominoso de gás?'\n\n'Nah, moça. Não. Só você vê.'\n\n'Então, hum. Esse Enkephalin não estaria contaminado ou algo do tipo?'\n\n'Enkephalin não é um material que se contamine tão facilmente.'\n\nLogo os Pecadores se dividem em dois grupos e começam a discutir uns com os outros.\n\nAlguns minutos depois, nos encontramos atravessando o corredor às pressas com uma caixa de Enkephalin nas mãos."
+                    ]
+                },
+                {
+                    "message": "Take the gas canister.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Afogamento.",
+                    "result": [
+                        "'É uma estratégia terrível mexer com gás cujos efeitos você não conhece! Eu digo que a gente deixa o gás e leva só o Enkephalin.'\n\n'Hmph, você não sabe do que está falando.'\n\n'Não enxergam a beleza retorcida que emana daquele recipiente ominoso de gás?'\n\n'Tenho certa predileção pela levitação nebulosa do eflúvio.'\n\n'Oh, em verdade! Mas... como haveis de carregar gás intangível?!'\n\n'Olha, tem um botão aqui pra extrair o gás para um cilindro portátil~'\n\nLogo os Pecadores se dividem em dois grupos e começam a discutir uns com os outros.\n\nAlguns minutos depois, nos encontramos atravessando o corredor às pressas com um cilindro de gás nas mãos."
+                    ]
+                },
+                {
+                    "message": "Take both",
+                    "messageDesc": "Lust & Sloth Advantage check. Pass to gain 2 Sinking E.G.O Gifts (failing begins a combat Encounter)",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971034,
+            "name": "One Sin SP Healing E.G.O Gift Giveaway",
+            "desc": "Um fio de luz espia pelo vidro e pela porta entreaberta.\n\nAlém do vidro há um crânio bizarro...\n\nUm crânio flutuante preso por espinhos a uma cruz, cercado por uma luz circular.\n\nAs órbitas vazias do crânio nos encaram diretamente.\n\n'A denominação desta Anormalidade é \"Um Único Pecado e Centenas de Boas Ações\".'\n\n'Claro, não é a mesma entidade que outrora residia dentro da L Corp.'\n\n'Profundezas insondáveis jazem nas cavidades de seus olhos; perfurando-nos.'",
+            "options": [
+                {
+                    "message": "Pray before One Sin and Hundreds of Good Deeds.",
+                    "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Talk to One Sin and Hundreds of Good Deeds.",
+                    "messageDesc": "Sloth & Gloom Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971035,
+            "name": "Cura PV, PS, ou ganhe Custo",
+            "desc": "Levantamos o olhar e vemos borboletas brancas acima de nós.\n\nApesar de terem asas, as borboletas vagam pelo corredor, esvoaçando para lugar nenhum.\n\nSeguimos até onde elas parecem descansar um pouco, e vemos um grande caixão por trás da janela de vidro transparente.\n\nEra grande demais para um só, mas pequeno demais para muitos.\n\n'Jaz um caixão solitário.'\n\n'Eca, um caixão...? Tenho um mau pressentimento. Provavelmente a gente não devia tocá-lo, né?'\n\n'Seria a escolha mais segura, sim... mas e se houver algo lá dentro que possa nos ajudar?'",
+            "options": [
+                {
+                    "message": "Não vamos mexer com o caixão e seguir em frente.",
+                    "messageDesc": "",
+                    "result": [
+                        "Prestamos nossas homenagens solenes ao caixão para além da porta, e então fomos embora.\n\nBorboletas sem lar dançam, esvoaçando em direção a nós sobre um vento cortante e gelado.\n\nElas se contorcem de tristeza, ou são bater de asas em lamentação? Não podemos saber.\n\nUma lembrança me toma enquanto observo as borboletas em silêncio. De que algo simplesmente, e por inteiro, voltou ao lugar de onde veio."
+                    ]
+                },
+                {
+                    "message": "Vamos ver o que tem dentro do caixão.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Afogamento.",
+                    "result": [
+                        "Um cadáver frio de uma borboleta repousa em silêncio dentro do caixão.\n\nAs borboletas brancas, que tão desesperadamente bateram suas asinhas com a fé de que devia haver algo lá no fim, não existem mais; foram-se, sem que ninguém notasse.\n\nO que há para além da periferia da morte, alguém pergunta. Para dizer a verdade, não há nada, nada mesmo."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971036,
+            "name": "Miracle in District 20 Hard Event 1",
+            "desc": "A fábrica está brilhantemente iluminada com luzes vermelhas e verdes.\n\nNo meio do estrondo caótico de máquinas e ferramentas batendo...\n\n... há gnomos minúsculos, correndo de um lado para o outro entre as linhas de montagem.\n\n'Vamos lá-omo! Anda logo-omo!!'\n\n'Põe na esteira-omo!!'\n\n'Hora de embalar-omo!!'",
+            "options": [
+                {
+                    "message": "Approach.",
+                    "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        "Todo tipo de presente fascinante está empilhado aqui.\n\nTalvez a gente consiga vasculhar e encontrar algo que possa nos ajudar."
+                    ]
+                },
+                {
+                    "message": "Walk past it.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971037,
+            "name": "Miracle in District 20 Hard Event 2",
+            "desc": "Uma cama velha e rangente repousa solenemente no meio do quarto.\n\nÉ cercada por inúmeras lanternas e castiçais.\n\nAlgumas estão apagadas, seus restos cinzentos e frios, deixando apenas marcas escuras como testemunha de suas chamas de outrora...\n\nMas as outras ainda estavam acesas, suas chamas quentes percorrendo diligentemente os pavios.\n\nNo entanto, as sombras gélidas e escuras que espreitam aos pés da cama, ao lado dos lençóis meio escorregando, continuam encobertas.\n\nUm tremor estranho vibra pelo chão.\n\nE logo escuto um som de algo se arrastando pelo chão acompanhado da sensação de um olhar frio e úmido espiando intensamente na minha direção...\n\nO que poderia haver embaixo daquela cama?",
+            "options": [
+                {
+                    "message": "Approach the bed.",
+                    "messageDesc": "Run a Sloth & Gluttony Advantage check to gain a Tremor E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Do not approach the bed.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

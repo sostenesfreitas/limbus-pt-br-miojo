@@ -1,0 +1,91 @@
+﻿{
+    "dataList": [
+        {
+            "id": 108201,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"O que aflige tua mente, gerente? Teus esforços de supressão parecem estar correndo sem percalços.\"\n\n\"Mm. É exatamente como vistes, gerente, salvo por algumas partes que foram censuradas. Nada ocultei de tua vista.\"\n\n\"Não creio ter cometido erro algum ao escapar daquele lugar sozinho, deixando os demais a serem ali sepultados.\"\n\n\"Ah, com certeza. Pode ser repreensível de um ponto de vista moral. Mas por que alguém o veria por essa perspectiva, gerente?\"\n\n\"Especialmente quando bem sabes que, na Cidade, tal perspectiva é inteiramente irrelevante e desprovida de valor.\"\n\nSinto seu olhar sobre mim.\n\nComo ele disse, a supressão está indo bem. Mas isto soa errado — que não deveria terminar assim.\n\nO que devo dizer-lhe?\n\nO que Hohenheim está tentando esconder de nós?",
+            "options": [
+                {
+                    "message": "E se você <i>realmente</i> sente que o que fez foi errado?",
+                    "messageDesc": "Weakens the Poise Passive 「Adaptation」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Vejo como pudeste chegar a essa conclusão.\"\n\n\"Mas estás incorreto.\"\n\n\"Já fiz muita contemplação sobre essa matéria, e concluí definitivamente há muito tempo que de fato não cometi erro algum.\"\n\n\"Digo-te de antemão que sou uma rara espécie de pesquisador que detesta o estudo das probabilidades e da estatística.\"\n\n\"Eu, Hohenheim, não sou do tipo de fazer sugestões irracionais como sortear quem sobreviverá. Tampouco sou do tipo de participar de bárbaras provas de força para sobreviver.\"\n\n\"De fato, não havia outro recurso.\"\n\n\"Minha única opção foi formular um argumento ultimamente vão diante do desejo de sobrevivência — argumentando por minha sobrevivência com base no fato de ser eu o mais útil dentre todos.\"\n\n\"Contudo... eles próprios tomaram uma decisão bastante objetiva por mim. Superaram seus desejos baixos de mera sobrevivência e tomaram uma decisão visionária pelo futuro.\"\n\n\"Portanto, não. Não tenho motivo para crer que o que fiz foi errado.\"\n\n\"... Não deveria ser errado.\"\n\n'Não fiz nada de errado. Isto não foi um pecado.'\n\nMesmo enquanto Hohenheim se defendia, parecia que algum senso de responsabilidade o puxava para baixo.\n\nEspecialmente aquelas últimas palavras... mal consegui perceber seu ar habitual de confiança."
+                    ]
+                },
+                {
+                    "message": "You're running away from something.",
+                    "messageDesc": "Weakens the Shield Passive 「Defense Mechanism」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Fugir? Observação interessante.\"\n\n\"Mas permita-me retrucar. Minha escolha não foi fugir. Negar e evadir o que aconteceu é escolha demasiado patológica, não é?\"\n\n\"Estou muito ciente de que o único modo de resolver um problema é enfrentá-lo de frente.\"\n\n\"Esse é outro aspecto meu que me distingue do homem comum.\"\n\n\"Quando surge um problema, ou, em casos muito raros, eu me encontrar em um tumulto de natureza emocional... primeiro tento estabelecer uma explicação lógica.\"\n\n\"Reconstruo o que foi percebido e regulo minhas emoções. Expressar fúria e ira é mero desperdício de recursos.\"\n\n\"... Mas devo admitir uma coisa. Agora que conduzi alguma introspecção fria...\"\n\n\"... admitirei que não foi inteiramente maduro de minha parte censurar tanto dos meus Fathoms.\"\n\n\"Claro, isso não significa que agora removerei as memórias censuradas. Meu ego não é tão débil para ser abalado por algumas palavras.\"\n\nNão entendi grande parte do que Hohenheim falava, mas...\n\n... não consigo afastar a sensação de que tudo o que ele disse era apenas um esforço para se distanciar das próprias emoções."
+                    ]
+                },
+                {
+                    "message": "There is another side to that story you've told me.",
+                    "messageDesc": "Weakens the SP Passive 「Confirmation Bias」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Outro lado da minha história? De fato, de fato. É bastante plausível.\"\n\n\"Estás correto. Esse 'outro lado' é o que com frequência se perde no processo de obsessão por conceitos especiosos como os Fathoms e o coração.\"\n\n\"Falando de um ponto de vista consequencial, a perspectiva proporcionada pela memória de cada um é estreita por natureza.\"\n\n\"Mesmo nos Fathoms — a parte mais profunda do coração, onde muitos creem que reside apenas a verdade empírica e absoluta — ainda somos capazes de mentir. Fascinante, não?\"\n\n\"Chamam isso de 'erro metacognitivo'. Alguns chamam também de 'viés inconsciente'.\"\n\n\"... Entendo. Argumentas que a história que te mostrei era simplesmente uma fabricação.\"\n\n\"... De fato, não compartilhei nenhuma perspectiva dos meus funcionários. Mas não há meio pelo qual possamos verificá-las, de qualquer modo. Não é óbvio o porquê?\"\n\n\"Estão todos enterrados sob a terra. Roubados até de suas palavras finais.\"\n\n... Finalmente pude compreender, ao menos em parte, o que Vergílio e Don Quixote vinham me dizendo.\n\nEmbora não houvesse nada que se pudesse chamar de 'rosto' humano remanescente em sua forma Distorcida...\n\n... acho que entrevi um lampejo de solidão na expressão de Hohenheim."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108202,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Parece que há mais alguma coisa que gostarias de me dizer.\"\n\n\"Muito bem, podes prosseguir e perguntar. Estou preparado para responder a qualquer das tuas indagações.\"\n\nSinto o olhar de Hohenheim demorando-se em mim.\n\nO que devo dizer desta vez?\n\nO que Hohenheim está tentando esconder de nós?",
+            "options": [
+                {
+                    "message": "E se você <i>realmente</i> sente que o que fez foi errado?",
+                    "messageDesc": "Weakens the Poise Passive 「Adaptation」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Vejo como pudeste chegar a essa conclusão.\"\n\n\"Mas estás incorreto.\"\n\n\"Já fiz muita contemplação sobre essa matéria, e concluí definitivamente há muito tempo que de fato não cometi erro algum.\"\n\n\"Digo-te de antemão que sou uma rara espécie de pesquisador que detesta o estudo das probabilidades e da estatística.\"\n\n\"Eu, Hohenheim, não sou do tipo de fazer sugestões irracionais como sortear quem sobreviverá. Tampouco sou do tipo de participar de bárbaras provas de força para sobreviver.\"\n\n\"De fato, não havia outro recurso.\"\n\n\"Minha única opção foi formular um argumento ultimamente vão diante do desejo de sobrevivência — argumentando por minha sobrevivência com base no fato de ser eu o mais útil dentre todos.\"\n\n\"Contudo... eles próprios tomaram uma decisão bastante objetiva por mim. Superaram seus desejos baixos de mera sobrevivência e tomaram uma decisão visionária pelo futuro.\"\n\n\"Portanto, não. Não tenho motivo para crer que o que fiz foi errado.\"\n\n\"... Não deveria ser errado.\"\n\n'Não fiz nada de errado. Isto não foi um pecado.'\n\nMesmo enquanto Hohenheim se defendia, parecia que algum senso de responsabilidade o puxava para baixo.\n\nEspecialmente aquelas últimas palavras... mal consegui perceber seu ar habitual de confiança."
+                    ]
+                },
+                {
+                    "message": "You're running away from something.",
+                    "messageDesc": "Weakens the Shield Passive 「Defense Mechanism」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Fugir? Observação interessante.\"\n\n\"Mas permita-me retrucar. Minha escolha não foi fugir. Negar e evadir o que aconteceu é escolha demasiado patológica, não é?\"\n\n\"Estou muito ciente de que o único modo de resolver um problema é enfrentá-lo de frente.\"\n\n\"Esse é outro aspecto meu que me distingue do homem comum.\"\n\n\"Quando surge um problema, ou, em casos muito raros, eu me encontrar em um tumulto de natureza emocional... primeiro tento estabelecer uma explicação lógica.\"\n\n\"Reconstruo o que foi percebido e regulo minhas emoções. Expressar fúria e ira é mero desperdício de recursos.\"\n\n\"... Mas devo admitir uma coisa. Agora que conduzi alguma introspecção fria...\"\n\n\"... admitirei que não foi inteiramente maduro de minha parte censurar tanto dos meus Fathoms.\"\n\n\"Claro, isso não significa que agora removerei as memórias censuradas. Meu ego não é tão débil para ser abalado por algumas palavras.\"\n\nNão entendi grande parte do que Hohenheim falava, mas...\n\n... não consigo afastar a sensação de que tudo o que ele disse era apenas um esforço para se distanciar das próprias emoções."
+                    ]
+                },
+                {
+                    "message": "There is another side to that story you've told me.",
+                    "messageDesc": "Weakens the SP Passive 「Confirmation Bias」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Outro lado da minha história? De fato, de fato. É bastante plausível.\"\n\n\"Estás correto. Esse 'outro lado' é o que com frequência se perde no processo de obsessão por conceitos especiosos como os Fathoms e o coração.\"\n\n\"Falando de um ponto de vista consequencial, a perspectiva proporcionada pela memória de cada um é estreita por natureza.\"\n\n\"Mesmo nos Fathoms — a parte mais profunda do coração, onde muitos creem que reside apenas a verdade empírica e absoluta — ainda somos capazes de mentir. Fascinante, não?\"\n\n\"Chamam isso de 'erro metacognitivo'. Alguns chamam também de 'viés inconsciente'.\"\n\n\"... Entendo. Argumentas que a história que te mostrei era simplesmente uma fabricação.\"\n\n\"... De fato, não compartilhei nenhuma perspectiva dos meus funcionários. Mas não há meio pelo qual possamos verificá-las, de qualquer modo. Não é óbvio o porquê?\"\n\n\"Estão todos enterrados sob a terra. Roubados até de suas palavras finais.\"\n\n... Finalmente pude compreender, ao menos em parte, o que Vergílio e Don Quixote vinham me dizendo.\n\nEmbora não houvesse nada que se pudesse chamar de 'rosto' humano remanescente em sua forma Distorcida...\n\n... acho que entrevi um lampejo de solidão na expressão de Hohenheim."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108203,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Sinto que já te dei muitas respostas... Mas há simplesmente tanta curiosidade nos teus tique-taques.\"\n\n\"Talvez tenhas alguma aptidão para também ser pesquisador, além da de gerente.\"\n\n\"Contudo... nem todas as perguntas podem ser respondidas. Esta será a última resposta que te darei.\"\n\nSinto seu olhar sobre mim.\n\nVamos fazer a pergunta final.",
+            "options": [
+                {
+                    "message": "E se você <i>realmente</i> sente que o que fez foi errado?",
+                    "messageDesc": "Weakens the Poise Passive 「Adaptation」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Vejo como pudeste chegar a essa conclusão.\"\n\n\"Mas estás incorreto.\"\n\n\"Já fiz muita contemplação sobre essa matéria, e concluí definitivamente há muito tempo que de fato não cometi erro algum.\"\n\n\"Digo-te de antemão que sou uma rara espécie de pesquisador que detesta o estudo das probabilidades e da estatística.\"\n\n\"Eu, Hohenheim, não sou do tipo de fazer sugestões irracionais como sortear quem sobreviverá. Tampouco sou do tipo de participar de bárbaras provas de força para sobreviver.\"\n\n\"De fato, não havia outro recurso.\"\n\n\"Minha única opção foi formular um argumento ultimamente vão diante do desejo de sobrevivência — argumentando por minha sobrevivência com base no fato de ser eu o mais útil dentre todos.\"\n\n\"Contudo... eles próprios tomaram uma decisão bastante objetiva por mim. Superaram seus desejos baixos de mera sobrevivência e tomaram uma decisão visionária pelo futuro.\"\n\n\"Portanto, não. Não tenho motivo para crer que o que fiz foi errado.\"\n\n\"... Não deveria ser errado.\"\n\n'Não fiz nada de errado. Isto não foi um pecado.'\n\nMesmo enquanto Hohenheim se defendia, parecia que algum senso de responsabilidade o puxava para baixo.\n\nEspecialmente aquelas últimas palavras... mal consegui perceber seu ar habitual de confiança."
+                    ]
+                },
+                {
+                    "message": "You're running away from something.",
+                    "messageDesc": "Weakens the Shield Passive 「Defense Mechanism」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Fugir? Observação interessante.\"\n\n\"Mas permita-me retrucar. Minha escolha não foi fugir. Negar e evadir o que aconteceu é escolha demasiado patológica, não é?\"\n\n\"Estou muito ciente de que o único modo de resolver um problema é enfrentá-lo de frente.\"\n\n\"Esse é outro aspecto meu que me distingue do homem comum.\"\n\n\"Quando surge um problema, ou, em casos muito raros, eu me encontrar em um tumulto de natureza emocional... primeiro tento estabelecer uma explicação lógica.\"\n\n\"Reconstruo o que foi percebido e regulo minhas emoções. Expressar fúria e ira é mero desperdício de recursos.\"\n\n\"... Mas devo admitir uma coisa. Agora que conduzi alguma introspecção fria...\"\n\n\"... admitirei que não foi inteiramente maduro de minha parte censurar tanto dos meus Fathoms.\"\n\n\"Claro, isso não significa que agora removerei as memórias censuradas. Meu ego não é tão débil para ser abalado por algumas palavras.\"\n\nNão entendi grande parte do que Hohenheim falava, mas...\n\n... não consigo afastar a sensação de que tudo o que ele disse era apenas um esforço para se distanciar das próprias emoções."
+                    ]
+                },
+                {
+                    "message": "There is another side to that story you've told me.",
+                    "messageDesc": "Weakens the SP Passive 「Confirmation Bias」 for this Encounter",
+                    "result": [
+                        "Faust transmitiu minhas palavras a Hohenheim.\n\n\"Outro lado da minha história? De fato, de fato. É bastante plausível.\"\n\n\"Estás correto. Esse 'outro lado' é o que com frequência se perde no processo de obsessão por conceitos especiosos como os Fathoms e o coração.\"\n\n\"Falando de um ponto de vista consequencial, a perspectiva proporcionada pela memória de cada um é estreita por natureza.\"\n\n\"Mesmo nos Fathoms — a parte mais profunda do coração, onde muitos creem que reside apenas a verdade empírica e absoluta — ainda somos capazes de mentir. Fascinante, não?\"\n\n\"Chamam isso de 'erro metacognitivo'. Alguns chamam também de 'viés inconsciente'.\"\n\n\"... Entendo. Argumentas que a história que te mostrei era simplesmente uma fabricação.\"\n\n\"... De fato, não compartilhei nenhuma perspectiva dos meus funcionários. Mas não há meio pelo qual possamos verificá-las, de qualquer modo. Não é óbvio o porquê?\"\n\n\"Estão todos enterrados sob a terra. Roubados até de suas palavras finais.\"\n\n... Finalmente pude compreender, ao menos em parte, o que Vergílio e Don Quixote vinham me dizendo.\n\nEmbora não houvesse nada que se pudesse chamar de 'rosto' humano remanescente em sua forma Distorcida...\n\n... acho que entrevi um lampejo de solidão na expressão de Hohenheim."
+                    ]
+                }
+            ]
+        }
+    ]
+}

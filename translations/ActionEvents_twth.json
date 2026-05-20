@@ -1,0 +1,80 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971104,
+            "name": "LCE Recovers The Ring's Artwork",
+            "desc": "Pesquisadores do LCE correm de um lado para o outro ocupados, cada um carregando vários itens recuperados da Casa das Aranhas em suas mãos.\n\nReconhecendo algo na pilha, ficamos olhando boquiabertos para o item — até que um dos pesquisadores finalmente decidiu falar conosco.\n\n\"Ah, essas são amostras tiradas do Corredor que parecia a galeria do Anelar. Já terminamos a análise dos componentes, então fiquem à vontade para levá-las.\"\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Grab something made of bones and musculature.",
+                    "messageDesc": "Lust & Envy Advantage check. Pass to gain a Charge E.G.O Gift."
+                },
+                {
+                    "message": "Grab something made of flesh and animal hide.",
+                    "messageDesc": "Lust & Gloom Advantage check. Pass to gain a Sinking E.G.O Gift."
+                },
+                {
+                    "message": "Turn back.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Por que alguém pensaria em pegar essas pilhas de carne e pelo?"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971105,
+            "name": "Gallery of the Ring's School of Fauvism",
+            "desc": "Uma música gentil e tranquilizadora vinda de uma fonte desconhecida acaricia nossos ouvidos.\n\nSeguindo o som, chegamos a uma área contendo várias peças de arte.\n\nComeçamos a olhar ao redor com cautela, percebendo que provavelmente acabávamos de entrar em uma das galerias do Anelar... e nos deparamos com um pedestal para uma obra de arte — exceto que não havia arte sobre ele.\n\nEra pequeno o bastante para ser levantado com uma mão, então não daria muito trabalho levá-lo conosco.\n\nDevemos?",
+            "options": [
+                {
+                    "message": "Take it.",
+                    "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+                },
+                {
+                    "message": "Leave it.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não parece haver uso imediato para ele. Não há por que nos atrasar com esse peso de papel.\n\nDecidimos deixar o pedestal para trás."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971106,
+            "name": "Quiet Corridor of the Middle",
+            "desc": "Exploramos o salão repleto de fileiras intermináveis de vitrines. O teto é tão alto que nem dá para ver onde termina.\n\nNo começo, tentei contar quantas caixas de brinquedo passamos, mas logo perdi a conta...\n\n\"O que é isto?\"\n\n... e encontramos um modelo articulado de mão, orgulhosamente em pé em sua glória solitária.\n\nOs dedos estão curvados em punho, como se segurassem algo entre eles — um soco-inglês.\n\nTalvez possamos dar uso a ele se conseguirmos arrancá-lo do punho?",
+            "options": [
+                {
+                    "message": "Take it.",
+                    "messageDesc": "Envy Advantage check. Pass to gain a Blunt E.G.O Gift."
+                },
+                {
+                    "message": "Leave it.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não tenho certeza do que poderíamos usar isso, no entanto...\n\nAlgo no jeito como ele ficava sozinho fora das caixas de brinquedo me pareceu bem suspeito também. Decidimos deixá-lo ali."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971107,
+            "name": "Gallery of the Ring's School of Fauvism",
+            "desc": "Uma música gentil e tranquilizadora vinda de uma fonte desconhecida acaricia nossos ouvidos.\n\nSeguindo o som, chegamos a uma área contendo várias peças de arte.\n\nComeçamos a olhar ao redor com cautela, percebendo que provavelmente acabávamos de entrar em uma das galerias do Anelar... e nos deparamos com um pedestal para uma obra de arte — exceto que não havia arte sobre ele.\n\nEra pequeno o bastante para ser levantado com uma mão, então não daria muito trabalho levá-lo conosco.\n\nDevemos?",
+            "options": [
+                {
+                    "message": "Take it.",
+                    "messageDesc": "Lust Advantage check. Pass to gain a Keywordless E.G.O Gift."
+                },
+                {
+                    "message": "Leave it.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não parece haver uso imediato para ele. Não há por que nos atrasar com esse peso de papel.\n\nDecidimos deixar o pedestal para trás."
+                    ]
+                }
+            ]
+        }
+    ]
+}

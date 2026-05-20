@@ -1,0 +1,204 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971027,
+            "name": "",
+            "desc": "Uma bilheteria dentro de uma plataforma de trem WARP.\n\nNa frente dela há uma longa fila de pessoas tentando comprar seus bilhetes.\n\nEnquanto esperávamos na fila, um passageiro se aproximou de nós. Está vestido como um funcionário de uma Asa...\n\n\"Com licença, posso fazer uma pergunta?\"\n\n\"Em verdade! Pergunta-nos!\"\n\n\"Se vai levar só dez segundos pra chegar lá de qualquer jeito... qual é a real diferença entre a primeira classe e a classe econômica?\"\n\n\"Eu até ganhei um bom dinheiro nessa viagem de trabalho, mas... bilhete de primeira classe é provavelmente um desperdício de dinheiro, né?\"\n\nOs Pecadores todos se viram para olhar pra mim enquanto o passageiro espera nossa resposta.",
+            "options": [
+                {
+                    "message": "You should buy a first class ticket.",
+                    "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice",
+                    "result": [
+                        "Bem, já que conversamos um pouco... acho que uma dica não faria mal.\n\nEmbora não pudéssemos explicar os detalhes, recomendamos que, contanto que ele pudesse pagar, comprasse um bilhete de primeira classe.\n\n\"O quê? Um bilhete de primeira classe?\"\n\nOs olhos do passageiro se arregalam, surpresos."
+                    ]
+                },
+                {
+                    "message": "Economy class isn't so bad.",
+                    "messageDesc": "",
+                    "result": [
+                        "Nunca encontramos essa pessoa antes. Não há razão para a gente dar conselho sobre um assunto sensível como uma Singularidade de Asa.\n\nEncerramos a conversa com um adeus educado.\n\nUm leve olhar de culpa aparece nos rostos dos Pecadores."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97102701,
+            "name": "",
+            "desc": "Um bilhete de primeira classe...? Isso é tipo... meu salário de dois meses. Tem certeza de que vale tanto dinheiro?",
+            "options": [
+                {
+                    "message": "You SHOULD buy a first class ticket.",
+                    "messageDesc": "Envy & Sloth Advantage check. Pass to gain a Keywordless E.G.O Gift."
+                },
+                {
+                    "message": "Eh, not really.",
+                    "messageDesc": "",
+                    "result": [
+                        "\"É, são só dez segundos, né? Provavelmente é desperdício de dinheiro.\"\n\nEncerramos a conversa com um adeus educado.\n\nUm leve olhar de culpa aparece nos rostos dos Pecadores."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971028,
+            "name": "",
+            "desc": "Enquanto esperávamos na plataforma, esbarramos com um Solucionador equipado com várias peças prostéticas.\n\nUm traje legal e quatro braços mecânicos.\n\nIsso foi mais do que suficiente para chamar a atenção de alguns Pecadores. Todos olham para ele com atenção.\n\nTalvez o Solucionador tenha sentido o olhar deles.\n\nEle se vira e olha de volta na nossa direção.\n\n\"Reparei que vocês ficaram olhando pra mim faz um tempo. Qual é?\"",
+            "options": [
+                {
+                    "message": "\"Are you from up north?\"",
+                    "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice",
+                    "result": [
+                        "\"Sim, do norte. Foi a roupa? Acho que roupas do norte se destacam mesmo, pelo tanto que a gente se agasalha.\"\n\n\"Aff, eu curto muito a paisagem aqui do sul. Eu consigo ver o horizonte de verdade, sabe? No norte, tem tantos prédios altos que basicamente nunca dá pra ver um horizonte decente. É ainda pior no centro. É tipo andar por uma selva de prédios.\"\n\n\"Hm, suas armas são bem simples, hein? Tem que pintar elas, pôr umas penduricalhos, fazer elas se destacarem, sacou? Vão menosprezar vocês se vocês não conseguirem mostrar de cara o quão impressionantes são.\"\n\n\"Ah, mais uma coisa. Deixa eu contar pra vocês sobre o sorvete tricolor em lata que vendem na minha cidade natal. Cara, é uma iguaria de verdade. Se vocês algum dia—\"\n\n\"…….\"\n\nNão é como se eu tivesse orelhas, mas começo a entender o que significa \"furar a paciência de alguém\".\n\nAprendemos muito mais do que queríamos sobre as regiões do norte.\n\nAcho que a gente perdeu o fio em algum momento durante uma diatribe sobre vários itens em conserva da P Corp."
+                    ]
+                },
+                {
+                    "message": "\"What are the benefits of having four arms?\"",
+                    "messageDesc": "Gain a Keywordless E.G.O Gift depending on the result of the following choice",
+                    "result": [
+                        "\"Primeiro, é durável. Encomendei numa oficina mais cara, sabe. E também, pensa em quantas vezes você se machuca os braços e as mãos fazendo trabalho de Solucionador.\"\n\n\"Te digo, manutenção de prótese é bem mais barata do que regenerar a carne.\"\n\n\"Ah, outra coisa. Você não precisa segurar o telefone esquisitamente com o ombro quando está digitando e ligando ao mesmo tempo. Dá pra abrir uma lata de sorvete com um par de mãos enquanto o outro folheia uns documentos...\"\n\n\"Cara, quando eu trabalhava nas regiões do oeste, tinha tanto, tanto trabalho que eu até pensei em instalar mais conjuntos de braços além desses quatro!\"\n\n\"…….\"\n\nNão é como se eu tivesse orelhas, mas começo a entender o que significa \"furar a paciência de alguém\".\n\nAgora sabemos com certeza como é bom ter quatro braços.\n\nE provavelmente nunca vamos esquecer quanto trabalho dá pra fazer enquanto se abre uma lata."
+                    ]
+                },
+                {
+                    "message": "\"Nada. Tenha uma boa viagem.\"",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Hm? T-tudo bem. Boa viagem pra vocês também.\"\n\nNos despedimos rapidamente e mudamos pra outra fila..."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97102801,
+            "name": "",
+            "desc": "Should we ask some more questions?",
+            "options": [
+                {
+                    "message": "\"What are the benefits of having four arms?\"",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O Sem Palavras-chave.",
+                    "result": [
+                        "\"Primeiro, é durável. Encomendei numa oficina mais cara, sabe. E também, pensa em quantas vezes você se machuca os braços e as mãos fazendo trabalho de Solucionador.\"\n\n\"Te digo, manutenção de prótese é bem mais barata do que regenerar a carne.\"\n\n\"Ah, outra coisa. Você não precisa segurar o telefone esquisitamente com o ombro quando está digitando e ligando ao mesmo tempo. Dá pra abrir uma lata de sorvete com um par de mãos enquanto o outro folheia uns documentos...\"\n\n\"Cara, quando eu trabalhava nas regiões do oeste, tinha tanto, tanto trabalho que eu até pensei em instalar mais conjuntos de braços além desses quatro!\"\n\n\"…….\"\n\nNão é como se eu tivesse orelhas, mas começo a entender o que significa \"furar a paciência de alguém\".\n\nAgora sabemos com certeza como é bom ter quatro braços.\n\nE provavelmente nunca vamos esquecer quanto trabalho dá pra fazer enquanto se abre uma lata.\n\n\"Eita, parece que o meu trem chegou. Tenho que ir.\"\n\n\"Bom, meus amigos curiosos, dizem que não existem encontros casuais neste mundo. Pega isso aqui, hein?\""
+                    ]
+                },
+                {
+                    "message": "\"Nada. Tenha uma boa viagem.\"",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Hm? T-tudo bem. Boa viagem pra vocês também.\"\n\nNos despedimos rapidamente e mudamos pra outra fila..."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97102802,
+            "name": "",
+            "desc": "Should we ask some more questions?",
+            "options": [
+                {
+                    "message": "\"Are you from up north?\"",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O Sem Palavras-chave.",
+                    "result": [
+                        "\"Sim, do norte. Foi a roupa? Acho que roupas do norte se destacam mesmo, pelo tanto que a gente se agasalha.\"\n\n\"Aff, eu curto muito a paisagem aqui do sul. Eu consigo ver o horizonte de verdade, sabe? No norte, tem tantos prédios altos que basicamente nunca dá pra ver um horizonte decente. É ainda pior no centro. É tipo andar por uma selva de prédios.\"\n\n\"Hm, suas armas são bem simples, hein? Tem que pintar elas, pôr umas penduricalhos, fazer elas se destacarem, sacou? Vão menosprezar vocês se vocês não conseguirem mostrar de cara o quão impressionantes são.\"\n\n\"Ah, mais uma coisa. Deixa eu contar pra vocês sobre o sorvete tricolor em lata que vendem na minha cidade natal. Cara, é uma iguaria de verdade. Se vocês algum dia—\"\n\n\"…….\"\n\nNão é como se eu tivesse orelhas, mas começo a entender o que significa \"furar a paciência de alguém\".\n\nAprendemos muito mais do que queríamos sobre as regiões do norte.\n\nAcho que a gente perdeu o fio em algum momento durante uma diatribe sobre vários itens em conserva da P Corp.\n\n\"Eita, parece que o meu trem chegou. Tenho que ir.\"\n\n\"Bom, meus amigos curiosos, dizem que não existem encontros casuais neste mundo. Pega isso aqui, hein?\""
+                    ]
+                },
+                {
+                    "message": "\"Nada. Tenha uma boa viagem.\"",
+                    "messageDesc": "",
+                    "result": [
+                        "\"Hm? T-tudo bem. Boa viagem pra vocês também.\"\n\nNos despedimos rapidamente e mudamos pra outra fila..."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971029,
+            "name": "",
+            "desc": "Além da porta divisória, vejo vários Agentes de Limpeza da W Corp. que foram transformados em Sacos de Sangue.\n\nEles vagam pelo vagão como se patrulhassem a área.\n\nSinais de uma luta brutal espalham-se pelo chão. Vários equipamentos de agente cobertos de sangue e vísceras...\n\nEles ainda não nos notaram.\n\nProvavelmente conseguimos passar furtivamente por eles...\n\n... mas talvez tenha algo que a gente possa usar entre os equipamentos espalhados pelo chão.",
+            "options": [
+                {
+                    "message": "Sneak by.",
+                    "messageDesc": "",
+                    "result": [
+                        "Conseguimos passar furtivamente pelos Sacos de Sangue.\n\nPegar aqueles equipamentos teria sido legal, mas não é hora de correr riscos desnecessários."
+                    ]
+                },
+                {
+                    "message": "Look for anything useful on the floor.",
+                    "messageDesc": "Envy & Gluttony Advantage check. Pass to gain a Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Attempt a preemptive attack.",
+                    "messageDesc": "Begin a combat encounter. Win to gain a Charge E.G.O Gift.",
+                    "result": [
+                        "Passar furtivamente pelos agentes não vai ser fácil.\n\nA gente também não pode ficar à toa procurando equipamento útil no chão. Os Sacos de Sangue estão alertas.\n\nTalvez seja melhor ideia tentar um ataque preemptivo antes que eles nos notem.\n\nDecidimos nos aproximar furtivamente para uma emboscada."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97102902,
+            "name": "",
+            "desc": "O Pecador na vanguarda olha para a esquerda, para a direita, depois para mim.\n\nOs Agentes de Limpeza estão pisando em dois itens diferentes no chão.\n\nCada Saco de Sangue neste vagão vai nos notar assim que pegarmos um deles que seja.\n\nSer ganancioso e tentar pegar os dois vai nos atrasar demais.\n\nVamos escolher qual dos dois nos parece mais útil.",
+            "options": [
+                {
+                    "message": "A powerful-looking weapon",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Carga.",
+                    "result": [
+                        "Corremos para o próximo vagão assim que pegamos a arma."
+                    ]
+                },
+                {
+                    "message": "A useful-looking gear",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Carga.",
+                    "result": [
+                        "Corremos para o próximo vagão assim que pegamos o equipamento."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971030,
+            "name": "",
+            "desc": "Corações batendo. Tecidos musculares se contraindo. Pele se roçando.\n\nEsses eram os sons que enchiam o vagão gigante em que entramos.\n\nContornos azuis do trem WARP piscam intermitentemente entre uma máquina imponente de sangue e carne.\n\nÉ uma espécie de data center, feito para armazenar algo. Mas as peças que formam a máquina são feitas de material orgânico humano.\n\nUma voz fala, dizendo que é preciso autenticação biométrica para passarmos para o próximo vagão.\n\nVamos ter que caminhar até o centro da sala, onde está a massa serpenteante e entrelaçada de carne.",
+            "options": [
+                {
+                    "message": "Proceed with the authentication.",
+                    "messageDesc": "Gloom & Pride Advantage check. Pass to gain a Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Refuse the authentication process.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Carga.",
+                    "result": [
+                        "Cabos biológicos tecidos do corpo de um passageiro se estendem em direção aos Pecadores.\n\nA massa contorcida, a sensação repugnante é demais para os Pecadores; eles imediatamente avançam para cortar os cabos.\n\nIncontáveis veias de sangue, fragmentos de osso e vísceras se mexem como água fervente.\n\nOutro cabo grosso se estende em direção aos Pecadores...\n\n... mas conseguimos chegar ao próximo vagão.\n\nHá algo sobre o coração de um dos Pecadores que conseguiu sair."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971031,
+            "name": "",
+            "desc": "Um corpo prostético bloqueia a passagem entre dois vagões.\n\nNos aproximamos com cuidado, no caso de ser um Saco de Sangue.\n\n... É um Saco de Sangue, apenas dormente e imobilizado.\n\nUma inspeção mais cuidadosa pelas juntas mecânicas revela que qualquer carne que ali estivesse foi completamente desidratada.\n\nAs veias inchadas romperam a armadura de aço, tornando-se crescimentos cristalinos vermelhos por todo o corpo prostético.\n\nEmbora sua expressão seja imperceptível, não é difícil imaginar que dor palpável deve ter envolvido esse processo. Os momentos finais do Solucionador o deixaram em uma forma retorcida que não poderia ter nascido de outra coisa senão de dor inimaginável.",
+            "options": [
+                {
+                    "message": "See if anything can be done to help.",
+                    "messageDesc": "Pride & Envy & Gloom Advantage check. Pass to gain a Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Investigar se isto tem algo a ver com um Sanguinário.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Sangramento.",
+                    "result": [
+                        "Não há dúvida de que esse Solucionador foi atacado por um Sanguinário.\n\nOs Pecadores ficam alarmados ao ver as vísceras desidratadas visíveis através do sangue cristalizado e da carcaça prostética.\n\nApós uma breve discussão com os Pecadores, decidi pegar uma amostra do sangue cristalizado.\n\nPode ser útil."
+                    ]
+                }
+            ]
+        }
+    ]
+}

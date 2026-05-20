@@ -1,0 +1,88 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971038,
+            "name": "",
+            "desc": "Em meio a este lugar tomado por uma aura azul, um ser sombrio se aproxima de nós e estende a mão.\n\nNa palma do ser há uma bala. Pulsa com uma aura premonitória.\n\n'Esta é uma bala mágica que jamais errará, não importa o quê.'\n\n'Mas... tem uma condição. A última bala sempre voará em direção à pessoa que você mais ama.'\n\n'Se ainda assim quiser disparar esta bala, ou tiver alguém em quem gostaria de atirar... eu posso te conceder isso.'",
+            "options": [
+                {
+                    "message": "Express doubt.",
+                    "messageDesc": "Run a Pride & Envy Advantage check to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Express willingness to shoot the bullet myself.",
+                    "messageDesc": "Run a Wrath & Pride Advantage check to gain a Pierce E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971039,
+            "name": "",
+            "desc": "Tiros ecoam de uma distância próxima.\n\nQuando seguimos o som, só encontramos os restos sangrentos de uma batalha.\n\nOs combatentes já devem ter deixado o local; está silencioso aqui.\n\nVárias engrenagens, agora paradas, espalham-se pelo chão ensanguentado.\n\nEntre elas há uma cadeira intacta.\n\nHá uma engrenagem na cadeira que ainda está girando.",
+            "options": [
+                {
+                    "message": "Take a seat.",
+                    "messageDesc": "Run a Pride & Envy Advantage check to gain a Poise E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Walk past it.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971040,
+            "name": "",
+            "desc": "Nos encontramos no que parece ser um prédio de escritórios bastante vazio.\n\nHá Solucionadores aqui, discutindo os detalhes de seu próximo contrato.\n\n'Entendido. A gente leva só dois fuzis de precisão para esse contrato.'\n\n'Eu acho que a gente precisa de um fuzil de assalto, só por garantia.'\n\n'Por mim, beleza.'\n\nAssim que a discussão terminou, os Solucionadores pegaram suas mochilas e deixaram a sala.",
+            "options": [
+                {
+                    "message": "Observe the desk.",
+                    "messageDesc": "Run a Pride & Envy Advantage check to gain a Pierce E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Follow them outside.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971041,
+            "name": "",
+            "desc": "Dá pra ouvir os sons de montagem de armas e páginas de livros sendo viradas.\n\nEste lugar parece ser uma espécie de instalação educacional. Bem séria, aliás.\n\nTalvez os Pecadores possam aprender algo com um dos instrutores.",
+            "options": [
+                {
+                    "message": "Learn CQB.",
+                    "messageDesc": "Run a Wrath & Lust Advantage check to gain a Poise E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Learn the art of war.",
+                    "messageDesc": "Run a Wrath & Envy Advantage check to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971080,
+            "name": "Hardblood weapon found while resting",
+            "desc": "No meio da nossa batalha contra a horda quase-infinita de Sacos de Sangue...\n\n<Hm...?>\n\n... encontramos um objeto sinistro no chão.\n\nEmbora se assemelhasse um pouco às armas dos Sacos de Sangue, havia o suficiente para distingui-lo delas.\n\n\"Tem que ser uma arma poderosa, né?\"\n\n\"Há de ser uma arma deveras perigosa.\"\n\n\"Em verdade, é item dos mais intrigantes!\"\n\nClaramente, os Pecadores estão tendo dificuldade em chegar a um consenso.\n\n... Parece que cabe a mim decidir se vamos pegar essa coisa ou não.",
+            "options": [
+                {
+                    "message": "Pick up the weapon.",
+                    "messageDesc": "Escolha para receber uma Bênção de E.G.O de Sangramento.",
+                    "result": [
+                        "Provavelmente vai ser útil, em alguma forma.\n\nApós um breve descanso, os Pecadores seguiram em direção ao destino.\n\n... Mas nenhum de nós notou como o Pecador que segurava a arma parecia incapaz de tirar os olhos das manchas de sangue."
+                    ]
+                },
+                {
+                    "message": "Don't pick up the weapon.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não estava com vontade de andar por aí carregando um artefato misterioso desses.\n\nOs Pecadores seguiram em frente em direção ao próximo destino, apesar da leve decepção."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971081,
+            "name": "Há uma peça útil de equipamento em um Agente de Limpeza da W Corp. que foi transformado em Saco de Sangue.",
+            "desc": "Os Agentes da W Corp. que viraram Sacos de Sangue eram inimigos de dificuldade maior que os outros Sacos de Sangue a bordo do trem.\n\nUma vez derrotados, encontramos um equipamento de aparência estranha entre os destroços da batalha.\n\nEu já tinha visto uma Identidade da W Corp. com aquela manopla antes.\n\n\"Este equipamento está coberto de vísceras; vai ser difícil usá-lo como está.\"\n\nParece que vamos ter trabalho considerável para colocá-lo em condição de funcionar...",
+            "options": [
+                {
+                    "message": "Tear off the gore.",
+                    "messageDesc": "Wrath & Gloom Advantage check. Pass to gain a Bleed E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Leave it.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não temos o luxo de desperdiçar nosso tempo com uma coisa dessas.\n\nDeixando a manopla pra trás, seguimos em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971082,
+            "name": "Há uma peça útil de equipamento no corpo de um Agente de Limpeza da W Corp. que foi transformado em Saco de Sangue.",
+            "desc": "Parece que está quase totalmente consertado.\n\nMas talvez arriscar um ferimento em um Pecador não valha o esforço.",
+            "options": [
+                {
+                    "message": "Repair the gauntlet.",
+                    "messageDesc": "Lust & Envy Advantage check. Pass to gain a Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Give up the repair.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Não temos o luxo de desperdiçar nosso tempo com uma coisa dessas.\n\nDeixando para trás a manopla coberta de vísceras, seguimos em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971083,
+            "name": "A merchant passenger",
+            "desc": "Esta seção parece estar bem cheia de passageiros.\n\nEntre eles, notamos um passageiro surpreendentemente calmo e sereno.\n\n\"Aproxime-se, sim...?\"\n\nHavia um frasco cheio de comprimidos de aparência suspeita em suas mãos estendidas.\n\nO passageiro passa a explicar que sua sanidade presente se deve aos comprimidos que possui.\n\n\"Vocês gostariam de provar?\"",
+            "options": [
+                {
+                    "message": "Purchase the pills.",
+                    "messageDesc": "Spend Cost to heal all allies' HP & SP",
+                    "result": [
+                        "Paguei o preço e distribuí o comprimido entre os Pecadores.\n\n\"Ooh... isto não é nada mau.\"\n\nOs efeitos foram bem aparentes; os comprimidos pareceram curar todo mundo, tanto física quanto mentalmente.\n\n\"Por favor, voltem sempre...\"\n\nOs passageiros se despediram, então continuamos depois de responder na mesma moeda."
+                    ]
+                },
+                {
+                    "message": "Just take a quick look, then leave.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "No need to pay out of pocket for something that suspicious.\n\nWe continued on."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971084,
+            "name": "A W Corp. Cleanup Agent is battling a group of Bloodbags.",
+            "desc": "\"Olhem! Um guerreiro solitário luta contra uma horda de Sacos de Sangue!\"\n\nOs Pecadores estavam olhando para alguém vestindo um uniforme da W Corp.\n\nEle parecia bem habilidoso, mas o número absoluto de Sacos de Sangue estava prestes a sobrepujá-lo.\n\n<A gente tem que ajudar—>\n\nMas sou interrompido por outra horda de Sacos de Sangue que invade esse vagão, nos cercando.\n\n\"Droga... preparem-se para a batalha!\"\n\n\"E-e o guerreiro solitário?!\"\n\n\"Bem—\"",
+            "options": [
+                {
+                    "message": "Lend him an E-Type Dimensional Dagger.",
+                    "messageDesc": "Select to gain a Charge E.G.O Gift",
+                    "result": [
+                        "\"Isto deve ajudar, ao menos...!\"\n\nLançamos a adaga no Agente da W Corp...\n\n... e acertamos um Saco de Sangue bem na nuca, no momento em que ele estava prestes a cravar os dentes nele. Ele rapidamente puxou a adaga e a usou para se defender.\n\nUma vez terminada a limpeza, ele nos agradeceu e devolveu a adaga.\n\n\"Obrigado por intervirem! Mais um segundo e eu também teria virado um daqueles mons—\"\n\nHorrorizado, o Agente se interrompe e desvia do pensamento sombrio.\n\n\"Vou recuar. Peguem isto — não é muito, mas espero que ajude.\""
+                    ]
+                },
+                {
+                    "message": "Send a Sinner to assist the W Corp. Agent.",
+                    "messageDesc": "Envy & Wrath Advantage check. Pass to gain a Charge E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Don't send anyone.",
+                    "messageDesc": "All allies lose SP",
+                    "result": [
+                        "Como já tínhamos nossa cota de Sacos de Sangue para lidar, decidimos nos salvar primeiro.\n\nNão tardou para que o Agente da W Corp. fosse engolido pelo enxame implacável de Sacos de Sangue.\n\nDava pra ouvir seus gritos agonizantes através do tropel, implorando para que alguém o resgatasse, mas... era tarde demais para fazermos qualquer coisa."
+                    ]
+                }
+            ]
+        }
+    ]
+}

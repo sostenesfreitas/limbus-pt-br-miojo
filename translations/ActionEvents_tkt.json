@@ -1,0 +1,168 @@
+﻿{
+    "dataList": [
+        {
+            "id": 10511,
+            "name": "Trabalhador da Fábrica",
+            "subDesc": "",
+            "desc": "É somente outra ocupada, ocupada fábrica de relógios.\n\n\"!@#$!#$#!$@#$!$#@$.\"\n\nUm homem em brilhantes sapatos sociais e um terno social, obviamente o dono da fábrica, está gritando com seus empregados que vestem roupas sujas de óleo.\n\nAlgo toma sua atenção, fazendo com que ele encare um de seus empregados e grite com raiva.\n\nO empregado, que já estava ocupada com seu trabalho, fica envergonhado e tenta dizer algo. Mas ele demora eras para sequer abrir sua boca.\n\nO dono saca um gravador em uma frustrada tentativa de se comunicar, mas não adianta.\n\n\"Eu recém chequei a câmera de segurança. Você tem dormido por duas horas! Dê uma boa explicação.\"\n\n\"F... ... ... á... ... ...\"\n\n\"... ... b... ... ... r...\"\n\n\"Cara, você não consegue falar um pouco mais rápido?!\"\n\nTalvez tenha algo aqui para resolver a situação?",
+            "options": [
+                {
+                    "message": "Dê uma olhada ao redor da fábrica.",
+                    "messageDesc": "Teste de Vantagem de Gula & Orgulho. Passe para receber uma Bênção de E.G.O de Tremor."
+                },
+                {
+                    "message": "Observar de perto o dono da fábrica e o empregado.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Preguiça. Passe para receber uma Bênção de E.G.O de Tremor."
+                }
+            ]
+        },
+        {
+            "id": 10512,
+            "name": "Coleta de Imposto da T Corp.",
+            "subDesc": "",
+            "desc": "Em uma rua aleatória da T. Corp... Um Funcionário de Coleta está recolhendo impostos dos cidadãos.\n\n\"Fará o pagamento em tempo ou dinheiro?\"\n\n\"Como eu havia dito, nós já pagamos nossos Impostos Temporais de maneira íntegra! Além do mais, pagar trezentos milhões de Ahn? Isso é um absurdo...!\"\n\n\"Os relatórios mostram que você acumulou responsabilidades de Impostos Temporais adicionais devido às taxas de doações.\"\n\n\"Sem chance. Isto é por causa que eu dei meu tempo para aqueles garotos na Periferia?\"\n\n\"Eu dei apenas trezentas horas para eles, então como é que aquilo escala tão rápido a ponto de se tornar trezentos milhões de Ahn em impostos?! Isso não faz sentido algum!\"\n\n\"Os calculos de impostos na T Corp. são sempre excepcionalmente precisos.\"\n\nO Coletor de Tempo caminha em direção ao cidadãos para neutralizá-los.",
+            "options": [
+                {
+                    "message": "Falar com eles.",
+                    "messageDesc": "Teste de Vantagem de Melancolia & Preguiça. Passe para receber uma Bênção de E.G.O Sem Palavras-chave."
+                },
+                {
+                    "message": "Se afastar.",
+                    "result": [
+                        "Parece que ele precisará se defender de alguma forma contra o Escritório de Coleta.\n\nNão é como se você pudesse mudar algo intervindo.\n\n...Até que você percebe que este é exatamente o tipo de pensamento que transformou a T Corp. no lugar que é hoje. Você muda de ideia e tenta intervir...\n\n...Mas o Coletor de Tempo já havia extraído o tempo do cidadão, tornando-o lento como uma lesma."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10513,
+            "name": "Ruas da T Corp.",
+            "subDesc": "",
+            "desc": "Pessoas de todos os tipos, todas com quantidades diferentes de horas para gastar em um dia, se movendo e falando em velocidades distintas.\n\nO som vindo desta estranha desigualdade preenche as ruas com incongruência.\n\nNo caos, duas pessoas chamam a sua atenção.\n\nUm jovem de aparência nobre, que apesar de sua abundância temporal, caminha de forma enérgica pelas ruas...\n\n... e um velho de aparência pobre, que apesar de sua miséria temporal, caminha calmamente até um beco com uma expressão serena em sua face.\n\nQuem seguir?",
+            "options": [
+                {
+                    "message": "Seguir o jovem.",
+                    "messageDesc": "Teste de Vantagem de Orgulho & Gula. Passe para receber uma Bênção de E.G.O de Tremor."
+                },
+                {
+                    "message": "Seguir o velho.",
+                    "messageDesc": "Teste de Vantagem de Preguiça & Luxúria. Passe para receber uma Bênção de E.G.O de Tremor. "
+                },
+                {
+                    "message": "Não seguir ninguém.",
+                    "result": [
+                        "São apenas duas pessoas cuidando da própria vida, gastando o próprio tempo com as coisas que querem.\n\nPara que segui-los? Vamos fazer o mesmo e gastar nossos tempos da forma que bem entendermos.\n\nVocê continua seguindo a rua, com sua cabeça transbordando de pensamentos sobre a desigualdade temporal."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10514,
+            "name": "Esconderijo Yurodiviye ",
+            "subDesc": "",
+            "desc": "Um esconderijo secreto da Yurodiviye. Um Yurodivy prega fervorosamente textos concedidos pelo Santo.\n\n\"Nos tornamos nada além de engrenagens em uma máquina que existe apenas para industrialistas, a burguesia e as Asas.\"\n\n\"Digam, quais outras relações humanas sobraram entre os Cidadãos além do interesse próprio cego e o companheirismo amargo criado através do capital?\"\n\n\"Por isto, devemos nos distanciar do metal frio e vazio de afeto que chamamos de dinheiro; e em vez disto, utilizarmos o calor das nossas interações como moeda de troca para as nossas necessidades!\"\n\n\"Aos que têm, as leis dos Ninhos são escudos que protegem seus privilégios; e, para os que não têm, são correntes que nos prendem!\" \n\n\"Devemos desertar as leis estabelecidas no Ninho! Devemos mostrá-los a fúria dos menos afortunados!\"\n\n\"Tudo que a Yurodiviye tem a perder são essas correntes; Tudo que temos a ganhar é um mundo sem fome!\"\n\nO Yurodivy, de repente, aponta em nossa direção.\n\nAcho que precisaremos dizer alguma coisa.",
+            "options": [
+                {
+                    "message": "A-aos Yurodiviye da Cidade, unam-se!",
+                    "messageDesc": "Teste de Vantagem de Ira & Inveja & Gula. Passe para receber uma Bênção de E.G.O de Tremor."
+                },
+                {
+                    "message": "Gosto da ideia, mas sem chance dela funcionar.",
+                    "result": [
+                        "Assim que o Pecador termina de falar, a sala torna-se morta e silenciosa.\n\nO Yurodivy que aparenta ser o lider aponta em direção à porta e faz um movimento sinalizando para que saia.\n\nVocê deixa o local antes que algo aconteça."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10515,
+            "name": "Cena do Crime de Matar Tempo",
+            "subDesc": "",
+            "desc": "Você vê uma vítima do Estripador Temporal.\n\nVocê não pode nem tocá-los graças ao fenômeno de superposição de deslocamento espaço-temporal.\n\nHá algo que possa fazer aqui para ajudar?",
+            "options": [
+                {
+                    "message": "Tentar ajudar.",
+                    "messageDesc": "Teste de Vantagem de Preguiça & Gula & Orgulho. Passe para receber uma Bênção de E.G.O Sem Palavras-chave."
+                },
+                {
+                    "message": "Ignorar eles e ir embora.",
+                    "result": [
+                        "Você precisa ir atrás do Estripador Temporal.\n\nNão há tempo a perder."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 910901,
+            "name": "Timekilling Time Dungeon Renewal Starting Point",
+            "subDesc": "",
+            "desc": "Entramos no Dungeon dos Fathoms. Parece uma rua da T Corp.\n\nPassando pelas multidões de transeuntes apressados, notamos a máquina de venda automática brilhante por perto.\n\nCom as ruas completamente desprovidas de cor...\n\n... a luz da máquina parece ressoar muito mais vibrante com nosso coração.\n\nOlhando ao redor, os demais transeuntes não parecem notar nada de incomum.\n\nVemos fileiras de botões na máquina de venda.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Press one of the buttons on the top row.",
+                    "messageDesc": "Gain a Tremor E.G.O Gift",
+                    "result": [
+                        "Pegamos o E.G.O Gift que caiu da máquina com um baque.\n\nEstamos <i>tão</i> perto de desvelar a verdade do Timekilling Time.\n\nNão sabemos exatamente como este caso vai terminar...\n\n... mas decidimos seguir em frente, com o brilho como nossa estrela-guia."
+                    ]
+                },
+                {
+                    "message": "Press one of the buttons on the middle row.",
+                    "messageDesc": "Gain a Tremor E.G.O Gift",
+                    "result": [
+                        "Pegamos o E.G.O Gift que caiu da máquina com um baque.\n\nEstamos <i>tão</i> perto de desvelar a verdade do Timekilling Time.\n\nNão sabemos exatamente como este caso vai terminar...\n\n... mas decidimos seguir em frente, com o brilho como nossa estrela-guia."
+                    ]
+                },
+                {
+                    "message": "Press one of the buttons on the bottom row.",
+                    "messageDesc": "Gain a Keywordless E.G.O Gift",
+                    "result": [
+                        "Pegamos o E.G.O Gift que caiu da máquina com um baque.\n\nEstamos <i>tão</i> perto de desvelar a verdade do Timekilling Time.\n\nNão sabemos exatamente como este caso vai terminar...\n\n... mas decidimos seguir em frente, com o brilho como nossa estrela-guia."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 910902,
+            "name": "Timekilling Time Dungeon Renewal Fusion",
+            "subDesc": "",
+            "desc": "Encontramos um ponto de descanso conhecido.\n\nA porta de vidro está trancada, com um aviso afixado nela.\n\n'Estamos fechados hoje por motivos pessoais. Pedimos desculpas pelo inconveniente.'\n\n'Contudo, nosso aparelho de fusão está disponível para uso. Os clientes que precisarem de serviço de fusão são gentilmente convidados a usar o aparelho ao lado da entrada.'\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Try putting in Silver Watch Case and Etched Clock Hands.",
+                    "messageDesc": "",
+                    "result": [
+                        "Após um chocalhar prolongado, um E.G.O Gift cai do aparelho."
+                    ]
+                },
+                {
+                    "message": "Try putting in Silver Watch Case and Rusted Clock Hands.",
+                    "messageDesc": "",
+                    "result": [
+                        "Após um chocalhar prolongado, um E.G.O Gift cai do aparelho."
+                    ]
+                },
+                {
+                    "message": "Try putting in Faded Watch Case and Etched Clock Hands.",
+                    "messageDesc": "",
+                    "result": [
+                        "Após um chocalhar prolongado, um E.G.O Gift cai do aparelho."
+                    ]
+                },
+                {
+                    "message": "Try putting in Faded Watch Case and Rusted Clock Hands.",
+                    "messageDesc": "",
+                    "result": [
+                        "Após um chocalhar prolongado, um E.G.O Gift cai do aparelho."
+                    ]
+                },
+                {
+                    "message": "Não há nada que pareça apropriado para colocar no aparelho.",
+                    "messageDesc": "",
+                    "result": [
+                        "Não temos nada apropriado para colocar no aparelho.\n\nNão houve escolha senão voltar à estrada."
+                    ]
+                }
+            ]
+        }
+    ]
+}

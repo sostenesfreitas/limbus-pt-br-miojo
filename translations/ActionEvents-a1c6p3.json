@@ -1,0 +1,34 @@
+﻿{
+    "dataList": [
+        {
+            "id": 817301,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Você está escutando? Você pode ouvir minha voz?!\"\n\nDe repente, eu percebo uma voz desconhecida ecoando diretamente na minha cabeça.\n\n<Esse... Esse som está vindo diretamente do Ramo de Ouro...?>\n\n\"... Você tá escutando também, Cabeça de Relógio?\"\n\nEu me viro para olhar Heathcliff. Ele parece estar exausto após tanto lutar, tanto de corpo quanto de espírito.\n\nO Ramo de Ouro que perfurava seu peito foi removido logo depois de eu girar o relógio. Mas sua influência aparenta ter perdurado, por algum motivo.\n\n\"Catherine...?\"\n\nHeathcliff sussurra.\n\n",
+            "options": [
+                {
+                    "message": "Listen closer.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817303,
+            "name": "",
+            "subDesc": "",
+            "desc": "Minha cabeça é preenchida pela voz mais uma vez.\n\n\"Eu nunca deveria ter invocado aquela Catherine para cá...\"\n\n\"Eu pensei... eu pensei que o Heathcliff nunca mais teria que sofrer se todas as Catherines deixassem de existir...\"\n\n\"... Mas eu deveria ter sabido que o Heathcliff pensaria exatamente o mesmo...!\"\n\nConsigo sentir a tristeza dilacerante dela.\n\n\"... Ah... eu nunca deveria ter fugido. Eu deveria ter conversado com ela em vez de fugir.\"\n\nHeathcliff estava certo. Cada palavra não dita, cada conversa não compartilhada só afastou mais um do outro o coração de ambos... até que suas palavras começaram a correr em paralelo, nunca a convergir.\n\n\"Se ao menos eu pudesse voltar atrás...\"\n\n\"Será que não há mesmo saída dessa armadilha que aquela mulher armou para nós...?\"",
+            "options": [
+                {
+                    "message": "Heathcliff shouts.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

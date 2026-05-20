@@ -1,0 +1,186 @@
+﻿{
+    "dataList": [
+        {
+            "id": 971100,
+            "name": "Ardor Blossom Moth Containment Breach",
+            "desc": "Talvez o controle de segurança da câmara de contenção tenha relaxado.\nA Mariposa de Flor Ardor flutua languidamente pelo corredor, deixando um rastro de brasas e chamas vermelho-vivas atrás de si.\n\nLogo depois, o sistema de anúncios da instalação irrompe com alertas de quebra de contenção. Pesquisadores vêm correndo pelo corredor, atropelando-se para responder.\n\nDevemos intervir e ajudar os pesquisadores a suprimir a Anormalidade, ou deixar com eles e seguir nosso caminho?",
+            "options": [
+                {
+                    "message": "Intervir e ajudar com a supressão.",
+                    "messageDesc": "Wrath Advantage check. Pass to gain a Burn E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Leave the suppression to the researchers.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Eles estão armados até os dentes com equipamentos E.G.O. Suprimir a Anormalidade não deve representar muita ameaça pra eles.\n\nVamos acelerar e seguir nosso caminho."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971101,
+            "name": "Faelantern Containment Breach",
+            "desc": "Um tom fluorescente e brilhante de azul-turquesa está dançando e ondulando em algum ponto adiante no corredor.\n\nUm impulso inexplicável de andar em direção à luz nos toma.\n\nAinda assim, vendo os pesquisadores correrem em sua direção como atraídos por uma isca irresistível, fica claro que esta é obra de uma Anormalidade.\n\nDevemos conter os pesquisadores e ajudar a suprimir a Anormalidade, ou contornar a armadilha que possa estar à frente e seguir em frente?",
+            "options": [
+                {
+                    "message": "Intervir e ajudar com a supressão.",
+                    "messageDesc": "Gluttony Advantage check. Pass to gain a Rupture E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Avoid the trap.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Uma Anormalidade que atrai sua presa com luz... só pode ser a Faelantern.\n\nA gente estaria correndo um risco perigoso ao tentar confrontá-la sem saber exatamente onde ela está espreitando.\n\nMelhor passar por este lugar e manter nossa força de combate intacta.\n\n... Vamos nos apressar e seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971102,
+            "name": "Shock Centipede",
+            "desc": "Conseguimos ver a Centopeia de Choque para além do vidro da câmara de contenção.\n\n\"Ah, estamos no meio de um estudo sobre como a Centopeia de Choque se torna efetivamente 'imortal' por um curto tempo logo antes da supressão.\"\n\n\"Veja, a tese da nossa equipe foca em descobrir potenciais fontes de energia que permitam equipamentos de carregamento altamente eficientes.\"\n\n\"Tenho certeza de que todos sabem o nome do E.G.O Gift extraído desta Anormalidade?\"\n\n... Qual era mesmo?",
+            "options": [
+                {
+                    "message": "Uncapped Defibrilator",
+                    "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+                    "result": [
+                        "\"Correto! Além de conter sobrecargas temporárias com segurança, mal há perda na potência! É de fato um fenômeno notabilíssimo...\"\n\nO pesquisador tagarelava feliz antes de tirar algo do armário atrás dele.\n\n\"Recentemente implementamos um novo mecanismo para calibrar Extrações — produziu uma forma bem incomum de E.G.O Gift.\"\n\n\"Talvez vocês gostariam de testá-lo? Ah, e a gente apreciaria qualquer feedback sobre seu desempenho...\""
+                    ]
+                },
+                {
+                    "message": "Nonstandard-duty Battery",
+                    "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+                    "result": [
+                        "\".......\"\n\n\"Achei que vocês fossem lembrar. Quer dizer, vocês têm usado isso com bastante frequência...\"\n\n\"Vocês provavelmente precisam de mais sessões de observação.\"\n\nCom um suspiro arrastado e decepcionado, o pesquisador se afastou de nós."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971103,
+            "name": "Post-choice Development",
+            "desc": "\"Vamos ver o que diz... 'Entrada Proibida'...?\"\n\nTínhamos acabado de passar pela parede com letras frenéticas e desordenadas quando outra porta apareceu.\n\nA porta estava cheia de amassados, como se algo enorme tivesse repetidamente se chocado contra ela com força brutal.\n\n\"A essa altura... a gente conseguiria abrir na força?\"\n\n\"Não, a corrente ainda passa por ela. Seria mais prudente abri-la pelos meios devidos e evitar as consequências de um manuseio rude.\"\n\nUm painel leitor de cartões está fixado ao lado da porta amassada.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Abrir a porta com o Cartão de Autorização de Operação.\n<size=75%><color=#a16a3b>Escolha disponível com o E.G.O Gift \"Cartão de Autorização de Operação\"</color></size>",
+                    "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+                    "result": [
+                        "O rangido metálico de forçar a porta amassada machucou nossos ouvidos, mas, no fim, o esforço valeu a pena.\n\nO que nos recebeu foi a visão de uma sala coberta de sangue, repleta de fragmentos e vestígios de uma luta desesperada.\n\n\"... Isto parece ser um crachá de funcionário.\"\n\nDei uma olhada mais de perto no pequeno cartão de plástico que o Pecador havia recolhido.\n\nO sangue tinha secado sobre o cartão em camadas tão grossas que não consegui distinguir o rosto e o nome escritos nele.\n\n... Talvez o melhor seja guardá-lo, por enquanto."
+                    ]
+                },
+                {
+                    "message": "Force the door open.",
+                    "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Walk away.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Há sinais de alguém — ou de <i>alguma coisa</i> — forçando passagem para dentro do lugar que explicitamente avisava \"Entrada Proibida.\"\n\nA fresta é muito pequena para uma pessoa rastejar, mas um cachorrinho ou um pássaro poderiam ter se infiltrado facilmente.\n\nE se o que entrou por essa fresta é uma Anormalidade...\n\nEntão o que aguarda lá dentro provavelmente não é cena que desejaríamos ver ou sequer imaginar.\n\nSeguir em frente é a escolha mais segura por enquanto."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10711,
+            "name": "Ardor Blossom Moth Containment Breach",
+            "desc": "Talvez o controle de segurança da câmara de contenção tenha relaxado.\nA Mariposa de Flor Ardor flutua languidamente pelo corredor, deixando um rastro de brasas e chamas vermelho-vivas atrás de si.\n\nLogo depois, o sistema de anúncios da instalação irrompe com alertas de quebra de contenção. Pesquisadores vêm correndo pelo corredor, atropelando-se para responder.\n\nDevemos intervir e ajudar os pesquisadores a suprimir a Anormalidade, ou deixar com eles e seguir nosso caminho?",
+            "options": [
+                {
+                    "message": "Intervir e ajudar com a supressão.",
+                    "messageDesc": "Wrath Advantage check. Pass to gain a Burn E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Leave the suppression to the researchers.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Eles estão armados até os dentes com equipamentos E.G.O. Suprimir a Anormalidade não deve representar muita ameaça pra eles.\n\nVamos acelerar e seguir nosso caminho."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10712,
+            "name": "Faelantern Containment Breach",
+            "desc": "Um tom fluorescente e brilhante de azul-turquesa está dançando e ondulando em algum ponto adiante no corredor.\n\nUm impulso inexplicável de andar em direção à luz nos toma.\n\nAinda assim, vendo os pesquisadores correrem em sua direção como atraídos por uma isca irresistível, fica claro que esta é obra de uma Anormalidade.\n\nDevemos conter os pesquisadores e ajudar a suprimir a Anormalidade, ou contornar a armadilha que possa estar à frente e seguir em frente?",
+            "options": [
+                {
+                    "message": "Intervir e ajudar com a supressão.",
+                    "messageDesc": "Gluttony Advantage check. Pass to gain a Rupture E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Avoid the trap.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Uma Anormalidade que atrai sua presa com luz... só pode ser a Faelantern.\n\nA gente estaria correndo um risco perigoso ao tentar confrontá-la sem saber exatamente onde ela está espreitando.\n\nMelhor passar por este lugar e manter nossa força de combate intacta.\n\n... Vamos nos apressar e seguir em frente."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10713,
+            "name": "Shock Centipede",
+            "desc": "Conseguimos ver a Centopeia de Choque para além do vidro da câmara de contenção.\n\n\"Ah, estamos no meio de um estudo sobre como a Centopeia de Choque se torna efetivamente 'imortal' por um curto tempo logo antes da supressão.\"\n\n\"Veja, a tese da nossa equipe foca em descobrir potenciais fontes de energia que permitam equipamentos de carregamento altamente eficientes.\"\n\n\"Tenho certeza de que todos sabem o nome do E.G.O Gift extraído desta Anormalidade?\"\n\n... Qual era mesmo?",
+            "options": [
+                {
+                    "message": "Uncapped Defibrilator",
+                    "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+                    "result": [
+                        "\"Correto! Além de conter sobrecargas temporárias com segurança, mal há perda na potência! É de fato um fenômeno notabilíssimo...\"\n\nO pesquisador tagarelava feliz antes de tirar algo do armário atrás dele.\n\n\"Recentemente implementamos um novo mecanismo para calibrar Extrações — produziu uma forma bem incomum de E.G.O Gift.\"\n\n\"Talvez vocês gostariam de testá-lo? Ah, e a gente apreciaria qualquer feedback sobre seu desempenho...\""
+                    ]
+                },
+                {
+                    "message": "Nonstandard-duty Battery",
+                    "messageDesc": "Select the right answer to gain a Charge E.G.O Gift",
+                    "result": [
+                        "\".......\"\n\n\"Achei que vocês fossem lembrar. Quer dizer, vocês têm usado isso com bastante frequência...\"\n\n\"Vocês provavelmente precisam de mais sessões de observação.\"\n\nCom um suspiro arrastado e decepcionado, o pesquisador se afastou de nós."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10714,
+            "name": "Post-choice Development",
+            "desc": "\"Vamos ver o que diz... 'Entrada Proibida'...?\"\n\nTínhamos acabado de passar pela parede com letras frenéticas e desordenadas quando outra porta apareceu.\n\nA porta estava cheia de amassados, como se algo enorme tivesse repetidamente se chocado contra ela com força brutal.\n\n\"A essa altura... a gente conseguiria abrir na força?\"\n\n\"Não, a corrente ainda passa por ela. Seria mais prudente abri-la pelos meios devidos e evitar as consequências de um manuseio rude.\"\n\nUm painel leitor de cartões está fixado ao lado da porta amassada.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Abrir a porta com o Cartão de Autorização de Operação.\n<size=75%><color=#a16a3b>Escolha disponível com o E.G.O Gift \"Cartão de Autorização de Operação\"</color></size>",
+                    "messageDesc": "Select to gain a Keywordless E.G.O Gift",
+                    "result": [
+                        "O rangido metálico de forçar a porta amassada machucou nossos ouvidos, mas, no fim, o esforço valeu a pena.\n\nO que nos recebeu foi a visão de uma sala coberta de sangue, repleta de fragmentos e vestígios de uma luta desesperada.\n\n\"... Isto parece ser um crachá de funcionário.\"\n\nDei uma olhada mais de perto no pequeno cartão de plástico que o Pecador havia recolhido.\n\nO sangue tinha secado sobre o cartão em camadas tão grossas que não consegui distinguir o rosto e o nome escritos nele.\n\n... Talvez o melhor seja guardá-lo, por enquanto."
+                    ]
+                },
+                {
+                    "message": "Force the door open.",
+                    "messageDesc": "Wrath & Envy Advantage check. Pass to gain a Keywordless E.G.O Gift.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Walk away.",
+                    "messageDesc": "No particular effect",
+                    "result": [
+                        "Há sinais de alguém — ou de <i>alguma coisa</i> — forçando passagem para dentro do lugar que explicitamente avisava \"Entrada Proibida.\"\n\nA fresta é muito pequena para uma pessoa rastejar, mas um cachorrinho ou um pássaro poderiam ter se infiltrado facilmente.\n\nE se o que entrou por essa fresta é uma Anormalidade...\n\nEntão o que aguarda lá dentro provavelmente não é cena que desejaríamos ver ou sequer imaginar.\n\nSeguir em frente é a escolha mais segura por enquanto."
+                    ]
+                }
+            ]
+        }
+    ]
+}
