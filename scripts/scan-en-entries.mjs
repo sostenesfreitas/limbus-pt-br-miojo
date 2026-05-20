@@ -23,6 +23,13 @@ yourself himself herself itself themselves yourselves shall should would could
 needn't isn't aren't won't
 `.split(/\s+/).filter(Boolean));
 
+// DEFINITE-EN markers: a single occurrence guarantees English text.
+// (Archaic/Early Modern English — has zero PT cognates and zero false-positive risk.)
+const DEFINITE_EN = new Set(`
+thee thou thy thyself thine dost doth hath hast wherefore prithee ye 'tis 'twas
+ne'er e'er oft methinks forsooth verily thence whence hither thither yonder
+`.split(/\s+/).filter(Boolean));
+
 const PT = new Set(`
 não nao também tambem então entao ainda já só até após apos ele ela eles elas
 você voce vocês voces meu minha meus minhas seu sua seus suas nosso nossa nossos
@@ -46,9 +53,10 @@ function classify(s) {
   const lower = norm.toLowerCase();
   const tokens = lower.split(/[^a-zA-ZÀ-ſ']+/).filter(Boolean);
   if (tokens.length === 0) return { tag: 'punct' };
-  let en = 0, pt = 0;
+  let en = 0, pt = 0, definite = 0;
   for (const t of tokens) {
     if (EN.has(t)) en++;
+    if (DEFINITE_EN.has(t)) definite++;
     if (PT.has(t)) pt++;
   }
   const accents = (s.match(/[À-ſ]/g) || []).length;
@@ -56,6 +64,7 @@ function classify(s) {
   pt += ptClitic;
 
   // Decision rules
+  if (definite >= 1 && pt === 0 && accents === 0) return { tag: 'en', en, pt, accents, definite };
   if (en >= 4 && pt === 0 && accents <= 1) return { tag: 'en', en, pt, accents };
   if (en >= 3 && pt === 0 && accents === 0) return { tag: 'en', en, pt, accents };
   if (en >= 2 && pt === 0 && accents === 0 && tokens.length <= 8) return { tag: 'en', en, pt, accents };
