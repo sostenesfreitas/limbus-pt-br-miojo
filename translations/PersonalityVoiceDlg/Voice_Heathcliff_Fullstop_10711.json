@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10711_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Preparado e carregado. Munição carregada... cartucho Pulverizador de Alta Velocidade da Atelier Logic. Beleza. Pronto pra disparar."
+        },
+        {
+            "id": "lobby_morning_10711_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Já é... de manhã? Acho que ainda tenho bastante tempo antes do evento começar. Haah... cacete, minhas costas."
+        },
+        {
+            "id": "lobby_noon_10711_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Já tão preparando o jantar na hora do almoço? Tem algo grande vindo ai mais tarde. Tenho que ter certeza que minhas balas estão em boa condição..."
+        },
+        {
+            "id": "lobby_night_10711_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Eu vou dar um bem na cabeça do líder quando ele começar o sermão antes do jantar dos seguidores. Só preciso de uma bala."
+        },
+        {
+            "id": "smalltalk_10711_1",
+            "desc": "Conversa #1",
+            "dlg": "Não pensei que seria tão fácil passar sem ser notado por eles. Tenho que dizer, não entendo muito bem o que é isso de enfiar uma engrenagem na cabeça que deixa eles babando pelas tuas palavras... || Enfim, isso vai ser mais fácil do que eu esperava. Pensei que uma missão de captura seria mais difícil."
+        },
+        {
+            "id": "smalltalk_10711_2",
+            "desc": "Conversa #2",
+            "dlg": "Não tem assim tantas Oficinas por aí construindo armas... e não tem assim tantos Solucionadores Oficiais usando armas... Bem, suponho que é por isso que a gente não tem problema em pegar esses contratos."
+        },
+        {
+            "id": "smalltalk_10711_3",
+            "desc": "Conversa #3",
+            "dlg": "Eu não gosto do que a Igreja da Engrenagem faz. Claro que não. Mas... aquilo é aquilo, e um contrato é um contrato. Não adianta se envolver demais com isso, só vai acabar bagunçando minha mira. || Não dá pra ter um retorno decente do investimento se não fizer cada tiro contar, dado o quão caros são."
+        },
+        {
+            "id": "smalltalk_10711_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Ah, caramba — eu errei! Mas eu tinha um bom ângulo, direto pra cabeça... O que diabos tá acontecendo com aquele 'líder'?!"
+        },
+        {
+            "id": "smalltalk_10711_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Caraca, a gente realmente tem que terminar isso logo... Essa arma não foi feita pra durar! Se a batalha se prolongar mais, pode superaquecer até o cano estourar! || Ei, tem alguma ideia brilhante?"
+        },
+        {
+            "id": "neglect_10711_1",
+            "desc": "Inativo",
+            "dlg": ".... Unh, I must've taken a short kip. ...Tsk. Still waiting for 'em to get started, eh?"
+        },
+        {
+            "id": "gacksung_10711_1",
+            "desc": "Enlaçamento",
+            "dlg": "Oh bugger, they saw us! Fall back! I'll return fire...!"
+        },
+        {
+            "id": "formation_10711_1",
+            "desc": "Envio",
+            "dlg": "Uh, how many bullets should I bring for this contract?"
+        },
+        {
+            "id": "battleentry_10711_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Let's try to make each bullet count. One shot, one kill."
+        },
+        {
+            "id": "battle_select_10711_1",
+            "desc": "Visto em Batalha",
+            "dlg": "... Don't try to chat me up when I'm holding my breath, yeah?"
+        },
+        {
+            "id": "battle_endcommand_10711_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Opening fire!"
+        },
+        {
+            "id": "battle_enemy_break_10711_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Nice, it's been a breeze so far...!"
+        },
+        {
+            "id": "battle_break_10711_1",
+            "desc": "Atordoado",
+            "dlg": "Ngh, dammit..."
+        },
+        {
+            "id": "battle_kill_10711_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Clean shot to the head. Bullseye."
+        },
+        {
+            "id": "battle_dead_10711_1",
+            "desc": "Morte",
+            "dlg": "You're shittin' me... I'm not finished yet..."
+        },
+        {
+            "id": "choice_success_p_10711_2",
+            "desc": "Passou no Teste",
+            "dlg": "Certo, tá satisfeito agora? || Que história é essa de pedir pra um sniper fazer essa porcaria...?"
+        },
+        {
+            "id": "choice_fail_n_10711_1",
+            "desc": "Falha no Teste",
+            "dlg": "Like I said, I'm just some bloke who shoots guns, yeah? Why'd anyone..."
+        },
+        {
+            "id": "battle_clear_10711_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Mais um derrubado... Tomara que tenha resolvido. É melhor que eu não tenha gasto muitas balas nisso."
+        },
+        {
+            "id": "battle_clear_ex_10711_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Há, achou que ia nos parar com essa pouca potência de fogo? Vamos, vamos saquear as armas que esses desgraçados deixaram pra trás."
+        },
+        {
+            "id": "battle_defeat_10711_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Eu devia ter dado um tiro mais cuidadoso... Ou talvez tenha escolhido a munição errada...? Há, dane-se... O que importa é que eu não fui bom o suficiente."
+        }
+    ]
+}

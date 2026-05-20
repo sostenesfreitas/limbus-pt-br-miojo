@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10212_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Essa resposta é suficiente, meu lorde."
+        },
+        {
+            "id": "lobby_morning_10212_1",
+            "desc": "Saudação Matinal",
+            "dlg": "O resultado do nosso trabalho noturno pode ser revisado aqui. Tudo foi feito conforme sua vontade."
+        },
+        {
+            "id": "lobby_noon_10212_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Apesar de não existir nenhum caminho imediato para o aprendizado dos ensinamentos de meu lorde, eu vou tentar adquirir esse conhecimento completo enquanto o sol ainda brilha. Essa é a expertise de Faust."
+        },
+        {
+            "id": "lobby_night_10212_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Meu propósito é desaparecer com os brilhos de lua que a noite nos trás. Ainda assim, se eu for convocada, irei ficar ao lado de meu lorde enquanto a lua se abriga atrás das núvens."
+        },
+        {
+            "id": "smalltalk_10212_1",
+            "desc": "Conversa #1",
+            "dlg": "Qual é o uso do aprendizado, do questionamento...? Um enigma que uma vez se enraizava em minha mente. Se não fosse por meu lorde... Eu não seria Faust, eu seria apenas uma humana ordinária."
+        },
+        {
+            "id": "smalltalk_10212_2",
+            "desc": "Conversa #2",
+            "dlg": "Um Heishou poder ser apenas uma ferramenta... mas Faust é diferente. Como uma besta dos Heishou da Filial de Mao... E como uma Mindinho... Eu sou, com meu nome restaurado, uma lâmina leal e devota discipula de meu lorde."
+        },
+        {
+            "id": "smalltalk_10212_3",
+            "desc": "Conversa #3",
+            "dlg": "Acessar a Gesellschaft é... necessário, mas eu o faço relutantemente. Eles tentam de novo e de novo me esclareer, mas ganhar entendimento através dos ensinamentos de meu lorde já consome a maioria dos meus dias.\n... Ainda assim, é preciso enfrentar a falta de inclinação para a busca do aprendizado."
+        },
+        {
+            "id": "smalltalk_10212_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Manifestação Fendedora-de-Nuvens (雲解顯現). As feras do Mao devem seguir em meu rastro, pois meu senhor me concedeu a coleira."
+        },
+        {
+            "id": "smalltalk_10212_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Meu senhor nos ensinou muitas vezes que os justos não fazem armas de seu poder. || Contudo... até eu, uma bruta cuja lâmina balança antes que seus lábios falem, persevero rumo à retidão... talvez essa seja uma estrada, um caminho (道) por onde se há de trilhar."
+        },
+        {
+            "id": "neglect_10212_1",
+            "desc": "Inativo",
+            "dlg": "Devo ser uma das grandes humanas também, pois não tenho ressentimento nem cobiça em mim. ... Meu senhor, não ria."
+        },
+        {
+            "id": "gacksung_10212_1",
+            "desc": "Enlaçamento",
+            "dlg": "Your will is understood; that vision of righteousness shall swiftly be realized."
+        },
+        {
+            "id": "formation_10212_1",
+            "desc": "Envio",
+            "dlg": "Para restaurar a retidão que foi perdida."
+        },
+        {
+            "id": "battleentry_10212_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Adept Heishou, into the fray."
+        },
+        {
+            "id": "battle_select_10212_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Comande sem hesitar."
+        },
+        {
+            "id": "battle_endcommand_10212_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Futility inheres in impossibility(不可違也). I will not be restrained."
+        },
+        {
+            "id": "battle_enemy_break_10212_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Fútil."
+        },
+        {
+            "id": "battle_break_10212_1",
+            "desc": "Atordoado",
+            "dlg": "... De fato."
+        },
+        {
+            "id": "battle_kill_10212_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Encontre seu esclarecimento, agora."
+        },
+        {
+            "id": "battle_dead_10212_1",
+            "desc": "Morte",
+            "dlg": "... Please straighten my bamboo hat. Yes. That is... enough..."
+        },
+        {
+            "id": "choice_success_p_10212_2",
+            "desc": "Passou no Teste",
+            "dlg": "Há momentos em que uma lâmina tem a têmpera de uma solução."
+        },
+        {
+            "id": "choice_fail_n_10212_1",
+            "desc": "Falha no Teste",
+            "dlg": "Failed to read the situation at hand."
+        },
+        {
+            "id": "battle_clear_10212_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Perpetual flawlessness is an impossibility. Yet, perseverance in that infinite approach to perfection makes this a non-issue."
+        },
+        {
+            "id": "battle_clear_ex_10212_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Hoje foi um dia sem vergonha, pois fiz minhas contribuições para trazer a retidão à tona. Hei de encarar o amanhã com orgulho."
+        },
+        {
+            "id": "battle_defeat_10212_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "...O nascer do sol me trás vergonha. ... Minha demonstração de incompetência hoje não é diferente dos meus anos como uma humana ordinária."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10111_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Oh, descanse aqui, caro companheiro. ... E agora que está de fato aqui, poderia me ajudar a organizar as informações deste experimento?\nAh! Abandone a esperança de fugir, não há saída até que este trabalho esteja concluído."
+        },
+        {
+            "id": "lobby_morning_10111_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Não possuo nenhum arrependimento sobre escolher trabalhar para o departamento de Encefalina... Porém, um pequeno desejo permanece em mim, de que um pequeno terreno para podermos desfrutar da luz matinal seja construído."
+        },
+        {
+            "id": "lobby_noon_10111_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Eu tive um lanche deveras simples hoje, visto que estou deveras ocupado com experimentos e as notícias de uma nova Anormalidade chegando na câmara de contenção.\nSendo honesto, quaisquer fome que residia em mim foi saciada pelo estímulo de uma cobaia nova."
+        },
+        {
+            "id": "lobby_night_10111_1",
+            "desc": "Saudação Noturna",
+            "dlg": "De fato, é dito que a antiga sede da L Corp. e suas filiais comumente faziam seus trabalhadores ficarem até mais tarde... Mas o departamento de Encefalina se orgulha de sua aderência incondicional ao horário oficial de fechamento.\nAh... Entretanto, os pesquisadores, eu incluso, permanecem aqui mesmo em horas tão tardias. Nós no entanto, estamos presos aqui não por obrigação, mas por nossa própria paixão por nossos experimentos."
+        },
+        {
+            "id": "smalltalk_10111_1",
+            "desc": "Conversa #1",
+            "dlg": "Eu não tive a experiência de labutar para a antiga L Corp., porém, escutei que alguns dos pesquisadores no LCE já trabalharam lá.\nAs histórias bizarras de suas estadias lá são... Hm, elas certamente conjuram todo tipo de emoções peculiares."
+        },
+        {
+            "id": "smalltalk_10111_2",
+            "desc": "Conversa #2",
+            "dlg": "Oh, gostaria de saber mais sobre este equipamento? Ele é o produto de nossos esforços de extração de E.G.O mais recentes. Houveram certas dificuldades no processo de extração, dado que esta Anormalidade nunca foi registrada mesmo dentro das anotações da antiga L Corp., mas... Como é possível observar, nós obtivemos resultados deveras promissores."
+        },
+        {
+            "id": "smalltalk_10111_3",
+            "desc": "Conversa #3",
+            "dlg": "A pesquisa para resolver a emergência de instabilidades emocionais ao se usar um equipamento extraído está sendo realizada agora mesmo.\nMesmo assim... Dado que agora sinto certo prazer em enredar meus colegas pesquisadores em pegadinhas de natureza prática, talvez esta pesquisa não precise tomar precedência sobre as outras."
+        },
+        {
+            "id": "smalltalk_10111_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "... Quebras de contenção de Anormalidades são uma ocorrência comum aqui. Elas podem, talvez, serem mais frequentes em comparação a antiga L Corp., dado que a aplicação de Anormalidades aqui é mais para testes ao invés de simplesmente gerar energia.\nVítimas de Distorção, entretanto, podem exibir sinais de calma após serem abordados com diálogo. Talvez isto seja um indicador de que eles de fato possam voltar a serem humanos—não importa o quão minúsculas as chances sejam."
+        },
+        {
+            "id": "smalltalk_10111_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "A aparição pelo aparato semelhante a uma cauda deste equipamento... Em verdade, parece exibir a habilidade de 'atrair' o alvo, independentemente de ser uma Anormalidade ou uma Distorção que escolham. || O núcleo jaz em outro lugar, indubitavelmente... contudo, sua forma enfeitiçante pode levar à ilusão de que a aparição é, de fato, o núcleo."
+        },
+        {
+            "id": "neglect_10111_1",
+            "desc": "Inativo",
+            "dlg": "Ah, este encontro casual é bastante afortunado. Venha, sente-se. ... Ah, não se preocupe, pois não há armadilha esperando por você desta vez."
+        },
+        {
+            "id": "gacksung_10111_1",
+            "desc": "Enlaçamento",
+            "dlg": "Ah, posso pedir que você continue com essa pretensa de ainda não ter avistado minha posição? A Anormalidade escapada logo se interessará por mim e se aproximará... e eu a abaterei com um único golpe deste martelo."
+        },
+        {
+            "id": "formation_10111_1",
+            "desc": "Envio",
+            "dlg": "Esta é uma sessão de briefing de pesquisa, ou... houve uma quebra de contenção?"
+        },
+        {
+            "id": "battleentry_10111_1",
+            "desc": "Entrada na Fase",
+            "dlg": "A chance to test its merits."
+        },
+        {
+            "id": "battle_select_10111_1",
+            "desc": "Visto em Batalha",
+            "dlg": "… It would be deeply appreciated if the exclusion category were not to be necessitated here…"
+        },
+        {
+            "id": "battle_endcommand_10111_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Subject suppressed."
+        },
+        {
+            "id": "battle_enemy_break_10111_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Hm. Thus I leave a recording of this weakness."
+        },
+        {
+            "id": "battle_break_10111_1",
+            "desc": "Atordoado",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10111_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Suppression complete."
+        },
+        {
+            "id": "battle_dead_10111_1",
+            "desc": "Morte",
+            "dlg": "Aaai... contudo... há tanto do desconhecido... neste mundo... a ser aprendido..."
+        },
+        {
+            "id": "choice_success_p_10111_2",
+            "desc": "Passou no Teste",
+            "dlg": "A clear, crisp vision of a solution appeared before me."
+        },
+        {
+            "id": "choice_fail_n_10111_1",
+            "desc": "Falha no Teste",
+            "dlg": "Perchance this issue may be set aside as a long-term research goal...?"
+        },
+        {
+            "id": "battle_clear_10111_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Assim concluída está a supressão. Contudo este esforço nos causou bastante atraso... Não dispomos de muito tempo até o prazo deste relatório. || ... Ah, ha ha. Talvez eu deva lançar outra isca aos meus colegas."
+        },
+        {
+            "id": "battle_clear_ex_10111_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Que os registros constem que isto foi um sucesso retumbante. Coordenação excepcional com o equipamento, e... Hum, este relatório deve ser concluído em outro local, pois não há muito espaço aqui para escrever toda a cronicação dos eventos."
+        },
+        {
+            "id": "battle_defeat_10111_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Worry not. To researchers, failure is like a shadow—one may not exist without it. Thus, all manner of failures are acceptable as long as they are used as building blocks to forge a path to a singular success."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10712_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Será que tudo o que estamos fazendo aqui é conversar educadamente em uma rodinha? É uma reunião de Sindicatos, caramba... Quando será o confronto, afinal?"
+        },
+        {
+            "id": "lobby_morning_10712_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Sol já tá alto, hora de levantar essa bunda mole. Acho que vou dar uma volta pra ver se tem algum idiota querendo ficar de bobeira perto dos ‘nossos’ negócios. De quebra, já vou catar uns trocados de proteção também."
+        },
+        {
+            "id": "lobby_noon_10712_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Ei, você aí. É, você mesmo. Tem que ser muito maluco ou burro pra ficar vagando na nossa área bem no meio do—\nEspera aí. Tava de olho nas minhas tattoos? Então por que não falou logo? Beleza, dá uma olhada. Só um pouquinho, hein. Agora some daqui antes que eu perca a paciência."
+        },
+        {
+            "id": "lobby_night_10712_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Haah... claro que eu sei como vocês se sentem, seus idiotas. Não tem nada de errado em tomar umas pingas depois do serviço, né?\nMas depois que beber, é melhor cair na cama direto. Se algum de vocês fizer besteira quando estiver bebado, eu vou abrir sua cabeça antes mesmo da Capitã ficar sabendo."
+        },
+        {
+            "id": "smalltalk_10712_1",
+            "desc": "Conversa #1",
+            "dlg": "Escutou a fofoca? Parece que três das Dez Lâminas do Oriente vão aparecer na reunião.\nTsk, nosso Patriarca teria sido um deles também, se aqueles filhos da puta do Polegar não tivessem cortado o pulso dele."
+        },
+        {
+            "id": "smalltalk_10712_2",
+            "desc": "Conversa #2",
+            "dlg": "Por que eu mantenho uma mão no bolso? Ei, nunca ouviu o velho ditado do Sindicato? Sempre tem que guardar uma mão no bolso, sacou?\nO quê? Carta? Na manga? ... Pra mim tanto faz, seu chatinho de merda."
+        },
+        {
+            "id": "smalltalk_10712_3",
+            "desc": "Conversa #3",
+            "dlg": "Aquele ali é a Família Teppu, a Máfia Nekomata... e... ei, aqueles caras ali são do Clã Kyokushin. Hein? Como é que eu sei o nome de todo mundo?\nClaro que sei! Nossa Capitã, aquela mina, vive me enchendo o saco com palestras sobre esses idiotas desde sempre."
+        },
+        {
+            "id": "smalltalk_10712_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Ei, dá uma olhada nas minhas tattoos de reforço. Ganhei elas graças à Capitã. Repara nos desenhos das nuvens aqui... e, porra, ficaram irados.\nUm golpe que antes me cortaria o braço agora só me deixou um arranhão, não é uma beleza?"
+        },
+        {
+            "id": "smalltalk_10712_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "O quê...? Uns pequenos desafiaram a Capitã pra um duelo? Hah, esses idiotas devem ter subestimado a Ishmael só porque ela é nova na chefia...\nMas não tem nada com que a gente se preocupar. Só precisamos nos preparar pra limpar uns corpos."
+        },
+        {
+            "id": "neglect_10712_1",
+            "desc": "Inativo",
+            "dlg": "<i>Yaaaaawn...</i> Whassit? Wake me up only when something serious happens, yeah?"
+        },
+        {
+            "id": "gacksung_10712_1",
+            "desc": "Enlaçamento",
+            "dlg": "Hooah...! Anyone else lookin' for a thrashing?"
+        },
+        {
+            "id": "formation_10712_1",
+            "desc": "Envio",
+            "dlg": "About time!"
+        },
+        {
+            "id": "battleentry_10712_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Vamos ver essas caras estúpidas deles, de qualquer Sindicato que sejam."
+        },
+        {
+            "id": "battle_select_10712_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Phoo... let me catch my breath."
+        },
+        {
+            "id": "battle_endcommand_10712_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Kill 'em all!"
+        },
+        {
+            "id": "battle_enemy_break_10712_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "This'll hurt like hell."
+        },
+        {
+            "id": "battle_break_10712_1",
+            "desc": "Atordoado",
+            "dlg": "Agh."
+        },
+        {
+            "id": "battle_kill_10712_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Next! Chop-chop!"
+        },
+        {
+            "id": "battle_dead_10712_1",
+            "desc": "Morte",
+            "dlg": "Eu cortei o bastante deles... Deixo o resto com você..."
+        },
+        {
+            "id": "choice_success_p_10712_2",
+            "desc": "Passou no Teste",
+            "dlg": "See? I ain't a Wakashu for nothing."
+        },
+        {
+            "id": "choice_fail_n_10712_1",
+            "desc": "Falha no Teste",
+            "dlg": "... Eu disse, sou um pouco inexperiente em coisas além de fatiar e picar."
+        },
+        {
+            "id": "battle_clear_10712_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Ei, ei. Já chega. O Arco-Sino do Dedo tá chegando — não vamos deixar a coisa muito constrangedora pros chefões quando eles se encontrarem."
+        },
+        {
+            "id": "battle_clear_ex_10712_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Bom trabalho, galera. Eu cuido da Capitã, então vamos todos tomar um banho na casa de banhos quando terminarmos a limpeza."
+        },
+        {
+            "id": "battle_defeat_10712_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Caramba, isso é uma vergonha... Ei, eu não vou voltar até resolvermos essa bagunça. Diz pra Capitã... que eu volto antes da próxima reunião."
+        }
+    ]
+}

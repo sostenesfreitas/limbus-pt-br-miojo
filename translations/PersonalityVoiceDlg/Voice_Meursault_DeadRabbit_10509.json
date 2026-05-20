@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10509_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "... Eu não estava esperando convidados em um dia tão chuvoso.\nPor acaso você é um cão encharcado em álcool?"
+        },
+        {
+            "id": "lobby_morning_10509_1",
+            "desc": "Saudação Matinal",
+            "dlg": "O sol já nasceu. Trabalhem em suas ruas respectivas. Cuide do que deve ser cuidado, tome o que tiver para tomar."
+        },
+        {
+            "id": "lobby_noon_10509_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Para o lanche... Sim. Nós iremos ao barzinho que nos deve taxa de proteção. Vai ser beneficial para todos nós se dermos desconto igualado a quantidade de comida que consumiremos lá."
+        },
+        {
+            "id": "lobby_night_10509_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Ruas durante a noite estão sazonadas perfeitamente para um conflito. Preparem-se para batalha, vamos limpar as ruas daqueles que parasitam-se de nosso território."
+        },
+        {
+            "id": "smalltalk_10509_1",
+            "desc": "Conversa #1",
+            "dlg": "Dizem por aí que... nós dos Dead Rabbits somos ''gentis'' para uma gangue. Eu não entendo essa perspectiva.\nEles dizem que não são muitas gangues que protegem aqueles cujo são tomados o dinheiro de proteção. Estranho. Eu apenas vejo isso como uma decisão sábia de negócios para proteger nossos ''Parceiros'' sem derramar sangue desnecessariamente."
+        },
+        {
+            "id": "smalltalk_10509_2",
+            "desc": "Conversa #2",
+            "dlg": "Um novo recruta se juntou a nós. Ele não tinha um cheiro da sarjeta, então não entendo o motivo de alguém que não passou tanto tempo nas ruas quer com a gente.\nMas seus olhos... eu vi veneno em seus olhos. Deixarei que fique com a gente até que a utilidade dele tenha fim.\n"
+        },
+        {
+            "id": "smalltalk_10509_3",
+            "desc": "Conversa #3",
+            "dlg": "É uma velha tradição dos Dead Rabbits jogarem seus cachecóis antes de uma luta. Esse cachecol, amarrado igual as orelhas de um coelho, simboliza nosso zelo antes de saltarmos a batalha."
+        },
+        {
+            "id": "smalltalk_10509_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Bastante tempo já se passou... Um conflito com uma gangue diferente seria de benefício para nossa organização.\nÉ mais eficiente tomar o tempo daqueles cujo estão extorquindo os outros invés de coletar a taxa de proteção."
+        },
+        {
+            "id": "smalltalk_10509_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Heathcliff... Não era? Nada mal. Eu notei que ele possa estar compensando por outra coisa, de qualquer forma. Parece que ele estava tentando provar que a existência dele valia a pena.\n... Acho que estarei vendo ele mais vezes do que eu esperava."
+        },
+        {
+            "id": "neglect_10509_1",
+            "desc": "Inativo",
+            "dlg": "Leve as coisas com calma, sempre... O Tempo pode sempre ser refeito."
+        },
+        {
+            "id": "gacksung_10509_1",
+            "desc": "Enlaçamento",
+            "dlg": "Logo teremos que ganhar tempo. Bastante oportuno haver outras gangues rondando nossas ruas. Vejo isto como uma oportunidade perfeita para conseguir tempo extra."
+        },
+        {
+            "id": "formation_10509_1",
+            "desc": "Envio",
+            "dlg": "Time to make some... time."
+        },
+        {
+            "id": "battleentry_10509_1",
+            "desc": "Entrada na Fase",
+            "dlg": "It's the Dead Rabbits' time."
+        },
+        {
+            "id": "battle_select_10509_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Não disponho de muito tempo neste momento."
+        },
+        {
+            "id": "battle_endcommand_10509_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "I will thrash them."
+        },
+        {
+            "id": "battle_enemy_break_10509_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Are you hallucinating rabbits? You must be concussed."
+        },
+        {
+            "id": "battle_break_10509_1",
+            "desc": "Atordoado",
+            "dlg": "Hm..."
+        },
+        {
+            "id": "battle_kill_10509_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Tomarei o tempo excedente que você tiver."
+        },
+        {
+            "id": "battle_dead_10509_1",
+            "desc": "Morte",
+            "dlg": "I knew... that this day would come... I will take it slow... to my last breath..."
+        },
+        {
+            "id": "choice_success_p_10509_2",
+            "desc": "Passou no Teste",
+            "dlg": "It was but a matter of time."
+        },
+        {
+            "id": "choice_fail_n_10509_1",
+            "desc": "Falha no Teste",
+            "dlg": "I will take responsibility for this."
+        },
+        {
+            "id": "battle_clear_10509_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Embora não tenhamos comprado muito tempo deste conflito, absorvemos com sucesso as forças deles ao nosso lado. Nossa esfera de influência cresce."
+        },
+        {
+            "id": "battle_clear_ex_10509_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Hm... bem combatido. Gosto bastante de nosso novo recruta também. Suponho que possamos começar a aceitar mais candidatos que cruzem nosso caminho."
+        },
+        {
+            "id": "battle_defeat_10509_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Às vezes acabamos perdendo tempo. ... Isto está bem. Enquanto restar algum tempo em nosso relógio... ficaremos bem."
+        }
+    ]
+}
