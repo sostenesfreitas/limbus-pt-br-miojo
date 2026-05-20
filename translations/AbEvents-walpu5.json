@@ -1,0 +1,82 @@
+﻿{
+    "dataList": [
+        {
+            "id": 97103801,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "Who will approach?",
+            "successDesc": [
+                "'Hm. Suspicious, are you? How refreshing.'\n'Fine. Then allow me to alter my offer. I will grant you an extra shot, free of price."
+            ],
+            "failureDesc": [
+                "Ele permaneceu em silêncio por um momento, como se achasse essa sugestão um tanto ofensiva, antes de mirar o cano direto em {0}. ||  || E puxou o gatilho. ||  || {0} rapidamente se abrigou, mas a bala atravessou-os assim mesmo. ||  || 'Não se lembra?' ||  || 'Esta é uma bala mágica que nunca errará, não importa o quê.'"
+            ]
+        },
+        {
+            "id": 97103802,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "Who will use it?",
+            "successDesc": [
+                "'Deseja disparar a arma você mesmo, sabendo o que a bala final faz?' ||  || 'Acho essa atitude bastante louvável, porém você é... cedo.' ||  || 'Permita-me lhe emprestar isto em vez.'"
+            ],
+            "failureDesc": [
+                "'Deseja disparar a arma você mesmo, sabendo o que a bala final faz?' ||  || 'De fato, talvez você seja o próximo.' ||  || 'Se realmente deseja empunhar este rifle, então... você estaria muito melhor sem essas coisas estorvantes vindo junto.' ||  || Ele prontamente puxou o gatilho, perfurando cada Pecador exceto {0}."
+            ]
+        },
+        {
+            "id": 97103901,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "Who will take a seat?",
+            "successDesc": [
+                "{0} notou uma engrenagem presa à cadeira, ainda girando. ||  || {0} estendeu a mão e removeu a engrenagem, e a cadeira de repente começou a vibrar. ||  || A cadeira logo desmoronou em pedaços, tendo perdido sua forma."
+            ],
+            "failureDesc": [
+                "{0} notou uma engrenagem presa à cadeira, ainda girando. ||  || {0} se sentou na cadeira, apesar de suas suspeitas... ||  || E a engrenagem imediatamente começou a moer seu cérebro em respingos. ||  || Os outros Pecadores rapidamente removeram {0} do assento, mas era tarde demais."
+            ]
+        },
+        {
+            "id": 97104001,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "There are some leftover items on the desk.",
+            "behaveDesc": "Who will observe it?",
+            "successDesc": [
+                "{0} encontrou o que parecia ser uma arma de fogo na mesa. ||  || Vendo que não precisavam desta arma nem como reserva, talvez ela seja melhor utilizada em nossas mãos."
+            ],
+            "failureDesc": [
+                "Não parece haver nada útil na mesa. ||  || {0} nos mostrou alguns itens que encontrou, mas todos pareciam complicados demais para nós para serem de qualquer utilidade."
+            ]
+        },
+        {
+            "id": 97104101,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "Who will try to learn the basics of CQB?",
+            "successDesc": [
+                "{0} prestou atenção à aula. ||  || Sabíamos a maior parte, é claro, mas havia algumas técnicas das quais não estávamos cientes antes. ||  || Talvez tenham achado a dedicação de {0} admirável. ||  || Alguém que parecia um instrutor de treinamento se aproximou de {0} e lhes entregou um manual de instruções."
+            ],
+            "failureDesc": [
+                "O material deve ter sido mais difícil do que o esperado. ||  || {0} já estava tirando um belo cochilo no meio da aula."
+            ]
+        },
+        {
+            "id": 97104102,
+            "title": "",
+            "prevDesc": "",
+            "eventDesc": "",
+            "behaveDesc": "Quem aprenderá a arte da guerra?",
+            "successDesc": [
+                "O conteúdo da aula era bastante rudimentar, na verdade. ||  || {0} aparentemente concordava, pois pareciam mal estar prestando atenção à aula."
+            ],
+            "failureDesc": [
+                "O conteúdo da aula era bastante rudimentar, na verdade. ||  || Contudo, {0} deve ter achado tudo bastante tedioso. ||  || Alguém que parecia ser um instrutor de treinamento se aproximou de {0}, notando sua falta de foco. ||  || O instrutor entregou um dispositivo de comunicação para {0}, sugerindo que começassem do básico de novo."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+﻿{
+    "dataList": [
+        {
+            "id": "mission_ui_condition_tags_201001027",
+            "content": "Unlock {0} or more EXTREME Difficulty Theme Packs"
+        },
+        {
+            "id": "mission_ui_condition_tags_201006013",
+            "content": "Clear Floor 15 of the Mirror Dungeon without obtaining E.G.O Gift 'Lunar Memory'"
+        },
+        {
+            "id": "mission_ui_condition_tags_201004010",
+            "content": "Clear Mirror Dungeon at Floor 5 or higher after using the Skill Search function once or more"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003030",
+            "content": "Conclua a Masmorra Espelho no Andar 5 ou superior com {0} ou mais Identidades da Assoc. Liu no seu Loadout no momento da conclusão (Incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003031",
+            "content": "Conclua a Masmorra Espelho no Andar 5 ou superior com {0} ou mais Identidades de O Médio no seu Loadout no momento da conclusão (Incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003032",
+            "content": "Derrote os 4 chefes dos Pacotes Temáticos 'Encanto, Errância, Dúvida', 'Livro Didático', 'Lâmina e Obra de Arte' e 'O Inseparável' com 3 ou mais Identidades da Casa das Aranhas, com 'Pecadora LCB Ryōshū', no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003033",
+            "content": "Derrote o chefe do Pacote Temático 'O Despedaçar de Corações' com 3 ou mais Identidades do Morro dos Ventos Uivantes, incluindo 'Heathcliff Caça Selvagem', no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003034",
+            "content": "Derrote o chefe do Pacote Temático 'A Procissão Infinita' com as Identidades 'Cinq Oeste Seção 3 Meursault', 'Zwei Oeste Seção 3 Sinclair', 'Fixer do Escritório Caça-Presas Hong Lu' e 'Sobrevivente do Escritório Punho de Fogo Gregor' no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003035",
+            "content": "Derrote o chefe do Pacote Temático 'Assassinato no Expresso WARP BokGak' com 4 ou mais Identidades Sanguinárias no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003036",
+            "content": "Derrote o chefe do Pacote Temático 'O Não-Confrontante' com 2 ou mais Identidades Amálgama Mecânica no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003037",
+            "content": "Derrote o chefe do Pacote Temático 'Milagre no Distrito 20 BokGak' apenas com Identidades Heathcliff e Don Quixote em campo (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003038",
+            "content": "Derrote o chefe do Pacote Temático 'Tempo Matando o Tempo BokGak' com 2 ou mais Identidades da T Corp. no seu Loadout (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003039",
+            "content": "Derrote o chefe do Pacote Temático 'Uma Voz Bela' com a Identidade 'Heathcliff Caça Selvagem' em campo (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "mission_ui_condition_tags_201003040",
+            "content": "Derrote os 5 chefes dos Pacotes Temáticos 'Assassinato no Expresso WARP', 'Assassinato no Expresso WARP BokGak', 'Reabertura de La Manchaland', 'A Procissão Infinita' e 'O Fim Onírico' com a Identidade 'A Gerente de La Manchaland Don Quixote' em campo (Não conta Unidades de Reserva; incompletável por Equipes Alugadas)"
+        },
+        {
+            "id": "ui_condition_clear_201100007_CLEAR",
+            "content": "Clear Hidden Node - The House of Spiders: The Thumb"
+        },
+        {
+            "id": "ui_condition_clear_201100008_CLEAR",
+            "content": "Clear Hidden Node - The House of Spiders: The Index"
+        },
+        {
+            "id": "ui_condition_clear_201100009_CLEAR",
+            "content": "Clear Hidden Node - The House of Spiders: The Middle"
+        },
+        {
+            "id": "ui_condition_clear_201100010_CLEAR",
+            "content": "Clear Hidden Node - The House of Spiders: The Ring"
+        },
+        {
+            "id": "ui_condition_clear_201100011_CLEAR",
+            "content": "Purifique um E.G.O Gift Amaldiçoado e desbloqueie \"Um com a Lâmina\" no Compêndio de E.G.O Gifts"
+        },
+        {
+            "id": "ui_condition_clear_201100012_CLEAR",
+            "content": "Purify a Cursed E.G.O Gift and unlock \"Golden Hour\" in the E.G.O Gift Compendium"
+        },
+        {
+            "id": "ui_condition_clear_201100013_CLEAR",
+            "content": "Purify a Cursed E.G.O Gift and unlock \"Potentialities\" in the E.G.O Gift Compendium"
+        },
+        {
+            "id": "ui_condition_clear_201100007_NONE",
+            "content": "Clear Hidden Node - ???"
+        },
+        {
+            "id": "ui_condition_clear_201100008_NONE",
+            "content": "Clear Hidden Node - ???"
+        },
+        {
+            "id": "ui_condition_clear_201100009_NONE",
+            "content": "Clear Hidden Node - ???"
+        },
+        {
+            "id": "ui_condition_clear_201100010_NONE",
+            "content": "Clear Hidden Node - ???"
+        },
+        {
+            "id": "ui_condition_clear_201100011_NONE",
+            "content": "Purify a Cursed E.G.O Gift and unlock ??? in the E.G.O Gift Compendium"
+        },
+        {
+            "id": "ui_condition_clear_201100012_NONE",
+            "content": "Purify a Cursed E.G.O Gift and unlock ??? in the E.G.O Gift Compendium"
+        },
+        {
+            "id": "ui_condition_clear_201100013_NONE",
+            "content": "Purify a Cursed E.G.O Gift and unlock ??? in the E.G.O Gift Compendium"
+        }
+    ]
+}

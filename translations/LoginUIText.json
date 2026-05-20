@@ -1,0 +1,368 @@
+﻿{
+    "dataList": [
+        {
+            "id": "loginui_sign_in_with_google",
+            "content": "Iniciar sessão com Google"
+        },
+        {
+            "id": "loginui_sign_in_with_apple",
+            "content": "Iniciar sessão com Apple"
+        },
+        {
+            "id": "loginui_sign_in_with_steam",
+            "content": "Iniciar sessão com Steam"
+        },
+        {
+            "id": "loginui_sign_in_with_guest",
+            "content": "Iniciar sessão como convidado"
+        },
+        {
+            "id": "loginui_sign_out_current_account",
+            "content": "Sair"
+        },
+        {
+            "id": "loginui_sign_out_current_account_desc",
+            "content": "Sair da conta atual?\nSe estiver jogando como convidado, seus dados podem ser perdidos."
+        },
+        {
+            "id": "loginui_sign_out_switch_account_desc",
+            "content": "Sair da conta atual\ne mudar para a conta selecionada?\nSe estiver jogando como convidado, seus dados podem ser perdidos."
+        },
+        {
+            "id": "switch_account",
+            "content": "Mudar De Conta"
+        },
+        {
+            "id": "user_agreements",
+            "content": "Termos de Serviço"
+        },
+        {
+            "id": "title_game_data_download",
+            "content": "Baixar dados do jogo"
+        },
+        {
+            "id": "content_game_data_download",
+            "content": "Baixando dados... {0}."
+        },
+        {
+            "id": "content_game_data_download_description",
+            "content": "Você retornará a tela inicial se não houver espaço de armazenamento suficiente em seu dispositivo."
+        },
+        {
+            "id": "content_game_data_download_recommend",
+            "content": "Recomenda-se uma conexão de internet direta (Wi-Fi)."
+        },
+        {
+            "id": "switch_allcacheclear",
+            "content": "Apagar Todo Cache"
+        },
+        {
+            "id": "switch_oldcacheclear",
+            "content": "Apagar Cache Antigo"
+        },
+        {
+            "id": "networkingerror_content",
+            "content": "A rede está instável.\nPor favor, verifique sua conexão com a Internet."
+        },
+        {
+            "id": "networkingerror_close",
+            "content": "Fechar"
+        },
+        {
+            "id": "networkingerror_retry",
+            "content": "Tentar Novamente"
+        },
+        {
+            "id": "loginui_ok",
+            "content": "Confirmar"
+        },
+        {
+            "id": "login_cancel",
+            "content": "Cancelar"
+        },
+        {
+            "id": "loginui_loading_battlehint",
+            "content": "Dicas de Combate"
+        },
+        {
+            "id": "servererror_content",
+            "content": "Ocorreu um erro no servidor.\nPor favor, tente novamente mais tarde."
+        },
+        {
+            "id": "forcequit_content",
+            "content": "O jogo não pôde ser executado.\nEncerrando a aplicação."
+        },
+        {
+            "id": "serverstate_openpreparation",
+            "content": "Ainda estamos preparando as coisas!"
+        },
+        {
+            "id": "serverstate_regularcheck",
+            "content": "O servidor atualmente está sob manutenção de rotina."
+        },
+        {
+            "id": "serverstate_temporary_check",
+            "content": "O servidor atualmente está sob manutenção temporária."
+        },
+        {
+            "id": "serverstate_verify_invaliduser",
+            "content": "Essa conta não existe ou foi encerrada."
+        },
+        {
+            "id": "serverstate_verify_ban",
+            "content": "A conta foi restringida."
+        },
+        {
+            "id": "serverstate_verify_invalidauth",
+            "content": "Ocorreu um erro.\nPor favor, inicie a sessão novamente."
+        },
+        {
+            "id": "guestlogin_failed_try_newguest",
+            "content": "Falha no início da sessão como convidado.\nA conta já foi vinculada, ou a conta de convidado não existe.\n\nGostaria de criar uma nova conta de convidado?"
+        },
+        {
+            "id": "secession_remain_days",
+            "content": "A conta atualmente está sob um período de encerramento.\nTempo restante: {0}D {1}H {2}M\n\nVocê pode recuperar a conta se você iniciar a sessão agora.\nRecuperar a conta?"
+        },
+        {
+            "id": "secession_canceled",
+            "content": "Conta recuperada com sucesso."
+        },
+        {
+            "id": "serverstate_verify_invalidclientversion",
+            "content": "O cliente do jogo deve ser atualizado.\nPor favor atualize para a versão mais recente."
+        },
+        {
+            "id": "create_guest",
+            "content": "Criar conta de convidado"
+        },
+        {
+            "id": "ask_to_remove_all_cache",
+            "content": "Apagar Todo Cache?"
+        },
+        {
+            "id": "networkingerror_update",
+            "content": "Ir para a loja"
+        },
+        {
+            "id": "speed_hack_warning",
+            "content": "Uso não autorizado de programa de terceiros detectado."
+        },
+        {
+            "id": "serverstate_verify_ban_startdate",
+            "content": "Data"
+        },
+        {
+            "id": "serverstate_verify_ban_reason",
+            "content": "Descrição"
+        },
+        {
+            "id": "serverstate_verify_ban_reason_refund",
+            "content": "Abuso do sistema de reembolso de mercado aberto"
+        },
+        {
+            "id": "serverstate_verify_ban_reason_cheat",
+            "content": "Registro de atividade de jogo anormal detectado"
+        },
+        {
+            "id": "serverstate_blocking_endpoint",
+            "content": "Essa função está sob manutenção."
+        },
+        {
+            "id": "serverstate_verify_invaliduuid",
+            "content": "Essa solicitação já foi processada.\nPor favor, reinicie o jogo para sincronizar."
+        },
+        {
+            "id": "login_scene_mini_story_warning_spoiler_format",
+            "content": "Esta história se passa depois dos acontecimentos da História Principal: Capítulo {0}. Você quer ver a história mesmo assim?"
+        },
+        {
+            "id": "login_scene_mini_story_unlock_code_105",
+            "content": "5"
+        },
+        {
+            "id": "login_scene_mini_story_unlock_code_9105",
+            "content": "5.5"
+        },
+        {
+            "id": "switch_clearcatalog",
+            "content": "Excluir Catálogo"
+        },
+        {
+            "id": "panel_clearcatalog",
+            "content": "Excluir Catálogo?"
+        },
+        {
+            "id": "serverstate_error_thirdparty_api",
+            "content": "Erro de conexão externa ao servidor. Por favor, tente novamente mais tarde."
+        },
+        {
+            "id": "servererror_invalid_purchasing_package",
+            "content": "Falha na transação."
+        },
+        {
+            "id": "forcequit_cache_initialize_fail",
+            "content": "O Cliente do jogo falhou em iniciar corretamente.\nPor favor, verifique o estado da sua conexão e tente novamente.\nPerguntas: limbussupport+bug@projmoon.com"
+        },
+        {
+            "id": "push_notification_message_full_stamina_default_title",
+            "content": "Limbus Company"
+        },
+        {
+            "id": "push_notification_message_full_stamina_default_text",
+            "content": "A Encefalina foi recarregada por completo."
+        },
+        {
+            "id": "push_notification_message_full_stamina_1_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_1_text",
+            "content": "Tomai nota, mas nada de estranho aqui. Idealmente, meu único propósito aqui seria informar-lhe que a Enkephalin está plenamente reabastecida. Isto é tudo o que tenho a dizer."
+        },
+        {
+            "id": "push_notification_message_full_stamina_2_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_2_text",
+            "content": "Enkephalin recharge is complete. Dear manager, Enkephalin module conversion is recommended for the sake of efficiency."
+        },
+        {
+            "id": "push_notification_message_full_stamina_3_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_3_text",
+            "content": "GERENTE!!! O TANQUE DE COMBUSTÍVEL FOI REABASTECIDO!!! VINDE PARA CÁ, POIS NOSSAS AVENTURAS DEVEM CONTINUAR!!!"
+        },
+        {
+            "id": "push_notification_message_full_stamina_4_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_4_text",
+            "content": "E.C.(Enkephalin Charged.)"
+        },
+        {
+            "id": "push_notification_message_full_stamina_5_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_5_text",
+            "content": "Enkephalin has been fully recharged, manager."
+        },
+        {
+            "id": "push_notification_message_full_stamina_6_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_6_text",
+            "content": "Woow~ Enkephalin's already fully charged~ Would you like to go check?"
+        },
+        {
+            "id": "push_notification_message_full_stamina_7_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_7_text",
+            "content": "The, uh. Enkeph—? ... The green stuff's full. Go take a gander, yeah?"
+        },
+        {
+            "id": "push_notification_message_full_stamina_8_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_8_text",
+            "content": "Enkephalin foi recarregada... Hm. É, o ônibus está pronto para outra viagem. Vamos."
+        },
+        {
+            "id": "push_notification_message_full_stamina_9_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_9_text",
+            "content": "Dante~ Enkephalin's charged! Don'tcha forget to convert 'em to modules!"
+        },
+        {
+            "id": "push_notification_message_full_stamina_11_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_11_text",
+            "content": "Oi, gerente... está... ocupada? N-não é nada muito sério, mas... a Enkephalin está prestes a transbordar..."
+        },
+        {
+            "id": "push_notification_message_full_stamina_12_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_12_text",
+            "content": "Reportando à Gerente Executiva. A Enkephalin foi plenamente reabastecida. Posso sugerir que a use ou converta?"
+        },
+        {
+            "id": "push_notification_message_full_stamina_13_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_13_text",
+            "content": "Êê, amiga gerente? Tá aí? O, ahn, o tanque de combustível do ônibus tá cheio... Devia vir conferir, talvez?"
+        },
+        {
+            "id": "push_notification_message_full_stamina_14_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_14_text",
+            "content": "Sua pausa acabou, Gerente Dante. Não deixe o ônibus parado por muito tempo."
+        },
+        {
+            "id": "push_notification_message_full_stamina_15_title",
+            "content": "Encefalina Recarregada"
+        },
+        {
+            "id": "push_notification_message_full_stamina_15_text",
+            "content": "Mephi's stuffed. Charon, time to vroom-vroom."
+        },
+        {
+            "id": "custom_localize_button",
+            "content": "Selecionar Idioma"
+        },
+        {
+            "id": "custom_localize_title",
+            "content": "Selecionar Idioma"
+        },
+        {
+            "id": "custom_localize_desc",
+            "content": "Reinicie o jogo para aplicar a mudança de idioma"
+        },
+        {
+            "id": "steam_overlay_cannot_activate_title",
+            "content": "Erro na Transação da Steam"
+        },
+        {
+            "id": "steam_overlay_cannot_activate_text",
+            "content": "Por favor, ative a opção [Habilitar a Camada do Steam dentro do jogo] || nas propriedades do jogo no Steam - Geral, || depois reinicie o jogo."
+        },
+        {
+            "id": "servererror_remain_restore_purchasing",
+            "content": "Uma transação ainda está em andamento. || Por favor, use o botão [Restaurar Compra] e tente novamente."
+        },
+        {
+            "id": "invalid_login_no_guest_uid",
+            "content": "A conta de Convidado não existe, || ou foi deletada."
+        },
+        {
+            "id": "invalid_login_is_not_guest",
+            "content": "Esta conta de Convidado já está vinculada a uma plataforma. || Por favor, use o botão [Trocar Conta] para fazer login na plataforma vinculada."
+        },
+        {
+            "id": "try_new_guest",
+            "content": "Make a new Guest account?"
+        },
+        {
+            "id": "need_verify_integrity_steam",
+            "content": "Missing resources detected.\nPlease use Steam's \"Verify integrity of game files\" function."
+        }
+    ]
+}

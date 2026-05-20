@@ -1,0 +1,184 @@
+﻿{
+    "dataList": [
+        {
+            "id": 9840,
+            "name": "W Corp. Standard Issue Cap",
+            "desc": "Após usar uma Habilidade que ganha Contagem de [Charge] ou <noparse>Carga Única</noparse>, ganha [EmergencyChargeForceField] igual à Contagem ganha (máx. 7 por Identidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9840,
+                    "simpleDesc": "Gain Emergency Barrier Battery"
+                }
+            ]
+        },
+        {
+            "id": 9841,
+            "name": "Cleanup Agent Gear Set C",
+            "desc": "Após usar uma Habilidade que ganha Contagem de [Charge] ou <noparse>Carga Única</noparse>, ganha [EmergencyChargeForceField] igual à Contagem ganha (máx. 7 por Identidade) ||  || Habilidades que consomem Contagem de [Charge] ou <noparse>Carga Única</noparse> causam +(número de Identidades na Equipe com Habilidades que ganham ou consomem Contagem de [Charge] ou <noparse>Carga Única</noparse>)% de dano (conta todas as unidades na Equipe) ||  || Habilidades que consomem Contagem de [Charge] ou <noparse>Carga Única</noparse> ganham Poder de Embate +3 e causam +15% de dano || - Ao usar as referidas Habilidades, a unidade ganha +4 Contagem de [Charge] e 1 [ChargeForceField] (uma vez por Identidade por turno) ||  || Identidades da W Corp. ganham os seguintes efeitos: || - Ao causar dano com uma Habilidade (incluindo Habilidades E.G.O), aplica 2 [TakeHpHealReduce] (não pode Empilhar) || - Durante a fase de combate, quando esta unidade sofre dano de HP de fontes além do dano direto de Habilidade, ganha 5 [ChargeForceField] (uma vez por turno por Identidade) || - Habilidade 2 ganha Poder de Embate +3 e causa +15% de dano || - Início do Turno: por este turno, Habilidade 3 causa +(número de Identidades da W Corp. em campo x 6.25)% de dano || - Início do Turno: Agentes L2 da W Corp. ganham 1 [PlusCoinValueUp] || - Início do Turno: ganha (número de Identidades da W Corp. em campo / 3) [ChargeLoad] (máx. 2; arredondado para baixo)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9841,
+                    "simpleDesc": "Gain Emergency Barrier Battery"
+                },
+                {
+                    "abilityID": 98411,
+                    "simpleDesc": "Skills that consume Charge Count deal more damage"
+                },
+                {
+                    "abilityID": 98412,
+                    "simpleDesc": "Skill 1 gains Clash Power and deals more damage; gain Charge Count and Charge Barrier"
+                },
+                {
+                    "abilityID": 98413,
+                    "simpleDesc": "Inflict HP Healing Down"
+                },
+                {
+                    "abilityID": 98414,
+                    "simpleDesc": "Gain Charge Barrier"
+                },
+                {
+                    "abilityID": 98415,
+                    "simpleDesc": "Skill 2 gains Clash Power and deals more damage"
+                },
+                {
+                    "abilityID": 98416,
+                    "simpleDesc": "Skill 3 deals more damage"
+                },
+                {
+                    "abilityID": 98417,
+                    "simpleDesc": "Apply Plus Coin Boost"
+                },
+                {
+                    "abilityID": 98418,
+                    "simpleDesc": "Gain Load"
+                }
+            ]
+        },
+        {
+            "id": 9842,
+            "name": "Bloody Flesh, Fleshy Blood",
+            "desc": "Os efeitos deste E.G.O Gift são aprimorados baseados no número de Identidades no Loadout da Equipe com Habilidades de Ataque que consomem [BloodDinner] (número de Identidades que atendem à condição representado por \"N\" abaixo; exceto Habilidades E.G.O; conta todas as unidades na Equipe) ||  || Início do Primeiro Turno de uma onda: aumenta [BloodDinner] em (N x 20); em seguida, aplica 3 [Laceration] e +3 Contagem de [Laceration] em todos os alvos ([BloodDinner] aumentado por este efeito é limitado a 100 por ativação) ||  || Aliados sofrem -(N x 10%) de dano de [Laceration] (mín. 1 de dano de [Laceration]; máx. 40%) || - Dano reduzido não afeta a quantidade de [BloodDinner] aumentada ||  || Inimigos sofrem +(N x 5)% de dano de [Laceration] (máx. 20%)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9842,
+                    "simpleDesc": "Increase Bloodfeast and inflict Bleed & Bleed Count"
+                },
+                {
+                    "abilityID": 98421,
+                    "simpleDesc": "Take less Bleed damage"
+                },
+                {
+                    "abilityID": 98422,
+                    "simpleDesc": "Deal more Bleed damage"
+                }
+            ]
+        },
+        {
+            "id": 9843,
+            "name": "Hardblood Glaive",
+            "desc": "Os efeitos deste E.G.O Gift são aprimorados baseados no número de Identidades no Loadout da Equipe com Habilidades de Ataque que consomem [BloodDinner] (número de Identidades que atendem à condição representado por \"N\" abaixo; exceto Habilidades E.G.O; conta todas as unidades na Equipe) ||  || Início do Encontro: todos os aliados ganham (N - 2)[BloodArmorCasting] (máx. 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9843,
+                    "simpleDesc": "Gain Hardblood Cast"
+                }
+            ]
+        },
+        {
+            "id": 9205,
+            "name": "WB Flask",
+            "desc": "Ao matar inimigo, aumenta [BloodDinner] pelo (HP máx. / 10) do inimigo morto (máx. 50) || Fim do Turno: Se um aliado foi derrotado neste turno, todos os aliados ganham 2 [Enhancement] no próximo turno",
+            "simpleDesc": [
+                {
+                    "abilityID": 9205,
+                    "simpleDesc": "Increase Bloodfeast"
+                },
+                {
+                    "abilityID": 92051,
+                    "simpleDesc": "Gain Attack Power Up"
+                }
+            ]
+        },
+        {
+            "id": 9206,
+            "name": "Sanguine Fragrance Descends",
+            "desc": "O aliado com menos HP antes do Início de Combate cura 3% de HP Ao Acertar com Habilidades de Ataque que aplicam [Laceration] ou <noparse>Sangramento Único</noparse> (2 vezes por turno) ||  || Em um Embate usando Habilidades que aplicam [Laceration] ou <noparse>Sangramento Único</noparse> contra inimigos com [Laceration] ou <noparse>Sangramento Único</noparse>, Poder de Embate +1 || - Se 5 ou mais Identidades têm Habilidades de Ataque que aplicam [Laceration] ou <noparse>Sangramento Único</noparse>, Poder de Embate +1 e causa +10% de dano em vez disso (conta todas as unidades na Equipe) || - Se há 10 ou mais Identidades que se encaixam na descrição acima, Poder de Embate +2 e causa +15% de dano em vez disso",
+            "simpleDesc": [
+                {
+                    "abilityID": 9206,
+                    "simpleDesc": "Heal HP"
+                },
+                {
+                    "abilityID": 92061,
+                    "simpleDesc": "Gain Clash Power or deal more damage"
+                }
+            ]
+        },
+        {
+            "id": 9818,
+            "name": "Discarded Dimensional Gauntlet",
+            "desc": "Ao causar dano contra inimigos com Habilidades que consomem Contagem de [Charge] ou <noparse>Carga Única</noparse>, +0.1 na menor Resist. de Tipo de Ataque pelo turno (uma vez por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9818,
+                    "simpleDesc": "Raise the lowest Attack Type Resistance"
+                }
+            ]
+        },
+        {
+            "id": 19818,
+            "name": "Discarded Dimensional Gauntlet+",
+            "desc": "Ao causar dano contra inimigos com Habilidades que consomem Contagem de [Charge] ou <noparse>Carga Única</noparse>, +0.1 na menor Resist. de Tipo de Ataque pelo turno (uma vez por turno) || <style=\"upgradeHighlight\">- Também, aplica 1 [VioletResistDown]</style>",
+            "simpleDesc": [
+                {
+                    "abilityID": 19818,
+                    "simpleDesc": "Raise the lowest Attack Type Resistance"
+                }
+            ]
+        },
+        {
+            "id": 29818,
+            "name": "Discarded Dimensional Gauntlet++",
+            "desc": "Ao causar dano contra inimigos com Habilidades que consomem Contagem de [Charge] ou <noparse>Carga Única</noparse>, +0.1 na menor Resist. de Tipo de Ataque pelo turno (<style=\"upgradeHighlight\">2</style> vezes por turno) || - Também, aplica 1 [VioletResistDown] <style=\"upgradeHighlight\">e 1 [AzureResistDown]</style>",
+            "simpleDesc": [
+                {
+                    "abilityID": 29818,
+                    "simpleDesc": "Raise the lowest Attack Type Resistance"
+                }
+            ]
+        },
+        {
+            "id": 9817,
+            "name": "Blue Starshard",
+            "desc": "Inimigos em Moral Baixa ou estados de Pânico perdem 1 Poder Final (contra alvos sem SP, quando têm 25+ [Sinking]) || - Ao causar dano contra os inimigos afetados com Habilidades que aplicam [Sinking], Contagem de [Sinking], ou <noparse>Afundamento Único</noparse>, aplica 2 [DefenseDown] (2 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 9817,
+                    "simpleDesc": "Reduce target's Final Power; On Hit, inflict Defense Level Down"
+                }
+            ]
+        },
+        {
+            "id": 19817,
+            "name": "Blue Starshard+",
+            "desc": "Inimigos em Moral Baixa ou estados de Pânico perdem <style=\"upgradeHighlight\">2</style> Poder Final (contra alvos sem SP, quando têm <style=\"upgradeHighlight\">15</style>+ [Sinking]) || - Ao causar dano contra os inimigos afetados com Habilidades que aplicam [Sinking], Contagem de [Sinking], ou <noparse>Afundamento Único</noparse>, aplica <style=\"upgradeHighlight\">3</style> [DefenseDown] (2 vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 19817,
+                    "simpleDesc": "Reduce target's Final Power; On Hit, inflict Defense Level Down"
+                }
+            ]
+        },
+        {
+            "id": 29817,
+            "name": "Blue Starshard++",
+            "desc": "Inimigos em Moral Baixa ou estados de Pânico perdem <style=\"upgradeHighlight\">3</style> Poder Final (contra alvos sem SP, quando têm <style=\"upgradeHighlight\">10</style>+ [Sinking]) || - Ao causar dano contra os inimigos afetados com Habilidades que aplicam [Sinking], Contagem de [Sinking], ou <noparse>Afundamento Único</noparse>, aplica 3 [DefenseDown] (<style=\"upgradeHighlight\">3</style> vezes por turno)",
+            "simpleDesc": [
+                {
+                    "abilityID": 29817,
+                    "simpleDesc": "Reduce target's Final Power; On Hit, inflict Defense Level Down"
+                }
+            ]
+        }
+    ]
+}
