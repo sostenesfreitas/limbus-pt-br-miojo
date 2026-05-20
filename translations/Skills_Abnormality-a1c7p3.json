@@ -1,0 +1,1923 @@
+﻿{
+    "dataList": [
+        {
+            "id": 837801,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Esse Pecado Imperdoável...",
+                    "desc": "[WhenUse] Recebe +20 de [Laceration] e +1 Contagem de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837802,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "A Penitência Merecida...",
+                    "desc": "[WhenUse] Recebe +20 de [Laceration] e +1 Contagem de [Laceration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837803,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Did you think about blood today?",
+                    "desc": "[WhenUse] Recebe 10 de [Laceration]\n[WhenUse] Consome até 30 de [BloodDinner]: cura o Núcleo e a Parte do aliado o menor PV em ([BloodDinner] consumido x2). (excluí a si mesmo; arredondado para baixo)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [WornHeart] e [BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837804,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ainda está pensando em sangue?",
+                    "desc": "[WhenUse] Ganha 10 [Laceration] || [WhenUse] Consome até 20 [BloodDinner]: restaura a si mesmo e ao aliado (o Núcleo e a Parte) com menor HP em ([BloodDinner] consumido x 2). || - Se não há aliados restantes, dobra a cura em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 50% PV, ativa [Laceration] em si. Perde 1 Contagem de [Laceration] em si"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 3 de [WornHeart] e [BloodyHand]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 10 de [WornHeart], recebe 3 [BloodyHand] a mais e recebe 1 [AttackUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837805,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Mais, mais sangue...!",
+                    "desc": "[WhenUse] Consome até 50 de [BloodDinner] e recebe 1 de [BloodyHand] para cada 10 [BloodDinner] consumido\n[WhenUse] Recebe 10 de [Laceration]\n[WhenUse] Recebe 3 de [BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 1 de [BloodyHand] para cada 5 [Laceration] no alvo (máx 5)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837806,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "How Bountiful...",
+                    "desc": "[WhenUse] Se o alvo tem 6+ [Laceration], Poder de Moeda +1 || [WhenUse] Consome até 30 [BloodDinner]: ganha Poder de Moeda +1 para cada 10 [BloodDinner] consumido (efeito expira após o primeiro ataque de Moeda) || [DefeatDuel] Ganha 1 [Vulnerable] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura PV igual ao Dano Causado (Máx 30)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se essa Habilidade consumiu 30 de [BloodDinner], e essa unidade tem 30+ [BloodyHand_3rd], Reusa essa Moeda uma vez"
+                                },
+                                {
+                                    "desc": "- Se esta unidade falhou em consumir [BloodDinner] com esta Habilidade, ganha 20 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837807,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sacrifício pela Família",
+                    "desc": "[StartBattle] Em 50%+ HP, ativa [Laceration] em si (máx. 3 vezes; reduz Contagem de Sangramento toda vez que é ativado; não pode ser Atordoada por este dano) || [StartBattle] Todos os aliados restauram 5 SP (incluindo a si)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837808,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sangue...",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], +20% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837901,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Expression of Love",
+                    "desc": "Prioriza alvos com o menor número de efeitos negativos || [WhenUse] Se o alvo não tem efeitos negativos, usa 'Expressão Rude de Amor' no próximo turno || || [WhenUse] Se o alvo tem mais efeitos negativos que [FaintMemory] em si, usa 'Um Abraço Triste' no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [AffectionTeddy]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 2 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837902,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Arranhar",
+                    "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [NailPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837903,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Arranhos Violentos",
+                    "desc": "Prioritizes targets with the least number of negative effects\n[WinDuel] Inflict 3 [AffectionTeddy] next turn\n[DefeatDuel] Inflict 1 [AffectionTeddy] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Curse]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837904,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Timid Expression of Love",
+                    "desc": "[DuelCounter]\n[WhenUse] Inflige 2 de [Disarming] no próximo turno\n[WhenUse] Inflige 1 de [Curse]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [AffectionTeddy], consome [AffectionTeddy] e inflige [Curse] e [NailPersonality] igual ao valor de [AffectionTeddy] consumido (consome até 4)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver 4+ [Curse], consome 4 de [Curse] no alvo e inflige 1 de [CursePackage]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837905,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Rough Expression of Love",
+                    "desc": "[CantChangeTarget] || Mira o alvo com o qual esta unidade Embateu com 'Expressão de Amor' no turno anterior",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "If the target does not have any negative effects, deal +100% damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Curse]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 6 de [NailPersonality]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837906,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "A Sad Embrace",
+                    "desc": "[CantChangeTarget] || Mira o alvo com o qual esta unidade Embateu com 'Expressão de Amor' no turno anterior || Fixa o dano causado contra esse alvo em 0 || [StartBattle] Ganha 2 [Vulnerable] até o próximo turno || [EndBattle] Entra em estado Atordoado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura completamente os PS do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837907,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "An Old, Nostalgic Embrace",
+                    "desc": "[DefeatDuel] Causa apenas metade do dano contra o inimigo com esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Curse]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [NailPersonality]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome todo [AffectionTeddy] no alvo || - Se esta unidade venceu o Embate, eleva o Limiar de Atordoamento do alvo em ([AffectionTeddy] consumido x 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Pin Down",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Impaled Desire",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Repressed Desire",
+                    "desc": "[WhenUse] Se o alvo tiver 4+ de [Laceration], Poder Base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack] Inflige Contagem de [Laceration] igual à Contagem de [Laceration] que o alvo perdeu durante o Confronto"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [ScarletTakeDamageUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837304,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Guarda",
+                    "desc": "[WhenUse] Recebe +10 PV de Escudo para cada 4 de [Laceration] no alvo (máx. 30)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Grinding",
+                    "desc": "[WhenUse] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 de [Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Triturar",
+                    "desc": "[WhenUse] Recebe +5 de [Breath]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [IndigoTakeDamageUp] no próximo turno"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Prideful Crush",
+                    "desc": "Com 5+ de [Breath], Poder de Moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 4 de [Breath] e +3 Contagem de [Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Causa +100% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Contra-ataque",
+                    "desc": "[WhenUse] Com 6+ de [Breath], Poder de Moeda +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Breath] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Topple",
+                    "desc": "[WhenUse] Consome 10 [BloodDinner]: Recebe 1 de [BloodArmor]\n[WhenUse] Poder de Moeda +1 para cada 10 de [BloodArmor] (máx. 2)\n[WhenUse] Poder de Moeda +1 para cada 15 de [Laceration] em si (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ferir",
+                    "desc": "[WhenUse] Consome até 20 [BloodDinner]: Recebe 1 de [BloodArmor] para cada 10 [BloodDinner] consumido\n[WhenUse] Poder de Moeda +1 para cada 10 de [BloodArmor] (máx. 2)\n[WhenUse] Poder de Moeda +1 para cada 15 de [Laceration] em si (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Alegria Sanguínea",
+                    "desc": "[WhenUse] Consume 4 [BloodArmor] to heal 10 SP\n[WhenUse] Consume 10 [BloodDinner] to gain 1 [BloodArmor] and heal 10 SP\n- If this unit failed to consume [BloodDinner], gain 3 [Laceration].",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa +10% de dano para cada [Laceration] no alvo (máx. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ecstasy of Blood",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || [StartBattle] Se há inimigos com [Laceration], ativa [Laceration] em todos os inimigos. Todos os inimigos perdem 2 Contagem de [Laceration] || [WhenUse] Se este efeito não ativou no Início de Combate, ganha 30 [Laceration]. || [WinDuel] Consome até 40 [BloodDinner]: para cada 10 [BloodDinner] consumidos, ganha 1 [BloodArmor] e causa +25% de dano (máx. 100%) || - Se esta unidade falhou em consumir [BloodDinner], ganha 5 [Laceration] e ativa [Laceration] imediatamente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 4 - Despedaçamento",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1\n[WinDuel] Com esta Habilidade, causa +20% de dano para cada Fase de [BloodArmor] (máx. 60%)\n[DefeatDuel] Consome 4 de [BloodArmor] para receber 20 de PV de Escudo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838006,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 11 - Empalamento",
+                    "desc": "[WhenUse] Poder Base +1 para cada 3 de [Laceration] no alvo (máx. 3)\n[WinDuel] Com esta Habilidade, causa +20% de dano para cada Fase de [BloodArmor] (máx. 60%)\n[DefeatDuel] Consome 4 de [BloodArmor] para receber 20 de PV de Escudo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Ativa [Laceration] no alvo igual à sua Contagem até reduzir o Contador a 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838007,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 2 - Sangue Endurecido",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || [StartBattle] Consome 200 [BloodDinner], ganha 500 de HP de Escudo, 5 [BloodArmor] e 1 [SwirlingBlood] || - Se esta unidade não tem [BloodDinner] suficiente, ganha 50 [Laceration] e ativa [Laceration] imediatamente. Perde 2 Contagem de [Laceration]. Ganha 500 de HP de Escudo e 1 [SwirlingBlood] (este dano não reduz o HP desta unidade a 1) || [WinDuel] Ganha 200 de HP de Escudo || [DefeatDuel] Ganha 3 [Vulnerable] enquanto o Escudo ganho por esta Habilidade estiver ativo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838008,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo Don Quixote Alternativo: Artes de Sancho 4 - Rastrear",
+                    "desc": "Prioriza alvos com mais [Laceration] || [BeforeAttack] Se o alvo é aquele com mais [Laceration], ganha Peso de Atq +2 e Poder de Embate +3 || [WhenUse] Consome até 30 [BloodDinner]: ganha 1 [BloodArmor] e Poder de Moeda +1 para cada 15 [BloodDinner] consumidos (máx. 2) || - Se esta unidade falhou em consumir [BloodDinner], ganha 10 [Laceration] e ativa [Laceration] imediatamente. Perde 2 Contagem de [Laceration] || [EndSkill] Aumenta [BloodDinner] igual ao dano causado por esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno\n- Se esta Habilidade consumiu 30 [BloodDinner], inflige 2 de [Binding] adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838009,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo Don Quixote Alternativo: Artes de Sancho 3 - Emboscar",
+                    "desc": "Prioriza alvos com mais [Laceration] || [BeforeAttack] Se o alvo é aquele com mais [Laceration], ganha Peso de Atq +2 e Poder de Embate +3 || [WhenUse] Consome até 50 [BloodDinner]: ganha 1 [BloodArmor] e Poder Base +1 para cada 10 [BloodDinner] consumidos (máx. 5) || - Se esta unidade falhou em consumir [BloodDinner], ganha 10 [Laceration] e ativa [Laceration] imediatamente. Perde 1 Contagem de [Laceration] || [EndSkill] Aumenta [BloodDinner] igual ao dano causado por esta Habilidade",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno\n- Se esta Habilidade consumiu 50 [BloodDinner], inflige 2 de [Paralysis] adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838010,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Estilo Don Quixote Alternativo: Artes de Sancho 2 - La Sangre",
+                    "desc": "Pode Embater com esta Habilidade independentemente da Velocidade || [WhenUse] Consome 50 [BloodDinner] para aplicar 1 [Paralysis] contra o alvo e a si mesma || [WhenUse] Consome 100 [BloodDinner] para ganhar Poder de Embate +5 || - Se não há [BloodDinner] suficiente, consome 100 HP desta unidade para ganhar Poder de Embate +5 || [EndSkill] Termina este turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 8 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Cura igual ao dano causado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 838011,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "La Aventura Ha Terminado",
+                    "desc": "[WhenUse] Consome (45 - SP atual) [BloodDinner] para restaurar até 45 SP || - Se não há [BloodDinner] suficiente, consome até (45 - SP atual) HP para restaurar até 45 SP (este dano não reduz o HP desta unidade abaixo de 1) || - Ganha HP de Escudo igual ao [BloodDinner] restante (máx. 100) || [WinDuel] Aplica 10 [Laceration] || [DefeatDuel] Consome 100 [BloodDinner] || [EndSkill] Aumenta [BloodDinner] igual ao dano causado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa +10% de dano para cada [Laceration] no alvo (Máx. 200%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa +10% de dano para cada [BloodDinner] (max 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839401,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Keeehhhhnnhhh",
+                    "desc": "[WhenUse] Gain 3 [DefenseUp]\n[DefeatDuel] Gain 3 [DefenseUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839402,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Knnhgh nhhnnh",
+                    "desc": "[WinDuel] Inflige 1 de [Binding] no próximo turno\n[WhenUse] Poder Base +1 para cada 4 de [DefenseUp] em si (máx. 2)\n[WhenUse] Recebe 3 de [DefenseUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839403,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Knngghh",
+                    "desc": "[StartBattle] Aplica 3 [DefenseUp] a 1 aliado, incluindo esta unidade, com a menor porcentagem de HP || [WhenUse] Poder Base +1 para cada 5 [DefenseUp] em si (máx. 4)",
+                    "coinlist": [
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe [AttackUp] igual à [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839404,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Knnh",
+                    "desc": "[StartBattle] Gain 2 x ([DefenseUp] on self) Shield HP (max 20, 2 times per turn)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Spiked Whip",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Burst], Poder de Confronto +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837602,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Whip Crack",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Burst], Poder de Moeda +1\n[WinDuel] Inflige +2 Contagem de [Burst]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver menos de 5 Contagem de [Burst], Inflige +2 Contagem de [Burst]\n- Com 5+ Contagem de [Burst], inflige 2 de [Burst] no lugar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver menos de 5 Contagem de [Burst], Inflige +2 Contagem de [Burst]\n- Com 5+ Contagem de [Burst], inflige 2 de [Burst] no lugar"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837603,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Strangling Crown of Thorns",
+                    "desc": "Prioriza alvos com o menor SP || [WhenUse] Se o alvo tem 0- SP, Poder de Embate +3 || [WhenUse] Poder de Moeda +1 para cada 4 [Burst] no alvo (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Deal 10 SP damage\n- If target has 0- SP, deal 20 SP damage instead"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837604,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Withdraw Whip",
+                    "desc": "Prioriza alvos com [ThornNoose] || Se o alvo não tem [ThornNoose], causa -50% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [ThornNoose], inflige 2 de [Burst]\n- Se o alvo tiver 10+ de [Burst], inflige +2 Contagem de [Burst] no lugar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [ThornNoose], inflige 2 de [Burst]\n- Se o alvo tiver 10+ de [Burst], inflige +2 Contagem de [Burst] no lugar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [ThornNoose], inflige 2 de [Burst]\n- Se o alvo tiver 10+ de [Burst], inflige +2 Contagem de [Burst] no lugar"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver [ThornNoose], +50% de dano"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837605,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Laço Farpado",
+                    "desc": "[WhenUse] Se a Velocidade dessa unidade for maior que a do alvo, Poder de Confronto +5\n[WhenUse] Poder de Moeda +1 para cada 4 de [Burst] no alvo (máx. 2)\n[WhenUse] Recebe Poder Base igual ao número de alvos com [ThornNoose]",
+                    "coinlist": [
+                        {},
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst] e +2 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo estiver Atordoado ou tiver [ThornNoose], +30% de dano"
+                                },
+                                {
+                                    "desc": " [EnemyKill] Inflige (Contagem de [Burst] no alvo X 2) [Burst] em todos os inimigos (Máx. 10)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837606,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Whip Wreath",
+                    "desc": "[StartBattle] Gain (number of enemies with [ThornNoose])% of HP as Shield",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837607,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Snaring Lasso",
+                    "desc": "[StartBattle] Se há 3- inimgos com [ThornNoose], inflige 1 de [ThornNoose]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837701,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Espinhos",
+                    "desc": "[CantChangeTarget]\nPrioriza alvos com Laço Farpado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst] e +2 Contagem de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839601,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Gracefully...",
+                    "desc": "[WhenUse] Se o alvo tiver 6+ de [Laceration], Poder de Moeda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Infinite Parade",
+                    "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% damage\n[WhenUse] Generate 1 Gondola next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 839002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "The Eternal Festival",
+                    "desc": "[CantDuel]\nIf the target used a Defense Skill, deal -100% damage\n[WhenUse] Generate 4 Gondola next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 840301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "LETMEOUT!!!LETMEOUT!!!",
+                    "desc": "Uses a self-detonating Skill next turn.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 840302,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "IT'S ABOUT TO BLOW!!!!!",
+                    "desc": "[CantDuel]\n[StartBattle] Recebe 3 de [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndCoin] Deal 10 Lust damage against the target, then expires"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 840303,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "A Fanfarra! ",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndCoin] Causa 10 de Dano de Luxúria contra o alvo, então morre."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841001,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Sede Ardente",
+                    "desc": "[WhenUse] Poder Base +1 para cada 5 [Laceration] no alvo (máx. 3) || [WhenUse] Consome até 30 [BloodDinner]: ganha 1 [RegainedStrength] para cada 10 [BloodDinner] consumidos || [DefeatDuel] Perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841002,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Be Impaled",
+                    "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] and heal 3 SP for every 10 [BloodDinner] consumed\n\n[DefeatDuel] Lose 3 SP\n[DefeatDuel] Consume 3 [RegainedStrength]. Gain 3 [DefenseDown] next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a 20% do PV máximo do alvo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a 20% do PV máximo do alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841003,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 2 - Estaca",
+                    "desc": "Ataca o alvo com mais [Laceration] || [WhenUse] Poder de Moeda +1 para cada 5 [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa dano de Luxúria igual a (Potência X Contagem de [Laceration])"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841004,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Cunha de Sangue Endurecido",
+                    "desc": "[StartBattle] Gain Atk Weight +1 for every 3 [RegainedStrength] on self (max 2)\n[EndSkill] Consume 3 [RegainedStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[DefeatDuelAttack] Consume 1 [RegainedStrength]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841005,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Desire for Blood",
+                    "desc": "[WhenUse] Consume up to 40 [BloodDinner]: gain 1 [RegainedStrength] for every 10 [BloodDinner] consumed",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841006,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Moment of Bloodfeast",
+                    "desc": "[CantIdentify] || [WhenUse] Consome até 300 [BloodDinner]: ganha 1 [RegainedStrength] e restaura 3 SP para cada 10 [BloodDinner] consumidos || [WhenUse] Se esta unidade consumiu [BloodDinner], restaura 30 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841007,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 4 - Despedaçamento",
+                    "desc": "Não pode ser Atordoada até usar esta Habilidade. || [WhenUse] Consome até 100 [BloodDinner]: ganha 1 [RegainedStrength] e restaura 15 SP para cada 10 [BloodDinner] consumidos || [WhenUse] Poder de Embate +1 para cada [BloodDinner_Accumulation] por esta unidade (máx. 15) || [DefeatDuel] Causa -50% de dano, e o dano desta Habilidade não Atordoa o alvo. || [EndSkill] Por este turno e no próximo turno, ganha [AttackDown] e [DefenseDown] igual ao Poder de Embate ganho com esta Habilidade. (máx. 15)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 2 de [RegainedStrength]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841008,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes de Sangue Endurecido de Don Quixote 14: Manto",
+                    "desc": "[DuelGuard]\n[WinDuel] Inflige 4 de [Laceration] e [Burst]\n[DefeatDuel] Consome 2 [RegainedStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841009,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Frail, So Frail",
+                    "desc": "[DuelCounter] || Poder Base +1 para cada 10 [RegainedStrength] || Poder de Moeda +1 para cada 5 [Laceration] no alvo (máx. 2) || [DefeatDuel] Perde 3 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841010,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Bloody-Merry-Go-Round",
+                    "desc": "[CantDuel]\n[WhenUse] Gera um Sonho Coagulado no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841011,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Be Impaled",
+                    "desc": "[DefeatDuel] Perde 3 PS",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] The target becomes staggered, then becomes [Penetration] next turn"
+                                },
+                                {
+                                    "desc": "[EndCoin] O alvo perde 25 de Potência de [Laceration]. Ganha [Laceration] e aumenta [BloodDinner] igual a esse valor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841012,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes Supremas de Sangue Endurecido de Don Quixote - A Esfera",
+                    "desc": "Não pode ser Atordoada até usar esta Habilidade. || Causa mais dano igual a [BloodDinner_Common_Accumulation]. (máx. 300%) || [WhenUse] Restaura 30 SP || [WhenUse] Poder de Embate +1 para cada 10 [RegainedStrength] || [EndSkill] Consome todo [RegainedStrength]. Ganha 5 [Vulnerable] neste turno e no próximo. Ganha 2 [Binding] no próximo turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837501,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ksssh",
+                    "desc": "[WhenUse] Inflige [DuelDeclaration_Camille]\n[WhenUse] Recebe 5 de [Breath]\n[WinDuel] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837502,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Hnnnhhhhhh",
+                    "desc": "[WhenUse] Recebe 2 de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige 3 de [Burst] "
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige 3 de [Burst] "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837503,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Kihh",
+                    "desc": "[WhenUse] Com 7+ de [Breath], Poder de Moeda +2\n[WinDuel] Recebe +2 Contagem de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige +3 Contagem de [Burst]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] +50% de dano em Acerto Crítico"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837504,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Ksssh",
+                    "desc": "[WhenUse] Se a Velocidade dessa unidade for maior que a do alvo, Poder de Moeda +1 para cada 2 de diferença (máx. 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +4 Contagem de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige 3 de [Burst] e +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +5 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige 3 de [Burst] e +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +5 de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 7+ de Velocidade, inflige 3 de [Burst] e +1 Contagem de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] +100% de Dano em Acerto Crítico"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa +5% de dano para cada [Burst] no alvo (máx. 50%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837505,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Knnh",
+                    "desc": "[WinDuel] Causa mais dano baseado no número de Confrontos (+10% de dano para cada Confronto, máx. 50%)\n[WinDuel] Recebe 2 de [Agility] no próximo turno\n[DefeatDuel] Recebe 2 de [Binding] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 837506,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Knhhh",
+                    "desc": "[OnSucceedEvade] Recebe 1 [Agility] no próximo turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841013,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Artes Supremas de Sangue Endurecido de Don Quixote - La Sangre",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 841301,
+            "levelList": [
+                {
+                    "level": "1",
+                    "name": "Memórias Resplandecente da Aventura",
+                    "desc": "[StartBattle] Aplica 1 de [ParryingResultUp] e 1 de [AttackDmgUp] à um Pecador aleatório\n[StartBattle] Inflige 1 de [Vulnerable] contra Don Quixote e seu Sonho Coagulado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+﻿{
+    "dataList": [
+        {
+            "id": "BloodyHand_2nd",
+            "name": "Mão Ensanguentada II",
+            "desc": "- Quaisquer efeitos que ganhem Mão Ensanguentada ganharão este efeito no lugar\n- Valor Máx.: 20\n- Valor Base: 10\n- Recebe 1 Nível Ofensivo Aumentado para cada 6 Acúmulos",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodyHand_3rd",
+            "name": "Mão Ensanguentada III",
+            "desc": "- Quaisquer efeitos que recebem Mão Ensanguentada receberão este efeito em contrapartida\n- Valor Máximo: 30\n- Valor Base: 20\n- Ao Acertar com a Habilidade dessa unidade, inflige 2 Potência e 1 Contagem de Ruptura adicionais\n- Recebe 1 de Poder de Ataque Aumentado\n- Ao Acertar com a Habilidade dessa unidade, inflige 3 Sangramento em si e contra o alvo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WornHeart",
+            "name": "Coração Doente",
+            "desc": "- Acúmulo Máx.: 10\n- Começa Encontro com 3 Acúmulos\n- Início de Turno: recebe 1 Nível Defensivo Reduzido para cada Acúmulo\n- Início de Turno: recebe 1 Nível Ofensivo Aumentado para cada 2 Acúmulos\n- Início de Turno: com 10 Acúmulos, recebe 3 Frágil e perde 5 PS\n- Com 10 Acúmulos: Ao Atingir, cure 40% do dano causado para o Núcleo e Parte dessa unidade, e receba 2 Mão Ensaguentada",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingPriestTwo",
+            "name": "Mirrado",
+            "desc": "- Faminto por muito, muito tempo.\n- Perde 25 Nível Ofensivo\n- Perde 25 Nível Defensivo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Guilt_LowMorale",
+            "name": "Culpa",
+            "desc": "Fim de Turno: recebe 1 de Frágil e Eficiência em Cura de PS Reduzida no próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Guilt_Panic",
+            "name": "Culpa",
+            "desc": "Fim de Turno: recebe 2 de Frágil e Eficiência em Cura de PS Reduzida no próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MentalIncreaseDown",
+            "name": "Eficiência em Cura de PS Reduzida",
+            "desc": "Eficiência em Cura de PS é reduzida pelo Acúmulo do efeito",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "AffectionTeddy",
+            "name": "Apego",
+            "desc": "- Valor Máx.: 9\n- Quando o Atacante ataca o alvo que tiver este efeito, o Atacante recebe Poder de Confronto igual ao Acúmulo\n- Fim de Turno: reduza em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FaintMemory",
+            "name": "Memórias Fracas",
+            "desc": "- Valor Base: 10\n- Início de Turno: recebe Nível Defensivo Aumentado igual ao Acúmulo\n- Confronto Perdido: reduz em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "CursePackage",
+            "name": "Caixa de Maldições",
+            "desc": "- Valor Máx.: 1\n- Fim de Turno: recebe 1 de Poder de Ataque Reduzido, 1 de Poder Defensivo Reduzido, 2 de Nível Ofensivo Reduzido, 2 de Nível Defensivo Reduzido e reduza o Acúmulo deste efeito em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TinyCarmilla",
+            "name": "Pequena Carmilla",
+            "desc": "- Acúmulo Máx.: 3\n- Recebe 2 de Sangramento todo vez que essa unidade receber Pequena Carmilla\n- Fim de Turno: recebe +2 Contagem de Sangramento\n- Fim de Turno: com 3 de Acúmulo, sofre dano fixo igual a 15% do PV Máx dessa unidade, cure PV igual a 5% do PV Máx. de cada inimigo, então este efeito expira",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "OneDropNutrition",
+            "name": "Um Pouco de Nutrição",
+            "desc": "- Acúmulo Máx.: 10\n- Recebe 1 de Acúmulo toda vez que essa unidade curar 10% de seu PV Máx. com seus Ataques que curam PV\n- Mostra a % de PV curado",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ThornNoose",
+            "name": "Laço Farpado",
+            "desc": "- Acúmulo Máx.: 3\n- Fim de Turno: recebe 2 de Ruptura e +2 Contagem de Ruptura\n- Fim de Turno: com 1+ de Acúmulo, a Velocidade dessa unidade é fixada em 1.\n- Fim de Turno: com 2 de Acúmulo, sofre 20 dano de Gula\n- Fim de Turno: com 3 de Acúmulo, fica obrigatoriamente Atordoado no próximo turno. Tanto este efeito quanto o Laço Farpado conectado ambos expiram.\n- Recebe 1 no Início de Turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SwirlingBlood",
+            "name": "Cintilante【Sanguemônio】",
+            "desc": "- Enquanto este efeito estiver ativo: quando essa unidade sofre dano, o atacante recebe 5 de Sangramento Após Ataque.\n- Enquanto este efeito estiver ativo: os PV do Escudo não expiram no Fim do Turno\n- Quando as condições forem atendidas, ganhe 3 de Frágil até que este efeito expire e essa unidade ganhe um novo padrão",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor",
+            "name": "Sangue Endurecido",
+            "desc": "- Valor Máximo: 10\n- Sangue Endurecido - Estágio 1\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor_2nd",
+            "name": "Sangue Endurecido II",
+            "desc": "- Valor Máximo: 20\n- Sangue Endurecido - Estágio 2\n- Início de Turno: Recebe 1 Nível Ofensivo e Nível Defensivo para cada 6 acúmulos\n- Aumenta os valores de Velocidade Mínima e Máxima em 1\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodArmor_3rd",
+            "name": "Sangue Endurecido III",
+            "desc": "- Valor Máximo: 20\n- Sangue Endurecido - Estágio 3\n- Início de Turno: Recebe 2 de Nível Ofensivo e Nível Defensivo para cada 6 acúmulos\n- Aumenta os valores de Velocidade Mínima e Máxima em 2\n- Usado para Habilidades especiais",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Dreamy",
+            "name": "Hesitação Sonhadora",
+            "desc": "- Perde 35 Nível Ofensivo\n- Perde 35 Nível Defensivo ",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "BloodDinner_Common_Accumulation",
+            "name": "Banquete de Sangue Consumido (compartilhado)",
+            "desc": "Banquete de Sangue consumido neste Encontro total",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ThirstyRose",
+            "name": "Rosa Polidípsica",
+            "desc": "- Valor Máx.: 5\n- Fim de Turno: com 10+ Potência de Sangramento, sofre dano de Luxúria equivalente a 1% do PV Máx. dessa unidade. (Máx. 30)\n- Fim de Turno: reduz-se em 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RoseWedge",
+            "name": "Espinho de Rosa",
+            "desc": "- Potência Máx.: 10\n- Contagem Máx.: 4\n- Recebe 1 Potência toda vez que essa unidade sofrer 10 de dano de Sangramento\n- Ao receber Sangramento ou 'Sangramento Único' por ser atingido, recebe 2 de Sangramento e inflige 1 de Sangramento contra o Atacante. (5 vezes por turno)\n· Com 10 Potência, também recebe +1 de Contagem de Sangramento ao ativar o efeito acima.\n- Fim de Turno: perde 1 Contagem\n- Fim de Combate: com 10 Potência e 1 Contagem, este efeito expira, e essa unidade sofre (Potência x 10) dano de Luxúria.\n- Se a unidade infligida com este efeito morrer, ou quando este efeito expirar: aumenta Banquete de Sangue por (Potência x 10), e causa (Potência x 2) dano de Luxúria contra todos os seus aliados (Mín. 1)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FerrisWheel",
+            "name": "A Roda Sem Fim",
+            "desc": "Reduzido em 1 toda vez que uma Gôndola é derrotada. || Se este valor está em 0, e se não há unidades a serem geradas no próximo turno, avança para a próxima fase.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "StarvingDonqui",
+            "name": "Esfomeado e Atrofiado",
+            "desc": "- Perde 10 Nível Ofensivo\n- Perde 35 Nível Defensivo ",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength",
+            "name": "Sede de Sangue Recuperada",
+            "desc": "- Valor Máximo: 10\n- Sede de Sangue Recuperada - Estágio 1",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength_2nd",
+            "name": "Sede de Sangue Recuperada II",
+            "desc": "- Valor Máx.: 20 || - Sede de Sangue Retornante Estágio 2 || - Início do Turno: ganha 1 Reforço de Nível de Ataque e 1 Reforço de Nível de Defesa para cada 5 de Valor || - Poder de Embate +1 nas Habilidades que consomem Sede de Sangue Retornante; aplica +1 a mais de Potência e Contagem para Sangramento e Ruptura aplicados pela referida Habilidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RegainedStrength_3rd",
+            "name": "Sede de Sangue Recuperada III",
+            "desc": "- Valor Máx.: 30 || - Sede de Sangue Retornante Estágio 3 || - Início do Turno: ganha 2 Reforço de Nível de Ataque e 1 Reforço de Nível de Defesa para cada 5 de Valor || - Poder de Moeda +1 nas Habilidades que consomem Sede de Sangue Retornante; aplica +1 a mais de Potência e Contagem para Sangramento e Ruptura aplicados pela referida Habilidade",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeightOfResponsibility_LowMorale",
+            "name": "Hora de abandonar meu sonho...",
+            "desc": "- Moral Baixo || - Ganha 2 Reforço de Poder de Ataque e 1 Frágil; eleva o valor máx. de Velocidade em 2 || - Restaura +30% a mais de HP ao se curar || - Fim do Turno: se a Sede de Sangue Retornante atual está menor que seu valor no Início do Turno, ganha 2 Reforço de Nível de Ataque e 2 Redução de Nível de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WeightOfResponsibility_Panic",
+            "name": "... Pela minha Família, como seu Pai...",
+            "desc": "- Pânico || - Ganha 2 Reforço de Poder de Ataque, 2 Pressa e 2 Frágil || - Restaura +50% a mais de HP ao se curar || - Fim do Turno: se a Sede de Sangue Retornante atual está menor que seu valor no Início do Turno, ganha 3 Reforço de Nível de Ataque e 5 Redução de Nível de Defesa",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Precarious",
+            "name": "Sonho Impossível",
+            "desc": "Killed when hit by Don Quixote.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "Penetration",
+            "name": "Sangue Coagulado",
+            "desc": "Cannot act for 2 turns; spawns an Impaling Spear unit over the ally.",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DecreamentalDefense",
+            "name": "Lesão Debilitante",
+            "desc": "- Ainda não se recuperou dos ferimentos sofridos na batalha anterior. || - Reduz massivamente o HP máx. || - Início do Turno: ganha 1 Redução de Nível de Defesa para cada turno cumulativo (máx. 15)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UnfinishedDream",
+            "name": "QUE TRATA DA HISTÓRIA SOBRE A LIBERAÇÃO DO SANGUE MAIS GROSSO QUE A ÁGUA",
+            "desc": "- A cada Fim do Turno: ganha 1 Pressa e 3 Reforço de Nível de Ataque no próximo turno || - Ganha 2 Reforços de Nível de Ataque adicionais a cada 3 turnos cumulativos (máx. 6) || - Ao Vencer Embate, restaura 3 SP || - Ao Abater, ganha 1 Reforço de Poder de Embate no próximo turno (1 vez por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SanchoMind_LowMorale",
+            "name": "Felicidade de Massacre Redescoberta",
+            "desc": "- Low Morale\nGain 2 Attack Power Up at every Turn Start; +2 SP Efficiency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "SanchoMind_Panic",
+            "name": "Felicidade de Massacre Redescoberta",
+            "desc": "- Pânico\n- Início de Turno: Recebe 4 Nível Defensivo Aumentado. Recebe 3 Nível Ofensivo Aumentado no próximo turno",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHope",
+            "name": "QUE SE TRATA DO ÔNIBUS, SEUS COMPANHEIROS E SUAS AVENTURAS",
+            "desc": "Recebe Poder de Confronto igual ao valor ",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "FragmentOfHopeTwo",
+            "name": "SOBRE COMO SANCHO, NOSSA DON QUIXOTE, RECUSOU-SE A TERMINA SEU SONHO",
+            "desc": "Clash Power +4 for every value\nApply Shield to self and all allies at Combat Start",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "ConfinementOfGoldenBranch",
+            "name": "A Arbitração Forçada do Ramo de Ouro",
+            "desc": "- Perde 30 Nível Ofensivo\n- Perde 30 Nível Defensivo",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}

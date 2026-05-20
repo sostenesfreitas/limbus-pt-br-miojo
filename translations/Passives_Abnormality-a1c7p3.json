@@ -1,0 +1,256 @@
+﻿{
+    "dataList": [
+        {
+            "id": 837804,
+            "name": "Starved and Withered",
+            "desc": "Recebe [StarvingPriestTwo] no início do Encontro"
+        },
+        {
+            "id": 837801,
+            "name": "Unctio Extrema",
+            "desc": "Fim de Turno: ativa [Laceration] em si. (máx. 50; consome 1 Contagem de [Laceration] em si)  Cura 50 de PV ao Núcleo e Partes de um Sanguemônio aliado com o menor PV (não ativa se todos os aliados estão com PV máximo)"
+        },
+        {
+            "id": 837802,
+            "name": "Sacramentum Paenitentiae",
+            "desc": "Fim do Turno: perde 5 SP e restaura 10 SP para um Sanguinário aliado com menor SP (não ativa se não há aliados com SP)"
+        },
+        {
+            "id": 837803,
+            "name": "Ailing Heart",
+            "desc": "Gains new patterns based on [WornHeart] value on self\nTurn End: gain 1 [WornHeart]"
+        },
+        {
+            "id": 837805,
+            "name": "Mão Ensanguentada",
+            "desc": "- At 10+ [BloodyHand], convert them to [BloodyHand_2nd].\n- At 20+ [BloodyHand_2nd], convert them to [BloodyHand_3rd]."
+        },
+        {
+            "id": 837901,
+            "name": "The Once-loved Ones",
+            "desc": "Turn Start: if all enemies have [AffectionTeddy], use a powerful Skill"
+        },
+        {
+            "id": 837902,
+            "name": "Grimy Iron Stake",
+            "desc": "Ao golpear um inimigo usando uma Habilidade de Moeda Única, inflige 3 Potência de [Laceration]. Inflige 2 de [DefenseDown] até o final do próximo turno.\nSe o alvo já tiver [Laceration], inflige 5 Potência de [Laceration] no lugar. "
+        },
+        {
+            "id": 837903,
+            "name": "To Remember",
+            "desc": "Se esta unidade foi Atordoada pelo efeito de Fim do Turno de \"Um Abraço Triste\", ganha 10 [FaintMemory] no próximo Início do Turno"
+        },
+        {
+            "id": 837904,
+            "name": "To Love",
+            "desc": "If at less than or equal to 30% HP at Turn End: instead of inflicting 3 [AffectionTeddy] to all enemies, gain 15 [AttackDown] next turn (once per Encounter)"
+        },
+        {
+            "id": 837905,
+            "name": "Please Don't be Sick",
+            "desc": "Base Power -1 for every 3 types of negative effects on the target (max 3)"
+        },
+        {
+            "id": 837301,
+            "name": "Resistência ao Pecado",
+            "desc": "A menos que essa unidade esteja Atordoada ou tenha uma Parte Quebrada, sofre 50% menos dano de [Laceration]."
+        },
+        {
+            "id": 837401,
+            "name": "Resistência ao Pecado",
+            "desc": "A menos que esta unidade esteja Atordoada ou com Parte Quebrada, recebe apenas metade do Dano Crítico."
+        },
+        {
+            "id": 837501,
+            "name": "Carmilla",
+            "desc": "Turn Start: to a random enemy, deal fixed damage equal to 5% of their HP."
+        },
+        {
+            "id": 837502,
+            "name": "A Drop of Nourishment",
+            "desc": "Fim do Ataque: Restaura Núcleo e Parte igual a 50% do dano que esta unidade causou com sua Habilidade de Ataque || - Em 100% HP, ganha 2 [AttackUp] no próximo turno. (máx. 2 vezes) || Com base na porcentagem de HP restaurado, ganha os seguintes efeitos (cumulativos) || - Em 1+ Carga: Ganha 3 Reforço de Nível de Defesa a cada Início do Turno || - Em 2+ Cargas: Ganha 3 [AttackUp] a cada Início do Turno || - Em 3+ Cargas: Ganha +2 Velocidade Mín. e Máx. || - Em 5+ Cargas: Ganha 3 [Enhancement] a cada Início do Turno"
+        },
+        {
+            "id": 837503,
+            "name": "A Single Strangling Flower",
+            "desc": "Após o Ataque: inflige 1 de [TinyCarmilla]\nSe o alvo tiver [Laceration], inflige +1 de [TinyCarmilla] Após o Ataque"
+        },
+        {
+            "id": 837601,
+            "name": "Spiked Whip",
+            "desc": "Se o alvo tem [Burst] imediatamente antes do ataque, 20% de chance de aplicar +1 Contagem de [Burst] || Ao aplicar [ThornNoose], gera uma unidade 'Laço Espinhoso'.",
+            "summary": "Se o alvo tem [Burst] imediatamente antes do ataque, 20% de chance de aplicar +1 Contagem de [Burst]"
+        },
+        {
+            "id": 837602,
+            "name": "Bramble Steed",
+            "desc": "Gain Speed equal to the generated 'Barbed Lasso' Unit on the field"
+        },
+        {
+            "id": 837603,
+            "name": "Interlocking Brambles",
+            "desc": "Em 40%- HP, ganha um novo padrão || A cada turno, aplica [Burst] igual à Velocidade de cada inimigo contra cada inimigo || Aplica 2 [ThornNoose] em vez disso || Ganha 2 [AttackUp] e [DefenseDown] a cada turno que passa (máx. 12)"
+        },
+        {
+            "id": 838006,
+            "name": "In Dreams",
+            "desc": "Encounter Start: gain [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] by 400."
+        },
+        {
+            "id": 838001,
+            "name": "The Enthralling Tales, the Beating Passion",
+            "desc": "Ao atingir 80%, 60% e 40% de HP, não recebe mais dano e ganha um novo padrão || Ao ganhar um novo padrão, recupera-se do Atordoamento e eleva a Velocidade a 10 no próximo turno"
+        },
+        {
+            "id": 838002,
+            "name": "Se pudéssemos nos livrar dessa doença excruciante",
+            "desc": "Ao Acertar, se o alvo tem [Laceration], restaura Parte e Núcleo em 40% do dano causado. || - Esta Passiva restaura +1% mais HP para cada Potência de [Laceration] em si (máx. 20%) || - Para Moedas Inquebráveis: este efeito não ativa Ao Acertar Após Perder Embate. || A cada Início do Turno: restaura ([BloodDinner]/10) HP. (máx. 50) || A cada Início do Turno: em -15 ou menos SP, consome (20 - SP atual) [BloodDinner] para ganhar SP e ganha 2 Reforço de Poder de Embate || Ao Abater, ganha 5 [BloodArmor]",
+            "summary": "Ao Atingir, se o alvo tiver [Laceration], cura PV"
+        },
+        {
+            "id": 838003,
+            "name": "Can I go on an adventure, too?",
+            "desc": "Turn End: Min & Max Speed +1 next turn for every 300 [BloodDinner]"
+        },
+        {
+            "id": 838004,
+            "name": "Banquete de Sangue",
+            "desc": "Se essa unidade estiver em campo ou for uma das unidades que podem aparecer nessa Fase, aumenta o valor de [BloodDinner] pela quantidade de dano de [Laceration] coletivamente recebido por todas as unidades.\nQuando essa unidade entrar em campo, o sangue dormente que encharca o campo de batalha acordará."
+        },
+        {
+            "id": 838005,
+            "name": "Sangue Endurecido",
+            "desc": "Início de Combate: ganha 1 [BloodArmor] || - [BloodArmor] não pode cair abaixo de 1 || - Em 10+ [BloodArmor], converte-os em [BloodArmor_2nd]. || - Em 20+ [BloodArmor], converte-os em [BloodArmor_3rd]. || Ganha Velocidade Mín. e Máx. com base no Estágio deste efeito (máx. 2) || Se esta unidade consome [BloodArmor] e cai abaixo dos limiares acima, reverte aos Estágios anteriores conforme"
+        },
+        {
+            "id": 838007,
+            "name": "Mas tenho meu Pai e minha Família a quem não posso abandonar",
+            "desc": "Fim do Turno: Se em Pânico, recupera-se do Pânico, e consome 100 [BloodDinner] para ganhar 3 [Enhancement] || - Se esta unidade falhou em consumir [BloodDinner], ganha 30 [Laceration], 3 [Enhancement] e 2 Aumento de Dano"
+        },
+        {
+            "id": 837701,
+            "name": "Laço Farpado",
+            "desc": "Quando esta unidade morre, o [ThornNoose] do inimigo vinculado a esta unidade expira"
+        },
+        {
+            "id": 839401,
+            "name": "Designated Protection",
+            "desc": "No Início do Turno, aplica 2 Reforço de Nível de Defesa ao aliado que perdeu a maior porcentagem de HP entre este turno e o anterior"
+        },
+        {
+            "id": 840301,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Quando esta unidade é morta por ataque inimigo ou dano de efeito de Status, aumenta [BloodDinner] em 30 e aumenta o recurso E.G.O de uma Afinidade aleatória em 2. Não ativa se esta unidade se matou."
+        },
+        {
+            "id": 840302,
+            "name": "This Explosive Insanity!",
+            "desc": "Se esta unidade ainda estiver viva ao Fim do Turno, usa a Habilidade de autodestruição no próximo turno. Se esta unidade ainda estiver viva no mesmo Fim de Turno em que usou a Habilidade de autodestruição, morre."
+        },
+        {
+            "id": 839001,
+            "name": "Fix Core HP to 1",
+            "desc": "Core HP does not drop below 1."
+        },
+        {
+            "id": 839002,
+            "name": "La Manchaland, Abandoned and Festering",
+            "desc": "Gera Gôndolas cheias de Sanguinários e Sacos de Sangue em um intervalo definido. Um certo número de Sanguinários e Sacos de Sangue pode chegar ao campo quando uma Gôndola é gerada."
+        },
+        {
+            "id": 839003,
+            "name": "O Ciclo Eterno dos Moinhos, das Rodas e de Nós",
+            "desc": "Não pode ser atacada quando há uma Gôndola no campo. || Não perde HP por dano de Habilidade. Não recebe dano de HP por [Combustion], [Laceration], [Vibration], [Burst] ou [Sinking]."
+        },
+        {
+            "id": 839004,
+            "name": "Here we go... another lap.",
+            "desc": "Se [FerrisWheel] está em 0 e não há unidades a serem geradas no próximo turno ao Fim do Turno ou durante a fase de combate, avança para a próxima fase."
+        },
+        {
+            "id": 839005,
+            "name": "Starved and Withered",
+            "desc": "Gain [StarvingDonqui] at the start of the Encounter"
+        },
+        {
+            "id": 841001,
+            "name": "Returning Bloodlust",
+            "desc": "- Em 10+ [RegainedStrength], converte-os em [RegainedStrength_2nd]. || - Em 20+ [RegainedStrength], converte-os em [RegainedStrength_3rd]. || - Se esta unidade consome [RegainedStrength] e cai abaixo dos limiares acima, reverte aos Estágios anteriores conforme"
+        },
+        {
+            "id": 841002,
+            "name": "Artes de Sangue Endurecido de Don Quixote",
+            "desc": "Ao Acertar, se o alvo tem [Laceration], restaura Parte e Núcleo desta unidade em 30% do dano em HP causado. || Para Moedas Inquebráveis: este efeito não ativa Ao Acertar após Perder Embate."
+        },
+        {
+            "id": 841003,
+            "name": "An Unfamiliar Banquet",
+            "desc": "Se esta unidade curou mais de 15% do seu HP máx., ou sifonou o [Laceration] do inimigo, ganha 3 [Binding] no próximo turno. (1 vez por turno) || Se esta unidade matou o alvo com sua Habilidade, ganha 2 [AttackDown] e 1 [DefenseDown] no próximo turno. (3 vezes por turno)"
+        },
+        {
+            "id": 841004,
+            "name": "For the Family...",
+            "desc": "Fim do Turno: Se em Pânico, recupera-se do Pânico no próximo Início do Turno e zera o SP para 0. || Ao se recuperar do Pânico: || - Consome 30 [BloodDinner] para ganhar 2 [Enhancement] e 1 [Agility] no próximo turno, e restaura 30 SP. || - Se esta unidade falhou em consumir [BloodDinner], ganha 40 [Laceration], imediatamente recebe o dano de [Laceration], em seguida perde 5 Contagem de [Laceration]. || - Então, ganha 2 [Enhancement] no próximo turno e restaura 30 SP"
+        },
+        {
+            "id": 841101,
+            "name": "Broken Fragment of a Futile, Naive Dream",
+            "desc": "Se esta unidade é eliminada, aumenta [BloodDinner] em 30 || Ao ser morta por um Pecador, gera Memórias da Aventura Sonhada"
+        },
+        {
+            "id": 841102,
+            "name": "A Selfish Wish at the Expense of the Family",
+            "desc": "Ao ser morta por Don Quixote: || - Don Quixote ganha 5 [RegainedStrength]. || - Todos os Pecadores recebem 30 de dano de Luxúria e ganham 8 de Potência e Contagem de [Laceration]."
+        },
+        {
+            "id": 841301,
+            "name": "Memories of the Journeys Past",
+            "desc": "All Sinners gain 5 SP at every Turn Start.\nDon Quixote the Sinner gains a special effect"
+        },
+        {
+            "id": 841302,
+            "name": "Reminders of Determination",
+            "desc": "Ao ser morta por Don Quixote: Don Quixote ganha 3 [Reduction] neste turno e no próximo turno."
+        },
+        {
+            "id": 841201,
+            "name": "Hardblood Wedge Gaol",
+            "desc": "Quando esta unidade é eliminada, o aliado que foi empalado por esta unidade perderá o status [Penetration] no próximo turno."
+        },
+        {
+            "id": 841202,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Quando esta unidade é eliminada, ganha 3 recursos E.G.O para o recurso E.G.O menos possuído."
+        },
+        {
+            "id": 841203,
+            "name": "Internal Blood Crystallization",
+            "desc": "Se esta unidade não for eliminada até o turno seguinte ao da sua geração, esta unidade será eliminada ao Fim do Turno, ativando o seguinte efeito. || O aliado que foi empalado por esta unidade recebe dano fixo igual a 30% do seu HP máx. e ganha 10 de Potência e +5 Contagem de [Laceration]."
+        },
+        {
+            "id": 841204,
+            "name": "Sangue Totalmente Coagulado",
+            "desc": "Ao ser morta pelo verdadeiro Don Quixote, ativa o efeito de morte, e o aliado empalado por esta unidade será morto."
+        },
+        {
+            "id": 841103,
+            "name": "I never should've dreamed this irresponsible dream",
+            "desc": "Se esta unidade tem [Precarious], as Memórias da Aventura Sonhada não serão geradas ao morrer"
+        },
+        {
+            "id": 839006,
+            "name": "The Golden Bough's Forced Arbitration",
+            "desc": "Encounter Start: gain [ConfinementOfGoldenBranch]."
+        },
+        {
+            "id": 841005,
+            "name": "Please, try again",
+            "desc": "Ao ganhar um novo padrão, divide ao meio a Potência de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking] nas Partes desta unidade."
+        },
+        {
+            "id": 841104,
+            "name": "The adventure ends here.",
+            "desc": "Don Quixote gains Shield at every Turn Start."
+        }
+    ]
+}
