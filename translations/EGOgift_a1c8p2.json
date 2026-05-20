@@ -1,0 +1,227 @@
+﻿{
+    "dataList": [
+        {
+            "id": 2061,
+            "name": "Moeda",
+            "desc": "Hong Lu causa +0.5% de dano por cada Moeda\n\n<i><color=#a16a3b>Artefatos utilizados na segunda rodada da Avaliação da Hierarquia Familiar. Candidatos sem moedas restantes, perdidas ou tomadas à força, serão imediatamente eliminados.</color></i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2061",
+                    "simpleDesc": "Hong Lu causa +0.5% de dano por cada Moeda"
+                }
+            ]
+        },
+        {
+            "id": 2062,
+            "name": "Cartão de Entrada Desgastado",
+            "desc": "Um cartão de entrada quebrado e amassado \nTalvez ele abra uma porta em algum lugar."
+        },
+        {
+            "id": 2063,
+            "name": "Pílula Repara-Coração do Rei Celestial",
+            "desc": "Fim de Turno: 1 aliado com menor PS cura 10 PS",
+            "simpleDesc": [
+                {
+                    "abilityID": "2063",
+                    "simpleDesc": "A cada Fim de Turno: 1 aliado com menor PS cura 10 PS no Fim de Turno"
+                }
+            ]
+        },
+        {
+            "id": 2064,
+            "name": "Tranquil Lotus Bolus",
+            "desc": "Fim de Turno: cure 5% de PV do 1 aliado com menor porcentagem de PV",
+            "simpleDesc": [
+                {
+                    "abilityID": "2064",
+                    "simpleDesc": "Cura a unidade afetada em 5% de PV"
+                }
+            ]
+        },
+        {
+            "id": 2065,
+            "name": "Sanguine Blossom Bolus",
+            "desc": "Início do Turno: entre os aliados que perderam HP, 1 aliado com a menor porcentagem de HP causa +(porcentagem de HP faltante / 4)% de dano (arredondado para baixo)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2065",
+                    "simpleDesc": "The affected unit deals +(missing HP percentage /4)% damage"
+                }
+            ]
+        },
+        {
+            "id": 2066,
+            "name": "Tenacity Bolus",
+            "desc": "Início do Turno: 1 aliado com o maior HP máx. ganha [DefenseUp] igual ao número de vezes que esta unidade foi atingida pelas Habilidades de Ataque dos inimigos (máx. 6)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2066",
+                    "simpleDesc": "Ganha Nível de Defesa Up igual ao número de vezes que esta unidade foi atingida"
+                }
+            ]
+        },
+        {
+            "id": 2067,
+            "name": "Flor no Espelho",
+            "desc": "A cada Início do Turno: aplica 3 de Potência de [Burst] e +1 Contagem de [Burst] em todos os inimigos sem [Burst] (para Encontros Focados, todas as Partes) ||  || <i><color=#a16a3b>Quão impiedosos eles são—tanto o riacho que flui quanto a flor que murcha.</color></i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2067",
+                    "simpleDesc": "Inflict 3 Rupture Potency and +1 Rupture Count to all enemies/Parts without Rupture"
+                }
+            ]
+        },
+        {
+            "id": 2068,
+            "name": "Accursed Codex",
+            "desc": "Início do Primeiro Turno de um Encontro: cada Identidade em campo perde 5 SP e ganha 1 [ShamrockResultUp] e 1 [ShamrockDamageUp] por 3 turnos. ",
+            "simpleDesc": [
+                {
+                    "abilityID": "2068",
+                    "simpleDesc": "Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for 3 turns"
+                }
+            ]
+        },
+        {
+            "id": 2069,
+            "name": "Madness-inscribed Codex",
+            "desc": "Início do Primeiro Turno de um Encontro: cada Identidade em campo perde 5 SP e ganha 1 [ShamrockResultUp] e 1 [ShamrockDamageUp] por este Encontro. || Ao Perder Embate, perde 5 SP; converte a Moeda final da Habilidade em [SuperCoin]. (exceto Habilidades E.G.O; uma vez por turno por Identidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2069",
+                    "simpleDesc": "Combat Deployed units lose 5 SP; affected units gain Gluttony Power Up and Gluttony DMG Up for this Encounter"
+                },
+                {
+                    "abilityID": "20691",
+                    "simpleDesc": "Lose 5 SP on Clash Lose. Convert the Skill's final Coin to Unbreakable Coin"
+                }
+            ]
+        },
+        {
+            "id": 2070,
+            "name": "Moon in the Water",
+            "desc": "Ao Acertar contra inimigos com 5+ de Potência de Ruptura: ganha 1 de Potência de Equilíbrio e +1 Contagem de Equilíbrio (3 vezes por Habilidade) ||  || <i><color=#a16a3b>Quão impiedosos eles são—tanto o riacho que flui quanto a flor que murcha.</color></i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2070",
+                    "simpleDesc": "Ao Acertar contra inimigos com 5+ Ruptura: ganha Potência e Contagem de Equilíbrio"
+                }
+            ]
+        },
+        {
+            "id": 2071,
+            "name": "Flower Mound",
+            "desc": "Habilidades que aplicam [Burst]: Poder de Embate +1, causa +10% de dano || Fim do Ataque: Se um alvo com 15+ de Potência de [Burst] é derrotado, a Identidade que derrotou o referido alvo ganha 2 [AttackUp] no próximo turno (3 vezes por Habilidade) ||  || <i><color=#a16a3b>Sob a lua glacial deposito a alma da flor para descansar</color></i>",
+            "simpleDesc": [
+                {
+                    "abilityID": "2071",
+                    "simpleDesc": "Skills that inflict Rupture: Clash Power +1, deal +10% damage"
+                },
+                {
+                    "abilityID": "20712",
+                    "simpleDesc": "Se um alvo com 15+ Ruptura é derrotado, a unidade que o derrotou ganha 2 Nível de Ataque Up no próximo turno"
+                }
+            ]
+        },
+        {
+            "id": 2072,
+            "name": "Machado Relâmpago",
+            "desc": "Ganha 1 [Charge] toda vez que esta unidade consome 10 Contagem cumulativa de [Charge] neste Encontro || Fim do Turno: Em 2+ [Charge], ganha 1 [ParryingResultUp] no próximo turno || Ao Acertar com Habilidade que consumiu 5+ [Charge]: aplica 1 de Potência de [Burst] (3 vezes por Habilidade)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2072",
+                    "simpleDesc": "Gain 1 Charge every time this unit consumes 10 Charge Count"
+                },
+                {
+                    "abilityID": "20721",
+                    "simpleDesc": "Com Carga +2 Recebe 1 Poder de Confronto Aumentado"
+                },
+                {
+                    "abilityID": "20722",
+                    "simpleDesc": "On Hit with Skills that consumed 5+ Charge Count: inflict 1 Rupture"
+                }
+            ]
+        },
+        {
+            "id": 2073,
+            "name": "Talismã Destrói-Corações",
+            "desc": "Habilidades de Gula causam +10% de dano contra inimigos com efeitos de Rito de Morte || Para Identidades com -15 ou menos de SP no Início de Combate: converte a Moeda final de suas Habilidades em [SuperCoin] (uma vez por turno por Identidade; prioriza a Habilidade no Slot de Habilidade mais à esquerda; exceto Habilidades E.G.O)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2073",
+                    "simpleDesc": "Gluttony Skills deal +10% damage against enemies with Deathrite effects"
+                },
+                {
+                    "abilityID": "20731",
+                    "simpleDesc": "Estando com -15 ou menos de PS: converte a Moeda Final de suas habilidades em Moeda Inquebrável"
+                }
+            ]
+        },
+        {
+            "id": 2074,
+            "name": "Lâmina Sangrenta",
+            "desc": "Poder de Embate +1 quando não está com HP cheio. || Quando uma unidade afetada acerta, causa +1% de dano para cada (Potência de [Laceration] no alvo + Contagem de [Laceration] no alvo) (máx. 20%)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2074",
+                    "simpleDesc": "Quando não está com o PV completo, Poder de Confronto +1"
+                },
+                {
+                    "abilityID": "20741",
+                    "simpleDesc": "Ao Atingir, causa +1% de dano por cada Potência de Sangramento no alvo + Contagem de [Laceration] no alvo"
+                }
+            ]
+        },
+        {
+            "id": 2075,
+            "name": "Jin Gang Bolus",
+            "desc": "Ao sofrer dano, ganha Poder Final de Habilidade +1 e causa +10% de dano (ativa para auto-danos também) no próximo turno || Ao sofrer dano que reduz o HP de uma unidade a 1, cura 50% do HP, e a unidade afetada ganha 2 [Enhancement] no Início do Turno pela duração daquele Encontro (uma vez por Encontro)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2075",
+                    "simpleDesc": "Poder Final de Habilidade +1, causa +10% de dano no próximo turno"
+                },
+                {
+                    "abilityID": "20751",
+                    "simpleDesc": "Cura 50% do PV e Recebe 2 Poder de Ataque Aumentado durante esse Encontro"
+                }
+            ]
+        },
+        {
+            "id": 2076,
+            "name": "Faded Poster",
+            "desc": "[Efeitos aplicam apenas às Identidades Implantadas #1, #8] || Fim do Ataque: Se o alvo é derrotado, ganha 2 de Potência de [Breath] e +2 Contagem de [Breath]. || Por este Encontro, cada unidade ganha +1 Nível de Ataque para cada 1 inimigo que é derrotado no momento de 'Fim do Ataque' (máx. 3)",
+            "simpleDesc": [
+                {
+                    "abilityID": "2076",
+                    "simpleDesc": "Recebe 2 Potência de Postura e +2 Contagem de [Breath]"
+                },
+                {
+                    "abilityID": "20761",
+                    "simpleDesc": "Nível Ofensivo +1 para cada inimigo derrotado"
+                }
+            ]
+        },
+        {
+            "id": 2077,
+            "name": "Marcas de Garras Profundas",
+            "desc": "Gain 1 [ParryingResultUp] for 3 turns after Substituting in.",
+            "simpleDesc": [
+                {
+                    "abilityID": "20771",
+                    "simpleDesc": "Gain 1 Clash Power Up for 3 turns after Substituting in"
+                }
+            ]
+        },
+        {
+            "id": 2078,
+            "name": "The Memory of Kong Family Annihilation",
+            "desc": "O nível de Hong Lu sobe para 55 || Os Níveis de Aperfeiçoamento e Tecimento de Fio de Hong Lu sobem para o Nível 4 ||  || <i><color=#a16a3b>'Lembrai-vos do dia em que a ruína veio sobre a família Kong, || que trouxeram esta destruição sobre si próprios através de suas graves transgressões. || Violar as leis de Hongyuan não é tragédia—como tal, não merece piedade, apenas humilhação e desdém. || Este sítio da história permanece como monumento à inevitabilidade do karma.'</color></i>"
+        },
+        {
+            "id": 2079,
+            "name": "Cartão de Entrada Vermelho",
+            "desc": "Um cartão vermelho de entrada quebrado e amassado.\nTalvez ele abra uma porta em algum lugar."
+        }
+    ]
+}

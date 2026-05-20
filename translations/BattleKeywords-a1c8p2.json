@@ -1,0 +1,203 @@
+﻿{
+    "dataList": [
+        {
+            "id": "ExaminationOfQiu",
+            "name": "A Sliver of Anticipation",
+            "desc": "He's not giving it his all.\n- Lose 35 Base Offense Level, Lose 35 Base Defense Level\n- Deal +30% damage with Unopposed Attacks",
+            "summary": ""
+        },
+        {
+            "id": "BurstStop",
+            "name": "Deathrite 【Halt】",
+            "desc": "Acúmulo Base: 4\n- Rito Mortal\n- Ao ter ruptura ativada enquanto esta unidade tiver 3+ de Restrição, perde 1 Acúmulo\n- Ao perder Acúmulos, aumenta o Limiar de Atordoamento desta unidade por 10\n- Quando o Acúmulo for zerado, aumenta o Limiar de Atordoamento desta unidade pela Potência de Ruptura em si, logo expira\n- ※ Não é possível ganhar Acúmulos adicionais deste efeito enquanto ele já estiver ativo.",
+            "summary": ""
+        },
+        {
+            "id": "BurstSuppress",
+            "name": "Deathrite 【Impede】",
+            "desc": "Pilha Base: 10 || - Rito de Morte || - Quando esta unidade perde Pilhas de outros Ritos de Morte devido às suas condições, perde 1 Pilha (máx. 4 por turno) || - Em 0 de Pilha, ganha 6 Nível de Ataque Down para o próximo turno, depois expira || - ※ Não pode ganhar Pilhas adicionais deste efeito enquanto já estiver ativo",
+            "summary": ""
+        },
+        {
+            "id": "BurstWave",
+            "name": "Deathrite 【Wane】",
+            "desc": "Pilha Base: 10 || - Rito de Morte || Quando a unidade que aplicou este efeito ativa Ruptura, perde 1 Pilha || - Também perde 1 Pilha de um Rito de Morte aleatório em si, exceto por este Rito de Morte || - Em 0 de Pilha, expira || - ※ Não pode ganhar Pilhas adicionais deste efeito enquanto já estiver ativo",
+            "summary": ""
+        },
+        {
+            "id": "Teaching",
+            "name": "Dialogues",
+            "desc": "Pilha Máx.: 3 || - Fim do Turno: cura 5 SP || - Quando o HP cai a 0 durante o Encontro, cura até o HP máx. (ativa tantas vezes quanto esta unidade tiver Pilhas)",
+            "summary": ""
+        },
+        {
+            "id": "BurstWeakness",
+            "name": "Deathrite 【Enfeeble】",
+            "desc": "Pilha Base: 5 || - Rito de Morte || - Se a Velocidade do alvo é maior que a desta unidade, e se a diferença de Velocidade é 5 ou maior: ao ter Ruptura ativada, perde 1 Pilha || - Ao perder Pilhas, ganha 1 Nível de Defesa Down no próximo turno (uma vez por turno) || - Em 0 de Pilha, ganha 3 Nível de Defesa Down e 1 Restrição no próximo turno, depois expira || - ※ Não pode ganhar Pilhas adicionais deste efeito enquanto já estiver ativo",
+            "summary": ""
+        },
+        {
+            "id": "Qiu_LowMorale",
+            "name": "Jia Qiu",
+            "desc": "- Low Morale\n- Deal +10% damage against targets that aren't Hong Lu",
+            "summary": ""
+        },
+        {
+            "id": "Qiu_Panic",
+            "name": "Jia Qiu",
+            "desc": "- Panic\n- Deal +20% damage against targets that aren't Hong Lu",
+            "summary": ""
+        },
+        {
+            "id": "QiuAndHonglu",
+            "name": "My True Heart...",
+            "desc": "- As Habilidades de Hong Lu ganham +1 Poder Final || - Ao Ganhar Embate, 1 aliado (incluindo esta unidade) com menos SP cura 5 SP || - Quando um aliado morre, aliados restantes no Fim do Turno ganham 1 Reforço de Poder de Ataque no próximo turno (uma vez por turno)",
+            "summary": ""
+        },
+        {
+            "id": "ProtectStance",
+            "name": "Protective Stance",
+            "desc": "Pilha Máx.: 2 || Este efeito não acumula em potência; empilhar apenas estende sua duração || Reduzido em 1 no Fim do Turno || Quando uma unidade ganha este efeito, ganha os seguintes efeitos no próximo turno: || - Ganha 2 Proteção || - Ganha 5 Aggro em cada um dos Slots desta unidade",
+            "summary": ""
+        },
+        {
+            "id": "ZiluDebuff",
+            "name": "Bloodthirst Suppressed",
+            "desc": "- Lose 20 Base Offense Level, Lose 20 Base Defense Level",
+            "summary": ""
+        },
+        {
+            "id": "WitheredWood_LowMorale",
+            "name": "Eldtree Mutation",
+            "desc": "- Low Morale\n- Gain 1 Damage Up, 1 Fragile, and 1 Rupture Fragility",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "WitheredWood_Panic",
+            "name": "Eldtree Mutation",
+            "desc": "- Panic\n- Gain 2 Damage Up, 2 Fragile, and 2 Rupture Fragility",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "EvilHeart_LowMorale",
+            "name": "Heart of Evil",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +2 || Início do Turno: ganha 2 Dano Up e 1 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "EvilHeart_Panic",
+            "name": "Heart of Evil",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +3 || Início do Turno: ganha 3 Dano Up e 2 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DeepEvilHeart_LowMorale",
+            "name": "Heart of Oppressive Evil",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +2 || Início do Turno: ganha 3 Dano Up e 1 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DeepEvilHeart_Panic",
+            "name": "Heart of Oppressive Evil",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +3 || Início do Turno: ganha 4 Dano Up e 2 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "OminousTalisman",
+            "name": "Omen Talisman",
+            "desc": "- Pilha Máx.: 10 || - Ao cair para 0 de Pilha: sofre dano de Gula e dano de SP igual à Potência de Ruptura em si, depois expira (dano máx. de SP: 20) || - Ao perder Talismãs de Augúrio, ganha Potência de Ruptura igual ao número de Talismãs de Augúrio perdidos; em seguida, ganha metade da Potência de Ruptura perdida como Contagem de Ruptura (arredondado para baixo) || ※ Não pode ganhar Pilhas adicionais deste efeito enquanto já estiver ativo",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "RepressedMurderousIntendTwo",
+            "name": "Concealed Bloodthirst",
+            "desc": "Lose 5 Base Offense Level\nLose 5 Base Defense Level",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UncontrolledChargeAxe_LowMorale",
+            "name": "Charge Circuitry Countercurrent",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Ruptura, ganha +3 Contagem de Carga e 1 Frágil (2 vezes por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "UncontrolledChargeAxe_Panic",
+            "name": "Charge Circuitry Countercurrent",
+            "desc": "- Pânico || Ao Embater contra alvos com Ruptura, ganha +5 Contagem de Carga, 1 Dano Up, e 2 Frágil (2 vezes por turno)",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MadFeather",
+            "name": "Eyeball Pinion",
+            "desc": "- Max Stack: 10\n- Turn End: gain (Stack / 2) Rupture Count and Bleed Count (rounded down)\n- Turn End: lose 1 Stack",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MadFeather_LowMorale",
+            "name": "Double-edged Feather",
+            "desc": "- Low Morale\nTurn Start: gain 1 Fragile and 1 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "MadFeather_Panic",
+            "name": "Double-edged Feather",
+            "desc": "-Panic\nTurn Start: gain 2 Fragile and 2 HP Healing Boost. On Hit, inflict 1 Rupture and 1 Bleed",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "JarMaster_LowMorale",
+            "name": "Charge Order",
+            "desc": "- Low Morale\nTurn Start: gain 1 Fragile and apply 1 Damage Up to all allies",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "JarMaster_Panic",
+            "name": "Charge Order",
+            "desc": "- Panic\nTurn Start: gain 2 Fragile and apply 2 Damage Up to all allies",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DeepAngry_LowMorale",
+            "name": "Angst",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +2 || Início do Turno: ganha 2 Dano Up e 1 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "DeepAngry_Panic",
+            "name": "Angst",
+            "desc": "- Moral Baixa || Ao Embater contra alvos com Talismã de Augúrio, Poder de Embate +3 || Início do Turno: ganha 3 Dano Up e 2 Frágil",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TakeBreath_LowMorale",
+            "name": "Catching Breath",
+            "desc": "- Low Morale\nTurn Start: gain 2 Defense Level Up and lose 2 Poise Potency",
+            "summary": "",
+            "undefined": "-"
+        },
+        {
+            "id": "TakeBreath_Panic",
+            "name": "Catching Breath",
+            "desc": "- Panic\nTurn Start: gain 5 Defense Level Up and lose 5 Poise Potency",
+            "summary": "",
+            "undefined": "-"
+        }
+    ]
+}
