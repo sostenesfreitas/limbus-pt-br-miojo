@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11212_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Esse aqui é um braço humano, sim. Pensei que estavam substituindo os meus dois braços por cobras de verdade."
+        },
+        {
+            "id": "lobby_morning_11212_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Esse senhor não tem a mínima decência de deixar o Heishou dele relaxar depois de uma noitada...? Não sou fã das convocações matinais dele. || Eh, acho que ele tem muito a aprender, sendo novo no jogo e tudo~ Logo logo vai ficar tão pão-duro com a gente que pode até esquecer de nos convocar onde a gente é necessário."
+        },
+        {
+            "id": "lobby_noon_11212_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Achei que estava perdendo peso do estresse de cortar o tabaco, mas... aparentemente é um efeito intencional da Pílula Si. || Tenho que me acostumar, suponho~ Esse corpo pele e osso não é bonito, mas realmente vem a calhar nas nossas missões."
+        },
+        {
+            "id": "lobby_night_11212_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Daguanyuan fica bem silenciosa nessa hora. Os senhores vivem em casas tão chiques e luxuosas... mas nem conseguem pregar o olho à noite. Ser Heishou não é jeito de viver, mas esses senhores também têm uma vida dura."
+        },
+        {
+            "id": "smalltalk_11212_1",
+            "desc": "Conversa #1",
+            "dlg": "Bem... Cada ramo do Heishou se especializa em trabalhos diferentes, e nós cobras nos beneficiamos de ter alguma flexibilidade. No sentido tanto literal quanto metafórico da palavra. || Somos mais como operativos discretos; não dá pra entrar arrebentando tudo igual galo numa briga, né?"
+        },
+        {
+            "id": "smalltalk_11212_2",
+            "desc": "Conversa #2",
+            "dlg": "Aposto que esses braços elásticos me tornam um inimigo difícil de combater. || Esses braços podem pegá-los de surpresa vindo de qualquer distância, qualquer direção."
+        },
+        {
+            "id": "smalltalk_11212_3",
+            "desc": "Conversa #3",
+            "dlg": "Nós, Heishou, estamos um passo afastados da complicada rede de ressentimentos e favores que o pessoal de Hongyuan tem, o que significa que não temos muito motivo pra hesitar ao executar nossas missões. || Ressentimento é pra alguém próximo a você. Seria estranho se vingar de uma ferramenta que desaparece tão rápido quanto apareceu, né?"
+        },
+        {
+            "id": "smalltalk_11212_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Já servi cada família maldita de Hongyuan. Os Kongs antes de serem massacrados, os Shis durante seu declínio, e os sempre poderosos Jias. || Isso me faz perceber quanto tempo eu já sobrevivi nesse buraco. Sinto a morte logo na esquina, mas... eu simplesmente troco de pele e volto como se nada tivesse acontecido..."
+        },
+        {
+            "id": "smalltalk_11212_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Sou uma sobrevivente. Tem muito, muito tempo... mas é tudo inútil. A vida ficou tão monótona que perdi todo apego à vida e à morte. Mas eu sei que a morte de verdade vai vir quando... a última das minhas emoções se desgastar."
+        },
+        {
+            "id": "neglect_11212_1",
+            "desc": "Idle",
+            "dlg": "... O senhor mandou uma ordem? Ah, cara... tenho que parar de viajar assim. Vamos nos apressar."
+        },
+        {
+            "id": "gacksung_11212_1",
+            "desc": "Enlaçamento",
+            "dlg": "Hey, no point in looking around for a way out. I'm all coiled up now, ready to strike. You're not getting out of this. "
+        },
+        {
+            "id": "formation_11212_1",
+            "desc": "Envio",
+            "dlg": "Don't you hear a snake slithering somewhere?"
+        },
+        {
+            "id": "battleentry_11212_1",
+            "desc": "Entrada na Fase",
+            "dlg": "This... is a pretty good infiltration route."
+        },
+        {
+            "id": "battle_select_11212_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Told you to watch yourself around a coiled-up snake."
+        },
+        {
+            "id": "battle_endcommand_11212_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Now, give it a real good guess. Which direction will my arm strike from?"
+        },
+        {
+            "id": "battle_enemy_break_11212_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Não viu isso vindo, viu?"
+        },
+        {
+            "id": "battle_break_11212_1",
+            "desc": "Atordoado",
+            "dlg": "Hup..."
+        },
+        {
+            "id": "battle_kill_11212_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Clean bite, huh?"
+        },
+        {
+            "id": "battle_dead_11212_1",
+            "desc": "Morte",
+            "dlg": "Haah... So death can claim me, after all."
+        },
+        {
+            "id": "choice_success_p_11212_2",
+            "desc": "Passou no Teste",
+            "dlg": "Told you I can handle it, my lord."
+        },
+        {
+            "id": "choice_fail_n_11212_1",
+            "desc": "Falha no Teste",
+            "dlg": "Now, ain't that a snake's tail of an ending? A real letdown."
+        },
+        {
+            "id": "battle_clear_11212_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Deixei alguns escaparem, mas já os marquei com o veneno do Ritual da Morte. Não vão muito longe. Vamos voltar, o senhor vai ficar satisfeito."
+        },
+        {
+            "id": "battle_clear_ex_11212_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Com isso... parece que vou dizer adeus a esse senhor em breve. Mas ele garantiu que tirou o que merecia pelo dinheiro."
+        },
+        {
+            "id": "battle_defeat_11212_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Vou ter que manter as coisas discretas por um tempo. Falhar uma missão tão fácil... acho que vou ficar com esse senhor por mais um tempo, hein?"
+        }
+    ]
+}

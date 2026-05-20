@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10511_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "A entrevista de hoje acaba aqui. Favor direcionar quaisquer perguntas adicionais ao Departamento de Relações Públicas da Associação Cinq - Oeste."
+        },
+        {
+            "id": "lobby_morning_10511_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Bom dia. Este horário do dia normalmente é reservado para as sessões matinais de exercício da Associação. Como uma entrevista pode exigir tempo significativo e atenção indivisa, gostaria de solicitar que adiemos até após o exercício ter sido concluído."
+        },
+        {
+            "id": "lobby_noon_10511_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Não vai se juntar a eles para o almoço? Na marca de três horas e quatorze minutos da nossa discussão sobre nosso currículo, todos os outros saíram da entrevista para almoçar, então..."
+        },
+        {
+            "id": "lobby_night_10511_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Eu não transmito à noite. Embora uma porção não-insignificante da minha audiência atual tenha solicitado tal programação, é difícil ainda determinar que benefícios poderiam ser obtidos transmitindo a vida privada."
+        },
+        {
+            "id": "smalltalk_10511_1",
+            "desc": "Conversa #1",
+            "dlg": "Você deve estar se referindo a transmissões ao vivo dos meus duelos. Seu propósito tem menos a ver com autopromoção, e mais com permitir que um grupo anônimo de avaliadores analise minhas técnicas e forma. || O olhar frio e indiferente das massas anônimas é benéfico para se ganhar uma perspectiva objetiva de si mesmo."
+        },
+        {
+            "id": "smalltalk_10511_2",
+            "desc": "Conversa #2",
+            "dlg": "Cada Cinq, independentemente de seu ramo, é o mesmo em sua essência. Derrote seu inimigo via um duelo e ou o coloque de joelhos ou o execute. Tal é sua simplicidade."
+        },
+        {
+            "id": "smalltalk_10511_3",
+            "desc": "Conversa #3",
+            "dlg": "A verdade inegável é que uma porção significativa de contratos é emitida devido à publicidade obtida via transmissões ao vivo, e que oferecem um grau de conveniência. || Também foi dito que o ramo sul frequentemente patrulha os Becos para descobrir novos potenciais clientes. ... Mm. Tal método parece ser bastante ineficiente."
+        },
+        {
+            "id": "smalltalk_10511_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Não é surpresa que meus movimentos não possam ser facilmente rastreados a olho nu. Esse foi o propósito preciso do treinamento, afinal. || Rever transmissões anteriores é recomendado para aqueles que desejam pausar o feed a fim de analisar de perto a forma."
+        },
+        {
+            "id": "smalltalk_10511_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "A Associação Öufi notarizou esta atividade, e o acordo do oponente está em vigor. Este duelo será até a morte, ou meramente determinar o melhor espadachim? || Começará uma vez que a resposta seja dada. Pode ter tanto tempo quanto desejar para pensar a respeito."
+        },
+        {
+            "id": "neglect_10511_1",
+            "desc": "Inativo",
+            "dlg": "... Ah, este pode ser um bom momento para continuar a entrevista. Continuamos a partir da página cento-e-dez do manual de duelo Cinq?"
+        },
+        {
+            "id": "gacksung_10511_1",
+            "desc": "Enlaçamento",
+            "dlg": "A moment, please. You will now observe a demonstration of a duel; the interview may resume afterward."
+        },
+        {
+            "id": "formation_10511_1",
+            "desc": "Envio",
+            "dlg": "A contract, then."
+        },
+        {
+            "id": "battleentry_10511_1",
+            "desc": "Entrada na Fase",
+            "dlg": "This will be broadcast as always."
+        },
+        {
+            "id": "battle_select_10511_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Currently focused."
+        },
+        {
+            "id": "battle_endcommand_10511_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Attaque."
+        },
+        {
+            "id": "battle_enemy_break_10511_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Again. This duel is not over."
+        },
+        {
+            "id": "battle_break_10511_1",
+            "desc": "Atordoado",
+            "dlg": "Hm. Rompre."
+        },
+        {
+            "id": "battle_kill_10511_1",
+            "desc": "Inimigo Morto",
+            "dlg": "A good match."
+        },
+        {
+            "id": "battle_dead_10511_1",
+            "desc": "Morte",
+            "dlg": "Então... não foi suficiente... Talvez essa derrota possa ser... revista... num vídeo..."
+        },
+        {
+            "id": "choice_success_p_10511_2",
+            "desc": "Passou no Teste",
+            "dlg": "This is how to handle one such situation, viewers."
+        },
+        {
+            "id": "choice_fail_n_10511_1",
+            "desc": "Falha no Teste",
+            "dlg": "Existe alguém entre meus espectadores que saiba a resposta...?"
+        },
+        {
+            "id": "battle_clear_10511_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Não houve nada de extraordinário em termos da programação de hoje. Uma crise momentânea seguida por uma vitória conclusiva. É lamentável que as massas anônimas não terão muito material para mastigar."
+        },
+        {
+            "id": "battle_clear_ex_10511_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Uma vitória esmagadora. Acredito que minhas habilidades com a lâmina cresceram muito desde minha tentativa anterior. Isso certamente resultará em audiência aumentada."
+        },
+        {
+            "id": "battle_defeat_10511_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Tal derrota não era um resultado esperado. Contudo, como a razão para esta derrota pode ser revista e analisada, pode-se dizer que esta escaramuça produziu um resultado líquido positivo."
+        }
+    ]
+}

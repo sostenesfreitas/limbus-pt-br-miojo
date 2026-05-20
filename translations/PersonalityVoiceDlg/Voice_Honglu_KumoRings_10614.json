@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10614_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Vamos explorar juntos—o pulsar de sua vida restante."
+        },
+        {
+            "id": "lobby_morning_10614_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Para se viver como um artista, é sempre melhor acordar cedo. O início da manhã é o horário perfeito para preparar a exposição e dar os últimos retoques na obra."
+        },
+        {
+            "id": "lobby_noon_10614_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Desculpe, Faust — teremos de adiar nossa sessão de crítica programada para hoje para amanhã. Um colega Maestro pediu meu conselho sobre gerência de galeria, então irei à dele por um momento. || Confio minha galeria às tuas mãos em minha ausência. Isto não deveria precisar ser mencionado, mas por favor, não deixe Rodion, aquela bêbada, dar um único passo na minha galeria."
+        },
+        {
+            "id": "lobby_night_10614_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Nas pequenas horas da noite, e nas horas subsequentes em antecipação do despontar do alvorecer... os sussurros incessantes da inspiração me encontram como revelação divina. Para nós, artistas, esta é a proverbial \"hora dourada\". || A aorta pulsa como os rios que fluem nos outros lugares da Cidade, enquanto as hastes e extremidades dos capilares se espalham como um lençol de firmamento salpicado de estrelas. Oh... que fascinante."
+        },
+        {
+            "id": "smalltalk_10614_1",
+            "desc": "Conversa",
+            "dlg": "Atrevo-me a dizer que meu canto dos Corredores quase nunca é honrado por visitantes. Ainda assim, com uma audiência tão grande espiando pelo meu olho de jade como testemunha, devo permanecer vigilante em manter minhas exposições bem cuidadas."
+        },
+        {
+            "id": "smalltalk_10614_2",
+            "desc": "Conversa",
+            "dlg": "\"Cada pulsação do azul venoso, correntes para onde o vermelho-raiz-de-sangue se retirou.\" || Uma linha de um poema meu, visualizando o contraste entre veias e artérias. || Não desfruto disto tanto quanto da escultura do corpus, mas acho compor poesia um passatempo agradável. Frequentemente escrevo um curto verso quando encontro uma peça de arte que aprecio."
+        },
+        {
+            "id": "smalltalk_10614_3",
+            "desc": "Chatter #3",
+            "dlg": "Uma vez tentei, apesar do meu conhecimento insuficiente, \"explorar meu cérebro\". Foi uma tentativa fracassada de ajustar o volume do meu cérebro esculpindo-o e aparando-o. Tivesse eu conhecido a dificuldade pura de moldar o próprio cérebro quando limitado a confiar apenas no sentido tátil das mãos... Bem, eu não teria tido de cobrir uma parte do meu corpus com este capacete."
+        },
+        {
+            "id": "smalltalk_10614_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Não tenho receios em aprender o que me é alienígena. Estudarei e sobreporei sem hesitação a brutalidade dos Fauvistas, a frieza dos Cubistas, a compulsão dos Pontilhistas, a pureza de sangue dos Suprematistas, e eventualmente... Bem, quem sabe? Talvez a inspiração me encontre mais uma vez e conceba uma nova obra-prima que deixará sua marca na história."
+        },
+        {
+            "id": "smalltalk_10614_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Nesta galeria, ficamos sobre os estratos das minhas técnicas e inspirações. Cada peça nesta exposição é resultado de um processo extenuante que envolve a desconstrução de vias neurais reflexivas, seguida da restruturação destas — cujo alicerce reside na contração e alongamento das miofibras. || É por isso que mesmo o menor puxão deste fio de tendão..."
+        },
+        {
+            "id": "neglect_10614_1",
+            "desc": "Idle",
+            "dlg": "O que vê... nesta peça? Estou curioso em ouvir suas impressões."
+        },
+        {
+            "id": "gacksung_10614_1",
+            "desc": "Uptying",
+            "dlg": "Permita-me bancar o curador para nossos hóspedes — do kitsch ao vanguardista, mergulhando fundo em cada tendência de movimento artístico."
+        },
+        {
+            "id": "formation_10614_1",
+            "desc": "Deployment",
+            "dlg": "Preparations for the exhibition have covered all corners."
+        },
+        {
+            "id": "battleentry_10614_1",
+            "desc": "Stage Entry",
+            "dlg": "There's no rush. Andante, andante."
+        },
+        {
+            "id": "battle_select_10614_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Shh. Please be silent while viewing an exhibition."
+        },
+        {
+            "id": "battle_endcommand_10614_1",
+            "desc": "Commencing Attack",
+            "dlg": "Please, do share your impressions!"
+        },
+        {
+            "id": "battle_enemy_break_10614_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Tens alguma última palavra a transmitir ao mundo...?"
+        },
+        {
+            "id": "battle_break_10614_1",
+            "desc": "Staggered",
+            "dlg": "Perhaps my... eye for sublimity was lacking..."
+        },
+        {
+            "id": "battle_kill_10614_1",
+            "desc": "Enemy Killed",
+            "dlg": "Ah... What a wonderful cry of death."
+        },
+        {
+            "id": "battle_dead_10614_1",
+            "desc": "Death",
+            "dlg": "It's you... My undertaker..."
+        },
+        {
+            "id": "choice_success_p_10614_2",
+            "desc": "Check Passed",
+            "dlg": "Que tom belo este tem. Uma peça digna de um pedestal próprio."
+        },
+        {
+            "id": "choice_fail_n_10614_1",
+            "desc": "Check Failed",
+            "dlg": "Rejected. Presenting this failure at an exhibition would be nothing short of an embarrassment."
+        },
+        {
+            "id": "battle_clear_10614_1",
+            "desc": "Victory Cry",
+            "dlg": "Apesar de ser uma pena a apresentação não ter sido perfeita... Fico feliz que pelo menos um espectador ficou satisfeito.\nTalvez, eu precise tentar algo mais inovador. Por sorte, temos muitos \"ingredientes\" novos à disposição."
+        },
+        {
+            "id": "battle_clear_ex_10614_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Cada laço do anel triplo-trançado no quarto dedo de um Maestro representa uma peça de arte que estabeleceu o direito do Maestro ao título. Embora possa ser verdade que minha produção mais recente não ressoou com o público amplo tanto quanto minha obra passada... || ... eles dificilmente palidecem diante dos meus anéis aos meus olhos. Fuhu."
+        },
+        {
+            "id": "battle_defeat_10614_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "... Tenho apenas um pedido final. Como minha galeria apareceu... refletida em seus olhos? || Sabe... o que estava faltando...? Por que não pude recriar... a magnum opus de tanto tempo atrás...?"
+        }
+    ]
+}

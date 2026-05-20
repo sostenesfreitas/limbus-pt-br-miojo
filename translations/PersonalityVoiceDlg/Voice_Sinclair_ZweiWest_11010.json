@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11010_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Vamos resgatar o sobrevivente como você pediu, então... pode parar de apontar esse dedo pra mim...?"
+        },
+        {
+            "id": "lobby_morning_11010_1",
+            "desc": "Saudação Matinal",
+            "dlg": "... J-já é de manhã?! Tenho que correr se quiser vestir a armadura e chegar na formação matinal—"
+        },
+        {
+            "id": "lobby_noon_11010_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Tem bastante papelada pra fazer. Tomara que a gente consiga cuidar desse processo antes do sol se pôr... Vamos nos apressar."
+        },
+        {
+            "id": "lobby_night_11010_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Não dá pra ter cuidado demais ao aceitar contratos de resgate noturnos. Frequentemente acaba nos pondo em perigo também."
+        },
+        {
+            "id": "smalltalk_11010_1",
+            "desc": "Conversa #1",
+            "dlg": "Os Cavaleiros Zwei usam essas armaduras chamativas não só porque é nosso uniforme... mas também porque atrai a atenção pra longe dos nossos clientes quando a batalha fica feia. || E eu aqui pensando que essa capa era um incômodo... Acho que tudo tem uma razão."
+        },
+        {
+            "id": "smalltalk_11010_2",
+            "desc": "Conversa #2",
+            "dlg": "Tem uma coisa que percebi sempre que vou em operações conjuntas com outros Solucionadores da Associação... É que a maioria das pessoas não se importa em proteger ou salvar alguém. || Eu sei que a gente só se mexe quando é pago pra isso, mas... nossa Associação é a melhor quando se trata de proteger os clientes."
+        },
+        {
+            "id": "smalltalk_11010_3",
+            "desc": "Conversa #3",
+            "dlg": "Às vezes, recebemos contratos que estão claramente acima do nosso pay grade. Odeio aceitar esses contratos, mas... || Se pagam o suficiente, nós, Solucionadores Zwei, não temos escolha senão fazer o que a Associação manda."
+        },
+        {
+            "id": "smalltalk_11010_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Eu me odeio por ter ficado tão acostumado com pessoas morrendo ao meu redor. Sei, não tenho escolha. Mas... || ... Não. Não posso ser tão fraco... Não posso proteger nada assim. Igual àquele dia..."
+        },
+        {
+            "id": "smalltalk_11010_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Não acho que tem nada de errado em desejar segurança pra todo mundo. || É que é... impossível. É a Cidade. A gente nem consegue proteger as pessoas que ama."
+        },
+        {
+            "id": "neglect_11010_1",
+            "desc": "Inativo",
+            "dlg": "... Huh? O-oh! Please don't go wandering off on your own!"
+        },
+        {
+            "id": "gacksung_11010_1",
+            "desc": "Enlaçamento",
+            "dlg": "Não se preocupe. Você é meu alvo... então vou te proteger não importa o quê."
+        },
+        {
+            "id": "formation_11010_1",
+            "desc": "Envio",
+            "dlg": "Quest... confirmed."
+        },
+        {
+            "id": "battleentry_11010_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Assim se torna tua lâmina e escudo, esta espada longa..."
+        },
+        {
+            "id": "battle_select_11010_1",
+            "desc": "Visto em Batalha",
+            "dlg": "I thought I submitted everything...? What's wrong?"
+        },
+        {
+            "id": "battle_endcommand_11010_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Securing personnel...!"
+        },
+        {
+            "id": "battle_enemy_break_11010_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Get behind me, now...!"
+        },
+        {
+            "id": "battle_break_11010_1",
+            "desc": "Atordoado",
+            "dlg": "Nngh..."
+        },
+        {
+            "id": "battle_kill_11010_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Excluding high-risk individuals..."
+        },
+        {
+            "id": "battle_dead_11010_1",
+            "desc": "Morte",
+            "dlg": "I'll be fine... so run... get as far away as you can from here..."
+        },
+        {
+            "id": "choice_success_p_11010_2",
+            "desc": "Passou no Teste",
+            "dlg": "Posso proteger mais uma pessoa, é... Mas só dessa vez, tá? Não consigo fazer isso de novo."
+        },
+        {
+            "id": "choice_fail_n_11010_1",
+            "desc": "Falha no Teste",
+            "dlg": "... I'm sorry. This was not a part of my contract."
+        },
+        {
+            "id": "battle_clear_11010_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Sofremos algumas perdas, mas... acho que não tinha como evitar. Há um limite do que um escudo pode proteger."
+        },
+        {
+            "id": "battle_clear_ex_11010_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "We actually rescued everyone. I guess days of hard work does pay off... sometimes."
+        },
+        {
+            "id": "battle_defeat_11010_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Nós... falhamos o contrato. Eu não pude proteger ninguém... Estão... todos mortos..."
+        }
+    ]
+}
