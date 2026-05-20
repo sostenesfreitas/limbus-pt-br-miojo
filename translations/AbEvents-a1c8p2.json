@@ -1,0 +1,88 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1080101,
+            "title": "막힌_길_장치_조작",
+            "eventDesc": "",
+            "behaveDesc": "Quem vai mexer no mostrador?",
+            "successDesc": [
+                "{0} mexe um pouco no mostrador, e com um barulho alto de pedra raspando contra pedra, o dispositivo ativa. ||  || 'Autorização concedida. Imprimindo cartão de autorização de entrada...' ||  || Um cartão de entrada escorregou para fora da máquina. || Isso deve abrir um novo caminho para a gente... provavelmente."
+            ],
+            "failureDesc": [
+                "{0} mexe no mostrador por um bom tempo, mas nada acontece. ||  || Decidimos dar a volta; isto parece ser um beco sem saída para a gente."
+            ]
+        },
+        {
+            "id": 1080601,
+            "title": "낭떠러지_도전",
+            "eventDesc": "Precisamos de cada moeda que pudermos conseguir para chegar em segundo lugar. || Parece perigoso, mas... temos que correr o risco.",
+            "behaveDesc": "Em quem podemos confiar para descer e voltar com segurança?",
+            "successDesc": [
+                "{0} corre passando pelos outros clãs e começa a descer rapidamente. ||  || 'Pois bem, parece que todo mundo está se adiantando!' || 'Vejamos qual dos competidores conseguirá pegar as moedas!' ||  || Barulhos altos ecoam da escuridão. || Então, algo grande desmorona; só conseguimos ouvir os gritos dos competidores. ||  || Será que... algo deu errado lá embaixo? || Bem quando começo a me preocupar, {0} rasteja para fora do buraco, sozinho(a). || Os outros candidatos não conseguiram. || Pegamos as moedas que {0} recolheu."
+            ],
+            "failureDesc": [
+                "{0} corre passando pelos outros clãs e começa a descer rapidamente. ||  || 'Pois bem, parece que todo mundo está se adiantando!' || 'Vejamos qual dos competidores conseguirá pegar as moedas!' ||  || Barulhos altos ecoam da escuridão. || Então, algo grande desmorona; só conseguimos ouvir os gritos dos competidores. ||  || Será que... algo deu errado lá embaixo? || Bem quando começo a me preocupar, um candidato rasteja para fora do buraco, sozinho. || {0} não voltou... || Precisamos achar os restos dele(a) e virar o relógio."
+            ]
+        },
+        {
+            "id": 1080701,
+            "title": "죄인_벌주기_1차",
+            "eventDesc": "Precisamos coletar o máximo de moedas que pudermos, custe o que custar. || Sinto pena do prisioneiro, mas... || ... peço aos Pecadores para castigá-lo mesmo assim.",
+            "behaveDesc": "Who will punish the condemned?",
+            "successDesc": [
+                "{0} brande sua arma com toda a força. || Alguns Pecadores colocam as mãos nos ouvidos, tentando bloquear os soluços de dor do prisioneiro. ||  || 'Maravilhosamente feito!' || 'Isso sim é o que eu chamo de castigo apropriado. Aqui está uma moeda extra para você!' ||  || Pegamos a moeda, mas... || {0} não parece muito feliz com isso. ||  || 'Embora seja um pecador que tenha errado, isto... não é justiça.' || '... É. Isso não me agrada nada.'"
+            ],
+            "failureDesc": [
+                "{0} brande sua arma, mas não parece conseguir colocar muita força nela. || {0} abaixa a arma, sem vontade de continuar castigando o condenado. Recebemos um pequeno punhado de moedas como recompensa. ||  || A aceitamos, mas... || {0} não parece muito feliz com isso. ||  || 'Embora seja um pecador que tenha errado, isto... não é justiça.' || '... É. Isso não me agrada nada.'"
+            ]
+        },
+        {
+            "id": 1080702,
+            "title": "죄인_벌주기_2차",
+            "eventDesc": "'Oho, mas não vamos parar por aqui!' || 'Este prisioneiro cometeu um crime muito, muito sério! Ele merece mais castigo, mais!' || 'Estão prontos?!'",
+            "behaveDesc": "Who will punish the condemned?",
+            "successDesc": [
+                "{0} brande sua arma com toda a força. || Alguns Pecadores colocam as mãos nos ouvidos, tentando bloquear os soluços de dor do prisioneiro. ||  || 'Maravilhosamente feito!' || 'Isso sim é o que eu chamo de castigo apropriado. Aqui está uma moeda extra para você!' ||  || Pegamos a moeda, mas... || {0} não parece muito feliz com isso. ||  || 'Cessai... cessai isto, eu vos imploro. Não desejo permanecer nesta sala nem mais um momento.' || 'Aqueles desgraçados nos observando lá de cima... eu vou matá-los a pancadas se topar com eles.'"
+            ],
+            "failureDesc": [
+                "{0} brande sua arma, mas não parece conseguir colocar muita força nela. || {0} abaixa a arma, sem vontade de continuar castigando o condenado. Recebemos um pequeno punhado de moedas como recompensa. ||  || Pegamos a moeda, mas... || {0} não parece muito feliz com isso. ||  || 'Pare... pare com isto, eu vos imploro. Não desejo permanecer nesta sala nem mais um momento.' || 'Aqueles desgraçados nos observando lá de cima... eu vou matá-los a pancadas se topar com eles.' ||  || O prisioneiro desaba."
+            ]
+        },
+        {
+            "id": 1080801,
+            "title": "항아리_보기",
+            "eventDesc": "Nos aproximamos cuidadosamente da jarra para inspecionar o que há dentro... || Uma energia potente e sinistra está se infiltrando da abertura. || Quanto mais nos aproximamos, mais alto fica o ruído arcano que rasteja das profundezas da jarra.",
+            "behaveDesc": "Quem vai olhar dentro da jarra?",
+            "successDesc": [
+                "{0} olha dentro da jarra. ||  || '…!' || '…….' || '…?' ||  || {0} começa a balbuciar incompreensivelmente. || Acho que não há uma pessoa dentro da jarra, o que é bom, mas... || ... seja lá o que for, olhar muito tempo para isso é claramente perigoso. ||  || Com algum esforço, conseguimos afastar {0} da jarra. || {0} está segurando um pergaminho velho e esfarrapado. || Pode vir a ser útil nas batalhas que virão, então decido levá-lo conosco."
+            ],
+            "failureDesc": [
+                "{0} olha dentro da jarra. ||  || '!?#*$!' || '…*!&@^?!' || '@%#&…' ||  || {0} começa a balbuciar incompreensivelmente. || Acho que não há uma pessoa dentro da jarra, o que é bom, mas... || ... seja lá o que for, olhar muito tempo para isso é claramente perigoso. ||  || Com algum esforço, mal conseguimos impedir {0} de rastejar para dentro da jarra. || {0} está segurando um pergaminho velho e esfarrapado. || Pode ser útil nas batalhas que virão, então decido levá-lo conosco."
+            ]
+        },
+        {
+            "id": 1081001,
+            "title": "공포_견디기",
+            "eventDesc": "",
+            "behaveDesc": "Quem tem a maior resistência ao medo?",
+            "successDesc": [
+                "{0} e alguns membros do clã dos outros candidatos entram nas jarras. || O dispositivo ativa, e todo tipo de inseto medonho e rastejante derrama do dispositivo para dentro da jarra. || {0} consegue ficar dentro, apesar do horror... || ... mas todos os outros pulam para fora das jarras, gritando. ||  || 'Parece que nossa querida plateia gostou muito disso.' || 'Bem... é uma pena, mas as moedas são apenas para os corajosos que conseguiram ficar dentro da jarra!' ||  || Moedas caem perto do alto-falante. || {0} rasteja para fora."
+            ],
+            "failureDesc": [
+                "{0} e alguns membros do clã dos outros candidatos entram nas jarras. || O dispositivo ativa, e todo tipo de inseto medonho e rastejante derrama do dispositivo para dentro da jarra. || {0} pula para fora da jarra, incapaz de suportar a sensação de insetos rastejando. ||  || 'Parece que nossa querida plateia gostou muito disso.' || 'Bem... é uma pena, mas as moedas são apenas para os corajosos que conseguiram ficar dentro da jarra!' ||  || Moedas caem perto do alto-falante, mas outro candidato as pega."
+            ]
+        },
+        {
+            "id": 1081301,
+            "title": "막바지_보너스_내기",
+            "eventDesc": "'Ah, então há um acordo mútuo entre os dois candidatos! É uma <i>aposta</i>, então!' ||  || 'Muito bem! Coloquem cinco de suas moedas à frente, e...' ||  || '... enviem um membro do seu clã, e façam-no apresentar por que o seu \"candidato\" merece mais o assento de Patriarca da Família!' ||  || 'Refutem o argumento do oponente enquanto reforçam o seu próprio, e... nossa querida plateia escolherá o vencedor.' ||  || 'Pois bem! Mandem seus mais articulados e persuasivos!'",
+            "behaveDesc": "Which one of us is the best debater?",
+            "successDesc": [
+                "{0} esmaga o argumento do oponente com facilidade. ||  || O representante do candidato oposto cai de joelhos, claramente devastado por sua derrota. ||  || 'Parabéns ao vencedor!' ||  || {0} recolhe todas as moedas do chão."
+            ],
+            "failureDesc": [
+                "O representante adversário esmaga o argumento de {0} com facilidade... ||  || Ele caminha até nós triunfantemente para pegar as moedas que colocamos no chão enquanto {0} fica ali parado(a), atordoado(a). ||  || ... O que devemos fazer?"
+            ]
+        }
+    ]
+}
