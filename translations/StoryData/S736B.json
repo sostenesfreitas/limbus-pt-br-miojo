@@ -34,7 +34,7 @@
         {
             "id": 6,
             "model": "산손",
-            "content": "Oblivion."
+            "content": "Esquecimento."
         },
         {
             "id": 7,
@@ -79,12 +79,12 @@
         {
             "id": 15,
             "model": "이스마엘",
-            "content": "What...?"
+            "content": "O quê...?"
         },
         {
             "id": 16,
             "model": "산손",
-            "content": "Galloping on, and on..."
+            "content": "Galopando, e galopando..."
         },
         {
             "id": 17,
@@ -94,7 +94,7 @@
         {
             "id": 18,
             "model": "로메로다침",
-            "content": "... Come on... just die!"
+            "content": "... Vamos lá... morre logo!"
         },
         {
             "id": 19,
@@ -109,12 +109,12 @@
         {
             "id": 21,
             "model": "돈키호테",
-            "content": "... Enough."
+            "content": "... Já basta."
         },
         {
             "id": 22,
             "model": "돈키호테",
-            "content": "Please... Enough..."
+            "content": "Por favor... Já basta..."
         },
         {
             "id": 23,
@@ -235,7 +235,7 @@
         {
             "id": 46,
             "model": "기사돈키",
-            "content": "Quite the irony, then."
+            "content": "Que ironia, então."
         },
         {
             "id": 47,
@@ -275,7 +275,7 @@
         {
             "id": 54,
             "model": "기사돈키",
-            "content": "The promised timepiece, is it...?"
+            "content": "O cronômetro prometido, será que é...?"
         },
         {
             "id": 55,
@@ -290,18 +290,18 @@
         {
             "id": 57,
             "model": "기사돈키",
-            "content": "This is...?"
+            "content": "Isto é...?"
         },
         {
             "id": 58,
             "model": "산손",
-            "content": "The River of Oblivion."
+            "content": "O Rio do Esquecimento."
         },
         {
             "id": 59,
             "place": "Lete, o Rio do Esquecimento",
             "model": "오티스",
-            "content": "Lethe..."
+            "content": "Lete..."
         },
         {
             "id": 60,
@@ -327,12 +327,12 @@
         {
             "id": 64,
             "model": "기사싱클",
-            "content": "All of it, gone in a sip."
+            "content": "Tudo isso, num único gole."
         },
         {
             "id": 65,
             "model": "산손",
-            "content": "You reflexively gulp."
+            "content": "Você engole reflexivamente."
         },
         {
             "id": 66,
@@ -342,7 +342,7 @@
         {
             "id": 67,
             "model": "기사돈키",
-            "content": "I have... decided."
+            "content": "Eu... decidi."
         },
         {
             "id": 68,
@@ -392,7 +392,7 @@
         {
             "id": 77,
             "model": "기사싱클",
-            "content": "You want to dream."
+            "content": "Você quer sonhar."
         },
         {
             "id": 78,
@@ -402,7 +402,7 @@
         {
             "id": 79,
             "model": "기사싱클",
-            "content": "Then..."
+            "content": "Então..."
         },
         {
             "id": 80,
@@ -457,7 +457,7 @@
         {
             "id": 90,
             "model": "기사돈키",
-            "content": "... Thank you."
+            "content": "... Obrigada."
         },
         {
             "id": 91,
@@ -515,7 +515,7 @@
         },
         {
             "id": 102,
-            "content": "Don Quixote looks down toward Rocinante."
+            "content": "Don Quixote olha para baixo, em direção a Rocinante."
         },
         {
             "id": 103,
@@ -538,7 +538,7 @@
         {
             "id": 107,
             "model": "파우스트",
-            "content": "... Nothing can be done."
+            "content": "... Nada pode ser feito."
         },
         {
             "id": 108,
@@ -592,7 +592,7 @@
         {
             "id": 117,
             "place": "Desfile do Carnaval",
-            "content": "Don Quixote's spine slowly bends forward."
+            "content": "A espinha de Don Quixote se curva lentamente para frente."
         },
         {
             "id": 118,
@@ -654,7 +654,7 @@
         },
         {
             "id": 132,
-            "content": "Don Quixote takes off Rocinante..."
+            "content": "Don Quixote tira o Rocinante..."
         },
         {
             "id": 133,
@@ -676,7 +676,7 @@
             "model": "실루엣돈키호테",
             "teller": "Don Quixote?",
             "title": "???",
-            "content": "But I'm a... ... I cannot live among humans. I cannot..."
+            "content": "Mas eu sou uma... ... Eu não posso viver entre humanos. Eu não posso..."
         },
         {
             "id": 137,
@@ -705,14 +705,14 @@
             "model": "실루엣돈키호테",
             "teller": "Don Quixote?",
             "title": "???",
-            "content": "Please, please! I don't want an adventure, stop! Please!"
+            "content": "Por favor, por favor! Eu não quero uma aventura, para! Por favor!"
         },
         {
             "id": 141,
             "model": "실루엣돈키호테",
             "teller": "Don Quixote?",
             "title": "???",
-            "content": "Please, Rocinante..."
+            "content": "Por favor, Rocinante..."
         },
         {
             "id": 142,
@@ -761,7 +761,7 @@
         },
         {
             "id": 149,
-            "content": "She inhales deeply, then exhales."
+            "content": "Ela inspira profundamente, depois expira."
         },
         {
             "id": 150,
@@ -793,7 +793,7 @@
         {
             "id": 156,
             "model": "돌시네아다침",
-            "content": "Bravo. Now every path is opened."
+            "content": "Bravo. Agora todos os caminhos estão abertos."
         },
         {
             "id": 157,
@@ -813,7 +813,7 @@
             "model": "실루엣돈키호테",
             "teller": "Sancho",
             "title": "???",
-            "content": "What is it now?"
+            "content": "O que é agora?"
         },
         {
             "id": 160,
@@ -913,7 +913,7 @@
             "model": "백발가면혈귀실루엣",
             "teller": "???",
             "title": "???",
-            "content": "Why does it matter whether someone wins or loses?"
+            "content": "Por que importa se alguém ganha ou perde?"
         },
         {
             "id": 175,
@@ -976,7 +976,7 @@
             "model": "백발가면혈귀실루엣",
             "teller": "???",
             "title": "???",
-            "content": "Case in point."
+            "content": "Aí está."
         },
         {
             "id": 184,
@@ -1015,7 +1015,7 @@
             "model": "백발가면혈귀실루엣",
             "teller": "???",
             "title": "???",
-            "content": "Perhaps. For now, at least."
+            "content": "Talvez. Por enquanto, ao menos."
         },
         {
             "id": 190,
@@ -1120,7 +1120,7 @@
         },
         {
             "id": 210,
-            "content": "... Or, perhaps... he speaks to Don Quixote."
+            "content": "... Ou, talvez... ele fala com Don Quixote."
         },
         {
             "id": 211,

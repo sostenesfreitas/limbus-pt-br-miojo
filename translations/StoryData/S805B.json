@@ -4,7 +4,7 @@
             "id": 0,
             "place": "Interior do Palanquim",
             "model": "가마꾼",
-            "content": "Entering Daguanyuan now!"
+            "content": "Entrando em Daguanyuan agora!"
         },
         {
             "id": 1,
@@ -22,7 +22,7 @@
         {
             "id": 4,
             "model": "뉴소드",
-            "content": "Oof, we’re running out of time."
+            "content": "Oof, estamos sem tempo."
         },
         {
             "id": 5,
@@ -37,7 +37,7 @@
         {
             "id": 7,
             "model": "파우스트",
-            "content": "It is... unlikely to be a pleasant sight to behold."
+            "content": "É... improvável que seja uma visão agradável."
         },
         {
             "id": 8,
@@ -57,7 +57,7 @@
         {
             "id": 11,
             "model": "히스클리프",
-            "content": "Nnh? Execution? Wha?"
+            "content": "Nnh? Execução? Quê?"
         },
         {
             "id": 12,
@@ -156,7 +156,7 @@
         {
             "id": 32,
             "model": "홍루",
-            "content": "Fuhu, I remember."
+            "content": "Fuhu, lembro."
         },
         {
             "id": 33,
@@ -196,7 +196,7 @@
         {
             "id": 40,
             "model": "로쟈",
-            "content": "Did... we?"
+            "content": "Será... que sim?"
         },
         {
             "id": 41,
@@ -251,7 +251,7 @@
             "place": "Passado, Algum Lugar do Grande Jardim",
             "teller": "???",
             "title": "???",
-            "content": "<i>Who lays me to rest once I die?</i>"
+            "content": "<i>Quem me coloca para descansar quando eu morrer?</i>"
         },
         {
             "id": 52,
@@ -301,7 +301,7 @@
             "model": "어린임대옥",
             "teller": "Daiyu?",
             "title": "???",
-            "content": "And be so wasteful?"
+            "content": "E ser tão desperdiçado?"
         },
         {
             "id": 60,
@@ -447,7 +447,7 @@
         {
             "id": 87,
             "model": "홍루",
-            "content": "Grandmother always treated me preciously."
+            "content": "A avó sempre me tratou preciosamente."
         },
         {
             "id": 88,
@@ -542,12 +542,12 @@
         {
             "id": 106,
             "model": "홍루",
-            "content": "I'm sure he got better."
+            "content": "Tenho certeza de que ele melhorou."
         },
         {
             "id": 107,
             "model": "홍루",
-            "content": "Xiren told me he’ll be just fine after a hundred nights' rest."
+            "content": "Xiren me disse que ele vai ficar bem depois de cem noites de descanso."
         },
         {
             "id": 108,
