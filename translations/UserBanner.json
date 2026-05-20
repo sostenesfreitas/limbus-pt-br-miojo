@@ -1,0 +1,419 @@
+﻿{
+    "dataList": [
+        {
+            "id": 1,
+            "name": "Banner de Celebração da 1ª Temporada",
+            "desc": "Obtido no Nível 1 do Passe Padrão da 1ª Temporada"
+        },
+        {
+            "id": 2,
+            "name": "Banner de Conclusão da 1ª Temporada",
+            "desc": "Obtained at Season 1 Limbus Pass Level 60"
+        },
+        {
+            "id": 3,
+            "name": "Prova de Participação Diligente",
+            "desc": "Obtained from the New-hire’s Attendance Rewards event."
+        },
+        {
+            "id": 4,
+            "name": "Gerente Gentil",
+            "desc": "Obtained from the New-hire’s Attendance Rewards event."
+        },
+        {
+            "id": 5,
+            "name": "Banner Básico da Ferrovia Refratada - Linha 1",
+            "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1."
+        },
+        {
+            "id": 6,
+            "name": "Banner Decorado da Ferrovia Refratada - Linha 1",
+            "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns."
+        },
+        {
+            "id": 7,
+            "name": "Banner Enfeitado da Ferrovia Refratada - Linha 1",
+            "desc": "Obtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns during the first two weeks of the event."
+        },
+        {
+            "id": 8,
+            "name": "Pesadelo da Galinha",
+            "desc": "Obtained from the Hell’s Chicken event."
+        },
+        {
+            "id": 9,
+            "name": "Para Minha Mãe...",
+            "desc": "Obtained from the Hell’s Chicken event."
+        },
+        {
+            "id": 10,
+            "name": "Banner de Celebração da 2ª Temporada",
+            "desc": "Obtained at Season 2 Free Pass Level 1"
+        },
+        {
+            "id": 11,
+            "name": "Banner de Conclusão da 2ª Temporada",
+            "desc": "Obtained at Season 2 Limbus Pass Level 60"
+        },
+        {
+            "id": 12,
+            "name": "Banner Ornamental do Evento M.A.R.",
+            "desc": "Obtido no evento da M.A.R."
+        },
+        {
+            "id": 13,
+            "name": "Banner Básico da Ferrovia Refratada - Linha 2",
+            "desc": "Obtained by clearing Line 2 with 3 or more Cycle Counts"
+        },
+        {
+            "id": 14,
+            "name": "Banner Decorado da Ferrovia Refratada - Linha 2",
+            "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts"
+        },
+        {
+            "id": 15,
+            "name": "Banner Enfeitado da Ferrovia Refratada - Linha 2",
+            "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts and under 200 Total Turns"
+        },
+        {
+            "id": 16,
+            "name": "Banner Básico da Ferrovia Refratada Especial - Linha 2",
+            "desc": "Obtained by clearing Line 2 with 3 or more Cycle Counts before Season 2: Reminiscence ends"
+        },
+        {
+            "id": 17,
+            "name": "Banner Decorado da Ferrovia Refratada Especial - Linha 2",
+            "desc": "Obtained by clearing Line 2 with 5 or more Cycle Counts before Season 2: Reminiscence ends"
+        },
+        {
+            "id": 18,
+            "name": "Banner Enfeitado da Ferrovia Refratada Especial - Linha 2",
+            "desc": "Obtido ao concluir a Linha 2 com 5 ou mais Contagens de Ciclo e 200 ou menos Turnos Totais antes do fim da Temporada 2: Reminiscência"
+        },
+        {
+            "id": 19,
+            "name": "Banner Notável da Ferrovia Refratada Especial - Linha 2",
+            "desc": "Obtido ao concluir a Linha 2 com 5 ou mais Ciclos e menos de 150 Turnos Totais antes do fim da Temporada 2: Reminiscência (Deve ser um recorde feito após 15/09/2023 20:15(KST))"
+        },
+        {
+            "id": 20,
+            "name": "Banner de Celebração da 3ª Temporada",
+            "desc": "Obtained at Season 3 Free Pass Level 1"
+        },
+        {
+            "id": 21,
+            "name": "Banner de Conclusão da 3ª Temporada",
+            "desc": "Obtained at Season 3 Limbus Pass Level 120"
+        },
+        {
+            "id": 22,
+            "name": "Banner Especial do Pacote do Passe Limbus da 3ª Temporada",
+            "desc": "Obtained from Season 3 Limbus Pass Package"
+        },
+        {
+            "id": 23,
+            "name": "Milagre no Distrito 20",
+            "desc": "Obtained from the Miracle in District 20 Event"
+        },
+        {
+            "id": 24,
+            "name": "Milagre no Distrito 20 - Banner Especial",
+            "desc": "Obtained from the Miracle in District 20 Event"
+        },
+        {
+            "id": 25,
+            "name": "2024 - O Amanhecer do Verde",
+            "desc": "Obtained from the 2nd Walpurgis Night Event"
+        },
+        {
+            "id": 26,
+            "name": "Banner Básico da Ferrovia Refratada - Linha 3",
+            "desc": "Obtained by clearing the Terminus of Refraction Railway Line 3"
+        },
+        {
+            "id": 27,
+            "name": "Banner Básico da Ferrovia Refratada Especial - Linha 3",
+            "desc": "Obtido ao concluir o Terminal da Linha 3 com 100 Turnos ou menos de Turnos Totais antes do fim da Temporada 3: Boa Viagem"
+        },
+        {
+            "id": 28,
+            "name": "Rendo Minha Carne para Usurpar Teus Ossos",
+            "desc": "Obtido no evento 'Rendo Minha Carne para Usurpar Teus Ossos'"
+        },
+        {
+            "id": 29,
+            "name": "Banner Especial - Rendo Minha Carne para Usurpar Teus Ossos",
+            "desc": "Obtido no evento 'Rendo Minha Carne para Usurpar Teus Ossos'"
+        },
+        {
+            "id": 30,
+            "name": "Banner de 1º Aniversário \nda Limbus Company",
+            "desc": "Obtained from the 1st Anniversary event"
+        },
+        {
+            "id": 31,
+            "name": "Banner de Celebração da 4ª Temporada",
+            "desc": "Obtained at Season 4 Free Pass Level 1"
+        },
+        {
+            "id": 32,
+            "name": "Banner de Conclusão da 4ª Temporada",
+            "desc": "Obtained at Season 4 Limbus Pass Level 120"
+        },
+        {
+            "id": 33,
+            "name": "Banner especial do Pacote Limbus da 4ª Temporada",
+            "desc": "Obtained from Season 4 Limbus Pass Package"
+        },
+        {
+            "id": 34,
+            "name": "Banner especial II do Pacote Limbus da 4ª Temporada",
+            "desc": "Obtained from Season 4 Limbus Pass Package"
+        },
+        {
+            "id": 35,
+            "name": "Library of Ruina",
+            "desc": "Obtained from entering Library of Ruina special bonus coupon code"
+        },
+        {
+            "id": 36,
+            "name": "Escritório do Amanhecer",
+            "desc": "Obtained from the 3rd Walpurgis Night Event"
+        },
+        {
+            "id": 37,
+            "name": "Tempo de Matar Tempo",
+            "desc": "Obtido no evento Tempo de Matar Tempo"
+        },
+        {
+            "id": 38,
+            "name": "Tempo de Matar Tempo - Banner Especial",
+            "desc": "Obtido no evento Tempo de Matar Tempo"
+        },
+        {
+            "id": 39,
+            "name": "Banner da Ferrovia Refratada - Linha 4",
+            "desc": "Obtained by clearing Section #4 of Refraction Railway Line 4"
+        },
+        {
+            "id": 40,
+            "name": "Banner Especial da Ferrovia Refratada - Linha 4",
+            "desc": "Obtido ao concluir a Seção 4 da Linha 4 com 100 ou menos no Total de Turnos antes do término da 4ª Temporada: Apagar Toda Cathy"
+        },
+        {
+            "id": 41,
+            "name": "Assassinato no Expresso WARP",
+            "desc": "Obtido do evento Assassinato no Expresso WARP"
+        },
+        {
+            "id": 42,
+            "name": "Banner Especial - Assassinato no Expresso WARP",
+            "desc": "Obtido do evento Assassinato no Expresso WARP"
+        },
+        {
+            "id": 43,
+            "name": "O Meio-dia Violeta",
+            "desc": "Obtained from the 4th Walpurgis Night event"
+        },
+        {
+            "id": 48,
+            "name": "Escritório Ponto Final",
+            "desc": "Obtained from the 5th Walpurgis Night event"
+        },
+        {
+            "id": 49,
+            "name": "Cheque Médico da LCB",
+            "desc": "Obtained from the LCB Regular Check-up event"
+        },
+        {
+            "id": 50,
+            "name": "Banner Especial - Cheque Médico da LCB",
+            "desc": "Obtained from the LCB Regular Check-up event"
+        },
+        {
+            "id": 51,
+            "name": "Banner da Ferrovia Refratada - Linha 5",
+            "desc": "Obtido ao concluir a Ferrovia Refratada - Linha 5"
+        },
+        {
+            "id": 52,
+            "name": "Banner Especial da Ferrovia Refratada - Linha 5",
+            "desc": "Obtido ao concluir a Linha 5 com 100 ou menos no Total de Turnos antes do término da Temporada 5 - Oblivion."
+        },
+        {
+            "id": 53,
+            "name": "Banner 2º Aniversário da Limbus Company",
+            "desc": "Obtained from the 2nd Anniversary event"
+        },
+        {
+            "id": 54,
+            "name": "Banner Especial 2º Aniversário da Limbus Company",
+            "desc": "Obtained from the 2nd Anniversary event"
+        },
+        {
+            "id": 55,
+            "name": "5ª Temporada: Espelho do Sonhador Banner Comemorativo",
+            "desc": "Obtido como uma Recompensa de Conquista do Espelho do Sonhador\n\n※ Esse banner mostra o número de vezes que você completou o Piso 5 ou superior nas 「Masmorras Espelhadas da 5ª Temporada - Espelho do Sonhador」."
+        },
+        {
+            "id": 56,
+            "name": "5ª Temporada: Espelho do Sonhador Banner Especial Comemorativo",
+            "desc": "Obtido como uma Recompensa de Conquista do Espelho do Sonhador\n\n※ Esse banner mostra o número de vezes que você completou o Piso 5 ou superior nas 「Masmorras Espelhadas da 5ª Temporada - Espelho do Sonhador」."
+        },
+        {
+            "id": 57,
+            "name": "Varredura Noturna",
+            "desc": "Obtained from the 'Nocturnal Sweeping' event"
+        },
+        {
+            "id": 58,
+            "name": "Varredura Noturna - Ticket Especial",
+            "desc": "Obtained from the 'Nocturnal Sweeping' event"
+        },
+        {
+            "id": 59,
+            "name": "5ª Temporada: Espelho do Sonhador Banner Especial de Conquista",
+            "desc": "Obtido como uma Recompensa de Conquista do Espelho do Sonhador\n\nObter esse item atualizará o design das seguintes coisas com a aparência do Banner de Conquista Especial: 5ª Temporada: Banner Comemorativo do Espelho do Sonhador & Banner Comemorativo Especial\n\n※ Esse banner mostra o número de vezes que você completou o Piso 5 ou superior nas 「Masmorras Espelhadas da 5ª Temporada - Espelho do Sonhador」."
+        },
+        {
+            "id": 66,
+            "name": "6ª Temporada: Espelho da Imortalidade Banner Comemorativo",
+            "desc": "Obtido das Recompensas de Conquistas do Espelho da Imortalidade ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 6 Masmorra Espelho - Espelho da Imortalidade」, e o Andar mais alto que você alcançou."
+        },
+        {
+            "id": 67,
+            "name": "6ª Temporada: Espelho da Imortalidade Banner Especial Comemorativo",
+            "desc": "Obtido das Recompensas de Conquistas do Espelho da Imortalidade ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 6 Masmorra Espelho - Espelho da Imortalidade」, e o Andar mais alto que você alcançou."
+        },
+        {
+            "id": 68,
+            "name": "6ª Temporada: Espelho da Imortalidade Banner Especial de Conquista",
+            "desc": "Obtido do Espelho da Imortalidade ao concluir todas as Conquistas ||  || Obter este item atualizará os designs dos seguintes com a aparência de Estandarte de Conquista Especial: Estandarte Comemorativo da Temporada 6: Imortalidade do Espelho & Estandarte Comemorativo Especial ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 6 Masmorra Espelho - Imortalidade do Espelho」."
+        },
+        {
+            "id": 44,
+            "name": "Banner de Celebração da 5ª Temporada",
+            "desc": "Obtained at Season 5 Free Pass Level 1"
+        },
+        {
+            "id": 45,
+            "name": "Banner de Conclusão da 5ª Temporada",
+            "desc": "Obtained at Season 5 Limbus Pass Level 120"
+        },
+        {
+            "id": 46,
+            "name": "Banner especial do Pacote Limbus da 5ª Temporada",
+            "desc": "Obtained from Season 5 Limbus Pass Package"
+        },
+        {
+            "id": 47,
+            "name": "Banner especial II do Pacote Limbus da 5ª Temporada",
+            "desc": "Obtained from Season 5 Limbus Pass Package"
+        },
+        {
+            "id": 60,
+            "name": "Banner de Celebração da 6ª Temporada",
+            "desc": "Obtained at Season 6 Free Pass Level 1"
+        },
+        {
+            "id": 61,
+            "name": "Banner de Conclusão da 6ª Temporada",
+            "desc": "Obtained at Season 6 Limbus Pass Level 120"
+        },
+        {
+            "id": 62,
+            "name": "Banner especial do Pacote Limbus da 6ª Temporada",
+            "desc": "Obtained from Season 6 Limbus Pass Package"
+        },
+        {
+            "id": 63,
+            "name": "Garota Mágica",
+            "desc": "Obtained from the 6th Walpurgis Night event"
+        },
+        {
+            "id": 64,
+            "name": "Cultivo de Primavera",
+            "desc": "Obtained from the 'Spring Cultivation' event"
+        },
+        {
+            "id": 65,
+            "name": "Banner Especial - Cultivo de Primavera",
+            "desc": "Obtained from the 'Spring Cultivation' event"
+        },
+        {
+            "id": 69,
+            "name": "Peregrinagem de Compaixão",
+            "desc": "Obtained from the Pilgrimage of Compassion event"
+        },
+        {
+            "id": 70,
+            "name": "Banner Especial - Peregrinagem de Compaixão",
+            "desc": "Obtained from the Pilgrimage of Compassion event"
+        },
+        {
+            "id": 71,
+            "name": "O Convite Geral de uma Certa Biblioteca",
+            "desc": "Obtained from the 7th Walpurgis Night event"
+        },
+        {
+            "id": 72,
+            "name": "Banner Especial do BokGak da Ferrovia Refratada - Linha 1",
+            "desc": "Obtido ao concluir o BokGak da Ferrovia Refratada - Linha 1 abaixo de 120 turnos totais"
+        },
+        {
+            "id": 73,
+            "name": "Banner de Celebração da 7ª Temporada",
+            "desc": "Obtido no Nível 1 do Passe Padrão da 7ª Temporada"
+        },
+        {
+            "id": 74,
+            "name": "Banner de Conclusão da 7ª Temporada",
+            "desc": "Obtido no Nível 120 do Passe Padrão da 7ª Temporada"
+        },
+        {
+            "id": 75,
+            "name": "Banner Especial do Pacote Limbus da 7ª Temporada",
+            "desc": "Obtido no Pacote do Passe Limbus da 7ª Temporada"
+        },
+        {
+            "id": 76,
+            "name": "Banner do 3º Aniversário de Limbus Company",
+            "desc": "Obtido no evento do 3º aniversário"
+        },
+        {
+            "id": 77,
+            "name": "Banner Especial do 3º Aniversário da Limbus Company",
+            "desc": "Obtido no evento do 3º aniversário"
+        },
+        {
+            "id": 78,
+            "name": "The Dusk of Amber",
+            "desc": "Obtido no evento da 8ª Noite de Walpurgis"
+        },
+        {
+            "id": 79,
+            "name": "Season 7: Mirror of Names and Spiders Commemorative Banner",
+            "desc": "Obtido das Recompensas de Conquistas do Espelho de Nomes e Aranhas ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 7 Masmorra Espelho - Espelho de Nomes e Aranhas」, e o Andar mais alto que você alcançou."
+        },
+        {
+            "id": 80,
+            "name": "Season 7: Mirror of Names and Spiders Special Commemorative Banner",
+            "desc": "Obtido das Recompensas de Conquistas do Espelho de Nomes e Aranhas ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 7 Masmorra Espelho - Espelho de Nomes e Aranhas」, e o Andar mais alto que você alcançou."
+        },
+        {
+            "id": 81,
+            "name": "Season 7: Mirror of Names and Spiders Special Achievement Banner",
+            "desc": "Obtido do Espelho de Nomes e Aranhas ao concluir todas as Conquistas ||  || Obter este item atualizará os designs dos seguintes com a aparência de Estandarte de Conquista Especial: Estandarte Comemorativo da Temporada 7: Espelho de Nomes e Aranhas & Estandarte Comemorativo Especial ||  || ※ Este estandarte exibe o número de vezes que você concluiu o Andar 5 ou superior na 「Temporada 7 Masmorra Espelho - Espelho de Nomes e Aranhas」."
+        },
+        {
+            "id": 82,
+            "name": "Twining Threads",
+            "desc": "Obtained from the Twining Threads event"
+        },
+        {
+            "id": 83,
+            "name": "Twining Threads - Special Ticket",
+            "desc": "Obtained from the Twining Threads event"
+        }
+    ]
+}

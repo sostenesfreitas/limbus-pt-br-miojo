@@ -1,0 +1,468 @@
+﻿{
+    "dataList": [
+        {
+            "id": "Empty",
+            "content": ""
+        },
+        {
+            "id": "Nothing",
+            "content": "<color=#ebcaa2>Nada aconteceu.</color>"
+        },
+        {
+            "id": "LevelupPersonality",
+            "content": "<color=#ebcaa2>Evento: Melhoria de Pecador!</color> "
+        },
+        {
+            "id": "GetEgogift",
+            "content": "<color=#ebcaa2> Evento: Bênção de E.G.O Aleatória! </color>"
+        },
+        {
+            "id": "GetCharacter",
+            "content": "<color=#ebcaa2>Evento:  Recrutamento de Pecadores!</color>"
+        },
+        {
+            "id": "LevelupPersonalityOnWinBattle",
+            "content": "<color=#ebcaa2>Vença a próxima batalha para recrutar um Pecador!</color>"
+        },
+        {
+            "id": "GetConfirmedEgogiftOnWinBattle",
+            "content": "<color=#ebcaa2>Vença a próxima batalha para ganhar {reward}!</color>"
+        },
+        {
+            "id": "StartBattle",
+            "content": "<color=#ff0000>Encontro de Combate!</color>"
+        },
+        {
+            "id": "StartBattle_Normal",
+            "content": "<color=#ff0000>Encontro Comum!</color>"
+        },
+        {
+            "id": "StartBattle_Danger",
+            "content": "<color=#ff0000>Confronto Perigoso!</color>"
+        },
+        {
+            "id": "StartBattle_Abnormality",
+            "content": "<color=#ff0000>Encontro Focado!</color>"
+        },
+        {
+            "id": "StartBattle_FloorBoss",
+            "content": "<color=#ff0000> Confronto no Piso do Boss!</color>"
+        },
+        {
+            "id": "RecoverHpOnly",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color><color=#ebcaa2>cura por</color> <color=#00ff9c>{amount} PV.</color> "
+        },
+        {
+            "id": "RecoverMpOnly",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color><color=#ebcaa2>cura por</color> <color=#80c9ff>{amount} PS.</color> "
+        },
+        {
+            "id": "RecoverHpOnlyUntilMax",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>curado de volta</color> <color=#00ff9c>para o PV Cheio.</color> "
+        },
+        {
+            "id": "RecoverMpOnlyUntilMax",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>curado de volta</color> <color=#80c9ff>para o PS Cheio.</color>"
+        },
+        {
+            "id": "LoseHpOnly",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>recebeu</color> <color=#e30000>{amount} Dano de PV!</color> "
+        },
+        {
+            "id": "LoseMpOnly",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>perdeu</color> <color=#fe4b48>{amount} PS!</color> "
+        },
+        {
+            "id": "RecoverHpMpSameAmount",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>SP.</color>"
+        },
+        {
+            "id": "RecoverHpMpDifferentAmount",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{hpAmount} HP</color> and <color=#80c9ff>{mpAmount} SP.</color>"
+        },
+        {
+            "id": "LoseHpMpSameAmount",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>sofreram</color> <color=#e30000>{amount} dano de PV</color> e <color=#fe4b48>PS!</color> "
+        },
+        {
+            "id": "LoseHpMpDifferentAmount",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>sofreram</color> <color=#e30000>{hpAmount} dano de PV</color> e <color=#fe4b48>{mpAmount} dano de PS!</color> "
+        },
+        {
+            "id": "GetConfirmedEgogift",
+            "content": "<color=#ebcaa2>{reward} Obtida!</color>"
+        },
+        {
+            "id": "GetConfirmedStackableEgogift",
+            "content": "<color=#ebcaa2>E.G.O Gift {stack} {reward} obtained!</color>"
+        },
+        {
+            "id": "LoseConfirmedStackableEgogift",
+            "content": "<color=#ebcaa2>E.G.O Gift {stack} {reward} lost!</color>"
+        },
+        {
+            "id": "GetBuff_OnStageStart",
+            "content": "<color=#ebcaa2>{target} {conditional} will enter the next combat encounter with {stack} {buffName}.</color>"
+        },
+        {
+            "id": "UnlockHiddenRoute",
+            "content": "<color=#ebcaa2>Há um novo caminho no mapa!</color>"
+        },
+        {
+            "id": "ReduceEnemyWave",
+            "content": "<color=#ebcaa2>Ondas inimigas reduzidas por {waveNum} para a próxima batalha!</color> "
+        },
+        {
+            "id": "DestroyEgogift",
+            "content": "<color=#ebcaa2>Bênção de E.G.O {reward}</color> <color=#e30000>destruída!</color> "
+        },
+        {
+            "id": "Choice_90103301",
+            "content": "<color=#f8c200>Speed +1</color> <color=#ebcaa2>for this battle</color>"
+        },
+        {
+            "id": "Choice_901001",
+            "content": "<color=#ebcaa2>At the start of the combat phase,</color> allies without <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#e30000>5 Wrath damage</color>"
+        },
+        {
+            "id": "Choice_901007",
+            "content": "<color=#ebcaa2>No início do turno,</color> </color=#ebcaa2>cura</color> <color=#00ff9c>10 HP</color> e <color=#80c9ff>10 SP</color> (Até 3 turnos)"
+        },
+        {
+            "id": "Choice_901009",
+            "content": "<color=#e30000>Skill Final Power -1</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+        },
+        {
+            "id": "Choice_901010",
+            "content": "<color=#ebcaa2>At the start of the next battle,</color> <color=#ebcaa2>Ally Units without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>are Staggered</color>"
+        },
+        {
+            "id": "Choice_901019",
+            "content": "<color=#e30000>Speed -2</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+        },
+        {
+            "id": "Choice_90103402",
+            "content": "<color=#f8c200>Speed +2</color> <color=#ebcaa2>for this battle</color>"
+        },
+        {
+            "id": "Choice_1030301",
+            "content": "<color=#ebcaa2>No início da próxima batalha, todas as unidades aliadas</color> <color=#ebcaa2>recebem</color> <color=#f8c200>3 de Poder de Ataque Aumentado.</color>"
+        },
+        {
+            "id": "Choice_1030501",
+            "content": "<color=#ff0000>Encontro de Combate!</color>\n<color=#ebcaa2>Todos os inimigos</color> <color=#ebcaa2>são infligidos com</color> <color=#e30000>5 de Poder de Ataque Reduzido!</color>"
+        },
+        {
+            "id": "Choice_1031001",
+            "content": "<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>gains</color> <color=#e30000>3 Damage Down</color> <color=#ebcaa2>for the next 2 battles.</color>"
+        },
+        {
+            "id": "Choice_90100201",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#e30000>12 HP</color> <color=#ebcaa2>de dano e</color> <color=#fe4b48>8 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90100502",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#e30000>15 HP</color> <color=#ebcaa2>de dano e</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90101001",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#bb521f> Habilidades Ofensivas com Afinidade de Luxúria</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>10 PS<color=#fe4b48> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90101101",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90101701",
+            "content": "<color=#ebcaa2>O Pecador que passou no teste sofre</color> <color=#fe4b48>5 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90101702",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#fe4b48>25 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90101801",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90101901",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_90102001",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#61822b>Habilidades Ofensivas com Afinidade de Gula</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>5 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102002",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#61822b>Habilidades Ofensivas com Afinidade de Gula</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>10 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102201",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#306471>Habilidades Ofensivas com Afinidade de Melancolia</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>13 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90103302",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#7d4e94>Habilidades Ofensivas com Afinidade de Inveja</color> <color=#fe4b48>sofrem</color> <color=#e30000>15 PV</color> <color=#ebcaa2>e</color> <color=#fe4b48>15 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90100101",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#a0392b>Habilidades Ofensivas com Afinidade de Ira</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>16 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901004",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>"
+        },
+        {
+            "id": "Choice_90100701",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+        },
+        {
+            "id": "Choice_901008",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+        },
+        {
+            "id": "Choice_90100901",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#bb521f>Habilidades Ofensivas com Afinidade de Luxúria</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>20 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901014",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#e48801>Habilidades Ofensivas com Afinidade de Preguiça</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>20 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90101401",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#e48801>Habilidades Ofensivas com Afinidade de Preguiça</color> <color=#fe4b48>sofrem</color> <color=#fe4b48>12 PV</color> <color=#ebcaa2>e</color> <color=#fe4b48>12 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90101601",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#61822b>Gluttony Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+        },
+        {
+            "id": "Choice_901018",
+            "content": "<color=#ebcaa2>One random Identity without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+        },
+        {
+            "id": "Choice_901021",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#306471>Habilidades Ofensivas com Afinidade de Melancolia</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>10 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901023",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#306471>Habilidades Ofensivas com Afinidade de Melancolia</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>9 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102301",
+            "content": "<color=#ebcaa2>One random Identity without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+        },
+        {
+            "id": "Choice_901024",
+            "content": "<color=#ebcaa2>A Identidade com a menor Sanidade que possui</color> <color=#306471>Habilidade de Ataque com Afinidade Melancolia</color> </color=#ebcaa2>cura totalmente seu</color> <color=#f8c200>HP.</color>"
+        },
+        {
+            "id": "Choice_901025",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#306471>Habilidades Ofensivas com Afinidade de Melancolia</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>20 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102501",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>20 HP.</color>"
+        },
+        {
+            "id": "Choice_901026",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#185188>Habilidades Ofensivas com Afinidade de Orgulho</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>10 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102601",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+        },
+        {
+            "id": "Choice_901027",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#185188>Habilidades Ofensivas com Afinidade de Orgulho</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>25 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102701",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#185188>Habilidades Ofensivas com Afinidade de Orgulho</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>25 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901028",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#185188>Habilidades Ofensivas com Afinidade de Orgulho</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>5 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90102801",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>"
+        },
+        {
+            "id": "Choice_901032",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#7d4e94>Habilidades Ofensivas com Afinidade de Inveja</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>20 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901034",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#7d4e94>Habilidades Ofensivas com Afinidade de Inveja</color> <color=#fe4b48>sofrem</color> <color=#e30000>15 PV</color> <color=#ebcaa2>e</color> <color=#fe4b48>15 PS</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_901035",
+            "content": "<color=#ebcaa2>Identidades sem</color> <color=#7d4e94>Habilidades Ofensivas com Afinidade de Inveja</color> <color=#ebcaa2>sofrem</color> <color=#fe4b48>12 PV</color> <color=#ebcaa2>de dano!</color> "
+        },
+        {
+            "id": "Choice_90103501",
+            "content": "<color=#ebcaa2>Identities with</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>"
+        },
+        {
+            "id": "Choice_1040301",
+            "content": "<color=#ebcaa2>O Pecador escolhido</color> <color=#ebcaa2>tem</color> <color=#e30000>10 Ruptura</color> <color=#ebcaa2>por 1 turno na próxima batalha.</color>"
+        },
+        {
+            "id": "MirrorDungeonAcquireCost",
+            "content": "<color=#ebcaa2>{amount} de Custo recebido</color> "
+        },
+        {
+            "id": "MirrorDungeonLossCost",
+            "content": "<color=#ebcaa2>{amount} de Custo perdido</color> "
+        },
+        {
+            "id": "Choice_90104001",
+            "content": "<color=#ebcaa2>Start the next battle with</color> <color=#f8c200>+2 E.G.O resources</color> <color=#ebcaa2>of all affinities</color>"
+        },
+        {
+            "id": "Choice_9010400101",
+            "content": "<color=#ebcaa2>All allies have</color> <color=#f8c200>+2 Skill Final Power</color> <color=#ebcaa2>for the next battle</color>"
+        },
+        {
+            "id": "Choice_90104002",
+            "content": "<color=#ebcaa2>All allies have</color> <color=#f8c200>+1 Skill Power</color> <color=#ebcaa2>for the next battle</color>"
+        },
+        {
+            "id": "ChangeEventIllust",
+            "content": ""
+        },
+        {
+            "id": "Choice_90105801",
+            "content": "All Deployed Identities gain 2 Levels"
+        },
+        {
+            "id": "Choice_90106802",
+            "content": "All Deployed Identities gain 3 Levels"
+        },
+        {
+            "id": "Choice_90107402",
+            "content": "All Deployed Identities gain 2 Levels"
+        },
+        {
+            "id": "Choice_90109101",
+            "content": "All Deployed Identities gain 2 Levels"
+        },
+        {
+            "id": "Choice_90200502",
+            "content": "<color=#ebcaa2>O Pecador que falhou no teste sofre</color> <color=#e30000>15 HP</color> <color=#ebcaa2>de dano e</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>de dano!</color>"
+        },
+        {
+            "id": "Choice_LoseBattle",
+            "content": "<color=#ff0000>Em caso de derrota, não haverá recompensa</color> "
+        },
+        {
+            "id": "Choice_EGO901001",
+            "content": "Vença a batalha para receber as Bênçãos de E.G.O \"Sonho da Borboleta Infernal\" e \"Flor Ardente\""
+        },
+        {
+            "id": "Choice_EGO901002",
+            "content": "Win the battle to gain E.G.O Gifts \"Perversion\" & \"Awe\""
+        },
+        {
+            "id": "Choice_EGO901009",
+            "content": "Win the battle to gain E.G.O Gifts \"Fiery Down\" & \"Melted Paraffin\""
+        },
+        {
+            "id": "Choice_EGO901010",
+            "content": "Win the battle to gain E.G.O Gifts \"Bloody Gadget\" & \"Grandeur\""
+        },
+        {
+            "id": "Choice_EGO901011",
+            "content": "Win the battle to gain E.G.O Gifts \"Sunshower\" & \"Ragged Umbrella\""
+        },
+        {
+            "id": "Choice_EGO901013",
+            "content": "Vença a batalha para receber as Bênçãos de E.G.O \"Conjunto de Talismãs\" & \"Boneco Velho de Madeira\""
+        },
+        {
+            "id": "Choice_EGO901014",
+            "content": "Win the battle to gain E.G.O Gifts \"Rusty Commemorative Coin\" & \"Pain of Stifled Rage\""
+        },
+        {
+            "id": "Choice_EGO901016",
+            "content": "Win the battle to gain E.G.O Gifts \"Green Spirit\" & \"Sour Liquor Aroma\""
+        },
+        {
+            "id": "Choice_EGO901018",
+            "content": "Win the battle to gain E.G.O Gifts \"Crown of Roses\" & \"Respite\""
+        },
+        {
+            "id": "Choice_EGO901019",
+            "content": "Win the battle to gain E.G.O Gifts \"Sticky Muck\" & \"Bio-venom Vial\""
+        },
+        {
+            "id": "Choice_EGO901020",
+            "content": "Win the battle to gain E.G.O Gifts \"White Gossypium\" & \"Tangled Bundle\""
+        },
+        {
+            "id": "Choice_EGO901021",
+            "content": "Vença a batalha para receber as Bênçãos de E.G.O \"Isqueiro Zippo Azul\" & \"Lanterna de Patrulha\""
+        },
+        {
+            "id": "Choice_EGO901024",
+            "content": "Win the battle to gain E.G.O Gifts \"Melted Eyeball\" & \"Venomous Skin\""
+        },
+        {
+            "id": "Choice_EGO901031",
+            "content": "Win the battle to gain E.G.O Gifts \"Nixie Divergence\" & \"Clockwork Spring\""
+        },
+        {
+            "id": "Choice_EGO901033",
+            "content": "Win the battle to gain E.G.O Gifts \"Standard-duty Battery\" & \"Uncapped Defibrilator\""
+        },
+        {
+            "id": "Choice_EGO901034",
+            "content": "Vença a batalha para receber as Bênçãos de E.G.O \"Placa de Circuito Lógico\" & \"Sistema UPS\""
+        },
+        {
+            "id": "Choice_EGO901056",
+            "content": "Win the battle to gain E.G.O Gifts \"Four-leaf Clover\" & \"Emerald Elytra\""
+        },
+        {
+            "id": "Choice_EGO901059",
+            "content": "Win the battle to gain E.G.O Gifts \"Midwinter Nightmare\" & \"Eldtree Snare\""
+        },
+        {
+            "id": "Choice_EGO901073",
+            "content": "Win the battle to gain E.G.O Gifts \"Endorphin Kit\" & \"Fluorescent Lamp\""
+        },
+        {
+            "id": "Choice_EGO971029",
+            "content": "Win the battle to gain E.G.O Gifts \"E-Type Dimensional Dagger\" & \"Portable Barrier Battery\""
+        },
+        {
+            "id": "GetImmediateConfirmedEgogifts",
+            "content": "<color=#ebcaa2>E.G.O Gift {reward} obtained!</color>"
+        },
+        {
+            "id": "Choice_EGO901101",
+            "content": "Win the battle to gain E.G.O Gifts \"Miniature Telepole\""
+        },
+        {
+            "id": "Choice_EGO901104",
+            "content": "Win the battle to earn the E.G.O Gift \"Ruptured Blood Sac\""
+        },
+        {
+            "id": "Choice_EGO971054",
+            "content": "Win the battle to gain E.G.O Gift \"Swishing Fuel Tank\""
+        },
+        {
+            "id": "LoseMpOnlyUntilMin",
+            "content": "<color=#ebcaa2>Reduce</color> <color=#fe4b48>SP to minimum value for</color> <color=#ebcaa2>{conditions}{targets}</color>"
+        },
+        {
+            "id": "ReviveOutOfBattleAndRecoverHpAll",
+            "content": "Revive all dead Sinners and <color=#ebcaa2>heal</color> any surviving Sinners <color=#00ff9c>to max HP</color>"
+        },
+        {
+            "id": "RecoverRatioHpOnly",
+            "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount}% of max HP.</color>"
+        }
+    ]
+}
