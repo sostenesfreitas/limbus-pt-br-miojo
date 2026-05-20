@@ -1,0 +1,280 @@
+﻿{
+    "dataList": [
+        {
+            "id": "Walpu3_reward_button",
+            "content": "Missões"
+        },
+        {
+            "id": "Walpu3_story_theater_button",
+            "content": "Ao Cinema"
+        },
+        {
+            "id": "Walpu3_normal_stage",
+            "content": "Easy"
+        },
+        {
+            "id": "Walpu3_hard_stage",
+            "content": "Hard"
+        },
+        {
+            "id": "Walpu3_normal_stage_name",
+            "content": "The Fairies' Care"
+        },
+        {
+            "id": "Walpu3_hard_stage_name",
+            "content": "Predation"
+        },
+        {
+            "id": "Walpu3_normal_stage_desc",
+            "content": "As fadas protegem nossos funcionários. || Tudo será pacífico enquanto você estiver sob os cuidados das fadas."
+        },
+        {
+            "id": "Walpu3_hard_stage_desc",
+            "content": "Seu estômago e rosto foram arrancados, e seus olhos e órgãos foram danificados como se tivessem sido comidos por algo. || Enquanto isso, as fadas tinham sangue e carne de alguém espalhados pelas suas bocas."
+        },
+        {
+            "id": "Walpu3_hard_stage_unlock_condition",
+            "content": "Clear Easy Difficulty to Unlock"
+        },
+        {
+            "id": "EVENT_WALPU3_NORMAL",
+            "content": "Easy"
+        },
+        {
+            "id": "EVENT_WALPU3_HARD",
+            "content": "Hard"
+        },
+        {
+            "id": "missionConditionTitle_10009",
+            "content": "Complete Suppression of Fairy Festival"
+        },
+        {
+            "id": "missionConditionTitle_10010",
+            "content": "Complete Suppression of Fairy Festival within 10 turns"
+        },
+        {
+            "id": "missionConditionTitle_10011",
+            "content": "Complete Suppression without any ally deaths"
+        },
+        {
+            "id": "missionConditionTitle_10012",
+            "content": "Complete Suppression without any of the allies' SP dropping to -45 SP"
+        },
+        {
+            "id": "missionConditionTitle_10013",
+            "content": "Conclua a Supressão com a Bibliotecária da História sobrevivendo e levando menos de 10 acertos dos inimigos"
+        },
+        {
+            "id": "missionConditionTitle_10014",
+            "content": "Conclua a Supressão após quebrar ambos os Braços da Fada Rainha em um único Encontro"
+        },
+        {
+            "id": "missionConditionTitle_10015",
+            "content": "Complete Suppression without the Fairy Queen defeating any of the Fairy Masses"
+        },
+        {
+            "id": "missionConditionTitle_10016",
+            "content": "Let Fairy Queen defeat a Fairy Mass in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_10017",
+            "content": "Let Fairy Queen defeat a Fairy Mass in the first turn of a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_10018",
+            "content": "Inflict X+ Potency of (Burn, Bleed, Rupture, or Sinking) to a single Abnormality"
+        },
+        {
+            "id": "missionConditionTitle_10019",
+            "content": "Defeat an Abnormality with Burn, Bleed, Rupture, or Sinking damage in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_10020",
+            "content": "Defeat the Fairy Queen with Burn, Bleed, Rupture, or Sinking damage in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_20009",
+            "content": "Complete Suppression of Fairy Festival"
+        },
+        {
+            "id": "missionConditionTitle_20010",
+            "content": "Complete Suppression of Fairy Festival within 10 turns"
+        },
+        {
+            "id": "missionConditionTitle_20011",
+            "content": "Complete Suppression without any ally deaths"
+        },
+        {
+            "id": "missionConditionTitle_20012",
+            "content": "Complete Suppression without any of the allies' SP dropping to -45 SP"
+        },
+        {
+            "id": "missionConditionTitle_20013",
+            "content": "Conclua a Supressão com a Bibliotecária da História sobrevivendo e levando menos de 5 acertos dos inimigos"
+        },
+        {
+            "id": "missionConditionTitle_20014",
+            "content": "Conclua a Supressão após quebrar ambos os Braços da Fada Rainha em um único Encontro"
+        },
+        {
+            "id": "missionConditionTitle_20015",
+            "content": "Complete Suppression without the Fairy Queen defeating any of the Fairy Masses"
+        },
+        {
+            "id": "missionConditionTitle_20016",
+            "content": "Let Fairy Queen defeat a Fairy Mass in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_20017",
+            "content": "Let Fairy Queen defeat X+ Fairy Mass within a single turn of a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_20018",
+            "content": "Inflict X+ Potency of (Burn, Bleed, Rupture, or Sinking) to a single Abnormality"
+        },
+        {
+            "id": "missionConditionTitle_20019",
+            "content": "Defeat an Abnormality with Burn, Bleed, Rupture, or Sinking damage in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_20020",
+            "content": "Defeat the Fairy Queen with Burn, Bleed, Rupture, or Sinking damage in a single Encounter"
+        },
+        {
+            "id": "missionConditionTitle_20021",
+            "content": "Librarian of History defeats X+ Abnormalities with a single Attack Skill"
+        },
+        {
+            "id": "missionConditionTitle_30002",
+            "content": "Complete todas as Missões das dificuldades Fácil e Difícil"
+        },
+        {
+            "id": "walpu3_reward_event_desc",
+            "content": "Suprima o Festival das Fadas nas dificuldades 'Fácil' e 'Difícil' e complete as missões. ||  || Ganhe várias recompensas concluindo essas missões."
+        },
+        {
+            "id": "walpu3_reward_normal_tab",
+            "content": "Easy"
+        },
+        {
+            "id": "walpu3_reward_hard_tab",
+            "content": "Hard"
+        },
+        {
+            "id": "walpu3_modal_yes",
+            "content": "Yes"
+        },
+        {
+            "id": "walpu3_modal_no",
+            "content": "No"
+        },
+        {
+            "id": "walpu_modal_enterStage_10555",
+            "content": "Will you enter the book of Fairy Festival?"
+        },
+        {
+            "id": "walpu_modal_enterStage_10556",
+            "content": "Will you enter the book of Fairy Festival?"
+        },
+        {
+            "id": "walpu_battle_turn",
+            "content": "Scene {0}"
+        },
+        {
+            "id": "walpu_battle_1_wave",
+            "content": "Floor of History - Act {0}"
+        },
+        {
+            "id": "walpu_battle_name_10555",
+            "content": "Festival das Fadas"
+        },
+        {
+            "id": "walpu_battle_name_10556",
+            "content": "Festival das Fadas"
+        },
+        {
+            "id": "walpu_battle_name_10557",
+            "content": "Festival das Fadas"
+        },
+        {
+            "id": "walpu_battle_result_win",
+            "content": "Suppression of {0} Complete"
+        },
+        {
+            "id": "walpu_battle_result_lose",
+            "content": "Suppression of {0} Failed"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_01_title",
+            "content": "The 3rd Walpurgis Night - Into a Certain Library's Book"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_01_title_01",
+            "content": "The 3rd Walpurgis Night - Into a Certain Library's Book"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_01_desc_01",
+            "content": "[A 3ª Noite de Walpurgis - Para Dentro do Livro de Certa Biblioteca] desbloqueia independentemente do seu progresso na História Principal. Entre pelo estandarte do evento nas abas Janela ou Driverside."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_02_title_01",
+            "content": "Event Period"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_02_desc_01",
+            "content": "A duração do evento A 3ª Noite de Walpurgis - Para Dentro do Livro de Certa Biblioteca é mostrada aqui. Durante o evento, complete Missões dos Encontros de evento nas dificuldades Fácil e Difícil e resgate suas recompensas."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_03_title_01",
+            "content": "Easy Difficulty Encounter"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_03_desc_01",
+            "content": "Selecione a porta para começar o Encontro de dificuldade Fácil. || Durante o período do Evento da 3ª Noite de Walpurgis, o Encontro consome um Módulo de Enkephalin ao entrar. || Na dificuldade Fácil, quaisquer Identidades Implantadas abaixo do Nível 45 serão elevadas ao Nível 45. || Também, quaisquer Identidades Implantadas abaixo do Nível de Aperfeiçoamento 3 serão elevadas ao Nível de Aperfeiçoamento 3. || Contudo, seus Níveis de Tecimento de Fio E.G.O atuais serão refletidos."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_03_title_02",
+            "content": "Hard Difficulty Encounter"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_03_desc_02",
+            "content": "Concluir o Encontro de dificuldade Fácil desbloqueia a dificuldade Difícil. || Na dificuldade Difícil, os Níveis atuais, Níveis de Aperfeiçoamento e Níveis de Tecimento de Fio E.G.O das suas Identidades serão refletidos."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_04_title_01",
+            "content": "Librarian of History Effect"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_04_desc_01",
+            "content": "O Pecador #1 a ser Implantado no menu de Equipes será imbuído do efeito 'Bibliotecária da História'. Os efeitos de 'Bibliotecária da História' diferem entre as dificuldades Fácil/Difícil. O Pecador imbuído deste efeito ganhará mais Slots e vários outros efeitos benéficos."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_05_title_01",
+            "content": "Missões"
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_05_desc_01",
+            "content": "Você pode entrar na página [Missões], onde pode ver a lista de Missões a serem completadas durante o Encontro e suas recompensas. "
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_06_desc_01",
+            "content": "Você pode ver o período de Troca de Recompensas na página [Missões]."
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_06_desc_02",
+            "content": "As dificuldades Fácil e Difícil cada uma tem conjuntos diferentes de Missões a completar. "
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_06_desc_03",
+            "content": "Complete essas Missões e resgate várias recompensas na página [Missões]. "
+        },
+        {
+            "id": "tutorial_mainui_27_walpu3_07_desc_01",
+            "content": "Mesmo após o evento terminar completamente, você poderá experimentar os Encontros de combate de 'A 3ª Noite de Walpurgis - Para Dentro do Livro de Certa Biblioteca' e ver sua história a qualquer momento no Driverside e Teatro - [Contos de Desvio]."
+        },
+        {
+            "id": "walpu3_not_progress_event_date",
+            "content": "Event Closed"
+        }
+    ]
+}
