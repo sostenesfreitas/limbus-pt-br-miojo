@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10313_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Ye jest, surely... how can ye speak of heat...? By my troth, *groan* I could perish of cold this very moment... Achoo!"
+        },
+        {
+            "id": "lobby_morning_10313_1",
+            "desc": "Morning Greeting",
+            "dlg": "Sabeis disto, por acaso...? Embora o escuro da noite seja frio... *tremor* É justamente neste instante em que rompe a primeira luz, que a friagem está mais feroz... Eu esperava que já se aquecesse, mas ai! *gemido*"
+        },
+        {
+            "id": "lobby_noon_10313_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Por que cada loja por aqui só vende comida fria? ... Aaah! Aquele aroma, pode ser...?! Mesmo nesta estação e neste tempo, um vendedor de pão-de-baleia faz comércio! M-m-moeda, moeda... Olá, amigo... Tens alguma moeda de sobra, por acaso?"
+        },
+        {
+            "id": "lobby_night_10313_1",
+            "desc": "Evening Greeting",
+            "dlg": "Nngh... o ar noturno gela até os ossos... Em momentos assim, nada supera enroscar-se sob um cobertor quentinho e cair no sono... Aaah... preciso mesmo sair...? M-muito bem... eu vou me preparar... || Mas este cobertor foi aquecido a tal perfeição... Imploro, mais 5 minutinhos... podemos demorar um tantinho?"
+        },
+        {
+            "id": "smalltalk_10313_1",
+            "desc": "Conversa #1",
+            "dlg": "Ouvi-me. Em dias passados, eu também atravessei terras longínquas. Vi vistas jamais vistas... e enfrentei feras das mais temíveis... || Nngh! Desde que a Pílula Wei impôs estes chifres sobre mim, com frequência encontro minha mente embotada — como tive eu alguma vez tal ânimo para feitos assim?"
+        },
+        {
+            "id": "smalltalk_10313_2",
+            "desc": "Conversa #2",
+            "dlg": "Nosso valor jaz em despedaçar tudo o que bloqueia o caminho à frente, *suspiro* mas ai, quem entre nós poderia realizar tão amedrontador labor com a mente sã? Quando nosso senhor de nós precisa, ele puxa firme a coleira. Então, em verdade, uma inquietação aflita se apodera, como se algum fardo invisível nos impelisse adiante... e nada parece mais aterrador."
+        },
+        {
+            "id": "smalltalk_10313_3",
+            "desc": "Conversa #3",
+            "dlg": "... Eep?! D-desculpe-me... Sempre que minha mente divaga, sou tomado pelo impulso de chifrar o que estiver por perto... Imploro, tenho um favor a vos pedir. Poderíeis buscar-me um saco recheado de palha? || E-este meu hábito... uma vez começado, é quase impossível parar... Eu preferiria não vos chifrar, para que vossa canela não se quebre. I-imploro, fazei pressa!"
+        },
+        {
+            "id": "smalltalk_10313_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Um arrepio... sobe-me as costas... Apressai-vos...! Devemos romper suas fileiras e avançar! Vinde! Avante, Chifres Aríetes (衝破角)!"
+        },
+        {
+            "id": "smalltalk_10313_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Haah... Meus olhos com frequência se embotam em meio ao calor da batalha. Sede avisados e não vos debatais assim diante de mim, para que eu, peradventura, não falhe em resistir ao impulso de vos chifrar!"
+        },
+        {
+            "id": "neglect_10313_1",
+            "desc": "Idle",
+            "dlg": "Olá, vós... Para onde fostes...? Nngh... Estar sozinho, sem companhia, me aflige... Rocinante...? Imploro, tece agora um conto dos mais maravilhosos, para que meu coração encontre alento..."
+        },
+        {
+            "id": "gacksung_10313_1",
+            "desc": "Enlaçamento",
+            "dlg": "Não recueis, eu digo! || Lá, avançai! O rebanho de ovelhas há de quebrar e despedaçar tudo o que vos antepõe!"
+        },
+        {
+            "id": "formation_10313_1",
+            "desc": "Deployment",
+            "dlg": "Hmm, time for the Wei to join the fray... *groan* 'tis cold..."
+        },
+        {
+            "id": "battleentry_10313_1",
+            "desc": "Stage Entry",
+            "dlg": "Whew... Let us go forth!"
+        },
+        {
+            "id": "battle_select_10313_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Charge!!"
+        },
+        {
+            "id": "battle_endcommand_10313_1",
+            "desc": "Commencing Attack",
+            "dlg": "Topple them ere the battle is afoot!"
+        },
+        {
+            "id": "battle_enemy_break_10313_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Não retine teu crânio por dentro?"
+        },
+        {
+            "id": "battle_break_10313_1",
+            "desc": "Staggered",
+            "dlg": "Hrrk...!"
+        },
+        {
+            "id": "battle_kill_10313_1",
+            "desc": "Enemy Killed",
+            "dlg": "Down they crumble!"
+        },
+        {
+            "id": "battle_dead_10313_1",
+            "desc": "Death",
+            "dlg": "Gah?! Aah... Is... is this... mine end?"
+        },
+        {
+            "id": "choice_success_p_10313_2",
+            "desc": "Check Passed",
+            "dlg": "Oh... W-was that... a success, perchance?"
+        },
+        {
+            "id": "choice_fail_n_10313_1",
+            "desc": "Check Failed",
+            "dlg": "Eeek?! F-f-forgive me...!"
+        },
+        {
+            "id": "battle_clear_10313_1",
+            "desc": "Victory Cry",
+            "dlg": "*ofegante* *ofegante* É seguro parar aqui? E-existem ainda mais em meus calcanhares...? Ufa, meus ombros doem terrivelmente... Vejamos... Olhai! Parece que varri estes miseráveis!"
+        },
+        {
+            "id": "battle_clear_ex_10313_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Ouvi, meu próprio rebanho! Não vos demoreis em vossos rastros, para que as mandíbulas de nossos inimigos não se fechem sobre nós! Confiai em vossos poderosos chifres, e avançai!"
+        },
+        {
+            "id": "battle_defeat_10313_1",
+            "desc": "Defeat Wail",
+            "dlg": "Dize... Minha visão ainda não retornou. Aqueles corpos empilhados ali são os mortos de nossos inimigos, ou...? || Ah, entendo. É... uma coisa grave e terrível, em verdade..."
+        }
+    ]
+}

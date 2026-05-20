@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10812_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Nenhuma flor jamais suporta a queda... ou assim dizem. Hongyuan certamente não mudou nem um pouco. Exceto pelas estradas, eu suponho."
+        },
+        {
+            "id": "lobby_morning_10812_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Que noite louca... Estou quase surpresa de te ver no sol esta manhã, ileso. Deve ter tido sorte. || Mas é melhor manter a guarda alta. Luz do sol não é grande dissuasor para assassinos."
+        },
+        {
+            "id": "lobby_noon_10812_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Boas maneiras se aprendem quando os celeiros estão abundantes. Vamos não gastar dinheiro com comida, tá? O moral e a saúde do meu clã são mais importantes que isso."
+        },
+        {
+            "id": "lobby_night_10812_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Aaah... escuridão total, é? A gente provavelmente deve dar adeus ao sono decente daqui pra frente. Imagino quantos 'convidados' não-convidados teremos hoje à noite."
+        },
+        {
+            "id": "smalltalk_10812_1",
+            "desc": "Conversa #1",
+            "dlg": "Eu sou Ishmael da família Jia, candidata ao assento de Patriarca da Família de Hongyuan. Encontrei minha pista, e retornei a Hongyuan. Uh... o que... como assim, isso é estranho...? || ... É, não. Não há nada de estranho nisso. Claro que sou Jia, fui nascida e criada pela família Jia."
+        },
+        {
+            "id": "smalltalk_10812_2",
+            "desc": "Conversa #2",
+            "dlg": "Eles nem piscam pra oferendas medíocres, mas... águas do rio Lethe certamente vão atrair a atenção até da venerável Jia Mu. || Tenho quase certeza de que sou a única candidata que trouxe algo de um rio do lugar profundo."
+        },
+        {
+            "id": "smalltalk_10812_3",
+            "desc": "Conversa #3",
+            "dlg": "Minha motivação para querer me tornar Patriarca da Família? Bem isso é... eu... hm. Honestamente, nunca pensei muito a respeito. Mas é o que todo mundo e os anciãos da família querem? Porque sou uma criança da família Jia? || Bom, com sorte vou descobrir antes que a Avaliação termine. Minha motivação, separada da da família."
+        },
+        {
+            "id": "smalltalk_10812_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Tenho ouvido essas canções estranhas dos Becos... Suponho que não demore até ele retornar. || Só espero não ter que cruzar com ele, mas... é inevitável que cheguemos às vias de fato cedo ou tarde."
+        },
+        {
+            "id": "smalltalk_10812_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Os Bandos Heishou seriam mãos muito, muito poderosas na Avaliação de Patriarca da Família, mas... eu realmente não tenho patrocinadores, o que significa que só segurei a coleira deles duas vezes na minha vida. || A primeira vez, abri mão das minhas coleiras para libertar ■■ ■■■■. E a outra vez, bem... perdi por causa de algum idiota de uma família diferente."
+        },
+        {
+            "id": "gacksung_10812_1",
+            "desc": "Enlaçamento",
+            "dlg": "Nem teve a cortesia de aparecer no meu banquete, mas agora você está aqui... no meu Nuanxiangwu. Coçando pra ter uma chance de cortar minha cabeça, hein?"
+        },
+        {
+            "id": "neglect_10812_1",
+            "desc": "Inativo",
+            "dlg": "... Se tem algo a dizer, diga. Não fique aí parado vagando."
+        },
+        {
+            "id": "formation_10812_1",
+            "desc": "Envio",
+            "dlg": "Hm. Good eye. I'm a rare talent around here, you know?"
+        },
+        {
+            "id": "battleentry_10812_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Hooh... I just need to do exactly as I prepared..."
+        },
+        {
+            "id": "battle_select_10812_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Please, I don't need any unnecessary fussing. I prefer the silence."
+        },
+        {
+            "id": "battle_endcommand_10812_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Vamos eliminar todos eles. Não há necessidade de desperdiçar nosso tempo aqui."
+        },
+        {
+            "id": "battle_enemy_break_10812_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Hmph. You're open!"
+        },
+        {
+            "id": "battle_break_10812_1",
+            "desc": "Atordoado",
+            "dlg": "Agh! What the hell—"
+        },
+        {
+            "id": "battle_kill_10812_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Nice try."
+        },
+        {
+            "id": "battle_dead_10812_1",
+            "desc": "Morte",
+            "dlg": "What a... short-lived spring this is..."
+        },
+        {
+            "id": "choice_success_p_10812_2",
+            "desc": "Passou no Teste",
+            "dlg": "This is easier than pulling something from my pocket."
+        },
+        {
+            "id": "choice_fail_n_10812_1",
+            "desc": "Falha no Teste",
+            "dlg": "... Wait, let me try that again. Come on, I said let me try that again!"
+        },
+        {
+            "id": "battle_clear_10812_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Eu não teria participado da Avaliação de Patriarca da Família se fosse alguém que deixasse essa pequena vitória subir à cabeça. || Bem... por que não me ajuda um pouco mais? Vou dobrar, triplicar, quintuplicar suas recompensas se eu me tornar a próxima Patriarca."
+        },
+        {
+            "id": "battle_clear_ex_10812_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Hã, não pensei que seria tão fácil. Acho que posso me dar ao luxo de ser um pouco mais generosa com os bônus do meu clã hoje... Ei, é pra isso que serve o dinheiro. Pra celebrar boas notícias."
+        },
+        {
+            "id": "battle_defeat_10812_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "... Meu clã... destruído...? Eles nem... tiveram chance... Haah, é... ngh, não é nada. A culpa é toda minha. Eu... devia ter me preparado melhor."
+        }
+    ]
+}

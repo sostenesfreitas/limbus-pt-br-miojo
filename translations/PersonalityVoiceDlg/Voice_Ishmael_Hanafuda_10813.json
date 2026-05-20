@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10813_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Sabe o que dizem — às vezes na vida, você tem que parar e cheirar as flores. Há, pena que as pessoas com quem a gente lida acabam empurrando margaridas."
+        },
+        {
+            "id": "lobby_morning_10813_1",
+            "desc": "Morning Greeting",
+            "dlg": "Sei que é uma pergunta estranha pra alguém trabalhando nessa linha de negócio, mas... eu me pergunto como eles se bancam? Tô falando de jogadores como aqueles caras ali, com a bunda parada em casas de jogo dia e noite. || ... Bom, acho que isso explica por que passam a maior parte dos dias correndo atrás daquela única vitória que muda a vida antes que gente como nós lide com eles."
+        },
+        {
+            "id": "lobby_noon_10813_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "Jogos jogados com qualquer um daqueles baralhos de flores — Hwatu, Hanafuda — são nossa especialidade. Procure especialistas diferentes se está atrás de alguém pra observar jogos com outras coisas, tipo pôquer ou mahjong. || Bem, suponho que <i>poderíamos</i> aceitar seu contrato pra esses jogos também, mas... é senso comum ter um especialista presente em jogos de high-roller. Mesmo que você esteja só jogando ddakji com esses caras..."
+        },
+        {
+            "id": "lobby_night_10813_1",
+            "desc": "Evening Greeting",
+            "dlg": "Ei, o que tá fazendo perambulando por aqui à noite? Não se mete em encrenca e vai pra algum lugar mais seguro — tá tipo um barril de pólvora aqui agora. || E especialmente fica longe daqueles dois ali, tá? É, aquele cara com olhos mortos, e aquele ali que acabou de ter uma mão cortada."
+        },
+        {
+            "id": "smalltalk_10813_1",
+            "desc": "Conversa #1",
+            "dlg": "Se você sente que tá numa onda de sorte boa demais pra ser verdade... talvez queira pausar e ver se é você o \"trouxa\" daquele jogo."
+        },
+        {
+            "id": "smalltalk_10813_2",
+            "desc": "Conversa #2",
+            "dlg": "Bem, você conhece o tipo. Pessoas que acusam adversários de trapaça porque não admitem que perderam... Sabe, mau perdedor. O serviço do nosso Escritório geralmente envolve garantir que não causem confusão. || É, meio que como a Öufi supervisiona contratos... Que é por que estamos trabalhando sob o guarda-chuva deles, eu suponho."
+        },
+        {
+            "id": "smalltalk_10813_3",
+            "desc": "Conversa #3",
+            "dlg": "Um dia, eu gostaria de supervisionar um jogo de Diamante Azul que acontece lá em cima no último andar. Sabe, os jogos de Diamante onde só os high-rollers de mais alto nível participam. Claro, um bom pagamento é legal, mas... às vezes, não é só pelo dinheiro. || É que neste negócio, não há melhor reconhecimento da minha carreira do que ser chamada para supervisionar um jogo que só emprega os melhores."
+        },
+        {
+            "id": "smalltalk_10813_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Tive um pressentimento que esse jogo não ia perder tempo virando merda. Beleza, você! Para aí mesmo. Qualquer um que tente sair desta mesa, tocar numa carta, ou até mesmo espirrar... eu corto suas mãos."
+        },
+        {
+            "id": "smalltalk_10813_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "\"Baixo de Noite, Alto de Dia.\" Para jogos noturnos, o menor saque vai primeiro; para jogos diurnos, o maior saque. A gente ficou nessa mesa o amanhecer inteiro, pessoal. Por que ainda estamos discutindo isso? Você perdeu, então pare de discutir e cuspa. || Ah, a propósito... segundo as regras deste jogo observadas por nós, você também pode escolher cuspir suas tripas. Me avise se precisar de uma faca."
+        },
+        {
+            "id": "gacksung_10813_1",
+            "desc": "Enlaçamento",
+            "dlg": "Não. A carta tá aberta... não tem desistência uma vez que a sorte foi lançada. Não importa quão ferrado você esteja."
+        },
+        {
+            "id": "neglect_10813_1",
+            "desc": "Idle",
+            "dlg": "... *whistle* Gokō? Hard to believe that wasn't a sleight of hand."
+        },
+        {
+            "id": "formation_10813_1",
+            "desc": "Deployment",
+            "dlg": "Vamos sair. A gente vai como observadores num jogo de Hwatu pra esse contrato?"
+        },
+        {
+            "id": "battleentry_10813_1",
+            "desc": "Stage Entry",
+            "dlg": "Alright, bets on the table."
+        },
+        {
+            "id": "battle_select_10813_1",
+            "desc": "Viewed in Battle",
+            "dlg": "I'm already carrying out my duties as an observer. Chatting me up is a rule violation."
+        },
+        {
+            "id": "battle_endcommand_10813_1",
+            "desc": "Commencing Attack",
+            "dlg": "Hey now, that makes a matching hand!"
+        },
+        {
+            "id": "battle_enemy_break_10813_1",
+            "desc": "Enemy Stagger",
+            "dlg": "Let's go! Koi-koi!"
+        },
+        {
+            "id": "battle_break_10813_1",
+            "desc": "Staggered",
+            "dlg": "What a shitty hand..."
+        },
+        {
+            "id": "battle_kill_10813_1",
+            "desc": "Enemy Killed",
+            "dlg": "Hmpf. Você foi all-in, né?"
+        },
+        {
+            "id": "battle_dead_10813_1",
+            "desc": "Death",
+            "dlg": "Never thought I'd be cornered like this..."
+        },
+        {
+            "id": "choice_success_p_10813_2",
+            "desc": "Check Passed",
+            "dlg": "Hmm. Jangttaeng."
+        },
+        {
+            "id": "choice_fail_n_10813_1",
+            "desc": "Check Failed",
+            "dlg": "... Mangtong? Shit, that's the worst possible hand..."
+        },
+        {
+            "id": "battle_clear_10813_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Você não podia ter só curtido o jogo sem perder a cabeça? Sério, você só tem a si mesmo pra culpar por essa bagunça... *suspiro* Estas notas serão processadas segundo as regras do jogo observadas pelo nosso grupo. Eu devia ter aumentado a parte do observador para dinheiro não reclamado no contrato... Se eu soubesse."
+        },
+        {
+            "id": "battle_clear_ex_10813_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Agora vejo por que nos contrataram pra toda a casa de jogo... Esse buraco é cheio de trapaceiros dando carta por baixo. Ufa... a gente deve estar tranquilo pelo próximo mês mesmo se não pegar um único contrato. Caraca, sim."
+        },
+        {
+            "id": "battle_defeat_10813_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Acho que vou... passar essa rodada. Não dá pra terminar o contrato se eu tiver muito morta pra cumpri-lo, certo? Há, tenho que pedir reforços do escritório."
+        }
+    ]
+}

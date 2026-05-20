@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10215_1",
+            "desc": "Identity Acquisition",
+            "dlg": "Acordou, Fáscia? Faust estava esperando — há uma nova amiga que Faust quer apresentar a Fáscia. || Como acha? Que esplêndido pedaço de corpus nossa nova amiga tem, não?"
+        },
+        {
+            "id": "lobby_morning_10215_1",
+            "desc": "Morning Greeting",
+            "dlg": "Fascia is a sleepyhead. Please refrain from visiting Faust in the early hours."
+        },
+        {
+            "id": "lobby_noon_10215_1",
+            "desc": "Afternoon Greeting",
+            "dlg": "A sessão de crítica foi cancelada — agora resta algum tempo. Como propõe que passemos este lazer de modo mais criativo, Fáscia? || Hmm... Sim. *risadinha* Faust concorda."
+        },
+        {
+            "id": "lobby_night_10215_1",
+            "desc": "Evening Greeting",
+            "dlg": "Quando a luz do sol desvanece e a intensidade luminosa diminui, novas ideias, libertas das renderizações prévias, começam a se articular. É um momento em que órgãos vermelho-vivo se dessaturam em marrom terroso, e sua tridimensionalidade, liberada do claro-escuro, retorna a um estado de neutralidade sem mediação... || Ah, claro...! O trabalho nunca foi sobre emendar a obra, mas a própria luz!"
+        },
+        {
+            "id": "smalltalk_10215_1",
+            "desc": "Chatter #1",
+            "dlg": "Um prazer. Estaria disposto a passar algum tempo nos conhecendo? Certamente não será muito difícil tornar-se amigo — mesmo para aqueles que não são gênios como Faust. É tão simples quanto compartilhar as coisas que amamos, nossos hobbies, nossos sonhos... sim, tais coisas devem bastar. || Ah, mas preferencialmente, algo que exclua histórias de Solucionadores e os Prescripts. Houve uma sobrecarga de tal conversa."
+        },
+        {
+            "id": "smalltalk_10215_2",
+            "desc": "Chatter #2",
+            "dlg": "Se não for muito problema, poderia presentear Faust com um pedaço do seu cérebro? Amigos devem trocar presentes, não? Faust deseja dar a Fáscia um sabor fresco de um cérebro desconhecido, sabe. Ela já provou algumas fatias do próprio cérebro de Faust, e cortar mais arriscaria perder Faust... Por favor, sua generosidade seria muito bem-vinda."
+        },
+        {
+            "id": "smalltalk_10215_3",
+            "desc": "Chatter #3",
+            "dlg": "A estética se preocupa inteiramente com o visível, contudo essa familiaridade evidente frequentemente convida à negligência que ignora a significância inerente do que é visto. || É por isso que Faust forjou esta couraça. Não meramente para prover um véu atrás do qual a tímida Fáscia possa residir, mas também para encenar uma estética dupla: a inércia pesada do corpo armado contra a bela leveza..."
+        },
+        {
+            "id": "smalltalk_10215_4",
+            "desc": "Post-Uptie Chat 1",
+            "dlg": "Pois bem, vamos aprofundar nossa amizade um passo a mais? Examinemos juntas a arte da anatomização enquanto você critica a montagem que forma meu corpo. Uma avaliação cândida e imparcial seria muito bem-vinda — Faust está ansiosa para identificar áreas para refinamento adicional."
+        },
+        {
+            "id": "smalltalk_10215_5",
+            "desc": "Post-Uptie Chat 2",
+            "dlg": "Deixe a cadência de seu coração se elevar, Fáscia. Conforme seu sangue acelera, também a fome. || Hoje é um dia que pede um banquete. Por favor, coma — não há necessidade de se conter. Engorde com cada peça de corpus consumida. Tal excesso a elevará a uma composição mais bela."
+        },
+        {
+            "id": "neglect_10215_1",
+            "desc": "Idle",
+            "dlg": "... Fascia needs rest. Perhaps Faust does, too."
+        },
+        {
+            "id": "gacksung_10215_1",
+            "desc": "Uptying",
+            "dlg": "Concentre seus ouvidos e ouça. Ouça o batimento cardíaco da Fáscia... esse som pulsante de vida!"
+        },
+        {
+            "id": "formation_10215_1",
+            "desc": "Deployment",
+            "dlg": "This quivering... Are you excited too, Fascia?"
+        },
+        {
+            "id": "battleentry_10215_1",
+            "desc": "Stage Entry",
+            "dlg": "A critique salon! Exhilarating prospect."
+        },
+        {
+            "id": "battle_select_10215_1",
+            "desc": "Viewed in Battle",
+            "dlg": "Por favor, observe à distância — é apenas para apreciação visual."
+        },
+        {
+            "id": "battle_endcommand_10215_1",
+            "desc": "Commencing Attack",
+            "dlg": "A spark of inspiration."
+        },
+        {
+            "id": "battle_enemy_break_10215_1",
+            "desc": "Enemy Stagger",
+            "dlg": "These blood vessels are sufficiently thick. Not bad at all."
+        },
+        {
+            "id": "battle_break_10215_1",
+            "desc": "Staggered",
+            "dlg": "Are you afraid, Fascia?"
+        },
+        {
+            "id": "battle_kill_10215_1",
+            "desc": "Enemy Killed",
+            "dlg": "Só agora nos tornamos amigas."
+        },
+        {
+            "id": "battle_dead_10215_1",
+            "desc": "Death",
+            "dlg": "Fa... scia..."
+        },
+        {
+            "id": "choice_success_p_10215_2",
+            "desc": "Check Passed",
+            "dlg": "Che bello. Exquisite."
+        },
+        {
+            "id": "choice_fail_n_10215_1",
+            "desc": "Check Failed",
+            "dlg": "Non è bello. Devoid of beauty."
+        },
+        {
+            "id": "battle_clear_10215_1",
+            "desc": "Victory Cry",
+            "dlg": "A obra é, no máximo, uma aprovação limítrofe; contudo, a sessão de crítica desta vez não rendeu nem melhoria nem insight para refinamento adicional. Fáscia está ansiosa para alcançar a completude... || Talvez seja mais frutífero retornar e trabalhar em peças práticas entre corpus embalsamados."
+        },
+        {
+            "id": "battle_clear_ex_10215_1",
+            "desc": "Extra Conditions Fulfilled",
+            "dlg": "Por fim, Faust completou a obra-prima que mesmo o Maestro não terá escolha senão aprovar. || *risadinha* Oh, Fáscia também concorda com Faust."
+        },
+        {
+            "id": "battle_defeat_10215_1",
+            "desc": "Defeat Wail",
+            "dlg": "Faust apenas desejava ser sua amiga... É aqui que as cortinas se fecham sobre a arte de Faust? || Ah... Desculpe, Fáscia... Faust estava com muita pressa..."
+        }
+    ]
+}

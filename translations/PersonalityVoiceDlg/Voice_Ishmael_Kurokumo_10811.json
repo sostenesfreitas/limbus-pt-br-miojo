@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10811_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "I would like to ask you to save business until later. I'd like to clean my blade in peace."
+        },
+        {
+            "id": "lobby_morning_10811_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Bom dia. Meio ocupada, no entanto... Hoje, temos a reunião do Sindicato pra participar e pagamentos a fazer pro Polegar. || Aff, minha cabeça começou a doer, tendo que lidar com agenda além das minhas outras responsabilidades. Acho que isso é o que eu ganho por ter sido empurrada pra essa posição na última hora."
+        },
+        {
+            "id": "lobby_noon_10811_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Ah... é, o ex-Capitão costumava gostar de almoçar com os subordinados de vez em quando. Eu não, porque eu não concordo muito com essa filosofia. || É exaustivo eu ter que lidar com eles, pra começar."
+        },
+        {
+            "id": "lobby_night_10811_1",
+            "desc": "Saudação Noturna",
+            "dlg": "Se você não tem nada melhor pra fazer, para de perambular por aqui e move essa bun— oh. Desculpa, achei que fosse um dos meus subordinados. || Quando eles ficam bêbados e fazem bagunça, pode ser uma dor de cabeça lidar com isso. Especialmente quando já estou atolada de trabalho..."
+        },
+        {
+            "id": "smalltalk_10811_1",
+            "desc": "Conversa #1",
+            "dlg": "Kokuuntō... não pensei que receberia tão logo. A última coisa que ouvimos do nosso ex-Capitão é que foi arrastada pra alguma Biblioteca ou algo do tipo, e... está sumida desde então. Então... || Bem, suponho que o Patriarca também percebeu que o assento de Capitão não devia ficar vago por muito tempo. Faz sentido ele ter pressa em preencher rápido."
+        },
+        {
+            "id": "smalltalk_10811_2",
+            "desc": "Conversa #2",
+            "dlg": "Nosso Patriarca, ele... bem, ele tá velho agora e teve que substituir um dos pulsos por uma prótese, mas ele já foi alguém, sabe? Uma das Dez Lâminas do Oriente. || É um velho bem alegre, mas quando fica sério... posso sentir o arrepio descer pela espinha só de olhar pra ele."
+        },
+        {
+            "id": "smalltalk_10811_3",
+            "desc": "Conversa #3",
+            "dlg": "Aaah... isso é o fundo do poço. Nem chego a desembainhar minha lâmina com frequência a menos que seja por algo importante, e sempre tenho que ficar de babá dos meus subordinados. || Sinto saudade dos bons tempos, cortando as línguas dos desgraçados que se achavam o último biscoito do pacote..."
+        },
+        {
+            "id": "smalltalk_10811_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Por favor me diga que você não me envolveu nessa bagunça só pra lidar com esses peixinhos. Isso não é uma briga de rua, sacou? Isto é um Confronto de Sindicato. Então... || ... você deve entender que eu não posso deixar isso passar sem ver a cara do seu chefe."
+        },
+        {
+            "id": "smalltalk_10811_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Você devia se familiarizar com as regras dos Becos. E as regras não toleram pessoas tentando se safar com lábia. ...Tá meio irritante agora que penso nisso. Vou levar seu braço também. || ... Ah, eita. Acho que os hábitos do ex-Capitão estão pegando em mim."
+        },
+        {
+            "id": "gacksung_10811_1",
+            "desc": "Enlaçamento",
+            "dlg": "Meu nome é Ishmael, trigésima quarta Capitã do Clã Kurokumo... E aceito o seu desafio de Confronto."
+        },
+        {
+            "id": "neglect_10811_1",
+            "desc": "Inativo",
+            "dlg": "Stop hesitating and say it straight. You're starting to get on my nerves."
+        },
+        {
+            "id": "formation_10811_1",
+            "desc": "Envio",
+            "dlg": "You want <i>me</i> to make a move?"
+        },
+        {
+            "id": "battleentry_10811_1",
+            "desc": "Entrada na Fase",
+            "dlg": "Nice."
+        },
+        {
+            "id": "battle_select_10811_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Anything left to say?"
+        },
+        {
+            "id": "battle_endcommand_10811_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Here I go."
+        },
+        {
+            "id": "battle_enemy_break_10811_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Ué, não sabia? Você já foi cortado."
+        },
+        {
+            "id": "battle_break_10811_1",
+            "desc": "Atordoado",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10811_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Como você está me acompanhando tão bem...?"
+        },
+        {
+            "id": "battle_dead_10811_1",
+            "desc": "Morte",
+            "dlg": "... Kuh. Então é aqui... que a trigésima quarta Capitã cai..."
+        },
+        {
+            "id": "choice_success_p_10811_2",
+            "desc": "Passou no Teste",
+            "dlg": "Hah. Are you running short on people to do these chores?"
+        },
+        {
+            "id": "choice_fail_n_10811_1",
+            "desc": "Falha no Teste",
+            "dlg": "... These cleanups are underlings' jobs anyway."
+        },
+        {
+            "id": "battle_clear_10811_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Vamos, Heathcliff. Limpa essa bagunça, pode ser? E corta as cabeças deles — umas três bastam. Vamos precisar de algo pra reportar, afinal."
+        },
+        {
+            "id": "battle_clear_ex_10811_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Foi decepcionante... Agora que o líder de vocês tá morto, parece que nosso Sindicato vai absorver o de vocês. ... Vocês não vão ser parte da nossa família, no entanto, então saibam o seu lugar."
+        },
+        {
+            "id": "battle_defeat_10811_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "... Sejam honestos. Qual de vocês idiotas começou essa briga ridícula? || Eu <i>claramente</i> me lembro de pedir a todos vocês para não se meterem em nenhuma confusão..."
+        }
+    ]
+}
