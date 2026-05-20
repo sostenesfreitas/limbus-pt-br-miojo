@@ -1,0 +1,149 @@
+﻿{
+    "dataList": [
+        {
+            "id": 108001,
+            "name": "Resistência ao Pecado",
+            "desc": "Unless this unit is Staggered or Part Broken, take -50% damage"
+        },
+        {
+            "id": 108002,
+            "name": "Tremor Ressonante",
+            "desc": "Ao ser atingida, aplica +2 [Vibration] no Atacante || Se o alvo tem [Vibration], aplica 2 [Vibration] em todos os inimigos Ao Acertar. || Fim do Ataque: Se o alvo é derrotado, aplica +4 [Vibration] em todos os inimigos"
+        },
+        {
+            "id": 108101,
+            "name": "Resistência ao Pecado",
+            "desc": "Unless this unit is Staggered or Part Broken, take 80% less [Sinking] damage"
+        },
+        {
+            "id": 108102,
+            "name": "Melancolia Contagiosa",
+            "desc": "Início do Turno: Aplica 5 [Sinking] em todos os inimigos exceto aquele com maior SP || Fim do Ataque: Se o inimigo é derrotado, todos os inimigos perdem 10 SP; em seguida, aplica 3 [Sinking] e +2 Contagem de [Sinking] em todos os inimigos"
+        },
+        {
+            "id": 9018101,
+            "name": "Dentes",
+            "desc": "On Hit, heal 5 HP. 50% chance to inflict 1 [Laceration]"
+        },
+        {
+            "id": 9018102,
+            "name": "Lampião",
+            "desc": "Combat Start: if this unit is targeted by 2+ units, gain 1 [Protection], 1 [ParryingResultUp], and 1 [PlusCoinValueUp]"
+        },
+        {
+            "id": 9018103,
+            "name": "Coragem Censurada",
+            "desc": "Fim do Ataque: Se o alvo está Atordoado ou foi derrotado, eleva o HP máx. desta unidade em 20% do HP máx. no Início do Encontro (máx. +100%)"
+        },
+        {
+            "id": 9018104,
+            "name": "Justiça Censurada",
+            "desc": "Fim do Turno: Se esta unidade falhou em acertar com suas Habilidades de Ataque, eleva os valores de Velocidade Mín. e Máx. em 1 e ganha 3 [AttackDmgUp] no próximo turno"
+        },
+        {
+            "id": 9018105,
+            "name": "Oddly Uncanny Lantern",
+            "desc": "Início de Combate: Ganha 1 [Vulnerable] para cada Identidade que mirou esta unidade (máx. 5) || Início de Combate: Se todos os inimigos atacam esta unidade, Peso de Atq +1 || - Ganha Nível de Ataque igual ao número de inimigos; quando esta unidade se cura, restaura 5 HP adicional"
+        },
+        {
+            "id": 9018106,
+            "name": "BLACK Type Weapon",
+            "desc": "On Hit, inflict both HP and SP damage"
+        },
+        {
+            "id": 9018201,
+            "name": "Sabedoria Censurada",
+            "desc": "Turn Start: at less than 0 SP, heal 5~20 SP"
+        },
+        {
+            "id": 9018202,
+            "name": "Temperança Censurada",
+            "desc": "When hit, gain 1 [ParryingResultUp] and 1 [Agility] next turn (max 2)"
+        },
+        {
+            "id": 107901,
+            "name": "Meus Irmãos Me Chamam",
+            "desc": "Fim do Turno: Para cada 3% de HP faltando em si, ganha 1 Reforço de Nível de Ataque. (máx. 5) || Fim do Turno: Ganha +1 Velocidade Mín. e Máx. no próximo turno para cada 300 [BloodDinner] || O HP desta unidade não pode ser reduzido abaixo de 60%."
+        },
+        {
+            "id": 107902,
+            "name": "Sangue Endurecido",
+            "desc": "Início de Combate: Ganha 1 [BloodArmor] || - [BloodArmor] não pode cair abaixo de 1 || - Em 10+ [BloodArmor], converte-os em [BloodArmor_2nd]. || - Em 20+ [BloodArmor_2nd], converte-os em [BloodArmor_3rd]. || Ganha Velocidade Mín. e Máx. com base no Estágio deste efeito (máx. 2) || Se esta unidade consome [BloodArmor] e cai abaixo dos limiares acima, reverte aos Estágios anteriores conforme"
+        },
+        {
+            "id": 107903,
+            "name": "They Crave Blood",
+            "desc": "Fim do Turno: Se em Pânico, recupera-se do Pânico, e consome 50 [BloodDinner] para ganhar 3 [Enhancement] || - Se esta unidade falhou em consumir [BloodDinner], ganha 30 [Laceration], 3 [Enhancement] e 2 [AttackDmgUp]"
+        },
+        {
+            "id": 107904,
+            "name": "Yearning for Blood",
+            "desc": "Início de Combate: recebe [Bloodthirst]"
+        },
+        {
+            "id": 107905,
+            "name": "Mais Banquete de Sangue",
+            "desc": "Se o alvo é derrotado ao fim da Habilidade de Ataque desta unidade, aumenta [BloodDinner] em valor igual ao HP máx. do alvo"
+        },
+        {
+            "id": 108201,
+            "name": "Observação",
+            "desc": "Início do Encontro: Aplica 1 [ObservedPerson] em todos os inimigos; em seguida, ganha Potência e Contagem de [Breath] igual ao número de unidades com [ObservedPerson] || || Início do Turno: Aplica 1 [ObservedPerson] contra alvos sem [ObservedPerson] || || Para cada 10 [ObservedPerson] no alvo, aplica +1 a mais de Potência e Contagem de [Vibration] com as Habilidades desta unidade (máx. 3)"
+        },
+        {
+            "id": 108202,
+            "name": "Adaptação",
+            "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque dos inimigos (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido"
+        },
+        {
+            "id": 108203,
+            "name": "Mecanismo de Defesa",
+            "desc": "Início do Turno: Ganha Escudo igual a 30% do HP faltante (HP do Escudo não pode exceder 15% do HP máx.) || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 1,5)% de HP do Escudo || - Escudo recebe +100% de dano de efeitos [Burst] || || Fim do Turno: Se o Escudo ganho por este efeito é destruído, pelo restante deste Encontro, ganha 1 [DefenseDown] para cada instância em que o Escudo foi destruído"
+        },
+        {
+            "id": 108204,
+            "name": "Viés de Confirmação",
+            "desc": "Fim do Turno: Sifona 10 SP de alvos com SP maior que o desta unidade (máx. 3 alvos em ordem decrescente de SP; não pode empilhar no mesmo alvo) || (Não ativa se Hohenheim está em Pânico)"
+        },
+        {
+            "id": 108205,
+            "name": "Estabelecer Hipótese",
+            "desc": "No Turno 3: Ganha um novo padrão e prepara para usar uma Habilidade poderosa. || Após o Turno 3 terminar: O efeito acima ativa quando esta unidade tem 30+ Contagem de [Breath] ao Fim do Turno || || Se esta unidade não sofreu dano em HP durante o período de preparação antes de usar a Habilidade poderosa, melhora bastante a Habilidade (não conta danos sofridos pelo HP do Escudo)"
+        },
+        {
+            "id": 108206,
+            "name": "Má Adaptação ",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Adaptação」 || || Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3"
+        },
+        {
+            "id": 108207,
+            "name": "Inadequate Defense Mechanism",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Mecanismo de Defesa」 || || Início do Turno: Ganha Escudo igual a 15% do HP faltante (HP do Escudo não pode exceder 5% do HP máx.) || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 2)% de HP do Escudo || - Escudo recebe +150% de dano de efeitos [Burst]"
+        },
+        {
+            "id": 108208,
+            "name": "Dúvida de Si Mesmo",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Viés de Confirmação」 || || Início do Turno: Perde 15 SP || Fim do Turno: Sifona 5 SP de alvos com SP maior que o desta unidade (máx. 3 alvos; em ordem decrescente de SP; não pode empilhar no mesmo alvo) || (Não ativa se Hohenheim está em Pânico)"
+        },
+        {
+            "id": 108209,
+            "name": "Adaptação",
+            "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto || || Ganha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque dos inimigos (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto sofrido"
+        },
+        {
+            "id": 108210,
+            "name": "Mecanismo de Defesa",
+            "desc": "Início do Turno: Ganha Escudo igual a 30% do HP faltante (HP do Escudo não pode exceder 15% do HP máx.) || - Se esta unidade tem [Combustion], perde ([Combustion] Contagem x 1,5)% de HP do Escudo || - Escudo recebe +100% de dano de efeitos [Burst] || || Fim do Turno: Se o Escudo ganho por este efeito é destruído, pelo restante deste Encontro, ganha 1 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído"
+        },
+        {
+            "id": 108211,
+            "name": "Má Adaptação ",
+            "desc": "Quando enfraquecida por um Evento de Escolha, esta Passiva substitui 「Adaptação」 || || Ganha 1 de Potência de [Breath] toda vez que esta unidade causa dano com efeitos de Habilidade de Ataque (15 por turno) || - Se o alvo tem 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3"
+        },
+        {
+            "id": 138904,
+            "name": "Yearning for Blood",
+            "desc": "Início do Encontro: Ganha [BloodthirstHard] || || <color=#ff6000><mark=#ff000040><b><u>Início do Encontro: Aplica 3 [Laceration] e +3 Contagem de [Laceration] em todos os Pecadores || - Para Pecadores que Substituem, este efeito dispara no turno em que esses Pecadores entram no campo de batalha || Início do Turno: Aplica +3 Contagem de [Laceration] em Pecadores sem [Laceration]</u></b></mark></color>"
+        }
+    ]
+}
