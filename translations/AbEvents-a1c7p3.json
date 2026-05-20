@@ -1,0 +1,57 @@
+﻿{
+    "dataList": [
+        {
+            "id": 837901,
+            "prevDesc": "Um urso de pelúcia nos olha com expressão triste. Vários pregos afiados estão empalando seu corpo."
+        },
+        {
+            "id": 837902,
+            "title": "",
+            "eventDesc": "",
+            "behaveDesc": "O que você vai fazer?",
+            "successDesc": [
+                "{0} deu um abraço no urso de pelúcia. ||  || Mesmo enquanto seus pregos cravam na pele de {0}... ||  || ... o urso de pelúcia saltitando feliz pareceu acalmar os sentimentos do Pecador."
+            ],
+            "failureDesc": [
+                "{0} deu um abraço no urso de pelúcia. ||  || Um prego particularmente cego crava na pele de {0}... ||  || ... o urso de pelúcia saltitando feliz pareceu acalmar os sentimentos do Pecador."
+            ]
+        },
+        {
+            "id": 837601,
+            "title": "Rosa Caçadora",
+            "prevDesc": "A Rosa Caçadora gira o Laço Farpado de maneira hábil sobre sua cabeça.",
+            "eventDesc": "O laço almeja diretamente a nós.\n\nO laço, provido pelos movimentos do caçador, voa direto em nossa direção.",
+            "behaveDesc": "Quem dará um passo à frente?",
+            "successDesc": [
+                "Com reflexos relâmpagos, {0} desvia o laço espinhado para o lado. ||  || O laço, desviado, voa na direção oposta. ||  || O Caçador de Rosas hesita, surpreso com a reviravolta dos eventos."
+            ],
+            "failureDesc": [
+                "O laço espinhado atingiu {0} com força. ||  || Ver o Pecador se contorcendo de dor parece ter revigorado o Caçador de Rosas."
+            ]
+        },
+        {
+            "id": 1070102,
+            "title": "",
+            "eventDesc": "Talvez possamos visitar o Confessionário novamente; não fizemos muito lá antes. ||  || Decidimos ir ao Confessionário, como aconselhado por alguns dos Pecadores. ||  || <i>Por favor, venha aqui, se desejar confessar seus pecados e participar de uma consulta.</i> ||  || Uma voz ecoa de dentro do confessionário. ||  || Talvez, se confessarmos nossos pecados, o caminho se abrirá diante de nós. ||  || Qual Pecador pode revelar seu coração honesto?",
+            "behaveDesc": "",
+            "successDesc": [
+                "A entidade do outro lado do divisor do Confessionário expressa tristeza com a confissão de {0}. ||  || <i>Seu pecado requer introspecção pesada.</i> ||  || <i>Discipline seu pecado com este açoite; ajudará.</i> ||  || Um açoite espinhento desliza por baixo do divisor do Confessionário. ||  || Ao pegarmos o açoite, o espaço ao nosso redor se distorce conforme um novo caminho se abre."
+            ],
+            "failureDesc": [
+                "{0} se aproximou para confessar, mas sua expressão se torna cada vez mais desconfortável. ||  || Deve ser desagradável ter que contar uma história honesta sobre si mesmo a um completo estranho. ||  || Quando o conto do Pecador termina, a figura do outro lado do divisor compartilha palavras de consolo e conselho. ||  || <i>Talvez disciplinar seus pecados com este açoite possa ajudar.</i> ||  || Um açoite espinhento desliza gentilmente por baixo do divisor do Confessionário. ||  || Talvez a confissão fosse a chave; o espaço ao nosso redor se distorce, e um novo caminho se abre diante de nós."
+            ]
+        },
+        {
+            "id": 1070401,
+            "title": "",
+            "eventDesc": "\"Que infelicidade; não havia mais aventuras esperando por eles.\" ||  || \"Era hora do Cavaleiro e do Escudeiro voltarem para casa.\" ||  || \"Para o lar, onde sua Família tem suportado e esperado seu retorno.\" ||  || \"Se você gostaria de saber o que se passou em seguida, por favor, abra caminho através das amoreiras espinhentas.\"",
+            "behaveDesc": "Quem abrirá um caminho através das amoreiras espinhentas?",
+            "successDesc": [
+                "{0} caminhou para dentro das amoreiras espinhentas, abrindo um caminho para atravessarmos. ||  || Graças a {0}, os outros Pecadores conseguiram passar pelas amoreiras espinhentas com apenas alguns arranhões."
+            ],
+            "failureDesc": [
+                "{0} caminhou para dentro das amoreiras espinhentas, tentando abrir um caminho para o resto de nós. ||  || Por mais que tentasse, no entanto, as amoreiras espinhentas eram simplesmente espessas demais para atravessar sem sangue. ||  || Cada Pecador estava cravado de espinhos quando conseguimos atravessar as amoreiras espinhentas."
+            ]
+        }
+    ]
+}
