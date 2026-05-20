@@ -1,0 +1,346 @@
+﻿{
+    "dataList": [
+        {
+            "id": "Bothersome",
+            "name": "Corte Separador [切斬]",
+            "desc": "- A Resistência a Talho do alvo conta como 'Fraca'(1.5). (não ativa contra alvos com Resistência a Talho de 1.5 ou maior) || - Expira ao Fim do Turno",
+            "summary": ""
+        },
+        {
+            "id": "VibrationIgnition",
+            "name": "Tremor - Chamuscar",
+            "desc": "- Em Explosão de Tremor, sofre Dano de Ira igual à (soma de Potência de Tremor e Potência de Queimadura / 2), e perde 1 Contagem de Queimadura\n- Quando atingido por Habilidades que causam Explosão de Tremor, levanta o Limiar de Atordoamento desta unidade igual à Potência do efeito\n- Fim de Turno: reduz a Contagem por 1\n(Interage da mesma forma que o Tremor normal em efeitos que aumentam ou reduzem Potência/Contagem de Tremor)",
+            "summary": ""
+        },
+        {
+            "id": "BulletPropellant",
+            "name": "Bala Marca-do-Tigre",
+            "desc": "- Munição Única\n- Gasto por certas Habilidades\n- Acúmulo Máx.: 6",
+            "summary": ""
+        },
+        {
+            "id": "BulletPropellantSpecial",
+            "name": "Bala Marca-do-Tigre Selvagem",
+            "desc": "- Munição Única\n- Gasto por certas Habilidades (ativa do mesmo jeito que Bala Marca-do-Tigre)\n- A Potência e a Contagem deste efeito são \"Munição Carregada\" e \"Munição Restante\", respectivamente\n· Potência Máx. (Munição Carregada): 6\n- Moedas que gastaram essa Munição causam +30% de dano, e infligem o dobro da quantidade normal de Potência e Contagem de Queimadura\n- Quando todas as Munições Carregadas e Munições Restantes forem gastas, converte para Bala Marca-do-Tigre",
+            "summary": ""
+        },
+        {
+            "id": "Prey",
+            "name": "Presa",
+            "desc": "- Em um Embate com um inimigo, Poder de Embate -5 || - Início de Combate: || · Se esta unidade equipou Habilidade de Ataque, causa -50% de dano contra Lei Heng com Habilidades de Ataque || · Se esta unidade equipou Habilidade de Defesa, recebe -75% de dano de Lei Heng || - Se esta unidade vence um Embate contra Lei Heng sob este efeito, ganha 3 dos Recursos E.G.O menos possuídos || - Expira ao Fim do Turno; esta unidade restaura 10 SP",
+            "summary": ""
+        },
+        {
+            "id": "Complacency",
+            "name": "Sobreaquecido",
+            "desc": "- Max Stack: 5\n- Turn Start: gain Clash Power Down and Fragile equal to the Stack\n- Expires at Turn End",
+            "summary": ""
+        },
+        {
+            "id": "BattleSense",
+            "name": "Inner Strength [底力]",
+            "desc": "- Carga Máx.: 25 || - Consumida por certas Habilidades; ao Fim do Turno, restaura SP igual à Carga consumida até o fim do turno || - Ganha 1 Carga a cada Embate (máx. 5 por Habilidade). Ao Perder Embate, perde as Cargas ganhas nesse Embate || - Ganha 2 Cargas ao acertar com Ataque Sem Oposição (máx. 10 por Habilidade) || - Fim do Turno: no próximo turno, ganha Pressa baseada na Carga total consumida neste turno (1 Pressa por 25 Cargas; máx. 2) || - Ganha um buff diferente ao usar um padrão específico || || - Total de Cargas Consumidas: {0}",
+            "summary": ""
+        },
+        {
+            "id": "RestoredBattleSense",
+            "name": "Força Extrema [極力]",
+            "desc": "- Carga Máx.: 50 || - Conta como \"Força Interior\". Consumida por certas Habilidades; ao Fim do Turno, restaura SP igual à Carga consumida até o fim do turno. || - Ganha 2 Cargas a cada Embate (máx. 10 por Habilidade). Ao Perder Embate, perde as Cargas ganhas nesse Embate || - Ganha 3 Cargas ao acertar com Ataque Sem Oposição (máx. 15 por Habilidade) || - Fim do Turno: no próximo turno, ganha Pressa baseada na Carga total consumida neste turno (1 Pressa por 25 Cargas, máx. 5) || || - Total de Cargas Consumidas: {0}",
+            "summary": ""
+        },
+        {
+            "id": "Irritation",
+            "name": "Espírito Implacável [剛氣]",
+            "desc": "Início de Turno: recebe 1 de Dano Aumentado e 1 de Poder Aumentado para cada 20% de PV faltante em si (máx. 3 cada)\n- Inflige +2 a mais de Potência de Tremor com Habilidades de unidade\n- Se a Velocidade dessa unidade for maior que os alvos por 3 ou mais, Causa +(Diferença de Velocidade x 5)% de dano (máx. 20%)\n- Converta a Moeda final de \"Lâmina Tripla - Explosão\" em uma Moeda Inquebrável\n- Este Reforço muda para Shin (心) - Estrela de Tiantui [天退星] quando utilizar um padrão especifico",
+            "summary": ""
+        },
+        {
+            "id": "HugeIrritation",
+            "name": "Shin (心) - Estrela Tiantui [天退星]",
+            "desc": "- Início do Turno: ganha 1 Aumento de Dano e 1 Poder Aumentado para cada 15% de HP faltando em si (máx. 5 cada) || - Aplica +3 a mais de Potência de Tremor e +1 a mais de Contagem de Tremor com as Habilidades desta unidade || - Se a Velocidade desta unidade é maior que a do alvo por 3 ou mais, causa +(diferença de Velocidade x 5)% de dano (máx. 20%) || - Converte as Moedas finais de 'Talho Duplo - Estrondo' e 'Talho Triplo - Estouro' em Moedas Inquebráveis",
+            "summary": ""
+        },
+        {
+            "id": "ReloadKeepAmmo",
+            "name": "Reload - Tactical",
+            "desc": "- Restore this unit's Ammo to its maximum capacity (does not discard any remaining Ammo)",
+            "summary": ""
+        },
+        {
+            "id": "BeastEyes_LowMorale",
+            "name": "Beastly Instinct - Low Morale",
+            "desc": "- Causa +(diferença de porcentagem de HP / 2)% de dano a alvos com porcentagens de HP mais altas que a desta unidade (máx. 10%) || - Início do Turno: ganha 1 Reforço de Poder Final, 1 Aumento de Dano e 1 Frágil",
+            "summary": ""
+        },
+        {
+            "id": "BeastEyes_Panic",
+            "name": "Beastly Instinct - Panic",
+            "desc": "- Causa +(diferença de porcentagem de HP)% de dano a alvos com porcentagens de HP mais altas que a desta unidade (máx. 25%) || - Início do Turno: ganha 1 Reforço de Poder de Moeda, 2 Aumento de Dano e 2 Frágil || - Próximo Início do Turno: restaura SP igual à porcentagem de HP faltando desta unidade (máx. 25)",
+            "summary": ""
+        },
+        {
+            "id": "DisengageCombat",
+            "name": "Escape Battle",
+            "desc": "- Fim do Turno: recupera-se do Atordoamento e escapa do Encontro (excluindo Atordoamentos forçados; não conta como morte)",
+            "summary": ""
+        },
+        {
+            "id": "Chesed_Mercy",
+            "name": "Misericórdia de Chesed",
+            "desc": "- Os Níveis Ofensivos e Nível Defensivos de todas as unidades tornam-se iguais à média destes valores\n- Após o efeito Chesed ativar, Identidades aliadas recebem 3 Níveis Ofensivos e 6 Níveis Defensivos\n- [Efeito de Primeira Liberação]: \"Misericórdia de Chesed\" dura por toda a duração deste Encontro",
+            "summary": ""
+        },
+        {
+            "id": "Ryoshu_Attackup",
+            "name": "Memória Mutilada",
+            "desc": "[Efeito Exclusivo da Ryōshū]\n- Causa +(Número de Turno Atual x 2.5)% dano contra Lei Heng neste Encontro (máx. 30%)",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_EGOResourceup",
+            "name": "My Heart, My Own Thoughts...",
+            "desc": "[Efeito Exclusivo de Hong Lu] || - Por este Encontro: após usar uma Habilidade de Ataque, ganha 2 recursos E.G.O adicionais da Afinidade da Habilidade (1 vez por turno)",
+            "summary": ""
+        },
+        {
+            "id": "BudgetBulletPropellant",
+            "name": "Propellant Ammo",
+            "desc": "- Unique Ammo\n- Spent by certain Skills\n- Max Stack: 4",
+            "summary": ""
+        },
+        {
+            "id": "NEgoFleshSpatula_LowMorale",
+            "name": "Flesh Scoop",
+            "desc": "- Low Morale\nTurn Start: Gain 5 Bleed and 1 Attack Power Up",
+            "summary": ""
+        },
+        {
+            "id": "NEgoFleshSpatula_Panic",
+            "name": "Flesh Scoop",
+            "desc": "- Low Morale\nTurn Start: Gain 10 Bleed and 2 Attack Power Up",
+            "summary": ""
+        },
+        {
+            "id": "LeRegole_LowMorale",
+            "name": "Le Regole",
+            "desc": "- Moral Baixo || - Se esta unidade aplicou 2+ Tremor no turno anterior, ganha 1 Aumento de DANO de Preguiça || - Se esta unidade aplicou 2+ Queimadura no turno anterior, ganha 1 Aumento de DANO de Ira || - Se esta unidade falhou em aplicar qualquer coisa, ganha 2 Redução de Nível de Defesa",
+            "summary": ""
+        },
+        {
+            "id": "LeRegole_Panic",
+            "name": "Le Regole",
+            "desc": "- Moral Baixo || - Se esta unidade aplicou 2+ Tremor no turno anterior, ganha 2 Aumento de DANO de Preguiça || - Se esta unidade aplicou 2+ Queimadura no turno anterior, ganha 2 Aumento de DANO de Ira || - Se esta unidade falhou em aplicar qualquer coisa, ganha 3 Redução de Nível de Defesa",
+            "summary": ""
+        },
+        {
+            "id": "GazeReplica",
+            "name": "Gaze",
+            "desc": "- Carga Máx.: 7 || - Recebe e causa +10% de dano de e contra Jia Huan || - Em 7 Cargas, converte-se em Desprezo",
+            "summary": ""
+        },
+        {
+            "id": "ContemptReplica",
+            "name": "Desprezo",
+            "desc": "- Carga Máx.: 1 || - Recebe e causa -50% de dano de e contra Jia Huan || - Alvos com Desprezo não podem ganhar Olhar || - Expira ao Fim do Turno",
+            "summary": ""
+        },
+        {
+            "id": "GraspReplica",
+            "name": "Aperto",
+            "desc": "- Max Stack: 4\n- Turn End: gain 10 Bind next turn\n- Turn End: lose 1 Stack",
+            "summary": ""
+        },
+        {
+            "id": "EgoErodeReplica",
+            "name": "E.G.O Corrosion - N Corp.",
+            "desc": "- Carga Máx.: 10 || - Os seguintes efeitos ativam a cada Início do Turno: || · Perde SP pela Carga do efeito || · Ganha 1 Reforço de Poder de Ataque a cada 3 Cargas || - Em Carga Máx., recebe 5% de dano de HP ao Fim do Turno",
+            "summary": ""
+        },
+        {
+            "id": "BoseProjektilReplica",
+            "name": "Memória Rasgada",
+            "desc": "Acúmulo Máx.: 7",
+            "summary": ""
+        },
+        {
+            "id": "EgoErodeContempt_LowMorale",
+            "name": "Soft Goldcasted Heart",
+            "desc": "- Low Morale\n- Turn Start: Gain 1 Attack Power Up and 1 Fragile",
+            "summary": ""
+        },
+        {
+            "id": "EgoErodeContempt_Panic",
+            "name": "Soft Goldcasted Heart",
+            "desc": "- Panic\n- Turn Start: Gain 2 Attack Power Up and 2 Fragile",
+            "summary": ""
+        },
+        {
+            "id": "EgoErodeMemory_LowMorale",
+            "name": "Coração em Direção à Nova Era",
+            "desc": "- Low Morale\n- On Hit, consume 3 SP on self to inflict 2 Sinking",
+            "summary": ""
+        },
+        {
+            "id": "EgoErodeMemory_Panic",
+            "name": "Coração em Direção à Nova Era",
+            "desc": "- Low Morale\n- On Hit, inflict 3 Sinking and gain 1 Sinking",
+            "summary": ""
+        },
+        {
+            "id": "PileObedient",
+            "name": "Heaping Obedience",
+            "desc": "- Turn End: at 3 Stack, convert this effect to Hollow Obedience next turn",
+            "summary": ""
+        },
+        {
+            "id": "Obedient",
+            "name": "Hollow Obedience",
+            "desc": "- Poder de Embate -2 em Embates contra Jia Mu || - Expira quando o SP desta unidade alcança 45, ou quando a Carga cai a 0 || - Fim do Turno: perde 1 Carga",
+            "summary": ""
+        },
+        {
+            "id": "ExpensiveJade",
+            "name": "Precious Jade's Cradle",
+            "desc": "- Entra em estado 'Imobilizado' em que buffs, HP e SP desta unidade não podem ser alterados. Forma uma Pedra Preciosa conectada a esta unidade",
+            "summary": ""
+        },
+        {
+            "id": "FamilyTreasure",
+            "name": "Explosive Amusement",
+            "desc": "- Ao Fim do Turno: || · Carga Base: 1 || · A unidade conectada a esta unidade restaura 25% de HP e perde 20 SP || · Ganha 1 Carga || · Em 3 Cargas, usa uma Habilidade de autodestruição. Se esta unidade é morta pela autodestruição, aplica 3 Obediência Vazia no personagem enjaulado no próximo turno",
+            "summary": ""
+        },
+        {
+            "id": "OutpouringAnger",
+            "name": "Rampage",
+            "desc": "- Se o alvo principal da Habilidade 'Não conheces as profundezas do poder do olho, sua natureza especial' é Hong Lu, ignora todos os efeitos da Habilidade e converte todas as Moedas dessa Habilidade em Moedas Inquebráveis",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Xi",
+            "name": "Felicidade",
+            "desc": "- Poder de Confronto do Hong Lu +1\n- Quando há 1 ou mais aliados sobreviventes neste Encontro: ao tomar dano fatal, Hong Lu não morre e cura 50% PV\n- Nulifica o efeito que torna esta unidade em uma Jade Preciosa uma vez. Ao confrontar contra Habilidades que tornam esta unidade em uma Jade Preciosa, Poder de Confronto +5; se esta unidade ganha aquele Confronto, esta unidade não se torna uma Jade Preciosa, recupera de Atordoamento, reduz o PS da Jia Mu por 10, e inflige 2 de Frágil contra Jia Mu\nEm Confronto Vencido contra Jia Mu, recebe 1 de cada Recurso E.G.O aleatório das 3 Afinidades de E.G.O com a menor quantidade de recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Le",
+            "name": "Felicidade, Alegria",
+            "desc": "- Poder Final do Hong Lu +1\n- Em Confronto Vencido, cura 5 PS para 1 aliado com o menor PS (incluindo essa unidade)\n- Quando há 1 ou mais aliados sobreviventes neste Encontro: ao sofrer dano fatal, Hong Lu não morre e cura 50% PV\nEm Confronto Vencido contra Jia Mu, recebe 1 de cada Recurso E.G.O aleatório das 3 Afinidades de E.G.O com a menor quantidade de recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Ai",
+            "name": "Happiness, Joy, Sorrow",
+            "desc": "- Poder Final de Hong Lu +3 || - Ao Vencer Embate, restaura 5 SP para 1 aliado com menor SP (incluindo esta unidade) || - Quando um aliado é morto, os aliados restantes ao Fim do Turno ganham 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Quando há 1 ou mais aliados sobreviventes neste Encontro: ao sofrer dano fatal, Hong Lu não morre e restaura 50% de HP em vez disso || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Nu",
+            "name": "Happiness, Joy, Sorrow, Wrath",
+            "desc": "- Poder Final de Hong Lu +5 || - Aliados restauram 5 SP a cada Início do Turno (incluindo esta unidade) || - Quando um aliado é morto, os aliados restantes ao Fim do Turno ganham 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Quando há 1 ou mais aliados sobreviventes neste Encontro: ao sofrer dano fatal, Hong Lu não morre e restaura 50% de HP em vez disso || - Aumenta o dano causado em 30% da porcentagem total de HP que esta unidade perdeu cumulativamente durante este Encontro (máx. 100%) || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        },
+        {
+            "id": "SupremeEternalLife",
+            "name": "Sublime Immortality",
+            "desc": "- Início do Turno: o Núcleo e cada Parte de Jia Mu ganham 5% de cada um de seus HP máx. como Escudo",
+            "summary": ""
+        },
+        {
+            "id": "ImperfectEternalLife",
+            "name": "Imperfect Immortality",
+            "desc": "- Absorvido ao ser atingido por certas Habilidades de Jia Mu || - Se este efeito foi aplicado contra Jia Mu, ganha 1 Frágil por Carga; em 5 Cargas, torna-se Atordoada",
+            "summary": ""
+        },
+        {
+            "id": "GoldenBoughSync",
+            "name": "Malattunement",
+            "desc": "- Base Offense Level +2, Base Defense Level +2",
+            "summary": ""
+        },
+        {
+            "id": "GoldenBoughSyncDistorted",
+            "name": "Supernatural, Strength, Chaos, and Spirits",
+            "desc": "- Base Offense Level +4, Base Defense Level +4",
+            "summary": ""
+        },
+        {
+            "id": "LastingHongwonWill_LowMorale",
+            "name": "Inherited Will of Hongyuan",
+            "desc": "- Moral Baixo || - Ganha 2 Reforço de Poder de Ataque e 1 Vínculo || - Quando a Parte do Corpo perde um Embate contra Hong Lu: a Parte do Corpo ganha 1 Aumento de Dano e 1 Frágil no próximo turno (1 vez por turno)",
+            "summary": ""
+        },
+        {
+            "id": "LastingHongwonWill_Panic",
+            "name": "Inherited Will of Hongyuan",
+            "desc": "- Pânico || - Ganha 2 Reforço de Poder de Ataque e 2 Vínculo || - Quando a Parte do Corpo perde um Embate contra Hong Lu: a Parte do Corpo ganha 2 Aumento de Dano e 2 Frágil no próximo turno (1 vez por turno)",
+            "summary": ""
+        },
+        {
+            "id": "LongLastingHongwonWill_LowMorale",
+            "name": "Infinitely Bequeathing Will of Hongyuan",
+            "desc": "- Moral Baixo || - Ganha 2 Reforço de Poder de Ataque e 1 Frágil || - Unidades geradas por esta unidade ganham 3 Redução de Nível de Defesa || - Causa +20% de dano. Se o HP da Parte do Palanquim cai a 0, causa -10% de dano em vez disso",
+            "summary": ""
+        },
+        {
+            "id": "LongLastingHongwonWill_Panic",
+            "name": "Infinitely Bequeathing Will of Hongyuan",
+            "desc": "- Pânico || - Ganha 2 Reforço de Poder de Ataque e 2 Frágil || - Unidades geradas por esta unidade ganham 6 Redução de Nível de Defesa || - Causa +30% de dano. Se o HP da Parte do Palanquim cai a 0, causa -15% de dano em vez disso",
+            "summary": ""
+        },
+        {
+            "id": "YisangParryGubo",
+            "name": "Responsibility",
+            "desc": "In Clashes against Gubo, Clash Power +2",
+            "summary": ""
+        },
+        {
+            "id": "HongluParryGahwan",
+            "name": "The Will to Confront",
+            "desc": "In Clashes against Jia Huan, Clash Power +2",
+            "summary": ""
+        },
+        {
+            "id": "GahwanEgoContempt",
+            "name": "Volatile E.G.O Attunement - Contempt",
+            "desc": "- Equipamento E.G.O extraído pela N Corp. Embora o usuário atenda aos requisitos de aptidão, a falta de experiência pode causar problemas. || - Carga Máx.: 5 || - Nível de Ataque, Nível de Defesa -7 || - Ao Vencer Embate, ganha 1 Carga || - Perde 1 Nível de Ataque e ganha 1 Nível de Defesa para cada Carga || - Em Carga Máx.: no próximo turno, ganha 2 Proteção e zera a Carga para 0",
+            "summary": ""
+        },
+        {
+            "id": "GuboEgoShooter",
+            "name": "Volatile E.G.O Attunement - Fell Bullet",
+            "desc": "- Equipamento E.G.O extraído pela N Corp. Embora o usuário atenda aos requisitos de aptidão, a falta de experiência pode causar problemas. || - Carga Máx.: 5 || - Nível de Ataque, Nível de Defesa -2 || - Ao Perder Embate, ganha 1 Carga || - Ganha 1 Nível de Ataque e perde 1 Nível de Defesa para cada Carga || - Em Carga Máx.: no próximo turno, ganha 2 Aumento de Dano e zera a Carga para 0",
+            "summary": ""
+        },
+        {
+            "id": "FellBulletMarkReplica",
+            "name": "Estigmatizado",
+            "desc": "- Tageted by Gubo\n- Expires at Turn End",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Xi_Mirror",
+            "name": "Happiness",
+            "desc": "- Poder de Embate +1 || - Anula o efeito que transforma esta unidade em uma Pedra Preciosa uma vez. Ao embater contra Habilidades que transformam esta unidade em uma Pedra Preciosa, Poder de Embate +5; se esta unidade vence esse Embate, esta unidade não se torna uma Pedra Preciosa, recupera-se do Atordoamento, reduz o SP de Jia Mu em 10 e aplica 2 Frágil contra Jia Mu || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Le_Mirror",
+            "name": "Happiness, Joy",
+            "desc": "- Poder Final +1 || - Ao Vencer Embate, restaura 5 SP para 1 aliado com menor SP (incluindo esta unidade) || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Ai_Mirror",
+            "name": "Happiness, Joy, Sorrow",
+            "desc": "- Poder Final +3 || - Ao Vencer Embate, restaura 5 SP para 1 aliado com menor SP (incluindo esta unidade) || - Quando um aliado é morto, os aliados restantes ao Fim do Turno ganham 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        },
+        {
+            "id": "Honglu_Nu_Mirror",
+            "name": "Happiness, Joy, Sorrow, Wrath",
+            "desc": "- Poder Final +5 || - Aliados restauram 5 SP a cada Início do Turno (incluindo esta unidade) || - Quando um aliado é morto, os aliados restantes ao Fim do Turno ganham 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Aumenta o dano causado em 30% da porcentagem total de HP que esta unidade perdeu cumulativamente durante este Encontro (máx. 100%) || Ao Vencer Embate contra Jia Mu, ganha 1 Recurso E.G.O aleatório de cada uma das 3 Afinidades E.G.O com menos recursos",
+            "summary": ""
+        }
+    ]
+}

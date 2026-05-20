@@ -1,0 +1,219 @@
+﻿{
+    "dataList": [
+        {
+            "id": 114501,
+            "name": "The Thumb's Officer, Capo IIII",
+            "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking] || || Ao lançar uma Moeda que consome [BulletPropellant]: não ter [BulletPropellant] não cancela os ataques desta unidade, mas os efeitos da Moeda de \"aplicar [Combustion]\" e \"aplicar Contagem de [Combustion]\" não ativam || || Em um Embate, aplica +(1 + (# de Embates / 3)) Contagem de [Vibration] || (máx. 3; 3 vezes por turno contra o mesmo alvo)"
+        },
+        {
+            "id": 114502,
+            "name": "Dez Espadas do Leste",
+            "desc": "No Início do Encontro, e no Início do Turno em que ganha um novo padrão: || - Ganha 1 [Bothersome] || - Restaura 5 SP para cada 10% de HP faltando em si (máx. 40)"
+        },
+        {
+            "id": 114503,
+            "name": "Chosen Prey",
+            "desc": "Início do Turno: aplica 1 [Prey] contra o alvo que causou mais dano a esta unidade no turno anterior || || Depois que Lei Heng ataca o alvo com [Prey], se o alvo está: || - Atordoado, todos os inimigos perdem 10 SP e ganham 1 [ParryingResultDown] neste turno e no próximo turno (1 vez por turno) || - Derrotado, ativa o efeito acima mais uma vez"
+        },
+        {
+            "id": 114504,
+            "name": "Espada da Estrela Tiāntuì [天退星刀]",
+            "desc": "Ataques Sem Oposição causam +30% de dano Ao Acertar e aplicam 1 [Vulnerable] no próximo turno || || Moedas de Habilidade que gastaram [BulletPropellant] causam +20% de dano Ao Acertar e aplicam 2 [DefenseDown] no próximo turno || || Os efeitos acima não ativam se o alvo equipou Habilidade de Defesa"
+        },
+        {
+            "id": 114505,
+            "name": "Recarregar Bala Marca-do-Tigre",
+            "desc": "Fim do Turno: em 90% ou menos de HP, ou ao fim do 2º turno, recarrega [BulletPropellant] e ganha um novo padrão no próximo turno || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 114506,
+            "name": "Lei Heng [雷橫]",
+            "desc": "Fim do Turno: em 80% ou menos de HP, ou ao fim do 4º turno, ganha um novo padrão no próximo turno || - Usa um ataque poderoso ('Talho do Emaranhado'), repete a cada 3º turno. +10 na Velocidade Mín. e Máx. para os turnos em que esta unidade usa esta Habilidade || - No início desse turno, ganha 25 [BattleSense] || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 114507,
+            "name": "Estrela Tiāntuì [天退星]",
+            "desc": "Se o HP desta unidade caiu para 60% ou menos ao Fim do Turno, ou se esta unidade está prevista para usar um ataque poderoso ('Talho do Emaranhado') no próximo turno pela segunda vez neste Encontro, ganha um novo padrão no próximo turno || - Quando esse turno começa, ganha 1 [Irritation] || - Quando esse turno começa, ganha 18 [BulletPropellantSpecial] e recarrega imediatamente || · Se esta unidade gasta todo [BulletPropellantSpecial], converte o efeito em [BulletPropellant] e invoca 2 unidades de \"Soldato Severo do Polegar\" no próximo turno e faz com que supram esta unidade com [BulletPropellantSpecial] || - Ao ser Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 114508,
+            "name": "Lei Heng, A Estrela Tiāntuì do Mindinho",
+            "desc": "Fim do Turno: em 40% ou menos de HP, ou se esta unidade está prevista para usar um ataque poderoso ('Talho do Emaranhado') no próximo turno pela terceira vez neste Encontro, ganha um novo padrão no próximo turno || - Substitui o ataque poderoso 'Talho do Emaranhado' por 'Sequência Aperfeiçoada de Lâminas do Caçador de Tigres'. +15 na Velocidade Mín. e Máx. para os turnos em que esta unidade usa esta Habilidade || - Converte [BattleSense] em [RestoredBattleSense] || - Converte [Irritation] em [HugeIrritation] || - Se esta unidade está Atordoada, recupera-se do Atordoamento"
+        },
+        {
+            "id": 114510,
+            "name": "Tigre Alado [揷翅虎]",
+            "desc": "Início de Combate: com base no valor de Velocidade desta unidade, || - Restaura SP igual ao valor de Velocidade. Com menos de 0 SP, dobra a quantia restaurada || - Ganha (Valor de Velocidade / 3) [SlashDamageUp] (máx. 5) || || Início do Encontro: se esta unidade tem 3+ [Binding], o efeito acima não ativa; ganha [DefenseDown] igual a [Binding] em si (máx. 9)"
+        },
+        {
+            "id": 114512,
+            "name": "Tiantui Star's Blade - Overheat",
+            "desc": "Se esta unidade usou um ataque poderoso ('Talho do Emaranhado' ou 'Sequência Aperfeiçoada de Lâminas do Caçador de Tigres'), ganha [Complacency] no próximo turno igual ao número de vezes que essas habilidades foram usadas (máx. 5)"
+        },
+        {
+            "id": 117101,
+            "name": "Savage Tigermark Support",
+            "desc": "Início do Turno: ganha 5 [Vulnerable] || Fim do Turno: supre Lei Heng com [BulletPropellantSpecial] || || Se esta unidade é morta, esta unidade não pode suprir [BulletPropellantSpecial] para Lei Heng; Lei Heng ganha 1 [Vulnerable] e 1 [ParryingResultDown] no próximo turno"
+        },
+        {
+            "id": 113501,
+            "name": "My Little Brother's Hand I Let Slip",
+            "desc": "Ao Acertar contra um inimigo, aplica 1 [GazeReplica] (1 vez por Identidade por turno) || Ao ser atacada por um inimigo, aplica 1 [GazeReplica] contra o atacante (1 vez por Identidade por turno) || Início do Turno: se Hong Lu está em campo, aplica 1 [GazeReplica] contra Hong Lu"
+        },
+        {
+            "id": 113502,
+            "name": "Aperto",
+            "desc": "Prioriza alvos com [GraspReplica] || Ganha um novo padrão quando há alvos com [GraspReplica]; +0.1 em todas as Resistências"
+        },
+        {
+            "id": 113503,
+            "name": "E.G.O Corrosion - N Corp.",
+            "desc": "Após entrar neste Encontro, ganha 1 [EgoErodeReplica] a cada Fim de Turno passado || - Fim do Turno: com menos de 50% de HP, ou em -20 SP ou menos, ganha 1 [EgoErodeReplica] adicional"
+        },
+        {
+            "id": 113504,
+            "name": "E.G.O Temporary Max Attunement",
+            "desc": "Se há 4+ Pecadores com 4+ Cargas de [GazeReplica], usa a Habilidade 'Reverência[TabExplain], Desprezo[TabExplain] 【Desencadeado】'"
+        },
+        {
+            "id": 113505,
+            "name": "Better avert your gazes",
+            "desc": "Onde há outros aliados sobreviventes, se esta unidade se torna o alvo principal de 5+ inimigos, esses inimigos perdem 10 HP e SP"
+        },
+        {
+            "id": 113601,
+            "name": "The Cost of Fell Bullets",
+            "desc": "On Hit, heal 5 SP; on Clash Lose, lose 5 SP"
+        },
+        {
+            "id": 113602,
+            "name": "Charge Forth",
+            "desc": "On enemy Kill, gain +3 [Breath] Count"
+        },
+        {
+            "id": 113603,
+            "name": "A new era is upon us, my dear fellow.",
+            "desc": "At less than -20 SP, use a special pattern"
+        },
+        {
+            "id": 113604,
+            "name": "Please, dedicate yourself for the new ideal.",
+            "desc": "If an N Corp. Employee(except Jia Huan)'s HP is less than 50%, use a special pattern"
+        },
+        {
+            "id": 114601,
+            "name": "-",
+            "desc": "HP does not drop below 50%"
+        },
+        {
+            "id": 114602,
+            "name": "Little Baoyu, the lineage of Family Hierarchs cannot end here...",
+            "desc": "Lose Encounter when Hong Lu dies. All Skills prioritize Hong Lu"
+        },
+        {
+            "id": 114603,
+            "name": "Quem servirá os anciãos, quem transmitirá a vontade do venerado Verme Xianhuang para Hongyuan então?!!!",
+            "desc": "On Hit after Clash Win against Hong Lu: inflict 1 [PileObedient] (once per Skill)"
+        },
+        {
+            "id": 114604,
+            "name": "Golden Bough Assimilation - Malattunement",
+            "desc": "Encounter Start: gain [GoldenBoughSync]"
+        },
+        {
+            "id": 114605,
+            "name": "Forbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]",
+            "desc": "Ganha 1 [AttackUp] e 1 [DefenseDown] toda vez que esta unidade usa um tipo diferente de Habilidade (3 vezes por turno)"
+        },
+        {
+            "id": 114606,
+            "name": "Hongyuan sempre foi massinha nas mãos dos venerados Xianren",
+            "desc": "Fim do Turno: se em Pânico, recupera-se do Pânico no próximo Início do Turno e zera o SP para 0 || || Ao se recuperar do Pânico, ganha 2 [Enhancement] e 2 [Endurance] no próximo turno; se Hong Lu tem [Obedient], restaura 15 SP"
+        },
+        {
+            "id": 115201,
+            "name": "Watch this little girl...!",
+            "desc": "Perde o Encontro quando Hong Lu morre. Se há unidades invocadas por esta unidade no Início do Turno, restaura 10 SP"
+        },
+        {
+            "id": 115202,
+            "name": "Golden Bough Assimilation - Distortion",
+            "desc": "Start of the 2nd Phase: gain [GoldenBoughSyncDistorted]"
+        },
+        {
+            "id": 115203,
+            "name": "Cada Patriarca da Família tem o dever de entregar seus corpos ao Verme Xianhuang e sua honrada vontade",
+            "desc": "Fim do Turno: se em Pânico, recupera-se do Pânico no próximo Início do Turno e zera o SP para 0 || || Ao se recuperar do Pânico, || - ganha 2 [Enhancement], 2 [Endurance] e 1 [Agility] no próximo turno || - Se há unidades invocadas por esta unidade, restaura 15 SP || - Se Hong Lu tem [Obedient], restaura 15 SP"
+        },
+        {
+            "id": 115204,
+            "name": "-",
+            "desc": "HP does not drop below 85%"
+        },
+        {
+            "id": 115205,
+            "name": "-",
+            "desc": "HP does not drop below 65%"
+        },
+        {
+            "id": 115206,
+            "name": "-",
+            "desc": "HP does not drop below 50%"
+        },
+        {
+            "id": 115207,
+            "name": "Apodrecimento e Decadência sob a Casca de Ouro e Jade [金玉其外 敗絮其中]",
+            "desc": "Se esta unidade tem 10+ [Burst], recebe +10% de dano || Se esta unidade tem 5+ tipos de efeitos negativos, recebe +10% de dano"
+        },
+        {
+            "id": 115208,
+            "name": "A Family Hierarch without the revered Xianhuang Worm will never serve Hongyuan",
+            "desc": "Em 0 HP, a Parte do Corpo torna-se Atordoada no próximo turno || Em seguida, esta Parte torna-se Cortada, e a Parte do Corpo ganha 2 [Vulnerable]"
+        },
+        {
+            "id": 115209,
+            "name": "-",
+            "desc": "HP does not drop below 20%"
+        },
+        {
+            "id": 115301,
+            "name": "Witness Me, O Revered Xianren!",
+            "desc": "Quando esta unidade está presente, Jia Mu ganha 200 de Escudo para seu Núcleo e cada Parte"
+        },
+        {
+            "id": 115302,
+            "name": "Duties of the Precious Jade",
+            "desc": "Enquanto esta unidade está presente, aplica os seguintes efeitos à unidade enjaulada: || - Torna-se 'imobilizada' || - Buffs, HP e SP desta unidade não podem ser alterados"
+        },
+        {
+            "id": 115303,
+            "name": "Departure",
+            "desc": "Quando esta unidade é derrotada, retorna o personagem enjaulado à batalha no próximo turno"
+        },
+        {
+            "id": 115304,
+            "name": "Refute the Evil; Restore Justice [破邪顯正]",
+            "desc": "Se esta unidade é derrotada pelos Pecadores, ativa os seguintes efeitos: || - Todos os aliados restauram 10 SP; todos os aliados ganham 2 [AttackDmgUp] no próximo turno || - Aplica 5 [Binding], 3 [AttackDown] e 5 [Vulnerable] contra Jia Mu pelos próximos 2 turnos || - A unidade que estava enjaulada nesta unidade restaura até 45 SP. Ganha 2 [Enhancement] em seu retorno || - Ganha 3 Recursos E.G.O em todas as Afinidades"
+        },
+        {
+            "id": 115401,
+            "name": "O The Supreme Xianren of Immortality",
+            "desc": "Has the [SupremeEternalLife] effect"
+        },
+        {
+            "id": 115402,
+            "name": "Sejamos eternamente livres do envelhecimento e da morte",
+            "desc": "HP does not drop below 1\n\nAt 1 HP, replace [SupremeEternalLife] with [ImperfectEternalLife]"
+        },
+        {
+            "id": 115403,
+            "name": "Knowledge of Immortality",
+            "desc": "Se o HP desta unidade cai para 1 ao ser atingida, restaura 10 SP ao Pecador que atacou esta unidade; em seguida, ganha 3 Recursos E.G.O aleatórios das Afinidades de Pecado menos possuídas (ativa 1 vez para esta unidade)"
+        },
+        {
+            "id": 114513,
+            "name": "Recuperação do Pânico",
+            "desc": "Fim de Turno: se essa unidade está em Pânico, reseta PS para 0\n\nAo se recuperar do Pânico: no Próximo Início de Turno, cure PS pelo PV faltante (máx 30)"
+        }
+    ]
+}
