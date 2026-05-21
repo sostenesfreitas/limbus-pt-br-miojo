@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "content": "Talvez por ter chegado a hora, os Solucionadores foram se reunindo, um a um, e..."
+            "content": "Talvez por ter chegado a hora, os Mandatários foram se reunindo, um a um, e..."
         },
         {
             "id": 1,
@@ -38,7 +38,7 @@
         },
         {
             "id": 8,
-            "content": "<color=#ffef23>Não se esqueça da revista de Solucionador.</color>"
+            "content": "<color=#ffef23>Não se esqueça da revista de Mandatário.</color>"
         },
         {
             "id": 9,
@@ -108,7 +108,7 @@
         {
             "id": 23,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "W-uau. Olha, sobreviventes!"
         },
@@ -139,7 +139,7 @@
         },
         {
             "id": 29,
-            "content": "Quando os Solucionadores, avançando aos poucos, começaram a fazer alvoroço, Alessio, como que para mediar, gritou alto, lá de trás, que aguardassem."
+            "content": "Quando os Mandatários, avançando aos poucos, começaram a fazer alvoroço, Alessio, como que para mediar, gritou alto, lá de trás, que aguardassem."
         },
         {
             "id": 30,
@@ -148,13 +148,13 @@
         },
         {
             "id": 31,
-            "teller": "Solucionador Maravilhado",
+            "teller": "Mandatário Maravilhado",
             "title": "???",
             "content": "Quem é... de que escritório é?"
         },
         {
             "id": 32,
-            "teller": "Solucionador Sussurrante",
+            "teller": "Mandatário Sussurrante",
             "title": "???",
             "content": "É de uma associação?"
         },
@@ -165,28 +165,28 @@
         {
             "id": 34,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "... Estão todos..."
         },
         {
             "id": 35,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "É do Escritório Punho de Fogo! Aquela vestimenta é a vestimenta do nosso Escritório Punho de Fogo!"
         },
         {
             "id": 36,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Haha! Viram, o que eu disse? Eu disse que as manas iam voltar sem falta, não disse?"
         },
         {
             "id": 37,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Eu tinha certeza — mesmo sem subjugar, se sobrevivesse e desse um testemunho de mais de 15 minutos, havia uma gratificação..."
         },
@@ -197,7 +197,7 @@
         },
         {
             "id": 39,
-            "content": "Mas o Solucionador, que ignorou as palavras de Alessio e correu, ampara o sobrevivente que vinha caminhando, cambaleante."
+            "content": "Mas o Mandatário, que ignorou as palavras de Alessio e correu, ampara o sobrevivente que vinha caminhando, cambaleante."
         },
         {
             "id": 40,
@@ -207,7 +207,7 @@
         {
             "id": 41,
             "model": "피주머니",
-            "teller": "Solucionador Sobrevivente?",
+            "teller": "Mandatário Sobrevivente?",
             "title": "Escritório do Punho de Fogo",
             "content": "La.... la..."
         },
@@ -219,14 +219,14 @@
         {
             "id": 43,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Agora deu certo — o nosso escritório também pode escapar do meio-subsolo e ver a luz."
         },
         {
             "id": 44,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Vocês sabem o quanto os outros nos desprezavam? Agora a gente vai aparecer em entrevistas e receber a gratificação... só resta erguer bem alto a nossa fama..."
         },
@@ -243,35 +243,35 @@
         {
             "id": 47,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Então aguenta firme só mais um pouquinho, tá bom?"
         },
         {
             "id": 48,
             "model": "피주머니",
-            "teller": "Solucionador Sobrevivente?",
+            "teller": "Mandatário Sobrevivente?",
             "title": "Escritório do Punho de Fogo",
             "content": "Laaaahhh..."
         },
         {
             "id": 49,
             "model": "피주머니",
-            "teller": "Solucionador Sobrevivente?",
+            "teller": "Mandatário Sobrevivente?",
             "title": "Escritório do Punho de Fogo",
             "content": "Para a La Manchaland livre, onde desabrocham sorrisos felizes... para sonhar juntos..."
         },
         {
             "id": 50,
             "model": "피주머니",
-            "teller": "Solucionador Sobrevivente?",
+            "teller": "Mandatário Sobrevivente?",
             "title": "Escritório do Punho de Fogo",
             "content": "... longe daqui...!"
         },
         {
             "id": 51,
             "model": "불주먹",
-            "teller": "Solucionador Comovido",
+            "teller": "Mandatário Comovido",
             "title": "Escritório do Punho de Fogo",
             "content": "Guh— Hurk—"
         },

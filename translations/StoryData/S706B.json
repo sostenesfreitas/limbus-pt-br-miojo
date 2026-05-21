@@ -65,16 +65,16 @@
         {
             "id": 13,
             "model": "이스마엘",
-            "content": "Aff, eu falo no lugar dele. Pelo visto é um Solucionador que veio da Associação Hana."
+            "content": "Aff, eu falo no lugar dele. Pelo visto é um Mandatário que veio da Associação Hana."
         },
         {
             "id": 14,
             "model": "단테",
-            "content": "<Ah, a tal Associação Hana é o grupo que está no topo entre as associações de Solucionadores, certo?>"
+            "content": "<Ah, a tal Associação Hana é o grupo que está no topo entre as associações de Mandatários, certo?>"
         },
         {
             "id": 15,
-            "content": "Pelo visto a aula intensiva de Solucionadores de Don Quixote, que ela despejava no ônibus a cada brecha, foi de alguma ajuda, sim."
+            "content": "Pelo visto a aula intensiva de Mandatários de Don Quixote, que ela despejava no ônibus a cada brecha, foi de alguma ajuda, sim."
         },
         {
             "id": 16,
@@ -83,13 +83,13 @@
         {
             "id": 17,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "Associação Hana..."
         },
         {
             "id": 18,
-            "content": "Talvez aquele nome não fosse pouca coisa nem para os outros Solucionadores; eles também, num burburinho, espiavam de soslaio a pessoa da Associação Hana, de vestes alvíssimas."
+            "content": "Talvez aquele nome não fosse pouca coisa nem para os outros Mandatários; eles também, num burburinho, espiavam de soslaio a pessoa da Associação Hana, de vestes alvíssimas."
         },
         {
             "id": 19,
@@ -98,14 +98,14 @@
         {
             "id": 20,
             "model": "엑스트라해결사2",
-            "teller": "Solucionador Maravilhado",
+            "teller": "Mandatário Maravilhado",
             "title": "???",
             "content": "O Olhar Vermelho, também...?"
         },
         {
             "id": 21,
             "model": "엑스트라해결사2",
-            "teller": "Solucionador Maravilhado",
+            "teller": "Mandatário Maravilhado",
             "title": "???",
             "content": "Caralho, um Fixer de Cor? Aqui...?"
         },
@@ -120,12 +120,12 @@
         },
         {
             "id": 24,
-            "content": "Agora que penso, ouvi dizer que Don Quixote quase desmaiou quando viu Vergílio pela primeira vez no ônibus. Como se poder trabalhar com um Solucionador Excêntrico fosse uma sorte que não se repetiria duas vezes na vida..."
+            "content": "Agora que penso, ouvi dizer que Don Quixote quase desmaiou quando viu Vergílio pela primeira vez no ônibus. Como se poder trabalhar com um Mandatário Excêntrico fosse uma sorte que não se repetiria duas vezes na vida..."
         },
         {
             "id": 25,
             "model": "이스마엘",
-            "content": "Esta é a reação natural. Pois o senhor Vergílio é um dos poucos Solucionadores Excêntricos que receberam uma cor."
+            "content": "Esta é a reação natural. Pois o senhor Vergílio é um dos poucos Mandatários Excêntricos que receberam uma cor."
         },
         {
             "id": 26,
@@ -162,16 +162,16 @@
             "model": "한울",
             "teller": "???",
             "title": "Associação Hana do Norte",
-            "content": "Caso seja descoberto, a associação dos Solucionadores aplicará pontos de penalidade. Conforme os pontos, pode-se chegar à suspensão da licença de Solucionador, e até ao rebaixamento de grau. Cada indivíduo há de saber bem disso."
+            "content": "Caso seja descoberto, a associação dos Mandatários aplicará pontos de penalidade. Conforme os pontos, pode-se chegar à suspensão da licença de Mandatário, e até ao rebaixamento de grau. Cada indivíduo há de saber bem disso."
         },
         {
             "id": 33,
             "model": "까미유카메라",
-            "content": "Pessoal... pelo visto eu vou ter de me retirar daqui. Eu volto depois de lutar com nobreza. Ah, não se esqueçam de votar no Solucionador com quem mais querem jantar. É até a meia-noite de hoje."
+            "content": "Pessoal... pelo visto eu vou ter de me retirar daqui. Eu volto depois de lutar com nobreza. Ah, não se esqueçam de votar no Mandatário com quem mais querem jantar. É até a meia-noite de hoje."
         },
         {
             "id": 34,
-            "content": "A voz fria pousou pesada dentro da tenda, e vários Solucionadores, Camille incluído, às pressas, manipularam ou guardaram diversos aparelhos."
+            "content": "A voz fria pousou pesada dentro da tenda, e vários Mandatários, Camille incluído, às pressas, manipularam ou guardaram diversos aparelhos."
         },
         {
             "id": 35,
@@ -191,7 +191,7 @@
         },
         {
             "id": 38,
-            "content": "O Solucionador vindo da Associação Hana perguntou, espiando Don Quixote de soslaio."
+            "content": "O Mandatário vindo da Associação Hana perguntou, espiando Don Quixote de soslaio."
         },
         {
             "id": 39,
@@ -200,7 +200,7 @@
         },
         {
             "id": 40,
-            "content": "E logo o funcionário vindo da P Corp avançou, a passos firmes, para a frente dos Solucionadores."
+            "content": "E logo o funcionário vindo da P Corp avançou, a passos firmes, para a frente dos Mandatários."
         },
         {
             "id": 41,
@@ -218,7 +218,7 @@
         },
         {
             "id": 43,
-            "content": "Para alguém que acrescentou 'imenso', ele não olhou uma só vez para o rosto dos Solucionadores reunidos ali."
+            "content": "Para alguém que acrescentou 'imenso', ele não olhou uma só vez para o rosto dos Mandatários reunidos ali."
         },
         {
             "id": 44,
@@ -276,7 +276,7 @@
         {
             "id": 55,
             "model": "단테",
-            "content": "<Fazer uma reunião de operação no meio de Solucionadores me dá a sensação de que eu também me tornei um Solucionador e tanto...>"
+            "content": "<Fazer uma reunião de operação no meio de Mandatários me dá a sensação de que eu também me tornei um Mandatário e tanto...>"
         },
         {
             "id": 56,
@@ -290,12 +290,12 @@
         },
         {
             "id": 58,
-            "content": "Eu queria perguntar mais alguma coisa a Outis, mas, como a apresentação do Solucionador que estava à frente parecia começar para valer, resolvi deixar para lá."
+            "content": "Eu queria perguntar mais alguma coisa a Outis, mas, como a apresentação do Mandatário que estava à frente parecia começar para valer, resolvi deixar para lá."
         },
         {
             "id": 59,
             "model": "알레시오",
-            "content": "A La Manchaland, que surgirá neste lugar dentro das próximas três horas, é um Pesadelo Urbano oficial no qual mais de várias dezenas de Solucionadores fracassaram na subjugação."
+            "content": "A La Manchaland, que surgirá neste lugar dentro das próximas três horas, é um Pesadelo Urbano oficial no qual mais de várias dezenas de Mandatários fracassaram na subjugação."
         },
         {
             "id": 60,
@@ -308,7 +308,7 @@
         },
         {
             "id": 62,
-            "content": "Entre eles havia até Solucionadores que cochichavam que era só falta de habilidade."
+            "content": "Entre eles havia até Mandatários que cochichavam que era só falta de habilidade."
         },
         {
             "id": 63,
@@ -345,7 +345,7 @@
         {
             "id": 70,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "Tsc, é um conteúdo que todo mundo já sabe; pra que ficar recitando isso?"
         },
@@ -357,7 +357,7 @@
         {
             "id": 72,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "É justamente isso, é informação que todo mundo já sabe! Em vez de gastar tempo com isto, era melhor..."
         },
@@ -374,7 +374,7 @@
         {
             "id": 75,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "Heh..."
         },
@@ -386,12 +386,12 @@
         {
             "id": 77,
             "model": "한울",
-            "content": "Mas, ainda assim, a grande maioria de vocês não passa de mais um entre os Solucionadores que sobram aos montes — que morrem resolvendo casos de Pesadelo Urbano como este e são substituídos."
+            "content": "Mas, ainda assim, a grande maioria de vocês não passa de mais um entre os Mandatários que sobram aos montes — que morrem resolvendo casos de Pesadelo Urbano como este e são substituídos."
         },
         {
             "id": 78,
             "model": "한울",
-            "content": "...Vocês hão de ficar pelo caminho sem nem chegar a Solucionador de 1ª classe, posição em que eu estou."
+            "content": "...Vocês hão de ficar pelo caminho sem nem chegar a Mandatário de 1ª classe, posição em que eu estou."
         },
         {
             "id": 79,
@@ -405,12 +405,12 @@
         },
         {
             "id": 81,
-            "content": "O ar de riso foi sumindo do rosto das pessoas que riam, e a boca do Solucionador que gritava com vigor também se fechou com firmeza."
+            "content": "O ar de riso foi sumindo do rosto das pessoas que riam, e a boca do Mandatário que gritava com vigor também se fechou com firmeza."
         },
         {
             "id": 82,
             "model": "히스클리프",
-            "content": "Quer dizer que aquele Solucionador da Associação Hana... é de um nível parecido com o do guia, ou logo abaixo dele?"
+            "content": "Quer dizer que aquele Mandatário da Associação Hana... é de um nível parecido com o do guia, ou logo abaixo dele?"
         },
         {
             "id": 83,
@@ -440,13 +440,13 @@
         {
             "id": 88,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "E por isso... o preço dos terrenos aqui caiu pra valer~"
         },
         {
             "id": 89,
-            "content": "O Solucionador que antes nos abordara com afinco e depois fugira voltou a nos abordar, dissimuladamente."
+            "content": "O Mandatário que antes nos abordara com afinco e depois fugira voltou a nos abordar, dissimuladamente."
         },
         {
             "id": 90,
@@ -460,14 +460,14 @@
         {
             "id": 92,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "É claro — quando aquilo surgiu no início, foi de verdade uma coisa de doido."
         },
         {
             "id": 93,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "É que surgiu bem no meio de prédios apinhados; foi um pandemônio e tanto."
         },
@@ -479,28 +479,28 @@
         {
             "id": 95,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Como a maioria dos prédios da P Corp tem boa elasticidade, eles se curvaram na proporção do espaço que surgiu, mas não desabaram."
         },
         {
             "id": 96,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Mesmo assim, como a La Manchaland, ao se formar, se espalhou pelos arredores num instante, as pessoas que estavam lá se feriram e os prédios se curvaram todos, viu?"
         },
         {
             "id": 97,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Para um acidente daquela escala, o número de sobreviventes foi grande, sim — pois quem estava dentro dos prédios erguidos com a Singularidade da P Corp ficou ileso."
         },
         {
             "id": 98,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Agora ficou regulamentado que não se constrói prédio algum num raio de 3 km do ponto de surgimento~"
         },
@@ -517,21 +517,21 @@
         {
             "id": 101,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "É que dizem que o lema da P Corp é criar um lar seguro em qualquer lugar."
         },
         {
             "id": 102,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Mas, depois daquele desastre, não vai haver ninguém querendo se mudar pra cá, então o preço dos terrenos despencou tanto que furou o chão, sabe?"
         },
         {
             "id": 103,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Houve uma época em que os moradores daqui, sem aguentar mais, chegaram a pegar cartazes e a formar um grupo de autodefesa e a invadir a La Manchaland eles mesmos."
         },
@@ -588,21 +588,21 @@
         {
             "id": 114,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "Hein? Sanguinários...? São reais?"
         },
         {
             "id": 115,
             "model": "엑스트라해결사2",
-            "teller": "Solucionador Maravilhado",
+            "teller": "Mandatário Maravilhado",
             "title": "???",
             "content": "Você não conhece a Noite Sangrenta, que dizem ter sido famosa como Estrela da Cidade muito tempo atrás? Corria à boca pequena que aquilo era um Sanguinário descomunal."
         },
         {
             "id": 116,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "Quem é que sabe se aquele boato é verdade ou não? Tem tanto boato que, na realidade, não era nada de mais, e foi ganhando enfeite por qualquer coisinha."
         },
@@ -644,7 +644,7 @@
         {
             "id": 124,
             "model": "로쟈",
-            "content": "Os Solucionadores falam todos desse jeito? A Ish também, lá no lago, parece que falava assim antes..."
+            "content": "Os Mandatários falam todos desse jeito? A Ish também, lá no lago, parece que falava assim antes..."
         },
         {
             "id": 125,
@@ -668,7 +668,7 @@
         {
             "id": 129,
             "model": "한울",
-            "content": "...Continuando: depois de cerca de 6 horas dentro da La Manchaland, começará a tocar uma música que anuncia a saída. Isto também é um testemunho coerente, vindo de Solucionadores e visitantes que sobreviveram e voltaram."
+            "content": "...Continuando: depois de cerca de 6 horas dentro da La Manchaland, começará a tocar uma música que anuncia a saída. Isto também é um testemunho coerente, vindo de Mandatários e visitantes que sobreviveram e voltaram."
         },
         {
             "id": 130,
@@ -852,7 +852,7 @@
         },
         {
             "id": 166,
-            "content": "O Solucionador da Associação Hana também não negou aquelas palavras, propriamente."
+            "content": "O Mandatário da Associação Hana também não negou aquelas palavras, propriamente."
         },
         {
             "id": 167,
@@ -921,7 +921,7 @@
         },
         {
             "id": 180,
-            "content": "Talvez pela voz retumbante de Don Quixote, ou talvez por acharem que ela estragava um briefing que mal chegava ao fim, os Solucionadores ali presentes olharam todos ao mesmo tempo em nossa direção."
+            "content": "Talvez pela voz retumbante de Don Quixote, ou talvez por acharem que ela estragava um briefing que mal chegava ao fim, os Mandatários ali presentes olharam todos ao mesmo tempo em nossa direção."
         },
         {
             "id": 181,
@@ -980,7 +980,7 @@
         {
             "id": 192,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Hmm..."
         },
@@ -1017,14 +1017,14 @@
         {
             "id": 199,
             "model": "엑스트라해결사1",
-            "teller": "Solucionador Resmungão",
+            "teller": "Mandatário Resmungão",
             "title": "???",
             "content": "De onde é que esses caras vieram?"
         },
         {
             "id": 200,
             "model": "엑스트라해결사2",
-            "teller": "Solucionador Maravilhado",
+            "teller": "Mandatário Maravilhado",
             "title": "???",
             "content": "Cara, deixa eu ver."
         },
@@ -1056,7 +1056,7 @@
         {
             "id": 206,
             "model": "돈키호테",
-            "content": "Um Solucionador não deveria pesar vidas numa balança movida por um mero fluxo de dinheiro, deveria? Desde quando os Solucionadores das associações decaíram a este ponto?!"
+            "content": "Um Mandatário não deveria pesar vidas numa balança movida por um mero fluxo de dinheiro, deveria? Desde quando os Mandatários das associações decaíram a este ponto?!"
         },
         {
             "id": 207,
@@ -1066,7 +1066,7 @@
         {
             "id": 208,
             "model": "돈키호테",
-            "content": "Eu sei, senhor Camille. Filiado à 3ª seção da Associação Shank. Alguém que é publicado com constância nas revistas mensais de Solucionador. Atualmente em 7º lugar entre os Solucionadores com quem mais se quer jantar."
+            "content": "Eu sei, senhor Camille. Filiado à 3ª seção da Associação Shank. Alguém que é publicado com constância nas revistas mensais de Mandatário. Atualmente em 7º lugar entre os Mandatários com quem mais se quer jantar."
         },
         {
             "id": 209,
@@ -1176,7 +1176,7 @@
         {
             "id": 231,
             "model": "파우스트",
-            "content": "Numa situação como esta, com os olhares dos Solucionadores concentrados, girar o relógio publicamente para um combate sem proveito... eu não recomendo."
+            "content": "Numa situação como esta, com os olhares dos Mandatários concentrados, girar o relógio publicamente para um combate sem proveito... eu não recomendo."
         },
         {
             "id": 232,

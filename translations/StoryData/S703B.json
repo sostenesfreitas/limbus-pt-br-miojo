@@ -81,16 +81,16 @@
         {
             "id": 16,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "Olha, eu falo porque vocês parecem não saber direito. Não pode entrar aqui de qualquer jeito, não pode!"
         },
         {
             "id": 17,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
-            "content": "Tanto eu quanto o pessoal reunido aqui somos Solucionadores, So-lu-ci-o-na-do-res. Aqui é uma área de operação onde gente comum não pode ficar à toa! Francamente, que jeito é esse da P Corp administrar as coisas."
+            "content": "Tanto eu quanto o pessoal reunido aqui somos Mandatários, So-lu-ci-o-na-do-res. Aqui é uma área de operação onde gente comum não pode ficar à toa! Francamente, que jeito é esse da P Corp administrar as coisas."
         },
         {
             "id": 18,
@@ -105,7 +105,7 @@
         {
             "id": 20,
             "model": "돈키호테",
-            "content": "Embora ainda não sejamos Solucionadores, ao menos no coração de lutar sem hesitar diante da morte pela justiça somos todos iguais!"
+            "content": "Embora ainda não sejamos Mandatários, ao menos no coração de lutar sem hesitar diante da morte pela justiça somos todos iguais!"
         },
         {
             "id": 21,
@@ -114,7 +114,7 @@
         {
             "id": 22,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "E-ei...? Você está entrando sabendo o que é este lugar...?"
         },
@@ -126,13 +126,13 @@
         {
             "id": 24,
             "model": "해결사들",
-            "teller": "Solucionadores Reunidos",
+            "teller": "Mandatários Reunidos",
             "title": "???",
             "content": "……."
         },
         {
             "id": 25,
-            "content": "Ao brado retumbante de Don Quixote, até os Solucionadores que estavam longe olharam, todos ao mesmo tempo, para a entrada do terreno baldio."
+            "content": "Ao brado retumbante de Don Quixote, até os Mandatários que estavam longe olharam, todos ao mesmo tempo, para a entrada do terreno baldio."
         },
         {
             "id": 26,
@@ -140,41 +140,41 @@
         },
         {
             "id": 27,
-            "content": "Naquele momento, um Solucionador que portava uma arma enorme se aproximou de nós a passos largos."
+            "content": "Naquele momento, um Mandatário que portava uma arma enorme se aproximou de nós a passos largos."
         },
         {
             "id": 28,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "title": "???",
             "content": "Vocês também... são gente que veio caçar?"
         },
         {
             "id": 29,
             "model": "휴고",
-            "teller": "Solucionador Espalhafatoso",
+            "teller": "Mandatário Espalhafatoso",
             "title": "???",
             "content": "E-eh... ah, caramba! Agora que reparo, esqueci de fazer a checagem da arma; não é hora para isto, melhor ir logo terminar de cuidar dela!"
         },
         {
             "id": 30,
-            "content": "O sujeito que se gabava, gritando com afetação, fugiu depressa assim que o outro Solucionador se intrometeu, e..."
+            "content": "O sujeito que se gabava, gritando com afetação, fugiu depressa assim que o outro Mandatário se intrometeu, e..."
         },
         {
             "id": 31,
-            "content": "...os outros Solucionadores, como quem sabia o que estava por vir, balançaram a cabeça e desviaram o rosto de nós."
+            "content": "...os outros Mandatários, como quem sabia o que estava por vir, balançaram a cabeça e desviaram o rosto de nós."
         },
         {
             "id": 32,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "title": "???",
             "content": "Dá pra ver de cara que vocês não vêm de uma associação; parece que vieram de algum escritório medíocre e desconhecido..."
         },
         {
             "id": 33,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "title": "???",
             "content": "Afinal, quantos mais vão se arrastar pra cá? Vendo a quantidade de zé-ninguém aumentar, fico preocupado se o valor da subjugação que vocês esperam não vai encolhendo a ponto de, no fim, vocês só conseguirem segurar o troco na mão."
         },
@@ -191,7 +191,7 @@
         {
             "id": 36,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "content": "Vocês, alguma vez viram um de verdade?"
         },
         {
@@ -202,7 +202,7 @@
         {
             "id": 38,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "content": "Sanguinários."
         },
         {
@@ -218,13 +218,13 @@
         {
             "id": 41,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "content": "Veja só. Esses caras também entraram sem saber direito de nada."
         },
         {
             "id": 42,
             "model": "혈귀사냥꾼",
-            "teller": "Solucionador Fora do Comum",
+            "teller": "Mandatário Fora do Comum",
             "content": "Eu fico furioso quando vejo gente como vocês, que se atira de cabeça só de olho no dinheiro, sem saber de nada. Além de atrapalharem a caça aos Sanguinários, ainda esfriam toda a empolgação que estava em alta dentro de mim."
         },
         {
