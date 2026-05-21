@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Backstreets of District 8, Kezhan Ruins",
+            "place": "Ruelas dos Fundos do Distrito 8, Ruínas de Kezhan",
             "model": "단테",
             "content": "<…….>"
         },
@@ -41,8 +41,8 @@
         },
         {
             "id": 7,
-            "place": "Backstreets of District 8, Entrance",
-            "teller": "Singing Voice",
+            "place": "Ruelas dos Fundos do Distrito 8, Entrada",
+            "teller": "Voz Cantando",
             "title": "???",
             "content": "Quando o que está longe vier procurar, por entre a porta queimada uma estrela vem cair~"
         },
@@ -58,7 +58,7 @@
         },
         {
             "id": 10,
-            "place": "Backstreets of District 8, Kezhan Ruins",
+            "place": "Ruelas dos Fundos do Distrito 8, Ruínas de Kezhan",
             "model": "단테",
             "content": "<…Dante. O Gerente deles.>"
         },
@@ -381,7 +381,7 @@
         },
         {
             "id": 65,
-            "place": "Backstreets of District 8",
+            "place": "Ruelas dos Fundos do Distrito 8",
             "model": "가시춘",
             "title": "Família Jia",
             "content": "…foi assim que aconteceu. Como você estava morto, mano, não deve ter sabido."

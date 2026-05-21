@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Corridor of the Middle Nursefather",
+            "place": "Corredor do Pai-Babá do Médio",
             "model": "뉴키라",
             "content": "…O quê. Aqui também levaram tudo embora."
         },
@@ -85,7 +85,7 @@
         },
         {
             "id": 17,
-            "place": "Corridor of the Middle Nursefather",
+            "place": "Corredor do Pai-Babá do Médio",
             "content": "Sem que se notasse, só restava uma porta dos fundos a verificar."
         },
         {
@@ -545,7 +545,7 @@
         },
         {
             "id": 111,
-            "place": "Corridor of the Ring Nursefather, Past",
+            "place": "Corredor do Pai-Babá do Anel, Passado",
             "model": "과거료슈1",
             "content": "Papai. Eu… o que eu tenho de fazer para ir à escola?"
         },
@@ -591,7 +591,7 @@
         },
         {
             "id": 120,
-            "place": "Corridor of the Index Nursefather, Past",
+            "place": "Corredor do Pai-Babá do Indicador, Passado",
             "model": "약지아비",
             "content": "Como parte da minha educação, eu pretendo mandar Yoshihide a uma academia."
         },
@@ -658,29 +658,29 @@
         },
         {
             "id": 133,
-            "place": "The Ring's Subsidiary Art Academy",
+            "place": "Academia de Arte Subsidiária do Anel",
             "teller": "Instructor",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Hoje vamos todos juntos aprender a técnica dos Corporalistas."
         },
         {
             "id": 134,
             "teller": "Instructor",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Entrelacem bem os vasos sanguíneos do modelo que eu distribuí e façam igualzinho à figura desenhada aqui…"
         },
         {
             "id": 135,
             "model": "약지아이1",
             "teller": "Miffed Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Eu não entendo por que a gente tem de aprender uma coisa tipo a técnica dos Corporalistas."
         },
         {
             "id": 136,
             "model": "약지아이2",
             "teller": "Picky Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Eu vi num livro que, hoje em dia, mesmo sem torcer o vaso sanguíneo assim, dá para fazer mais bonito pondo pigmento dentro."
         },
         {
@@ -692,14 +692,14 @@
             "id": 138,
             "model": "약지아이1",
             "teller": "Miffed Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Aff… eu queria mesmo era aprender logo a partir da técnica do Cubismo…"
         },
         {
             "id": 139,
             "model": "약지아이1",
             "teller": "Miffed Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Sinceramente, por que a gente tem de aprender uma arte ultrapassada? Só é cruel e infantil…"
         },
         {
@@ -711,14 +711,14 @@
             "id": 141,
             "model": "약지아이2",
             "teller": "Picky Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "O que ela disse? Você está defendendo só porque o seu pai é um Corporalista?"
         },
         {
             "id": 142,
             "model": "약지아이1",
             "teller": "Miffed Child",
-            "title": "The Ring",
+            "title": "O Anel",
             "content": "Bem que aquilo que ela faz também é meio… a-aaah!"
         },
         {
@@ -749,7 +749,7 @@
         },
         {
             "id": 148,
-            "place": "Corridor of the Middle Nursefather, Past",
+            "place": "Corredor do Pai-Babá do Médio, Passado",
             "model": "과거료슈1",
             "content": "Papai, eu cheguei."
         },
@@ -861,7 +861,7 @@
         },
         {
             "id": 170,
-            "place": "The Ring's Subsidiary Art Academy",
+            "place": "Academia de Arte Subsidiária do Anel",
             "model": "과거료슈1",
             "content": "Ã…?"
         },
@@ -912,7 +912,7 @@
         },
         {
             "id": 180,
-            "place": "Corridor of the Ring Nursefather, Past",
+            "place": "Corredor do Pai-Babá do Anel, Passado",
             "model": "약지아비",
             "content": "Mas que… ato pior que o de uma fera…"
         },
@@ -1205,7 +1205,7 @@
         },
         {
             "id": 240,
-            "place": "Corridor of the Middle Nursefather",
+            "place": "Corredor do Pai-Babá do Médio",
             "model": "앨런",
             "content": "…? Vocês voltaram cedo?"
         },
