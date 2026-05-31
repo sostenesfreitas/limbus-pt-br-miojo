@@ -1,0 +1,332 @@
+{
+  "dataList": [
+    {
+      "id": "UnitKeyword_BLADE_LINEAGE",
+      "content": "Linhagem da Lâmina"
+    },
+    {
+      "id": "UnitKeyword_BLACK_CLOUD",
+      "content": "Clã Kurokumo"
+    },
+    {
+      "id": "UnitKeyword_YURODIVY",
+      "content": "Yurodiviye"
+    },
+    {
+      "id": "UnitKeyword_MACHINE_BOUND_ORGANISM",
+      "content": "Amálgama Mecânica"
+    },
+    {
+      "id": "UnitKeyword_ON_THE_LAKE",
+      "content": "Entidade do Lago"
+    },
+    {
+      "id": "UnitKeyword_N_CORP",
+      "content": "N Corp."
+    },
+    {
+      "id": "UnitKeyword_K_CORP",
+      "content": "K Corp."
+    },
+    {
+      "id": "UnitKeyword_G_CORP",
+      "content": "G Corp."
+    },
+    {
+      "id": "UnitKeyword_W_CORP",
+      "content": "W Corp."
+    },
+    {
+      "id": "UnitKeyword_R_CORP",
+      "content": "R Corp."
+    },
+    {
+      "id": "UnitKeyword_T_CORP",
+      "content": "T Corp."
+    },
+    {
+      "id": "UnitKeyword_SEVEN",
+      "content": "Associação Seven"
+    },
+    {
+      "id": "UnitKeyword_CINQ",
+      "content": "Associação Cinq"
+    },
+    {
+      "id": "UnitKeyword_ZWEI",
+      "content": "Associação Zwei"
+    },
+    {
+      "id": "UnitKeyword_LIU",
+      "content": "Associação Liu"
+    },
+    {
+      "id": "UnitKeyword_SHI",
+      "content": "Associação Shi"
+    },
+    {
+      "id": "UnitKeyword_DIECI",
+      "content": "Associação Dieci"
+    },
+    {
+      "id": "UnitKeyword_OUFI",
+      "content": "Associação Öufi"
+    },
+    {
+      "id": "UnitKeyword_TROUBLE_SHOOTER",
+      "content": "Oficina Rosespanner"
+    },
+    {
+      "id": "UnitKeyword_ATL",
+      "content": "Aliança de Liberação Tecnológica"
+    },
+    {
+      "id": "UnitKeyword_MOLAR",
+      "content": "Escritório Molar"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER",
+      "content": "O Médio"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER",
+      "content": "O Anel"
+    },
+    {
+      "id": "UnitKeyword_PEQUOD_CREW",
+      "content": "O Pequod"
+    },
+    {
+      "id": "UnitKeyword_WUTHERING_HEIGHTS",
+      "content": "Morro dos Ventos Uivantes"
+    },
+    {
+      "id": "UnitKeyword_DEAD_RABBITS",
+      "content": "Os Coelhos Mortos"
+    },
+    {
+      "id": "UnitKeyword_WILD_HUNT",
+      "content": "A Caçada Selvagem"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY",
+      "content": "Limbus Company"
+    },
+    {
+      "id": "UnitKeyword_KONG_KONG",
+      "content": "Bando Tingtang"
+    },
+    {
+      "id": "UnitKeyword_MARIACHI",
+      "content": "Los Mariachis"
+    },
+    {
+      "id": "UnitKeyword_HOOK_OFFICE",
+      "content": "Escritório Gancho"
+    },
+    {
+      "id": "UnitKeyword_DUAL_HOOK_PIRATE",
+      "content": "Piratas de Gancho Duplo"
+    },
+    {
+      "id": "UnitKeyword_DAWN",
+      "content": "Escritório do Amanhecer"
+    },
+    {
+      "id": "UnitKeyword_MULTI_CRACK",
+      "content": "Escritório MultiCrack"
+    },
+    {
+      "id": "UnitKeyword_BACKSTREET_COOK",
+      "content": "R.B."
+    },
+    {
+      "id": "UnitKeyword_TIEQIU",
+      "content": "Tripulação Tieqiu"
+    },
+    {
+      "id": "UnitKeyword_LINTON",
+      "content": "Família Edgar"
+    },
+    {
+      "id": "UnitKeyword_LOBOTOMY_HEAD",
+      "content": "Sede da Lobotomy Corp."
+    },
+    {
+      "id": "UnitKeyword_LOBOTOMY_BRANCH",
+      "content": "Filial da Lobotomy Corp."
+    },
+    {
+      "id": "UnitKeyword_FIXER",
+      "content": "Mandatário"
+    },
+    {
+      "id": "UnitKeyword_CLAN",
+      "content": "Sindicato"
+    },
+    {
+      "id": "UnitKeyword_WHITE_PARASITE",
+      "content": "Empalidecido"
+    },
+    {
+      "id": "UnitKeyword_N_CORP_FNATIC",
+      "content": "Fanático da N Corp."
+    },
+    {
+      "id": "UnitKeyword_BACK_STREET",
+      "content": "Os Becos"
+    },
+    {
+      "id": "UnitKeyword_DEVYAT",
+      "content": "Associação Devyat'"
+    },
+    {
+      "id": "UnitKeyword_LA_MANCHA_LAND",
+      "content": "La Manchaland"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE",
+      "content": "LCE"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCC",
+      "content": "LCC"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCB",
+      "content": "LCB"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_RABBIT",
+      "content": "Bando Heishou - Filial Mao"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST",
+      "content": "Bando Heishou"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_SNAKE",
+      "content": "Bando Heishou - Filial Si"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_CAPO_FOUR",
+      "content": "Capo IIII"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_TWO",
+      "content": "Soldato II"
+    },
+    {
+      "id": "UnitKeyword_THUMB_LEVEL_SOLDATO_THREE",
+      "content": "Soldato III"
+    },
+    {
+      "id": "UnitKeyword_EGO_EQUIPMENT",
+      "content": "Equipamento E.G.O"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_CHIEF",
+      "content": "Adepto do Bando Heishou"
+    },
+    {
+      "id": "UnitKeyword_H_CORP",
+      "content": "H Corp."
+    },
+    {
+      "id": "UnitKeyword_FAMILY_GA_CANCELED",
+      "content": "<color=#d40000><s>Família Jia</s></color>"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_HORSE",
+      "content": "Bando Heishou - Filial Wu"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_CHICKEN",
+      "content": "Bando Heishou - Filial You"
+    },
+    {
+      "id": "UnitKeyword_FAMILY_GA_HIERARCH",
+      "content": "Patriarca da Família"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_CHIEF_FORMER",
+      "content": "<color=#d40000><s>Adepto do Bando Heishou</s></color>"
+    },
+    {
+      "id": "UnitKeyword_NIGHTSTILETTO",
+      "content": "Furadores Noturnos"
+    },
+    {
+      "id": "UnitKeyword_JEONG_OFFICE",
+      "content": "Escritório de Jeong"
+    },
+    {
+      "id": "UnitKeyword_OUFI_COOP",
+      "content": "Escritório Associado - Öufi"
+    },
+    {
+      "id": "UnitKeyword_BLACK_BEAST_SHEEP",
+      "content": "Bando Heishou - Filial Wei"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCA",
+      "content": "LCA"
+    },
+    {
+      "id": "UnitKeyword_TRUST_AGENT",
+      "content": "O Procurador do Oráculo"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_MAESTRO",
+      "content": "Maestro"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_DOCENT",
+      "content": "Docente"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_STUDENT",
+      "content": "Estudante"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_FAUVISM",
+      "content": "Escola de Fauvismo"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_POINTILLISM",
+      "content": "Escola de Pontilhismo"
+    },
+    {
+      "id": "UnitKeyword_RING_FINGER_PHYSICAL",
+      "content": "Escola de Corporismo"
+    },
+    {
+      "id": "UnitKeyword_FINGER_CANCELED",
+      "content": "<s>Os Dedos</s>"
+    },
+    {
+      "id": "UnitKeyword_MIDDLE_FINGER_CANCELED",
+      "content": "<s>O Médio</s>"
+    },
+    {
+      "id": "UnitKeyword_SPIDER_HOUSE_CANCELED",
+      "content": "<s>A Casa das Aranhas</s>"
+    },
+    {
+      "id": "UnitKeyword_LIMBUS_COMPANY_LCE_UNSETTLED",
+      "content": "LCE?"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR",
+      "content": "Estrela Dihui"
+    },
+    {
+      "id": "UnitKeyword_DIHUI_STAR_CANCELED",
+      "content": "<color=#d40000><s>Estrela Dihui</s></color>"
+    },
+    {
+      "id": "UnitKeyword_BIG_SISTER_PAST",
+      "content": "<color=#d40000><s>Grande Irmã</s></color>"
+    }
+  ]
+}

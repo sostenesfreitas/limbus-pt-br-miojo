@@ -1,0 +1,1804 @@
+{
+  "dataList": [
+    {
+      "id": 956301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devastação Esvoaçante",
+          "desc": "[WhenUse]\n- Poder de Embate +1 para cada 8 ([Combustion] + [Laceration]) no alvo (máx. 3)\n- Causa +5% de dano para cada 6 [Breath] em si (máx. 20%)\n- Recebe 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pulverização",
+          "desc": "[WhenUse]\n- Poder de Embate +1 para cada 8 ([Combustion] + [Laceration]) no alvo (máx. 3)\n- Causa +5% de dano para cada 6 [Breath] em si (máx. 20%)\n- Recebe +2 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Aceleração",
+          "desc": "[CantDuel], [CantChangeTarget]\nEsta Habilidade de Ataque causa 0 de dano\n[WhenUse] Não recebe dano neste turno\n[EndSkill] Encerra o Encontro",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vida Entrelaçada - Regressão",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Tipo de Ataque e Afinidade</u></b></mark></color> das Habilidades que Embateram com esta Habilidade afetam o Passado iminente\n- Unidades inimigas do Estágio 2 ganham [HeatedWingScalesExplain]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vida Entrelaçada - Manifestação",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Tipo de Ataque e Afinidade</u></b></mark></color> das Habilidades que Embateram com esta Habilidade afetam o Presente iminente\n- Unidades inimigas do Estágio 3 ganham [TransparentWingScalesExplain]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vida Entrelaçada - Advento",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Tipo de Ataque e Afinidade</u></b></mark></color> das Habilidades que Embateram com esta Habilidade afetam o Futuro iminente\n- Unidades inimigas do Estágio 4 ganham [RustedWingScalesExplain]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eclosão",
+          "desc": "[CantDuel][CantChangeTarget]\nEsta Habilidade de Ataque causa 0 de dano\n[EndSkill] Encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eclosão",
+          "desc": "[CantDuel][CantChangeTarget]\nEsta Habilidade de Ataque causa 0 de dano\n[EndSkill] Encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eclosão",
+          "desc": "[CantDuel][CantChangeTarget]\nEsta Habilidade de Ataque causa 0 de dano\n[EndSkill] Encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devastação Esvoaçante",
+          "desc": "[WhenUse]\n- Poder de Embate +1 para cada 8 ([Combustion] no alvo + [Laceration] no alvo) (máx. 3)\n- Causa +10% de dano para cada 8 [Breath] em si (máx. 30%)\n- Recebe 2 de [Breath]\n- Com menos de 66% de HP, converte a Moeda final em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pulverização",
+          "desc": "[WhenUse]\n- Poder de Embate +1 para cada 8 ([Combustion] + [Laceration]) no alvo (máx. 3)\n- Causa +10% de dano para cada 8 [Breath] em si (máx. 30%)\n- Recebe +2 de Contagem de [Breath]\n- Com menos de 66% de HP, converte a Moeda final em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tumulto Caótico",
+          "desc": "[WhenUse]\n- Poder de Embate +1 para cada 6 ([Combustion] + [Laceration]) no alvo (máx. 6)\n- Poder de Embate +1 para cada 6 [Breath] em si (máx. 3)\n[DefeatDuel]\nRecebe <color=#ff6000><mark=#ff000040><b><u>2 de [ResultReduction] e 2 de [AttackDmgDown]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Reusa esta Moeda uma vez para cada 33% de HP faltante (máx. 2 vezes)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Temperar e Fundir",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder de Embate +1 para cada 6 [Combustion] no alvo (máx. 6)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion] e +1 de Contagem de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Combustion] no alvo uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Imolação",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder de Embate +1 para cada 6 [Combustion] no alvo principal (máx. 6)\n- <color=#ff6000><mark=#ff000040><b><u>Causa +([StackPastActivate] x 2)% de dano</u></b></mark></color> (máx. 60%)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Combustion] no alvo 2 vezes</u></b></mark></color>. O alvo perde 2 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, ativa [Combustion] no alvo principal uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kalpāgni",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder Final +1 para cada 6 [Combustion] no alvo principal (máx. 6)\n- <color=#ff6000><mark=#ff000040><b><u>Causa +([StackPastActivate] x 4)% de dano</u></b></mark></color> (máx. 120%)\n[WinDuel] Recebe 5 de [StackPastActivate]\n[DefeatDuel]\n- Divide ao meio [StackPastActivate] (arredondado para baixo)\n- Recebe 2 de [AttackDmgDown] e 4 de [Paralysis] \n- O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion] e +1 de Contagem de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion] e +1 de Contagem de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Combustion] no alvo uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Combustion] no alvo 2 vezes</u></b></mark></color>. O alvo perde 2 de Contagem de [Combustion]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, ativa [Combustion] no alvo uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anitya",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder de Embate +1 e causa +10% de dano para cada 6 [Breath] em si (máx. 6 e 60%, respectivamente)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[BeforeAttack] Recebe 2 de [Breath] e +2 de Contagem de [Breath]\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [Breath] e +1 de Contagem de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Causa ([Breath] em si / 2) de dano de Orgulho no alvo</u></b></mark></color> e perde 1 de Contagem de [Breath] (arredondado para baixo)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perfura-Céus",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder de Embate +1 e causa +10% de dano para cada 6 [Breath] em si (máx. 6 e 60%, respectivamente)\n- <color=#ff6000><mark=#ff000040><b><u>Causa +([StackPresentActivate] x 2)% de dano</u></b></mark></color> (máx. 60%)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[BeforeAttack] Recebe 3 de [Breath] e +2 de Contagem de [Breath]\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe +1 de Contagem de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Causa +(Contagem de [Breath] em si)% de dano</u></b></mark></color> (máx. 50%)"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, causa +(Contagem de [Breath] em si)% de dano</u></b></mark></color> (máx. 30%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Causa +([Breath] em si x 2)% de dano</u></b></mark></color> (máx. 100%)"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, causa +([Breath] em si)% de dano</u></b></mark></color> (máx. 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Castigar os Ímpios",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder Final +1 e causa +20% de dano para cada 6 [Breath] em si (máx. 6 e 120%, respectivamente)\n- Recebe 4 de [Breath] e +4 de Contagem de [Breath]\n- <color=#ff6000><mark=#ff000040><b><u>Causa +([StackPresentActivate] x 4)% de dano (máx. 120%)</u></b></mark></color>\n[BeforeAttack] Se esta unidade tem 20+ de Potência de [Breath], consome até 20 de Potência de [Breath] excedente além de 20 para causar +([Breath] consumido x 5)% de dano (máx. 100%)\n- Ao Perder o Embate, este efeito não ativa\n[WinDuel] Recebe 5 de [StackPresentActivate]\n[DefeatDuel]\n- Divide ao meio [StackPresentActivate] (arredondado para baixo)\n- Recebe 2 de [AttackDmgDown] e 1 de [Paralysis]\n- O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade\n[EndSkill] Se o alvo for morto, Reusa esta Habilidade no alvo com o maior HP (uma vez por turno)\n- Ao Perder o Embate, este efeito não ativa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Se a Resist. a Perfuração do alvo estiver abaixo de \"Fraco\" (1,5), trata-a como Fraco (1,5)</u></b></mark></color>\n- Ao Perder o Embate, este efeito não ativa"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, causa +(50% do dano desta Moeda)% de dano de Perfuração bônus</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956710,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desintegração Corrosiva",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Poder de Embate +1 para cada 6 [Laceration] no alvo (máx. 6)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Laceration] no alvo uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aniquilação Putrefata",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\nEnquanto Embatendo com esta Habilidade, <color=#ff6000><mark=#ff000040><b><u>a Contagem de [Laceration] do alvo principal não cai abaixo de 1</u></b></mark></color>\n[WhenUse]\n- Poder de Embate +1 para cada 6 [Laceration] no alvo principal (máx. 6)\n- Causa +([StackFutureActivate] x 2)% de dano (máx. 60%)\n- Com menos de 66% de HP, converte a segunda Moeda em [SuperCoin]\n- Com menos de 33% de HP, converte todas as Moedas em [SuperCoin]s\n[DefeatDuel] O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Laceration] no alvo 2 vezes</u></b></mark></color>. O alvo perde 2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, ativa [Laceration] no alvo principal uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956712,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flor de Sangue",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\nEnquanto Embatendo com esta Habilidade, <color=#ff6000><mark=#ff000040><b><u>a Contagem de [Laceration] do alvo principal não cai abaixo de 1</u></b></mark></color>\n[WhenUse]\n- Poder Final +1 para cada 6 [Laceration] no alvo principal (máx. 6)\n- Causa +([StackFutureActivate] x 4)% de dano (máx. 120%)\n[WinDuel] Recebe 5 de [StackFutureActivate]\n[DefeatDuel]\n- Divide ao meio [StackFutureActivate] (arredondado para baixo)\n- Recebe 2 de [AttackDmgDown] e 2 de [Paralysis]\n- O alvo não pode ser Atordoado até o Fim do Ataque desta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +3 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Ativa [Laceration] no alvo 2 vezes</u></b></mark></color>. O alvo perde 2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]\n<color=#ff6000><mark=#ff000040><b><u>Com menos de 33% de HP, ativa [Laceration] no alvo uma vez</u></b></mark></color>. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ira da Escama Invertida [逆鱗之禍]",
+          "desc": "Esta Habilidade ativa apenas quando <color=#ff6000><mark=#ff000040><b><u>a Parte \"Escama Invertida\" é atingida como alvo principal</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Consome todo [YesdragonSelfRefraction]</u></b></mark></color> em si e Reusa a Moeda final (# de Cargas consumidas) vezes (máx. 5 vezes)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Causa 5 de dano de SP"
+                },
+                {
+                  "desc": "[EnemyKill] Ao matar o alvo principal, aplica o efeito [WideAreaRampage] nesta Habilidade"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moeda só causa dano ao alvo principal. Se [WideAreaRampage] for aplicado, esta Moeda causa dano a todos os alvos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clarão de Raio [閃雷]",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rugido do Dragão [龍聲]",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "O Alfinete Descendente [落針]",
+          "desc": "[WhenUse] Poder Base +1 <color=#ff6000><mark=#ff000040><b><u>para cada 2 [YesdragonSelfRefraction]</u></b></mark></color> em si\n[WhenUse] Se o alvo tem [Binding] ou [Paralysis], Poder Base +2\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Gera \"Alfinete Sepultador de Flores\" no próximo turno</u></b></mark></color>\n[DefeatDuel] Cura 5 de SP no alvo\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Não gera \"Alfinete Sepultador de Flores\"</u></b></mark></color>, e a cabeça recebe <color=#ff6000><mark=#ff000040><b><u>dano fixo</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst] e +2 de Contagem de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vórtice Dracônico [龍卷]",
+          "desc": "[WhenUse] Se o alvo principal tem [Binding] ou [Paralysis], Poder de Moeda +1\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Aplica [YesdragonWind]</u></b></mark></color> no alvo principal",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuva Acumulada [積雨]",
+          "desc": "[WhenUse] Poder Base +1 <color=#ff6000><mark=#ff000040><b><u>para cada [YesdragonSelfRefraction]</u></b></mark></color> em si\n[WhenUse] Se esta unidade tem <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction]</u></b></mark></color>, Poder de Moeda +1 e ganha +1 de Peso de Atq\n[DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se esta unidade tem <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction], Reusa esta Moeda</u></b></mark></color> (uma vez por Habilidade)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Queda Relâmpago [落雷]",
+          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Mira \"Alfinete Sepultador de Flores\"</u></b></mark></color>\nSe \"Alfinete Sepultador de Flores\" for destruído, cancela esta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Burst] e +3 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 50% de chance de infligir 1 de [Paralysis] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Cunha do Dragão [龍之櫼]",
+          "desc": "[CanDuelGuard]\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Recebe 1 de [DragonLanceRefraction]</u></b></mark></color> no próximo turno\n[DefeatDuel] Cancel the Combat Start effect. Recebe 3 de [Endurance] no próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ira da Escama Invertida [逆鱗之禍]",
+          "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Consome todo [YesdragonSelfRefraction]</u></b></mark></color> em si e Reusa a Moeda final (# de Cargas consumidas) vezes (máx. 5 vezes)\n[DefeatDuel] Causa -50% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Causa 5 de dano de SP"
+                },
+                {
+                  "desc": "[EnemyKill] Ao matar o alvo principal, aplica o efeito [WideAreaRampage] nesta Habilidade"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moeda só causa dano ao alvo principal. Se [WideAreaRampage] for aplicado, esta Moeda causa dano a todos os alvos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [CondensedBloodRefraction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clarão de Raio [閃雷]",
+          "desc": "[WhenUse] Se o alvo principal tiver menos de 35 de SP, Poder Base +1\n[DefeatDuel] Causa -50% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Paralysis] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rugido do Dragão [龍聲]",
+          "desc": "[WhenUse] Se o alvo principal tiver menos de 35 de SP, Poder de Moeda +1\n[DefeatDuel] Causa -50% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "O Alfinete Descendente [落針]",
+          "desc": "[WhenUse] Poder Base +1 <color=#ff6000><mark=#ff000040><b><u>para cada 2 [YesdragonSelfRefraction]</u></b></mark></color> em si\n[WhenUse] Se o alvo tem [Binding] ou [Paralysis], Poder Base +2\n[WhenUse] Se esta unidade tem <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction]</u></b></mark></color>, Poder de Moeda +1\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Gera \"Alfinete Sepultador de Flores\" no próximo turno</u></b></mark></color>\n[DefeatDuel]<color=#ff6000><mark=#ff000040><b><u>Não gera \"Alfinete Sepultador de Flores\"</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Causa 5 de dano de SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst] e +2 de Contagem de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vórtice Dracônico [龍卷]",
+          "desc": "[WhenUse] Se o alvo principal tem [Binding] ou [Paralysis], Poder de Moeda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chuva Acumulada [積雨]",
+          "desc": "[WhenUse] Poder Base +1 <color=#ff6000><mark=#ff000040><b><u>para cada [YesdragonSelfRefraction]</u></b></mark></color> em si\n[WhenUse] Se esta unidade tem <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction]</u></b></mark></color>, Poder de Moeda +1 e ganha +1 de Peso de Atq\n[DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Causa 5 de dano de SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se esta unidade tem <color=#ff6000><mark=#ff000040><b><u>5+ [YesdragonSelfRefraction], Reusa esta Moeda</u></b></mark></color> (uma vez por Habilidade)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [CondensedBloodRefraction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Queda Relâmpago [落雷]",
+          "desc": "[CantDuel][CantChangeTarget] \n<color=#ff6000><mark=#ff000040><b><u>Mira \"Alfinete Sepultador de Flores\"</u></b></mark></color>\nSe \"Alfinete Sepultador de Flores\" for destruído, cancela esta Habilidade",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Burst] e +3 de Contagem de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] 50% de chance de infligir 1 de [Paralysis] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Marés Nascidas das Lágrimas do Dragão [龍淚成濤]",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse] Até esta Habilidade terminar, esta unidade não pode ser Atordoada ao receber dano\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Para cada [DragonLanceRefraction] em si</u></b></mark></color>, Poder de Moeda +1 e ganha +1 de Peso de Atq\n- Se [DragonLanceRefraction] estiver com Carga máx., causa +100% de dano adicional\n[DefeatDuel] Causa -80% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo\n[DefeatDuel] Recebe 3 de [Vulnerable] até o próximo Fim do Turno\n[EndSkillAll] Reduz a Carga de [DragonLanceRefraction] a 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [CondensedBloodRefraction]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [CondensedBloodRefraction]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 957001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trespassar a Si, Impureza a Purgar [自穿滅汚]",
+          "desc": "[CantDuel] [CantIdentify]\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Se o Jade Carmesim estiver com 1 de HP, causa 0 de dano</u></b></mark></color>, e os efeitos de Moeda não ativam\n[EndSkill] Esta unidade morre",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5 de Contagem de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 957101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfinete Portador do Espírito do Dragão",
+          "desc": "[CanDuelGuard]\n[WinDuel] Inflige 1 de [Vulnerable] no alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso-Réplica",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color>\nPode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Recebe 3 de [Breath] e +3 de Contagem de [Breath]\n- Poder de Embate +5 (<color=#ff6000><mark=#ff000040><b><u>o Poder de Embate ganho é reduzido em 1 para cada 8 [KarmaOfIndexRien] em si, até 0</u></b></mark></color>)\n[WhenUse] Com 0+ de SP, gera 1 Mang\n- Causa +20% de dano; Poder Final +3\n[WinDuel]\n- Recebe 3 de [Breath] e +3 de Contagem de [Breath]\n- Fim do Ataque: Inflige 3 de [Laceration], 1 [Binding], e 1 de [Vulnerable] no próximo turno a todos os alvos que esta unidade atingiu\n[DefeatDuel]\n- Recebe 4 de [AttackDmgDown] e 9 de [Paralysis]\n- O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n[EndSkill] Se esta Habilidade gerou Mang, perde 20 de SP\n[EndSkill] Termina este turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reusa esta Moeda (máx. 7 vezes)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Destruir o Som, Esmagar o Pensamento",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\nSe esta unidade tem [BlackNightmare]:\n- Converte todas as Moedas em [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-Impacto</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano\n- Ao Perder o Embate contra uma Habilidade de Impacto:\n  - Poder de Moeda -2 e causa -50% de dano\n  - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n\nArmas de Impacto aparecem com mais frequência\n- Com 75+ [KarmaOfIndexRien_2Phase], Armas de Impacto aparecem com menos frequência\n- Com 150+ [KarmaOfIndexRien_2Phase], Armas de Impacto aparecem com frequência ainda menor\nOs seguintes efeitos ativam dependendo do Tipo de Ataque da arma\n- Armas de Impacto causam +60% de dano\n- Armas Não-Impacto causam -30% de dano\n[WhenUse] Recebe 3 de [Breath] e +2 de Contagem de [Breath]\n[WinDuel] Aumenta o Limiar de Atordoamento do alvo em 25\n- Com 150+ [KarmaOfIndexRien_2Phase], este efeito não ativa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe +2 de Contagem de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apunhalar o Coração do Silêncio, Penetrar a Memória",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\nSe esta unidade tem [BlackNightmare]:\n- Converte todas as Moedas em [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-Perfuração</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano\n- Ao Perder o Embate contra uma Habilidade de Perfuração:\n  - Poder de Moeda -2 e causa -50% de dano\n  - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n\nArmas de Perfuração aparecem com mais frequência\n- Com 75+ [KarmaOfIndexRien_2Phase], Armas de Perfuração aparecem com menos frequência\n- Com 150+ [KarmaOfIndexRien_2Phase], Armas de Perfuração aparecem com frequência ainda menor\nOs seguintes efeitos ativam dependendo do Tipo de Ataque da arma\n- Armas de Perfuração causam +60% de dano\n- Armas Não-Perfuração causam -30% de dano\n[WhenUse] Recebe 3 de [Breath] e +2 de Contagem de [Breath]\n[WinDuel] Recebe 2 de [AttackDmgUp] no próximo turno\n- Com 150+ [KarmaOfIndexRien_2Phase], este efeito não ativa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 3 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe +2 de Contagem de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Com Segredo Temperado, Cindir a Forma",
+          "desc": "Pode Embater com esta Habilidade independentemente da Velocidade\nSe esta unidade tem [BlackNightmare]:\n- Converte todas as Moedas em [SuperCoin]s\n- <color=#ff6000><mark=#ff000040><b><u>Ao embater contra uma Habilidade Não-Corte</u></b></mark></color>, Poder de Moeda +2 e causa +50% de dano\n- Ao Perder o Embate contra uma Habilidade de Corte:\n  - Poder de Moeda -2 e causa -50% de dano\n  - O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n\nArmas de Corte aparecem com mais frequência\n- Com 75+ [KarmaOfIndexRien_2Phase], Armas de Corte aparecem com menos frequência\n- Com 150+ [KarmaOfIndexRien_2Phase], Armas de Corte aparecem com frequência ainda menor\nOs seguintes efeitos ativam dependendo do Tipo de Ataque da arma\n- Armas de Corte causam +60% de dano\n- Armas Não-Corte causam -30% de dano\n[WhenUse] Recebe 3 de [Breath] e +2 de Contagem de [Breath]\n[WinDuel] Poder Final +3\n- Com 150+ [KarmaOfIndexRien_2Phase], este efeito não ativa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 3 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe +3 de Contagem de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso [Crescendo]",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color>\nPode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Recebe 6 de [Breath] e +6 de Contagem de [Breath]\n- Poder de Embate +10 (<color=#ff6000><mark=#ff000040><b><u>o Poder de Embate ganho é reduzido em 1 para cada 8 [KarmaOfIndexRien_2Phase] em si</u></b></mark></color>)\n[WhenUse] Com 0+ de SP, gera 2 Mangs\n- Causa +40% de dano; Poder Final +5\n[WinDuel]\n- Fim do Ataque: Inflige 4 de [Laceration], 2 [Binding], e 2 de [Vulnerable] no próximo turno a todos os alvos que esta unidade atingiu\n[DefeatDuel]\n- Recebe 6 de [AttackDmgDown] e 9 de [Paralysis]\n- O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n[EndSkill] Se esta Habilidade gerou Mang, perde 25 de SP\n[EndSkill] Termina este turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reusa esta Moeda (máx. 7 vezes)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Furioso [Lacrimosa-Crescendo]",
+          "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>Esta Habilidade não dispara as Habilidades de Defesa do alvo</u></b></mark></color>\nPode Embater com esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Recebe 9 de [Breath] e +9 de Contagem de [Breath]\n- Poder de Embate +15 (o Poder de Embate ganho é reduzido em 1 para cada 8 [KarmaOfIndexRien_2Phase] em si)\n[WhenUse] Com 0+ de SP, gera 3 Mangs\n- Causa +60% de dano; Poder Final +8\n[WinDuel]\n- Fim do Ataque: Inflige 5 de [Laceration], 3 [Binding], e 3 de [Vulnerable] no próximo turno a todos os alvos que esta unidade atingiu\n[DefeatDuel]\n- Recebe 8 de [AttackDmgDown] e 9 de [Paralysis]\n- O dano causado por esta Habilidade não pode Atordoar o alvo; Ao Acertar, não ativa [Sinking] no alvo\n[EndSkill] Se esta Habilidade gerou Mang, perde 30 de SP\n[EndSkill] Termina este turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Reusa esta Moeda (máx. 7 vezes)</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Não Os Deixe Me Machucar",
+          "desc": "[CanDuelGuard]\nPoder Final -4 para cada aliado derrotado neste Encontro",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brinca Comigo!",
+          "desc": "Poder Final +1 e causa +5% de dano para cada aliado derrotado neste Encontro\n[DefeatDuel] Poder Base -7\n[DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [ResultReduction] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hiá!",
+          "desc": "Poder Final +1 e causa +10% de dano para cada aliado derrotado neste Encontro\n[DefeatDuel] Poder Base -8\n[DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [ResultReduction] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Você Gosta de Bonecas?",
+          "desc": "Poder Final +1 e causa +5% de dano para cada aliado derrotado neste Encontro\n[DefeatDuel] Poder Base -10\n[DefeatDuel] O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ResultReduction] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eu Vou de Tesoura. E Você?",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Se esta Habilidade for um Ataque Sem Oposição, ou se esta Habilidade perder um Embate, causa +300% de dano</u></b></mark></color>\n[StartDuel] <color=#ff6000><mark=#ff000040><b><u>Se o alvo tem [ResultReduction], Poder de Embate +20</u></b></mark></color>\n[WinDuel] Esta Habilidade não dispara a Habilidade de Defesa do alvo\n[WinDuel] Encerra esta Habilidade e usa \"Você Ganhou...\" no alvo\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Laceration] e +4 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Você Ganhou...",
+          "desc": "[CantDuel]\nEsta Habilidade tem as seguintes propriedades:\n- Não dispara Habilidades de Defesa\n- Seu ataque não acerta\n[WhenUse] Aplica 2 de [AttackUp] no alvo no próximo turno\n[EndSkill] Cura (Poder Final desta Moeda x 5) de HP em 2 Pecadores com o menor HP atual",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vamos Brincar Juntos para Sempre~!",
+          "desc": "Esta Habilidade não dispara Habilidades de Defesa, e pode ser Embatida independentemente da Velocidade\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Causa -90% de dano contra alvos que tenham equipado Habilidades de Defesa</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>[StartDuel] Poder Final +20</u></b></mark></color>\n[WinDuel] Causa +100% de dano\n[DefeatDuel] Causa -90% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo\n[DefeatDuel] Todas as Partes ficam Atordoadas no próximo turno\n[EndSkill] Termina este turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 6 de [Laceration] e +5 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arte de Instalação nº 3: Caixa Torácica Improvisada",
+          "desc": "[CantDuel]\nPrioriza o inimigo com o maior nível\nEsta Habilidade não dispara Habilidades de Defesa\n[WhenUse] Poder de Moeda +1 para cada 8 [Laceration] no alvo (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Causa dano de SP em vez de dano de HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 15 de SP em si"
+                },
+                {
+                  "desc": "[OnSucceedAttack]\n<color=#ff6000><mark=#ff000040><b><u>Atordoa o alvo e transforma o alvo em [LivingSpecimenTheRings] no próximo turno</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melodia da Tíbia - Anatomização dos Não Anatomizados pelos Anatomizados",
+          "desc": "Durante o turno em que esta unidade tem esta Habilidade equipada, recebe 1 de [PlusCoinValueDown] e 1 de [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>ao ser atingido por Habilidades de Ataque</u></b></mark></color> (uma vez por Habilidade; máx. 3 vezes por turno)\nNão pode ser Atordoado antes de usar esta Habilidade\nAo Matar com esta Habilidade: Cura 15 de SP para cada alvo morto\n[StartBattle] Recebe 4 de [Protection]\n[WhenUse] Causa +3% de dano para cada 6 ([Laceration] no alvo principal + [Laceration] no subalvo) (máx. 30%)\n[DefeatDuel] Causa -90% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo\n[EndSkill] [MineTheRings] expira",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 5 de SP (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [Protection] no próximo turno (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [AttackDmgDown] no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [AttackDmgUp] no próximo turno (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gume Mortal [絶命]",
+          "desc": "Esta Habilidade não dispara a Habilidade de Defesa do alvo\nPrioriza o alvo com a menor porcentagem de HP atual",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision] para cada 1% de HP faltante no alvo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Consome todo [PhantomIncision] no alvo e causa ([PhantomIncision] consumido)% de dano de HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Libertação da Carne Reprimida",
+          "desc": "Durante o turno em que esta unidade tem esta Habilidade equipada, recebe 1 de [PlusCoinValueDown] e 1 de [ResultReduction] <color=#ff6000><mark=#ff000040><b><u>ao ser atingido por Habilidades de Ataque</u></b></mark></color> (uma vez por Habilidade; máx. 3 vezes por turno)\nNão pode ser Atordoado antes de usar esta Habilidade\nAo Matar com esta Habilidade: Cura 15 de SP para cada alvo morto\n[StartBattle] Recebe 4 de [Protection]\n[WhenUse] Causa +3% de dano para cada 6 ([Laceration] no alvo principal + [Laceration] no subalvo) (máx. 30%)\n[DefeatDuel] Causa -90% de dano e o dano causado por esta Habilidade não pode Atordoar o alvo\n[EndSkill] [BoneBladeTheRings] expira",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Causa 5 de dano de SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 5 de SP (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [Vulnerable] no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [Protection] no próximo turno (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [AttackDmgDown] no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [AttackDmgUp] no próximo turno (uma vez por Habilidade)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

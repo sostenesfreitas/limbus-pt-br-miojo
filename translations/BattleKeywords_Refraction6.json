@@ -1,0 +1,229 @@
+{
+  "dataList": [
+    {
+      "id": "NoeulNageuneBuffA3",
+      "name": "Seiva do Andarilho do Crepúsculo",
+      "desc": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)\n- Remove o primeiro Limiar de Atordoamento desta unidade",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffA4",
+      "name": "Seiva do Andarilho do Crepúsculo",
+      "desc": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)\n- Ao ser atingido por Moedas Inquebráveis, recebe -20% de dano",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffA5",
+      "name": "Seiva do Andarilho do Crepúsculo",
+      "desc": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)\n- Remove o primeiro Limiar de Atordoamento desta unidade\n- Fim do Turno: 4 aliados com os menores PH curam 4 PH (exceto aliados em Pânico ou Corroídos)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB3",
+      "name": "Mariposa do Andarilho do Crepúsculo",
+      "desc": "- Início do Turno: Ganha 1 Aumento de Nível de Ataque para cada unidade aliada (incluindo a si mesma) na mesma facção que si mesma (máx. 4)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB4",
+      "name": "Mariposa do Andarilho do Crepúsculo",
+      "desc": "- Ganha 1 Acúmulo de um status aleatório, escolhido entre Aumento de Dano de Corte, Aumento de Dano de Perfuração e Aumento de Dano de Impacto. Ao usar uma Habilidade de E.G.O do Tipo de Ataque correspondente, causa +50% de dano\n- Ao Acertar com Moedas Inquebráveis, causa +20% de dano",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB5",
+      "name": "Mariposa do Andarilho do Crepúsculo",
+      "desc": "- Início do Turno: Ganha 1 Aumento de Nível de Ataque para cada aliado derrotado neste Encontro (máx. 6)\n- Início do Combate: Em Reson.-A, Habilidades que fazem parte da cadeia de Reson.-A causam +20% de dano",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatedWingScalesExplain",
+      "name": "Pó de Escama Incandescente",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Regressão\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransparentWingScalesExplain",
+      "name": "Pó de Escama Acuminada",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Manifestação\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RustedWingScalesExplain",
+      "name": "Pó de Escama Enferrujada",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Advento\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatedWingScales",
+      "name": "Pó de Escama Incandescente",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Regressão\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransparentWingScales",
+      "name": "Pó de Escama Acuminada",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Manifestação\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RustedWingScales",
+      "name": "Pó de Escama Enferrujada",
+      "desc": "- +0,25 nas Resistências contra Tipos de Ataque e Afinidades de Habilidades que Embateram contra a Habilidade \"Vida Entrelaçada - Advento\" da \"Borboleta das Vidas Entrelaçadas::A Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPast",
+      "name": "No Passado (Desativado)",
+      "desc": "- Passiva \"Passado [過去]\" Desativada\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPresent",
+      "name": "No Presente (Desativado)",
+      "desc": "- Passiva \"Presente [現在]\" Desativada\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackFuture",
+      "name": "No Futuro (Desativado)",
+      "desc": "- Passiva \"Futuro [未來]\" Desativada\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPastActivate",
+      "name": "No Passado",
+      "desc": "- Passiva \"Passado [過去]\" ativada\n- Ganha efeitos diferentes com base no Acúmulo:\n· 0~10: Habilidades infligem +1 a mais de Potência e Contagem de Queimadura\n· 11~20: Poder de Embate +1; Habilidades infligem +2 a mais de Potência de Queimadura e +1 a mais de Contagem de Queimadura\n· 21~30: Poder Final +2; Habilidades infligem +3 a mais de Potência de Queimadura e +2 a mais de Contagem de Queimadura\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPresentActivate",
+      "name": "No Presente",
+      "desc": "- Passiva \"Presente [現在]\" ativada\n- Ganha efeitos diferentes com base no Acúmulo:\n· 0~10: Habilidades ganham +1 a mais de Potência e Contagem de Equilíbrio\n· 11~20: Poder de Embate +1; Habilidades ganham +2 a mais de Potência de Equilíbrio e +1 a mais de Contagem de Equilíbrio\n· 21~30: Poder Final +2; Habilidades ganham +3 a mais de Potência de Equilíbrio e +2 a mais de Contagem de Equilíbrio\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackFutureActivate",
+      "name": "No Futuro",
+      "desc": "- Passiva \"Futuro [未來]\" ativada\n- Ganha efeitos diferentes com base no Acúmulo:\n· 0~10: Habilidades infligem +1 a mais de Potência e Contagem de Sangramento\n· 11~20: Poder de Embate +1; Habilidades infligem +2 a mais de Potência de Sangramento e +1 a mais de Contagem de Sangramento\n· 21~30: Poder Final +2; Habilidades infligem +3 a mais de Potência de Sangramento e +2 a mais de Contagem de Sangramento\n- Acúmulo Máx.: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeGap",
+      "name": "Disjunção Temporal",
+      "desc": "- Ganha 1 Acúmulo toda vez que esta unidade alterna entre No Passado / No Presente / No Futuro\n- Recebe +(Acúmulo x 15)% de dano (máx. 150%)\n- Início do Turno: Com 10 de Acúmulo, ganha 5 de Fragilidade\n- Acúmulo Máx.: 10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelfRefraction",
+      "name": "Alfinete Sepultador de Flores [埋花針]",
+      "desc": "- Acúmulo Máx.: 10\n- Ganha 1 Nível de Ataque e 1 Nível de Defesa para cada 2 de Acúmulo\n- Com 5+ de Acúmulo, Poder Final +1\n- Com Acúmulo máx., Poder de Moeda +1\n- Ao consumir Alfinete Sepultador de Flores, concede 1 recurso de E.G.O da Afinidade menos possuída para cada Acúmulo consumido",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBloodRefraction",
+      "name": "Sangue de Dragão [龍血]",
+      "desc": "- Potência Máx.: 50\n- Fim do Turno: Recebe 1% de dano de PV por Potência (mín. 1; não pode ser Atordoado por este efeito)\n- Perde 1 de Contagem ao usar uma Habilidade de Defesa (uma vez por turno)\n- Fim do Turno: Dobra a Potência e perde 1 de Contagem\n- Este efeito só pode ser removido reduzindo a Contagem a 0",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLanceRefraction",
+      "name": "Cunha Sepultadora de Flores [埋花櫼]",
+      "desc": "- Acúmulo Máx.: 3\n- Aprimora certas Habilidades de Yinglong",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonPower",
+      "name": "Espírito do Dragão [龍氣]",
+      "desc": "- Recebe -100% de dano\n- Ao ser atingido, expira no Fim da Habilidade que atingiu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonWind",
+      "name": "Misericórdia Caprichosa",
+      "desc": "- Velocidade Mín. e Máx. +3\n- Poder de Embate +2\n- Ao ser atingido, expira no Fim da Habilidade que atingiu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TagGameBuff",
+      "name": "\"Pegador\"",
+      "desc": "- Causa -100% de dano usando Ataques Sem Oposição\n- Recebe +80% de dano de Ataques Sem Oposição\n- Todas as unidades Peccatulum Invidiae, incluindo esta unidade, equipam apenas Habilidades de Defesa em seus Espaços de Habilidade\n- Fim do Turno: Perde 1 de Acúmulo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonScale",
+      "name": "Revestido de Escamas",
+      "desc": "- Acúmulo Máx.: 20\n- Não expira com 0 de Acúmulo\n- Perde 1 de Acúmulo ao receber dano devido ao Alfinete Sepultador de Flores\n- Recebe +10% de dano para cada Acúmulo perdido",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationTheRingsRail",
+      "name": "Contemplando o Quadro",
+      "desc": "- Nível de Ataque Base -20\n- Nível de Defesa Base -20\n- Início do Turno: Ganha 7 de Proteção se a Aprendiz do Anel não tiver se retirado deste Encontro",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"A apreciação de uma obra de arte em uma galeria exige contemplação sem pressa. Por favor, lembre-se—a impaciência embota a apreciação da arte.\""
+    },
+    {
+      "id": "MiddleFingerLeashBuff",
+      "name": "Poderio Suprimido",
+      "desc": "- Ataques Sem Oposição causam -100% de dano\n- Fim do Turno: Se 3+ aliados forem derrotados neste Encontro, este efeito expira",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDaysRefraction_LowMorale",
+      "name": "Afeto e Ressentimento",
+      "desc": "Causa e recebe +10% de dano",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDaysRefraction_Panic",
+      "name": "Afeto e Ressentimento",
+      "desc": "Causa e recebe +20% de dano",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScarRailway_Panic",
+      "name": "Imitação de um Pai",
+      "desc": "- Pânico\n- Início do Turno: Ganha 5 de Queimadura, +3 de Contagem de Queimadura, 5 de Sangramento e +3 de Contagem de Sangramento",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScarRailway_LowMorale",
+      "name": "Imitação de um Pai",
+      "desc": "- Moral Baixa\n- Início do Turno: Ganha 5 de Queimadura e 5 de Sangramento",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

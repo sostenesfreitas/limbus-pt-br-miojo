@@ -1,0 +1,50 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Distrito 4 - Entrada da Filial LC",
+            "content": "Gregor acende seu cigarro e dá uma tragada antes de suspirar uma longa baforada de fumaça."
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "Eles teriam se saído melhor que isto se tivessem arranjado emprego numa empresa de segurança ou algo assim..."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Ser soldado é tudo o que eles sempre conheceram. As mudanças necessárias para começar uma nova vida devem ter sido avassaladoras."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Você não faz ideia de quão teimosamente o estigma de ser remanescente de uma Ala caída se agarra a você. Se alguém é generoso o bastante para te acolher, lamber suas botas é o mínimo que você pode fazer..."
+        },
+        {
+            "id": 4,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "......"
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "Ah... Desculpa por isso. Eu deveria ter escolhido minhas palavras com mais cuidado."
+        },
+        {
+            "id": 6,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Não, tudo bem. Tenho certeza de que as coisas foram difíceis com a queda da G Corp. também."
+        },
+        {
+            "id": 7,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... O colapso de uma Ala é um acontecimento turbulento para muita gente."
+        }
+    ]
+}

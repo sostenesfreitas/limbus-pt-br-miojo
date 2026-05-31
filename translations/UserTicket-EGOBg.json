@@ -1,0 +1,369 @@
+{
+  "dataList": [
+    {
+      "id": -1,
+      "name": "Limbus Company",
+      "desc": "Base"
+    },
+    {
+      "id": 1,
+      "name": "Pecado: Ira",
+      "desc": "Base"
+    },
+    {
+      "id": 2,
+      "name": "Pecado: Luxúria",
+      "desc": "Base"
+    },
+    {
+      "id": 3,
+      "name": "Pecado: Preguiça",
+      "desc": "Base"
+    },
+    {
+      "id": 4,
+      "name": "Pecado: Gula",
+      "desc": "Base"
+    },
+    {
+      "id": 5,
+      "name": "Pecado: Melancolia",
+      "desc": "Base"
+    },
+    {
+      "id": 6,
+      "name": "Pecado: Soberba",
+      "desc": "Base"
+    },
+    {
+      "id": 7,
+      "name": "Pecado: Inveja",
+      "desc": "Base"
+    },
+    {
+      "id": 8,
+      "name": "Lágrimas da K Corp.",
+      "desc": "Obtido no Nível 40 do Passe Gratuito da 2ª Temporada"
+    },
+    {
+      "id": 9,
+      "name": "Dia Chuvoso",
+      "desc": "Obtido no Nível 45 do Passe Limbus da 2ª Temporada"
+    },
+    {
+      "id": 10,
+      "name": "Dongbaek",
+      "desc": "Obtido no Nível 55 do Passe Gratuito da 2ª Temporada"
+    },
+    {
+      "id": 11,
+      "name": "S.E.A",
+      "desc": "Obtido no evento S.E.A"
+    },
+    {
+      "id": 12,
+      "name": "Linha 2",
+      "desc": "Obtido ao concluir a Linha 2 com 5 ou mais Contagens de Ciclo"
+    },
+    {
+      "id": 13,
+      "name": "Linha 2: Möbius",
+      "desc": "Obtido ao concluir a Linha 2 com 5 ou mais Contagens de Ciclo e 200 ou menos no Total de Turnos antes do fim da Temporada 2: Reminiscência"
+    },
+    {
+      "id": 14,
+      "name": "Linha 2: Möbius II",
+      "desc": "Obtido ao concluir a Ferrovia Refratada - Linha 2 com 5 ou mais Contagens de Ciclo e menos de 150 no Total de Turnos antes do fim da Temporada 2: Reminiscência (Deve ser um recorde feito após 15/09/2023 20:15(KST))"
+    },
+    {
+      "id": 15,
+      "name": "Contêiner de Carga",
+      "desc": "Obtido no Nível 70 do Passe Gratuito da 3ª Temporada"
+    },
+    {
+      "id": 16,
+      "name": "Em Meio à Tempestade",
+      "desc": "Obtido no Nível 90 do Passe Limbus da 3ª Temporada"
+    },
+    {
+      "id": 17,
+      "name": "Vila Pequod",
+      "desc": "Obtido no Nível 110 do Passe Gratuito da 3ª Temporada"
+    },
+    {
+      "id": 18,
+      "name": "Feliz Natal",
+      "desc": "Obtido no evento Milagre no Distrito 20"
+    },
+    {
+      "id": 19,
+      "name": "Feliz Natal - Bilhete Especial",
+      "desc": "Obtido no evento Milagre no Distrito 20"
+    },
+    {
+      "id": 20,
+      "name": "Equipe de Controle da L Corp.",
+      "desc": "Obtido no evento da 2ª Noite de Walpurgis"
+    },
+    {
+      "id": 21,
+      "name": "Linha 3",
+      "desc": "Obtido ao concluir o Terminal da Ferrovia Refratada - Linha 3"
+    },
+    {
+      "id": 22,
+      "name": "Linha 3: MirrorClock OrangeRoad",
+      "desc": "Obtido ao concluir o Terminal da Linha 3 com 100 ou menos no Total de Turnos antes do fim da Temporada 3: Boa Viagem"
+    },
+    {
+      "id": 23,
+      "name": "Rendo Minha Carne para Usurpar Teus Ossos",
+      "desc": "Obtido no evento 'Rendo Minha Carne para Usurpar Teus Ossos'"
+    },
+    {
+      "id": 24,
+      "name": "Rendo Minha Carne para Usurpar Teus Ossos - Bilhete Especial",
+      "desc": "Obtido no evento 'Rendo Minha Carne para Usurpar Teus Ossos'"
+    },
+    {
+      "id": 25,
+      "name": "1º Aniversário",
+      "desc": "Obtido no evento do 1º Aniversário"
+    },
+    {
+      "id": 26,
+      "name": "O Morro dos Ventos Uivantes",
+      "desc": "Obtido no Nível 70 do Passe Gratuito da 4ª Temporada"
+    },
+    {
+      "id": 27,
+      "name": "Laboratório Subterrâneo",
+      "desc": "Obtido no Nível 90 do Passe Limbus da 4ª Temporada"
+    },
+    {
+      "id": 28,
+      "name": "Batendo na Janela",
+      "desc": "Obtido no Nível 110 do Passe Gratuito da 4ª Temporada"
+    },
+    {
+      "id": 29,
+      "name": "Library of Ruina",
+      "desc": "Obtido ao inserir o código de cupom de bônus especial de Library of Ruina"
+    },
+    {
+      "id": 30,
+      "name": "Escritório do Amanhecer",
+      "desc": "Obtido no evento da 3ª Noite de Walpurgis"
+    },
+    {
+      "id": 31,
+      "name": "Tempo de Matar Tempo",
+      "desc": "Obtido no evento Tempo de Matar Tempo"
+    },
+    {
+      "id": 32,
+      "name": "Tempo de Matar Tempo - Bilhete Especial",
+      "desc": "Obtido no evento Tempo de Matar Tempo"
+    },
+    {
+      "id": 33,
+      "name": "Linha 4",
+      "desc": "Obtido ao concluir a Seção #4 da Ferrovia Refratada - Linha 4"
+    },
+    {
+      "id": 34,
+      "name": "Linha 4: Baile de Máscaras",
+      "desc": "Obtido ao concluir a Seção #4 da Linha 4 com 100 ou menos no Total de Turnos antes do fim da Temporada 4: Apagar Toda Cathy"
+    },
+    {
+      "id": 35,
+      "name": "Assassinato no Expresso WARP",
+      "desc": "Obtido no evento Assassinato no Expresso WARP"
+    },
+    {
+      "id": 36,
+      "name": "Assassinato no Expresso WARP - Bilhete Especial",
+      "desc": "Obtido no evento Assassinato no Expresso WARP"
+    },
+    {
+      "id": 37,
+      "name": "Equipe de Treinamento da L Corp.",
+      "desc": "Obtido no evento da 4ª Noite de Walpurgis"
+    },
+    {
+      "id": 41,
+      "name": "Escritório Ponto Final",
+      "desc": "Obtido no evento da 5ª Noite de Walpurgis"
+    },
+    {
+      "id": 42,
+      "name": "Cheque Médico da LCB",
+      "desc": "Obtido no evento Cheque Médico da LCB"
+    },
+    {
+      "id": 43,
+      "name": "Cheque Médico da LCB - Bilhete Especial",
+      "desc": "Obtido no evento Cheque Médico da LCB"
+    },
+    {
+      "id": 44,
+      "name": "Linha 5",
+      "desc": "Obtido ao concluir a Ferrovia Refratada - Linha 5"
+    },
+    {
+      "id": 45,
+      "name": "Linha 5: Carrossel",
+      "desc": "Obtido ao concluir a Linha 5 com 100 ou menos no Total de Turnos antes do fim da Temporada 5: Oblivion."
+    },
+    {
+      "id": 48,
+      "name": "2º Aniversário",
+      "desc": "Obtido no evento do 2º Aniversário"
+    },
+    {
+      "id": 49,
+      "name": "2º Aniversário (Especial)",
+      "desc": "Obtido no evento do 2º Aniversário"
+    },
+    {
+      "id": 46,
+      "name": "Espelho do Sonhador",
+      "desc": "Obtido como Recompensa de Conquista de Espelho do Sonhador"
+    },
+    {
+      "id": 47,
+      "name": "Espelho do Sonhador - Bilhete Especial",
+      "desc": "Obtido como Recompensa de Conquista de Espelho do Sonhador"
+    },
+    {
+      "id": 50,
+      "name": "Varredura Noturna",
+      "desc": "Obtido no evento 'Varredura Noturna'"
+    },
+    {
+      "id": 51,
+      "name": "Varredura Noturna - Bilhete Especial",
+      "desc": "Obtido no evento 'Varredura Noturna'"
+    },
+    {
+      "id": 58,
+      "name": "Espelho da Imortalidade",
+      "desc": "Obtido como Recompensa de Conquista de Espelho da Imortalidade"
+    },
+    {
+      "id": 59,
+      "name": "Espelho da Imortalidade - Bilhete Especial",
+      "desc": "Obtido como Recompensa de Conquista de Espelho da Imortalidade"
+    },
+    {
+      "id": 38,
+      "name": "La Manchaland dos Pesadelos",
+      "desc": "Obtido no Nível 70 do Passe Gratuito da 5ª Temporada"
+    },
+    {
+      "id": 39,
+      "name": "Um Farol nas Ruínas (o Berço)",
+      "desc": "Obtido no Nível 90 do Passe Limbus da 5ª Temporada"
+    },
+    {
+      "id": 40,
+      "name": "La Manchaland dos Sonhos",
+      "desc": "Obtido no Nível 110 do Passe Gratuito da 5ª Temporada"
+    },
+    {
+      "id": 52,
+      "name": "Daguanyuan",
+      "desc": "Obtido no Nível 70 do Passe Gratuito da 6ª Temporada"
+    },
+    {
+      "id": 53,
+      "name": "Laboratório da Família Kong",
+      "desc": "Obtido no Nível 90 do Passe Limbus da 6ª Temporada"
+    },
+    {
+      "id": 54,
+      "name": "Caminho de Saudação ao Templo Tiekan",
+      "desc": "Obtido no Nível 110 do Passe Gratuito da 6ª Temporada"
+    },
+    {
+      "id": 55,
+      "name": "Equipe de Comando Central da L Corp.",
+      "desc": "Obtido no evento da 6ª Noite de Walpurgis"
+    },
+    {
+      "id": 56,
+      "name": "Cultivo de Primavera",
+      "desc": "Obtido no evento 'Cultivo de Primavera'"
+    },
+    {
+      "id": 57,
+      "name": "Cultivo de Primavera - Bilhete Especial",
+      "desc": "Obtido no evento 'Cultivo de Primavera'"
+    },
+    {
+      "id": 60,
+      "name": "Peregrinagem de Compaixão",
+      "desc": "Obtido no evento Peregrinagem de Compaixão"
+    },
+    {
+      "id": 61,
+      "name": "Peregrinagem de Compaixão - Bilhete Especial",
+      "desc": "Obtido no evento Peregrinagem de Compaixão"
+    },
+    {
+      "id": 62,
+      "name": "O Convite Geral de uma Certa Biblioteca",
+      "desc": "Obtido no evento da 7ª Noite de Walpurgis"
+    },
+    {
+      "id": 63,
+      "name": "Linha 1 BokGak: Loucura",
+      "desc": "Obtido ao concluir o BokGak da Ferrovia Refratada - Linha 1"
+    },
+    {
+      "id": 67,
+      "name": "3º Aniversário",
+      "desc": "Obtido no evento do 3º Aniversário"
+    },
+    {
+      "id": 68,
+      "name": "3º Aniversário (Especial)",
+      "desc": "Obtido no evento do 3º Aniversário"
+    },
+    {
+      "id": 69,
+      "name": "Equipe de Bem-Estar da L Corp.",
+      "desc": "Obtido no evento da 8ª Noite de Walpurgis"
+    },
+    {
+      "id": 70,
+      "name": "Espelho de Nomes e Aranhas",
+      "desc": "Obtido como Recompensa de Conquista de Espelho de Nomes e Aranhas"
+    },
+    {
+      "id": 71,
+      "name": "Espelho de Nomes e Aranhas - Bilhete Especial",
+      "desc": "Obtido como Recompensa de Conquista de Espelho de Nomes e Aranhas"
+    },
+    {
+      "id": 72,
+      "name": "Fios Entrelaçados",
+      "desc": "Obtido no evento Fios Entrelaçados"
+    },
+    {
+      "id": 73,
+      "name": "Fios Entrelaçados - Bilhete Especial",
+      "desc": "Obtido no evento Fios Entrelaçados"
+    },
+    {
+      "id": 74,
+      "name": "Linha 6",
+      "desc": "Obtido ao concluir a Ferrovia Refratada - Linha 6"
+    },
+    {
+      "id": 75,
+      "name": "Linha 6: Maru no Uchi no Sanzu no Kawa",
+      "desc": "Obtido ao concluir a Linha 6 com 111 ou menos no Total de Turnos antes do fim da Temporada 7: Kumo no Ito · otI on akA."
+    }
+  ]
+}

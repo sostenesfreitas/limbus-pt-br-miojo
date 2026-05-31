@@ -24,10 +24,10 @@
         {
             "id": 132208,
             "name": "Desembainhar Lâmina da Estrela Dihui",
-            "desc": "Use a powerful attack pattern every 4 turns\n- At 50+ [PhantomIncisionTotal], the pattern above becomes empowered",
+            "desc": "Usa um padrão de ataque poderoso a cada 4 turnos\n- Em 50+ [PhantomIncisionTotal], o padrão acima torna-se fortalecido",
             "summary": "",
             "undefined": "-",
-            "flavor": "'... I'm weary of this stigma of a blade.'"
+            "flavor": "'... Estou cansado deste estigma de uma lâmina.'"
         },
         {
             "id": 132216,
@@ -38,63 +38,63 @@
         },
         {
             "id": 132101,
-            "name": "Living Nerves - Partial Deterrence Release",
+            "name": "Nervos Vivos - Liberação Parcial de Dissuasão",
             "desc": "Ao morrer, todas as Habilidades são canceladas pelo turno || Ganha 10 [SelfCharge] quando o efeito acima ativa",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132102,
-            "name": "Undying Persistence",
-            "desc": "Every 5 turns, gains a Shield equal to the head's HP",
+            "name": "Persistência Imorredoura",
+            "desc": "A cada 5 turnos, ganha Escudo igual ao HP da cabeça",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132103,
-            "name": "Terminated Persistence",
-            "desc": "After using 'Coil Up', if the Shield is exhausted, spend all [SelfCharge]\nAll parts become Staggered next turn",
+            "name": "Persistência Terminada",
+            "desc": "Após usar 'Enrodilhar', se o Escudo estiver esgotado, gasta todo [SelfCharge]\nTodas as partes ficam Atordoadas no próximo turno",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132001,
-            "name": "The Last Ember",
-            "desc": "At 30%- HP, gain +1 more [MRcAiBa]",
+            "name": "A Última Brasa",
+            "desc": "Em 30%- HP, ganha +1 [MRcAiBa] a mais",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132002,
-            "name": "Stoke the Flames",
+            "name": "Atiçar as Chamas",
             "desc": "Quando a Parte das Asas é quebrada, aplica [MRcAiBb] igual à Carga de [MRcAiBa] no último atacante; em seguida, todo [MRcAiBa] em si expira. || || Ao usar 'Estrela da Flor Ardor' em 0 [MRcAiBa], usa 'Acende as Chamas' também",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132003,
-            "name": "Flaming Ember",
-            "desc": "Convert a number of non-Wrath Skills equal to [MRcAiBa] Stack into Wrath Skills",
+            "name": "Brasa Flamejante",
+            "desc": "Converte um número de Habilidades Não-Ira igual à Carga de [MRcAiBa] em Habilidades de Ira",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132004,
-            "name": "Interlocking Ardor Blossom",
+            "name": "Flor Ardor Entrelaçada",
             "desc": "Se esta unidade tem [MRcAiBa], converte um número de Habilidades Não-Ira igual à Carga de [MRcAiBa] em Habilidades de Ira || || Ao Acertar, aplica [Combustion] igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno) || || Ao Acertar, restaura HP igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x 2)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132005,
-            "name": "Supply Resources",
+            "name": "Fornecer Recursos",
             "desc": "Quando a Parte das Asas é quebrada, ganha 2 Recursos E.G.O de todas as Afinidades e restaura 15 SP de todos os Pecadores",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": 132006,
-            "name": "Flaming Wings - Partial Deterrence Release",
+            "name": "Asas Flamejantes - Liberação Parcial de Dissuasão",
             "desc": "Não recebe dano de [Combustion]\n\nFim de Turno: Cura o Núcleo em ([Combustion] em si x 5)",
             "summary": "",
             "undefined": "-"
@@ -138,8 +138,8 @@
         },
         {
             "id": 132230,
-            "name": "Panic Recovery",
-            "desc": "Turn End: if in Panic, reset SP to 30.",
+            "name": "Recuperação de Pânico",
+            "desc": "Fim do Turno: se em Pânico, redefine SP para 30.",
             "summary": "",
             "undefined": "-"
         }

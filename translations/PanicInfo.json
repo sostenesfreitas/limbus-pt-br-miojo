@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "Compulsão",
+      "lowMoraleDescription": "Início de Turno: Recebe 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Aceleração</color></link></u> e 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>",
+      "panicDescription": "Início de Turno: Perde 10 PV."
+    },
+    {
+      "id": 1002,
+      "panicName": "Surto",
+      "lowMoraleDescription": "Início de Turno: Recebe 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Poder de Ataque Aumentado</color></link></u> e 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>",
+      "panicDescription": "Início de Turno: Aliado aleatório perde 20 de PS."
+    },
+    {
+      "id": 1003,
+      "panicName": "Sobrecarregado",
+      "lowMoraleDescription": "Início de Turno: Recebe 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Poder de Ataque Reduzido</color></link></u>",
+      "panicDescription": "Não age neste turno."
+    },
+    {
+      "id": 1004,
+      "panicName": "Atrofiado",
+      "lowMoraleDescription": "Início de Turno: Recebe 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Poder de Ataque Reduzido</color></link></u>",
+      "panicDescription": "Início de Turno: Recebe 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Poder de Ataque Reduzido</color></link></u>"
+    },
+    {
+      "id": 1005,
+      "panicName": "Agitado",
+      "lowMoraleDescription": "Início de Turno: Recebe 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> e 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>",
+      "panicDescription": "Início de Turno: Recebe 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> e 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>"
+    },
+    {
+      "id": 1006,
+      "panicName": "Em Fuga",
+      "lowMoraleDescription": "Não age. Ao ser atingida, esta unidade é derrotada após o término da habilidade.",
+      "panicDescription": ""
+    },
+    {
+      "id": 1007,
+      "panicName": "Tristeza",
+      "lowMoraleDescription": "Recebe 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Dano Reduzido</color></link></u> a cada turno",
+      "panicDescription": "Recebe 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Dano Reduzido</color></link></u> e 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u> a cada turno"
+    },
+    {
+      "id": 1008,
+      "panicName": "Enlouquecido",
+      "lowMoraleDescription": "Ao ficar com Moral Baixo pela primeira vez, alveja unidades indiscriminadamente",
+      "panicDescription": "Alveja indiscriminadamente; Poder de Confronto +1 e recebe 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u>"
+    },
+    {
+      "id": 1009,
+      "panicName": "Suicida",
+      "lowMoraleDescription": "Ao ficar com Moral Baixo pela primeira vez, torna-se incapaz de agir",
+      "panicDescription": "Não pode agir por 3 turnos. Após 3 turnos, a unidade morre no início do turno; todos os seus aliados perdem 10 PS adicionais a cada condição de perda de PS"
+    },
+    {
+      "id": 1010,
+      "panicName": "Vagante",
+      "lowMoraleDescription": "Fim de Turno: Causa 2 de dano de PS aos aliados",
+      "panicDescription": "Fim de Turno: Causa 5 de dano de PS aos aliados. Foge da batalha após 3 turnos terem passado"
+    },
+    {
+      "id": 1011,
+      "panicName": "Instável",
+      "lowMoraleDescription": "Início de Turno: Recebe 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Poder de Ataque Aumentado</color></link></u> e 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Imobilização</color></link></u>",
+      "panicDescription": "Início de Turno: Torna-se atordoada"
+    },
+    {
+      "id": 1012,
+      "panicName": "Abatimento",
+      "lowMoraleDescription": "Recebe 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>; Em um confronto, se qualquer Moeda der coroa, Poder de Confronto -1 para o confronto.",
+      "panicDescription": "Recebe 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>; Em um confronto, se qualquer Moeda der coroa, Poder de Confronto -3 para o confronto."
+    },
+    {
+      "id": 9999,
+      "panicName": "Pânico",
+      "lowMoraleDescription": "",
+      "panicDescription": "Não age neste turno."
+    },
+    {
+      "id": 1013,
+      "panicName": "Impureza",
+      "lowMoraleDescription": "Recebe 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>. O alvo perde 2 de PS se esta unidade perder o confronto",
+      "panicDescription": "Recebe 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Frágil</color></link></u>. O alvo perde 5 de PS se esta unidade perder o confronto"
+    },
+    {
+      "id": 1014,
+      "panicName": "Vingança",
+      "lowMoraleDescription": "Início de Turno: Recebe 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Poder de Ataque Aumentado</color></link></u> e 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Nível Defensivo Reduzido</color></link></u>. Recebe <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> com base na quantidade de dano sofrido no último turno (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> para cada 3% de PV Máx. perdido)",
+      "panicDescription": "Início de Turno: Recebe 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Poder de Ataque Aumentado</color></link></u> e 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Nível Defensivo Reduzido</color></link></u>. Recebe <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> com base na quantidade de dano sofrido no último turno (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Dano Aumentado</color></link></u> para cada 3% de PV Máx. perdido)"
+    },
+    {
+      "id": 1015,
+      "panicName": "Pânico Pálido",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
+      "panicDescription": "Todo Fim de Turno: Recebe 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Imobilização</color></link></u>.\nToda Moeda que esta unidade lança dá coroa."
+    },
+    {
+      "id": 1016,
+      "panicName": "Ressentimento",
+      "lowMoraleDescription": "Início de Turno: recebe 2 [AttackDmgUp] e 3 [DefenseDown]",
+      "panicDescription": "Início de Turno: recebe 1 [Enhancement] e 5 [DefenseDown]"
+    },
+    {
+      "id": 1026,
+      "panicName": "Ruína",
+      "lowMoraleDescription": "Recebe 3 [Sinking] a cada Fim de Turno; Poder de Confronto -1",
+      "panicDescription": "Recebe 5 [Sinking] e +3 de Contagem de [Sinking] a cada Fim de Turno; Poder de Confronto -2"
+    },
+    {
+      "id": 9994,
+      "panicName": "Amor e Ódio",
+      "lowMoraleDescription": "",
+      "panicDescription": "Não age neste turno."
+    },
+    {
+      "id": 1065,
+      "panicName": "Marca de Estilhaço",
+      "lowMoraleDescription": "Poder de Confronto -1, Nível de Defesa -2",
+      "panicDescription": "Poder de Confronto -2, Nível de Defesa -3"
+    },
+    {
+      "id": 1085,
+      "panicName": "Areia Azul",
+      "lowMoraleDescription": "Poder de Confronto -1\nVelocidade Mín. & Máx. -1",
+      "panicDescription": "Poder de Confronto -2\nVelocidade Mín. & Máx. -1"
+    },
+    {
+      "id": 1086,
+      "panicName": "Deslumbre",
+      "lowMoraleDescription": "Fim de Turno: Recebe 1 [Binding] e 2 [AttackDown] no próximo turno",
+      "panicDescription": "Fim de Turno: Recebe 1 [Binding] e 4 [AttackDown] no próximo turno"
+    },
+    {
+      "id": 1087,
+      "panicName": "Solidão",
+      "lowMoraleDescription": "Fim de Turno: Recebe +2 de Contagem de [Sinking]",
+      "panicDescription": "Fim de Turno: Recebe +3 de Contagem de [Sinking]"
+    },
+    {
+      "id": 1091,
+      "panicName": "Afeição e Ressentimento Refratados",
+      "lowMoraleDescription": "Causa e sofre +10% de dano",
+      "panicDescription": "Causa e sofre +20% de dano"
+    },
+    {
+      "id": 1097,
+      "panicName": "Imitação de um Pai",
+      "lowMoraleDescription": "- Início de Turno: Recebe 5 [Combustion] e 5 [Laceration]",
+      "panicDescription": "- Início de Turno: Recebe 5 [Combustion], +3 de Contagem de [Combustion], 5 [Laceration], e +3 de Contagem de [Laceration]"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+    "dataList": [
+        {
+            "id": -1,
+            "content": "Episódio S0_8"
+        },
+        {
+            "id": 0,
+            "place": "A bordo do Mephistopheles",
+            "model": "카론",
+            "content": "Chegamos. Charon sabia o caminho o tempo todo."
+        },
+        {
+            "id": 1,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Não, não sabia, não! Eu e o Sinclair ficamos do seu lado o tempo todo te apontando a direção certa."
+        },
+        {
+            "id": 2,
+            "model": "싱클레어",
+            "content": "Só fico feliz que você finalmente aprendeu a diferenciar sudeste de nordeste, Charon."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Então essa é... a antiga L Corp.?>"
+        },
+        {
+            "id": 4,
+            "model": "이스마엘",
+            "content": "Esta também é a primeira vez que eu vejo de perto... Não faz muito tempo desde que \"aquilo\" aconteceu."
+        },
+        {
+            "id": 5,
+            "model": "홍루",
+            "content": "Minha nossa... Como é que um prédio fica tão deteriorado assim?"
+        },
+        {
+            "id": 6,
+            "model": "히스클리프",
+            "content": "Hah! Então o riquinho não aguenta nem ver um lugar imundo, é?"
+        },
+        {
+            "id": 7,
+            "model": "베르길리우스",
+            "content": "Chega de tagarelice. Para fora do ônibus, agora."
+        },
+        {
+            "id": 10,
+            "place": "Distrito 4 - Entrada da Filial da L Corp.",
+            "model": "단테",
+            "content": "<Hã, tem gente ali...>"
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "São Mandatários do mesmo Escritório que a Srta. Yuri."
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "São exploradores experientes que já se embrenharam pelas filiais da L Corp. diversas vezes."
+        },
+        {
+            "id": 13,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Apresentações, então. A pessoa à esquerda é Hopkins, e a da direita é Aya."
+        },
+        {
+            "id": 14,
+            "model": "아야",
+            "teller": "Aya",
+            "title": "Mandatária de Grau 8",
+            "content": "Olá~"
+        },
+        {
+            "id": 15,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "O... O... O—"
+        },
+        {
+            "id": 16,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "O Olhar Vermelho! É—é uma honra tão grande conhecê-lo...! Ouvi tantas histórias dos seus feitos. Vê-lo em pessoa, é..."
+        },
+        {
+            "id": 17,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Ah."
+        },
+        {
+            "id": 18,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Tá vendo aquele galpão caindo aos pedaços ali? É lá que ficam as escadas que descem pra filial."
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "De lá em diante, a Yuri será sua guia."
+        },
+        {
+            "id": 20,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... É."
+        },
+        {
+            "id": 21,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Esses Mandatários também não são novatos... Conte com eles para lidar com qualquer complicação."
+        },
+        {
+            "id": 22,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Isso deve bastar, né? Só posso acompanhar vocês até aqui. Vou ficar esperando no ônibus."
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<Hã? Espera, o quê?>"
+        },
+        {
+            "id": 24,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Você se engana feio se espera que eu fique de babá pra sempre, Dante."
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "Tá dizendo que vai ficar de braços cruzados enquanto a gente faz todo o trabalho?"
+        },
+        {
+            "id": 26,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Se eu me envolver, a expedição ficaria um pouco isenta demais de desafios, não é? Viraria um passeio feliz e tranquilo."
+        },
+        {
+            "id": 27,
+            "model": "그레고르",
+            "content": "... Em outras palavras, você quer que a gente volte todo roxo, preto e vermelho de pancada."
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "Esse é o tipo de coisa que as pessoas dizem quando estão escondendo algo..."
+        },
+        {
+            "id": 29,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Pense o que quiser."
+        },
+        {
+            "id": 30,
+            "model": "베르길리우스2",
+            "teller": "Vergilius",
+            "title": "Guia",
+            "content": "Eu arranjei guias e tudo mais pra vocês—agora vão lá e façam valer a pena."
+        },
+        {
+            "id": 31,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Sim! Com certeza não vou decepcioná-lo, Senhor Olhar Vermelho!"
+        },
+        {
+            "id": 32,
+            "model": "아야",
+            "teller": "Aya",
+            "title": "Mandatária de Grau 8",
+            "content": "Vou dar o meu melhor, eu acho~"
+        }
+    ]
+}

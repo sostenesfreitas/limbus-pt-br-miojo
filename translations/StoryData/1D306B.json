@@ -1,0 +1,60 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Distrito 4 - Interior da Filial LC",
+            "model": "파우스트",
+            "content": "Dante, algo nesta unidade de contenção parece diferente das outras, não parece?"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<É, realmente parece... Espera, isto é―?>"
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "content": "Sim, é muito provavelmente onde podemos encontrar a Anormalidade na qual o Ramo Dourado criou raízes."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Haah... Conseguimos chegar até aqui, hein."
+        },
+        {
+            "id": 4,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Diz, Gregor..."
+        },
+        {
+            "id": 5,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Quando voltarmos pro ônibus, posso ensinar a Charon a usar um mapa?"
+        },
+        {
+            "id": 6,
+            "model": "그레고르",
+            "content": "... É, parece bom. Tenho certeza de que ela vai gostar."
+        },
+        {
+            "id": 7,
+            "model": "싱클레어",
+            "content": "Duvido disso..."
+        },
+        {
+            "id": 8,
+            "content": "Sinclair balançou a cabeça, depois teve ânsia de vômito seca."
+        },
+        {
+            "id": 9,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "*risinho* É bom ter um lugar para voltar."
+        }
+    ]
+}

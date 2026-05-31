@@ -1,0 +1,764 @@
+{
+  "dataList": [
+    {
+      "id": "1",
+      "content": "Extração Padrão"
+    },
+    {
+      "id": "2",
+      "content": "Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "3",
+      "content": "Extração de Boas-Vindas ao Novo Gerente"
+    },
+    {
+      "id": "4",
+      "content": "[Temporada 1] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "101",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "102",
+      "content": "Nova Extração Focada: N Corp. #1"
+    },
+    {
+      "id": "103",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "104",
+      "content": "Nova Extração Focada: N Corp. #2"
+    },
+    {
+      "id": "105",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "106",
+      "content": "Nova Extração Focada: Diretor(a) S6 da Seven Outis & Liu S5 Hong Lu"
+    },
+    {
+      "id": "107",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "108",
+      "content": "Nova Extração Focada: Hell’s Chicken"
+    },
+    {
+      "id": "109",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "110",
+      "content": "Nova Extração Focada: N Corp. #3"
+    },
+    {
+      "id": "111",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "112",
+      "content": "Extração Focada: Triturador Dimensional para Yi Sang & Hong Lu"
+    },
+    {
+      "id": "113",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "114",
+      "content": "Nova Extração Focada: Oficina Rosespanner"
+    },
+    {
+      "id": "5",
+      "content": "[Temporada 2] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "115",
+      "content": "Nova Extração Focada: Aliança de Liberação Tecnológica & Oficina Rosespanner"
+    },
+    {
+      "id": "116",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "117",
+      "content": "Nova Extração Focada: Aliança de Liberação Tecnológica #2"
+    },
+    {
+      "id": "118",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "119",
+      "content": "Nova Extração Focada: K Corp & Aliança de Liberação Tecnológica #3"
+    },
+    {
+      "id": "120",
+      "content": "Extração Focada: Red Eyes & Red Eyes (Open)"
+    },
+    {
+      "id": "121",
+      "content": "Nova Extração Focada: Seção Sul 4 da Liu Ishmael"
+    },
+    {
+      "id": "122",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "123",
+      "content": "Nova Extração Focada: Rinoceronte da 4ª Matilha da R Corp. Meursault & Seção Sul 5 da Zwei Rodion"
+    },
+    {
+      "id": "124",
+      "content": "Nova Extração Focada: Diretor(a) da Seção Sul 5 da Cinq Don Quixote"
+    },
+    {
+      "id": "125",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "126",
+      "content": "Nova Extração Focada: Identidade & E.G.O - S.E.A"
+    },
+    {
+      "id": "127",
+      "content": "Nova Extração Focada: Seção Sul 4 da Zwei Gregor & Faust"
+    },
+    {
+      "id": "128",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "129",
+      "content": "Nova Extração Focada: Agente de Limpeza N3 da W Corp. Ryōshū & Agente de Limpeza N2 Hong Lu"
+    },
+    {
+      "id": "130",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "131",
+      "content": "Nova Extração Focada: Seção Sul 4 da Seven Faust & Heathcliff"
+    },
+    {
+      "id": "132",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "133",
+      "content": "Nova Extração Focada: Seção Sul 4 da Dieci Rodion"
+    },
+    {
+      "id": "134",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "135",
+      "content": "Nova Extração Focada de E.G.O: Lanterna para Sinclair"
+    },
+    {
+      "id": "136",
+      "content": "Nova Extração Focada de E.G.O: Ya Śūnyatā Tad Rūpam para Heathcliff"
+    },
+    {
+      "id": "137",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "138",
+      "content": "Extração Focada da 1ª Noite de Walpurgis"
+    },
+    {
+      "id": "139",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "140",
+      "content": "Nova Extração Focada: Agente de Limpeza N3 da W Corp. Yi Sang"
+    },
+    {
+      "id": "141",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "142",
+      "content": "Nova Extração Focada: Piratas de Gancho Duplo Primeiro Imediato Gregor & Subgerente da LCCB Ryōshū"
+    },
+    {
+      "id": "143",
+      "content": "Nova Extração Focada: Irmãzinha de O Médio Don Quixote & Irmãozinho Meursault"
+    },
+    {
+      "id": "6",
+      "content": "[Temporada 3] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "144",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "145",
+      "content": "Nova Extração Focada: Arpoador do Pequod Heathcliff & Primeiro Imediato Yi Sang"
+    },
+    {
+      "id": "146",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "147",
+      "content": "Nova Extração Focada de E.G.O: Pursuance para Rodion"
+    },
+    {
+      "id": "148",
+      "content": "Nova Extração Focada: Diretor(a) da Seção Sul 4 da Cinq Sinclair & S4 Outis"
+    },
+    {
+      "id": "149",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "150",
+      "content": "Nova Extração Focada de E.G.O: Miracle in District 20"
+    },
+    {
+      "id": "151",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "152",
+      "content": "Extração Focada da 2ª Noite de Walpurgis"
+    },
+    {
+      "id": "153",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "154",
+      "content": "Nova Extração Focada: Seção Sul 4 da Dieci Hong Lu & Yi Sang"
+    },
+    {
+      "id": "155",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "156",
+      "content": "Nova Extração Focada: Capitão do Pequod Ishmael"
+    },
+    {
+      "id": "157",
+      "content": "Nova Extração Focada de E.G.O: Wishing Cairn para Don Quixote"
+    },
+    {
+      "id": "158",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "159",
+      "content": "Nova Extração Focada: Yield My Flesh to Claim Their Bones"
+    },
+    {
+      "id": "160",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "161",
+      "content": "Nova Extração Focada: Diretor(a) da Seção Sul 4 da Liu Rodion & S4 Ryōshū"
+    },
+    {
+      "id": "162",
+      "content": "Nova Extração Focada de E.G.O: Garden of Thorns para Gregor"
+    },
+    {
+      "id": "163",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "164",
+      "content": "Nova Extração Focada: Seção Sul 3 da Öufi Heathcliff"
+    },
+    {
+      "id": "7",
+      "content": "[Temporada 4] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "165",
+      "content": "Nova Extração Focada: Mordomo Chefe do Morro dos Ventos Uivantes Outis & Chefe dos Coelhos Mortos Meursault"
+    },
+    {
+      "id": "166",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "167",
+      "content": "Nova Extração Focada: Herdeiro da Família Edgar Gregor & Mordomo do Morro dos Ventos Uivantes Faust"
+    },
+    {
+      "id": "168",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "169",
+      "content": "Nova Extração Focada: Mordomo Chefe da Família Edgar Ryōshū & Mordomo Ishmael"
+    },
+    {
+      "id": "170",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "171",
+      "content": "Extração Focada da 3ª Noite de Walpurgis"
+    },
+    {
+      "id": "172",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "173",
+      "content": "Nova Extração Focada: Estudante Pontilhista de O Anel Yi Sang & Outis"
+    },
+    {
+      "id": "174",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "175",
+      "content": "Nova Extração Focada de E.G.O: Cavernous Wailing para Hong Lu & Sinclair"
+    },
+    {
+      "id": "176",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "177",
+      "content": "Nova Extração Focada: Timekilling Time"
+    },
+    {
+      "id": "178",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "179",
+      "content": "Nova Extração Focada: Funcionário(a) de Coleta Classe 3 da T Corp. Don Quixote & Funcionário(a) de Coleta Classe 2 Rodion"
+    },
+    {
+      "id": "180",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "181",
+      "content": "Nova Extração Focada: Diretor(a) da Seção Sul 4 da Dieci Meursault & Desprezo, Temor Ryōshū"
+    },
+    {
+      "id": "182",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "183",
+      "content": "Nova Extração Focada: Capitão de Limpeza N3 da W Corp. Outis & Bala Vil Heathcliff"
+    },
+    {
+      "id": "184",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "185",
+      "content": "Nova Extração Focada: Representante do Escritório MultiCrack Faust & Triturador Dimensional Outis"
+    },
+    {
+      "id": "186",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "187",
+      "content": "Nova Extração Focada: A Caçada Selvagem Heathcliff"
+    },
+    {
+      "id": "188",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "189",
+      "content": "Extração Focada da 4ª Noite de Walpurgis"
+    },
+    {
+      "id": "190",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "191",
+      "content": "Nova Extração Focada de Identidade & E.G.O: Seção Norte 3 da Devyat' Rodion & Dias Idos Ishmael"
+    },
+    {
+      "id": "192",
+      "content": "Nova Extração Focada: Seção Oeste 3 da Zwei Ishmael"
+    },
+    {
+      "id": "193",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "194",
+      "content": "Nova Extração Focada: Seção Oeste 3 da Cinq Meursault & Seção Oeste 3 da Zwei Sinclair"
+    },
+    {
+      "id": "195",
+      "content": "Nova Extração Focada: O Barbeiro de La Manchaland Outis & Mandatário(a) do Escritório Caça-Presas Hong Lu"
+    },
+    {
+      "id": "8",
+      "content": "[Temporada 5] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "196",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "197",
+      "content": "Nova Extração Focada: O Sacerdote de La Manchaland Gregor"
+    },
+    {
+      "id": "198",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "199",
+      "content": "Nova Extração Focada de Identidade & E.G.O: A Princesa de La Manchaland Rodion & Bala Vil Yi Sang"
+    },
+    {
+      "id": "200",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "201",
+      "content": "Nova Extração Focada de Identidade & E.G.O: Seção Norte 3 da Devyat' Sinclair & Inércia Assimétrica Heathcliff"
+    },
+    {
+      "id": "202",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "203",
+      "content": "Nova Extração Focada: O Gerente de La Manchaland Don Quixote"
+    },
+    {
+      "id": "204",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "205",
+      "content": "Nova Extração Focada de E.G.O: Miracle in District 20 BokGak"
+    },
+    {
+      "id": "206",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "207",
+      "content": "Extração Focada da 5ª Noite de Walpurgis"
+    },
+    {
+      "id": "208",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "209",
+      "content": "Nova Extração Focada: LCB Regular Check-up"
+    },
+    {
+      "id": "210",
+      "content": "Extração Focada: Linhagem da Lâmina & Clã Kurokumo"
+    },
+    {
+      "id": "211",
+      "content": "Nova Extração Focada: Capitão do Clã Kurokumo Ishmael"
+    },
+    {
+      "id": "212",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "213",
+      "content": "Nova Extração Focada de Identidade & E.G.O: Seção Sul 3 da Liu Yi Sang & Toracalgia Faust"
+    },
+    {
+      "id": "214",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "215",
+      "content": "Nova Extração Focada: Sobrevivente do Escritório Punho de Fogo Gregor & Seção Leste 3 da Cinq Don Quixote"
+    },
+    {
+      "id": "216",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "217",
+      "content": "Nova Extração Focada: Nocturnal Sweeping"
+    },
+    {
+      "id": "218",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "219",
+      "content": "Nova Extração Focada: Irmãozinho de O Médio Sinclair"
+    },
+    {
+      "id": "220",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "221",
+      "content": "Nova Extração Focada de E.G.O: Indicant's Trial para Rodion"
+    },
+    {
+      "id": "222",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "223",
+      "content": "Nova Extração Focada: Rena da 4ª Matilha da R Corp. Hong Lu"
+    },
+    {
+      "id": "9",
+      "content": "[Temporada 6] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "224",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "225",
+      "content": "Nova Extração Focada: Bando Heishou - Filial Si Rodion & Gregor"
+    },
+    {
+      "id": "226",
+      "content": "Nova Extração Focada: Bando Heishou - Filial Mao Adepto Faust"
+    },
+    {
+      "id": "227",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "228",
+      "content": "Nova Extração Focada: Candidato(a) a Patriarca da Família Ishmael"
+    },
+    {
+      "id": "229",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "230",
+      "content": "Nova Extração Focada: Capo IIII Leste de O Polegar Meursault & Soldato II Sinclair"
+    },
+    {
+      "id": "231",
+      "content": "Extração Focada: La Manchaland - Bloodfiends"
+    },
+    {
+      "id": "232",
+      "content": "Nova Extração Focada: N Corp. E.G.O::Bala Vil Yi Sang"
+    },
+    {
+      "id": "233",
+      "content": "Extração Focada da 1ª & 2ª Noite de Walpurgis BokGak"
+    },
+    {
+      "id": "234",
+      "content": "Extração Focada da 6ª Noite de Walpurgis"
+    },
+    {
+      "id": "235",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "236",
+      "content": "Nova Extração Focada: Timekilling Time BokGak"
+    },
+    {
+      "id": "237",
+      "content": "Extração Focada: Bando Heishou"
+    },
+    {
+      "id": "238",
+      "content": "Nova Extração Focada: O Senhor de Hongyuan Hong Lu"
+    },
+    {
+      "id": "239",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "240",
+      "content": "Nova Extração Focada: Spring Cultivation"
+    },
+    {
+      "id": "241",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "242",
+      "content": "Nova Extração Focada: N Corp. E.G.O::Desprezo, Temor Ryōshū"
+    },
+    {
+      "id": "243",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "244",
+      "content": "Nova Extração Focada de E.G.O: Pilgrimage of Compassion"
+    },
+    {
+      "id": "245",
+      "content": "Extração Focada: Gregor"
+    },
+    {
+      "id": "246",
+      "content": "Nova Extração Focada: Seção Leste 3 da Shi Faust"
+    },
+    {
+      "id": "247",
+      "content": "Extração Focada: W Corp."
+    },
+    {
+      "id": "248",
+      "content": "Nova Extração Focada: Murder on the WARP Express BokGak"
+    },
+    {
+      "id": "249",
+      "content": "Extração Focada da 2ª & 3ª Noite de Walpurgis BokGak"
+    },
+    {
+      "id": "250",
+      "content": "Extração Focada da 7ª Noite de Walpurgis"
+    },
+    {
+      "id": "251",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "252",
+      "content": "Nova Extração Focada: Bando Heishou - Filial You Adepto Heathcliff & Filial Wei Don Quixote"
+    },
+    {
+      "id": "253",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "254",
+      "content": "Nova Extração Focada: Lâmina Errante de Hongyuan Ryōshū"
+    },
+    {
+      "id": "255",
+      "content": "Extração Focada: Outis"
+    },
+    {
+      "id": "256",
+      "content": "Nova Extração Focada: Rena da 4ª Matilha da R Corp. Rodion"
+    },
+    {
+      "id": "10",
+      "content": "[Temporada 7] Extração Garantida: Identidade 3★"
+    },
+    {
+      "id": "257",
+      "content": "Extração Focada: Ryōshū"
+    },
+    {
+      "id": "258",
+      "content": "Nova Extração Focada: Prosélito(a) de O Indicador:【Ficha de Papel】 Faust & Líder da Equipe 3 da Vanguarda Udjat da LCA Outis"
+    },
+    {
+      "id": "259",
+      "content": "Nova Extração Focada: Procurador(a) de O Indicador - Effloresced E.G.O::Procuração Don Quixote"
+    },
+    {
+      "id": "260",
+      "content": "Extração Focada: Rodion"
+    },
+    {
+      "id": "261",
+      "content": "Nova Extração Focada: A Casa das Aranhas: Aprendiz de O Médio Ishmael"
+    },
+    {
+      "id": "262",
+      "content": "Extração Focada: Faust"
+    },
+    {
+      "id": "263",
+      "content": "Nova Extração Focada: A Casa das Aranhas: Aprendiz de O Mindinho Sinclair & Lobotomy E.G.O::Lâmpada Gregor"
+    },
+    {
+      "id": "264",
+      "content": "Extração Focada: Hong Lu"
+    },
+    {
+      "id": "265",
+      "content": "Extração Focada: Hongyuan"
+    },
+    {
+      "id": "266",
+      "content": "Nova Extração Focada: A Casa das Aranhas: Pai-Babá de O Indicador Yi Sang"
+    },
+    {
+      "id": "267",
+      "content": "Extração Focada da 3ª & 4ª Noite de Walpurgis BokGak"
+    },
+    {
+      "id": "268",
+      "content": "Extração Focada da 8ª Noite de Walpurgis"
+    },
+    {
+      "id": "269",
+      "content": "Extração Focada: Heathcliff"
+    },
+    {
+      "id": "270",
+      "content": "Nova Extração Focada: LCB Regular Check-up BokGak"
+    },
+    {
+      "id": "271",
+      "content": "Extração Focada: Yi Sang"
+    },
+    {
+      "id": "272",
+      "content": "Nova Extração Focada: A Casa das Aranhas: Pai-Babá de O Anel Hong Lu & Aprendiz Faust"
+    },
+    {
+      "id": "273",
+      "content": "Extração Focada: Don Quixote"
+    },
+    {
+      "id": "274",
+      "content": "Nova Extração Focada de Identidade: Twining Threads"
+    },
+    {
+      "id": "275",
+      "content": "Extração Focada: Meursault"
+    },
+    {
+      "id": "276",
+      "content": "Nova Extração Focada: Nocturnal Sweeping BokGak"
+    },
+    {
+      "id": "277",
+      "content": "Extração Focada: Sinclair"
+    },
+    {
+      "id": "278",
+      "content": "Nova Extração Focada de Identidade: Lâmina da Casa das Aranhas Ryōshū"
+    },
+    {
+      "id": "279",
+      "content": "Extração Focada: Ishmael"
+    },
+    {
+      "id": "280",
+      "content": "Nova Extração Focada de Identidade: A Casa das Aranhas: Pai-Babá de O Médio Outis"
+    }
+  ]
+}

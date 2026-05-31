@@ -1,0 +1,378 @@
+{
+  "dataList": [
+    {
+      "id": 956301,
+      "name": "Aceleração do Nascituro",
+      "desc": "Início do Encontro: Ganha 1,3% do HP como Escudo\nO HP não cai abaixo de 90%\n\nSe o Escudo desta unidade for quebrado antes do fim do Turno 3,\nEncerra o turno imediatamente e ativa <color=#ff6000><mark=#ff000040><b><u>um padrão único</u></b></mark></color> no próximo turno\n\nNo Fim do Ataque da Habilidade \"A Aceleração\": Encerra o Encontro"
+    },
+    {
+      "id": 956401,
+      "name": "Eclosão - Vida Que Foi",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\nPrimeiro Início do Turno após entrar no Encontro: Ganha 333 de Escudo\n\nNo Fim do Ataque da Habilidade \"Eclosão\", encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine"
+    },
+    {
+      "id": 956402,
+      "name": "Tempo da Forja",
+      "desc": "Quadruplica os efeitos de [HeatedWingScales]\n\nRecebe +100% de dano de Habilidades de E.G.O"
+    },
+    {
+      "id": 956501,
+      "name": "Eclosão - Vida Que É",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\nPrimeiro Início do Turno após entrar no Encontro: Ganha 333 de Escudo\n\nNo Fim do Ataque da Habilidade \"Eclosão\", encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine"
+    },
+    {
+      "id": 956502,
+      "name": "Kṣaṇa da Circunvolução",
+      "desc": "Quadruplica os efeitos de [TransparentWingScales]\n\nRecebe +100% de dano de Habilidades de E.G.O"
+    },
+    {
+      "id": 956601,
+      "name": "Eclosão - Vida Que Será",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\nPrimeiro Início do Turno após entrar no Encontro: Ganha 333 de Escudo\n\nNo Fim do Ataque da Habilidade \"Eclosão\", encerra o Encontro\n- Se o Escudo for quebrado, prossegue para o próximo turno em vez disso e <color=#ff6000><mark=#ff000040><b><u>enfrenta um Evento de Escolha único</u></b></mark></color> antes que o Encontro termine"
+    },
+    {
+      "id": 956602,
+      "name": "Erosão dos Kalpas",
+      "desc": "Quadruplica os efeitos de [RustedWingScales]\n\nRecebe +100% de dano de Habilidades de E.G.O"
+    },
+    {
+      "id": 9567010,
+      "name": "Passado [過去]",
+      "desc": "Com [StackPastActivate], ganha os seguintes efeitos:\n- Ao ser atingida por Pecadores, inflige 1 [Combustion] e +1 de Contagem de [Combustion] no\nPecador atacante\n- A Habilidade \"Kalpāgni\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ninflige (Carga de [StackPastActivate] / 2) de dano de SP (arredondado para baixo)\"\n- Início do Turno: Inflige 5 [TakeHpHealReduce] e 3 [CrimsonTakeDamageUp] em todos os Pecadores que tenham 10+ (Potência de [Combustion] + Contagem de [Combustion])"
+    },
+    {
+      "id": 9567011,
+      "name": "Passado [過去]",
+      "desc": "Com [StackPastActivate], ganha os seguintes efeitos:\n<mark=#000000AA>- <color=#ff9000><s></color>Ao ser atingida por Pecadores, inflige 1 [Combustion] e +1 de Contagem de [Combustion] no\nPecador atacante<color=#ff0000></s></color></mark>\n- A Habilidade \"Kalpāgni\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ninflige (Carga de [StackPastActivate] / 2) de dano de SP (arredondado para baixo)\"\n- Início do Turno: Inflige 5 [TakeHpHealReduce] e 3 [CrimsonTakeDamageUp] em todos os Pecadores que tenham 10+ (Potência de [Combustion] + Contagem de [Combustion])\n"
+    },
+    {
+      "id": 9567012,
+      "name": "Passado [過去]",
+      "desc": "Com [StackPastActivate], ganha os seguintes efeitos:\n- Ao ser atingida por Pecadores, inflige 1 [Combustion] e +1 de Contagem de [Combustion] no\nPecador atacante\n<mark=#000000AA>- <color=#ff9000><s></color>A Habilidade \"Kalpāgni\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ninflige (Carga de [StackPastActivate] / 2) de dano de SP (arredondado para baixo)\"<color=#ff0000></s></color></mark>\n- Início do Turno: Inflige 5 [TakeHpHealReduce] e 3 [CrimsonTakeDamageUp] em todos os Pecadores que tenham 10+ (Potência de [Combustion] + Contagem de [Combustion])\n"
+    },
+    {
+      "id": 9567013,
+      "name": "Passado [過去]",
+      "desc": "Com [StackPastActivate], ganha os seguintes efeitos:\n- Ao ser atingida por Pecadores, inflige 1 [Combustion] e +1 de Contagem de [Combustion] no\nPecador atacante\n- A Habilidade \"Kalpāgni\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ninflige (Carga de [StackPastActivate] / 2) de dano de SP (arredondado para baixo)\"\n<mark=#000000AA>- <color=#ff9000><s></color>Início do Turno: Inflige 5 [TakeHpHealReduce] e 3 [CrimsonTakeDamageUp] em todos os Pecadores que tenham 10+ (Potência de [Combustion] + Contagem de [Combustion])<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 9567020,
+      "name": "Presente [現在]",
+      "desc": "Com [StackPresentActivate], ganha os seguintes efeitos:\n- Não perde Contagem de [Breath] em Acerto Crítico; Início do Turno: ganha (2 + # de Pecadores) [Breath] e Contagem de [Breath]\n- A Habilidade \"Castigar os Ímpios\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar, aumenta o Limiar de Atordoamento em (Carga de [StackPresentActivate] / 2) (arredondado para baixo)\"\n- Ao Acertar, causa +((Potência de [Breath] em si + Contagem de [Breath] em si) x 2)% de dano em Acerto Crítico (máx. 120%; ao Perder o Embate, aplica apenas um terço do valor total do efeito)\n"
+    },
+    {
+      "id": 9567021,
+      "name": "Presente [現在]",
+      "desc": "Com [StackPresentActivate], ganha os seguintes efeitos:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Não perde Contagem de [Breath] em Acerto Crítico; Início do Turno: ganha (2 + # de Pecadores) [Breath] e Contagem de [Breath]<color=#ff0000></s></color></mark>\n- A Habilidade \"Castigar os Ímpios\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar, aumenta o Limiar de Atordoamento em (Carga de [StackPresentActivate] / 2) (arredondado para baixo)\"\n- Ao Acertar, causa +((Potência de [Breath] em si + Contagem de [Breath] em si) x 2)% de dano em Acerto Crítico (máx. 120%; ao Perder o Embate, aplica apenas um terço do valor total do efeito)\n"
+    },
+    {
+      "id": 9567022,
+      "name": "Presente [現在]",
+      "desc": "Com [StackPresentActivate], ganha os seguintes efeitos:\n- Não perde Contagem de [Breath] em Acerto Crítico; Início do Turno: ganha (2 + # de Pecadores) [Breath] e Contagem de [Breath]\n<mark=#000000AA>- <color=#e5e5e5><s></color>A Habilidade \"Castigar os Ímpios\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar, aumenta o Limiar de Atordoamento em (Carga de [StackPresentActivate] / 2) (arredondado para baixo)\"<color=#ff0000></s></color></mark>\n- Ao Acertar, causa +((Potência de [Breath] em si + Contagem de [Breath] em si) x 2)% de dano em Acerto Crítico (máx. 120%; ao Perder o Embate, aplica apenas um terço do valor total do efeito)\n"
+    },
+    {
+      "id": 9567023,
+      "name": "Presente [現在]",
+      "desc": "Com [StackPresentActivate], ganha os seguintes efeitos:\n- Não perde Contagem de [Breath] em Acerto Crítico; Início do Turno: ganha (2 + # de Pecadores) [Breath] e Contagem de [Breath]\n- A Habilidade \"Castigar os Ímpios\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar, aumenta o Limiar de Atordoamento em (Carga de [StackPresentActivate] / 2) (arredondado para baixo)\"\n<mark=#000000AA>- <color=#e5e5e5><s></color>Ao Acertar, causa +((Potência de [Breath] em si + Contagem de [Breath] em si) x 2)% de dano em Acerto Crítico (máx. 120%; ao Perder o Embate, aplica apenas um terço do valor total do efeito)<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 9567030,
+      "name": "Futuro [未來]",
+      "desc": "Com [StackFutureActivate], ganha os seguintes efeitos:\n- Início do Turno: Todos os Pecadores ganham +(3 + # do turno atual / 2) de Contagem de [Laceration] (arredondado para cima)\n- A Habilidade \"Flor de Sangue\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ncura (Carga de [StackFutureActivate] x 3) de HP em si\"\n- Sempre que [Laceration] ativa em si ou em Pecadores, cura HP igual ao referido dano de [Laceration] (arredondado para baixo)\n"
+    },
+    {
+      "id": 9567031,
+      "name": "Futuro [未來]",
+      "desc": "Com [StackFutureActivate], ganha os seguintes efeitos:\n<mark=#000000AA>- <color=#d93737><s></color>Início do Turno: Todos os Pecadores ganham +(3 + # do turno atual / 2) de Contagem de [Laceration] (arredondado para cima)<color=#ff0000></s></color></mark>\n- A Habilidade \"Flor de Sangue\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ncura (Carga de [StackFutureActivate] x 3) de HP em si\"\n- Sempre que [Laceration] ativa em si ou em Pecadores, cura HP igual ao referido dano de [Laceration] (arredondado para baixo)\n"
+    },
+    {
+      "id": 9567032,
+      "name": "Futuro [未來]",
+      "desc": "Com [StackFutureActivate], ganha os seguintes efeitos:\n- Início do Turno: Todos os Pecadores ganham +(3 + # do turno atual / 2) de Contagem de [Laceration] (arredondado para cima)\n<mark=#000000AA>- <color=#d93737><s></color>A Habilidade \"Flor de Sangue\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ncura (Carga de [StackFutureActivate] x 3) de HP em si\"<color=#ff0000></s></color></mark>\n- Sempre que [Laceration] ativa em si ou em Pecadores, cura HP igual ao referido dano de [Laceration] (arredondado para baixo)\n"
+    },
+    {
+      "id": 9567033,
+      "name": "Futuro [未來]",
+      "desc": "Com [StackFutureActivate], ganha os seguintes efeitos:\n- Início do Turno: Todos os Pecadores ganham +(3 + # do turno atual / 2) de Contagem de [Laceration] (arredondado para cima)\n- A Habilidade \"Flor de Sangue\" ganha Poder Final +2 e sua Moeda final ganha o efeito \"Ao Acertar,\ncura (Carga de [StackFutureActivate] x 3) de HP\"\n<mark=#000000AA>- <color=#d93737><s></color>Sempre que [Laceration] ativa em si ou em Pecadores, cura HP igual ao referido dano de [Laceration] (arredondado para baixo)<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 956704,
+      "name": "Causalidade que Entrelaça o Passado, o Presente e o Futuro [三世因果]",
+      "desc": "Com 10+ Embates contra o mesmo alvo, ganha ou perde aleatoriamente Poder de Embate em (Contagem de Embates / 10) em um Embate (arredondado para baixo)\n\nInício do Encontro:\n- Começa o Encontro com o mesmo HP que a Borboleta[TabExplain] das Vidas Entrelaçadas::A Pupa (excluindo Escudo)\n- Ganha 10 Cargas de cada um: [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]\n\nCom menos de 66%/33% de HP, ganha novos padrões de Espaço\n- <color=#ff6000><mark=#ff000040><b><u>Quando o HP desta unidade cai abaixo de 66%/33%</u></b></mark></color> pela primeira vez neste Encontro, <color=#ff6000><mark=#ff000040><b><u>ganha 10 Cargas de cada um: [StackPastActivate], [StackPresentActivate] e [StackFutureActivate]</u></b></mark></color> no próximo turno"
+    },
+    {
+      "id": 956705,
+      "name": "Momento das Vidas Entrelaçadas",
+      "desc": "Início do Turno: <color=#ff6000><mark=#ff000040><b><u>Ativa o estado de tempo com maior Carga</u></b></mark></color> entre [StackPastActivate], [StackPresentActivate] e [StackFutureActivate] e usa uma Habilidade especial\n- Se múltiplos estados de tempo compartilharem a maior Carga, o estado de tempo atualmente ativo não muda\n- Estados de tempo inativos tornam-se [StackPast], [StackPresent] ou [StackFuture], respectivamente\n- Quando o <color=#ff6000><mark=#ff000040><b><u>estado de tempo atualmente ativo muda</u></b></mark></color>, ganha 1 [TimeGap]\n\n<color=#ff6000><mark=#ff000040><b><u>Toda vez que a Borboleta Ilusória[TabExplain] das Vidas Entrelaçadas::O Passado / O Presente / O Futuro são atingidas como alvos principais</u></b></mark></color>, a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago perde 1 Carga de [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]\n\n<color=#ff6000><mark=#ff000040><b><u>Cargas mais altas de [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]</u></b></mark></color> levam o Poder de Habilidade e a saída de dano da Borboleta[TabExplain] das Vidas Entrelaçadas::Imago a se tornarem <color=#ff6000><mark=#ff000040><b><u>grandemente aprimorados</u></b></mark></color>, e <color=#ff6000><mark=#ff000040><b><u>aumentam grandemente a quantidade de efeitos de status que ela inflige ou ganha</u></b></mark></color>"
+    },
+    {
+      "id": 956801,
+      "name": "Vida Pendente de uma Cunha [一櫼之命]",
+      "desc": "Início do Encontro: Ganha 3 [YesdragonSelfRefraction]\nFim do Turno: Ganha 1 [YesdragonSelfRefraction] no próximo turno\nGanha +1 [YesdragonSelfRefraction] a mais deste efeito toda vez que a Passiva \"Ira Trovejante\" é acionada"
+    },
+    {
+      "id": 956802,
+      "name": "Ira Trovejante [震怒]",
+      "desc": "A Parte Escama Invertida só recebe dano de Habilidades das quais é o alvo principal; não recebe dano de nenhuma outra fonte\nQuando a Parte Escama Invertida é atingida, remove a Parte Escama Invertida dos Espaços de Habilidade no próximo turno; ganha 1 [AttackUp] e 1 [DefenseDown] para cada Carga de [YesdragonSelfRefraction] consumida pela Habilidade \"Ira da Escama Invertida\""
+    },
+    {
+      "id": 956804,
+      "name": "Escama do Dragão",
+      "desc": "Não afetado por [Agility] e [Binding]\nRecebe -50% de dano de HP de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking]; -50% no Limiar de Atordoamento elevado por [Vibration]"
+    },
+    {
+      "id": 956805,
+      "name": "Os Céus Inalcançáveis",
+      "desc": "Início do Encontro: A Parte Cabeça ganha Escudo igual a 100% do HP máx. desta unidade\nNão perde Escudo no Fim do Turno\nQuando o Escudo é quebrado, entra em uma nova fase"
+    },
+    {
+      "id": 956901,
+      "name": "Corpo Maculado",
+      "desc": "Todas as Partes tornam-se Quebráveis e Inseccionáveis\nPartes Quebradas se regeneram em 3 turnos com 30% de HP"
+    },
+    {
+      "id": 956902,
+      "name": "Vida Pendente de uma Cunha [一櫼之命]",
+      "desc": "Não pode ser morto enquanto a Parte Cunha Sepultadora de Flores não for quebrada"
+    },
+    {
+      "id": 956903,
+      "name": "Escama Quebrada",
+      "desc": "Quando a Parte Escama Invertida é quebrada, a Passiva \"Ira Trovejante\" não ativa\nEnquanto a Parte Escama Invertida estiver quebrada, todas as Partes ganham 3 [AttackUp] e 6 [DefenseDown]"
+    },
+    {
+      "id": 956904,
+      "name": "Crânio Quebrado",
+      "desc": "Enquanto a Parte Cabeça estiver quebrada, todas as Partes ganham 2 [Vulnerable] a cada turno"
+    },
+    {
+      "id": 956907,
+      "name": "Florescência Sepultadora de Flores Irrompente [梅花滿開]",
+      "desc": "Início do Encontro: Ganha 3 [YesdragonSelfRefraction]\nFim do Turno: Ganha 1 [YesdragonSelfRefraction] no próximo turno\nGanha +1 [YesdragonSelfRefraction] a mais deste efeito toda vez que a Passiva \"Ira Trovejante\" é acionada\n- Quando a Escama Invertida é quebrada, reinicia o ganho aumentado de [YesdragonSelfRefraction]"
+    },
+    {
+      "id": 956908,
+      "name": "Ira Trovejante [震怒]",
+      "desc": "A Parte Escama Invertida só recebe dano de Habilidades das quais é o alvo principal; não recebe dano de nenhuma outra fonte\nQuando a Parte Escama Invertida é atingida, remove a Parte Escama Invertida dos Espaços de Habilidade no próximo turno; ganha 1 [AttackUp] e 1 [DefenseDown] para cada Carga de [YesdragonSelfRefraction] consumida pela Habilidade \"Ira da Escama Invertida\""
+    },
+    {
+      "id": 957001,
+      "name": "Veia do Dragão [龍脈]",
+      "desc": "Início do Turno: Ganha Escudo igual a 300% do HP máx. do Núcleo\n- Este efeito não é acionado quando Habilidades de Ataque estão equipadas\nInício do Turno: Quando Atordoado, recupera-se do Atordoamento"
+    },
+    {
+      "id": 957002,
+      "name": "A Veia Sangrante do Dragão",
+      "desc": "Ao ser atingido, aplica [YesdragonPower] no atacante no próximo turno\n\nAo morrer, aplica imediatamente [YesdragonPower] em todos os Pecadores"
+    },
+    {
+      "id": 957003,
+      "name": "Um Último Resplendor [回光返照]",
+      "desc": "Quando esta unidade recebe dano que leva seu HP a 0, o HP desta unidade não cai abaixo de 1 pelo turno; recupera-se do Atordoamento devido ao dano\nPelo resto do turno, esta unidade não pode ser Atordoada nem morta por dano; então, usa \"Trespassar a Si, Impureza[TabExplain] a Purgar\" bem ao final daquele turno"
+    },
+    {
+      "id": 957004,
+      "name": "Energia Sublime",
+      "desc": "Esta unidade não pode ser alvo de efeitos de cura ou de Defesa de Apoio[TabExplain]\nSó recebe dano de Habilidades das quais esta unidade é o alvo principal; não recebe dano de nenhuma outra fonte"
+    },
+    {
+      "id": 957006,
+      "name": "Saída Refratada",
+      "desc": "Não pode Recuar"
+    },
+    {
+      "id": 957101,
+      "name": "Retorno à Origem [物歸原主]",
+      "desc": "Ao ser atingido pela Habilidade \"Queda Relâmpago\" de Yinglong, morre instantaneamente e aplica 1 [YesdragonSelfRefraction] em Yinglong"
+    },
+    {
+      "id": 955101,
+      "name": "Rien, O Pai-Babá do Indicador",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Recebe -50% de dano de Ataques Sem Oposição</u></b></mark></color>\nRecebe -50% de dano de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking]\nAo curar SP de [UnlockBuff_Base], se o SP desta unidade estiver abaixo de 15, cura SP até 15\n\nInício do Encontro: Ganha [BurningWoundRien_Mask] e cura SP até 45\n\nEm 55%- de HP, encerra o turno e ganha um novo padrão\n- Remove todos os efeitos além daqueles exclusivos a esta unidade\n- Muda a Carga de [StackRienSpecialSkill] para 0",
+      "flavor": "Esperei pelo \"momento\" como o Prescript me mandou.\nMesmo depois que minha querida filha partiu, eu esperei.\n\nE depois de um tempo, fui contatado pela Limbus Company e vi que a Porta dos Fundos estava aberta.\nFoi então que o dispositivo apitou e me avisou que finalmente era hora de trazer minha filha para casa."
+    },
+    {
+      "id": 955102,
+      "name": "Dispositivo Oráculo [Caduceus]",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nAo usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill] (máx. 9)\n- Pode ser ganho uma vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes\n\n<color=#ff9000><mark=#ff000040><b><u>Início do Turno: Com 9 Cargas de [StackRienSpecialSkill], usa uma Habilidade poderosa</u></b></mark></color>\n- Fim do Ataque: Após usar a Habilidade poderosa pela primeira vez, ganha [Shin_Rien]\n- Reinicia o limite por Habilidade de [StackRienSpecialSkill]\n- Velocidade Mín. e Máx. +15\n- Fim do Turno: Ganha 1 [Vulnerable] e 2 [ResultReduction] no próximo turno\n\nInício do Turno 4 após entrar no campo: Com menos de 9 [StackRienSpecialSkill], leva sua Carga a 9; então, ganha (Carga ganha x 3) [KarmaOfIndexRien]\n- Então, ativa este efeito a cada 4 turnos",
+      "flavor": "Um frasco do que parece ser metal líquido capaz de mudar sua forma e massa, suas qualidades quase como as de Singularidades, agita-se dentro do Dispositivo.\nA forma que o fluido assume depende do Prescript que o Dispositivo recebe. As armas que ele produz dependem das informações sobre o alvo e do limite de tempo dado para realizar o assassinato.\nUm dia, ao receber uma adaga pequena demais para a tarefa, ele optou por esperar até que produzisse uma arma diferente. Contudo, apesar do prazo se aproximando, ele se recusou a lhe fornecer uma arma adequada; não teve escolha senão matar seu alvo com um garfo."
+    },
+    {
+      "id": 955103,
+      "name": "Vontade do Prescript",
+      "desc": "Início do Turno:\n- Ganha [IndexPrescript_Base_2nd] com base no estágio de [UnlockBuff_Base] em si\n- Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório, e prioriza atacá-lo\n<color=#ff9000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color>\n\nAo atacar, se [IndexPrescriptTargetToPersonality] for morto, ou se esta unidade não puder mais atacar aquele alvo, <color=#ff9000><mark=#ff000040><b><u>usa as Habilidades restantes contra um Pecador aleatório\n- Prioriza alvos com o menor HP atual, a menos que tenham 1 de HP\n- Quando o Pecador escolhido aleatoriamente é morto, ou se o HP do referido Pecador é levado a 1, repete este efeito em outro Pecador</u></b></mark></color>\n\nCausa +2,5% de dano contra [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 20%)\n- Com 9 [BlessingOfIndexPrescriptEnemy], causa +30% de dano contra todos os alvos",
+      "flavor": "Desejas que eu constitua uma família?\n\n\"Deve ter sido o destino que nos uniu. Pensar que eu algum dia conheceria um marido como você...\""
+    },
+    {
+      "id": 955104,
+      "name": "Cumprir o Prescript",
+      "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, cura 10 SP e ganha 3 [BlessingOfIndexPrescriptEnemy] (uma vez por turno)\n\n<color=#ff9000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 8 [KarmaOfIndexRien]</u></b></mark></color>\n- Se esta unidade não tiver [UnlockBuff_Base], ganha 1 [BlessingOfIndexPrescriptEnemy] no Fim do Turno\n- Com 9 [BlessingOfIndexPrescriptEnemy], não ganha [KarmaOfIndexRien]",
+      "flavor": "Desejas que eu perca minha família?\n\n\"Querido, tenho que fazer uma viagenzinha rápida ao norte hoje.\"\n\"Ah, e também—ei, amigão. Estou esperando uma encomenda esta tarde, então você seria um amor e a pegaria para mim, docinho?\""
+    },
+    {
+      "id": 955105,
+      "name": "Destravar",
+      "desc": "Fim do Turno: Com 3/6/9 [BlessingOfIndexPrescriptEnemy] ou em 95%-/85%-/75%- de HP,- Ganha [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nFim do Turno 1 após entrar no campo: Abaixo do estágio 1 de [UnlockBuff_Base], ganha [UnlockBuff_Rien1]\nFim do Turno 3 após entrar no campo: Abaixo do estágio 2 de [UnlockBuff_Base], ganha [UnlockBuff_Rien2]\n\nQuando [UnlockBuff_Base] é ativado devido a condicionais de HP ou Turno:\n- Com menos de 3/6/9 Cargas de [BlessingOfIndexPrescriptEnemy], eleva-as a 3/6/9\nGanha 5 [KarmaOfIndexRien] no próximo Início do Turno para cada Carga ganha",
+      "flavor": "\"Seguir os Prescripts é destravar o que está travado.\""
+    },
+    {
+      "id": 955106,
+      "name": "Pânico Fixado",
+      "desc": "Aplica o efeito [PanicChangeLock]\nFim do Turno: Se esta unidade estiver em Pânico, eleva o SP a 15"
+    },
+    {
+      "id": 955201,
+      "name": "Rien, o Pai [Imitação]",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Recebe -75% de dano de Ataques Sem Oposição</u></b></mark></color>\nRecebe -75% de dano de [Combustion], [Laceration], [Vibration], [Burst] e [Sinking]\nAo curar SP de [UnlockBuff_Base], se o SP desta unidade estiver abaixo de 30, cura até 30 de SP\n\nQuando esta unidade entra em uma nova fase em 55% de HP, ganha os seguintes efeitos:\n- Remove todos os efeitos além daqueles exclusivos a esta unidade\n- Reinicia a Carga de [StackRienSpecialSkill] para 0\n- Ganha [IndexPrescript_RienSecondPhase]\n- Converte [BurningWoundRien_Mask] em [BurningWoundRien]\n- Converte [KarmaOfIndexRien] em [KarmaOfIndexRien_2Phase]; então ganha 10 Cargas daquele efeito\n- Se esta unidade não tiver [Shin_Rien], ganha imediatamente aquele efeito\n\nEm 25% ou menos de HP, ganha um novo padrão e aprimora grandemente uma certa Habilidade",
+      "flavor": "Outrora, ele nutriu a suspeita de que estava sendo moldado na imitação de alguém; ele duvidou da Vontade e quase a desafiou, pois não sabia a quem deveria imitar. Só quando já era tarde demais ele compreendeu sua intenção e passou a aceitar a vontade do Prescript.\nSó então o falso pai foi completado."
+    },
+    {
+      "id": 955202,
+      "name": "Dispositivo Oráculo [Caduceus] - Destrave Total",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Uma arma aleatória é atribuída a cada Moeda. Cada arma tem um efeito único.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nAo usar uma Habilidade de Ataque, ganha 1 [StackRienSpecialSkill] (máx. 9)\n- Pode ser ganho uma vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes\n- Não ganha Carga de uma Habilidade usada apenas em um padrão especial\n\nInício do Turno: Com 9 Cargas de [StackRienSpecialSkill], usa uma Habilidade poderosa\n- Reinicia o limite por Habilidade de [StackRienSpecialSkill]\n- Velocidade Mín. e Máx. +15\n- Fim do Turno: Ganha 2 [Vulnerable] e 3 [ResultReduction] no próximo turno\n\nAtiva o seguinte, a partir do turno em que a fase mudou\n- A cada 3 turnos, com menos de 9 [StackRienSpecialSkill], leva sua Carga a 9; então, ganha (Carga ganha x 5) [KarmaOfIndexRien_2Phase]",
+      "flavor": "Uma arma sem paralelo e uma maldição concedida por Hermes, um deus da Cidade cujos Prescripts são distribuídos por ondas de rádio."
+    },
+    {
+      "id": 955203,
+      "name": "Vontade do Prescript",
+      "desc": "Início do Turno:\n- Aplica [IndexPrescriptTargetToPersonality] contra um Pecador aleatório, e prioriza atacá-lo\n<color=#ff9000><mark=#ff000040><b><u>- Ao usar uma Habilidade contra [IndexPrescriptTargetToPersonality], converte todas as Moedas dessa Habilidade em [SuperCoin]s</u></b></mark></color>\n- Ganha [Protection] igual a [BlessingOfIndexPrescriptEnemy] (máx. 9)\n<color=#ff9000><mark=#ff000040><b><u>\n- Perde 1 Carga para cada 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\nAo atacar, se [IndexPrescriptTargetToPersonality] for morto, ou se esta unidade não puder mais atacar aquele alvo, <color=#ff9000><mark=#ff000040><b><u>usa as Habilidades restantes contra outro Pecador aleatório\n- Prioriza alvos com o menor HP atual, a menos que tenham 1 de HP\n- Quando o Pecador escolhido aleatoriamente é morto, ou se o HP do referido Pecador é levado a 1, repete este efeito em outro Pecador</u></b></mark></color>\n\nCausa +5% de dano contra [IndexPrescriptTargetToPersonality] para cada [BlessingOfIndexPrescriptEnemy] (máx. 40%)\n- Com 9 [BlessingOfIndexPrescriptEnemy], causa +50% de dano contra todos os alvos\n\nA partir do primeiro turno após a mudança de fase, ativa os seguintes efeitos:\n- Início do Turno: Ganha [BlackNightmare]\n· Se esta unidade usou um ataque poderoso no turno anterior, perde [BlackNightmare] por aquele turno",
+      "flavor": "Eu constituí uma família.\n\n\"Você não deveria estar aqui agora.\"\n\"Meu trabalho ainda está em pleno andamento, e eu gostaria de esculpi-los em paz para que possam atingir a mais primorosa beleza que sou capaz de esculpir.\"\n\"... Não me diga, você está aqui para desafiar o Prescript?\""
+    },
+    {
+      "id": 955204,
+      "name": "Cumprir o Prescript",
+      "desc": "Fim do Turno: Se [IndexPrescript_Base_2nd] foi executada neste turno, cura 15 SP e ganha 1 [BlessingOfIndexPrescriptEnemy] (uma vez por turno)\n\n<color=#ff9000><mark=#ff000040><b><u>Fim do Turno: Se [IndexPrescript_Base_2nd] não foi executada neste turno, ganha 8 [KarmaOfIndexRien_2Phase] e perde 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- Se esta unidade usou uma Habilidade poderosa neste turno, ganha 12 [KarmaOfIndexRien_2Phase] e perde 2 [BlessingOfIndexPrescriptEnemy] em vez disso",
+      "flavor": "Eu... perdi minha família.\n\n\"Não vá...\"\n\"Não vá... Não... assim... Papai... Por favor... ajude-nos...\""
+    },
+    {
+      "id": 955205,
+      "name": "Pânico Fixado",
+      "desc": "Aplica o efeito [PanicChangeLock]\nFim do Turno: Se esta unidade estiver em Pânico, eleva o SP a 30"
+    },
+    {
+      "id": 955312,
+      "name": "Pânico Fixado",
+      "desc": "Aplica o efeito [PanicChangeLock]\nFim do Turno: Se esta unidade estiver em Pânico, eleva o SP a 45"
+    },
+    {
+      "id": 955601,
+      "name": "Vamos Brincar de Pega-Pega! Lá Vou Eu!",
+      "desc": "Início do Turno: Se não houver nenhum [TagGameBuff], 1/2/3 outros aliados desta unidade com o menor Nível tornam-se [TagGameBuff] por 3 turnos (o número de unidades que recebem este efeito aumenta toda vez que este efeito ativa)\n\n<color=#ff9000><mark=#ff000040><b><u>Se o efeito [TagGameBuff] expirar enquanto a unidade que tinha o efeito [TagGameBuff] estiver viva</u></b></mark></color>, ganha os seguintes efeitos:\n- Todos os Pecadores recebem dano fixo igual a 40% do HP cada\n- Reduz o SP a -45 de um Pecador aleatório que possa entrar em Corrosão de E.G.O[TabExplain] ou Pânico\n\nSe um Pecador matar um [TagGameBuff], o referido Pecador ganha 1 [ResultEnhancement] pelo resto deste Encontro (este efeito pode ser ganho cumulativamente)"
+    },
+    {
+      "id": 955602,
+      "name": "Quer Brincar? Quer Brincar? Quer Brincar?",
+      "desc": "Fim do Turno: Se esta unidade for o único aliado sobrevivente, ou se o Núcleo estiver em 50%- de HP, usa \"Vamos Brincar Juntos para Sempre~!\" no próximo turno (uma vez por Encontro)"
+    },
+    {
+      "id": 955603,
+      "name": "Acabou a Hora de Brincar",
+      "desc": "Início do Turno: A Parte \"Bichinho de Pelúcia\" <color=#ff9000><mark=#ff000040><b><u>ganha [Protection] igual ao número de aliados excluindo esta unidade</u></b></mark></color>\n\nQuando a Parte \"Bichinho de Pelúcia\" é destruída, Quer Brincar? e seus aliados restantes são mortos"
+    },
+    {
+      "id": 955604,
+      "name": "Pelúcia de Apego",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>O dano de HP recebido pelo Núcleo é fixado em 0</u></b></mark></color>"
+    },
+    {
+      "id": 955401,
+      "name": "Todo o Meu Corpo Foi Dado à Tíbia",
+      "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Vibration], [Burst] e [Sinking]\nRecebe -50% de dano de [Laceration]\n\nInício do Turno: Se esta unidade estiver Atordoada, recupera-se do Atordoamento. Depois, ganha 2 [CrimsonTakeDamageUp] e torna-se incapaz de usar \"Arte de Instalação nº 3: Caixa Torácica Improvisada\" até o próximo turno (uma vez por Encontro)\n\nFim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si (máx. 15)"
+    },
+    {
+      "id": 955301,
+      "name": "Observação",
+      "desc": "Início do Encontro: Aplica 1 [ObservedPerson] em todos os inimigos; então, ganha Potência e Contagem de [Breath] igual ao número de unidades com [ObservedPerson]\n\nInício do Turno: Aplica 1 [ObservedPerson] contra alvos sem [ObservedPerson]\n\nPara cada 10 [ObservedPerson] no alvo, inflige +1 a mais de Potência e Contagem de [Vibration] com as Habilidades desta unidade (máx. 3)"
+    },
+    {
+      "id": 955302,
+      "name": "Adaptação",
+      "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade inflige dano com efeitos de Habilidade de Ataque (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto\n\nGanha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto recebido\n\n<color=#ff9000><mark=#ff000040><b><u>Início do Turno: Inflige 3 [ResultReduction] e 5 [ObservedPerson] no Pecador que causou mais dano a esta unidade no turno anterior\n- Se o alvo tiver 30 [ObservedPerson], inflige 5 [ResultReduction] em vez disso</u></b></mark></color>"
+    },
+    {
+      "id": 955303,
+      "name": "Mecanismo de Defesa",
+      "desc": "Início do Turno: <color=#ff9000><mark=#ff000040><b><u>Ganha Escudo igual a 30% do HP perdido (o HP do Escudo não pode exceder 25% do HP máx.)</u></b></mark></color>\n- Se esta unidade tiver [Combustion], perde (Contagem de [Combustion] x 1,5)% do HP do Escudo\n- O Escudo recebe +100% de dano de efeitos de [Burst]\n\nFim do Turno: Se o Escudo ganho devido a este efeito for destruído, pelo resto deste Encontro, ganha 1 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 5)"
+    },
+    {
+      "id": 955304,
+      "name": "Viés de Confirmação",
+      "desc": "Fim do Turno: <color=#ff9000><mark=#ff000040><b><u>Drena 10 SP dos Pecadores</u></b></mark></color> (máx. 3 Pecadores em ordem decrescente de SP; não se aplica cumulativamente no mesmo alvo)\n(Não ativa se Hohenheim estiver em Pânico)\n\n<color=#ff9000><mark=#ff000040><b><u>O SP desta unidade não cai abaixo de 15</u></b></mark></color>"
+    },
+    {
+      "id": 955305,
+      "name": "Estabelecer Hipótese",
+      "desc": "No Turno 3: Ganha um novo padrão e se prepara para usar uma Habilidade poderosa.\nApós o fim do Turno 3: O efeito acima ativa quando esta unidade tem 30+ de Contagem de [Breath] no Fim do Turno\n\nSe esta unidade não recebeu nenhum dano de HP durante o período de preparação antes de usar a Habilidade poderosa, aprimora grandemente a Habilidade (não conta danos recebidos pelo HP do Escudo)"
+    },
+    {
+      "id": 955306,
+      "name": "Inadaptação",
+      "desc": "Quando enfraquecido devido a um Evento de Escolha, esta Passiva substitui 「Adaptação」\n\nGanha 1 de Potência de [Breath] toda vez que esta unidade inflige dano com efeitos de Habilidade de Ataque (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3\n\nGanha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto recebido; contudo, reduz o [ObservedPerson] do alvo em 3\n\nO dano crítico não aumenta nem diminui"
+    },
+    {
+      "id": 955307,
+      "name": "Mecanismo de Defesa Inadequado",
+      "desc": "Quando enfraquecido devido a um Evento de Escolha, esta Passiva substitui 「Mecanismo de Defesa」\n\nInício do Turno: Ganha Escudo igual a 15% do HP perdido (o HP do Escudo não pode exceder 5% do HP máx.)\n- Se esta unidade tiver [Combustion], perde (Contagem de [Combustion] x 2)% do HP do Escudo\n- O Escudo recebe +150% de dano de efeitos de [Burst]\n\nFim do Turno: Se o Escudo ganho devido a este efeito for destruído, pelo resto deste Encontro, ganha 2 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 10)"
+    },
+    {
+      "id": 955308,
+      "name": "Autodúvida",
+      "desc": "Quando enfraquecido devido a um Evento de Escolha, esta Passiva substitui 「Viés de Confirmação」\n\nInício do Turno: <color=#ff9000><mark=#ff000040><b><u>Ganha 3 [Vulnerable]</u></b></mark></color> e perde 15 SP\nFim do Turno: Drena 5 SP de alvos com SP mais alto que esta unidade (máx. 3 alvos; em ordem decrescente de SP; não pode acumular no mesmo alvo)\n(Não ativa se Hohenheim estiver em Pânico)"
+    },
+    {
+      "id": 955309,
+      "name": "Adaptação",
+      "desc": "Ganha 1 de Potência de [Breath] toda vez que esta unidade inflige dano com efeitos de Habilidade de Ataque (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto\n\nGanha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto recebido\n\n<color=#ff9000><mark=#ff000040><b><u>Início do Turno: Inflige 3 [ResultReduction] e 5 [ObservedPerson] no Pecador que causou mais dano a esta unidade no turno anterior\n- Se o alvo tiver 30 [ObservedPerson], inflige 5 [ResultReduction] em vez disso</u></b></mark></color>"
+    },
+    {
+      "id": 955310,
+      "name": "Mecanismo de Defesa",
+      "desc": "Início do Turno: <color=#ff9000><mark=#ff000040><b><u>Ganha Escudo igual a 30% do HP perdido (o HP do Escudo não pode exceder 25% do HP máx.)</u></b></mark></color>\n- Se esta unidade tiver [Combustion], perde (Contagem de [Combustion] x 1,5)% do HP do Escudo\n- O Escudo recebe +100% de dano de efeitos de [Burst]\n\nFim do Turno: Se o Escudo ganho devido a este efeito for destruído, pelo resto deste Encontro, ganha 1 [DefenseDown] no Início do Turno para cada instância em que o Escudo foi destruído (máx. 5)"
+    },
+    {
+      "id": 955311,
+      "name": "Inadaptação",
+      "desc": "Quando enfraquecido devido a um Evento de Escolha, esta Passiva substitui 「Adaptação」\n\nGanha 1 de Potência de [Breath] toda vez que esta unidade inflige dano com efeitos de Habilidade de Ataque (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha 1 de Potência de [Breath] adicional a cada acerto; contudo, reduz o [ObservedPerson] do alvo em 3\n\nGanha +1 de Contagem de [Breath] toda vez que esta unidade recebe dano de efeitos de Habilidade de Ataque de um Pecador (15 por turno)\n- Se o alvo tiver 15+ [ObservedPerson], ganha +1 de Contagem de [Breath] adicional a cada acerto recebido; contudo, reduz o [ObservedPerson] do alvo em 3\n\nO dano crítico não aumenta nem diminui"
+    },
+    {
+      "id": 955002,
+      "name": "Pós-imagem Sobreposta",
+      "desc": "Ao entrar no Encontro, esta unidade ganha [TimeEntangleFour]\nSe esta unidade não tiver [TimeGapAb], esta unidade ganha [TimeGapAb] igual a (estágio de [TimeEntangleDesc] x 400) (uma vez por estágio de [TimeEntangleDesc])\n\nNos estágios 3 e 4 de [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>se esta unidade perder todo [TimeGapAb], o padrão muda e fica Atordoada no próximo turno</u></b></mark></color>\n\nNo estágio 2 de [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>se esta unidade perder todo [TimeGapAb], o padrão muda</u></b></mark></color>\n\nRecebe -30% de dano de HP e SP de [Combustion], [Laceration], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration]"
+    },
+    {
+      "id": 957201,
+      "name": "O Passado - Segmentação [分節]",
+      "desc": "Exibe a Carga atual de [StackPastActivate] na Borboleta[TabExplain] das Vidas Entrelaçadas::Imago\n\nToda vez que esta unidade é <color=#ff6000><mark=#ff000040><b><u>atingida como alvo principal</u></b></mark></color>:\n- A Borboleta[TabExplain] das Vidas Entrelaçadas::Imago perde 1 Carga de [StackPastActivate] (uma vez por Moeda)\n- O Pecador que atacou esta unidade cura 10 SP (uma vez por turno por Pecador)\n\nSe esta unidade <color=#ff6000><mark=#ff000040><b><u>não for atingida como alvo principal neste turno</u></b></mark></color>, a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago ganha 5 Cargas de [StackPastActivate] no Fim do Combate\n- Se a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago estiver Atordoada, este efeito não ativa"
+    },
+    {
+      "id": 957202,
+      "name": "O Passado - Origem [緣起]",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\n\nQuando esta unidade recebe dano de HP, transfere metade do dano recebido para a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago (arredondado para baixo)"
+    },
+    {
+      "id": 957301,
+      "name": "O Presente - Segmentação [分節]",
+      "desc": "Exibe a Carga atual de [StackPresentActivate] na Borboleta[TabExplain] das Vidas Entrelaçadas::Imago\n\nToda vez que esta unidade é <color=#ff6000><mark=#ff000040><b><u>atingida como alvo principal</u></b></mark></color>:\n- A Borboleta[TabExplain] das Vidas Entrelaçadas::Imago perde 1 Carga de [StackPresentActivate] (uma vez por Moeda)\n- O Pecador que atacou esta unidade cura 10 SP (uma vez por turno por Pecador)\n\nSe esta unidade <color=#ff6000><mark=#ff000040><b><u>não for atingida como alvo principal neste turno</u></b></mark></color>, a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago ganha 5 Cargas de [StackPresentActivate] no Fim do Combate\n- Se a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago estiver Atordoada, este efeito não ativa"
+    },
+    {
+      "id": 957302,
+      "name": "O Presente - Origem [緣起]",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\n\nQuando esta unidade recebe dano de HP, transfere metade do dano recebido para a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago (arredondado para baixo)"
+    },
+    {
+      "id": 957401,
+      "name": "O Futuro - Segmentação [分節]",
+      "desc": "Exibe a Carga atual de [StackFutureActivate] na Borboleta[TabExplain] das Vidas Entrelaçadas::Imago\n\nToda vez que esta unidade é <color=#ff6000><mark=#ff000040><b><u>atingida como alvo principal</u></b></mark></color>:\n- A Borboleta[TabExplain] das Vidas Entrelaçadas::Imago perde 1 Carga de [StackFutureActivate] (uma vez por Moeda)\n- O Pecador que atacou esta unidade cura 10 SP (uma vez por turno por Pecador)\n\nSe esta unidade <color=#ff6000><mark=#ff000040><b><u>não for atingida como alvo principal neste turno</u></b></mark></color>, a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago ganha 5 Cargas de [StackFutureActivate] no Fim do Combate\n- Se a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago estiver Atordoada, este efeito não ativa"
+    },
+    {
+      "id": 957402,
+      "name": "O Futuro - Origem [緣起]",
+      "desc": "Fixa a Velocidade desta unidade em 1; o HP desta unidade não cai abaixo de 1\n\nQuando esta unidade recebe dano de HP, transfere metade do dano recebido para a Borboleta[TabExplain] das Vidas Entrelaçadas::Imago (arredondado para baixo)"
+    },
+    {
+      "id": 955701,
+      "name": "Poderio Suprimido",
+      "desc": "Ao entrar no Encontro, ganha [MiddleFingerLeashBuff]"
+    }
+  ]
+}

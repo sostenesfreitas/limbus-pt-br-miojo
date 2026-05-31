@@ -1,0 +1,496 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Distrito 4 - Interior da Filial LC",
+            "model": "이스마엘",
+            "content": "Não vejo sinais daqueles ex-soldados por aqui ou mais à frente."
+        },
+        {
+            "id": 1,
+            "model": "싱클레어",
+            "content": "O comandante de fato nos avisou para não irmos adiante..."
+        },
+        {
+            "id": 2,
+            "content": "Conforme avançamos, descobrimos corpos que pareciam estar aqui há um bom tempo."
+        },
+        {
+            "id": 3,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "São nossos— quero dizer, funcionários da L Corp..."
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "Vejo vestígios de instrumentos contundentes. Todos os corpos os compartilham, na verdade."
+        },
+        {
+            "id": 5,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Um relatório de gestão... Este documento contém instruções para manter as Anormalidades sob controle."
+        },
+        {
+            "id": 6,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Mas funcionários encarregados de gerenciar uma Anormalidade geralmente memorizam as instruções perfeitamente, até o menor detalhe... Eles não teriam precisado disto. Então por quê...?"
+        },
+        {
+            "id": 7,
+            "model": "이상",
+            "content": "Ouso dizer que nenhum deles tinha a informação necessária quando a Anormalidade escapou..."
+        },
+        {
+            "id": 8,
+            "model": "히스클리프",
+            "content": "... Hmh."
+        },
+        {
+            "id": 9,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Se os ovos ainda não tinham sido movidos para a contenção... pode ser o caso."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Há corpos demais aqui.>"
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "Que tipo de Anormalidade poderia ter massacrado todas essas pessoas...?"
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "Espera aí... Que cheiro é esse?"
+        },
+        {
+            "id": 13,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "... Veja bem, nosso Escritório comprou um equipamento bem caro outro dia."
+        },
+        {
+            "id": 14,
+            "model": "히스클리프",
+            "content": "Do que esse cara está falando?"
+        },
+        {
+            "id": 15,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Fontes sugeriram que os níveis de toxina começariam a subir depois de certo andar."
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "content": "Ahn, faz um tempo que estou sangrando pelos ouvidos~ devo me preocupar?"
+        },
+        {
+            "id": 17,
+            "model": "돈키호테",
+            "content": "Nenhuma batalha é travada sem adversi― Pfehgh, blegh! *tosse*"
+        },
+        {
+            "id": 18,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Também me disseram que exposição contínua pode causar sangramento."
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "Ngh... Mas como é que você está bem?"
+        },
+        {
+            "id": 20,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Isto é... É a granada de gás anti-Anormalidade fornecida aos funcionários."
+        },
+        {
+            "id": 21,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Uma deve ter... *tosse* disparado... em algum lugar entre os corpos aqui..."
+        },
+        {
+            "id": 22,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Sim. Parece que o nível de toxicidade está bem alto nesta área."
+        },
+        {
+            "id": 23,
+            "content": "Hopkins tinha colocado uma máscara de gás antes que percebêssemos."
+        },
+        {
+            "id": 24,
+            "model": "로쟈",
+            "content": "Ei, e quanto a nós?"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Não nos forneceram nenhum suprimento adicional."
+        },
+        {
+            "id": 26,
+            "model": "히스클리프",
+            "content": "Seu rato escorregadio, você sabia disso? Escória maldita, é isso que você— Ngh..."
+        },
+        {
+            "id": 27,
+            "content": "Heathcliff parou no meio da frase e caiu de joelhos."
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Estados emocionais elevados aceleram o fluxo sanguíneo. Em outras palavras, a toxina se espalhará mais rápido."
+        },
+        {
+            "id": 29,
+            "model": "파우스트",
+            "content": "Tentem permanecer calmos, minimizar o movimento e respirar em intervalos regulares."
+        },
+        {
+            "id": 30,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Hopkins... Por que... *tosse* Por que você não me avisou?"
+        },
+        {
+            "id": 31,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Ah, tenho uma pergunta para você também, Yuri."
+        },
+        {
+            "id": 32,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Por que eu faria nosso Escritório desperdiçar seus preciosos fundos com bugigangas caras para um peso morto como você gastar?"
+        },
+        {
+            "id": 33,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "......"
+        },
+        {
+            "id": 34,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Vamos ser sinceros. É um milagre você ter conseguido entrar para nós, pra começar."
+        },
+        {
+            "id": 35,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Aya pode ter se afeiçoado a você, o bastante para te dar tratamento especial... Mas agora que ela está morta, quem se importa?"
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Patife dissimulado... Como você consegue se conviver consigo mesmo...?"
+        },
+        {
+            "id": 37,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Não seja boba, vale tudo para um Mandatário."
+        },
+        {
+            "id": 38,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Saber que o Olhar Vermelho tinha companhia aguçou minha curiosidade, mas pelo visto..."
+        },
+        {
+            "id": 39,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Vocês não passavam de um bando desorganizado de lunáticos que achou que seria uma boa ideia entrar direto nessas armadilhas mortais sem nem um pouco de pesquisa."
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Não acredito... que temos que deixar esse babaca continuar..."
+        },
+        {
+            "id": 41,
+            "content": "Percebendo a hostilidade, Hopkins recuou e disparou rapidamente para a saída."
+        },
+        {
+            "id": 42,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Bem, ao menos consegui pegar uma braçada de Enkephalin graças a vocês."
+        },
+        {
+            "id": 43,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Vou escrever no meu relatório que vocês todos desapareceram, porque \"morte por asfixia\" é vergonhoso demais."
+        },
+        {
+            "id": 44,
+            "model": "홉킨스",
+            "teller": "Hopkins",
+            "title": "Mandatária de Grau 8",
+            "content": "Tchauzinho."
+        },
+        {
+            "id": 45,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "......"
+        },
+        {
+            "id": 46,
+            "content": "Yuri desabou no chão, vendo o sangue escorrer do nariz para as mãos."
+        },
+        {
+            "id": 47,
+            "content": "E ela não era a única. Rodya, Heathcliff e os outros Pecadores se contorciam de dor enquanto o sangue jorrava deles."
+        },
+        {
+            "id": 48,
+            "model": "단테",
+            "content": "<Gregor?>"
+        },
+        {
+            "id": 49,
+            "model": "그레고르",
+            "content": "Tsk, peguei isto comigo para você ter algo para lembrar dela..."
+        },
+        {
+            "id": 50,
+            "content": "Ele segurava o mesmo tipo de máscara de gás que Hopkins usava."
+        },
+        {
+            "id": 51,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Mas por quê..."
+        },
+        {
+            "id": 52,
+            "model": "그레고르",
+            "content": "Então a Senhorita Aya, ela— *tosse* —cuidou de você, né...? Então isto é praticamente seu."
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Quanto ao nosso bando despreparado de lunáticos... nós temos uma saída. Não se preocupe conosco."
+        },
+        {
+            "id": 54,
+            "content": "Tossindo sangue, Yuri colocou a máscara."
+        },
+        {
+            "id": 55,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Eu sei que ele tem razão."
+        },
+        {
+            "id": 56,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Sei que é difícil para alguém sem conexões como eu ser valorizada por um Escritório, não importa quantas tarefas eu faça para eles dia e noite."
+        },
+        {
+            "id": 57,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Faltavam apenas 3 minutos até a filial ser trancada..."
+        },
+        {
+            "id": 58,
+            "teller": "Anúncio",
+            "title": "L Corp.",
+            "content": "[INICIANDO SEPULTAMENTO DO LOCAL.]"
+        },
+        {
+            "id": 59,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "As portas estavam prestes a se fechar sobre mim."
+        },
+        {
+            "id": 60,
+            "teller": "Anúncio",
+            "title": "L Corp.",
+            "content": "[TRANSFERÊNCIA DE ENERGIA 85% COMPLETA.]"
+        },
+        {
+            "id": 61,
+            "teller": "Alex",
+            "title": "Funcionário da L Corp.",
+            "content": "Yuri, não me deixe para trás! Yuri!"
+        },
+        {
+            "id": 62,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Então o que eu deveria ter feito?"
+        },
+        {
+            "id": 63,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "É tão errado que eu tenha sobrevivido?"
+        },
+        {
+            "id": 64,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Eu deveria ter sido enterrada viva junto com meus colegas?"
+        },
+        {
+            "id": 65,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "O prédio inteiro estava sendo trancado só para impedir as Anormalidades de saírem!"
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "content": "*chiado* É um pecado. Aqui embaixo, é."
+        },
+        {
+            "id": 67,
+            "model": "이스마엘",
+            "content": "*tosse* *tosse* Isso arde um pouco, Gregor..."
+        },
+        {
+            "id": 68,
+            "content": "Fiquei ali parado por um momento, depois voltei a mim e olhei para os Pecadores."
+        },
+        {
+            "id": 69,
+            "content": "Metade deles já estava morta no chão, e a cabeça de Ishmael pendeu logo após ela dizer suas últimas palavras."
+        },
+        {
+            "id": 70,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Um pecado..."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "Mas... *chiado* e daí, parceiro..."
+        },
+        {
+            "id": 72,
+            "model": "그레고르",
+            "content": "Você tem que continuar vivendo como se não fosse da conta de ninguém."
+        },
+        {
+            "id": 73,
+            "model": "그레고르",
+            "content": "*tosse* Carregar culpa por leite derramado... vai desgastar seu coração..."
+        },
+        {
+            "id": 74,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "......"
+        },
+        {
+            "id": 75,
+            "content": "Uma vez que Gregor deu seu último suspiro, Yuri e eu permanecemos os únicos sobreviventes."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<Hm... N-não se preocupe muito conosco. Posso levá-los de volta lá e revivê-los.>"
+        },
+        {
+            "id": 77,
+            "content": "Eu sabia que tudo o que Yuri conseguia ouvir era o tique-taque mecânico, mas mesmo assim fiz o possível para comunicar minhas palavras a ela."
+        },
+        {
+            "id": 78,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Eu sei."
+        },
+        {
+            "id": 79,
+            "content": "E ela não falou de novo por um tempo."
+        },
+        {
+            "id": 80,
+            "content": "Após um longo trecho de penumbra pesada e desconfortável, o gás tóxico finalmente se dissipou."
+        },
+        {
+            "id": 81,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Parece que está tudo bem agora."
+        },
+        {
+            "id": 82,
+            "model": "단테",
+            "content": "<Hmm? Ah, é.>"
+        },
+        {
+            "id": 83,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Vou te dar uma mão. Vamos trazer seu pessoal de volta à vida."
+        },
+        {
+            "id": 84,
+            "content": "Com isso, Yuri tirou a máscara de gás e calmamente carregou os Pecadores nos ombros, um por um."
+        },
+        {
+            "id": 85,
+            "content": "Sem saber como reagir à expressão em seu rosto, decidi ficar quieto."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "956801_1_1",
+      "content": "<color=#ebcaa2>Todos os aliados curam totalmente PV e PH</color>"
+    },
+    {
+      "id": "956801_2_1",
+      "content": "Por este Encontro, <color=#ebcaa2>todos os aliados</color> ganham {0}"
+    },
+    {
+      "id": "956801_3_1",
+      "content": "Ganha {0} recurso de E.G.O para todas as Afinidades"
+    },
+    {
+      "id": "956401_1",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Passado\":\n\"Ao ser atingida por um Pecador, a Borboleta das Vidas Entrelaçadas inflige Queimadura e Contagem de Queimadura no referido Pecador\""
+    },
+    {
+      "id": "956401_2",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Passado\":\n\"A Habilidade exclusiva de 'No Passado' da Borboleta das Vidas Entrelaçadas, 'Kalpāgni', ganha Poder Final e sua Moeda final inflige dano de PH Ao Acertar\""
+    },
+    {
+      "id": "956401_3",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Passado\":\n\"A Borboleta das Vidas Entrelaçadas inflige Redução de Cura de PV e Fragilidade de Ira em Pecadores que tenham Queimadura suficiente\""
+    },
+    {
+      "id": "956501_1",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Presente\":\n\"Quando a Borboleta das Vidas Entrelaçadas acerta Criticamente, ela não perde Contagem de Equilíbrio; ganha uma grande quantidade de Potência e Contagem de Equilíbrio no Início do Turno\""
+    },
+    {
+      "id": "956501_2",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Presente\":\n\"A Habilidade exclusiva de 'No Presente' da Borboleta das Vidas Entrelaçadas, 'Castigar os Ímpios', ganha Poder Final e sua Moeda final aumenta o Limiar de Atordoamento Ao Acertar\""
+    },
+    {
+      "id": "956501_3",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Presente\":\n\"A Borboleta das Vidas Entrelaçadas causa mais dano em Acerto Crítico com base em sua Potência e Contagem de Equilíbrio\""
+    },
+    {
+      "id": "956601_1",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Futuro\":\n\"Início do Turno: Pecadores ganham Contagem de Sangramento\""
+    },
+    {
+      "id": "956601_2",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Futuro\": \n\"A Habilidade exclusiva de 'No Futuro' da Borboleta das Vidas Entrelaçadas, 'Flor de Sangue', ganha Poder Final; Ao Acertar, sua Moeda final cura PV em si mesma\""
+    },
+    {
+      "id": "956601_3",
+      "content": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Futuro\":\n\"A Borboleta das Vidas Entrelaçadas cura PV toda vez que Sangramento é ativado nela ou nos Pecadores\""
+    },
+    {
+      "id": "955601_1_1",
+      "content": "[Todos os inimigos e aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "955601_1_2",
+      "content": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)"
+    },
+    {
+      "id": "955601_1_3",
+      "content": "- Remove o primeiro Limiar de Atordoamento"
+    },
+    {
+      "id": "955601_2_1",
+      "content": "[Todos os inimigos e aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "955601_2_2",
+      "content": "- Início do Turno: Ganha 1 Aumento de Nível de Ataque para cada unidade aliada (incluindo a si mesma) na mesma facção que si mesma (máx. 4)"
+    },
+    {
+      "id": "955101_1_1",
+      "content": "[Todos os inimigos e aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "955101_1_2",
+      "content": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)"
+    },
+    {
+      "id": "955101_1_3",
+      "content": "- Ao ser atingido por Moedas Inquebráveis, recebe -20% de dano"
+    },
+    {
+      "id": "955101_2_1",
+      "content": "[Todos os inimigos e aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "955101_2_2",
+      "content": "- Ganha 1 Acúmulo de um status aleatório, escolhido entre Aumento de Dano de Corte, Aumento de Dano de Perfuração e Aumento de Dano de Impacto. Ao usar uma Habilidade de E.G.O do Tipo de Ataque correspondente, causa +50% de dano"
+    },
+    {
+      "id": "955101_2_3",
+      "content": "- Ao Acertar com Moedas Inquebráveis, causa +20% de dano"
+    },
+    {
+      "id": "956701_1_1",
+      "content": "[Todos os aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "956701_1_2",
+      "content": "- Ganha +50% de PV máx. (máx. 200; exceto Peccatula Invidiae)"
+    },
+    {
+      "id": "956701_1_3",
+      "content": "- Remove o primeiro Limiar de Atordoamento"
+    },
+    {
+      "id": "956701_1_4",
+      "content": "- Fim do Turno: 4 aliados com os menores PH curam 4 PH (uma vez por turno; exceto unidades sob efeitos que impedem a recuperação de PH)"
+    },
+    {
+      "id": "956701_2_1",
+      "content": "[Todos os aliados ganham os seguintes efeitos positivos por esta Seção]"
+    },
+    {
+      "id": "956701_2_2",
+      "content": "- Início do Turno: Ganha 1 Aumento de Nível de Ataque para cada aliado derrotado neste Encontro (máx. 6)"
+    },
+    {
+      "id": "956701_2_3",
+      "content": "- Início do Combate: Em Reson.-A, Habilidades que fazem parte da cadeia de Reson.-A causam +20% de dano"
+    }
+  ]
+}

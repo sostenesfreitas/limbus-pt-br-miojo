@@ -1,0 +1,380 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "그레고르",
+            "content": "A guerra havia acabado."
+        },
+        {
+            "id": 1,
+            "model": "그레고르",
+            "content": "Mas meu sósia ainda mantinha aquela pose boba, aquela expressão confiante."
+        },
+        {
+            "id": 2,
+            "model": "그레고르",
+            "content": "Hmm, esse não é o tipo de cara que eu faria."
+        },
+        {
+            "id": 3,
+            "model": "그레고르",
+            "content": "Embora... tenho que reconhecer que fizeram os pelos do meu braço parecerem tão grotescos quanto realmente são. Quem desenhou isto?"
+        },
+        {
+            "id": 4,
+            "model": "그레고르",
+            "content": "Passei a gostar de humor."
+        },
+        {
+            "id": 5,
+            "model": "그레고르",
+            "content": "Longos anos à deriva no pesadelo devem ter me feito ansiar por qualquer sinal de vivacidade."
+        },
+        {
+            "id": 6,
+            "teller": "Cidadão Descontente",
+            "title": "Pessoa Relembrada",
+            "content": "A escória da G Corp. deveria ir pra forca. Todos eles."
+        },
+        {
+            "id": 7,
+            "model": "그레고르",
+            "content": "Alguém murmura, cuspindo no chão."
+        },
+        {
+            "id": 8,
+            "model": "그레고르",
+            "content": "Eu não precisava olhar para eles para saber sobre quem ou o quê estavam falando."
+        },
+        {
+            "id": 9,
+            "model": "그레고르",
+            "content": "Sabendo disso..."
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Hrk..."
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Senti náusea."
+        },
+        {
+            "id": 12,
+            "teller": "Cidadão Gentil",
+            "title": "Pessoa Relembrada",
+            "content": "Senhor, o senhor está bem?"
+        },
+        {
+            "id": 13,
+            "place": "Frente Central na Guerra da Fumaça",
+            "model": "로쟈",
+            "content": "Ei, algo errado? Você está pálido."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "Eu estava... acabei de estar no metrô?"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "Que diabos você está balbuciando?"
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "content": "Greg, ainda estamos no campo de batalha."
+        },
+        {
+            "id": 17,
+            "content": "Gregor remexeu nos bolsos atrás de um cigarro por hábito, depois congelou."
+        },
+        {
+            "id": 18,
+            "content": "Deve ter caído a ficha para ele como caiu para mim."
+        },
+        {
+            "id": 19,
+            "content": "O resto dos Pecadores parecia ter entendido o que estava acontecendo."
+        },
+        {
+            "id": 20,
+            "model": "단테",
+            "content": "<O Tomah vai nos agarrar e dar um aviso a qualquer segundo agora...>"
+        },
+        {
+            "id": 21,
+            "teller": "Tomah",
+            "title": "Soldado Relembrado",
+            "content": "Vocês estão—"
+        },
+        {
+            "id": 22,
+            "model": "로쟈",
+            "content": "Olha, Tomah, estou começando a ficar meio enjoado da sua fala decorada, então vou dizer uma vez só: Não estamos loucos, e a bomba do envelhecimento não vai nos atingir."
+        },
+        {
+            "id": 23,
+            "teller": "Tomah",
+            "title": "Soldado Relembrado",
+            "content": "... Não."
+        },
+        {
+            "id": 24,
+            "content": "Em vez de elaborar, ele aponta para cima."
+        },
+        {
+            "id": 25,
+            "teller": "Tomah",
+            "title": "Soldado Relembrado",
+            "content": "Preciso de ajuda."
+        },
+        {
+            "id": 26,
+            "teller": "Tomah",
+            "title": "Soldado Relembrado",
+            "content": "Não quero morrer—"
+        },
+        {
+            "id": 27,
+            "content": "Tomah foi esmagado até virar polpa bem diante dos nossos olhos."
+        },
+        {
+            "id": 28,
+            "content": "Só há uma coisa a dizer numa situação dessas."
+        },
+        {
+            "id": 29,
+            "model": "단테",
+            "content": "<C-corram!>"
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "Todas as tropas! Recuar!"
+        },
+        {
+            "id": 31,
+            "content": "Reunimos tudo o que podemos para correr, mas a mão aérea é sempre persistente e não dá sinal de desistir."
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "content": "Vamos todos virar panqueca! Tem alguma ideia brilhante, sabichona?"
+        },
+        {
+            "id": 33,
+            "model": "파우스트",
+            "content": "... Estou ouvindo. Há variáveis demais a considerar nas profundezas do ego, não posso ser apressada no meu julgamento..."
+        },
+        {
+            "id": 34,
+            "model": "돈키호테",
+            "content": "Não há motivo para hesitação! Um verdadeiro herói não sucumbe à tribulação!"
+        },
+        {
+            "id": 35,
+            "model": "로쟈",
+            "content": "Hm... Acho que não quero recuperar um corpo achatado."
+        },
+        {
+            "id": 36,
+            "model": "로쟈",
+            "content": "Ah! Desculpa, Dante~ Não quis dizer dessa forma!"
+        },
+        {
+            "id": 37,
+            "content": "Fiquei tentado a retrucar com ela..."
+        },
+        {
+            "id": 38,
+            "content": "Mas ficar de boca calada para o grupo poder se concentrar em correr parecia a coisa sensata a fazer."
+        },
+        {
+            "id": 39,
+            "content": "　"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Ainda pensando, é? Hein?! Bem, está, Senhorita \"Sabe-tudo\"?!"
+        },
+        {
+            "id": 41,
+            "model": "파우스트",
+            "content": "Se é uma solução imediata que você busca, então ainda não a obtive."
+        },
+        {
+            "id": 42,
+            "model": "파우스트",
+            "content": "A única coisa que se pode dizer com certeza é que nosso objetivo não está por perto. Dante teria reagido fortemente, caso contrário."
+        },
+        {
+            "id": 43,
+            "model": "단테",
+            "content": "<Eu?>"
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "Você está brincando? É só isso que você tem?"
+        },
+        {
+            "id": 45,
+            "content": "Heathcliff franziu as sobrancelhas, pronto para esbravejar com a sábia inútil..."
+        },
+        {
+            "id": 46,
+            "content": "Mas após um susto repentino com a palma massiva, ele começou a acelerar sem dizer palavra."
+        },
+        {
+            "id": 47
+        },
+        {
+            "id": 48,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Gregor?"
+        },
+        {
+            "id": 49,
+            "model": "히스클리프",
+            "content": "Uau, ei, o quê? Por que a parada?"
+        },
+        {
+            "id": 50,
+            "model": "그레고르",
+            "content": "... Acho que entendo agora."
+        },
+        {
+            "id": 51,
+            "model": "그레고르",
+            "content": "Se este mundo é um produto da minha mente..."
+        },
+        {
+            "id": 52,
+            "content": "Gregor deu uma pausa, depois olhou para o céu."
+        },
+        {
+            "id": 53,
+            "model": "그레고르",
+            "content": "Não devemos fugir daquela mão."
+        },
+        {
+            "id": 54,
+            "model": "히스클리프",
+            "content": "... Você finalmente pirou de vez ou o quê?"
+        },
+        {
+            "id": 55,
+            "model": "파우스트",
+            "content": "Gregor, você tem certeza?"
+        },
+        {
+            "id": 56,
+            "model": "그레고르",
+            "content": "Minha vida nunca foi minha para viver."
+        },
+        {
+            "id": 57,
+            "model": "그레고르",
+            "content": "Só faz sentido que resistir seja inútil neste reflexo da minha mente."
+        },
+        {
+            "id": 58,
+            "model": "그레고르",
+            "content": "Nesse caso... deixar o inevitável acontecer pode ser a resposta."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "... Vocês estão falando sério?"
+        },
+        {
+            "id": 60,
+            "model": "이스마엘",
+            "content": "Não é como se houvesse outro jeito. Estamos todos exaustos."
+        },
+        {
+            "id": 61,
+            "model": "그레고르",
+            "content": "Além disso... Olhem os... padrões nas unhas dela."
+        },
+        {
+            "id": 62,
+            "model": "그레고르",
+            "content": "Você não vê esse tipo de esmalte em qualquer lugar."
+        },
+        {
+            "id": 63,
+            "model": "그레고르",
+            "content": "Se aquela mão pertence a quem eu penso, ela não vai parar de nos perseguir."
+        },
+        {
+            "id": 64,
+            "model": "그레고르",
+            "content": "Faust... Você disse que isto é um caminho no meu coração, certo?"
+        },
+        {
+            "id": 65,
+            "model": "그레고르",
+            "content": "Então posso te dizer isto com certeza:"
+        },
+        {
+            "id": 66,
+            "model": "그레고르",
+            "content": "Está prestes a chegar a um beco sem saída."
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "content": "Seja o pesadelo ou o caminho... eu nunca uma vez me desviei do controle daquela mulher."
+        },
+        {
+            "id": 68,
+            "content": "Sobre quem Gregor está falando, e o que ele quer dizer com pesadelo?"
+        },
+        {
+            "id": 69,
+            "content": "Por mais que eu quisesse perguntar a ele..."
+        },
+        {
+            "id": 70,
+            "model": "히스클리프",
+            "content": "*suspiro* Tanto faz."
+        },
+        {
+            "id": 71,
+            "content": "Logo, a mão gigante lançou sua sombra sobre nós, descendo."
+        },
+        {
+            "id": 72,
+            "content": "Pouco antes de nos alcançar, parou para nos segurar em sua palma."
+        },
+        {
+            "id": 73,
+            "content": "Tudo ficou escuro."
+        },
+        {
+            "id": 74,
+            "content": "Senti uma náusea desorientadora de ser erguido ao céu."
+        },
+        {
+            "id": 75,
+            "model": "싱클레어",
+            "content": "Mgrrh..."
+        },
+        {
+            "id": 76,
+            "content": "Só Faust e eu conseguimos nos equilibrar enquanto todos os outros cambaleavam pela vertigem."
+        },
+        {
+            "id": 77,
+            "content": "Nos encontramos em outro campo de batalha, ainda que um mais familiar para nós."
+        }
+    ]
+}

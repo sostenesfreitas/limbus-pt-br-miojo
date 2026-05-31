@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Flame Strike",
+                    "name": "Golpe Flamejante",
                     "desc": "[WhenUse] Recebe 1 de [MRcAiBa]",
                     "coinlist": [
                         {
@@ -24,7 +24,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ardor Blossom Pinions",
+                    "name": "Asas de Flor Ardor",
                     "desc": "[WhenUse] Recebe 2 de [MRcAiBa]",
                     "coinlist": [
                         {
@@ -43,7 +43,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Spark",
+                    "name": "Faísca",
                     "desc": "[WhenUse] Inflige +2 Contagem de [Combustion]\n[WinDuel] Inflige [Combustion] igual a [Combustion] no alvo\n[DefeatDuel] Recebe os seguintes efeitos:\n- Dano causado por essa Habilidade não pode Atordoar o alvo\n- Se esta for uma Habilidade de Ira, remove [Combustion] no alvo\n- Essa Habilidade inflige apenas metade de [Combustion] e Contagem de [Combustion]",
                     "coinlist": [
                         {
@@ -78,8 +78,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Dust Explosion",
-                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Combustion], essa Habilidade recebe Poder de Confronto +2",
+                    "name": "Explosão de Pó",
+                    "desc": "[WhenUse] Se o alvo tiver 5+ de [Combustion], essa Habilidade recebe Poder de Embate +2",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -94,7 +94,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion] igual ao número de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardor usará neste turno"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Contra o inimigo com a menor Velocidade, aplica [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
@@ -110,7 +110,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ardor Blossom Star",
+                    "name": "Estrela de Flor Ardor",
                     "desc": "Ganha Poder de Embate igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) || [WhenUse] Aplica (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) [Combustion] em todos os inimigos || [DefeatDuel] Ganha os seguintes efeitos: || - Esta Habilidade de Ataque causa 0 de dano || - Remove [Combustion] de todos os alvos || - Divide ao meio a quantidade de [Combustion] e Contagem de [Combustion] que esta Habilidade aplica",
                     "coinlist": [
                         {
@@ -119,7 +119,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion] igual ao número de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardor usará neste turno"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
@@ -132,7 +132,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion] igual ao número de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardor usará neste turno"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
@@ -145,7 +145,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aumenta o Limiar de Atordoamento do alvo em 70% do dano causado"
                                 },
                                 {
                                     "desc": "- Aplica 10 [Combustion] contra alvos que foram Atordoados por esta"
@@ -161,7 +161,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
+                    "name": "Esquivar",
                     "desc": "[WhenUse] Poder Base +1 para cada 4 de [Combustion] no alvo (máx. 3)\n[WhenUse] Inflige 4 de [Combustion]\n[OnSucceedEvade] Recebe 1 de [MRcAiBa] no próximo turno",
                     "coinlist": [
                         {}
@@ -174,8 +174,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stoke the Flames",
-                    "desc": "[CantDuel] [CantChangeTarget]\nDamage dealt by this Attack Skill is fixed to 0",
+                    "name": "Atiçar as Chamas",
+                    "desc": "[CantDuel] [CantChangeTarget]\nO dano causado por esta Habilidade de Ataque é fixado em 0",
                     "coinlist": [
                         {},
                         {},
@@ -195,7 +195,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Bite",
+                    "name": "Mordida",
                     "desc": "[StartBattle] Recebe 2 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder Base +2\n[DefeatDuel] Perde 1 [SelfCharge]",
                     "coinlist": [
                         {
@@ -214,8 +214,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tail Poke",
-                    "desc": "[StartBattle] Gain 2 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\n[DefeatDuel] Lose 1 [SelfCharge]",
+                    "name": "Cutucada de Cauda",
+                    "desc": "[StartBattle] Recebe 2 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder de Moeda +1\n[DefeatDuel] Perde 1 [SelfCharge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -240,8 +240,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Wrapping Coil",
-                    "desc": "[StartBattle] Gain 3 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Base Power +2\n[DefeatDuel] Lose 1 [SelfCharge]",
+                    "name": "Espiral Envolvente",
+                    "desc": "[StartBattle] Recebe 3 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder Base +2\n[DefeatDuel] Perde 1 [SelfCharge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -252,7 +252,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Binding] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
                                 }
                             ]
                         }
@@ -265,8 +265,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Electric Load",
-                    "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 2 [SelfCharge]",
+                    "name": "Carga Elétrica",
+                    "desc": "[StartBattle] Recebe 1 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder de Moeda +1\nSe o alvo tem [Paralysis], causa +30% de dano\n[DefeatDuel] Perde 2 [SelfCharge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -291,8 +291,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Electric Release",
-                    "desc": "[StartBattle] Gain 1 [SelfCharge]\n[WhenUse] At 5+ [SelfCharge], Coin Power +1\nIf target has [Paralysis], deal +30% damage\n[DefeatDuel] Lose 3 [SelfCharge]",
+                    "name": "Liberação Elétrica",
+                    "desc": "[StartBattle] Recebe 1 de [SelfCharge]\n[WhenUse] Com 5+ [SelfCharge], Poder de Moeda +1\nSe o alvo tem [Paralysis], causa +30% de dano\n[DefeatDuel] Perde 3 [SelfCharge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -324,8 +324,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Electric Discharge",
-                    "desc": "[StartBattle] Gain 1 [SelfCharge]\nIf target has [Paralysis], deal +30% damage",
+                    "name": "Descarga Elétrica",
+                    "desc": "[StartBattle] Recebe 1 de [SelfCharge]\nSe o alvo tem [Paralysis], causa +30% de dano",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -350,7 +350,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "High-voltage Electric Discharge",
+                    "name": "Descarga Elétrica de Alta Tensão",
                     "desc": "Em mais de 7 [SelfCharge], causa +10% de dano para cada [SelfCharge] excedente além de 7 (máx. 120%) || [WhenUse] Perde todo [SelfCharge] em si; se esta unidade perdeu 10+ [SelfCharge], ganha Poder de Embate +5 || [DefeatDuel] Esta Habilidade de Ataque causa 0 de dano",
                     "coinlist": [
                         {
@@ -359,7 +359,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Vulnerable] on the main target"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Vulnerable] no alvo principal"
                                 }
                             ]
                         },
@@ -369,13 +369,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [ElectricStorage]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [ElectricStorage]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [Paralysis] on the main target"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Paralysis] no alvo principal"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If target has [ElectricStorage], deal 40% of final damage dealt as fixed damage"
+                                    "desc": "[OnSucceedAttack] Se o alvo tem [ElectricStorage], causa 40% do dano final causado como dano fixo"
                                 }
                             ]
                         }
@@ -388,7 +388,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Coil Up",
+                    "name": "Enrodilhar",
                     "desc": "[StartBattle] A Parte da Cabeça ganha Escudo igual ao seu HP atual || [EndBattle] Se a Parte da Cabeça tem Escudo, ganha 10 [SelfCharge] no próximo turno",
                     "coinlist": [
                         {}
@@ -528,7 +528,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "+30% Damage on Critical Hit"
+                                    "desc": "+30% de Dano em Acerto Crítico"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
@@ -537,7 +537,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [PhantomIncision]"
                                 }
                             ]
                         }
@@ -559,7 +559,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "Reuse this Coin (4 times max)"
+                                    "desc": "Reusa esta Moeda (máx. 4 vezes)"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Recebe +1 de [Breath]"
@@ -568,7 +568,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 1 de [PhantomIncision]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 1 [PhantomIncision]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [PhantomIncision]"
                                 }
                             ]
                         }
@@ -590,7 +590,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "+100% Damage on Critical Hit"
+                                    "desc": "+100% de Dano em Acerto Crítico"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consome todo [PhantomIncision] no alvo</u></b></mark></color> e causa ([PhantomIncision] consumido)% de dano em HP contra cada alvo, respectivamente"
@@ -607,7 +607,7 @@
                 {
                     "level": 1,
                     "name": "Passo Fantasma [殘像步]",
-                    "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Halve the [PhantomIncision] Stack on target</u></b></mark></color> (rounded down)\n[DefeatDuel] Lose 5 SP",
+                    "desc": "[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Divide ao meio a Carga de [PhantomIncision] no alvo</u></b></mark></color> (arredondado para baixo)\n[DefeatDuel] Perde 5 SP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -626,7 +626,7 @@
                 {
                     "level": 1,
                     "name": "Cautela Silenciosa",
-                    "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Gain 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] Target heals 5 SP",
+                    "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Ganha 2 [Reduction]</u></b></mark></color>\n[DefeatDuel] O alvo cura 5 SP",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -657,7 +657,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consume all [PhantomIncision] on target</u></b></mark></color> and deal ([PhantomIncision] consumed)% HP damage "
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consome todo [PhantomIncision] no alvo</u></b></mark></color> e causa ([PhantomIncision] consumido)% de dano em HP "
                                 }
                             ]
                         }
@@ -680,7 +680,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "+100% Damage on Critical Hit"
+                                    "desc": "+100% de Dano em Acerto Crítico"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Consome todo [PhantomIncision] no alvo</u></b></mark></color> e causa ([PhantomIncision] consumido)% de dano em HP contra cada alvo, respectivamente"
@@ -777,7 +777,7 @@
                                     "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 Contagem de [Sinking]"
                                 },
                                 {
-                                    "desc": "[CriticalOnSucceedAttack] Deal +20% damage"
+                                    "desc": "[CriticalOnSucceedAttack] Causa +20% de dano"
                                 }
                             ]
                         }
@@ -1041,7 +1041,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Envying Roots",
+                    "name": "Raízes Invejosas",
                     "desc": "Esta Habilidade não causa dano || [WhenUse] Consome todo [HowDareYouApple] em si e Reusa suas Moedas pela Carga de [HowDareYouApple] consumida (máx. 4) || [DefeatDuel] Esta Habilidade não ativa [Burst] no alvo",
                     "coinlist": [
                         {
@@ -1060,7 +1060,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Ardor Blossom Star",
+                    "name": "Estrela de Flor Ardor",
                     "desc": "Ganha Poder de Embate igual a (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) || [WhenUse] Aplica (# de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno x2) [Combustion] em todos os inimigos || [DefeatDuel] Ganha os seguintes efeitos: || - Esta Habilidade de Ataque causa 0 de dano || - Remove [Combustion] de todos os alvos || - Divide ao meio a quantidade de [Combustion] e Contagem de [Combustion] que esta Habilidade aplica",
                     "coinlist": [
                         {
@@ -1069,7 +1069,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion] igual ao número de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardor usará neste turno"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
@@ -1082,7 +1082,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "OnSucceedAttack] Inflige [Combustion] igual ao numero de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardorosa usará esse turno"
+                                    "desc": "[OnSucceedAttack] Inflige [Combustion] igual ao número de Habilidades de Afinidade de Ira que a Mariposa de Flor Ardor usará neste turno"
                                 },
                                 {
                                     "desc": "[UnBrokenCoinOnSucceedAttack] Contra o inimigo com a menor Velocidade, aplica [Combustion] e Contagem de [Combustion] igual ao número de Habilidades de Ira que a Mariposa de Flor Ardor usará neste turno"
@@ -1095,7 +1095,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Raise the target's Stagger Threshold by 70% of damage dealt"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aumenta o Limiar de Atordoamento do alvo em 70% do dano causado"
                                 },
                                 {
                                     "desc": "- Aplica 10 [Combustion] contra alvos que foram Atordoados por esta"

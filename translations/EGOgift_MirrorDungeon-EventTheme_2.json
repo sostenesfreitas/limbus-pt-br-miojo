@@ -448,7 +448,7 @@
         },
         {
             "id": 9772,
-            "name": "Combustion Gloves",
+            "name": "Luvas de Combustão",
             "desc": "Em Confronto Vencido com uma Habilidade Ofensiva Base que inflige Potência de [Combustion] ou 'Queimadura Única', inflige 2 Potência de [Combustion] (2 vezes por Identidade)\n\nEm Confronto Vencido com uma Habilidade Ofensiva Base que inflige Contagem de [Combustion], Inflige +2 Contagem de [Combustion] (3 vezes por turno por inimigo)\n\nHabilidades Ofensivas Base que infligem Potência ou Contagem de [Combustion] ou 'Queimadura Única': Cada Habilidade recebe Nível Ofensivo igual ao número de cópias de cada Habilidade (Máx. 3)\n- Se uma Habilidade possui 3+ cópias, recebe 2 de Nível Ofensivo adicional.",
             "simpleDesc": [
                 {
@@ -467,7 +467,7 @@
         },
         {
             "id": 9773,
-            "name": "Spiked Combat Boots",
+            "name": "Botas de Combate com Cravos",
             "desc": "Em Confronto Vencido com uma Habilidade Ofensiva Base que inflige Potência ou Contagem de [Burst] contra um inimigo, inflige +3 Contagem de [Burst] (2 vezes por turno por inimigo)\n\nAo Atingir: caso um inimigo não possua [Burst], Efeitos de Moeda que infligem Potência de [Burst] infligem Contagem de [Burst] no lugar (Máx. 4; 2 vezes por turno por inimigo; para Anormalidades, por cada Parte)\n\nHabilidades Ofensivas Base que infligem Potência ou Contagem de [Burst]: Cada Habilidade recebe Nível Ofensivo igual ao número de cópias de cada Habilidade (Máx. 3)\n- Se uma Habilidade possui 3+ cópias, recebe 2 de Nível Ofensivo adicional.",
             "simpleDesc": [
                 {
@@ -486,7 +486,7 @@
         },
         {
             "id": 9774,
-            "name": "Re-ignition Plug",
+            "name": "Plugue de Reignição",
             "desc": "Habilidades Ofensivas Base que infligem Contagem de [Combustion]: causa +20% de dano e inflige +1 Contagem de [Combustion]. Ao Atingir com tais habilidades contra inimigos com [Combustion] ou 'Queimadura Única': Inflige 1 [DefenseDown] (2 vezes por turno por identidade)\n\nIdentidades cuja todas Habilidades Ofensivas Base infligem Potência ou Contagem de [Combustion], ou 'Queimadura Única': durante Início de Turno, recebe [AttackUp] igual a quantidade de turnos sobrevividos (exceto o turno ao qual elas entraram no Encontro; Máx. 5)",
             "simpleDesc": [
                 {
@@ -505,7 +505,7 @@
         },
         {
             "id": 9775,
-            "name": "Enhancer Mk.4",
+            "name": "Intensificador Mk.4",
             "desc": "Ao Atingir com a Moeda final contra inimigos com 15- de Potência de [Burst] enquanto usa uma Habilidade de Ataque Base que inflige Potência ou Contagem de [Burst]: Inflige +3 Contagem de [Burst] (uma vez por turno por Identidade)\n\nHabilidade de Ataque Base que inflige Contagem de [Burst]: Poder de Confronto +1, causa +20% de dano",
             "simpleDesc": [
                 {
@@ -539,7 +539,7 @@
         },
         {
             "id": 9777,
-            "name": "Twigs",
+            "name": "Gravetos",
             "desc": "Toda vez que [Burst] ativa 3 vezes em inimigos com [Burst] devido a serem atingidos por Habilidades de Ataque dos aliados (incluindo Habilidades E.G.O) que aplicam Potência ou Contagem de [Burst], aplica 2 [AttackDown] no referido inimigo no próximo turno (3 vezes por turno por inimigo; para Anormalidades, para cada Parte) ||  || Ao Abater com uma Habilidade de Ataque Base que aplica Contagem de [Burst]: aplica a Contagem de [Burst] restante nos demais inimigos derrotados",
             "simpleDesc": [
                 {
@@ -558,7 +558,7 @@
         },
         {
             "id": 9778,
-            "name": "Regular Operational Gear",
+            "name": "Equipamento Operacional Padrão",
             "desc": "Identidades da Limbus Company: Habilidade 2 ganha Nível de Ataque +1 e causa +15% de dano; Habilidade 3 ganha Nível de Ataque +2 e causa +30% de dano ||  || Se há 4+ Identidades da Limbus Company entre as Unidades de Reserva, 2 aliados aleatórios ganham 2 [AttackUp] no Início do Turno",
             "simpleDesc": [
                 {
@@ -573,7 +573,7 @@
         },
         {
             "id": 9779,
-            "name": "Operation Authorization Card",
+            "name": "Cartão de Autorização de Operação",
             "desc": "Durante o Encontro, quando um aliado se retira ou é derrotado, aplica aleatoriamente 3 [AttackUp] entre todas as Identidades no próximo Início do Turno. (2 vezes por turno) || - Quando 3+ aliados se retiram ou são derrotados, aplica aleatoriamente 6 [AttackUp] entre todas as Identidades no próximo Início do Turno em vez disso. (2 vezes por turno) ||  || Início do Turno: 3 aliados com menor SP restauram 15, 10 e 5 SP cada (não acumula; os números se aplicam respectivamente)",
             "simpleDesc": [
                 {
@@ -588,7 +588,7 @@
         },
         {
             "id": 9780,
-            "name": "High-risk Operational Gear",
+            "name": "Equipamento Operacional de Alto Risco",
             "desc": "Identidades da Limbus Company: Habilidade 2 ganha Nível de Ataque +2 e causa +20% de dano; Habilidade 3 ganha Nível de Ataque +3 e causa +40% de dano ||  || Início do Turno: um aliado aleatório ganha 2 [AttackUp] para cada Identidade da Limbus Company entre as de Reserva ou derrotadas. ||  || Durante o Encontro, quando um aliado se retira ou é derrotado, aplica aleatoriamente 3 [AttackUp] entre todas as Identidades no próximo Início do Turno. (distribuído igualmente)",
             "simpleDesc": [
                 {
@@ -607,7 +607,7 @@
         },
         {
             "id": 9781,
-            "name": "Hardwood Liquor Cup",
+            "name": "Taça de Licor de Madeira Nobre",
             "desc": "Ao Perder Embate, ganha 1 [Protection] e restaura 3~6 SP (1 vez por turno por Identidade) ||  || Ao atacar um inimigo com o efeito de [SuperCoin] da Habilidade (exceto Habilidades E.G.O) que perdeu o Embate: || - Habilidades de Moeda Positiva recebem Poder de Moeda Positiva +(3 / # de Moedas) e causam +20% de dano (mín. Poder de Moeda Positiva ganho 1) || - Habilidades de Moeda Negativa causam +40% de dano",
             "simpleDesc": [
                 {
@@ -623,7 +623,7 @@
         {
             "id": 9782,
             "name": "Empunhadura Desgastada",
-            "desc": "Turn Start: all allies gain 1 [ScarletResultUp].\n\nBlade Lineage or Kurokumo Clan Identities gain 2 [ScarletResultUp] and 1 [SlashResultUp] instead.",
+            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades da Linhagem da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
             "simpleDesc": [
                 {
                     "abilityID": "9782",
@@ -637,7 +637,7 @@
         },
         {
             "id": 9783,
-            "name": "Resplendence",
+            "name": "Esplendor",
             "desc": "Início do Turno: ativa quando há 3 ou mais Identidades do Clã Kurokumo. (conta apenas Identidades em campo) ||  || Todos os aliados ganham 2 [ScarletResultUp] e 1 [SlashResultUp] no Início do Turno. ||  || Habilidades de Ataque Base das Identidades do Clã Kurokumo: ganham Poder de Moeda +(4 / # de Moedas; mín. 1), aplicam adicional 1 [Laceration], +1 Contagem de [Laceration], e causam +(80/# de Moedas)% de dano ||  || Anula efeitos do Kurokumo",
             "simpleDesc": [
                 {
@@ -656,7 +656,7 @@
         },
         {
             "id": 9784,
-            "name": "Cultivation",
+            "name": "Cultivo",
             "desc": "Início do Turno: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade da Linhagem da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade da Linhagem da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
             "simpleDesc": [
                 {
@@ -675,7 +675,7 @@
         },
         {
             "id": 9785,
-            "name": "Swarmcloud",
+            "name": "Nuvem de Enxame",
             "desc": "Início do Turno: ativa quando há 3 ou mais Identidades do Clã Kurokumo. (conta apenas Identidades em campo) ||  || Ao Acertar com [SuperCoin] de Habilidade de Ataque Base (exceto Habilidades E.G.O): causa +(40/# de Moedas)% de dano || Identidades do Clã Kurokumo: causam +(80/# de Moedas)% de dano em vez disso ||  || Identidades do Clã Kurokumo com Habilidades de Ataque Base de Talho: ganham 2 [SlashDamageUp] no Início do Turno. Identidades do Clã Kurokumo",
             "simpleDesc": [
                 {
@@ -694,7 +694,7 @@
         },
         {
             "id": 9786,
-            "name": "Enh. Tattoos - The Middle",
+            "name": "Aprim. Tatuagens - O Médio",
             "desc": "Habilidades Contundentes: Poder de Embate +1 || - Identidades de O Médio: ganham Poder de Embate +1 e Poder de Moeda +1 em vez disso || - Identidades de O Médio: se o alvo principal tem [RetaliationBook], ganha Poder de Embate +1, Poder de Moeda +1, e causa +10% de dano em vez disso",
             "simpleDesc": [
                 {
@@ -705,7 +705,7 @@
         },
         {
             "id": 9787,
-            "name": "Strange Glyph Talisman",
+            "name": "Talismã de Glifo Estranho",
             "desc": "Ao derrotar um alvo com [Burst] (para Encontros Focados, uma Parte) com uma Habilidade de Ataque, aplica a Potência de [Burst] no alvo entre todos os inimigos (para Encontros Focados, todas as Partes) (máx. 2 por inimigo, arredondado para baixo) ||  || Ao derrotar um alvo com [BurstAgility] (para Encontros Focados, uma Parte) com uma Habilidade de Ataque, aplica a Potência e Contagem de [Burst] no alvo entre todos os inimigos",
             "simpleDesc": [
                 {
@@ -720,7 +720,7 @@
         },
         {
             "id": 9788,
-            "name": "Harestride",
+            "name": "Passo de Lebre",
             "desc": "Se a Velocidade de um aliado é maior que a do alvo, o aliado aplica (diferença de Velocidade / 3) [Burst] ou Contagem de [Burst] adicional ao aplicá-los com Habilidades (máx. 3)",
             "simpleDesc": [
                 {
@@ -731,7 +731,7 @@
         },
         {
             "id": 9789,
-            "name": "Chains of Loyalty",
+            "name": "Correntes de Lealdade",
             "desc": "Ao ser atingido, todos os aliados da mesma facção causam +5% a mais de dano Contundente (15% por turno) ||  || Para Identidades de O Médio, ganha 1 [AttackUp] e causa +10% a mais de dano Contundente em vez disso (3 por turno, 30% por turno)",
             "simpleDesc": [
                 {
@@ -742,7 +742,7 @@
         },
         {
             "id": 9790,
-            "name": "Strange Glyph Inscriptions",
+            "name": "Inscrições de Glifo Estranho",
             "desc": "Ao embater contra alvos com [Burst], ganha ([Burst] no alvo / 20) Poder de Embate (máx. 2) || - Ao embater contra alvos com [BurstAgility], ganha ([Burst] no alvo / 15) Poder de Embate em vez disso (máx. 3) ||  || Ao causar dano com efeito [BurstAgility], causa dano fixo de ([BurstAgility] dano / 3)",
             "simpleDesc": [
                 {
@@ -757,7 +757,7 @@
         },
         {
             "id": 9791,
-            "name": "Shadow Bamboo Hat",
+            "name": "Chapéu de Bambu Sombrio",
             "desc": "Fim de Turno: Identidades 'Bando Heishou - Filial Mao' recebem 2 de [Agility] no próximo turno\n\nSe a Velocidade de um aliado for maior que a do alvo, ou se um aliado utilizar um Ataque Unilateral, ele causa +10% de dano Cortante para cada (diferença de Velocidade / 3) (Máx. 30%)\n\nSe a Velocidade de um aliado for menor que a do alvo, ele sofre -10% de dano por cada (diferença de Velocidade / 3) (Máx. 30%)",
             "simpleDesc": [
                 {
@@ -776,7 +776,7 @@
         },
         {
             "id": 9792,
-            "name": "Everlasting Chains of Bond",
+            "name": "Correntes Eternas do Vínculo",
             "desc": "Início do Turno: ativa quando há 2 ou mais Identidades de O Médio (conta apenas Identidades em campo) ||  || Ao ser atingido, todos os aliados da mesma facção causam +5% a mais de dano Contundente (15% por turno) || Identidades de O Médio ganham 1 [AttackUp] e causam +10% a mais de dano Contundente em vez disso (3 por turno, 30% por turno) ||  || Habilidades Contundentes ganham Poder Base +1 || - Identidades de O Médio ganham Poder Base +1 e Poder de Moeda",
             "simpleDesc": [
                 {
@@ -795,7 +795,7 @@
         },
         {
             "id": 9793,
-            "name": "Glyph of Glass Shards",
+            "name": "Glifo de Cacos de Vidro",
             "desc": "Início do Turno: Este Gift ativa pelo Encontro inteiro quando há 5 ou mais Identidades que aplicam Potência ou Contagem de [Burst] (exceto Habilidades E.G.O; exceto Unidades de Reserva) ||  || Ao derrotar um alvo com [Burst] (para Encontros Focados, uma Parte) com uma Habilidade de Ataque, aplica a Potência de [Burst] no alvo entre todos os inimigos (para Encontros Focados, todas as Partes) (máx. 3 por inimigo)",
             "simpleDesc": [
                 {
@@ -818,7 +818,7 @@
         },
         {
             "id": 9794,
-            "name": "Swishing Fuel Tank",
+            "name": "Tanque de Combustível Borbulhante",
             "desc": "[Efeitos aplicam apenas às Identidades Implantadas #2, #4] ||  || Ao sofrer dano letal, 60% de chance de não receber esse dano e restaurar 30 HP. (1 vez por Encontro) || O efeito acima não ativa nas seguintes condições: || - Quando o dano de Habilidade recebido excede o HP máx. da unidade || - Quando a unidade tem o efeito de Redução de Cura de HP",
             "simpleDesc": [
                 {
@@ -829,54 +829,54 @@
         },
         {
             "id": 2080,
-            "name": "Worn Hilt",
-            "desc": "Turn Start: all allies gain 1 [ScarletResultUp].\n\nBlade Lineage or Kurokumo Clan Identities gain 2 [ScarletResultUp] and 1 [SlashResultUp] instead.",
+            "name": "Empunhadura Desgastada",
+            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades da Linhagem da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
             "simpleDesc": [
                 {
                     "abilityID": 2080,
-                    "simpleDesc": "Gain Lust Power Up"
+                    "simpleDesc": "Recebe Poder de Luxúria Aumentado"
                 },
                 {
                     "abilityID": 20801,
-                    "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+                    "simpleDesc": "Recebe Poder de Luxúria Aumentado e Poder Cortante Aumentado"
                 }
             ]
         },
         {
             "id": 2081,
-            "name": "Resplendence",
+            "name": "Esplendor",
             "desc": "Início do Turno: ativa quando há 3 ou mais Identidades do Clã Kurokumo. (conta apenas Identidades em campo) ||  || Todos os aliados ganham 2 [ScarletResultUp] e 1 [SlashResultUp] no Início do Turno. ||  || Habilidades de Ataque Base das Identidades do Clã Kurokumo: ganham Poder de Moeda +(4 / # de Moedas; mín. 1), aplicam adicional 1 [Laceration], +1 Contagem de [Laceration], e causam +(80/# de Moedas)% de dano ||  || Anula efeitos do Kurokumo",
             "simpleDesc": [
                 {
                     "abilityID": 2081,
-                    "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+                    "simpleDesc": "Recebe Poder de Luxúria Aumentado e Poder Cortante Aumentado"
                 },
                 {
                     "abilityID": 20811,
-                    "simpleDesc": "Gain Coin Power, inflict more Bleed and Bleed Count, and deal more damage"
+                    "simpleDesc": "Recebe Poder de Moeda, inflige mais Sangramento e Contagem de Sangramento e causa mais dano"
                 },
                 {
                     "abilityID": 20812,
-                    "simpleDesc": "Nullify the first Stagger Threshold; gain Protection at under certain HP; gain Haste after taking damage"
+                    "simpleDesc": "Anula o primeiro Limiar de Atordoamento; recebe Proteção abaixo de certo PV; recebe Aceleração após sofrer dano"
                 }
             ]
         },
         {
             "id": 2082,
-            "name": "Cultivation",
+            "name": "Cultivo",
             "desc": "Início do Turno: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade da Linhagem da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade da Linhagem da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
             "simpleDesc": [
                 {
                     "abilityID": 2082,
-                    "simpleDesc": "Gain Slash Power Up and deal more damage"
+                    "simpleDesc": "Recebe Poder Cortante Aumentado e causa mais dano"
                 },
                 {
                     "abilityID": 20821,
-                    "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
+                    "simpleDesc": "Causa dano de Soberba adicional de (Potência de [Breath]/2)."
                 },
                 {
                     "abilityID": 20822,
-                    "simpleDesc": "Gain Slash DMG Up"
+                    "simpleDesc": "Recebe Dano Cortante Aumentado"
                 }
             ]
         }

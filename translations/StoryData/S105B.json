@@ -1,0 +1,265 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Algumas Vielas do Distrito 4",
+            "model": "베르길리우스",
+            "content": "Ei! Já chega disso. Nosso convidado vai chegar a qualquer momento."
+        },
+        {
+            "id": 1,
+            "content": "disse Vergilius, pondo a cabeça para fora da janela."
+        },
+        {
+            "id": 2,
+            "model": "단테",
+            "content": "<Convidado? Quem?>"
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Determinei que precisaremos de um guia, já que esta é nossa primeira viagem a uma masmorra."
+        },
+        {
+            "id": 4,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Com licença... Vocês são o pessoal da Limbus Company?"
+        },
+        {
+            "id": 5,
+            "content": "Alguém se aproxima de nós com aparente hesitação."
+        },
+        {
+            "id": 6,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Vocês sem dúvida têm cara disso..."
+        },
+        {
+            "id": 7,
+            "content": "O ônibus tinha praticamente terminado a refeição e triturava os últimos pedacinhos de osso."
+        },
+        {
+            "id": 8,
+            "place": "A bordo do Mephistopheles",
+            "content": "Yuri observou aquilo com indiferença antes de se apresentar."
+        },
+        {
+            "id": 9,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Sou Yuri, ex-funcionária da antiga L Corp. Espero trabalhar bem com vocês."
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<\"Antiga\" L Corp.? Você quer dizer...>"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Só pode ser a Lobotomy Corporation."
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "Correto. Seguiremos para explorar as antigas instalações filiais da Lobotomy Corporation—isto é, a caída L Corp."
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "Eu não teria aceitado esse trabalho no seu lugar, mesmo se alguém tivesse me pedido especificamente."
+        },
+        {
+            "id": 14,
+            "model": "이스마엘",
+            "content": "Duvido que o fim do seu emprego aqui tenha deixado memórias agradáveis, sendo uma Ala caída e tudo o mais."
+        },
+        {
+            "id": 15,
+            "model": "로쟈",
+            "content": "Do que você tá falando? Ala caída ou não, um pagamento gordo transforma qualquer trabalho brutal numa memória encantadora."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "Hrm, ouvi dizer que aquelas instalações ainda estão fervilhando de monstros até hoje..."
+        },
+        {
+            "id": 17,
+            "model": "파우스트",
+            "content": "Não são \"monstros\"—são Anormalidades. De qualquer forma, o que você disse é verdade. Mas o lugar também abriga coisas mais importantes do que aquelas entidades."
+        },
+        {
+            "id": 18,
+            "model": "파우스트",
+            "content": "Nas zonas mais profundas dessas instalações filiais há formações semelhantes a plantas que só recentemente começaram a se formar: a essência da tecnologia da L Corp."
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "Dante, se você se lembra do que eu disse alguns dias atrás, eu te ofereci a chance de, com o tempo, gravar seu Aspecto."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "Assim que essa \"essência\"—os Ramos Dourados—for recuperada, vai ser moleza."
+        },
+        {
+            "id": 21,
+            "content": "Ouvir a palavra \"Aspecto\" ainda me dá dor de cabeça."
+        },
+        {
+            "id": 22,
+            "content": "O que exatamente o \"eu\" estava tentando fazer?"
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "Não há necessidade de forçar seu cérebro tentando lembrar o que você não consegue. Tudo voltará a seu devido tempo."
+        },
+        {
+            "id": 24,
+            "content": "Respondi com um aceno lento ao conselho plácido de Faust."
+        },
+        {
+            "id": 25,
+            "content": "Certo, por enquanto, eu deveria focar no que o meu eu atual é capaz de processar."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<E se é a Lobotomy Corp que a gente vai vasculhar... talvez a gente esbarre em um pouco de Enkephalin também.>"
+        },
+        {
+            "id": 27,
+            "model": "싱클레어",
+            "content": "Ah, isso quer dizer que a gente não vai ter que... alimentar mais pessoas pro nosso veículo?"
+        },
+        {
+            "id": 28,
+            "model": "이스마엘",
+            "content": "A gente também pode pegar alguns E.G.O se tiver sorte, então são três ratos numa cajadada só."
+        },
+        {
+            "id": 29,
+            "content": "E.G.O? Esse é mais um termo desconhecido que me faz inclinar a cabeça..."
+        },
+        {
+            "id": 30,
+            "content": "Mas, de qualquer forma, parecia meio grosseiro ficar conversando entre nós com uma convidada a bordo."
+        },
+        {
+            "id": 31,
+            "content": "... E, pelo visto, eu não era o único que pensava assim."
+        },
+        {
+            "id": 32,
+            "model": "그레고르",
+            "content": "Então, Senhorita Yuri, o que você tem feito depois da L Corp.?"
+        },
+        {
+            "id": 33,
+            "content": "Gregor exibiu o que parecia ser sua melhor tentativa de um sorriso gentil para a nossa nova passageira, na esperança de puxar conversa."
+        },
+        {
+            "id": 34,
+            "content": "Os cantos dos olhos dele se contraíam por forçar uma expressão facial à qual obviamente não estava acostumado, mas eu fingi não notar."
+        },
+        {
+            "id": 35,
+            "model": "돈키호테",
+            "content": "Parece-me que sois uma honrada Mandatária! Diz-se que todos os Mandatários exalam o nobre aroma dos heróis!"
+        },
+        {
+            "id": 36,
+            "content": "Enquanto Yuri dava um leve aceno, ouvi Ishmael soltar um suspiro profundo."
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "Não sei quem te enfiou essa ideia na cabeça, mas Mandatários são tudo menos nobres ou heroicos. O único aroma que você vai sentir é o fedor miserável de escravos assalariados."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "... Não deve ter sido fácil achar outro emprego tão rápido. Que bom que você tá aguentando firme."
+        },
+        {
+            "id": 39,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "Por enquanto... sou apenas uma trabalhadora temporária."
+        },
+        {
+            "id": 40,
+            "model": "이스마엘",
+            "content": "Aha. Isso explica por que você decidiu voltar se arrastando pra cá."
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "Eles te prometeram um cargo de líder de equipe ou algo assim em troca de um grande achado no que restou do seu antigo local de trabalho?"
+        },
+        {
+            "id": 42,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "... Meus contratos podem ser estendidos se eu voltar com resultados."
+        },
+        {
+            "id": 43,
+            "model": "그레고르",
+            "content": "C-certo. Um bom desempenho vira questão de vida ou morte quando você tá de olho numa vaga permanente."
+        },
+        {
+            "id": 44,
+            "model": "이스마엘",
+            "content": "*suspiro* E que vida sem sentido essa é."
+        },
+        {
+            "id": 45,
+            "model": "그레고르",
+            "content": "(Ei, o que é todo esse sarcasmo? Alguma coisa te incomodando?)"
+        },
+        {
+            "id": 46,
+            "model": "이스마엘",
+            "content": "... Sei lá, cada coisinha que eu tô ouvindo agora tá me dando nos nervos."
+        },
+        {
+            "id": 47,
+            "content": "Aparentemente indiferente à atitude ríspida, Yuri ocupou um assento vazio em silêncio."
+        },
+        {
+            "id": 48,
+            "content": "Olhando de um para o outro, Gregor também voltou ao seu assento, coçando a cabeça."
+        },
+        {
+            "id": 49,
+            "model": "단테",
+            "content": "<Eu... acho que nunca vou me acostumar a conviver com essa gente.>"
+        },
+        {
+            "id": 50,
+            "model": "베르길리우스",
+            "content": "É melhor você se enturmar rápido se quiser facilitar o seu trabalho, Dante."
+        },
+        {
+            "id": 51,
+            "model": "베르길리우스",
+            "content": "... Charon, hora de ir. Nossa convidada já se sentou."
+        },
+        {
+            "id": 52,
+            "model": "카론",
+            "content": "A barriga do Mephi reviveu. A Charon tá doida pra dirigir."
+        }
+    ]
+}

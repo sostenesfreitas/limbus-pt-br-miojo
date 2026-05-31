@@ -1,0 +1,90 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Distrito 4 - Interior da Filial LC",
+            "model": "파우스트",
+            "content": "Bem, suponho que este lugar é tão bom quanto qualquer outro."
+        },
+        {
+            "id": 1,
+            "content": "Assim que abri a porta, Faust de repente avançou até mim e bloqueou meu caminho."
+        },
+        {
+            "id": 2,
+            "model": "파우스트",
+            "content": "Dante, feche os olhos e procure a estrela escondida na escuridão."
+        },
+        {
+            "id": 3,
+            "model": "파우스트",
+            "content": "Embora não seja radiante, ela ainda pisca para se revelar—a estrela da verdade."
+        },
+        {
+            "id": 4,
+            "model": "단테",
+            "content": "<A estrela... Essa não vai doer, certo?>"
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "Não deve lhe causar dor alguma, já que você está apenas localizando-a."
+        },
+        {
+            "id": 6,
+            "content": "Algo no jeito como Faust disse isso me incomodou, mas decidi confiar nela e bloqueei minha visão."
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "content": "Quando você abrir os olhos, a estrela que parecia tão distante..."
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "... estará retribuindo seu olhar."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<Isso é... lindo.>"
+        },
+        {
+            "id": 10,
+            "model": "단테",
+            "content": "<Aquela luz... Só eu consigo vê-la?>"
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "Não exatamente. Através de você, agora todos nós podemos vê-la."
+        },
+        {
+            "id": 12,
+            "model": "파우스트",
+            "content": "Mesmo estando dentro de uma masmorra, agora podemos colher os benefícios de sua habilidade através da estrela."
+        },
+        {
+            "id": 13,
+            "model": "이스마엘",
+            "content": "Pode se apressar com o relógio, então? Acho que desloquei meu ombro."
+        },
+        {
+            "id": 14,
+            "model": "유리",
+            "teller": "Yuri",
+            "title": "Mandatária de Grau 8",
+            "content": "O relógio? Não era só para enfeite?"
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Não é só isso que ele faz. Eles têm um poder bem legal. Você deveria vir dar uma olhada, Yuri."
+        },
+        {
+            "id": 16,
+            "model": "단테",
+            "content": "<... Ninguém reconhecerá a dor que eu suporto?>"
+        }
+    ]
+}

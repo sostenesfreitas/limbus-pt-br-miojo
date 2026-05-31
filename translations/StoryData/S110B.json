@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distrito 4 - Exterior da Filial da L Corp.",
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "... Dante. Uma palavrinha."
+    },
+    {
+      "id": 1,
+      "content": "Enquanto os outros estavam ocupados trocando cumprimentos, Vergilius me chamou para um canto reservado."
+    },
+    {
+      "id": 2,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "Deixa eu te avisar de antemão que os guias são só Mandatários de Grau 8."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Grau 8?>"
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "... Significa que são uns peões de baixo escalão, cuja tarefa principal é fazer recados."
+    },
+    {
+      "id": 5,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "Use eles, mas não conte com eles."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Em outras palavras, não dá pra confiar muito neles.>"
+    },
+    {
+      "id": 7,
+      "content": "Acenei com a cabeça para mostrar que tinha entendido o recado."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "... Você talvez seja o único no ônibus com quem eu consiga ter uma conversa que valha a pena."
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스2",
+      "teller": "Vergilius",
+      "title": "Guia",
+      "content": "... Bom, boa sorte, Dante."
+    },
+    {
+      "id": 10,
+      "content": "Vergilius deu um tapinha no meu ombro com um sorriso torto e voltou devagar para o ônibus."
+    }
+  ]
+}

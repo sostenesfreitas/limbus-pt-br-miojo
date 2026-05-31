@@ -1,0 +1,178 @@
+{
+  "dataList": [
+    {
+      "id": 955601,
+      "name": "",
+      "subDesc": "",
+      "desc": "Algo que brilha em amarelo se coloca apressadamente à nossa frente, bloqueando nosso caminho.\n\n\"Você se importaria de parar por um momento, por favor?\"\n\n\"Veja bem... há uma criança bastante exigente brincando com suas amigas mais adiante.\"\n\n\"Manter a criança entretida por quanto tempo ela quiser é uma tarefa árdua, então tenho esperado aqui para dar uma mãozinha.\"\n\n\"Diga-me, qual ajuda você gostaria?\"<size=0%>",
+      "options": [
+        {
+          "message": "Beber a seiva ondulante.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta a sobrevivência em todas as unidades aliadas e inimigas ao longo desta Seção",
+          "result": [
+            "Assim que beberam a seiva ondulante, os Pecadores pareceram se sentir notavelmente melhor.<size=0%>"
+          ]
+        },
+        {
+          "message": "Pegar a borboleta tingida de crepúsculo.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta o dano em todas as unidades aliadas e inimigas ao longo desta Seção",
+          "result": [
+            "Decidimos seguir em frente junto com as borboletas.<size=0%>"
+          ]
+        },
+        {
+          "message": "Recusar a ajuda.",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "Decidimos entrar na batalha sem receber nenhuma ajuda.<size=0%>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 955101,
+      "name": "",
+      "subDesc": "",
+      "desc": "Algo que brilha em amarelo está esperando por nós.\n\n\"Olá. Já faz um bom tempo.\"\n\n\"Há uma criança esperando completamente sozinha mais adiante, incapaz de chegar ao final da história.\"\n\n\"Tenho esperado aqui para dar uma mãozinha a qualquer um que mostre à criança o que significa terminar.\"\n\n\"Diga-me, qual ajuda você gostaria?\"<size=0%>",
+      "options": [
+        {
+          "message": "Beber a seiva congelada.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta a sobrevivência em todas as unidades aliadas e inimigas ao longo desta Seção",
+          "result": [
+            "Os Pecadores derreteram a seiva congelada e a beberam. Pareceram se sentir notavelmente melhor.<size=0%>"
+          ]
+        },
+        {
+          "message": "Pegar a escama de asa cintilante.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta o dano em todas as unidades aliadas e inimigas ao longo desta Seção",
+          "result": [
+            "Guardamos a escama de asa cintilante e continuamos em frente.<size=0%>"
+          ]
+        },
+        {
+          "message": "Recusar a ajuda.",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "Decidimos entrar na batalha sem receber nenhuma ajuda.<size=0%>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956701,
+      "name": "",
+      "subDesc": "",
+      "desc": "A parada final.\n\nUm andarilho tingido pelo brilho do crepúsculo se aproxima de nós.\n\n\"Parece que não há necessidade de dizer muito.\"\n\n\"Fique à vontade e descanse um pouco. Claro, sinta-se livre para partir agora se estiver com pressa.\"<size=0%>",
+      "options": [
+        {
+          "message": "Beber a seiva e tirar um bom e longo descanso.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta a sobrevivência em todas as unidades aliadas ao longo desta Seção",
+          "result": [
+            "Os Pecadores mataram a sede com seiva e tiraram um descanso adequado. Pareceram se sentir notavelmente melhor.<size=0%>"
+          ]
+        },
+        {
+          "message": "Descansar um pouco e partir com as borboletas.",
+          "messageDesc": "Selecione para aplicar um efeito que aumenta o dano em todas as unidades aliadas ao longo desta Seção",
+          "result": [
+            "Seguimos as borboletas, deixando o local enquanto nossos instintos de combate ainda estavam aguçados.<size=0%>"
+          ]
+        },
+        {
+          "message": "Apressar-se e partir.",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "Decidimos entrar na batalha sem nenhum descanso.<size=0%>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956401,
+      "name": "Evento de Escolha da Borboleta Ilusória das Vidas Entrelaçadas::O Passado",
+      "subDesc": "",
+      "desc": "Conseguimos arrancar os fios de linha vermelha enrolados em torno da Anormalidade.\n\nComo devemos proceder?<size=0%>",
+      "options": [
+        {
+          "message": "Cortar a fuligem.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Passado\":\n\"Ao ser atingida por um Pecador, a Borboleta das Vidas Entrelaçadas inflige Queimadura e Contagem de Queimadura no referido Pecador\"",
+          "result": [
+            "A ilusão se dispersa, desaparecendo no passado.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar a brasa.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Passado\":\n\"A Habilidade exclusiva de 'No Passado' da Borboleta das Vidas Entrelaçadas, 'Kalpāgni', ganha Poder Final e sua Moeda final inflige dano de PH Ao Acertar\"",
+          "result": [
+            "A ilusão se dispersa, desaparecendo no passado.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar os restos.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Passado\":\n\"A Borboleta das Vidas Entrelaçadas inflige Redução de Cura de PV e Fragilidade de Ira em Pecadores que tenham Queimadura suficiente\"",
+          "result": [
+            "A ilusão se dispersa, desaparecendo no passado.<size=0%>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956501,
+      "name": "Evento de Escolha da Borboleta Ilusória das Vidas Entrelaçadas::O Presente",
+      "subDesc": "",
+      "desc": "Conseguimos arrancar os fios de linha vermelha enrolados em torno da Anormalidade.\n\nComo devemos proceder?<size=0%>",
+      "options": [
+        {
+          "message": "Cortar a linha.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Presente\":\n\"Quando a Borboleta das Vidas Entrelaçadas acerta Criticamente, ela não perde Contagem de Equilíbrio; ganha uma grande quantidade de Potência e Contagem de Equilíbrio no Início do Turno\"",
+          "result": [
+            "A ilusão se dispersa, esvanecendo no presente.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar o momento.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Presente\":\n\"A Habilidade exclusiva de 'No Presente' da Borboleta das Vidas Entrelaçadas, 'Castigar os Ímpios', ganha Poder Final e sua Moeda final aumenta o Limiar de Atordoamento Ao Acertar\"",
+          "result": [
+            "A ilusão se dispersa, esvanecendo no presente.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar a asa.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Presente\":\n\"A Borboleta das Vidas Entrelaçadas causa mais dano em Acerto Crítico com base em sua Potência e Contagem de Equilíbrio\"",
+          "result": [
+            "A ilusão se dispersa, esvanecendo no presente.<size=0%>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 956601,
+      "name": "Evento de Escolha da Borboleta Ilusória das Vidas Entrelaçadas::O Futuro",
+      "subDesc": "",
+      "desc": "Conseguimos arrancar os fios de linha vermelha enrolados em torno da Anormalidade.\n\nComo devemos proceder?<size=0%>",
+      "options": [
+        {
+          "message": "Cortar o presságio.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o primeiro efeito da Passiva \"Futuro\":\n\"Início do Turno: Pecadores ganham Contagem de Sangramento\"",
+          "result": [
+            "A ilusão se dispersa, ruindo no futuro.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar a possibilidade.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o segundo efeito da Passiva \"Futuro\": \n\"A Habilidade exclusiva de 'No Futuro' da Borboleta das Vidas Entrelaçadas, 'Flor de Sangue', ganha Poder Final; Ao Acertar, sua Moeda final cura PV em si mesma\"",
+          "result": [
+            "A ilusão se dispersa, ruindo no futuro.<size=0%>"
+          ]
+        },
+        {
+          "message": "Cortar a saída.",
+          "messageDesc": "No Encontro contra a Borboleta das Vidas Entrelaçadas::Imago na Seção 5, desativa o terceiro efeito da Passiva \"Futuro\":\n\"A Borboleta das Vidas Entrelaçadas cura PV toda vez que Sangramento é ativado nela ou nos Pecadores\"",
+          "result": [
+            "A ilusão se dispersa, ruindo no futuro.<size=0%>"
+          ]
+        }
+      ]
+    }
+  ]
+}
