@@ -2,45 +2,29 @@
 
 > Tradução PT-BR de **Limbus Company**, servida quente em 3 minutos.
 
-A Cidade é o maior lugar habitável que restou no planeta, abrigando a maior parte da
-população da Terra. Um lugar caótico onde a luta pela sobrevivência é o habitual e cada
-dia vivo é uma bênção. A Cidade é dividida em **26 Distritos**, e cada Distrito é
-controlado por uma **Wing** — megacorporações de tecnologia absurdamente avançada,
-nomeadas de A a Z, donas das chamadas *Singularidades*, capazes de mudar drasticamente
-o modo de vida na Cidade.
-
-A tradução da comunidade **CLT District** é exatamente isso: uma **Asa**. Estrutura,
-recursos, singularidade própria, funcionário de crachá. Respeite a Asa. 🫡
+A tradução da comunidade **CLT District** é uma **Asa**: estrutura, recursos,
+singularidade própria, funcionário de crachá. Respeite a Asa. 🫡
 
 Nós? Nós somos **O Médio**. 🖕
 
-Os **Dedos** — também conhecidos como **A Mão** — são o poder absoluto dos Sindicatos,
-a única organização que mantém a "ordem" nas Backstreets. Nem as Wings nem a The Head
-conseguem se meter facilmente nos negócios deles. São cinco: **Polegar, Indicador,
-Médio, Anelar e Mindinho**, cada um com seu território, suas regras rigorosas e
-punições implacáveis. E, como toda boa família criminosa, os Dedos vivem se estranhando
-por território e negócios — de tempos em tempos se reúnem no **"Badalar dos Dedos"**
-para fingir que se entendem e decidir como controlar as Backstreets. Cada Dedo ainda
-tem seus **Subsidiários**, que ajudam a administrar os becos e a tocar os negócios dos
-Sindicatos.
+| ![O Médio](assets/o-medio.png) |
+|:--:|
+| ***O Médio** em pessoa. Sim, o livro é de ouro. Sim, foi pago com o seu agradecimento.* |
 
-Pois bem: a CLT cuida do Distrito dela lá do arranha-céu. **A gente cuida do beco.**
-O que a Asa ainda não traduziu — os Cantos novos, os Intervallos quentinhos saídos do
-update, as falas que ficaram em inglês — chega primeiro aqui embaixo, contrabandeado
-direto do coreano, com selo de qualidade d'O Médio. Subsidiário não oficial, preço de
-beco, entrega no mesmo dia.
+A Asa cuida do Distrito dela lá do arranha-céu. **A gente cuida do beco.** O que ainda
+não saiu por lá — os Cantos novos, os Intervallos quentinhos do update, as falas que
+ficaram em inglês — chega primeiro aqui embaixo, contrabandeado direto do coreano, com
+selo de qualidade d'O Médio. Subsidiário não oficial, preço de beco, entrega no mesmo
+dia. E, como manda a tradição dos Dedos, nossas regras são rigorosas e nossas punições,
+implacáveis (vide aviso abaixo).
 
 ## ⚠️ AVISO D'O MÉDIO: NÃO PULE A HISTÓRIA
 
 A gente traduziu **cada fala** desse jogo na mão, direto do coreano. Cada poema do Kim
 do Chapéu de Bambu, cada "Mentor." da Aeng-du, cada surto da Dona Distorcida. Se você
-instalar isso tudo e sair **segurando o botão de skip igual o Messias**, O Médio vai
-saber. O Médio sempre sabe. E a punição dos Dedos, como manda a tradição, é
-implacável.
-
-| ![Retrato falado do Messias](assets/messias.png) |
-|:--:|
-| *Retrato falado do **Messias**, foragido das Backstreets: skipou 9 Cantos, 2 Intervallos e uma Noite de Walpurgis. Se vir este homem, não venda E.G.O pra ele. Denuncie ao Badalar dos Dedos.* |
+instalar isso tudo e sair **segurando o botão de skip igual o Messias** — que skipou
+9 Cantos, 2 Intervallos e uma Noite de Walpurgis e até hoje acha que o Dante é uma
+lâmpada —, O Médio vai saber. **O Médio sempre sabe.**
 
 ## 📦 O que tem no pacote
 
@@ -106,4 +90,4 @@ node scripts/apply-to-game.mjs
 - **O Médio** — tradução dos becos, direto do coreano, sem singularidade, na base do
   miojo e da teimosia.
 
-*Cada dia vivo é uma bênção. Cada Canto lido, também.*
+*Cada dia vivo na Cidade é uma bênção. Cada Canto lido, também.*
