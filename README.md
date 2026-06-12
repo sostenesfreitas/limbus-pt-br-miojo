@@ -37,8 +37,9 @@ lâmpada —, O Médio vai saber. **O Médio sempre sabe.**
 - Tudo traduzido **a partir do coreano oficial**, mantendo estilo e terminologia da
   base CLT (a Asa fixa o glossário; O Médio não quebra contrato… esse tipo de
   contrato, pelo menos).
-- A base **ptbr-CLT completa** já vem dentro do zip — fonte, config, tudo. Não precisa
-  instalar nada antes.
+- A base **CLT completa (v6.51.0)** já vem dentro do zip — fonte, config, tudo. Não
+  precisa instalar nada antes. Onde a Asa já traduziu, vale a palavra da Asa; O Médio
+  só completa os buracos (e o conteúdo novo inteiro).
 
 ## 🔧 Como instalar (do jeito que até o Messias consegue)
 
@@ -46,7 +47,7 @@ Muita gente relatou problema instalando por partes. Acabou. Agora o zip traz a p
 `Lang` **inteira e pronta**, com a tradução já selecionada:
 
 1. **Feche o jogo.**
-2. Baixe o `Lang-ptbr-CLT-vX.Y.Z.zip` na
+2. Baixe o `Lang-pt-BR-vX.Y.Z.zip` na
    [página de Releases](https://github.com/sostenesfreitas/limbus-pt-br-miojo/releases).
 3. Extraia o zip. Vai sair uma pasta chamada `Lang`.
 4. Jogue essa pasta `Lang` dentro de:
@@ -58,16 +59,16 @@ Muita gente relatou problema instalando por partes. Acabou. Agora o zip traz a p
    (clique com o direito no jogo na Steam → **Gerenciar → Procurar arquivos locais**
    se não souber onde é)
 5. Se o Windows perguntar se quer **substituir os arquivos**: sim, substitui. Confia.
-6. Abra o jogo. Se a tradução não vier sozinha, selecione **ptbr-CLT** nas opções de
+6. Abra o jogo. Se a tradução não vier sozinha, selecione **pt-BR** nas opções de
    idioma. Pronto. Agora **leia a história** (vide aviso acima).
 
-> 💡 O zip já inclui o `config.json` que deixa a ptbr-CLT selecionada — na maioria dos
+> 💡 O zip já inclui o `config.json` que deixa a pt-BR selecionada — na maioria dos
 > casos o jogo já abre em português.
 
 ## 🛠️ Pra quem gosta de fuçar (Subsidiários)
 
 ```
-translations/          A tradução pronta (espelha Lang/ptbr-CLT/)
+translations/          A tradução pronta (espelha Lang/pt-BR/)
 scripts/
   GLOSSARY.md          Glossário de termos (consistência com a Asa)
   INTERVALLO-BRIEF.md  Brief de tradução do Intervallo atual

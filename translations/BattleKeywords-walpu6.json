@@ -3,7 +3,7 @@
         {
             "id": "ColdBlackTear",
             "name": "Lágrimas Frias, Negras",
-            "desc": "- Acúmulo Max.: 5\n- Início de Turno: recebe 1 de Poder de Confronto Reduzido\n- Se esta unidade for atingida enquanto ela tiver este efeito, perde (Acúmulo x 2) PS (uma vez por turno; não ativa quando for atingida por uma Moeda Rachada)\n- Se a Rainha do Ódio reduziu este efeito, cura 5 PS\n- Este efeito não pode reduzir o PS desta unidade abaixo de -40",
+            "desc": "- Acúmulo Max.: 5\n- Início de Turno: recebe 1 de Poder de Confronto Reduzido\n- Se esta unidade for atingida enquanto ela tiver este efeito, perde (Acúmulo x 2) PS (uma vez por turno; não ativa quando for atingida por uma Moeda Rachada)\n- Se a Rainha do Ódio reduziu este efeito, cura 5 PS\n- Esse efeito não pode reduzir o PS dessa unidade abaixo de -40",
             "summary": ""
         },
         {
@@ -120,7 +120,7 @@
         {
             "id": "BlessingAlly",
             "name": "<size=100%>Bênção</size>",
-            "desc": "- Início de Turno: recebe 1 de Espada Protetora para cada 8 de PS (Máx. 5)\n- Ao terminar Confronto, inflige 2 de Afogamento (uma vez por turno)\n- Quando for atingido, inflige 2 de Afogamento no atacante (uma vez por turno)\n- Para cada 20 de PS, inflige +1 de Potência de Afogamento com os efeitos acima (Máx. 2)\n- Substitui as Habilidades Base desta unidade com Habilidades com Moedas Positivas",
+            "desc": "- Início de Turno: recebe 1 de Espada Protetora para cada 8 de PS (máx. 5)\n- Ao terminar Confronto, inflige 2 de Afogamento (uma vez por turno)\n- Quando for atingido, inflige 2 de Afogamento no atacante (uma vez por turno)\n- Para cada 20 de PS, inflige +1 de Potência de Afogamento com os efeitos acima (Máx. 2)\n- Substitui as Habilidades Base desta unidade com Habilidades com Moedas Positivas",
             "summary": ""
         },
         {

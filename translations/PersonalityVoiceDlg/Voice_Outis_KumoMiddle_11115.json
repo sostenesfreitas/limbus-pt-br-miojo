@@ -1,124 +1,124 @@
-{
-  "dataList": [
-    {
-      "id": "get_11115_1",
-      "desc": "Aquisição de Identidade",
-      "dlg": "Filhota, lembra do que a Mamãe te disse? Sempre que você achar alguma coisa de que não gostar, pode falar comigo!"
-    },
-    {
-      "id": "lobby_morning_11115_1",
-      "desc": "Saudação Matinal",
-      "dlg": "Tá livre hoje, Princesa? Hã? Assistindo vídeos de Mandatários...? Bom, você não pode gravar e assistir depois?\nHm... Hoje a gente vai jogar \"Kriegsspiel\". Você pode montar o tabuleiro com as miniaturas e os mapas pra Mamãe,\npra gente começar assim que eu voltar de executar uma Vingança? Buahaha! Essa é a minha garota! Nunca diz não pra Mamãe."
-    },
-    {
-      "id": "lobby_noon_11115_1",
-      "desc": "Saudação Vespertina",
-      "dlg": "Sinceramente, eu tava temendo ter que me incomodar com dever de casa depois de tanto tempo... Mas fazer isso com a minha princesa não é tão ruim assim. Devo dar conta num minuto.\nHm... Peguei a revista de Mandatários e os gibis que ela pediu, peguei umas frutas—isso deve ajudar a espantar a doencinha. Heh, já consigo ver ela pulando de alegria."
-    },
-    {
-      "id": "lobby_night_11115_1",
-      "desc": "Saudação Noturna",
-      "dlg": "... A Mamãe ainda tá assistindo.\nAh, você quer assistir uma transmissão ao vivo de Mandatários? Hm. Claro, assim que a Mamãe terminar essa aqui, você pode assistir o que quiser. Só passa uma horinha a mais, tudo bem por você?"
-    },
-    {
-      "id": "smalltalk_11115_1",
-      "desc": "Conversa #1",
-      "dlg": "Traiçoeira e covarde? Acho que ela nunca me mencionou uma vez sequer, né? Você realmente esperava que O Médio fosse te enfrentar de um contra um igual os Cinq ou algo assim?\nBuahaha! Que pena pra você, porque eu sou toda a favor dessas brigas caóticas e sem regras!"
-    },
-    {
-      "id": "smalltalk_11115_2",
-      "desc": "Conversa #2",
-      "dlg": "Esse é um minifig do Ferrum Scrapus. As pernas têm um design único, mas sim, ainda conta como parte da série Iron Host.\n... Filhota. Já falamos sobre isso. O Ferrum Meteoris pode <i>parecer</i> com as outras figuras do Iron Host, e claro, o pessoal vive juntando eles, mas eles são absoluta e categoricamente <i>não</i> parte da série.\n*suspiro* Põe esse aí na prateleira do lado oposto."
-    },
-    {
-      "id": "smalltalk_11115_3",
-      "desc": "Conversa #3",
-      "dlg": "O Sul? Eles não estão praticamente sufocados em Vinganças complicadas demais pra lidar? Algumas até parecem pesadas o suficiente pra serem classificadas como Trabalhos.\n... Aquele <i>incidente</i> deve ter deixado aquela parte da família sem ninguém capaz o bastante pra empreender a Peregrinação de Lealdade... Hah. Que situação lamentável, mas o que eu posso fazer? Hora da Grande Irmã dar um passo à frente pessoalmente pela família. "
-    },
-    {
-      "id": "smalltalk_11115_4",
-      "desc": "Conversa Pós-Enlace 1",
-      "dlg": "Hmm... eles não têm nenhuma prova física, nem eu fiz qualquer contradição no meu depoimento. E mesmo assim... eles continuam suspeitando de mim?\nHah. O que importam alguns dedos apontados quando essa espada lendária... está bem aninhada e segura nas minhas mãos?"
-    },
-    {
-      "id": "smalltalk_11115_5",
-      "desc": "Conversa Pós-Enlace 2",
-      "dlg": "Um pequeno sacrifício não é nada se for pela sua própria família.\nEu venho apoiando a família com todo o meu coração—meus Irmãos e Irmãs, e até a minha garotinha, não deveriam se importar com um pouco de sacrifício quando chegar a vez deles, certo? Quer dizer... o que é lealdade, se não isso?"
-    },
-    {
-      "id": "neglect_11115_1",
-      "desc": "Inativo",
-      "dlg": "Um, dois, três... Tsc. Devem estar loucos de mandar essa mixaria pra encher meus bolsos. Eles não sabem que eu ainda sou a Grande Irmã deles? Deviam ter recheado bem isso aqui com <i>pelo menos</i> dez notas novinhas em folha."
-    },
-    {
-      "id": "gacksung_11115_1",
-      "desc": "Enlaçamento",
-      "dlg": "... Boa garota!"
-    },
-    {
-      "id": "formation_11115_1",
-      "desc": "Envio",
-      "dlg": "Vejamos... De acordo com a Cláusula Especial da Casa das Aranhas..."
-    },
-    {
-      "id": "battleentry_11115_1",
-      "desc": "Entrada na Fase",
-      "dlg": "Nem precisa ler—claro que é o extermínio completo e total!"
-    },
-    {
-      "id": "battle_select_11115_1",
-      "desc": "Visto em Batalha",
-      "dlg": "Esse barulho perturbador... Tenho um mau pressentimento sobre isso. Não baixem a guarda."
-    },
-    {
-      "id": "battle_endcommand_11115_1",
-      "desc": "Iniciando Ataque",
-      "dlg": "Bem-vindos à zona de matança!"
-    },
-    {
-      "id": "battle_enemy_break_11115_1",
-      "desc": "Inimigo Atordoado",
-      "dlg": "Beleza, ficou sem fôlego, ou você ainda tem mais surpresas na manga?"
-    },
-    {
-      "id": "battle_break_11115_1",
-      "desc": "Atordoado",
-      "dlg": "Haha! Faz tanto tempo. Até que eu tô meio sem fôlego!"
-    },
-    {
-      "id": "battle_kill_11115_1",
-      "desc": "Inimigo Morto",
-      "dlg": "Fim de jogo!"
-    },
-    {
-      "id": "battle_dead_11115_1",
-      "desc": "Morte",
-      "dlg": "... Não vou deixar... você levar a minha espada. Nunca..."
-    },
-    {
-      "id": "choice_success_p_11115_2",
-      "desc": "Passou no Teste",
-      "dlg": "Heh. Por que usar a cabeça quando você tem a força bruta?"
-    },
-    {
-      "id": "choice_fail_n_11115_1",
-      "desc": "Falha no Teste",
-      "dlg": "Esse contratempo não é grande coisa na Cidade."
-    },
-    {
-      "id": "battle_clear_11115_1",
-      "desc": "Grito de Vitória",
-      "dlg": "Isso tá descambando rápido pra um final sem graça. Eu nem teria me dado ao trabalho de te aturar se soubesse que a sua estratégia era tão patética assim.\nVamos terminar com isso. Tá ficando entediante."
-    },
-    {
-      "id": "battle_clear_ex_11115_1",
-      "desc": "Condições Extras Cumpridas",
-      "dlg": "Hahaha! Se divertindo, Filhota? A Mamãe é a melhor, né?"
-    },
-    {
-      "id": "battle_defeat_11115_1",
-      "desc": "Lamento de Derrota",
-      "dlg": "Que truquezinho barato e sujo! Tsc. Tô de mãos cheias agora, então vou fazer uma anotação no Livro e voltar a isso depois.\nNão pense que você se safou dessa."
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "get_11115_1",
+            "desc": "Aquisição de Identidade",
+            "dlg": "Filhota! Mamãe não te disse? Se tem algo que você não tá contente, só me dizer!"
+        },
+        {
+            "id": "lobby_morning_11115_1",
+            "desc": "Saudação Matinal",
+            "dlg": "Filhota, cê ta livre hoje, certo? Essa série de Mandatário... Cê pode gravar isso e assistir depois, não?\nHmm... O jogo que iremos jogar hoje é \"Kriegspiel\". Eu só preciso pegar as miniaturas e o mapa pronto,\npara podermos começar no momento que a Mamãe voltar da execução cê consegue deixar isso pronto, né? Hahaha! Isso mesmo. Essa é a minha garota."
+        },
+        {
+            "id": "lobby_noon_11115_1",
+            "desc": "Saudação Vespertina",
+            "dlg": "Eu não tava muito afim de fazer o trabalho toda sozinha, não é tão ruim assim ter minha filhota me ajudando. A gente termina as coisas cedo.\nHmm... Eu tenho a revista de quebra-cabeças e os gibis que minha filhota pediu e isso deve ser o suficiente enquanto ela ta doente... Heh, eu já consigo imaginar o sorriso no rosto dela."
+        },
+        {
+            "id": "lobby_night_11115_1",
+            "desc": "Saudação Noturna",
+            "dlg": "... Mamãe não tá dormindo.\nAah. Você quer ver a transmissão de um Mandatário? Hmm. Depois que eu terminar de ver, você pode ver o que quiser, filhota. Vai acabar em uma hora, beleza?"
+        },
+        {
+            "id": "smalltalk_11115_1",
+            "desc": "Conversa #1",
+            "dlg": "\"Covarde\", hein? Eu acho que ela nunca me mencionou. Realmente achou que o Meio iria lutar com você de um pra um como a Associação Cinq?\nBwahahaha! Azar o seu! Pois eu gosto de uma porradaria como essa!"
+        },
+        {
+            "id": "smalltalk_11115_2",
+            "desc": "Conversa #2",
+            "dlg": "Este é um mini boneco do Ferrum Scrapus. Suas pernas tem um estilo único, mas sim, ainda conta como parte da série dos Hospedeiros de Ferro.\n... Filhota. Já passamos dessa fase. Ferrum Meteoris pode <i>parecer</i> como os outros bonecos do Hospedeiro de Ferro e claro, um montão de pessoas fala isso, mas eles absoluta e categoricamente <i>não</i> fazem parte da série.\nHaah... Coloca esse na estante oposta"
+        },
+        {
+            "id": "smalltalk_11115_3",
+            "desc": "Conversa #3",
+            "dlg": "Não tem muitas vinganças complicadas no sul? Algumas delas até contam como tarefas.\n... Eu acho que não tem nenhum talento que valha a pena ir na peregrinação da lealdade por conta daquele incidente. Hah. Não tem jeito. Parece que essa Irmã Mais Velha vai ter que botar a mão na massa."
+        },
+        {
+            "id": "smalltalk_11115_4",
+            "desc": "Conversa Pós-Enlace 1",
+            "dlg": "Hmm... Duvido que tenha alguma evidência física. E meu testemunho... Não há nenhuma consistência. E ainda sim... Suspeita de mim?\nHah. Pode crê. E dai que sou suspeita? Essa espada lendária está... finalmente em minhas mãos."
+        },
+        {
+            "id": "smalltalk_11115_5",
+            "desc": "Conversa Pós-Enlace 2",
+            "dlg": "Um pequeno sacrifício pela família nunca é demais.\nEntão, assim como fui sincera com minha família, não é natural que meus irmãos e irmãs e até mesmo minha filhota não deveriam também fazer um pequeno sacrifício por mim? Isso... É lealdade, afinal."
+        },
+        {
+            "id": "neglect_11115_1",
+            "desc": "Inativo",
+            "dlg": "Um, dois, três... Tsk. Eu nem sei o que fazer com essa mixaria de trocado. Eu ainda sou sua Irmã Mais Velha, deveriam ter colocado pelo menos dez."
+        },
+        {
+            "id": "gacksung_11115_1",
+            "desc": "Enlaçamento",
+            "dlg": "... Muito bem, filhota!!!"
+        },
+        {
+            "id": "formation_11115_1",
+            "desc": "Envio",
+            "dlg": "Vamos ver. De acordo com a clausula especial do Lar das Aranhas..."
+        },
+        {
+            "id": "battleentry_11115_1",
+            "desc": "Entrada na Fase",
+            "dlg": "É execução, nem dúvida disso!"
+        },
+        {
+            "id": "battle_select_11115_1",
+            "desc": "Visto em Batalha",
+            "dlg": "Esse som horripilante... Tenho um mau pressentimento. Erga sua guarda."
+        },
+        {
+            "id": "battle_endcommand_11115_1",
+            "desc": "Iniciando Ataque",
+            "dlg": "Bem vindo ao abatedouro!"
+        },
+        {
+            "id": "battle_enemy_break_11115_1",
+            "desc": "Inimigo Atordoado",
+            "dlg": "Isso é tudo que tinha manga?"
+        },
+        {
+            "id": "battle_break_11115_1",
+            "desc": "Atordoado",
+            "dlg": "Haha! Estou um pouco ofegante pela primeira vez em muito tempo!"
+        },
+        {
+            "id": "battle_kill_11115_1",
+            "desc": "Inimigo Morto",
+            "dlg": "Fim de jogo!"
+        },
+        {
+            "id": "battle_dead_11115_1",
+            "desc": "Morte",
+            "dlg": "...Você não vai pegar... Minha espada... Nunca..."
+        },
+        {
+            "id": "choice_success_p_11115_2",
+            "desc": "Passou no Teste",
+            "dlg": "Heh. E é por isso que você não precisa de cérebro quando tem um corpo como esse."
+        },
+        {
+            "id": "choice_fail_n_11115_1",
+            "desc": "Falha no Teste",
+            "dlg": "Na cidade, uma falha como essa não é nada demais."
+        },
+        {
+            "id": "battle_clear_11115_1",
+            "desc": "Grito de Vitória",
+            "dlg": "Seu joguinho foi bem mediocre no fim. Se eu soubesse que sua estratégia era tão patética, nem teria me importado de brincar com você.\nVamos embora logo. Estou ficando entediada."
+        },
+        {
+            "id": "battle_clear_ex_11115_1",
+            "desc": "Condições Extras Cumpridas",
+            "dlg": "Hahahaha! Que tal, filhota? Mamãe é a fodona, não é?"
+        },
+        {
+            "id": "battle_defeat_11115_1",
+            "desc": "Lamento de Derrota",
+            "dlg": "Essa sua mecânica de correr não tá meio ultrapassada? Tsk. Eu to ocupada agora, então só vou escrever isso no livro.\nVocê... não fique tão convencido por isso."
+        }
+    ]
 }

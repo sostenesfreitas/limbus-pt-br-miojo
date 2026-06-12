@@ -2014,39 +2014,63 @@
         },
         {
             "id": "assistant_level",
-            "content": "Character Level"
+            "content": "Nível de Personagem"
         },
         {
             "id": "mainui_ego_gift_keyword",
-            "content": "Keyword"
+            "content": "Palavra-chave"
         },
         {
             "id": "mainui_ego_gift_grade",
-            "content": "Tier"
+            "content": "Estágio"
         },
         {
             "id": "mainui_use_random_piece_package",
-            "content": "Use Egoshard Crate"
+            "content": "Usar Caixa de Egocristal"
         },
         {
             "id": "mainui_use_optional_piece_package",
-            "content": "Use Nominable Egoshard Crate"
+            "content": "Usar Caixa de Egocristal Nominável"
         },
         {
             "id": "mainui_battleresult_consumable",
-            "content": "Module Cost"
+            "content": "Custo de Módulo"
         },
         {
             "id": "mainui_cont_mine_title",
-            "content": "Consecutive Battle"
+            "content": "Batalha Consecutiva"
         },
         {
             "id": "mainui_cont_mine_daily_bonus_desc",
-            "content": "{0} Daily Bonuses Applied"
+            "content": "{0} Bônus Diário Aplicado"
         },
         {
             "id": "mainui_cont_mine_invalid_text",
-            "content": "Clear Stage once to unlock Consecutive Battle"
+            "content": "Complete a Fase uma vez para desbloquear Batalha Consecutiva"
+        },
+        {
+            "id": "mainui_ego_sync_level_up_select_item",
+            "content": "Selecionar Ingredientes de Fabricação"
+        },
+        {
+            "id": "mainui_passive_skill_upgrade",
+            "content": "Passivas Aprimoradas"
+        },
+        {
+            "id": "mainui_new_passive_skill_upgrade",
+            "content": "Passiva Aprimorada: [{0}]"
+        },
+        {
+            "id": "formation_announcer_preset_name",
+            "content": "Predefinição nº{0}"
+        },
+        {
+            "id": "formation_announcer_preset_title",
+            "content": "Predefinição de Locutores"
+        },
+        {
+            "id": "formation_announcer_reset_desc",
+            "content": "Tem certeza de que deseja reiniciar {0}?"
         }
     ]
 }

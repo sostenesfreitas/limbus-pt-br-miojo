@@ -53,8 +53,8 @@
         {
             "id": 2040212,
             "name": "Chama do 4° Fósforo",
-            "desc": "Cada quarta Habilidade que esta unidade usa recebe +4 de Poder Final e inflige 4 de [Combustion] Ao Atingir\n- Se a dita Habilidade for uma Habilidade de Ira, causa +(Potência de [Combustion] em todos os alvos / 2)% de dano adicional (máx. 20%)\n- Se a dita Habilidade for uma Habilidade E.G.O, aplica os seguintes efeitos no Início da primeira Moeda:\n· Se a dita Moeda for uma Moeda Positiva, cura 10 PS\n· Se a dita Moeda for uma Moeda Negativa, perde 15 PS (este efeito não pode reduzir o PS desta unidade para menos de -40)",
-            "summary": "Cada quarta Habilidade usada é aprimorada"
+            "desc": "Cada 4ª Habilidade que essa unidade usa recebe Poder Final +4 e inflige 4 de [Combustion] Ao Atingir\n- Se a dita Habilidade é uma Habilidade de Ira, cura +(Potência de [Combustion] em todos os alvos / 2)% de dano adicional (máx. 20%)\n- Se a dita Habilidade é uma Habilidade E.G.O, aplica os seguintes efeitos no Início da Moeda da primeira Moeda:\n· Se a dita Moeda é uma Moeda Positiva, cura 10 PS\n· Se a dita Moeda é uma Moeda Negativa, perde 15 PS (esse efeito não pode reduzir o PS dessa unidade abaixo de -40)",
+            "summary": "Cada 4ª Habilidade usada é melhorada"
         },
         {
             "id": 2050111,
@@ -74,32 +74,32 @@
         {
             "id": 2060111,
             "name": "Ondas",
-            "desc": "No início da fase de combate, cura PS do aliado com o menor PS pelo número da sua maior Resson.-A, exceto aqueles em Pânico."
+            "desc": "Início de Combate: Cure (a maior Resson.-A dessa unidade) de PS ao aliado com o menor PS, excluindo aliados em Pânico"
         },
         {
             "id": 2060211,
             "name": "Fitas de Restrição",
-            "desc": "O alvo da habilidade mais à esquerda no Painel é infligido com (Ressonância Absol. de Luxúria / 4) [ScarletTakeDamageUp] no próximo turno."
+            "desc": "Inflige (Resson.-A de Luxúria / 4) [ScarletTakeDamageUp] no próximo turno no alvo da Habilidade à esquerda do Painel de Combate no Fim de Ataque da Habilidade"
         },
         {
             "id": 2070111,
             "name": "Obstinação",
-            "desc": "Quando outro aliado derrotar um inimigo, recebe 1 de [Enhancement] e 1 de [Agility] no início do próximo turno. (Máx. 3)"
+            "desc": "Quando outro aliado derrotar um inimigo, recebe 1 de [Enhancement] e 1 de [Agility] no Próximo Início de Turno (Máx. 3)"
         },
         {
             "id": 2070211,
             "name": "Rugido",
-            "desc": "Após derrotar um inimigo, recebe Contagem de [Charge] igual à metade da Resson.-A de Inveja do turno.\n(Resson.-A de Inveja / 2)"
+            "desc": "Ao Matar um Inimigo, recebe +(Resson.-A de Inveja desse turno / 2) Contagem de [Charge]"
         },
         {
             "id": 2080111,
             "name": "Compulsão",
-            "desc": "Poder de Confronto +2 em confrontos cuja taxa de vitória está a favor da unidade.\nPoder de Confronto -2 em confrontos cuja taxa de vitória não está a favor da unidade."
+            "desc": "Em um Confronto:\n- Se a taxa de vitória estiver Favorável ou acima, Poder de Confronto +2\n- Se a taxa de vitória estiver Desfavorável ou abaixo, Poder de Confronto -2"
         },
         {
             "id": 2080211,
             "name": "Fitas Rosas",
-            "desc": "Ao Vencer Confronto, inflige 1 Fitas Rosas"
+            "desc": "Em Confronto Vencido, inflige 1 de [PinkRibbon_Ishmael]"
         },
         {
             "id": 2080311,
@@ -114,7 +114,7 @@
         {
             "id": 2090211,
             "name": "Centelha da Chama",
-            "desc": "Após derrotar um inimigo que tem Queimadura, cure PV igual a (Resson. Absoluta de Ira)% do PV Máximo."
+            "desc": "Após derrotar um inimigo que possui Queimadura, cure (Resson. Absoluta de Ira)% de PV"
         },
         {
             "id": 2090311,
@@ -124,7 +124,7 @@
         {
             "id": 2100111,
             "name": "Instável",
-            "desc": "Se a Moeda de uma habilidade der um lado diferente da Moeda anterior da mesma habilidade, perde 5 PS e ganha 1 Dano Aumentado nesse turno. (3 vezes por turno)"
+            "desc": "Se a Moeda acertar de um lado diferente da Moeda anterior da mesma habilidade, perde 5 PS e recebe 1 [AttackDmgUp] nesse turno. (3 vezes por turno)"
         },
         {
             "id": 2100211,
@@ -134,22 +134,22 @@
         {
             "id": 2110111,
             "name": "Perfeição Tática",
-            "desc": "Se a unidade não for atingida durante um turno, ganha 1 [AttackDmgUp] no próximo turno. (Máx. 3 acúmulos)"
+            "desc": "Recebe 1 de [AttackDmgUp] no próximo turno se esta unidade não for acertada durante um turno. Recebe 1 de [AttackDmgUp] adicional para cada turno consecutivo que esta unidade não for acertada (máx. 3)"
         },
         {
             "id": 2110211,
             "name": "Ramo da Desconfiança",
-            "desc": "No início do turno, ganha 1 [PenetrateDamageUp].\nAo Acertar com uma moeda que deu Cara, inflige 1 de [Binding] e +1 Contagem de [Burst] no próximo turno."
+            "desc": "Recebe 1 de [PenetrateDamageUp] todo turno\nDeu Cara: Inflige 1 de [Binding] e +1 Contagem de [Burst] no próximo turno"
         },
         {
             "id": 2110311,
             "name": "Esvaziamento",
-            "desc": "No início do turno, recebe 1 [ScarletDamageUp].\nRecebe +1 se estiver abaixo de 0 PS."
+            "desc": "Recebe 1 de [ScarletDamageUp] todo turno\nRecebe 1 adicional quando esta unidade tiver menos que 0 PS"
         },
         {
             "id": 2120111,
             "name": "Crise de Forma Anômala",
-            "desc": "No início do turno, se estiver abaixo de 25% de PV, cura 15 de PV e recebe 2 de Proteção.\nQuando este efeito for ativado, inflige um outro aliado e um inimigo aleatório com +2 Eficiência de Perda de PS."
+            "desc": "Início de Turno: Abaixo de 25% de PV, cure 15 de PV e recebe 2 de [Protection]\nQuando o efeito acima ativa, inflige +2 [MentalSystemResultDecrease_Typo] em 1 um outro aliado aleatório e 1 inimigo aleatório"
         },
         {
             "id": 2120211,
@@ -159,12 +159,12 @@
         {
             "id": 2120311,
             "name": "Absorção de Nutrientes",
-            "desc": "Após derrotar um inimigo que tem Ruptura, cure PV por (Resson. Absoluta de Gula)% do PV Máximo."
+            "desc": "Após derrotar um inimigo que possui [Burst], cure (Resson. Absoluta de Gula)% de PV."
         },
         {
             "id": 2030311,
             "name": "Descarga Caótica",
-            "desc": "No início da fase de combate, um aliado aleatório com [Charge] recebe +(Resson.-A de Inveja / 2) Contagem de [Charge]."
+            "desc": "Início de Combate: Um aliado aleatório que possui [Charge] recebe +(Resson.-A de Inveja / 2) Contagem de [Charge]."
         },
         {
             "id": 2020411,
@@ -174,27 +174,27 @@
         {
             "id": 2030411,
             "name": "Caldeirão da Glutonaria",
-            "desc": "No início do turno, converte 2 recursos E.G.O aleatórios que não sejam de Luxúria em 1 recurso E.G.O de Luxúria."
+            "desc": "Início de Turno: Converte 2 recursos E.G.O aleatórios que não sejam de Luxúria em 1 recurso E.G.O de Luxúria."
         },
         {
             "id": 2100311,
             "name": "Vômito de Sopa",
-            "desc": "Moedas que caíram em Coroa infligem 1 Queimadura ao atingir um inimigo."
+            "desc": "Ao Dar Coroa, inflige 1 de [Combustion] se o alvo for um inimigo"
         },
         {
             "id": 2010411,
             "name": "Viajante Perdido",
-            "desc": "No início do turno, se essa unidade não sofreu dano no último turno, recebe +4 Contagem de [Charge]\nApós atingir um inimigo com menos velocidade, inflige +1 Contagem de [Burst]. (3 vezes por turno)"
+            "desc": "Início de Turno: Se essa unidade não sofreu dano no último turno, recebe +4 Contagem de [Charge]\nApós atingir um inimigo com menos velocidade, inflige +1 Contagem de [Burst]. (3 vezes por turno)"
         },
         {
             "id": 2060311,
             "name": "Restauração de Fenômenos Entrelaçados",
-            "desc": "Ao atingir um inimigo com efeitos de status negativos, essa unidade ganha +1 Contagem de [Charge].\n(Máx. +4 por turno.)\nQuando o PV cair para 0 pela primeira vez durante a batalha, gasta toda a Contagem de [Charge] e cura em proporção à quantidade gasta. (Não pode curar acima de 25% do PV Máx.)"
+            "desc": "Ao Atingir contra um inimigo que possui efeitos nocivos, recebe +1 Contagem de [Charge] (4 vezes por turno).\nQuando o PV cai para 0, consuma toda Contagem de [Charge] e cure PV baseado nos Acúmulos consumidos (uma vez por Encontro; Máx. 25% PV)"
         },
         {
             "id": 2050411,
             "name": "Agitação Indomada",
-            "desc": "No início da fase de combate, se estiver sendo alvejado por 2 ou mais habilidades, as habilidades dessa unidade têm +1 de Poder Base; quando atingido, inflige 1 de [Combustion] no atacante. (5 vezes por turno.)"
+            "desc": "Início de Combate: Se esta unidade foi alvejada por 2 ou mais Habilidades, Habilidades desta unidade recebem +1 de Poder Base; Quando atingido, inflige 1 de [Combustion] no atacante (5 vezes por turno)"
         },
         {
             "id": 2080411,
@@ -209,22 +209,22 @@
         {
             "id": 2070311,
             "name": "Descarga Temperamental",
-            "desc": "Ao ser atingido, gasta 1 Contagem de [Charge] para curar 2.5% do PV Máx.\nCom menos de 40% de PV, recebe 1 Contagem de [Charge] antes de ativar o efeito de cura. (Pode receber até 10 Contagem de [Charge] por turno)"
+            "desc": "Ao ser atingido, consuma 1 Contagem de [Charge] para curar 2.5% do PV\nCom menos de 40% de PV, recebe 1 Contagem de [Charge] antes de ativar o efeito de cura. (Pode receber até 10 Contagem de [Charge] por turno)"
         },
         {
             "id": 2120411,
             "name": "Descarga Alternada",
-            "desc": "Ao Acertar com uma moeda que deu Cara, gasta 2 Contagem de Carga para dar +1 Contagem de Carga para o aliado que possui Carga com a menor Contagem de Carga"
+            "desc": "Ao Dar Cara, consuma 2 Contagem de [Charge] para Aplicar +1 Contagem de [Charge] no aliado de [Charge] que possui a menor Contagem de [Charge]"
         },
         {
             "id": 2010511,
             "name": "Raio de Sol Após a Chuva",
-            "desc": "No início do turno, todos os aliados curam 3 PS"
+            "desc": "Início de Turno: Todos os aliados curam 3 PS"
         },
         {
             "id": 2040311,
             "name": "Teias da Aranha",
-            "desc": "Em um Confronto Vencido, inflige 1 de [Binding] no próximo turno. (3 vezes por turno)"
+            "desc": "Em Confronto Vencido, inflige 1 de [Binding] no próximo turno. (3 vezes por turno)"
         },
         {
             "id": 2040411,
@@ -249,12 +249,12 @@
         {
             "id": 2070411,
             "name": "Dhyāna",
-            "desc": "Aumenta o PV Máx. em 15% do PV Máx. base desta Identidade ao se recuperar de um estado de Atordoamento.\nEm seguida, cura 15% do PV Máx. atual. Se estiver com menos de 30% do PV Máx. atual, cura 25%.\n(3 vezes por encontro. No Fim de um Encontro, reverte para o PV Máx. base. O valor atual de PV será ajustado para igualar a porcentagem de PV que havia no Final do Encontro.)"
+            "desc": "Aumenta o PV Máx. em 15% do PV Máx. base desta Identidade ao se recuperar de um estado de Atordoamento.\nEntão, cure 15% do PV Máx. atual. Se essa unidade tiver com menos de 30% do PV Máx. atual, cura 25% do PV Máx. atual no lugar. (3 vezes por encontro. No Fim de um Encontro, reverte para o PV Máx. base. O valor atual de PV será ajustado para igualar a porcentagem de PV que havia no Final do Encontro.)"
         },
         {
             "id": 2050511,
             "name": "Ira Aprisionada",
-            "desc": "A Habilidade mais à esquerda no Painel de Combate perde 1 Poder Base e recebe 2 Poder de Moeda\nNo início do turno, se estiver com 4- de Velocidade, recebe 1 de [HitResultUp]"
+            "desc": "Poder Base -1 e Poder de Moeda +2 a Habilidade à esquerda desta unidade no Painel de Combate\nInício de Turno: Em 4- de Velocidade, Recebe 1 de [HitResultUp]"
         },
         {
             "id": 2020511,
@@ -304,7 +304,7 @@
         {
             "id": 2030511,
             "name": "Torre de Pedra Desabada",
-            "desc": "Ganhe 2 de [Breath] e +2 Contagem de [Breath] ao derrotar um inimigo com  [Laceration] (3 vezes por turno)"
+            "desc": "Recebe 2 de [Breath] e +2 Contagem de [Breath] ao derrotar um inimigo com  [Laceration] (3 vezes por turno)"
         },
         {
             "id": 2120511,
@@ -449,7 +449,7 @@
         {
             "id": 2120811,
             "name": "Noite de Insônia",
-            "desc": "Início de Combate: a todos os inimigos, Inflige 1 [AttackDown] ou 1 [DefenseDown] em todos os inimigos (# de inimigos Atordoados, em Moral Baixo ou estado de Pânico) vezes. (2 vezes por turno)\n- - Este efeito não Acumula com Bênçãos de E.G.O com um efeito idêntico."
+            "desc": "Início de Combate: a todos os inimigos, Inflige 1 de [AttackDown] ou 1 de [DefenseDown] em todos os inimigos (nº de inimigos Atordoados, em Moral Baixo ou estado de Pânico) vezes. (2 vezes por turno)\n- Este efeito não acumula com Bênçãos de E.G.O com um efeito idêntico."
         },
         {
             "id": 2110811,
@@ -464,7 +464,7 @@
         {
             "id": 2020811,
             "name": "Respiração",
-            "desc": "No Próximo Início de Turno depois de usar esse E.G.O.: recebe 1 de [NebulizerExhale] (uma vez por turno)\n- O valor de Acúmulos persiste ao longo do Encontro\n\nInício de Combate: recebe 1 de [NebulizerExhale] toda vez que essa unidade aplicar 10 Contagem de [Breath] a aliados usando [NebulizerExhale]\n\nFim de Turno: começando com aliados com a menor porcentagem de PV, cura (Acúmulos de [NebulizerExhale])% PV para (maior Resson.) aliados (Máx. 6)\n- Se a unidade recebendo cura tem 20+ de [Breath], ativa a cura 1 vez a mais."
+            "desc": "No Próximo Início de Turno depois de usar esse E.G.O.: recebe 1 de [NebulizerExhale] (uma vez por turno)\n- O valor de Acúmulos persiste ao longo do Encontro\n\nInício de Combate: recebe 1 de [NebulizerExhale] toda vez que essa unidade aplicar 10 Contagem de [Breath] a aliados usando [NebulizerExhale]\n\nFim de Turno: começando com aliados com a menor porcentagem de PV, cura (Acúmulos de [NebulizerExhale])% PV para (maior Resson.) aliados (Máx. 6)\n- Se a unidade recebendo cura tem 20+ Potência de [Breath], ativa a cura 1 vez a mais."
         },
         {
             "id": 2090811,
@@ -553,24 +553,24 @@
         },
         {
             "id": 2021011,
-            "name": "Brasas que Não se Apagam",
-            "desc": "Este efeito ativa imediatamente após usar Habilidade E.G.O ||  || Para cada 10 [Combustion] em si, aumenta a Potência de [Combustion] aplicada em inimigos com os efeitos de Habilidade de Ataque Base e Moeda desta unidade em 1 (máx. 2, excluindo 'Queimadura Única') ||  || Quando esta unidade usa a Habilidade 'A.B.S Sintonização Máx. 【Corrosão Degradada】', esta unidade não morre no Fim do Ataque da Habilidade; em vez disso, cura 40% de HP e ganha 2 [HitDamageUp] e 1 [CrimsonDamageUp] no próximo turno (uma vez por Encontro)"
+            "name": "Brasas Inextintas",
+            "desc": "Esse efeito ativa imediatamente após usar a Hablidade E.G.O\n\nPara cada 10 de [Combustion] em si, aumenta a Potência de [Combustion] infligida em inimigos com as Habilidades Ofensivas Base e efeitos de Moeda dessa unidade por 1 (máx. 2, excluindo 'Queimadura Única')\n\nQuando essa unidade usa a Habilidade \"E.C.A Sintonização Máx. 【Corrosão Degradada】\", essa unidade não morre no Fim de Ataque da Habilidade; no lugar, ela cura 40% PV e recebe 2 de [HitDamageUp] e 1 de [CrimsonDamageUp] no próximo turno (uma vez por Encontro)"
         },
         {
             "id": 2090911,
-            "name": "A Diferença entre Mariposas e Borboletas",
-            "desc": "Se a Habilidade de Ataque Base mais à esquerda desta unidade no Painel de Combate for uma Habilidade de Ira ou de Luxúria, no Fim do Ataque, causa a um inimigo aleatório 30% do dano causado ao alvo principal com tal Habilidade como dano da Afinidade correspondente (máx. 30 de dano; em Encontros Focados, a uma Parte)\n\nSe esta unidade causou o dano máximo possível com o efeito acima, recebe 1 de Dano de Afinidade Aumentado da Afinidade correspondente no próximo turno, e o efeito acima não ativa por 2 turnos"
+            "name": "O que Diferencia Mariposas de Borboletas",
+            "desc": "Se a Habilidade Ofensiva Base mais à esquerda no Painel de Combate dessa unidade é uma Habilidade de Ira ou Luxúria, no Fim de Ataque, causa 30% do dano causado contra o alvo principal com essa Habilidade como o dano de Afinidade correspondente em um inimigo aleatório (máx. 30 de dano; em Encontros Focados, a Parte)\n\nSe essa unidade causar o máximo de dano possível com o efeito acima, recebe 1 de Dano Aumentado de Afinidade para a Afinidade correspondente no próximo turno, e impeça que o efeito acima seja ativado por 2 turnos"
         },
         {
             "id": 2010212,
             "name": "Brasas",
-            "desc": "<style=\"highlight\">Ao Usar uma Habilidade de Ira ou uma Habilidade que inflige Potência ou Contagem de [Combustion]: se a soma total de [Combustion] em todos os alvos for 6+, Poder de Confronto +1</style>\n\nEm Confronto Vencido, inflige (<style=\"highlight\">Resson. x 2</style> de Ira) de [Combustion] <style=\"highlight\">no alvo principal</style> (<style=\"highlight\">máx. 8</style> por Habilidade)",
-            "summary": "Recebe Poder de Confronto\nSe as condições forem atendidas, inflige [Combustion]"
+            "desc": "<style=\"highlight\">Ao Usar uma Habilidade de Ira ou uma Habilidade que inflige Potência de [Combustion] ou Contagem: Em 6+ da soma total de [Combustion] em todos os alvos, Poder de Confronto +1</style>\n\nEm Confronto Vencido, inflige (<style=\"highlight\">Resson de Ira x 2</style>) de [Combustion] <style=\"highlight\">no alvo principal</style> (<style=\"highlight\">máx. 8</style> por Habilidade)",
+            "summary": "Recebe Poder de Confronto\nQuando condições forem atendidas, inflige [Combustion]"
         },
         {
             "id": 2050911,
-            "name": "Gotas de Bebida na Ponta da Lâmina",
-            "desc": "[AlwaysUseEGOPassive2050911]\n\nAo Atingir com uma Habilidade Base, inflige 2 de [Laceration] no alvo (uma vez por Habilidade)\n\nEsta Identidade conta como uma Identidade que aplica [Laceration] e [Breath]\n- As Habilidades Base desta Identidade contam como Habilidades que infligem [Laceration] e [Breath]\n\n[WhenUseEGOPassive]\n\nQuando um aliado morre, recebe 1 de [AlcoholKimPersonal] no próximo turno\n- Se o aliado morto for do Pacto da Lâmina, recebe 2 de [AlcoholKimPersonal] no lugar\n\nInício de Turno: se esta unidade tiver [AlcoholKimPersonal], entra no estado [GhostKimPersonal]\n- Mentor do Pacto da Lâmina Meursault também recebe [RootSoupKimPersonal] quando o efeito acima ativa\n\nInício de Turno: se esta unidade não tiver [AlcoholKimPersonal], expiram os seguintes efeitos: [GhostKimPersonal], [GrudgePersonal] e [RootSoupKimPersonal]\n\nQuando esta unidade tem [AlcoholKimPersonal]: ao receber dano que reduziria seu PV a 0, cura PV igual a (Acúmulo de [AlcoholKimPersonal] x 25)% do PV Máximo; então, [AlcoholKimPersonal] expira (uma vez por Encontro; este efeito ativa após Passivas de Identidade com efeitos similares)\n- Se estiver Atordoado, recupera do Atordoamento (excluindo Atordoamentos forçados)",
+            "name": "Gotas de Bebida na Ponta da Espada",
+            "desc": "[AlwaysUseEGOPassive2050911]\n\nAo Atingir com uma Habilidade Base, inflige 2 de [Laceration] no alvo (uma vez por Habilidade)\n\nEssa Identidade conta como uma Identidade que aplica [Laceration] e recebe [Breath]\n- As Habilidades Base dessa Identidade contam como Habilidades que infligem [Laceration] e recebem [Breath]\n\n[WhenUseEGOPassive]\n\nQuando um aliado for derrotado, recebe 1 de [AlcoholKimPersonal] no próximo turno\n- Se o aliado derrotado está no Pacto da Lâmina, recebe 2 de [AlcoholKimPersonal] no lugar\n\nInício de Turno: Se essa unidade tiver [AlcoholKimPersonal], entra no estado de [GhostKimPersonal]\n- O Mentor do Pacto da Lâmina Meursault também recebe [RootSoupKimPersonal] quando o efeito acima ativa\n\nInício de Turno: Se essa unidade não tiver [AlcoholKimPersonal], os seguintes efeitos expiram - [GhostKimPersonal], [GrudgePersonal], e [RootSoupKimPersonal]\n\nQuando essa unidade tiver [AlcoholKimPersonal]: Quando essa unidade sofre dano que traz seu PV a 0, cura (Acúmulo de [AlcoholKimPersonal] x 25)% PV; logo, [AlcoholKimPersonal] expira (uma vez por Encontro; esse efeito ativa depois de Passivas de Identidades com efeitos similares)\n- Quando Atordoado, recupera do Atordoamento (excluindo Atordoamentos forçados)",
             "summary": "Recebe [AlcoholKimPersonal]"
         }
     ]

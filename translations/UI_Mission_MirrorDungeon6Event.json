@@ -14,11 +14,11 @@
         },
         {
             "id": "mission_ui_condition_tags_201002005",
-            "content": "Complete {0} Pacotes Temáticos relacionados a Ferrovia Refratada em uma única partida de Masmorra Espelhada"
+            "content": "Complete {0} Pacotes Temáticos relacionados à Ferrovia Refratada em uma única partida na Masmorra Espelhada"
         },
         {
             "id": "mission_ui_condition_tags_201002006",
-            "content": "Complete {0} ou mais Pacotes Temáticos com nomes de Canto em uma única partida de Masmorra Espelhada"
+            "content": "Complete {0} ou mais Pacotes Temáticos com nomes de Canto em uma única partida na Masmorra Espelhada"
         },
         {
             "id": "mission_ui_condition_tags_201003019",
@@ -70,7 +70,7 @@
         },
         {
             "id": "mission_ui_condition_tags_201004008",
-            "content": "Em uma única partida, use a função de Fusão {0} ou mais vezes e complete o andar {1} ou acima de uma Masmorra Espelhada"
+            "content": "Em uma única partida, use a função de Fusão {0} ou mais vezes e complete o andar {1} ou superior de uma Masmorra Espelhada"
         },
         {
             "id": "mission_ui_condition_tags_201004009",
@@ -78,19 +78,19 @@
         },
         {
             "id": "mission_ui_condition_tags_201005016_6",
-            "content": "Cause {0}+ de dano de Habilidade contra um inimigo com um único uso de Habilidade (dano de HP de Escudo e dano causado Ao Acertar como Dilúvio de Afundamento ou Moratória do Tempo conta; exclui dano de Palavras-chave e outras fontes)"
+            "content": "Cause {0}+ dano de Habilidade contra um inimigo com o uso de uma única Habilidade (Dano de PV de Escudo e dano causado Ao Atingir como Dilúvio de Afogamento ou Moratória de Tempo contam; exclui o dano de Palavra-chave e outras fontes)"
         },
         {
             "id": "mission_ui_condition_tags_201005017_6",
-            "content": "In a single run, Clear Mirror Dungeon at Floor {1} or higher with all Identities at Level {0}+"
+            "content": "Em uma única partida, conclua a Masmorra Espelhada no Piso {1} ou superior com todas as Identidades Nível {0}+"
         },
         {
             "id": "mission_ui_condition_tags_201005018_6",
-            "content": "Em um Encontro, faça {0} Pecadores Atingirem o alvo principal Criticamente com todas as suas Moedas restantes no primeiro turno"
+            "content": "Em um Encontro, faça que {0} Pecadores performem um Acerto Crítico no alvo principal usando todas suas Moedas restantes no primeiro turno"
         },
         {
             "id": "mission_ui_condition_tags_201005019_6",
-            "content": "In an Encounter, reach Clash Power {0} or higher"
+            "content": "Em um Encontro, alcance um Poder de Confronto de {0} ou superior"
         },
         {
             "id": "mission_ui_condition_tags_201005020",
@@ -174,11 +174,11 @@
         },
         {
             "id": "mission_ui_condition_tags_201100005",
-            "content": "Desbloquear a Bênção de E.G.O de Estágio EX \"Fortuna\" no Compêndio de Bênção de E.G.O"
+            "content": "Desbloqueie a Bênção de E.G.O de Estágio EX \"Fortuna\" no Compêndio de Bênção de E.G.O"
         },
         {
             "id": "mission_ui_condition_tags_201100006",
-            "content": "Unlock the EX-Tier E.G.O Gift \"A Certain Philosophy\" in the E.G.O Gift Compendium"
+            "content": "Desbloqueie a Bênção de E.G.O de Estágio EX \"Uma Certa Filosofia\" no Compêndio de Bênção de E.G.O"
         },
         {
             "id": "ui_condition_clear_201100001_NONE",
