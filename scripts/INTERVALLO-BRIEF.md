@@ -20,7 +20,7 @@ general Im Gyeong-eop (임경업).
   às vezes recria piadas — siga o sentido do KR com a naturalidade do EN.
 - Falas do Dante vêm entre `<` e `>` — manter os sinais.
 
-## Glossário obrigatório (CLT) — ver também scripts/GLOSSARY.md
+## Glossário obrigatório — ver também scripts/GLOSSARY.md
 
 - Sinner → Pecador(a/es); Manager → Gerente; Executive Manager → Gerente Executivo (Dante = MASCULINO)
 - Fixer → Mandatário(a); Distortion → Distorção; Abnormality → Anormalidade
@@ -32,13 +32,13 @@ general Im Gyeong-eop (임경업).
   S Corp.; artigos/concordância femininos; Ezra → manter (mulher); Han Ho-bae → manter; Bongy → manter
 - S Corp. = **Salpippyeo Agroindústrias** (precedente E512B — NÃO "Agropecuária/Agroindústria Salpippyeo")
 - 기록부 / Docugrapher → **Docúgrafo**; 추노꾼 → **Ch'unokkun** (pl. Ch'unokkuns)
-- 검계 → **Pacto da Lâmina** (padrão CLT, 314 ocorrências; NÃO "Linhagem da Lâmina");
+- 검계 → **Pacto da Lâmina** (padrão consolidado; NÃO "Linhagem da Lâmina");
   우두머리 como substantivo ("líder do Pacto") → **líder**
 - 변곡점 → **Ponto de Inflexão** (termo técnico da LCD)
 - 경험 통조림 → **Experiências Enlatadas**; 경험 반죽 → **Massa de Experiência**
 - 시지프 백화점 → **Grand Magasin Sisyphe** (nome próprio, manter como o EN)
 - 과거 (exame estatal Joseon) → **Exame Real**; 절도사 → **Comissária Militar**
-- 사부 E 우두 (tratamento da Aeng-du para Kim) → **Mentor** (padrão CLT já publicado nos
+- 사부 E 우두 (tratamento da Aeng-du para Kim) → **Mentor** (padrão consolidado nos
   announcers/StageNodes; não usar "Chefe")
 - 거미집 태우기 작전 / Operation Spider Pyre → **Operação Pira das Aranhas**
 - Moses, Ezra, Outis, Im Gyeong-eop, Aeng-du → todas MULHERES (senhora/senhorita)
@@ -46,10 +46,10 @@ general Im Gyeong-eop (임경업).
 - Gesellschaft, WARP (trem WARP), Arayashiki, Sora, Ren, Catherine → manter
 - Clockhead (apelido do Dante) → "cabeça de relógio" / "relógio" (minúsculo, como insulto/apelido)
 - fathoms (of ego) → profundezas (do ego); Aspect (o que Dante busca) → **Aspecto**
-- Star (a Estrela que Dante segue) → Estrela; House of Spiders → O Lar das Aranhas (CLT v6.51.0)
+- Star (a Estrela que Dante segue) → Estrela; House of Spiders → O Lar das Aranhas (base comunitária (06/2026))
 - Mirror World → Mundo Espelhado; K Corp./N Corp./L Corp. → manter
 
-## Registro de fala (consistência com a base CLT / Canto IX já traduzido)
+## Registro de fala (consistência com a base comunitária / Canto IX já traduzido)
 
 - **Kim do Chapéu de Bambu**: tagarela, brincalhão, preguiçoso assumido, mas poeta eloquente —
   coloquial fluido com floreios líricos ocasionais. Versão "뉴김삿갓" (Mundo Espelhado) é a que fala.
@@ -57,9 +57,9 @@ general Im Gyeong-eop (임경업).
 - **Im Gyeong-eop**: general clássico — fala arcaica/solene (sem chegar ao "vós" do Don Quixote).
 - **Faust**: formalíssima, refere-se a si mesma em 3ª pessoa ("Faust"); jargão técnico.
 - **Dante**: coloquial, inseguro; narração em 1ª pessoa nos trechos sem teller.
-- **Don Quixote**: arcaico com "vós/vosso" (padrão CLT); **Outis**: polida ("senhorita Faust");
+- **Don Quixote**: arcaico com "vós/vosso" (padrão consolidado); **Outis**: polida ("senhorita Faust");
   **Rodya**: descontraída; **Sinclair**: educado e nervoso; **Meursault**: seco e literal.
-- Tratamentos: personagens usam "senhor/senhora/senhorita + nome" como na base CLT.
+- Tratamentos: personagens usam "senhor/senhora/senhorita + nome" como na base comunitária.
 - Pontuação: reticências "…" (caractere único); travessão "—" como no EN.
 
 ## Qualidade
