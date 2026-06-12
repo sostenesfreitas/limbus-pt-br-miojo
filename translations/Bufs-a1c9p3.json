@@ -135,7 +135,7 @@
         {
             "id": "VengeanceBookSpider",
             "name": " O Livro da Vingança",
-            "desc": "Quando o Pai Tutor do Médio - Matthias ou a Aprendiz do Médio - Kira usa uma Habilidade para acertar um alvo que tem este efeito, eles restauram 7 SP (1 vez por Habilidade)",
+            "desc": "Quando o Padrinho do Meio - Matthias ou a Aprendiz do Meio - Kira usa uma Habilidade para acertar um alvo que tem este efeito, eles restauram 7 SP (1 vez por Habilidade)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Malditos... Vocês vão ser executados aqui e agora.\""
@@ -171,11 +171,11 @@
         },
         {
             "id": "ReinforcedTattooSpider",
-            "name": "O Meio - Tatuagens da Vingança [<s>Grande Irmão</s>]",
+            "name": "O Meio - Tatuagens da Vingança [<s>Irmão Mais Velho</s>]",
             "desc": "- Acúmulo Máx.: 2\n- Expira no Fim de Turno\n- Causa +10% de dano Contundente e de Inveja",
             "summary": "",
             "undefined": "-",
-            "flavor": "Um Grande Irmão cujo prestígio se garantiu pela lealdade; um tolo que abandonou exatamente isso por uma espada."
+            "flavor": "Um Irmão Mais Velho cujo prestígio se garantiu pela lealdade; um tolo que abandonou exatamente isso por uma espada."
         },
         {
             "id": "ReinforcedTattooSpiderDaughter",
@@ -420,7 +420,7 @@
         {
             "id": "TeachersPrey",
             "name": "Alvo da Caça",
-            "desc": "Fixa a Velocidade desta unidade em 1; todas as Habilidades de Ataque do \"Pai Tutor do Polegar - Valencina\" miram esta unidade",
+            "desc": "Fixa a Velocidade desta unidade em 1; todas as Habilidades de Ataque do \"Padrinho do Polegar - Valencina\" miram esta unidade",
             "summary": "",
             "undefined": "-",
             "flavor": "A presa marcada pela Famiglia Bognatelli será caçada, sem exceção."
@@ -609,14 +609,14 @@
         {
             "id": "RyoshuParrySojiTwo",
             "name": "Memória Inesquecível",
-            "desc": "- Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Não pode Retirar-se",
+            "desc": "- Causa +20% de dano contra e recebe +20% de dano da Padrinha do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Padrinha do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Não pode Retirar-se",
             "summary": "Efeito Exclusivo de Ryōshū",
             "undefined": "-"
         },
         {
             "id": "RyoshuParrySojiThree",
             "name": "Tempo Que Não Se Rompe",
-            "desc": "- Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se (incluindo aliados)",
+            "desc": "- Causa +20% de dano contra e recebe +20% de dano da Padrinha do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Padrinha do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se (incluindo aliados)",
             "summary": "Efeito Exclusivo de Ryōshū",
             "undefined": "-"
         },
@@ -967,7 +967,7 @@
         {
             "id": "RyoshuParrySojiWe",
             "name": "Fio Vermelho",
-            "desc": "- Slot de Habilidade +3 || - Causa +50% de dano à Mãe Tutora do Mindinho || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
+            "desc": "- Slot de Habilidade +3 || - Causa +50% de dano à Padrinha do Mindinho || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
             "summary": "",
             "undefined": "-",
             "flavor": "'Se este único fio é a única coisa que conecta você e eu, vou me agarrar a ele com todo o meu ser.'"

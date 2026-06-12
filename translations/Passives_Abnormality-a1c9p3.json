@@ -30,7 +30,7 @@
         {
             "id": 133105,
             "name": "Arte Satisfatória",
-            "desc": "Quando [MineTheRings] expira, as seguintes unidades restauram 30 SP e ganham 2 [AttackUp] e 2 [DefenseUp] no próximo turno: || - Mãe Tutora do Anelar - Callisto || - Aprendiz do Anelar - Albina || - Teatro do Corpus[TabExplain]"
+            "desc": "Quando [MineTheRings] expira, as seguintes unidades restauram 30 SP e ganham 2 [AttackUp] e 2 [DefenseUp] no próximo turno: || - Padrinha do Anelar - Callisto || - Aprendiz do Anelar - Albina || - Teatro do Corpus[TabExplain]"
         },
         {
             "id": 133106,
@@ -55,12 +55,12 @@
         {
             "id": 133202,
             "name": "Ingredient Harvest",
-            "desc": "Se o Teatro do Corpus é destruído pela Mãe Tutora do Anelar, a unidade vinculada fica indisponível para o Encontro"
+            "desc": "Se o Teatro do Corpus é destruído pela Padrinha do Anelar, a unidade vinculada fica indisponível para o Encontro"
         },
         {
             "id": 133203,
             "name": "Fuga da Arte",
-            "desc": "Se o Teatro do Corpus é destruído por unidades que não sejam a Mãe Tutora do Anelar, ativa os seguintes efeitos: || - A unidade vinculada retorna à batalha no próximo turno; se a unidade está com menos de 10 SP, restaura SP a 10 || - A Mãe Tutora do Anelar e a Aprendiz do Anelar perdem 10 SP || - Ganha 2 de Recurso E.G.O para todas as Afinidades"
+            "desc": "Se o Teatro do Corpus é destruído por unidades que não sejam a Padrinha do Anelar, ativa os seguintes efeitos: || - A unidade vinculada retorna à batalha no próximo turno; se a unidade está com menos de 10 SP, restaura SP a 10 || - A Padrinha do Anelar e a Aprendiz do Anelar perdem 10 SP || - Ganha 2 de Recurso E.G.O para todas as Afinidades"
         },
         {
             "id": 133204,
@@ -91,11 +91,11 @@
         {
             "id": 133606,
             "name": "Irei me provar através de meu trabalho, Maestro.",
-            "desc": "Com menos de 20 SP quando a Mãe Tutora do Anelar entra no Encontro, restaura SP a 20"
+            "desc": "Com menos de 20 SP quando a Padrinha do Anelar entra no Encontro, restaura SP a 20"
         },
         {
             "id": 132701,
-            "name": "Tatuagens da Vingança [<s>Grande Irmão</s>]",
+            "name": "Tatuagens da Vingança [<s>Irmão Mais Velho</s>]",
             "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration] e [Burst] (arredondado para baixo) || -50% da quantidade de Limiar de Atordoamento elevado (arredondado para baixo)",
             "summary": "",
             "undefined": "-"
@@ -149,7 +149,7 @@
             "desc": "Se esta unidade acertou com mais de 2 Habilidades, ganha 1 [ReinforcedTattooSpiderDaughter] no próximo turno para cada Habilidade excedente que acertou",
             "summary": "",
             "undefined": "-",
-            "flavor": "'Será que as Irmãs e Irmãos maiores do Médio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
+            "flavor": "'Será que as Irmãs e Irmãos maiores do Meio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
         },
         {
             "id": 132803,
@@ -175,7 +175,7 @@
         {
             "id": 134202,
             "name": "Woaah... Isso parece super perigoso!",
-            "desc": "Se a Mãe Tutora do Médio tem [MiddleFatherSwordFour], não entra no estado [HeatingWireOffSpider] || || Mira a unidade com [MosesRedBreathCharge]",
+            "desc": "Se a Padrinha do Meio tem [MiddleFatherSwordFour], não entra no estado [HeatingWireOffSpider] || || Mira a unidade com [MosesRedBreathCharge]",
             "summary": "",
             "undefined": "-",
             "flavor": "A combinação de seus instintos animalescos e da experiência de combate grita-lhe em uníssono: || Seja lá o que aquela coisa vermelha for, se ela não impedir aquele ataque, ele <b>vai</b> matar."
@@ -198,7 +198,7 @@
         {
             "id": 132603,
             "name": "Aflição Desesperada",
-            "desc": "Depois que o Pai Tutor do Polegar entra em campo, desativa a Passiva \"Marca do Caçador\" e ganha os seguintes efeitos no lugar: || - Com menos de 30 SP, restaura até 30 SP || - Início do Turno: Ganha 3 [SupportProtect] || <color=#ff6000><mark=#ff000040><b><u>- Pode Embater independentemente da Velocidade || - Prioriza Embater contra Vergílio</u></b></mark></color> || - Quando o Pai Tutor do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
+            "desc": "Depois que o Padrinho do Polegar entra em campo, desativa a Passiva \"Marca do Caçador\" e ganha os seguintes efeitos no lugar: || - Com menos de 30 SP, restaura até 30 SP || - Início do Turno: Ganha 3 [SupportProtect] || <color=#ff6000><mark=#ff000040><b><u>- Pode Embater independentemente da Velocidade || - Prioriza Embater contra Vergílio</u></b></mark></color> || - Quando o Padrinho do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
             "summary": "",
             "undefined": "",
             "flavor": "'Agora mesmo, talvez consiga matar ela.'\n\nContemplando a sua mestra dormir, Lucio teve esse mesmo pensamento mais outra vez.\nA razão pela qual ele não agiu de acordo com esses pensamentos foi por um medo profundo e a gratidão que sentia por ser resgatado dos becos.\nMas o ressentimento que cresceu dentro de si era profundo. Mesmo que seguisse as ordens com vontade, Lucio fez um voto de silêncio.\n'Depois que essa batalha acabar, irei matá-la. Irei retirar seu olho e então perfurar e dilacerar ela, de novo e de novo, até que ela não possa mais se mover.'\nPela primeira vez, uma faísca de vida começou a brilhar diante os olhos do garoto coberto de machucados."
@@ -281,7 +281,7 @@
             "id": 134501,
             "name": "Cada parte de meu corpo é de Tibia.",
             "desc": "Recebe -30% de dano de HP e SP de [Combustion], [Burst] e [Sinking]; -30% no Limiar de Atordoamento elevado por [Vibration] || Recebe -50% de dano de [Laceration] || || Início do Turno: Se esta unidade está Atordoada, recupera-se do Atordoamento. Em seguida, ganha 2 [CrimsonTakeDamageUp] (1 vez por Encontro) || || Fim do Turno: Ganha 1 [DefenseDown] no próximo turno para cada 4 [Combustion] em si mesma (máx. 15)",
-            "flavor": "Em breve, a obra-prima será concluída — a raison d'être da Casa das Aranhas. || Os Ramos de Ouro são... objet interessantes, com certeza, mas o fato é que não são essenciais à perfeição da obra-prima. || Duvido que fosse realmente necessário apoderar-se deles e arriscar fazer da Limbus Company uma inimiga... embora eu admita que esses passos de dança desleixados, no fim, se juntaram para formar um final bastante aceitável. || De toda forma, esta série de circunstâncias em que nos encontramos era o desejo de Rien — ou, mais precisamente, o prazer do dito deus em quem ele deposita sua fé. || Há de se perguntar, contudo... É bênção ou maldição ser tão irresistivelmente <i>amado</i> por tal coisa chamada \"deus\"? Fuhuhu..."
+            "flavor": "Em breve, a obra-prima será concluída — a raison d'être do Lar das Aranhas. || Os Ramos de Ouro são... objet interessantes, com certeza, mas o fato é que não são essenciais à perfeição da obra-prima. || Duvido que fosse realmente necessário apoderar-se deles e arriscar fazer da Limbus Company uma inimiga... embora eu admita que esses passos de dança desleixados, no fim, se juntaram para formar um final bastante aceitável. || De toda forma, esta série de circunstâncias em que nos encontramos era o desejo de Rien — ou, mais precisamente, o prazer do dito deus em quem ele deposita sua fé. || Há de se perguntar, contudo... É bênção ou maldição ser tão irresistivelmente <i>amado</i> por tal coisa chamada \"deus\"? Fuhuhu..."
         },
         {
             "id": 134502,

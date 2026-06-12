@@ -28,7 +28,7 @@
         {
             "id": 141801,
             "name": "Desperate Struggle",
-            "desc": "- Início do Turno: Ganha 3 [SupportProtect] || - Quando o Pai Tutor do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
+            "desc": "- Início do Turno: Ganha 3 [SupportProtect] || - Quando o Padrinho do Polegar vence um Embate e usa um Ataque contra o alvo, segue com \"Colpi Sottani\" como Ataque Sem Oposição contra o mesmo alvo (2 vezes por turno)",
             "summary": "",
             "undefined": "",
             "flavor": "'Talvez eu possa matá-la agora. Talvez esta seja minha chance.' || || Mais uma vez, a mesma contemplação toma conta de Lúcio enquanto ele se ergue sobre sua mestra, que dorme profundamente. || Mas esse impulso permanece um pensamento não acionado, pois ele tinha tanto medo nascido da experiência quanto gratidão por sua libertação dos Becos. || Ainda assim, seu ressentimento corre fundo demais. Lúcio faz uma promessa consigo mesmo, mesmo enquanto jura fidelidade absoluta sem traço de engano: || 'Quando esta batalha estiver atrás de nós, eu a matarei.'"
@@ -134,7 +134,7 @@
         {
             "id": 138801,
             "name": "Am I doing this right, Papa?!",
-            "desc": "Inicia o Encontro com [HeatingWireOffSpider] || || Início do Turno: Com 3+ [GotACompliment], ganha [HeatingWireOnSpider] e também aplica [Combustion] com Habilidades que aplicam [Laceration] || - Fim do Turno: Com menos de 3 [GotACompliment], converte [HeatingWireOnSpider] desta unidade para [HeatingWireOffSpider] || || Se \"O Pai Tutor do Médio - Matthias\" tem [MiddleFatherSwordFour], esta unidade não entra no estado [HeatingWireOffSpider]",
+            "desc": "Inicia o Encontro com [HeatingWireOffSpider] || || Início do Turno: Com 3+ [GotACompliment], ganha [HeatingWireOnSpider] e também aplica [Combustion] com Habilidades que aplicam [Laceration] || - Fim do Turno: Com menos de 3 [GotACompliment], converte [HeatingWireOnSpider] desta unidade para [HeatingWireOffSpider] || || Se \"O Padrinho do Meio - Matthias\" tem [MiddleFatherSwordFour], esta unidade não entra no estado [HeatingWireOffSpider]",
             "flavor": "\"Eu gosto do papai porque ele sempre me elogia e me compra gibis.\""
         },
         {
@@ -143,7 +143,7 @@
             "desc": "Se esta unidade acertou com mais de 2 Habilidades, ganha 1 [ReinforcedTattooSpiderDaughter] no próximo turno para cada Habilidade excedente que acertou",
             "summary": "",
             "undefined": "-",
-            "flavor": "'Será que as Irmãs e Irmãos maiores do Médio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
+            "flavor": "'Será que as Irmãs e Irmãos maiores do Meio vão me aceitar como família deles um dia, pra eu poder continuar morando com eles?'"
         },
         {
             "id": 138803,
@@ -231,7 +231,7 @@
         {
             "id": 141706,
             "name": "Com Esta Obra, Provarei o Meu Valor Diante do Maestro",
-            "desc": "Com menos de 20 SP quando a Mãe Tutora do Anelar entra no Encontro, restaura SP a 20"
+            "desc": "Com menos de 20 SP quando a Padrinha do Anelar entra no Encontro, restaura SP a 20"
         },
         {
             "id": 138302,

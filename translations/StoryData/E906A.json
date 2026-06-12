@@ -2,7 +2,7 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Corredor do Pai-Babá do Anel",
+            "place": "Corredor do Padrinho do Anelar",
             "model": "파우스트",
             "content": "Com isto, exterminamos todos os membros do Anelar que invadiram."
         },
@@ -38,7 +38,7 @@
         {
             "id": 7,
             "model": "앨런",
-            "content": "Refere-se àquela sala onde havia uma porção de brinquedos expostos, como num supermercado. Aquela que a vossa empresa chamava de… Corredor do Pai do Dedo Médio."
+            "content": "Refere-se àquela sala onde havia uma porção de brinquedos expostos, como num supermercado. Aquela que a vossa empresa chamava de… Corredor do Pai do Meio."
         },
         {
             "id": 8,
@@ -95,7 +95,7 @@
         },
         {
             "id": 19,
-            "content": "Nós nos deslocamos para o Corredor do Dedo Médio."
+            "content": "Nós nos deslocamos para o Corredor do Meio."
         }
     ]
 }

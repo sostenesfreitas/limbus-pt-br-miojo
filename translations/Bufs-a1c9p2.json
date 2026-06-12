@@ -265,21 +265,21 @@
         {
             "id": "RyoshuParrySoji",
             "name": "Memórias e Lembranças Distorcidas e Entrelaçadas",
-            "desc": "- Slot de Habilidade +1 || - Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
+            "desc": "- Slot de Habilidade +1 || - Causa +20% de dano contra e recebe +20% de dano da Padrinha do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Padrinha do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
             "summary": "If there is a surviving ally, HP does not drop below 1",
             "undefined": "-"
         },
         {
             "id": "RyoshuStartA1C9P2",
             "name": "Mutilated Memory",
-            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos da Casa das Aranhas || - Ao ser Atordoada, recupera-se imediatamente do Atordoamento no início do próximo turno e ganha 1 Reforço de Poder de Ataque (1 vez por Encontro)",
+            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos do Lar das Aranhas || - Ao ser Atordoada, recupera-se imediatamente do Atordoamento no início do próximo turno e ganha 1 Reforço de Poder de Ataque (1 vez por Encontro)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Ryoshu_IndexFightBuff",
             "name": "Mutilated Memory and Recollection",
-            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos da Casa das Aranhas || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; e ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
+            "desc": "- Slot de Habilidade +1 || - Causa +10% de dano contra inimigos do Lar das Aranhas || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; e ganha 1 Reforço de Poder de Ataque no próximo turno (1 vez por turno) || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
             "summary": "Ryōshū Exclusive Effect",
             "undefined": "-"
         },

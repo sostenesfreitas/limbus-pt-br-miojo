@@ -67,7 +67,7 @@
         {
             "id": 40000901,
             "name": "O Arpão Amarelo (nomeado por: Ezra)",
-            "desc": "Início do Encontro: Ganha [YellowHarpoon] || || Início do Turno: Se esta unidade tem 0+ SP e o Pai Tutor do Médio tem 2 [ReinforcedTattooSpider], ganha [YellowHarpoonSin] || || Com menos de 0 SP, perde [YellowHarpoonSin]",
+            "desc": "Início do Encontro: Ganha [YellowHarpoon] || || Início do Turno: Se esta unidade tem 0+ SP e o Padrinho do Meio tem 2 [ReinforcedTattooSpider], ganha [YellowHarpoonSin] || || Com menos de 0 SP, perde [YellowHarpoonSin]",
             "flavor": "<color=#fde55d>\"Tá bom, escuta aqui. Escuta aqui, Beê! || Você é boa com arpões, né? || Você usa um arpão especial super maneiro, né? || E você tá indo atrás da Cor Amarela, né? || Tchanã! Aí está! || || <b>O Arpão Amarelo</b>!!!\"</color>"
         },
         {
@@ -89,7 +89,7 @@
         {
             "id": 40001002,
             "name": "Ponto Carmesim",
-            "desc": "Se o Pai Tutor do Médio tem Lævateinn, esta unidade ganha [MosesSin] e usa 'Inspira Fundo o Sopro Vermelho' a cada turno || || Se esta unidade tem [MosesRedBreathCharge], torna-se imune a Pânico || || <color=#ff6000><mark color=#ff000040><b><u>Fim do Turno: Em 3 [MosesRedBreathCharge], usa uma Habilidade poderosa</color></mark></b></u>",
+            "desc": "Se o Padrinho do Meio tem Lævateinn, esta unidade ganha [MosesSin] e usa 'Inspira Fundo o Sopro Vermelho' a cada turno || || Se esta unidade tem [MosesRedBreathCharge], torna-se imune a Pânico || || <color=#ff6000><mark color=#ff000040><b><u>Fim do Turno: Em 3 [MosesRedBreathCharge], usa uma Habilidade poderosa</color></mark></b></u>",
             "flavor": "Concentrar em um único ponto tudo o que constitui a força física e empilhar as camadas em um pilar cilíndrico — depois expelir tudo em direção a um outro único ponto."
         },
         {
@@ -141,7 +141,7 @@
         {
             "id": 40001205,
             "name": "Shin (心) - O Olhar Vermelho",
-            "desc": "Quando 'O Pai Tutor do Polegar - Valencina' tem [ObsessionAndGreed], esta unidade ganha [VergiliusSin] no próximo turno",
+            "desc": "Quando 'O Padrinho do Polegar - Valencina' tem [ObsessionAndGreed], esta unidade ganha [VergiliusSin] no próximo turno",
             "summary": ""
         },
         {
@@ -217,7 +217,7 @@
             "id": 40001501,
             "name": "Vagando por um Sonho, o Eu em Parte Alguma [無我夢中]",
             "desc": "Início do Turno: Ganha [CutbondRyoshu] igual à contagem de turnos atual\nGanha 1 [CutbondRyoshu] a cada uso de Moeda desta unidade",
-            "flavor": "'Devo fazer parecer que Araya já está em segurança fora da Casa das Aranhas.' || || 'Vou encenar isso erguendo esta lâmina contra os Pais Tutores — isso há de vender a história de que estou tentando impedi-los de irem atrás de Araya.'"
+            "flavor": "'Devo fazer parecer que Araya já está em segurança fora do Lar das Aranhas.' || || 'Vou encenar isso erguendo esta lâmina contra os Pais Tutores — isso há de vender a história de que estou tentando impedi-los de irem atrás de Araya.'"
         },
         {
             "id": 40001502,
