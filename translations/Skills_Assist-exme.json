@@ -1,0 +1,474 @@
+{
+  "dataList": [
+    {
+      "id": 40003801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Técnica de Corte",
+          "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Com 3+ de [Agility], Poder Base +2\n[WhenUse] Recebe +2 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 3 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Técnica de Estocada",
+          "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Com 3+ de [Agility], Poder Base +2\n[WhenUse] Recebe +2 de Contagem de [Breath]\n[WinDuel] Recebe +2 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Recebe 2 de [Agility] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chama Cerúlea Cintilante",
+          "desc": "Causa +0,5% de dano para cada 1% de HP faltando em si (máx. 25%)\nCausa +25% de dano em Acerto Crítico para cada 1 de [Agility] em si (máx. 150%)\n[WhenUse] Com 6+ de ([Breath] em si + [Laceration] no alvo), Poder de Moeda +1 (máx. 2)\n[WhenUse] Com 5+ de [WindBlade], converte em [SuperCoin]\n[WinDuel] Recebe 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe +3 de Contagem de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Recebe 1 de [WindBlade]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 2 de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Recebe 1 de [WindBlade]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Recebe 1 de [WindBlade]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acerto de Contas - Chama Cerúlea Cintilante",
+          "desc": "[CantDuel]\nEsta Habilidade não ativa Habilidades de Defesa\nCausa +0,5% de dano para cada 1% de HP faltando em si (máx. 25%)\nCausa +20% de dano em Acerto Crítico para cada 1 de [Agility] em si (máx. 100%)\n[EndSkill] Consome todo o [WindBlade] em si",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Com 5+ de [Agility], Reusa esta Moeda (uma vez por Habilidade)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quebrar os Ossos",
+          "desc": "[CantDuel]\nEsta Habilidade não ativa Habilidades de Defesa\nCausa +0,5% de dano para cada 1% de HP faltando em si (máx. 25%)\nCausa +10% de dano em Acerto Crítico para cada 1 de [Agility] em si (máx. 50%)\n[WhenUse] Poder Base +1 para cada 4 de ([Breath] em si + [Laceration] no alvo) (máx. 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 3 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vou Iluminar o Caminho à Frente",
+          "desc": "[CanDuelGuard]\n[StartBattle] Recebe 1 de [SupportProtect]\n[WhenUse] Recebe 5 de [Breath]\n[WinDuel] Recebe +2 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leitura do Tabuleiro",
+          "desc": "[CanDuelGuard]\nHabilidade Exclusiva de [SupportProtect]\n[WhenUse] Recebe 5 de [Breath]\n[WhenUse] Com mais de 25 de [Breath], consome 5 de [Breath] para receber 3 de [WindBlade]\n[WinDuel] Recebe +2 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Saque da Espada",
+          "desc": "[WhenUse] Com 5+ de [Breath], Poder de Moeda +1\n[WhenUse] Recebe +2 de Contagem de [Breath]\n[WinDuel] Recebe 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 3 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Técnica de Estocada",
+          "desc": "[WhenUse] Com 7+ de [Breath], Poder de Moeda +1\n[WhenUse] Recebe +3 de Contagem de [Breath]\n[WinDuel] Recebe 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 4 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Causa +20% de dano em Acerto Crítico"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Causa +40% de dano em Acerto Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Morte ao Senhor",
+          "desc": "[DuelCounter]\n[StartBattle] Recebe 2 de [SlashDamageUp] neste turno e no próximo turno\n[WhenUse] Com 8+ de [Breath], Poder de Moeda +1\n[WhenUse] Recebe +3 de Contagem de [Breath]\n[WinDuel] Recebe 4 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe +2 de Contagem de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Causa +80% de dano em Acerto Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entregar a Carne",
+          "desc": "Mira o Slot de Habilidade com o maior Poder máximo\n[WhenUse] Até esta Habilidade terminar:\n- Sofre -2% de dano de Ataques para cada 1 de [Breath] em si (mín. -80%)\n- Poder de Embate -1 para cada 1 de [Breath] em si (mín. -30)\n- Não pode ser Atordoado por sofrer dano\n[WinDuel] Recebe 5 de [Breath]\n[DefeatDuel] Usa \"Quebrar os Ossos\" após sofrer o ataque\n[EndBattle] Não pode usar \"Entregar a Carne\" até o próximo turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Causa +150% de dano em Acerto Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown] no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [DefenseDown] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quebrar os Ossos",
+          "desc": "[WhenUse] Com 10+ de [Breath], Poder de Moeda +1\n[WhenUse] Causa +40% de dano para cada Peso de Atq excedente além do nº de alvos reais (em Encontros Focados, as Partes)\n[WhenUse] Recebe +4 de Contagem de [Breath]\n[EndSkill] Consome todo o [Breath] em si",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Poder de Moeda +2 para a Moeda final (uma vez por Moeda)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Poder de Moeda +2 para a Moeda final (uma vez por Moeda)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Poder de Moeda +2 para a Moeda final (uma vez por Moeda)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Laceration] e +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ateliê YuRia - Modo de Ataque Total, Mk. 17!",
+          "desc": "Causa +50% de dano para cada tipo de efeito negativo no alvo (máx. 100%)\n[WhenUse] Se o alvo tiver 6+ de [Vibration], Poder Base +3",
+          "flavor": "Machado especial feito à mão, exclusivo do Golden Retriever.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa o [Laceration] do alvo uma vez. O alvo perde 1 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa [VibrationExplosion]; depois, reduz a Contagem de [Vibration] do alvo em 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Te Dou Cobertura! Fica Atrás de Mim!",
+          "desc": "[CanDuelGuard]\nHabilidade Exclusiva de [SupportProtect]\n[WinDuel] Cura 4 de SP de todos os aliados (incluindo esta unidade)\n- Em vez disso, cura 8 de SP para Unidades da LCD",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

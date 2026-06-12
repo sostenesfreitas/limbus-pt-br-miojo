@@ -317,73 +317,73 @@
         },
         {
             "id": "LvUpHohenheimBigBird_Over",
-            "name": "E.G.O Attunement Overload",
+            "name": "Excesso de Sintonização de E.G.O",
             "desc": "- Nível de Ataque Base +15 || - Nível de Defesa Base +15 || - Fim do Turno: Aumenta a Carga de Lâmpada para 20; perde 2 HP e 1 SP para cada Carga ganha (este efeito não reduz o HP desta unidade abaixo de 1)",
             "summary": "",
             "undefined": "-",
-            "flavor": "Overdrawing the power of the Extracted E.G.O."
+            "flavor": "Está extraindo além do limite o poder do E.G.O Extraído."
         },
         {
             "id": "HohenheimBigBird_LowMorale",
-            "name": "Wave of Somnolence",
-            "desc": "- Low Morale\n- Gain 1 fewer Lamp from Skills",
+            "name": "Onda de Sonolência",
+            "desc": "- Moral Baixo\n- Ganha 1 Lamparina a menos de Habilidades",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "HohenheimBigBird_Panic",
-            "name": "Wave of Somnolence",
-            "desc": "- Panic\n- Does not act for this turn",
+            "name": "Onda de Sonolência",
+            "desc": "- Pânico\n- Não age durante esse turno",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "LvUpFireFly",
             "name": "Sintonização de E.G.O Aumentada",
-            "desc": "- Base Offense Level +10\n- Base Defense Level +10",
+            "desc": "- Nível Ofensivo Base +10\n- Nível Defensivo Base +10",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "LvUpFireFly_Over",
-            "name": "E.G.O Attunement Overload",
-            "desc": "- Base Offense Level +10\n- Base Defense Level +10\n- Turn End: Gain 4 Burn and lose 5 SP",
+            "name": "Excesso de Sintonização de E.G.O",
+            "desc": "- Nível Ofensivo Base +10\n- Nível Defensivo Base +10\n- Fim do Turno: Ganha 4 de Queimadura e perde 5 SP",
             "summary": "",
             "undefined": "-",
-            "flavor": "Overdrawing the power of the Extracted E.G.O."
+            "flavor": "Está extraindo além do limite o poder do E.G.O Extraído."
         },
         {
             "id": "LCEFireFly_LowMorale",
-            "name": "Degraded Corrosion",
-            "desc": "- Low Morale\n- Turn Start: Gain 1 Fragile",
+            "name": "Corrosão Degradada",
+            "desc": "- Moral Baixo\n- Início de Turno: Recebe 1 Frágil",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "LCEFireFly_Panic",
-            "name": "Degraded Corrosion",
-            "desc": "- Panic\n- Turn Start: Gain 1 Fragile and 5 Burn",
+            "name": "Corrosão Degradada",
+            "desc": "- Pânico\n- Início do Turno: Ganha 1 de Frágil e 5 de Queimadura",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Cubism_LowMorale",
-            "name": "Outmoded Art",
-            "desc": "- Low Morale\n- Turn Start: Gain 1 Offense Level Up",
+            "name": "Arte Ultrapassada",
+            "desc": "- Moral Baixo\n- Início do Turno: Ganha 1 de Nível Ofensivo Aumentado",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Cubism_Panic",
-            "name": "Outmoded Art",
-            "desc": "- Panic\n- Turn Start: Gain 2 Offense Level Up",
+            "name": "Arte Ultrapassada",
+            "desc": "- Pânico\n- Início do Turno: Ganha 2 de Nível Ofensivo Aumentado",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "FutureEyeOn",
             "name": "Olho da Precognição",
-            "desc": "- Max Stack: 30\n- Clash Power +2\n- Turn Start: Gain 10 Stack\n- Turn Start: Heal (Stack / 4) SP",
+            "desc": "- Acúmulo Máx.: 30\n- Poder de Embate +2\n- Início do Turno: Ganha 10 de Acúmulo\n- Início do Turno: Cura (Acúmulo / 4) SP",
             "summary": "",
             "undefined": "-",
             "flavor": "\"O olho não possui algum poder sobrenatural que mostre ao seu usuário o futuro destinado. É mais como um dispositivo de computação que analisa tudo o que vê e provê o cenário mais provável no próximo instante.\""
@@ -391,17 +391,17 @@
         {
             "id": "FutureEyeOff",
             "name": "Olho da Precognição - Superaquecimento",
-            "desc": "- Max Stack: 30\n- Attack Skills deal -20% damage\n- Convert all Coins on Skills that spend Acceleration Round to Unbreakable Coins\n- Turn Start: Gain 10 Stack\n- At 30 Stack, convert into \"Eye of Precognition\"",
+            "desc": "- Acúmulo Máx.: 30\n- Habilidades de Ataque causam -20% de dano\n- Converte todas as Moedas de Habilidades que gastam Balas de Aceleração em Moedas Inquebráveis\n- Início do Turno: Ganha 10 de Acúmulo\n- Com 30 de Acúmulo, converte-se em \"Olho da Precognição\"",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "LookingFuture",
             "name": "Futuro Acelerado",
-            "desc": "- Max Stack: 10\n- Clash Power +1 for every Stack\n- Coin Power +1 for every 5 Stack\n- Expires at Skill End",
+            "desc": "- Acúmulo Máx.: 10\n- Poder de Embate +1 para cada Acúmulo\n- Poder de Moeda +1 para cada 5 de Acúmulo\n- Expira ao Fim da Habilidade",
             "summary": "",
             "undefined": "-",
-            "flavor": "The Palermitan Style is known to accelerate the longer a duel lasts."
+            "flavor": "O Estilo Palermitano é conhecido por acelerar quanto mais longo for o duelo."
         },
         {
             "id": "ObsessionAndGreed",
@@ -413,7 +413,7 @@
         {
             "id": "AccelBullet",
             "name": "Balas de Aceleração",
-            "desc": "- Max Capacity: 10\n- Unique Ammo\n- Spent by certain Skills",
+            "desc": "- Capacidade Máx.: 10\n- Munição Única\n- Gasta por certas Habilidades",
             "summary": "",
             "undefined": "-"
         },
@@ -423,30 +423,30 @@
             "desc": "Fixa a Velocidade desta unidade em 1; todas as Habilidades de Ataque do \"Pai Tutor do Polegar - Valencina\" miram esta unidade",
             "summary": "",
             "undefined": "-",
-            "flavor": "Prey marked by Famiglia Bognatelli will be hunted down without fail."
+            "flavor": "A presa marcada pela Famiglia Bognatelli será caçada, sem exceção."
         },
         {
             "id": "AaCfPcBiv2",
             "iconId": "AaCfPcBi",
             "name": "Supertermogênese",
-            "desc": "Turn End: Take fixed damage equal to (Stack x 0.5)% of Max HP, then the effect expires",
+            "desc": "Fim do Turno: Recebe dano fixo igual a (Acúmulo x 0.5)% do HP Máx. e, em seguida, o efeito expira",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "VergiliusSin",
             "name": "Shin (心) - O Olhar Vermelho",
-            "desc": "Deal +50% Wrath damage",
-            "summary": "Deal more damage",
+            "desc": "Causa +50% de dano de Ira",
+            "summary": "Cause mais dano",
             "undefined": "-"
         },
         {
             "id": "BloodBranch",
-            "name": "Blinding Blood [盲血]",
-            "desc": "Gain 1 Bind next turn for every Stack\nTurn End: Take (Bleed Potency x Stack) HP damage\nCombat Start: Gain 3 Bleed for every Stack, then expire",
+            "name": "Sangue Cegante [盲血]",
+            "desc": "Ganha 1 de Restrição no próximo turno para cada Acúmulo\nFim do Turno: Recebe (Potência de Sangramento x Acúmulo) de dano em HP\nInício de Combate: Ganha 3 de Sangramento para cada Acúmulo e, em seguida, o efeito expira",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"If blood can be contained within a gaze, it can also be accumulated and condensed for piercing. It can also, of course, be used to blind. Okay?\""
+            "flavor": "\"Se o sangue pode ser contido num olhar, também pode ser acumulado e condensado para perfurar. E pode, é claro, ser usado para cegar. Certo?\""
         },
         {
             "id": "Gebura_Reinforcement",
@@ -473,10 +473,10 @@
         {
             "id": "OffenseBug",
             "name": "Peste Dolorosa [Baratas]",
-            "desc": "- Max Stack: 50\n- Lose 1% max HP per Stack\n- Combat Start: Take (Stack x 12) fixed damage\n- Whenever this unit loses Stack of this effect, gain E.G.O resources of random Affinities equal to Stack lost (max 15)",
+            "desc": "- Acúmulo Máx.: 50\n- Perde 1% do HP Máx. por Acúmulo\n- Início de Combate: Recebe (Acúmulo x 12) de dano fixo\n- Sempre que esta unidade perde Acúmulo deste efeito, ganha recursos de E.G.O de Afinidades aleatórias iguais ao Acúmulo perdido (máx. 15)",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"This creature is unmatched among those scorned as pests.\""
+            "flavor": "\"Esta criatura não tem igual entre as desprezadas como pragas.\""
         },
         {
             "id": "DefenseBug",
@@ -484,37 +484,37 @@
             "desc": "- Carga Máx.: 50 || - Sempre que esta unidade recebe Potência ou Contagem de (Queimadura, Sangramento, Tremor, Ruptura, Afundamento), em vez de receber esses efeitos, perde a mesma quantidade de Carga deste efeito || - Expira ao Fim do Turno",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"They are baleful and stubborn, not to mention tenacious.\""
+            "flavor": "\"São nocivas e teimosas, isso sem mencionar tenazes.\""
         },
         {
             "id": "LvDownLittleFingerBossTwo",
             "name": "Lâmina Ferida da Estrela Tiansha [天殺星傷]",
-            "desc": "- Base Offense Level -15\n- Base Defense Level -15",
-            "summary": "- Lose Base Offense and Base Defense Level",
+            "desc": "- Nível Ofensivo Base -15\n- Nível Defensivo Base -15",
+            "summary": "- Perde Nível Ofensivo Base e Nível Defensivo Base",
             "undefined": "-",
             "flavor": "Um corte da Lâmina da Estrela Tiansha - Arayashiki deixa uma ferida de lâmina que parece queimar com fogo implacável. || Esta marca em chamas jamais pode se apagar, pois quem a empunha cortou a existência de seu oponente ao custo da própria."
         },
         {
             "id": "SojiAbiAgePast",
-            "name": "Backward Flow - Bitterness",
-            "desc": "- Max Stack: 20\n- Deal and take +2% damage for every Stack",
-            "summary": "Deal and take more damage",
+            "name": "Fluxo Reverso - Mágoa",
+            "desc": "- Acúmulo Máx.: 20\n- Causa e recebe +2% de dano para cada Acúmulo",
+            "summary": "Causa e recebe mais dano",
             "undefined": "-",
             "flavor": "'A memória de ter sido esquecida e abandonada por você se recusa a soltar... como um nó teimoso de fio que se agarra.'"
         },
         {
             "id": "SojiAbiAgeFuture",
-            "name": "Forward Flow - Compassion",
-            "desc": "- Max Stack: 20\n- Deal and take -2% damage for every Stack",
-            "summary": "Deal and take less damage",
+            "name": "Fluxo Adiante - Compaixão",
+            "desc": "- Acúmulo Máx.: 20\n- Causa e recebe -2% de dano para cada Acúmulo",
+            "summary": "Causa e recebe menos dano",
             "undefined": "-",
             "flavor": "'Talvez tenha sido o passar do tempo e os anos pesando sobre mim que me levaram a crer que finalmente poderia entender e abraçar você.'"
         },
         {
             "id": "TimeEntangleUnstable",
             "name": "Paroxismo - Miragem Entrelaçada",
-            "desc": "- Max Stack: 10\n- On Hit, activate the following effects based on Stack:\n  · Deal Slash damage equal to (final damage of the Coin / 10) (activates (# of Stack) times)\n  · 2+: Inflict 1 Burn\n  · 3+: Inflict 1 Bleed\n  · 4+: Inflict 1 Bind next turn\n  · 5+: Inflict 1 Poison",
-            "summary": "Apply additional effects to this unit's attacks based on Stack",
+            "desc": "- Acúmulo Máx.: 10\n- Ao Atingir, ativa os seguintes efeitos com base no Acúmulo:\n  · Causa dano Cortante igual a (dano final da Moeda / 10) (ativa (nº de Acúmulos) vezes)\n  · 2+: Inflige 1 de Queimadura\n  · 3+: Inflige 1 de Sangramento\n  · 4+: Inflige 1 de Restrição no próximo turno\n  · 5+: Inflige 1 de Veneno",
+            "summary": "Aplica efeitos adicionais aos ataques desta unidade com base no Acúmulo",
             "undefined": "-"
         },
         {
@@ -535,28 +535,28 @@
         {
             "id": "LimitedAwakenSinclair",
             "name": "Umbra Liberada",
-            "desc": "- Deal +10% damage with Base Attack Skills\n- Turn Start: Gain 1 Plus Coin Boost",
+            "desc": "- Causa +10% de dano com Habilidades de Ataque Básico\n- Início do Turno: Ganha 1 de Impulso de Moeda Positiva",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Veteran_LowMorale",
-            "name": "Of the Second Smoke War",
-            "desc": "- Low Morale\n- Turn Start: Gain 1 Fragile\n- SP Heal Efficiency +2",
+            "name": "Da Segunda Guerra da Fumaça",
+            "desc": "- Moral Baixo\n- Início do Turno: Ganha 1 de Frágil\n- Eficiência em Cura de PS +2",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "Veteran_Panic",
-            "name": "Of the Second Smoke War",
-            "desc": "- Panic\n- Turn Start: Gain 2 Fragile and 2 Clash Power Up",
+            "name": "Da Segunda Guerra da Fumaça",
+            "desc": "- Pânico\n- Início do Turno: Ganha 2 de Frágil e 2 de Poder de Embate Aumentado",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "MiddleFatherSwordOne",
             "name": "Espada Selada",
-            "desc": "Unlocks access to certain Skills based on the state of the sword.",
+            "desc": "Desbloqueia o acesso a certas Habilidades conforme o estado da espada.",
             "summary": "",
             "undefined": "-",
             "flavor": "Um trio de irmãos unidos que juntos jornadeavam pelas profundezas das Ruínas."
@@ -564,15 +564,15 @@
         {
             "id": "MiddleFatherSwordTwo",
             "name": "Primeiro Selo Removido",
-            "desc": "Unlocks access to certain Skills based on the state of the sword.",
+            "desc": "Desbloqueia o acesso a certas Habilidades conforme o estado da espada.",
             "summary": "",
             "undefined": "-",
             "flavor": "Lá, eles deram com uma caverna sufocante onde um rio de lava fluía, carregando edifícios em suas correntes. || Eles seguiram o rio até a fonte do seu calor, e encontraram uma espada... que mal podia ser chamada de espada. Era mais como um pedaço de metal em brasa."
         },
         {
             "id": "MiddleFatherSwordThree",
-            "name": "Second Seal Removed",
-            "desc": "Unlocks access to certain Skills based on the state of the sword.",
+            "name": "Segundo Selo Removido",
+            "desc": "Desbloqueia o acesso a certas Habilidades conforme o estado da espada.",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Como irmão mais velho, reivindico esta espada como minha.\" || A declaração do irmão mais velho acendeu a chama inapaziguável do desejo e da inveja no irmão mais novo. || || Então, matei meu irmão e minha irmã, e tomei a espada como minha. Não deixei evidência alguma. || Mas os olhos continuaram a me fitar com dúvida, e quando me lançaram a este inferno, caí sem resistência. || Ainda assim, não perdi meu sorriso. || Pois a espada das lendas era minha."
@@ -587,22 +587,22 @@
         },
         {
             "id": "SojiAbiBuffOne",
-            "name": "Dawn's First Crow (雞鳴)",
-            "desc": "Able to Clash with the enemy's specific Slot",
+            "name": "Primeiro Canto do Galo (雞鳴)",
+            "desc": "Capaz de Embater contra o Slot específico do inimigo",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "SojiAbiBuffTwo",
-            "name": "The Sun's Descent (日入)",
-            "desc": "Able to Clash with the enemy's specific Slot",
+            "name": "O Pôr do Sol (日入)",
+            "desc": "Capaz de Embater contra o Slot específico do inimigo",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "SojiAbiBuffThree",
-            "name": "Eventide Glow (黃昏)",
-            "desc": "Able to Clash with the enemy's specific Slot",
+            "name": "Fulgor do Crepúsculo (黃昏)",
+            "desc": "Capaz de Embater contra o Slot específico do inimigo",
             "summary": "",
             "undefined": "-"
         },
@@ -610,19 +610,19 @@
             "id": "RyoshuParrySojiTwo",
             "name": "Memória Inesquecível",
             "desc": "- Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Não pode Retirar-se",
-            "summary": "Ryōshū Exclusive Effect",
+            "summary": "Efeito Exclusivo de Ryōshū",
             "undefined": "-"
         },
         {
             "id": "RyoshuParrySojiThree",
-            "name": "Unseverable Time",
+            "name": "Tempo Que Não Se Rompe",
             "desc": "- Causa +20% de dano contra e recebe +20% de dano da Mãe Tutora do Mindinho; Ao Vencer Embate, causa 5 de dano em SP na Mãe Tutora do Mindinho || - Ao sofrer dano que Atordoaria esta unidade, não fica Atordoada e remove o Limiar de Atordoamento correspondente; em seguida, ganha 1 Reforço de Poder de Ataque no próximo turno || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se (incluindo aliados)",
-            "summary": "Ryōshū Exclusive Effect",
+            "summary": "Efeito Exclusivo de Ryōshū",
             "undefined": "-"
         },
         {
             "id": "HeavenlyKillerStar",
-            "name": "Tiansha Star's Blade - Arayashiki [天殺星刀阿賴耶識]",
+            "name": "Lâmina da Estrela Tiansha - Arayashiki [天殺星刀阿賴耶識]",
             "desc": "- Velocidade Mín. e Máx. +6 || - Nível de Ataque +6 || - Aplica 3 a mais de Potência de Sangramento com Habilidades || - Início do Turno: Ganha 3 Reforço de Nível de Ataque para cada inimigo morto neste Encontro (máx. 6)",
             "summary": "",
             "undefined": "-",
@@ -630,7 +630,7 @@
         },
         {
             "id": "CutoffRyoshu",
-            "name": "Sever the Thread [切絲]",
+            "name": "Cortar o Fio [切絲]",
             "desc": "- Início do Turno: || · Ganha 3 Sangramento e +3 Contagem de Sangramento || · Recebe dano de Talho igual a (Carga / 3) || - Ao ser atingida, recebe dano de Talho igual a (Carga / 5) || - Quanto mais este efeito se acumula... || - Carga Máx.: 100",
             "summary": "",
             "undefined": "-",
@@ -646,15 +646,15 @@
         },
         {
             "id": "EsteemNeeds",
-            "name": "Desire for Acknowledgement",
+            "name": "Desejo de Reconhecimento",
             "desc": "- Para cada Carga, causa +5% de dano contra e recebe +5% de dano da Ryōshū (máx. 100%) || - Poder Final +1 a cada 5 Cargas ao atacar Ryōshū como alvo principal (máx. 4) || - Em 10+ Cargas, perde 5 SP ao Perder Embate || - Carga Máx.: 20",
             "summary": "",
             "undefined": "-",
-            "flavor": "'Once I'm back home, M-Mister Rien will tell me I did good...'"
+            "flavor": "'Quando eu voltar pra casa, o sen-senhor Rien vai dizer que eu fui bem…'"
         },
         {
             "id": "Fugacious",
-            "name": "Way of the Blade",
+            "name": "Caminho da Lâmina",
             "desc": "- Início do Turno: || · Ganha 1 Reforço de Nível de Ataque e 1 Redução de Nível de Defesa a cada 5 Cargas || · Ganha 1 Aumento de Dano e 1 Frágil a cada 10 Cargas || - Carga Máx.: 50",
             "summary": "",
             "undefined": "-",
@@ -662,63 +662,63 @@
         },
         {
             "id": "ObsessedTeacher_LowMorale",
-            "name": "Shame of the Family",
-            "desc": "- Turn Start: Gain 1 Slash DMG Up, 1 Clash Power Up, and 1 Fragile\n- Cannot gain Mang when using Skills",
+            "name": "Vergonha da Família",
+            "desc": "- Início do Turno: Ganha 1 de Dano Cortante Aumentado, 1 de Poder de Embate Aumentado e 1 de Frágil\n- Não pode ganhar Mang ao usar Habilidades",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "ObsessedTeacher_Panic",
-            "name": "Shame of the Family",
-            "desc": "- Turn Start: Gain 2 Slash DMG Up, 2 Clash Power Up, and 2 Fragile\n- Cannot gain Mang when using Skills",
+            "name": "Vergonha da Família",
+            "desc": "- Início do Turno: Ganha 2 de Dano Cortante Aumentado, 2 de Poder de Embate Aumentado e 2 de Frágil\n- Não pode ganhar Mang ao usar Habilidades",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "AgainstMyWill_LowMorale",
-            "name": "\"K-kill... kill me...\"",
-            "desc": "Turn Start: Gain 8 Clash Power Down and 5 Power Down",
+            "name": "\"Me-me mate… me mate…\"",
+            "desc": "Início do Turno: Ganha 8 de Poder de Embate Reduzido e 5 de Poder Reduzido",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "AgainstMyWill_Panic",
-            "name": "\"K-kill... kill me...\"",
-            "desc": "Turn Start: Gain 10 Clash Power Down and 5 Power Down",
+            "name": "\"Me-me mate… me mate…\"",
+            "desc": "Início do Turno: Ganha 10 de Poder de Embate Reduzido e 5 de Poder Reduzido",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "IndexPrescriptRien_0",
-            "name": "Prescript: [Device] I",
+            "name": "Prescrição: [Dispositivo] I",
             "desc": "Ataque e acerte um Alvo do Prescript antes do primeiro turno terminar. || || - Início do Turno: Ganha este efeito quando esta unidade não tem Desbloqueio || - Graça do Prescript empilhável máxima com este Prescript é limitada a 3",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "IndexPrescriptRien_1",
-            "name": "Prescript: [Device] II",
+            "name": "Prescrição: [Dispositivo] II",
             "desc": "Ataque e acerte um Alvo do Prescript; ou, antes que este turno passe, acerte com 4 ou mais ataques. Complete antes do 4º turno. || || - Início do Turno: Ganha este efeito quando esta unidade tem Desbloqueio - 1 || - Graça do Prescript empilhável máxima com este Prescript é limitada a 6",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "IndexPrescriptRien_2",
-            "name": "Prescript: [Device] III",
+            "name": "Prescrição: [Dispositivo] III",
             "desc": "Use uma Habilidade poderosa que use 9 tipos de armas diferentes. || || - Início do Turno: Ganha este efeito se esta unidade tem Desbloqueio - II || - Graça do Prescript empilhável máxima com este Prescript é limitada a 9",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "IndexPrescriptRien_3",
-            "name": "Prescript: [Device] IV",
+            "name": "Prescrição: [Dispositivo] IV",
             "desc": "Elimine todos os obstáculos antes do próximo Prescript chegar. || || - Início do Turno: Ganha este efeito se esta unidade tem Desbloqueio - III",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "IndexPrescript_RienSecondPhase",
-            "name": "Prescript: [Device] - Warning",
+            "name": "Prescrição: [Dispositivo] - Aviso",
             "desc": "Priorize eliminar o Alvo do Prescript. || || - Ganha este efeito a partir da 2ª fase",
             "summary": "",
             "undefined": "-",
@@ -727,34 +727,34 @@
         {
             "id": "UnlockBuff_Rien1",
             "name": "Destrave - I",
-            "desc": "- Offense Level +1, Defense Level +1\n- Combat End: Heal 10 SP",
+            "desc": "- Nível Ofensivo +1, Nível Defensivo +1\n- Fim de Combate: Cura 10 SP",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "UnlockBuff_Rien2",
             "name": "Destrave - II",
-            "desc": "- Offense Level +2, Defense Level +2\n- Combat End: Heal 20 SP",
+            "desc": "- Nível Ofensivo +2, Nível Defensivo +2\n- Fim de Combate: Cura 20 SP",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "UnlockBuff_Rien3",
             "name": "Destrave - III",
-            "desc": "- Offense Level +3, Defense Level +3\n- Combat End: Heal 30 SP",
+            "desc": "- Nível Ofensivo +3, Nível Defensivo +3\n- Fim de Combate: Cura 30 SP",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "KarmaOfIndexRien",
-            "name": "Karmic Consequence",
+            "name": "Consequência Cármica",
             "desc": "- Início do Turno: || · Ganha 1 Redução de Nível de Defesa a cada 10 Cargas || · Ganha 1 Frágil a cada 20 Cargas || · Ganha 1 Redução de Poder de Embate a cada 40 Cargas || - Carga Máx.: 100",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "KarmaOfIndexRien_2Phase",
-            "name": "Karmic Consequence [Fortuna]",
+            "name": "Consequência Cármica [Fortuna]",
             "desc": "- Início do Turno: || · Ganha 1 Redução de Nível de Defesa a cada 10 Cargas || · Ganha 1 Frágil a cada 20 Cargas || · Ganha 1 Redução de Poder de Embate a cada 40 Cargas || - Carga Máx.: 200",
             "summary": "",
             "undefined": "-",
@@ -762,15 +762,15 @@
         },
         {
             "id": "BurningWoundRien_Mask",
-            "name": "Rien's Mask",
+            "name": "Máscara de Rien",
             "desc": "- Nível de Ataque -5, Nível de Defesa -5 || - Para cada Carga, recebe +5% de dano de Habilidades que aplicam Queimadura ou Sangramento (inclui variantes de Potência, Contagem e Únicas) || · Se a Habilidade aplica tanto Queimadura quanto Sangramento, recebe +7,5% de dano por Carga em vez disso || - Carga Máx.: 1",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"I keep it covered because it hurts to even look at.\""
+            "flavor": "\"Mantenho coberto porque dói só de olhar.\""
         },
         {
             "id": "BurningWoundRien",
-            "name": "Sizzling Wound",
+            "name": "Ferimento Fervente",
             "desc": "- Nível de Ataque -5, Nível de Defesa -5 || - Início do Turno: Ganha +1 Contagem de Queimadura e +1 Contagem de Sangramento para cada Carga || - Para cada Carga, recebe +10% de dano de Habilidades que aplicam Queimadura ou Sangramento (inclui variantes de Potência, Contagem e Únicas) || · Se a Habilidade aplica tanto Queimadura quanto Sangramento, recebe +15% de dano por Carga em vez disso || - Carga Máx.: 5",
             "summary": "",
             "undefined": "-",
@@ -785,23 +785,23 @@
         },
         {
             "id": "StackRienSpecialSkill",
-            "name": "Procuration [Hermes]",
+            "name": "Procuração [Hermes]",
             "desc": "- Ganha 1 Carga ao usar uma Habilidade de Ataque (1 vez por Habilidade; não ganha Carga da mesma Habilidade duas vezes) || - Início do Turno: em 9 Cargas, usa uma Habilidade poderosa || - Consumida ao usar uma certa Habilidade",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"As my god commands.\""
+            "flavor": "\"Conforme ordena o meu deus.\""
         },
         {
             "id": "RienWeapon01Hatchet",
             "name": "Quando estraçalhando as costelas com uma machadinha...",
-            "desc": "- Deals Blunt damage\n- On Hit without Cracking, gain 2 Poise",
+            "desc": "- Causa dano Contundente\n- Ao Atingir sem Rachar, recebe 2 de Postura",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon01Hatchet2phase",
             "name": "Quando estraçalhando as costelas com uma machadinha...",
-            "desc": "- Deals Blunt damage\n- On Hit without Cracking, gain 2 Poise and +2 Poise Count",
+            "desc": "- Causa dano Contundente\n- Ao Atingir sem Rachar, recebe 2 de Postura e +2 Contagem de Postura",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Isso mal é uma arma, mas é melhor que um garfo.\""
@@ -809,14 +809,14 @@
         {
             "id": "RienWeapon02Stiletto",
             "name": "Quando perfurando os pulmões com um estilete...",
-            "desc": "- Deals Pierce damage\n- On Hit Without Cracking, inflict 2 Sinking",
+            "desc": "- Causa dano Perfurante\n- Ao Atingir sem Rachar, inflige 2 de Afogamento",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon02Stiletto2phase",
             "name": "Quando perfurando os pulmões com um estilete...",
-            "desc": "- Deals Pierce damage\n- On Hit without Cracking, inflict 2 Sinking and +2 Sinking Count",
+            "desc": "- Causa dano Perfurante\n- Ao Atingir sem Rachar, inflige 2 de Afogamento e +2 Contagem de Afogamento",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Não consegui evitar sentir um arrepio terrível nas costas sempre que me dão esta arma quando a situação pede um golpe horizontal. Acho difícil trabalhar com ela.\""
@@ -824,14 +824,14 @@
         {
             "id": "RienWeapon03Greatsword",
             "name": "Quando cortando o ombro e o crânio com um bastardo...",
-            "desc": "- Deals Slash damage\n- This Coin deals +5% damage\n- On Hit without Cracking, gain 1 Offense Level Up next turn (2 times per turn)",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +5% de dano\n- Ao Atingir sem Rachar, recebe 1 de Nível Ofensivo Aumentado no próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon03Greatsword2phase",
             "name": "Quando cortando o ombro e o crânio com um bastardo...",
-            "desc": "- Deals Slash damage\n- This Coin deals +7.5% damage\n- On Hit without Cracking, gain 1 Offense Level Up until next turn (2 times per turn)",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +7.5% de dano\n- Ao Atingir sem Rachar, recebe 1 de Nível Ofensivo Aumentado até o próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Esta espada é... aceitável, mas essa qualidade em si deixa muito a desejar. Ainda assim, pode ser uma arma confiável contanto que suas habilidades fundamentais sejam sólidas.\""
@@ -839,14 +839,14 @@
         {
             "id": "RienWeapon04Rapier",
             "name": "Quando perfurando 10 ou mais buracos no tronco com um florete...",
-            "desc": "- Deals Pierce damage\n- This Coin deals +5% damage\n- On Hit without Cracking, inflict 1 Defense Level Down next turn (2 times per turn)",
+            "desc": "- Causa dano Perfurante\n- Essa Moeda causa +5% de dano\n- Ao Atingir sem Rachar, inflige 1 de Nível Defensivo Reduzido no próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon04Rapier2phase",
             "name": "Quando perfurando 10 ou mais buracos no tronco com um florete...",
-            "desc": "- Deals Pierce damage\n- This Coin deals +7.5% damage\n- On Hit without Cracking, inflict 1 Defense Level Down until next turn (2 times per turn)",
+            "desc": "- Causa dano Perfurante\n- Essa Moeda causa +7.5% de dano\n- Ao Atingir sem Rachar, inflige 1 de Nível Defensivo Reduzido até o próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Uma arma mais longa e afiada que o estilete. Gosto também do florete, já que se presta bastante bem a técnicas mais hábeis.\""
@@ -854,44 +854,44 @@
         {
             "id": "RienWeapon05Sledgehammer",
             "name": "Quando esmagando a nuca com um martelo...",
-            "desc": "- Deals Blunt damage\n- This Coin deals +5% damage\n- On Hit without Cracking, raise target's Stagger Threshold by 3",
+            "desc": "- Causa dano Contundente\n- Essa Moeda causa +5% de dano\n- Ao Atingir sem Rachar, aumenta o Limiar de Atordoamento do alvo em 3",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon05Sledgehammer2phase",
             "name": "Quando esmagando a nuca com um martelo...",
-            "desc": "- Deals Blunt damage\n- This Coin deals +7.5% damage\n- On Hit without Cracking, raise target's Stagger Threshold by 5",
+            "desc": "- Causa dano Contundente\n- Essa Moeda causa +7.5% de dano\n- Ao Atingir sem Rachar, aumenta o Limiar de Atordoamento do alvo em 5",
             "summary": "",
             "undefined": "-",
-            "flavor": "\"Simple, but final. It's not a half-measure like a hatchet—it <i>will</i> crush whatever it hits.\""
+            "flavor": "\"Simples, porém definitivo. Não é meia-medida como uma machadinha — <i>vai</i> esmagar o que quer que atinja.\""
         },
         {
             "id": "RienWeapon06Ultragreatsword",
             "name": "Quando dilacerando o corpo com uma espada longa...",
-            "desc": "- Deals Slash damage\n- This Coin deals +10% damage\n- On Hit without Cracking, inflict 1 Slash Fragility (2 times per turn)",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +10% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade a Cortante (2 vezes por turno)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon06Ultragreatsword2phase",
             "name": "Quando dilacerando o corpo com uma espada longa...",
-            "desc": "- Deals Slash damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Slash Fragility until next turn (2 times per turn)",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +15% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade a Cortante até o próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Quando se trata de empunhar lâminas de tamanho e peso ponderosos, como esta, é importante encontrar seu centro de gravidade.\" || \"E, claro, não esqueça de aproveitar sua massa pura.\" || \"Uma vez pulei do telhado de um prédio de cinco andares com esta arma e caí em cima da cabeça de um Mandatário de Grau 1, matando-o instantaneamente.\""
         },
         {
             "id": "RienWeapon07Lance",
-            "name": "When boring a 20-inch hole with a lance...",
-            "desc": "- Deals Pierce damage\n- This Coin deals +10% damage\n- On Hit without Cracking, inflict 1 Pierce Fragility (2 times per turn)",
+            "name": "Ao perfurar um buraco de 20 polegadas com uma lança...",
+            "desc": "- Causa dano Perfurante\n- Essa Moeda causa +10% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade à Perfuração (2 vezes por turno)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon07Lance2phase",
-            "name": "When boring a 20-inch hole with a lance...",
-            "desc": "- Deals Pierce damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Pierce Fragility until next turn (2 times per turn)",
+            "name": "Ao perfurar um buraco de 20 polegadas com uma lança...",
+            "desc": "- Causa dano Perfurante\n- Essa Moeda causa +15% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade à Perfuração até o próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Eu consideraria essa arma um prêmio. Esta lança tem propriedade autopropulsora também, o que permite perfurar o alvo — e qualquer coisa que esteja entre nós, seja uma parede ou uma pessoa.\""
@@ -899,14 +899,14 @@
         {
             "id": "RienWeapon08Chain",
             "name": "Quando dilacerando a carne em dez mil tiras com um chicote...",
-            "desc": "- Deals Blunt damage\n- This Coin deals +10% damage\n- On Hit without Cracking, inflict 1 Blunt Fragility (2 times per turn)",
+            "desc": "- Causa dano Contundente\n- Essa Moeda causa +10% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade à Contusão (2 vezes por turno)",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon08Chain2phase",
             "name": "Quando dilacerando a carne em dez mil tiras com um chicote...",
-            "desc": "- Deals Blunt damage\n- This Coin deals +15% damage\n- On Hit without Cracking, inflict 1 Blunt Fragility until next turn (2 times per turn)",
+            "desc": "- Causa dano Contundente\n- Essa Moeda causa +15% de dano\n- Ao Atingir sem Rachar, inflige 1 de Fragilidade à Contusão até o próximo turno (2 vezes por turno)",
             "summary": "",
             "undefined": "-",
             "flavor": "\"Enquanto alguns podem comparar esta arma a perder uma loteria... eu sou bastante apegada a ela.\" || \"Quando este chicote estala, ele não apenas faz sangrar; arranca uma tira da carne do alvo, e com ela sua determinação e energia.\" || \"Aprecio que me permita observar todo o processo de como alguém é desconstruído à medida que é enfraquecido. Ah, e também pode ser usado para estrangular em apuros.\""
@@ -914,14 +914,14 @@
         {
             "id": "RienWeapon09Scythe",
             "name": "Quando lacerando o próprio espaço com uma foice, como certa pessoa...",
-            "desc": "- Deals Slash damage\n- This Coin deals +20% damage\n- On Hit without Cracking, it hits a guaranteed Crit",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +20% de dano\n- Ao Atingir sem Rachar, acerta um Crítico garantido",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RienWeapon09Scythe2phase",
             "name": "Quando lacerando o próprio espaço com uma foice, como certa pessoa...",
-            "desc": "- Deals Slash damage\n- This Coin deals +30% damage\n- On Hit without Cracking, it hits a guaranteed Crit",
+            "desc": "- Causa dano Cortante\n- Essa Moeda causa +30% de dano\n- Ao Atingir sem Rachar, acerta um Crítico garantido",
             "summary": "",
             "undefined": "-",
             "flavor": "\"A foice... eu não conseguia entender como usar esta arma de jeito nenhum até ver aquela Reverberação Azul empunhar a sua.\" || \"Mesmo depois que o observei, o Prescript continuou a me dar apenas foices por um tempo. Eventualmente, virou minha arma favorita, mais familiar e mais afiada.\" || \"Esta arma também corta o melhor de todas. Embora haja muitas técnicas para cortar o próprio espaço — hum. Talvez essa história fique melhor para outra ocasião.\""
@@ -944,21 +944,21 @@
         },
         {
             "id": "PainfulScar_Panic",
-            "name": "Imitation of a Father",
-            "desc": "- Panic\n- Turn Start: Gain 5 Burn, +3 Burn Count, 5 Bleed, and +3 Bleed Count\n- Take +20% damage from Sinner Ryōshū",
+            "name": "Imitação de um Pai",
+            "desc": "- Pânico\n- Início do Turno: Ganha 5 de Queimadura, +3 Contagem de Queimadura, 5 de Sangramento e +3 Contagem de Sangramento\n- Recebe +20% de dano da Pecadora Ryōshū",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "PainfulScar_LowMorale",
-            "name": "Imitation of a Father",
-            "desc": "- Low Morale\n- Turn Start: Gain 5 Burn and 5 Bleed\n- Take +10% damage from Sinner Ryōshū",
+            "name": "Imitação de um Pai",
+            "desc": "- Moral Baixo\n- Início do Turno: Ganha 5 de Queimadura e 5 de Sangramento\n- Recebe +10% de dano da Pecadora Ryōshū",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "BlackNightmare",
-            "name": "Indulgence in Prescripts",
+            "name": "Indulgência em Prescrições",
             "desc": "- Aplica +2 a mais de Potência e Contagem de Afundamento || - Expira ao Fim do Turno; em seguida, ganha (número de Habilidades que perderam um Embate neste turno x 5) Consequência Cármica",
             "summary": "",
             "undefined": "-",
@@ -966,7 +966,7 @@
         },
         {
             "id": "RyoshuParrySojiWe",
-            "name": "Red String",
+            "name": "Fio Vermelho",
             "desc": "- Slot de Habilidade +3 || - Causa +50% de dano à Mãe Tutora do Mindinho || - Por este Encontro: Após usar uma Habilidade, ganha 1 recurso E.G.O da Afinidade da Habilidade e 1 recurso E.G.O para o recurso E.G.O menos possuído (2 vezes por turno) || - Não pode Retirar-se",
             "summary": "",
             "undefined": "-",
@@ -974,8 +974,8 @@
         },
         {
             "id": "RyoshuParrySojiThey",
-            "name": "Red String",
-            "desc": "- Converts all Skill Coins into Unbreakable Coins\n- Final Power +4",
+            "name": "Fio Vermelho",
+            "desc": "- Converte todas as Moedas de Habilidade em Moedas Inquebráveis\n- Poder Final +4",
             "summary": "",
             "undefined": "-",
             "flavor": "'Por mais que escapemos, este fio teimoso ainda fará nossos caminhos se cruzarem. Ele se recusa a romper, não importa o que eu faça...'"
@@ -989,14 +989,14 @@
         },
         {
             "id": "KAA1C9ActivateEffect",
-            "name": "K Corp. Ampule Used",
-            "desc": "Used K Corp. Ampule",
+            "name": "Ampola da K Corp. Usada",
+            "desc": "Usou uma Ampola da K Corp.",
             "summary": "",
             "undefined": "-"
         },
         {
             "id": "RyoshuParryIndexFingerWe",
-            "name": "Red String",
+            "name": "Fio Vermelho",
             "desc": "",
             "summary": "",
             "undefined": "-",
@@ -1004,7 +1004,7 @@
         },
         {
             "id": "RyoshuParryIndexFingerThey",
-            "name": "Red String",
+            "name": "Fio Vermelho",
             "desc": "",
             "summary": "",
             "undefined": "-",

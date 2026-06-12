@@ -3,42 +3,42 @@
     {
       "id": -1,
       "name": "Limbus Company",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 1,
       "name": "Pecado: Ira",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 2,
       "name": "Pecado: Luxúria",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 3,
       "name": "Pecado: Preguiça",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 4,
       "name": "Pecado: Gula",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 5,
       "name": "Pecado: Melancolia",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 6,
       "name": "Pecado: Soberba",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 7,
       "name": "Pecado: Inveja",
-      "desc": "Base"
+      "desc": "Padrão"
     },
     {
       "id": 8,
@@ -364,6 +364,16 @@
       "id": 75,
       "name": "Linha 6: Maru no Uchi no Sanzu no Kawa",
       "desc": "Obtido ao concluir a Linha 6 com 111 ou menos no Total de Turnos antes do fim da Temporada 7: Kumo no Ito · otI on akA."
+    },
+    {
+      "id": 76,
+      "name": "Memória de Experiência",
+      "desc": "Obtido no evento Memória de Experiência"
+    },
+    {
+      "id": 77,
+      "name": "Memória de Experiência - Bilhete Especial",
+      "desc": "Obtido no evento Memória de Experiência"
     }
   ]
 }

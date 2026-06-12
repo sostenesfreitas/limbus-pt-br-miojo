@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_49_1",
+      "dlg": "- As batalhas de vocês sempre trazem boas novas. Ficarei na expectativa.\n- Vejamos… que tal me mostrarem um pouco dessa força?"
+    },
+    {
+      "id": "announcer_cheer_49_2",
+      "dlg": "- Diz o ditado que companheiros do mesmo barco socorrem uns aos outros. Estando no mesmo barco, ajudar se faz preciso… A Aeng-du, claro. Eu, não.\n- O Mentor também deve ajudar. A senhorita Moses pode fazer vista grossa, mas, se continuar com essa vadiagem, não me restará escolha senão, com lágrimas nos olhos, confessar tudo aos outros dois veteranos…"
+    },
+    {
+      "id": "announcer_specialcheer_49_1",
+      "dlg": "Lâminas quebradas, flechas esgotadas… Não acham que está na hora de considerar o próximo plano?"
+    },
+    {
+      "id": "announcer_specialcheer_49_2",
+      "dlg": "- É bem difícil aconselhar aqui. Nós jamais detivemos nossas lâminas, mesmo encurralados — pois esse era o modo de ser de um Salsu.\n- Mas vocês não são Salsu, claro; podem muito bem recuar agora. Decerto vocês têm princípios próprios pelos quais viver."
+    },
+    {
+      "id": "announcer_enemy_break_49_1",
+      "dlg": "Folhas secas ao vento do outono. Por mais que lutem com bravura, as folhas hão de cair… Um resultado mais que natural."
+    },
+    {
+      "id": "announcer_ally_break_49_1",
+      "dlg": "…Sei que vocês gostam de batalhas de arrepiar a carne… Hum. Ainda assim, pedra que se pode salvar é pedra que se salva, não acham?"
+    },
+    {
+      "id": "announcer_killenemy_49_1",
+      "dlg": "- As vidas deles chegaram ao fim. Ganharam ao menos um instante para respirar?\n- Aquela não era partida para principiante aguentar~ Será que agora só sobraram os mestres no tabuleiro?"
+    },
+    {
+      "id": "announcer_ally_dead_49_1",
+      "dlg": "- ……\n- …Por mais que olhe, os nossos companheiros não voltarão.\n- …Aeng-du, essas palavras doem fundo.\n- Sim… eu sei. Mas… o senhor precisa sofrer mais, ainda mais, Mentor."
+    },
+    {
+      "id": "announcer_enemy_adv_49_1",
+      "dlg": "- A via de sobrevivência de vocês se fechou; talvez seja melhor deixar esta partida para outro dia.\n- …Até que <i>existe</i> uma saída. Não, deixa pra lá. Fica feio dar palpite no tabuleiro dos outros.\n- …Se não pretende ensinar, nem comece a frase, Mentor."
+    },
+    {
+      "id": "announcer_ally_adv_49_1",
+      "dlg": "- Aeng-du, fico curioso: por que esse silêncio repentino?\n- …É que a situação está favorável a ponto de não haver palpite a acrescentar. Se estiver entediado, posso lançar uma rima para o senhor compor versos, Mentor.\n- …Não, deixa. Também vou ficar quieto."
+    },
+    {
+      "id": "announcer_ally_advex_49_1",
+      "dlg": "- O tabuleiro que pendia contra vocês recuperou um pouco do equilíbrio. Se vão pressionar, a hora é agora.\n- Humm. Ainda assim, não há de ser um problema de vida ou morte fácil de resolver… Que tal só assistirmos ao desenrolar?"
+    },
+    {
+      "id": "announcer_danger_49_1",
+      "dlg": "- Estão por um fio. É em momentos assim que mais se deve agir com prudên—\n- Aeng-du, prudência em excesso vira veneno. Não é hora de deliberar longamente, e sim de decidir."
+    },
+    {
+      "id": "announcer_enemy_specialskill_49_1",
+      "dlg": "Um posicionamento agressivo… Agora é hora de não recuar: rebatam de frente, não acham?"
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_49_1",
+      "dlg": "- Oho!\n- Mentor?!\n- Eis uma partida memorável! E pensar que ainda guardavam um lance daqueles."
+    },
+    {
+      "id": "announcer_advatk_physical_49_1",
+      "dlg": "Foi um golpe certeiro e direto. Sem um único excesso, de fato."
+    },
+    {
+      "id": "announcer_disadvatk_physical_49_1",
+      "dlg": "Ha! Que esgrima desastrosa, destoante e desastrada! Bem, de vez em quando é preciso romper com a forma ortodoxa."
+    },
+    {
+      "id": "announcer_advatk_attr_49_1",
+      "dlg": "Isso! Essa é a jogada de manual!"
+    },
+    {
+      "id": "announcer_disadvatk_attr_49_1",
+      "dlg": "Um momento… Posso consultar o \"Manual para Novos Funcionários\"? É que eu não havia previsto uma situação destas…"
+    },
+    {
+      "id": "announcer_enemy_specialbuff_49_1",
+      "dlg": "Melhor manter a cautela. A senhorita Moses também vivia repetindo: cuidado com mudanças bruscas de comportamento."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_49_1",
+      "dlg": "- Essa reação… Parece que o ânimo dos inimigos se quebrou.\n- Beberam demais sobre o tabuleiro, foi? As jogadas deles viraram uma bagunça."
+    },
+    {
+      "id": "announcer_ally_specialbuff_49_1",
+      "dlg": "Quando os pensamentos pesam, saem erros como esse."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_49_1",
+      "dlg": "A pressão está pesada… Vou procurar um meio de aliviá-la; enquanto isso, atentem ao próprio estado."
+    },
+    {
+      "id": "announcer_enemy_destroy_49_1",
+      "dlg": "Uma parte foi feita em pedaços. Um golpe tão vigoroso quanto os da senhorita Ezra."
+    },
+    {
+      "id": "announcer_enemy_destroy_49_2",
+      "dlg": "- A vantagem é real, mas convém seguir de olhos bem abertos. Mentor, em vez de só assistir, podia ao menos soltar uma palavra…\n- Palavra? Que palavra, se a lavra já foi lavrada? Hum. Sem mais estorvo na estrada, melhor que palavra alada é a disparada calada: a galope, sem dizer nada.\n- …Lá vem o senhor de novo."
+    },
+    {
+      "id": "announcer_round_takebigdmg_49_1",
+      "dlg": "- E-esperem, vocês…!\n- Acalme-se, Mentor. Eles têm lá seus meios de se recuperar; além do mais… não são os companheiros que o senhor perdeu.\n- ……"
+    },
+    {
+      "id": "announcer_round_takebigdmg_49_2",
+      "dlg": "- …É por isso que eu detesto trabalhar, Aeng-du. Uma vez metido em ofício perigoso, coisas assim vão acontecer a toda hora.\n- Quem não sobe a montanha por medo do tigre só acaba morrendo de fome. O senhor… sabe disso, Mentor."
+    },
+    {
+      "id": "announcer_round_givebigdmg_49_1",
+      "dlg": "- Houve um tempo em que o Mentor também exibia esse porte imponente, cortando o que precisava ser cortado.\n- Passado é passado. E que porte teria eu para ostentar, se nem a Primeira Lâmina da Pátria cheguei a ser?"
+    },
+    {
+      "id": "announcer_round_givebigdmg_49_2",
+      "dlg": "- Hum~ Quem sabe? Se eu ganhasse uma espada nova, como a sua, Aeng-du, talvez até eu…\n- Precisa de uma? Então é só comprar. Devo pedir um adiantamento <i>e</i> contrair uma dívida para lhe arranjar a melhor espada do mercado, é isso?\n- …Aeng-du, quando é você que fala, não soa como graça, soa como promessa… então, por favor, não faça isso. A espada que tenho me basta…"
+    },
+    {
+      "id": "announcer_multikillenemy_49_1",
+      "dlg": "- Oho… *nhac* Que movimentação vigorosa das pedras. Um deleite de assistir.\n- Mentor… de onde o senhor tirou esses petiscos?\n- Hum? *nhac* Isto aqui?\n- O senhor faz ideia de quanto custam os equipamentos desta sala…? E fica espalhando migalhas desse jeito…"
+    },
+    {
+      "id": "announcer_battle_win_49_1",
+      "dlg": "- Eu sabia que vocês haveriam de venc… Mentor? Aonde vai tão cedo?\n- Este tabuleiro nem contagem de pontos pede. Vou para o quarto observar como anda o mundo.\n- …Isso não é só um jeito de dizer que vai assistir televisão?"
+    },
+    {
+      "id": "announcer_battle_defeat_49_1",
+      "dlg": "- …Palpite de quem não o segue não há de inspirar confiança, mas aqui vai: em vez de remoer um lance mal jogado, o certo é jogar bem o lance seguinte. Não é, Aeng-du?\n- …Sim, é como diz."
+    },
+    {
+      "id": "announcer_equip_49_1",
+      "dlg": "- Aeng-du… que história é essa agora?\n- Trabalho, como pode ver. O senhor passou todo esse tempo comendo, vadiando e vendo televisão, então…\n- Eu não deixei claro que estava recluso justamente para estudar a conjuntura ao redor da S Corp.…? *suspiro* Deixa pra lá. Está bem, ensina logo esse tal trabalho.\n- Primeiro, sente-se na cadeira, não no chão. Daí de baixo o senhor não alcança o microfone."
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "…Hum. Ah, aquilo ali, melhor fazer assim…"
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "…te."
+    },
+    {
+      "id": 2,
+      "content": "Não. O Heathcliff já ficou tempo demais na vanguarda, melhor puxá-lo para trás e…"
+    },
+    {
+      "id": 3,
+      "place": "Quarto de Dante",
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<…Hã? Ah, desculpa. Você disse alguma coisa?>"
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Faust lhe forneceu uma resposta à sua pergunta… mas não houve nenhuma reação da sua parte."
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "A situação de combate dos Pecadores está tão ruim assim?"
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Não, não é bem isso…>"
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<É que, tentando dar suporte a batalhas que acontecem em lugares completamente diferentes ao mesmo tempo, fica difícil me concentrar na conversa.>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<E o que a Rodya fica falando enquanto faz compras também acaba me distraindo um pouco…>"
+    },
+    {
+      "id": 10,
+      "content": "Certo dia, pouco depois de entrarmos no Distrito da N Corp."
+    },
+    {
+      "id": 11,
+      "content": "Estávamos estacionados por um tempo nos becos da N Corp. para resolver um contrato envolvendo Distorções."
+    },
+    {
+      "id": 12,
+      "content": "Este contrato seria conduzido em conjunto com a equipe da LCD, mas…"
+    },
+    {
+      "id": 13,
+      "content": "Como as Distorções começaram a surgir de repente e sem padrão algum num lugar dos becos chamado Rua da Manteiga, decidi dividir os Pecadores em vários grupos e mandá-los para fora."
+    },
+    {
+      "id": 14,
+      "place": -1,
+      "content": "Outis, Ishmael, Sinclair e Don Quixote, a caminho de se juntar à equipe da LCD… e, com eles, Yi Sang e Meursault."
+    },
+    {
+      "id": 15,
+      "content": "Heathcliff, Gregor e Hong Lu, contendo as Distorções que surgiram em outras direções."
+    },
+    {
+      "id": 16,
+      "content": "Rodya e Ryōshū, que já tinham terminado sua parte na supressão das Distorções, fazendo compras para repor o estoque do ônibus, que tinha raspado o fundo."
+    },
+    {
+      "id": 17,
+      "content": "E… quanto à Faust…"
+    },
+    {
+      "id": 18,
+      "place": "Quarto de Dante",
+      "content": "Ela tinha ficado comigo no ônibus, dando andamento às consultas atrasadas — aproveitando, de quebra, para eu praticar o poder do Ramo Dourado que eu tinha acabado de obter."
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "…Reiterando a resposta: não há nada que represente um problema particular para Faust."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "É verdade que, recentemente, Faust demonstrou decepção com uma certa Faust em algumas ocasiões… mas isso não passa de uma insatisfação pessoal."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Se for só isso, que bom, mas…>"
+    },
+    {
+      "id": 22,
+      "content": "Não era a primeira vez que a Faust andava diferente do habitual, como ultimamente."
+    },
+    {
+      "id": 23,
+      "content": "Períodos em que ela passava um tempo incomum absorta, sozinha em seus pensamentos, sem conseguir responder de pronto às perguntas minhas e dos Pecadores…"
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Será que…>"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Você está sem conseguir acessar a Gesellschaft?>"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "…O que o levou a pensar isso?"
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<É que você está reagindo bem parecido com quando estávamos no trem WARP.>"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "…Ainda existem momentos em que você consegue surpreender Faust, Dante."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Então você está mesmo desconectada?!>"
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Naturalmente, a surpresa não tinha o sentido de confirmar que o resultado da sua inferência é verdadeiro…"
+    },
+    {
+      "id": 31,
+      "content": "Então… ela consegue acessar a Gesellschaft, mas é uma situação parecida com não conseguir… é isso?"
+    },
+    {
+      "id": 32,
+      "content": "A curiosidade fica, mas, pelo jeito que ela rodeava o assunto, perguntar mais não me renderia resposta alguma."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<…Se você não quer falar sobre isso, não vou insistir.>"
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "…Agradeço."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Então, a seguir…>"
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Sim, passemos à consulta do Gerente."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Após cruzar os registros do recente incidente na Casa das Aranhas, as memórias relativas aos indivíduos chamados Sora e Ren… aparentemente permanecem, no momento, apenas com você, Dante."
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Caso, no futuro, surjam lacunas nos registros por influência da senhorita Ryōshū, ficará a cargo do Gerente suplementar as partes em questão."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Desta vez, de novo, só a minha memória ficou intacta.>"
+    },
+    {
+      "id": 40,
+      "content": "Quando sofremos o apagamento de memória na K Corp., quando Catherine foi apagada pelo poder do Ramo Dourado, quando aqueles cortados pela Arayashiki foram extirpados das lembranças…"
+    },
+    {
+      "id": 41,
+      "content": "…eu fui o único capaz de me lembrar de tudo aquilo."
+    },
+    {
+      "id": 42,
+      "content": "…Mas, em contrapartida, as memórias que eu tinha originalmente continuam sem dar o menor sinal de que vão voltar."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Por que será que as minhas memórias antigas não conseguem voltar? Será mesmo por causa desta cabeça trocada…>"
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "…Deduções baseadas na experiência acumulada até aqui não poderão ajudar o Gerente a recordar suas antigas memórias."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Afinal, o raciocínio indutivo conduzido a partir de memórias incompletas está fadado a ter limites. Tal como Bongy."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Bongy…?!>"
+    },
+    {
+      "id": 47,
+      "model": "파우스트",
+      "content": "Apenas com a experiência de receber ração, ele não teria como saber para que estava sendo criado. Não conseguiria inferir nada nem mesmo no instante anterior a ser devorado."
+    },
+    {
+      "id": 48,
+      "model": "파우스트",
+      "content": "…Em última análise, é uma dúvida que só será respondida depois de concluída toda a jornada — a missão que lhe foi confiada."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<…Porque, no fim do inferno, um tesouro espera.>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<E esse tesouro é a minha memória e a minha cabeça… e também…>"
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "Sim. Ao fim de tudo, você poderá gravar o seu Aspecto."
+    },
+    {
+      "id": 52,
+      "content": "Ainda não sei o que é o Aspecto, mas, toda vez que ouço essa palavra, sinto uma certeza instintiva."
+    },
+    {
+      "id": 53,
+      "place": -1,
+      "content": "A certeza de que eu — quer dizer, o eu do passado — desejava terrivelmente esse tal de Aspecto."
+    },
+    {
+      "id": 54,
+      "content": "Mas… independentemente dessa sensação, para o eu de agora, sem memórias, o Aspecto continua sendo apenas algo que não sei o que é."
+    },
+    {
+      "id": 55,
+      "place": "Quarto de Dante",
+      "model": "단테",
+      "content": "<…Você não pode me contar o que é o Aspecto, não é?>"
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<O que ele é, e por que eu o desejava tanto…>"
+    },
+    {
+      "id": 57,
+      "model": "파우스트",
+      "content": "Se isso ainda for algo que precise lhe ser contado, então sim."
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "content": "Eu não seria capaz de lhe contar."
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Hum…?>"
+    },
+    {
+      "id": 60,
+      "model": "파우스트",
+      "content": "Não é nada. Você continua seguindo bem a sua Estrela; concentre-se nessa jornada."
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "Mais importante… já se acostumou com aquele poder incompleto? Ao que parece, ainda o está exercitando neste momento…"
+    },
+    {
+      "id": 62,
+      "model": "단테",
+      "content": "<…Focar num lugar só, já me acostumei bastante. Agora, prestar atenção em vários lugares ao mesmo tempo… ainda é meio difícil.>"
+    },
+    {
+      "id": 63,
+      "content": "Se eu simplesmente parasse de me preocupar com a equipe da Outis, que vai bem no combate mesmo sem o meu comando, e com a equipe da Rodya, que está fazendo compras, tudo seria bem mais fácil…"
+    },
+    {
+      "id": 64,
+      "content": "Mas aí o treino perderia o sentido, então estou me esforçando ao máximo para absorver a situação de todos os Pecadores."
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "Uma vez que esteja habituado, você poderá obter muitas vantagens: coletar informações mais variadas por meio dos Pecadores, executar táticas até então impossíveis, entre outras."
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<É. E também conseguir distinguir as horas em que não devo chamar ninguém…>"
+    },
+    {
+      "id": 67,
+      "content": "Mesmo durante a conversa, não me esqueço de observar com atenção os lugares onde cada Pecador está."
+    },
+    {
+      "id": 68,
+      "content": "Hum… puxar o Heathcliff para trás não foi uma decisão ruim. Tirei o olho por um instante, e eles continuam lutando bem, sem nenhum Pecador ferido."
+    },
+    {
+      "id": 69,
+      "content": "A Rodya… E-ela enfiou tudo aquilo nos bolsos? Até aquela baguete comprida?"
+    },
+    {
+      "id": 70,
+      "content": "A equipe da Outis… parece que se juntou à equipe da LCD sem problemas…"
+    },
+    {
+      "id": 71,
+      "content": "Ah, então aquele ali é…"
+    },
+    {
+      "id": 72,
+      "content": "Aquele ali…?"
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Tem uma pessoa ali que parece meio… mudada…?>"
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "…O que houve?"
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<Hum… estou acompanhando a situação, e acho que é melhor a gente se juntar a eles.>"
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Vamos encerrar a consulta por aqui.>"
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Que repentino, Dante. Se ocorreu algum acidente grave, talvez seja o caso de solicitar o apoio da LCC…"
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Não… não é um acidente.>"
+    },
+    {
+      "id": 79,
+      "content": "…Embora pareça mesmo ser algo sério."
+    }
+  ]
+}

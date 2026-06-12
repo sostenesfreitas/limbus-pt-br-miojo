@@ -99,6 +99,10 @@
         {
             "id": "railway_dungeon_advice_5_level_desc",
             "content": "- Identidades : Estágio de Enlace 4, Nível 50\n- E.G.O : Estágio de Tecelagem 4"
+        },
+        {
+            "id": "railway_dungeon_end_date_until",
+            "content": "~ <font=\"ExcelsiorSans SDF\">{0}</font>"
         }
     ]
 }

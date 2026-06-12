@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10815_1",
+      "desc": "Aquisição de Identidade",
+      "dlg": "\"Distorções que se manifestam em massa compartilham um… um traço comum…\"\nTsc… Tenho certeza de que li essa parte no manual. Um traço comum… Ah… Esqueci."
+    },
+    {
+      "id": "lobby_morning_10815_1",
+      "desc": "Saudação Matinal",
+      "dlg": "… Ainda não me acostumei a sair da cama tão tarde, depois de tanto me revirar nela. Na época em que eu vivia no Pacto da Lâmina, partia de madrugada, aonde quer que os pés me levassem…\nMas aqui na LCD há um veterano que fica constrangido se chego cedo demais — então procuro bater o ponto exatamente na hora."
+    },
+    {
+      "id": "lobby_noon_10815_1",
+      "desc": "Saudação Vespertina",
+      "dlg": "Sei bem que comer além da conta deixa o corpo lento, então tomo cuidado… mas recusar toda vez os doces que os veteranos me oferecem não é tarefa fácil.\n… Além do mais, nunca tive a chance de provar nada tão doce e saboroso na minha terra. Por isso a recusa simplesmente não me sai da boca."
+    },
+    {
+      "id": "lobby_night_10815_1",
+      "desc": "Saudação Noturna",
+      "dlg": "Ah… não, não é trabalho pendente. É que aprender algo novo costuma tirar meu sono, então eu estava só repassando o que aprendi hoje.\nO método de uma Salsu, que abre caminho a golpes de lâmina, é tão diferente das diretrizes desta companhia… Desconfio que este aprendizado não será curto."
+    },
+    {
+      "id": "smalltalk_10815_1",
+      "desc": "Conversa #1",
+      "dlg": "O Mentor… ainda não recobrou a serenidade de espírito. Sobre o Pacto da Lâmina, sobre a S Corp.… ele segue apenas adiando essas conversas.\nNão sei quando esse mal vai melhorar, mas… até que ele tome sua decisão, cabe a mim permanecer ao seu lado e ampará-lo. E depois disso… aí já não sei."
+    },
+    {
+      "id": "smalltalk_10815_2",
+      "desc": "Conversa #2",
+      "dlg": "O costume é uma coisa assustadora. Morando em aposentos tão aconchegantes, passando os dias com veteranos tão gentis… até a minha determinação de voltar à S Corp. vai se desbotando aos poucos.\nÉ justamente em horas assim que devo me esforçar ainda mais… para não esquecer. O propósito que eu trazia no peito quando deixei a S Corp."
+    },
+    {
+      "id": "smalltalk_10815_3",
+      "desc": "Conversa #3",
+      "dlg": "Aqueles para quem tudo se resumia a brandir a espada abandonaram o Mentor; e aqueles que nutriam o desejo de um dia voltar à S Corp. perderam a vida sob a espada do próprio Mentor.\nPortanto… hoje, a única que ainda pode dizer o nome \"Pacto da Lâmina\" de cabeça erguida… sou eu."
+    },
+    {
+      "id": "smalltalk_10815_4",
+      "desc": "Conversa Pós-Enlace 1",
+      "dlg": "Os braços protéticos que a Equipe de Decifração de Fenômenos me deu já eram mais do que eu poderia pedir, e agora ainda ganho de presente uma espada tão admirável… Jamais imaginei receber tamanho tratamento estando aqui de favor.\nVou retribuir à altura… não, em dobro. … Não quero ser o tipo de pessoa que trata uma dádiva com descaso."
+    },
+    {
+      "id": "smalltalk_10815_5",
+      "desc": "Conversa Pós-Enlace 2",
+      "dlg": "Não sou forte como os veteranos, tampouco tenho a intuição e a inteligência notáveis da senhorita líder da equipe.\nA essência de uma Salsu: traço o arco da minha espada conforme a trajetória da minha vida, corto o que precisa ser cortado e mato o que precisa ser morto. Seja humano… seja Distorção."
+    },
+    {
+      "id": "gacksung_10815_1",
+      "desc": "Enlaçamento",
+      "dlg": "O vento pode me desgastar e a chuva pode me lavar, mas o fio da minha lâmina jamais se embota. Cumpro o que me cabe, conforme a minha essência.\nFuu… Ishmael, da Equipe de Raciocínio Investigativo de Campo do departamento da LCD. Iniciando a captura da Distorção, conforme o solicitado."
+    },
+    {
+      "id": "neglect_10815_1",
+      "desc": "Inativo",
+      "dlg": "Poderia falar de um pouco mais longe? Ouvi dizer que se aglomerar em frente ao monitor, murmurando em confusão, é estritamente proibido."
+    },
+    {
+      "id": "formation_10815_1",
+      "desc": "Envio",
+      "dlg": "… Já? Ah, mas eu ainda precisava reler o manual com mais atenção… Ah, sim, estou indo!"
+    },
+    {
+      "id": "battleentry_10815_1",
+      "desc": "Entrada na Fase",
+      "dlg": "Fuu… Acenda-se o lampião; abra-se o caminho adiante."
+    },
+    {
+      "id": "battle_select_10815_1",
+      "desc": "Visto em Batalha",
+      "dlg": "… Recue, por favor. Permanecer por perto pode lhe trazer perigo."
+    },
+    {
+      "id": "battle_endcommand_10815_1",
+      "desc": "Iniciando Ataque",
+      "dlg": "Sacar a lâmina… e executar!"
+    },
+    {
+      "id": "battle_enemy_break_10815_1",
+      "desc": "Inimigo Atordoado",
+      "dlg": "Quando todas as liberdades do inimigo estão tomadas…"
+    },
+    {
+      "id": "battle_break_10815_1",
+      "desc": "Atordoado",
+      "dlg": "Talvez seja hora de recuar…"
+    },
+    {
+      "id": "battle_kill_10815_1",
+      "desc": "Inimigo Morto",
+      "dlg": "Só resta encurralar e capturar todas as pedras!"
+    },
+    {
+      "id": "battle_dead_10815_1",
+      "desc": "Morte",
+      "dlg": "Estendi a espada… reta e fiel… Isso… já basta…"
+    },
+    {
+      "id": "choice_success_p_10815_2",
+      "desc": "Passou no Teste",
+      "dlg": "É graças aos bons ensinamentos dos veteranos."
+    },
+    {
+      "id": "choice_fail_n_10815_1",
+      "desc": "Falha no Teste",
+      "dlg": "Meu aprendizado ainda é insuficiente…"
+    },
+    {
+      "id": "battle_clear_10815_1",
+      "desc": "Grito de Vitória",
+      "dlg": "Supressão concluída. Com isso, o contrato está cumprido… mas nunca mais saberemos por que aquela alma se Distorceu daquela forma."
+    },
+    {
+      "id": "battle_clear_ex_10815_1",
+      "desc": "Condições Extras Cumpridas",
+      "dlg": "… Está voltando. Da Distorção, de volta à forma humana. Um resultado que o método de uma Salsu jamais teria alcançado.\n… Agora acho que entendi o que devo aprender na Equipe de Raciocínio Investigativo de Campo antes de partir para a S Corp."
+    },
+    {
+      "id": "battle_defeat_10815_1",
+      "desc": "Lamento de Derrota",
+      "dlg": "Nossas pedras estão acuadas, em posição fatal. Se não traçarmos uma estratégia à altura… Ah. Uma carta de justificativa e desculpas?\nNão, não é que eu não queira escrever… é que eu nunca precisei redigir uma… Ah… sim. Basta me passarem o modelo e entrego imediatamente…"
+    }
+  ]
+}

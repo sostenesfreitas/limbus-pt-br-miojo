@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9105701,
+      "name": "Conduta de um Salsu",
+      "desc": "Com 1 de Contagem de [Breath], perde 10 de HP em vez de perder Contagem de [Breath] (este efeito não pode Atordoar esta unidade e não reduz o HP desta unidade abaixo de 1)\n\nCausa +(porcentagem de HP perdido em si / 2) de dano em Acerto Crítico com Habilidades Base (máx. 50%)"
+    },
+    {
+      "id": 9105702,
+      "name": "O Fôlego Que Respiramos Juntos",
+      "desc": "Ao ganhar Potência de [Breath] com as próprias Habilidades e efeitos de Moeda desta unidade, aplica 1 [Breath] em um aliado que não tenha [Breath] ou que tenha a menor Potência de [Breath] (5 vezes por turno)\n\nInício do Turno: Se Kim do Chapéu de Bambu estiver no campo, ganha 1 [SlashDamageUp] e +2 de Contagem de [Laceration]"
+    },
+    {
+      "id": 9105703,
+      "name": "Memória Latejante",
+      "desc": "Ao perder um Embate, ganha 1 [RegretSCorp]"
+    },
+    {
+      "id": 9105704,
+      "name": "O Último Suspiro",
+      "desc": "Se esta unidade for derrotada, aplica 5 [Breath] e +2 de Contagem de [Breath] em todos os aliados do Pacto da Lâmina no Início do próximo Turno\n\nInício do Turno: Com 20+ de Potência de [Breath], equipa \"Talhos Consecutivos\" no Slot mais à esquerda"
+    },
+    {
+      "id": 9105804,
+      "name": "O Último Suspiro",
+      "desc": "Se esta unidade for derrotada, aplica 5 [Breath] e +2 de Contagem de [Breath] em todos os aliados do Pacto da Lâmina no Início do próximo Turno\n\nInício do Turno: Com 20+ de Potência de [Breath], equipa \"Talhos Consecutivos\" no Slot mais à esquerda"
+    }
+  ]
+}

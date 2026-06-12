@@ -623,7 +623,7 @@
         {
             "id": 9782,
             "name": "Empunhadura Desgastada",
-            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades da Linhagem da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
+            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades do Pacto da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
             "simpleDesc": [
                 {
                     "abilityID": "9782",
@@ -657,7 +657,7 @@
         {
             "id": 9784,
             "name": "Cultivo",
-            "desc": "Início do Turno: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade da Linhagem da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade da Linhagem da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
+            "desc": "Início do Turno: ativa quando há 3 ou mais Identidades do Pacto da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade do Pacto da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade do Pacto da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
             "simpleDesc": [
                 {
                     "abilityID": "9784",
@@ -830,7 +830,7 @@
         {
             "id": 2080,
             "name": "Empunhadura Desgastada",
-            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades da Linhagem da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
+            "desc": "Início de Turno: todos os aliados recebem 1 de [ScarletResultUp].\n\nIdentidades do Pacto da Lâmina ou do Clã Kurokumo recebem 2 de [ScarletResultUp] e 1 de [SlashResultUp] no lugar.",
             "simpleDesc": [
                 {
                     "abilityID": 2080,
@@ -864,7 +864,7 @@
         {
             "id": 2082,
             "name": "Cultivo",
-            "desc": "Início do Turno: ativa quando há 3 ou mais Identidades da Linhagem da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade da Linhagem da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade da Linhagem da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
+            "desc": "Início do Turno: ativa quando há 3 ou mais Identidades do Pacto da Lâmina. (conta apenas Identidades em campo) ||  || Início do Turno: todos os aliados ganham 2 [SlashResultUp] e causam +35% de dano. ||  || Início do Turno: quando uma Identidade do Pacto da Lâmina acerta criticamente, causa dano adicional de Soberba igual a (Potência de [Breath] / 2) em si. ||  || Se uma Identidade do Pacto da Lâmina tem 30+ de Potência de [Breath] ao Fim do Turno, consome",
             "simpleDesc": [
                 {
                     "abilityID": 2082,

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10615_1",
+      "desc": "Aquisição de Identidade",
+      "dlg": "Haha. Eu bem que avisei, não foi? Por mais alto que pule, pulga não passa de pulga~"
+    },
+    {
+      "id": "lobby_morning_10615_1",
+      "desc": "Saudação Matinal",
+      "dlg": "Ainda tem uma lista cheia de Nobis fugidos pra capturar… Mmh. Ah, não vai dar. Persegui esse pessoal a noite inteira e estou exausto demais…\nLá pela hora em que o sol estiver a pino… *boceja*… a gente volta pra caçada."
+    },
+    {
+      "id": "lobby_noon_10615_1",
+      "desc": "Saudação Vespertina",
+      "dlg": "A hora também não ajuda muito… Que tal comermos algo num jumak antes de sair? Quando sairmos, vai ser correria o dia inteiro de novo; melhor ir de barriga bem cheia~\nPatroa~! Duas tigelas de gukbap aqui, por favor~"
+    },
+    {
+      "id": "lobby_night_10615_1",
+      "desc": "Saudação Noturna",
+      "dlg": "Com a lua brilhando clara desse jeito, quantos cantos de sombra ainda restam, mesmo nestes becos?\nPode se esconder~ pode fugir~ que eu capturo todo mundo do mesmo jeito."
+    },
+    {
+      "id": "smalltalk_10615_1",
+      "desc": "Conversa #1",
+      "dlg": "\"Carne e osso grudados, e só correm lágrimas de sangue…\" Boa imagem, não acha? Com as facções Sal e Ppyeo de conluio, o sangue do pobre Pi escorre aos borbotões~\nGraças a isso, nós, Ch'unokkuns, estamos em festa. Capturamos, eles fogem; fogem de novo, capturamos de novo… O serviço simplesmente não tem fim, sabia?"
+    },
+    {
+      "id": "smalltalk_10615_2",
+      "desc": "Conversa #2",
+      "dlg": "Ficou sabendo? Dizem por aí que os técnicos da facção \"Pi (Sangue)\" andam fugindo um atrás do outro para a T Corp.\nHuhu. A vida há de ser dura de um jeito parecido em qualquer canto, então não entendo por que fogem com tanto desespero. \"Qualquer lugar é melhor do que aqui\"… Poucas esperanças são tão vazias quanto essa, não concorda?"
+    },
+    {
+      "id": "smalltalk_10615_3",
+      "desc": "Conversa #3",
+      "dlg": "Se quiser trabalhar como Ch'unokkun, recomendo comprar ao menos a faixa de testa… a Faixa de Recaptura. Basta puxá-la sobre os olhos para enxergar com clareza até de noite, receber indicações de caminho… e, com a devida autorização, dá até para conferir a identidade dos residentes da S Corp.~"
+    },
+    {
+      "id": "smalltalk_10615_4",
+      "desc": "Conversa Pós-Enlace 1",
+      "dlg": "Entendo que doa e seja difícil se mexer com a pele e os tendões arrancados… mas eu já não disse umas dez vezes que não vou matar você?\nSe a intenção fosse essa, eu teria decepado sua cabeça num só golpe com o fio de cima da lâmina~ Hum~ Mas uma saída tão fácil eu não vou lhe conceder mesmo, então vamos indo bem quietinho. Sim?"
+    },
+    {
+      "id": "smalltalk_10615_5",
+      "desc": "Conversa Pós-Enlace 2",
+      "dlg": "Não sei de qual facção palaciana você fazia parte, mas, vendo a Marca queimada em você, devia ser gente importante, hein?\nAfinal, não é qualquer criminoso que recebe uma Marca. Ou você era indispensável para a S Corp., ou cometeu alta traição. Ou então… hum, quem sabe um Mugwan tão excepcional que precisaram manter sua força sob rédeas?"
+    },
+    {
+      "id": "neglect_10615_1",
+      "desc": "Inativo",
+      "dlg": "…Não estava pensando em fugir, estava?"
+    },
+    {
+      "id": "gacksung_10615_1",
+      "desc": "Enlaçamento",
+      "dlg": "Vamos, saia daí! Se é Nobi, como um Nobi; se é criminoso, como um criminoso — deixe-se amarrar por esta corda escarlate."
+    },
+    {
+      "id": "formation_10615_1",
+      "desc": "Envio",
+      "dlg": "Se me chamaram… Aha. Algum Nobi fugiu, não foi?"
+    },
+    {
+      "id": "battleentry_10615_1",
+      "desc": "Entrada na Fase",
+      "dlg": "Iniciando a recaptura~"
+    },
+    {
+      "id": "battle_select_10615_1",
+      "desc": "Visto em Batalha",
+      "dlg": "Opa. Cuidado, por favor! Quase confundi você com um Nobi e amarrei aqui mesmo~"
+    },
+    {
+      "id": "battle_endcommand_10615_1",
+      "desc": "Iniciando Ataque",
+      "dlg": "Vamos capturar todos eles!"
+    },
+    {
+      "id": "battle_enemy_break_10615_1",
+      "desc": "Inimigo Atordoado",
+      "dlg": "Se não quer ser levado de volta…"
+    },
+    {
+      "id": "battle_break_10615_1",
+      "desc": "Atordoado",
+      "dlg": "Ugh…"
+    },
+    {
+      "id": "battle_kill_10615_1",
+      "desc": "Inimigo Morto",
+      "dlg": "Entregue-me essa cabeça!"
+    },
+    {
+      "id": "battle_dead_10615_1",
+      "desc": "Morte",
+      "dlg": "…Quem diria que eu… é que acabaria capturado… Argh…!"
+    },
+    {
+      "id": "choice_success_p_10615_2",
+      "desc": "Passou no Teste",
+      "dlg": "Quando se vive de perseguir gente, acaba-se aprendendo a fazer um pouco de tudo~"
+    },
+    {
+      "id": "choice_fail_n_10615_1",
+      "desc": "Falha no Teste",
+      "dlg": "Bom… caçar Nobi é que não era, certo?"
+    },
+    {
+      "id": "battle_clear_10615_1",
+      "desc": "Grito de Vitória",
+      "dlg": "Deixamos alguns escaparem, é verdade… mas Nobi para capturar é o que não falta, não é? Neste exato momento, há um montão de plebeus tolos pulando muros para fugir para outros Distritos.\nNada de festejar ou lamentar por uma recaptura só; na próxima, lançamos as cordas direito."
+    },
+    {
+      "id": "battle_clear_ex_10615_1",
+      "desc": "Condições Extras Cumpridas",
+      "dlg": "Capturamos todos os Nobis da encomenda… e, no meio deles, até alguns Marcados… Haha. Amanhã bem que podíamos comprar carne e bebida e fazer uma festinha modesta, não acha?"
+    },
+    {
+      "id": "battle_defeat_10615_1",
+      "desc": "Lamento de Derrota",
+      "dlg": "Ai, ai… escaparam de novo. Hum… Não dá para desperdiçar tanto tempo no Distrito de outra Ala… Que tal recuarmos antes que o prejuízo aumente?\nQuanto aos Nobis que ficaram por aqui… bom, se forem mesmo valiosos, outros Ch'unokkuns virão capturá-los."
+    }
+  ]
+}

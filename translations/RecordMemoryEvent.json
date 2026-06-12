@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "record_memory_stage_button_default",
+      "content": "Fases"
+    },
+    {
+      "id": "record_memory_stage_button_locked",
+      "content": "Conclua 9.5-14 para Desbloquear"
+    },
+    {
+      "id": "record_memory_storybutton_default",
+      "content": "Ao Cinema"
+    },
+    {
+      "id": "record_memory_storybutton_start",
+      "content": "<size=75%>Assista à 1ª história do evento\npara desbloquear</size>"
+    },
+    {
+      "id": "record_memory_stage_button_end_event",
+      "content": "Evento Encerrado"
+    },
+    {
+      "id": "record_memory_bonus_popup_title",
+      "content": "Unidades Bônus do Evento"
+    },
+    {
+      "id": "record_memory_bonusUIDesc",
+      "content": "Durante o período do evento, escalar as seguintes Identidades na sua equipe\naumenta a quantidade de <color=#96beee>[Fotos]</color> obtida.\nO bônus na quantidade de moeda do evento obtida pode chegar a no máximo <color=#96beee>120%</color>."
+    },
+    {
+      "id": "record_memory_scrap_guide_title",
+      "content": "Guia da Moeda do Evento"
+    },
+    {
+      "id": "record_memory_scrap_guide_desc",
+      "content": "Você pode obter <color=#96beee>[Fotos]</color> ao concluir Fases de Evento e da História Principal pela primeira vez, ou ao concluir a Masmorra Espelho.\nNo processo, você também tem uma pequena chance de obter <color=#96beee>[Pacotes de Fotos]</color>.\n\n<color=#96beee>[Pacotes de Fotos]</color> são convertidos imediatamente em 20 <color=#96beee>[Fotos]</color> assim que adquiridos."
+    },
+    {
+      "id": "record_memory_reward_popup_desc",
+      "content": "Ganhe <color=#96beee>[Fotos]</color> pelos seguintes métodos:\nconclusões de primeira vez de Fases de Evento e da História Principal e conclusões da Masmorra Espelho.\n\nNa janela <color=#96beee>[Troca de Recompensas]</color>, você pode comprar diversas recompensas\ngastando as <color=#96beee>[Fotos]</color> que coletou."
+    },
+    {
+      "id": "record_memory_reward_popup_num_of_owned_items",
+      "content": "Itens Possuídos"
+    },
+    {
+      "id": "record_memory_rewardShopButton",
+      "content": "Troca de Recompensas"
+    }
+  ]
+}

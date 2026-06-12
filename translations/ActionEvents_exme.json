@@ -1,0 +1,165 @@
+{
+  "dataList": [
+    {
+      "id": 10901,
+      "name": "Escolha de Início da Masmorra de História",
+      "desc": "Ao adentrarmos, surgiu diante de nós uma caverna escura, repleta de um ar acre e sufocante.\n\nLá dentro, avistava-se um tênue fio de luz; e, seguindo essa luz adiante, chegamos a uma passagem que se dividia em quatro caminhos.\n\nHavia um corredor varrido por um vento impetuoso, outro de onde escorria um cheiro de sangue, um terceiro mergulhado em puro silêncio e um último de onde ecoava o som de lâminas se chocando.\n\nPor qual caminho seria melhor seguir?",
+      "options": [
+        {
+          "message": "Seguir pelo corredor varrido pelo vento impetuoso.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O de Postura",
+          "result": [
+            "\"E-está… mais forte… do que eu esperava…!\"\n\nQuanto mais avançávamos, mais violento o vento se tornava; perto do fim, os Pecadores precisaram seguir de olhos cerrados, cobrindo o rosto com os braços.\n\nAté que, em certo momento… o vento cessou de repente, como que cortado de uma vez.\n\nQuando a ventania se desfez, revelou-se um pedestal de pedras empilhadas, sobre o qual estava jogada, de qualquer jeito, uma espécie de corda de um vermelho escuro."
+          ]
+        },
+        {
+          "message": "Seguir pelo corredor de onde escorre o cheiro de sangue.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O de Sangramento",
+          "result": [
+            "\"O cheiro de sangue… é denso por demais…\"\n\"Ei, aguenta firme aí. Se achar que não vai dar, toma mais um daqueles pacotes de sangue.\"\n\"… Não há de ser tal coisa a me abalar.\"\n\nQuando o cheiro acobreado de sangue já saturava o espaço a ponto de provocar vertigens, o ar, como se nada houvesse acontecido, tornou-se límpido de repente.\n\nAo recobrarmos os sentidos, havia um pedestal diante de nós.\n\nSobre as pedras empilhadas, repousava uma maleta de aparência impecável."
+          ]
+        },
+        {
+          "message": "Seguir pelo corredor silencioso.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O Sem Palavras-chave",
+          "result": [
+            "O corredor era silencioso a ponto de arrepiar, e todos avançaram passo a passo, tomados pela tensão.\n\nNo instante em que eu pensava que apenas os passos dos Pecadores ecoavam no vazio, um pedestal surgiu de repente diante dos nossos olhos.\n\nSobre as pedras empilhadas, estava uma daquelas latas de inalação que tantas vezes já tínhamos visto."
+          ]
+        },
+        {
+          "message": "Seguir pelo corredor de onde vem o som de lâminas se chocando.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O Cortante",
+          "result": [
+            "\"Quantas pessoas será que estão lutando ali na frente…?\"\n\"Gerente, podemos acabar arrastados para o combate. Convém avançarmos com cautela.\"\n\nNão era à toa que os Pecadores estavam tensos: do fim do corredor, ecoava o som gélido de lâminas colidindo umas contra as outras.\n\nNo momento em que os choques pareciam se tornar cada vez mais frequentes, o som se calou de repente, como que cortado de uma vez.\n\nQuando demos por nós, havia um pedestal de pedras empilhadas à nossa frente.\n\nSobre ele, repousava uma espécie de adorno vermelho, aparentemente feito para ornar a base do punho de uma espada."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10902,
+      "name": "O Passado de Kim do Chapéu de Bambu 1",
+      "desc": "\"Ah, com licença…\"\n\nEnquanto percorríamos os becos da S Corp., um jovem, depois de muito hesitar, aproximou-se perguntando se poderíamos ajudá-lo.\n\nPelo que contou, nutrindo o desejo de ascender na vida, ele prestou o Exame Real — o concurso público da S Corp. — e obteve uma excelente colocação.\n\nMas ele ouvira dizer que quem é aprovado com boas notas recebe o custo da viagem de volta para casa e um guia para acompanhá-lo; algo, porém, deve ter dado errado, pois ninguém apareceu para recebê-lo, e ele acabou se perdendo e vagando até parar nestes becos.\n\nEle pergunta se por acaso conhecemos os caminhos da região… O que devemos fazer?",
+      "options": [
+        {
+          "message": "\"Infelizmente, também é nossa primeira vez por aqui; não temos como ajudar.\"",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "\"Ah, os senhores também são de primeira viagem?\"\n\nDizendo que então não havia o que fazer, o jovem estalou os lábios, contrariado, e desapareceu para algum canto.\n\n\"… Hum.\"\n\nAssim que ele se foi, Kim do Chapéu de Bambu, que se mantinha atrás do grupo de mãos às costas, fingindo despreocupação, soltou um suspiro baixo.\n\n\"Mentor, o senhor tem algo a dizer?\"\n\"Não, é que aquele ali… sou eu.\"\n\n… A revelação repentina deixou os Pecadores em alvoroço por um instante.\n\n\"Era a época em que eu vagava por aí me achando o máximo, sem fazer ideia do tamanho do mundo.\"\n\"E não é que o tema do Exame caiu justo sobre certo traidor do reino? Todo animado, escrevi uma longa dissertação sobre como impedir que um sujeito daqueles voltasse a aparecer…\"\n\"… Só ao chegar em casa fui entender. O tal 'traidor do reino' era um antepassado da minha própria linhagem.\"\n\n\"E-então… a razão de o Mentor não ter assumido um cargo oficial, mesmo aprovado no Exame…\"\n\n\"E como é que eu poderia, Aeng-du? Por que você acha que nenhum guia quis acompanhar aquele tolo?\"\n\"Todo mundo, menos eu, conhecia a história. Espalhou-se o boato de que eu era um desgraçado que vendeu o próprio ancestral para passar no Exame.\"\n\nKim soltou essas palavras como se não fossem nada, como quem conta uma piada qualquer, e tomou a dianteira do caminho…\n\n\"Bom, mesmo que não tivesse sido assim, a vergonha que eu sentia de mim já teria me feito quebrar o pincel.\"\n\n… escondendo às pressas, atrás das costas, a mão que tremia de leve."
+          ]
+        },
+        {
+          "message": "\"Vou perguntar ao grupo se há como ajudar.\"",
+          "messageDesc": "Faça um Teste de Vantagem de Gula & Orgulho. Passe para receber uma Bênção de E.G.O Sem Palavras-chave.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10903,
+      "name": "O Passado de Kim do Chapéu de Bambu 2",
+      "desc": "Um homem com uma espada junto ao peito está sentado de qualquer jeito à beira do caminho, fitando o céu com o olhar perdido.\n\n\"… Ah.\"\n\nNotando nossa presença, ele correu os olhos pelos nossos trajes e, em seguida, tornou a se largar onde estava.\n\n\"Sigam em frente. Não tenho intenção de fazer mal aos senhores.\"\n\nEra um pouco diferente, mas aquela voz me soava familiar, como se eu já a tivesse ouvido em algum lugar…\n\n\"Não é olhando as nuvens passarem que a resposta vai aparecer.\"\n\nFoi quando, de repente, Kim do Chapéu de Bambu atirou essas palavras.\n… Ah, então aquele homem deve ser…\n\n\"… O senhor me conhece?\"\n\"Preciso conhecer para dar palpite? Quem passa perto de um tabuleiro de baduk sempre acaba dando um.\"\n\nO homem arregalou os olhos, surpreso, e logo começou a falar.\n\n\"Ao menos o senhor parece jogar melhor do que eu; permita-me, então, pedir um conselho.\"\n\"Olhando para trás, as jogadas que fiz foram tão sujas e vergonhosas que penso em ganhar a vida no chão batido, comendo o pão da espada.\"\n\"Acontece que um homem íntegro e justo quer me recolher para me usar como sua lâmina, e temo que minha sujeira acabe manchando as mãos dele também.\"\n\"E então? O senhor faria essa jogada? Ou…\"",
+      "options": [
+        {
+          "message": "Deixar que Kim do Chapéu de Bambu responda.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O Cortante",
+          "result": [
+            "\"E que importa se a jogada é vergonhosa?\"\n\n\"Não vejo nesse tabuleiro ninguém disposto a deixar você voltar atrás na pedra; que remédio há? Jogue.\"\n\n\"E se, seguindo assim, eu acabar com tudo tomado e perder territórios grandes demais?\"\n\n\"Aí é só entregar a partida.\"\n\"Se você foi até o fim e mesmo assim terminou desse jeito, fazer o quê? Antes de qualquer coisa, vá até o fim.\"\n\"No fim das contas, você só está pondo as pedras conforme o fluxo, não está?\"\n\n\"…….\"\n\"Acabamos de nos cruzar e, no entanto, é como se o senhor me enxergasse até os ossos.\"\n\"Tome. É o pagamento pelo palpite.\"\n\nO jovem… não, o Kim do Chapéu de Bambu do passado pareceu compreender algo: pôs em nossas mãos o que parecia ser um cajado e saiu correndo para algum lugar.\n\n\"… Jogada errada já feita, não é continuando que ela vai mudar.\"\nFoi como se ouvíssemos de leve esse murmúrio de Kim."
+          ]
+        },
+        {
+          "message": "Deixar que um Pecador responda.",
+          "messageDesc": "Faça um Teste de Vantagem de Preguiça & Orgulho. Passe para que a Identidade selecionada recupere PV.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10904,
+      "name": "O Passado de Kim do Chapéu de Bambu 3",
+      "desc": "Dentro da prisão às escuras, alguém está sentado, com o olhar perdido no vazio.\n\n\"Hah…\"\n\nAntes mesmo que o suspiro desolado de Kim do Chapéu de Bambu terminasse de se desfazer…\n\n\"Quem vem lá?!\"\n\nUma voz afiada cortou o ar estagnado. Parece que fomos notados pelos que guardam a prisão.\n\nO que devemos fazer?",
+      "options": [
+        {
+          "message": "Dizer que somos os guardas deste lugar.",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "\"Diga ao menos uma mentira que dê para engolir!\"\n\nFingir na cara dura que éramos os guardas da prisão, é claro, não colou…\n\nEsquivando-nos da mulher que, vermelha de raiva, sacou a espada contra nós, fugimos às pressas para outra área."
+          ]
+        },
+        {
+          "message": "Sacar as armas e ficar em alerta.",
+          "messageDesc": "Selecione para receber uma Bênção de E.G.O Cortante dependendo da próxima escolha",
+          "result": [
+            "\"… Não são carcereiros.\"\n\nA dona da voz examinou-nos por um momento — a nós, que empunhávamos as armas — e então caminhou em nossa direção a passos tranquilos, como quem não se importa… mas também sem hostilidade alguma.\n\nE, em vez de falar conosco, dirigiu-se a alguém dentro da cela.\n\n\"Explique-se. Quem são eles? E o que foi que aconteceu…\"\n\nEla insistiu em puxar conversa com a figura dentro da cela, mas nenhuma resposta veio lá de dentro.\n\n\"… Hah. Sem forças, feito um cadáver.\"\n\nSoltando um leve suspiro, ela voltou a falar conosco."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1090401,
+      "name": "O Passado de Kim do Chapéu de Bambu 3",
+      "desc": "\"Os senhores também não vieram ver aquele sujeito? Seriam dos que conspiram pela mesma causa?\"",
+      "options": [
+        {
+          "message": "Dizer que não.",
+          "messageDesc": "Nenhum efeito em particular",
+          "result": [
+            "\"… O quê?\"\n\"Quer dizer, então… que devo presumir que vermes se infiltraram na prisão da Corte Real?\"\n\nSem nos dar um segundo sequer para qualquer explicação, ela avançou sobre nós — e não nos restou senão fugir às pressas para outro lugar."
+          ]
+        },
+        {
+          "message": "Dizer que sim e explicar a situação.",
+          "messageDesc": "Faça um Teste de Vantagem de Luxúria & Orgulho. Passe para receber uma Bênção de E.G.O Cortante.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10905,
+      "name": "O Passado de Kim do Chapéu de Bambu 4",
+      "desc": "No mercado apinhado de gente, alguém com uma espada à cintura e um saco às costas veio em disparada e, às pressas, escondeu-se num monte de feno perto de nós.\n\nPouco depois, do mesmo caminho por onde ele viera, surgiu um bando de Ch'unokkuns correndo, tochas em punho.\n\n\"Um criminoso que cobiçou os bens do Reino fugiu nesta direção. Ninguém aqui o viu?!\"\n\nEles interrogavam cada transeunte que agarravam, mas, embora todos tivessem visto o homem se enfiar no feno, ninguém dizia uma só palavra.\n\nEstariam escondendo-o de propósito?\n\nLogo os Ch'unokkuns chegaram até nós.\n\nO que devemos fazer?",
+      "options": [
+        {
+          "message": "Dizer que não sabemos e lançar um olhar lento na direção do monte de feno.",
+          "messageDesc": "Todas as Identidades perdem PS",
+          "result": [
+            "\"Hummm…\"\n\nQuando os Ch'unokkuns chegaram bem diante do monte de feno, o homem que estava escondido irrompeu de dentro dele num estouro e, num piscar de olhos, fugiu para outro lado.\n\n\"É-é ele!\"\n\nOs Ch'unokkuns ficaram um instante atônitos, mas logo caíram em si e dispararam atrás dele.\n\n… Por algum motivo, os olhares dos transeuntes ao redor pesavam sobre nós."
+          ]
+        },
+        {
+          "message": "Apontar para um lugar completamente diferente e dizer que ele foi para lá.",
+          "messageDesc": "Faça um Teste de Vantagem de Orgulho & Inveja. Passe para que todas as Identidades recuperem PV e PS.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10906,
+      "name": "Pacto da Lâmina",
+      "desc": "Um homem com uma espada presa à cintura tenta arrancar à força a trouxa que uma velha senhora carrega.\n\nPrestando atenção na discussão… a mulher parece ser a mãe do sujeito.\n\nEla aparenta querer repreender o filho, mas ele não dá ouvidos e segue apenas fazendo força, com brutalidade.\n\n\"Desse jeito, a pobre anciã haverá de ir ao chão…!\"\n\nSeria bom intervir nessa situação?",
+      "options": [
+        {
+          "message": "Ameaçar o homem da espada para expulsá-lo dali.",
+          "messageDesc": "Faça um Teste de Vantagem de Ira & Orgulho. Passe para que todas as Identidades recuperem PV.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Surpreender o homem da espada com um ataque e afastá-lo da mãe.",
+          "messageDesc": "Todas as Identidades perdem PS",
+          "result": [
+            "Ocupado demais em forcejar com a mãe, o homem não percebeu o ataque repentino — e acabou ferido.\n\n\"D-droga…!\"\n\nSem tempo sequer de olhar para trás, ele desapareceu em disparada pela escuridão dos becos.\n\nDevolvemos a trouxa à senhora, na esperança de ao menos tranquilizá-la…\n\n\"E quem mandou <i>retalhar meu filho com uma arma</i>?! Qual é o problema de vocês?!\"\n\n… mas tivemos de recuar um passo quando ela, furiosa, começou a nos encher de tapas nas costas.\n\nTentamos explicar, às pressas, que o ferimento leve fora apenas para impedi-lo de roubar a trouxa; mas, talvez por ter visto o próprio filho ferido diante dos olhos, ela já não queria ouvir mais nada.\n\nNão nos restou senão seguir o caminho que íamos, fazendo o possível para ignorar os impropérios que choviam às nossas costas…"
+          ]
+        }
+      ]
+    }
+  ]
+}

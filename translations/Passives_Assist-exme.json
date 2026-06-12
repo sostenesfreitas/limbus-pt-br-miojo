@@ -1,0 +1,65 @@
+{
+  "dataList": [
+    {
+      "id": 40003801,
+      "name": "Protótipo de Prótese Especial da Limbus Company mk5 - Braços Dokkaebi",
+      "desc": "Início do Encontro: Ganha [AengduNewArm]\n\nSe houver no campo um aliado com menos de 50% de HP, excluindo esta unidade, ganha 1 [SupportProtect] (1 vez por turno)",
+      "summary": "Ganha [SupportProtect]",
+      "flavor": "\"Por fora, não parece nada diferente das próteses que se encontram em outros Ninhos ou nos becos… Mas, pelo visto, este membro protético foi criado com uma tecnologia exclusiva da Limbus Company. O que será que é?\"\n\n\"Como o desenvolvimento deste protótipo foi liderado pelo Departamento LCD, eu presumiria que tem algo a ver com o poder das Distorções… Ah, não que eu tenha qualquer certeza sobre o assunto — eu só fiquei encarregado do transporte, sabe. É mera especulação, na verdade. Em todo caso, duvido que seja uma prótese comum de aprimoramento corporal.\""
+    },
+    {
+      "id": 40003802,
+      "name": "Interceptação do Fogo Espectral",
+      "desc": "Fim da Habilidade: Ganha 1 [WindBlade] para cada 3 de [Breath] (máx. 5, 2 vezes por turno)\n\nNo Fim de uma Habilidade de Ataque Base: Com 15+ [WindBlade], ativa \"Acerto de Contas - Chama Cerúlea Cintilante\" contra o inimigo (1 vez por turno)\n\nAo perder um Embate com Habilidade de Defesa, se esta unidade tiver 3+ [Agility], ela não pode ser Atordoada por dano recebido até o Fim da Habilidade de Defesa e ativa \"Quebrar os Ossos\" contra o inimigo após ser atingida (2 vezes por turno, excluindo Atordoamentos forçados)",
+      "summary": "Ativa uma Habilidade adicional quando as condições são atendidas"
+    },
+    {
+      "id": 40003803,
+      "name": "Lâmina Veloz",
+      "desc": "Em Acerto Crítico, ganha 1 [Agility] no próximo turno (3 vezes por Habilidade, 2 vezes por turno)",
+      "summary": "Ganha [Agility]"
+    },
+    {
+      "id": 40003804,
+      "name": "O Lugar ao Qual Devo Retornar",
+      "desc": "Quando 3 ou mais outros aliados do Pacto da Lâmina forem derrotados:\n- Ao ganhar Potência/Contagem de [Breath] com as próprias Habilidades e efeitos de Moeda desta unidade: Ganha 1 a mais de cada\n- Quando 5 ou mais outros aliados do Pacto da Lâmina forem derrotados, ganha 2 a mais de cada em vez disso\n- Início do Combate: Aplica [SwordPlayOfTheHomeland] em si",
+      "summary": ""
+    },
+    {
+      "id": 40004001,
+      "name": "Fugitivo",
+      "desc": "Ao entrar no Encontro pela primeira vez, ganha [BrandedKimSatgat]"
+    },
+    {
+      "id": 40004002,
+      "name": "Conduta de um Salsu",
+      "desc": "Com 1 de Contagem de [Breath], perde 10 de HP em vez de perder Contagem de [Breath] (este efeito não pode Atordoar esta unidade e não reduz o HP desta unidade abaixo de 1)\n\nCausa +(porcentagem de HP perdido em si / 2) de dano em Acerto Crítico com Habilidades Base (máx. 50%)"
+    },
+    {
+      "id": 40004003,
+      "name": "Esgrima da Pátria",
+      "desc": "Início do Combate: Se a Reson. de Soberba foi ativada,\n- Ganha (Reson. de Soberba x 2) [Breath] (máx. 8)\n- Aplica 1 [SlashResultUp] e 1 [CriticalDamageUp] em todos os Pecadores e Unidades Auxiliares, excluindo esta unidade (para alvos do Pacto da Lâmina, este efeito é dobrado)\n\nFim do Turno: Ganha ([Breath] em si / 4) [Agility] no próximo turno (máx. 6, arredondado para baixo)"
+    },
+    {
+      "id": 40004004,
+      "name": "Líder do Pacto da Lâmina",
+      "desc": "Ao ganhar Potência/Contagem de [Breath] com as próprias Habilidades e efeitos de Moeda desta unidade: Aplica 1 de Potência de [Breath] e 1 de Contagem de [Breath] no Pecador e nas 2 Unidades Auxiliares que não tenham [Breath] ou que tenham a menor Potência de [Breath] (excluindo esta unidade)\n- Para aliados do Pacto da Lâmina, aplica 3 de Potência de [Breath] e +2 de Contagem de [Breath] em vez disso\n\nQuando um Pecador ou Unidade Auxiliar do Pacto da Lâmina é derrotado, esta unidade perde 10 SP"
+    },
+    {
+      "id": 40004005,
+      "name": "Entregar a Carne para Quebrar os Ossos",
+      "desc": "Neste Encontro, quando esta unidade recebe dano que reduziria seu HP a 0, anula esse dano; em seguida, o HP desta unidade não pode cair abaixo de 1 durante o turno (1 vez por Encontro)\n\nFim do Turno: Com 30+ de Potência de [Breath], fixa a Velocidade desta unidade em 20 no próximo turno e equipa \"Entregar a Carne\" no Slot mais à esquerda\n- Se \"Entregar a Carne\" se tornar inacessível devido a efeito de Habilidade, este efeito não ativa"
+    },
+    {
+      "id": 40004006,
+      "name": "Destino Perdido",
+      "desc": "Perde este Encontro se esta unidade é morta",
+      "flavor": "Pode-se perder-se e errar o caminho, mas desafiar voluntariamente ou desviar do fluxo é proibido por \"ela\"."
+    },
+    {
+      "id": 40003901,
+      "name": "Bolsa Dimensional [Ezra]",
+      "desc": "Início do Encontro: Ganha 1 [DimensionalBagEzraA]\n\nSe esta unidade usou a arma de Oficina atual mais de uma vez, troca de arma no próximo turno\n\nLista de armas:\n- Luvas da Oficina Allas\n- Martelo da Oficina Nester\n- Martelo Furador do Ateliê Screw\n- Manoplas da Oficina Namir\n- Machado do Ateliê YuRia"
+    }
+  ]
+}

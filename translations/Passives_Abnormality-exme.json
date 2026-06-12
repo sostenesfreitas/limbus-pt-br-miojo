@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": 145004,
+      "name": "Memória Latejante",
+      "desc": "Ao perder um Embate, ganha 1 [RegretSCorp] (1 vez por turno)"
+    },
+    {
+      "id": 144804,
+      "name": "Ch'unokkun",
+      "desc": "Se esta unidade infligiu [TiedRope] no alvo, ganha [TiedWithRope]",
+      "flavor": "A S Corp. dispõe de dois tipos de Caçadores do Tabu: os Censores Reais e os Ch'unokkuns.\nAgentes da Corte Real, os Censores Reais costumam agir sozinhos, movendo-se à paisana para perseguir aqueles que ousaram quebrar o Tabu de Salpippyeo.\nOs Ch'unokkuns, à semelhança dos Escritórios de Mandatários, formam bandos entre os seus. Quando lhes é confiada uma ordem ou um contrato para caçar um Marcado — qual Nobi, qual marca perseguir —, cada bando conduz a caçada à sua própria maneira. A caça aos Nobi não conhece honra nem decoro."
+    },
+    {
+      "id": 144801,
+      "name": "Faixa da Recaptura [推刷巾]",
+      "desc": "Causa +5% de dano para cada 1 de [Binding] no alvo (máx. 15%)",
+      "flavor": "Cobrir os olhos não é ficar cego.\nEsses tecidos, criados com a Singularidade da Q Corp., são confeccionados em muitas formas, como vendas e faixas de cabeça, e têm uso comum por todo o Leste. Não é raro ver Mandatários e funcionários de companhias do Leste cobrindo a cabeça e o rosto com esses produtos.\nOs tecidos cumprem a mesma função dos óculos escuros, das viseiras e dos olhos protéticos de combate encontrados no restante da Cidade. Eles leem as informações do alvo em tempo real, ampliam a visão de quem os veste e fornecem análise tática. Por vezes, podem também servir de meio de comunicação com aliados distantes."
+    },
+    {
+      "id": 144802,
+      "name": "Rastreio de Vestígios",
+      "desc": "Ao vencer um Embate, ganha 2 de [Breath] para cada [ScratchesHurt] no alvo"
+    },
+    {
+      "id": 144803,
+      "name": "Lançamento das Amarras Ohra",
+      "desc": "Ao Acertar, se o alvo entrar em Atordoamento, inflige 2 de [Binding] no próximo turno"
+    },
+    {
+      "id": 145201,
+      "name": "Informações Organizadas",
+      "desc": "Se esta unidade infligiu [TakePicture] em um inimigo, restaura 10 SP"
+    },
+    {
+      "id": 145202,
+      "name": "Cravação Firme",
+      "desc": "Ao disparar [VibrationExplosion] em um inimigo, aumenta o Limiar de Atordoamento do alvo no valor do Acúmulo de [LensmanNail]"
+    },
+    {
+      "id": 145001,
+      "name": "Esgrima da Pátria [Sal] - Grande Hwando",
+      "desc": "Início do Encontro: Ganha 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Assume outra Postura da Pátria a cada 3 turnos</color></mark></b></u>\n\nFim do Turno: Se esta unidade tiver Escudo, ganha 5 [Breath] e +2 de Contagem de [Breath] no próximo turno\n\nQuando as condições a seguir são atendidas, usa um padrão que inclui a Habilidade \"Arco da Pátria - Disparo da Flecha\"\n- Quando esta unidade perdeu todos os Embates por 2 turnos seguidos (não verifica Ataques Sem Oposição)\n- No turno seguinte a um turno passado em Atordoamento\n- Em Moral Baixo ou Pânico",
+      "flavor": "A Espada da Pátria, a arte tradicional de esgrima da S Corp., também se divide em três ramos: Sal, Pi e Ppyeo.\nEntre seus ensinamentos existem técnicas para talhar e fender criaturas de estatura colossal, como os Sanguns.\nPara executá-las por completo, o espadachim deve empunhar um grande hwando capaz de suportar o rigor dessas técnicas."
+    },
+    {
+      "id": 145002,
+      "name": "Brigantina Dujeong [Sal] - Muralha de Ferro",
+      "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (arredondado para baixo)\n\nGanha os efeitos de [PanicChangeLock]; se esta unidade estiver em Pânico no Fim do Turno, o SP é redefinido para 45\n\nAo entrar no Encontro pela primeira vez, ganha 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>Quando [ChoiSwordsmanshipShield] expirar, o Encontro é encerrado</color></mark></b></u>",
+      "flavor": "As Armaduras de Montaria do Leste não são tanto \"equipadas\" quanto \"pilotadas\". A Brigantina Dujeong da S Corp. é um exemplo dessas armaduras.\nAssim como o Traje de Armadura Motorizada da R Corp. e a Armadura de Placas Completa usada pelos Cavaleiros do Oeste, a Brigantina Dujeong amplia enormemente as capacidades ofensivas e defensivas de combate do usuário.\nContudo, tais vantagens não significam que as Armaduras de Montaria do Leste sejam fornecidas prontamente ao pessoal de combate. Cada unidade tem controles próprios e traz a limitação de exigir combustíveis específicos.\nO que permanece certo, porém, é que, como em todas as armaduras mencionadas, no momento em que o piloto se familiariza com o alcance estendido e a potência elevada da Brigantina Dujeong, ele se torna uma máquina de guerra que percorre os campos de batalha com a promessa de massacre."
+    },
+    {
+      "id": 145003,
+      "name": "Artes Marciais da Perseverança",
+      "desc": "Ao vencer um Embate, ganha +2 de Contagem de [Breath] (2 vezes por turno)\n\nSe o alvo atingido pela Habilidade desta unidade tiver menos de 5 de Potência de [Laceration], inflige 1 de [Laceration] e +2 de Contagem de [Laceration] no Fim do Ataque (1 vez por Habilidade, 2 vezes por turno, prioriza o alvo principal)",
+      "flavor": "'Há aqueles que perseveram no treino por falta de talento. E há aqueles abençoados pelo talento que o deixam enferrujar.'\n'Todos dizem que o título de Lâmina Suprema só pode ser tomado pelos dotados.'\n'Não importa. Até que chegue o dia em que esta minha lâmina se erga alto o bastante para tocar as nuvens, perseverarei em apurar minha destreza.'"
+    },
+    {
+      "id": 145005,
+      "name": "Entregar a Carne",
+      "desc": "Causa e recebe +20% de dano em Acerto Crítico contra e de Kim do Chapéu de Bambu",
+      "flavor": "\"Tomarei tua carne.\""
+    },
+    {
+      "id": 145006,
+      "name": "Memórias Reveladas",
+      "desc": "Ao entrar no Encontro, ganha 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Início do Turno: Com 0 de Acúmulo de [PhotoTransitionChoi], se retira e o combate muda de local</color></mark></b></u>\n\nAo retornar ao campo, com base na Postura da Pátria atual, ganha ou perde [ChoiSwordsmanship]\n- Em [ChoiSwordsmanshipOne]: Ganha Acúmulo\n- Em [ChoiSwordsmanshipMany]: Perde Acúmulo"
+    },
+    {
+      "id": 145007,
+      "name": "Memórias Desencontradas",
+      "desc": "Início do Turno: Ganha os seguintes efeitos:\n- Em [ChoiSwordsmanshipOne]: Com menos de 5 de Acúmulo de [ChoiSwordsmanship], ganha (5 - Acúmulo de [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- Em [ChoiSwordsmanshipMany]: Com mais de 5 de Acúmulo de [ChoiSwordsmanship], ganha <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> igual ao Acúmulo de [ChoiSwordsmanship] excedente de 5"
+    },
+    {
+      "id": 145101,
+      "name": "Esgrima da Pátria [Sal] - Rasgar Carne da Carne",
+      "desc": "Início do Encontro: Ganha 5 [ChoiSwordsmanship]\n\nAssume outra Postura da Pátria a cada 3 turnos\n\nAo Acertar com uma Habilidade de Corte, ganha 1 de Potência de [Breath] (1 vez por Habilidade)\n\nQuando as condições a seguir são atendidas, usa um padrão que inclui a Habilidade \"Arco da Pátria - Disparo da Flecha\"\n- Quando esta unidade perdeu todos os Embates por 2 turnos seguidos (não verifica Ataques Sem Oposição)\n- No turno seguinte ao Atordoamento\n- Em Moral Baixo ou Pânico\n\nInício do Turno: Com Acúmulo mínimo ou máximo de [ChoiSwordsmanship], usa uma Habilidade poderosa\nSe esta unidade usou a Habilidade \"Arco da Pátria - Disparo da Flecha\" no último turno, usa uma Habilidade poderosa independentemente do Acúmulo de [ChoiSwordsmanship] em si\nCom 55% ou menos de HP, usa uma Habilidade poderosa independentemente do Acúmulo de [ChoiSwordsmanship] em si (1 vez por Encontro)",
+      "flavor": "A Espada da Pátria transmitida na Facção da Corte Sal não é, em sua essência, uma arte de matar.\nCortar e cortar de novo, até que o sangue se esgote e o osso fique à mostra — essa é a essência desta arte, que desfia em tiras a carne do oponente.\nEssa é a Espada da Pátria praticada pelo \"Sal\"."
+    },
+    {
+      "id": 145104,
+      "name": "Esgrima da Pátria [Sal] - Mudança de Postura",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Início do Turno: Ganha ou perde 2 de Acúmulo de [ChoiSwordsmanship] com base na Postura da Pátria em si (não ativa no primeiro turno do Encontro)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Ganha Acúmulo\n- [ChoiSwordsmanshipMany]: Perde Acúmulo\n\nNo turno em que esta unidade equipar Habilidades de Inveja, ela não será afetada por efeitos de ajuste de Acúmulo de [ChoiSwordsmanship] e <color=#ff6000><mark color=#ff000040><b><u>redefinirá o Acúmulo de [ChoiSwordsmanship] para 5 no próximo turno</color></mark></b></u>"
+    },
+    {
+      "id": 145105,
+      "name": "Brigantina Dujeong [Sal] - Grande Montanha",
+      "desc": "Recebe -30% de dano de [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (arredondado para baixo)\n\nGanha os efeitos de [PanicChangeLock]; se esta unidade estiver em Pânico no Fim do Turno, o SP é redefinido para 45\n\nInício do Turno: Ganha os seguintes efeitos:\n\n- Em [ChoiSwordsmanshipOne]: Com menos de 5 de Acúmulo de [ChoiSwordsmanship], ganha (5 - Acúmulo de [ChoiSwordsmanship]) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n\n- Em [ChoiSwordsmanshipMany]: Com mais de 5 de Acúmulo de [ChoiSwordsmanship], ganha <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> igual ao Acúmulo de [ChoiSwordsmanship] excedente de 5",
+      "flavor": "Com base na Brigantina Dujeong padrão da S Corp., as três Facções da Corte — Sal, Pi e Ppyeo — criaram, cada uma, brigantinas ajustadas às próprias doutrinas.\nContam as velhas histórias que o \"Sal\" sempre abriu o primeiro ato do massacre: são eles que, antes de todos, rasgam a carne do inimigo.\nO \"Pi\" recolhe o sangue que escorre de cada carne aberta e o transforma em resistência no campo de batalha.\nO \"Ppyeo\" encarrega-se do desfecho do massacre. Separam junta por junta, pondo o inimigo de joelhos. Então, uma lâmina através do osso do pescoço encerra o ato coletivo de matar."
+    },
+    {
+      "id": 146101,
+      "name": "Memórias que se Dispersam",
+      "desc": "Ao morrer, concede +1 recurso de E.G.O da Afinidade em menor quantidade",
+      "summary": "Concede recurso de E.G.O ao morrer"
+    },
+    {
+      "id": 146001,
+      "name": "Distorção de Tipo Local: Laboratório de Revelação",
+      "desc": "Esta unidade não pode ser morta e não recebe nenhum dano além do dano de Habilidades que a atacam como alvo principal\n\nA Velocidade desta unidade é fixada em 1\n\nInício do Turno após entrar no Encontro: Ganha 3 [PhotoTransitionChoiCamera]\n\nFim do Turno: <color=#ff6000><mark color=#ff000040><b><u>Se [PhotoTransitionChoiCamera] chegar a 0 de Acúmulo, ou se o HP desta unidade chegar a 1</color></mark></b></u>, ativa o seguinte no Início do próximo Turno:\n- Remove a si mesma e os Funcionários de Classe 2 da N Corp. do Encontro\n- Faz Im Gyeong-eop retornar ao Encontro\n- Move a batalha para outro local"
+    },
+    {
+      "id": 146002,
+      "name": "Da Memória ao Registro",
+      "desc": "Início do Combate: Se o campo de batalha tiver retornado da S Corp. para a N Corp. neste turno, restaura 15 SP de todos os Pecadores"
+    }
+  ]
+}

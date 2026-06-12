@@ -51,6 +51,12 @@
             "desc": "Cada quarta habilidade usada recebe +4 de Poder Final e inflige 4 de [Combustion] Ao Atingir."
         },
         {
+            "id": 2040212,
+            "name": "Chama do 4° Fósforo",
+            "desc": "Cada quarta Habilidade que esta unidade usa recebe +4 de Poder Final e inflige 4 de [Combustion] Ao Atingir\n- Se a dita Habilidade for uma Habilidade de Ira, causa +(Potência de [Combustion] em todos os alvos / 2)% de dano adicional (máx. 20%)\n- Se a dita Habilidade for uma Habilidade E.G.O, aplica os seguintes efeitos no Início da primeira Moeda:\n· Se a dita Moeda for uma Moeda Positiva, cura 10 PS\n· Se a dita Moeda for uma Moeda Negativa, perde 15 PS (este efeito não pode reduzir o PS desta unidade para menos de -40)",
+            "summary": "Cada quarta Habilidade usada é aprimorada"
+        },
+        {
             "id": 2050111,
             "name": "Recusa em Julgar",
             "desc": "Início de Combate: recebe 3 de [Protection] se a unidade for alvejada por 3 ou mais habilidades."
@@ -547,8 +553,25 @@
         },
         {
             "id": 2021011,
-            "name": "Unsnuffed Embers",
+            "name": "Brasas que Não se Apagam",
             "desc": "Este efeito ativa imediatamente após usar Habilidade E.G.O ||  || Para cada 10 [Combustion] em si, aumenta a Potência de [Combustion] aplicada em inimigos com os efeitos de Habilidade de Ataque Base e Moeda desta unidade em 1 (máx. 2, excluindo 'Queimadura Única') ||  || Quando esta unidade usa a Habilidade 'A.B.S Sintonização Máx. 【Corrosão Degradada】', esta unidade não morre no Fim do Ataque da Habilidade; em vez disso, cura 40% de HP e ganha 2 [HitDamageUp] e 1 [CrimsonDamageUp] no próximo turno (uma vez por Encontro)"
+        },
+        {
+            "id": 2090911,
+            "name": "A Diferença entre Mariposas e Borboletas",
+            "desc": "Se a Habilidade de Ataque Base mais à esquerda desta unidade no Painel de Combate for uma Habilidade de Ira ou de Luxúria, no Fim do Ataque, causa a um inimigo aleatório 30% do dano causado ao alvo principal com tal Habilidade como dano da Afinidade correspondente (máx. 30 de dano; em Encontros Focados, a uma Parte)\n\nSe esta unidade causou o dano máximo possível com o efeito acima, recebe 1 de Dano de Afinidade Aumentado da Afinidade correspondente no próximo turno, e o efeito acima não ativa por 2 turnos"
+        },
+        {
+            "id": 2010212,
+            "name": "Brasas",
+            "desc": "<style=\"highlight\">Ao Usar uma Habilidade de Ira ou uma Habilidade que inflige Potência ou Contagem de [Combustion]: se a soma total de [Combustion] em todos os alvos for 6+, Poder de Confronto +1</style>\n\nEm Confronto Vencido, inflige (<style=\"highlight\">Resson. x 2</style> de Ira) de [Combustion] <style=\"highlight\">no alvo principal</style> (<style=\"highlight\">máx. 8</style> por Habilidade)",
+            "summary": "Recebe Poder de Confronto\nSe as condições forem atendidas, inflige [Combustion]"
+        },
+        {
+            "id": 2050911,
+            "name": "Gotas de Bebida na Ponta da Lâmina",
+            "desc": "[AlwaysUseEGOPassive2050911]\n\nAo Atingir com uma Habilidade Base, inflige 2 de [Laceration] no alvo (uma vez por Habilidade)\n\nEsta Identidade conta como uma Identidade que aplica [Laceration] e [Breath]\n- As Habilidades Base desta Identidade contam como Habilidades que infligem [Laceration] e [Breath]\n\n[WhenUseEGOPassive]\n\nQuando um aliado morre, recebe 1 de [AlcoholKimPersonal] no próximo turno\n- Se o aliado morto for do Pacto da Lâmina, recebe 2 de [AlcoholKimPersonal] no lugar\n\nInício de Turno: se esta unidade tiver [AlcoholKimPersonal], entra no estado [GhostKimPersonal]\n- Mentor do Pacto da Lâmina Meursault também recebe [RootSoupKimPersonal] quando o efeito acima ativa\n\nInício de Turno: se esta unidade não tiver [AlcoholKimPersonal], expiram os seguintes efeitos: [GhostKimPersonal], [GrudgePersonal] e [RootSoupKimPersonal]\n\nQuando esta unidade tem [AlcoholKimPersonal]: ao receber dano que reduziria seu PV a 0, cura PV igual a (Acúmulo de [AlcoholKimPersonal] x 25)% do PV Máximo; então, [AlcoholKimPersonal] expira (uma vez por Encontro; este efeito ativa após Passivas de Identidade com efeitos similares)\n- Se estiver Atordoado, recupera do Atordoamento (excluindo Atordoamentos forçados)",
+            "summary": "Recebe [AlcoholKimPersonal]"
         }
     ]
 }

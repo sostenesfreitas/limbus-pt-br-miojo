@@ -1,0 +1,206 @@
+{
+  "dataList": [
+    {
+      "id": "ScratchesHurt",
+      "name": "Ferida de Avulsão",
+      "desc": "- Acúmulo Máx.: 3\n- Início do Turno: Ganha 2 de Sangramento para cada Acúmulo\n• No Acúmulo máximo, ganha +1 de Contagem de Sangramento\n- Fim do Turno: Ganha Vínculo igual ao Acúmulo no próximo turno\n• No Acúmulo máximo, ganha também 1 de Poder de Ataque Reduzido no próximo turno\n- Fim do Turno: Se esta unidade não recebeu nenhum Acerto Crítico neste turno, perde 1 Acúmulo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TiedRope",
+      "name": "Amarração",
+      "desc": "- Acúmulo Base: 3\n- A Velocidade desta unidade é fixada em 1\n- O Poder de Moeda das Habilidades Base desta unidade é fixado em 0\n- Fim do Turno: Perde 1 Acúmulo\n- Se o buff \"Preparativos de Escolta\" de quem aplicou este efeito expirar, este efeito também expira",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Os de baixo caçam os de baixo para entregá-los aos de cima."
+    },
+    {
+      "id": "TiedWithRope",
+      "name": "Preparativos de Escolta",
+      "desc": "- Acúmulo Base: 1\n- Amarrando {0} no momento\n- A Velocidade desta unidade é fixada em 1\n- Se o efeito de Amarração que esta unidade infligiu no alvo expirar, ou se esta unidade for derrotada ou Atordoada, perde este efeito\n- Se o alvo em que esta unidade infligiu \"Amarração\" for derrotado neste turno, perde o efeito \"Preparativos de Escolta\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegretSCorp",
+      "name": "Memória Latejante",
+      "desc": "- Acúmulo Máx.: 1\n- Fim do Turno: Ganha 1 de Vínculo no próximo turno\n- Fim do Turno: Ganha (contagem de turnos atual / 4) de Poder de Embate Aumentado (arredondado para baixo, máx. 3)\n- Expira no Fim do Turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakePicture",
+      "name": "Coleta de Informações",
+      "desc": "- Ao usar uma Habilidade do mesmo grau da Habilidade fotografada, Poder de Embate -5\n(※ Habilidades de Defesa e Habilidades de E.G.O contam separadamente)\n({0})\n- Expira no Fim do Turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LensmanNail",
+      "name": "Prego de Fixação",
+      "desc": "- Acúmulo Máx.: 10\n- Início do Turno: Ganha 1 de Nível Ofensivo Reduzido para cada 2 de Vínculo (máx. 3)\n- Início do Turno: Ganha Sangramento igual ao Acúmulo\n- Em Explosão de Tremor, ganha Contagem de Sangramento igual ao Acúmulo (1 vez por turno)\n- Fim do Turno: Ganha Vínculo igual ao Acúmulo no próximo turno (máx. 6) e, em seguida, perde 1 Acúmulo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransition",
+      "name": "Transição de Memória",
+      "desc": "- Acúmulo Base: 3\n- Fim do Turno: Perde 1 Acúmulo. Se esta unidade tiver 0 Acúmulo deste efeito no Início do Turno, certas unidades e certos efeitos se transformam\n(se estiver Atordoada, recupera-se do Atordoamento)\n\n- Depois que o efeito acima ativa, o Acúmulo de Transição de Memória retorna ao valor Base",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AengduNewArm",
+      "name": "Braços Dokkaebi",
+      "desc": "- Nível Ofensivo Base +4\n- Nível Defensivo Base +4\n- Recebe -20% de dano\n- Ao Usar Habilidade, ganha 1 de Pressa no próximo turno (2 vezes por turno)\n- Fim do Combate: Ganha +2 de Contagem de Equilíbrio",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "“… Braços Dokkaebi? Referes-te, porventura, aos Dokkaebi que tantas vezes figuram nas histórias antigas? Hum…”\n“Custa-me crer, mas, depois de tudo que testemunhei sob a hospitalidade da Limbus Company, a existência dos Dokkaebi do folclore bem pode estar dentro do razoável.”\n“Pensando bem… recordo-me de ter ouvido falar de algo chamado 'Unidade Dokkaebi'…”"
+    },
+    {
+      "id": "WindBlade",
+      "name": "Oficina Mook - Saque Ye [銳] Tipo II / Propulsão: Fogo de Dokkaebi",
+      "desc": "- Acúmulo Máx.: 20\n- Causa +1% de dano de Corte para cada Acúmulo (máx. 10%)\n- Habilidades de Defesa perdem 1 de Poder de Embate para cada 2 Acúmulos (máx. 5)\n- Fim do Turno: Ganha 1 de Pressa no próximo turno para cada 5 Acúmulos (máx. 3)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "“Quê? Gostou desse modelo? Olha só, a nossa caçula tem bom olho, hein? Chefe~! Podemos experimentar este modelo aqui? Ah, relaxa! Conheço o esquema: 'quebrou, comprou'. Valeu! Hihi… Viu? Eu disse que sou cliente fiel daqui~ Beleza, a espada e a bainha são um conjunto, então segura as duas e sente o peso. E aí? Mais leve do que parece, né?”\n“Oh-hô…”\n“Tem uma partícula? Um pó? Uma coisa assim patenteada pela Oficina Mook dentro dessa bainha! Toda vez que você embainha e saca a espada, por um instante a lâmina sai bem mais afiada e mais leve! E esse modelo que você tá segurando é justamente o que foca na <i>afiação</i>! É tipo… *Tlim!*, e pronto: a arma ganha um buff dos bons!”\n“Acho que é um dos modelos da série Ye [銳] — a linha clássica da Oficina Mook, aliás. Olha o acabamento aqui, é… Quê?! Ei, este é o Ye [銳] 'Tipo II', que saiu de produção! Sério, isso aqui não é nada fácil de achar — que sorte ter sobrado um bem aqui!”\n“Se é peça tão rara, senhorita Ezra, talvez conviesse que a senhorita mesma a empunhasse…”\n“Nnngh… Não, tudo bem! Dá pra ver que ela foi feita pra você! E vai casar direitinho com os propulsores dos seus braços protéticos novos. Vai levar um tempo pra acostumar, mas, quando pegar o jeito, você não vai ficar atrás de ninguém! Enfim, considera um presente desta veterana aqui — agora você é oficialmente uma de nós. Oficialmente a nossa caçula! Chega de crachá temporário.”\n“Então… aceito com gratidão.”\n“Ah, é. Lembra da parte da 'linha clássica'? Ela é super resistente, mas <i>tem</i> umas partes delicadas que você precisa cuidar pra não quebrar… Quer saber, deixa quebrar se for preciso. Só…”\n“Só não morre, tá?”\n“… Guardarei estas palavras no fundo do coração.”"
+    },
+    {
+      "id": "Collage_LowMorale",
+      "name": "Memórias Embaralhadas",
+      "desc": "- Início do Turno: Ganha 1~3 de Nível Ofensivo Aumentado e 1~3 de Nível Defensivo Reduzido",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Collage_Panic",
+      "name": "Memórias Embaralhadas",
+      "desc": "- Início do Turno: Ganha 1~5 de Nível Ofensivo Aumentado e 1~5 de Nível Defensivo Reduzido",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_LowMorale",
+      "name": "Obsessão por Informações",
+      "desc": "- Em um Embate contra alvos que tenham Coleta de Informações, Poder Base +1 e causa +10% de dano\n- Início do Turno: Ganha 1 de Frágil",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_Panic",
+      "name": "Obsessão por Informações",
+      "desc": "- Em um Embate contra alvos que tenham Coleta de Informações, Poder Base +1 e causa +20% de dano\n- Início do Turno: Ganha 2 de Frágil",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Lowmorale",
+      "name": "Ressentimento",
+      "desc": "- Início do Turno: Ganha 1 de Poder de Ataque Aumentado e 1 de Poder Defensivo Reduzido\n- Fim do Turno: Ganha 2 de Pressa no próximo turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Panic",
+      "name": "Ressentimento",
+      "desc": "- Início do Turno: Ganha 2 de Poder de Ataque Aumentado e 2 de Poder Defensivo Reduzido\n- Fim do Turno: Ganha 2 de Pressa no próximo turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BrandedKimSatgat",
+      "name": "Marca a Ferro - No [奴]",
+      "desc": "- Nível Ofensivo Base -??\n- Nível Defensivo Base -??",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraETwo",
+      "name": "Bolsa Dimensional - Ateliê YuRia",
+      "desc": "Saca a próxima arma de Oficina da Bolsa Dimensional\n- Arma de Oficina atual: Machado do Ateliê YuRia\n- Próxima arma de Oficina: Luvas da Oficina Allas",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_LowMorale",
+      "name": "Remorso Entranhado",
+      "desc": "- Moral Baixo\n- Início do Turno: Ganha 2 de Dano Reduzido e restaura 40 de HP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_Panic",
+      "name": "Remorso Entranhado",
+      "desc": "- Pânico\n- Início do Turno: Ganha 3 de Dano Reduzido e restaura 60 de HP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanship",
+      "name": "Esgrima da Pátria [Sal]",
+      "desc": "- Acúmulo Mín.: 1; Acúmulo Máx.: 9\n- Ao Usar Habilidade, no Acúmulo mínimo ou máximo, converte todas as Moedas que esta unidade usa em <color=#ff6000><mark color=#ff000040><b><u>Moedas Inquebráveis</color></mark></b></u>\n- <color=#ff6000><mark color=#ff000040><b><u>O Poder Base e o Poder de Moeda das Habilidades variam conforme o Acúmulo</color></mark></b></u>\n· 1 ~ 2 Acúmulos: Poder Base -6, Poder de Moeda +4\n· 3 ~ 4 Acúmulos: Poder Base -3, Poder de Moeda +2\n· 5 Acúmulos: Sem efeito\n· 6 ~ 7 Acúmulos: Poder Base +4, Poder de Moeda -2\n· 8 ~ 9: Poder Base +8, Poder de Moeda -3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanshipOne",
+      "name": "Postura da Pátria - Caça ao Urso",
+      "desc": "Assume outra Postura da Pátria após {0} turno(s)\nUsa um padrão composto de Habilidades de <color=#ff6000><mark color=#ff000040><b><u>Moeda única</color></mark></b></u>\n\nIm Gyeong-eop leva vantagem com Acúmulo <color=#ff6000><mark color=#ff000040><b><u>mais alto</color></mark></b></u> de Esgrima da Pátria [Sal]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "As montanhas do Distrito 19 da S Corp. abrigam toda sorte de feras.\nEntre elas, o urso, em especial, ostenta força e ímpeto como os de pedras que despencam do penhasco num desmoronamento. Ceder terreno à investida da criatura é imprudente — deve-se abatê-la com o primeiro talho da lâmina."
+    },
+    {
+      "id": "ChoiSwordsmanshipMany",
+      "name": "Postura da Pátria - Caça ao Tigre",
+      "desc": "Assume outra Postura da Pátria após {0} turno(s)\nUsa um padrão composto de Habilidades de <color=#ff6000><mark color=#ff000040><b><u>múltiplas Moedas</color></mark></b></u>\n\nIm Gyeong-eop leva vantagem com Acúmulo <color=#ff6000><mark color=#ff000040><b><u>mais baixo</color></mark></b></u> de Esgrima da Pátria [Sal]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Os tigres são astutos e ferozes.\nNão há esperança de atravessar a carne de um tigre com um único golpe. Apenas uma torrente incessante de talhos encadeados pode subjugar a criatura até que enfim tombe.\nFalhe, e o tigre escapará da morte — ou vencerá seu oponente para um dia se tornar um Sangun, um Senhor da Montanha.\nSe esses seres concederão fortuna auspiciosa aos homens ou retornarão como calamidade maligna, é impossível dizer."
+    },
+    {
+      "id": "ChoiSwordsmanshipShield",
+      "name": "Brigantina Dujeong [Sal]",
+      "desc": "- Acúmulo Máx.: 5\n- Ao ganhar este efeito, ganha Escudo igual a 10% do HP máximo desta unidade para cada Acúmulo (mín. 1, arredondado para baixo; o Escudo obtido por este efeito não expira no Fim do Turno)\n- Início do Combate: Ganha 1 de Nível Defensivo Reduzido para cada 2 Acúmulos (arredondado para cima)\n- Causa +(Acúmulo x 2,5)% de dano de Corte\n- <color=#ff6000><mark color=#ff000040><b><u>Perde 1 Acúmulo ao receber dano no Escudo igual a 10% do HP máximo desta unidade</color></mark></b></u> (Dano restante no Escudo até a perda de Acúmulo: {0})",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoi",
+      "name": "Transição de Memória",
+      "desc": "- Acúmulo Base: 3\n- Fim do Turno: Perde 1 Acúmulo\n- <color=#ff6000><mark color=#ff000040><b><u>Com 1 Acúmulo, se retira no Fim do Turno e o combate muda de local</color></mark></b></u>\n- Ao retornar ao campo, com base na Postura da Pátria atual, ganha ou perde (nº de turnos passados em Retirada) de Acúmulo de Esgrima da Pátria [Sal]\n· Em Postura da Pátria - Caça ao Urso: Ganha Acúmulo\n· Em Postura da Pátria - Caça ao Tigre: Perde Acúmulo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoiCamera",
+      "name": "Transição de Memória",
+      "desc": "- Acúmulo Base: 3\n- Fim do Turno: Perde 1 Acúmulo\n- <color=#ff6000><mark color=#ff000040><b><u>Com 1 Acúmulo, se retira no Fim do Turno e o combate muda de local</color></mark></b></u>\n- Ao retornar ao campo, com base na Postura da Pátria atual de Im Gyeong-eop, Im Gyeong-eop ganha ou perde (nº de turnos que Im Gyeong-eop passou em Retirada) de Acúmulo de Esgrima da Pátria [Sal] (Atualmente em {0} turno(s))\n· Em Postura da Pátria - Caça ao Urso: Ganha Acúmulo\n· Em Postura da Pátria - Caça ao Tigre: Perde Acúmulo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_LowMorale",
+      "name": "Memórias Reveladas",
+      "desc": "- Moral Baixo\n- Ganha 1 de Frágil, causa +10% de dano e causa +15% de dano em Acerto Crítico",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_Panic",
+      "name": "Memórias Reveladas",
+      "desc": "- Pânico\n- Ganha 2 de Frágil, causa +10% de dano, causa +30% de dano em Acerto Crítico e dobra os efeitos infligidos pelas Moedas da Habilidade \"Arco da Pátria [Sal] - Disparo da Flecha\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraDTwo",
+      "name": "Bolsa Dimensional - Oficina Namir",
+      "desc": "Saca a próxima arma de Oficina da Bolsa Dimensional\n- Arma de Oficina atual: Manoplas da Oficina Namir\n- Próxima arma de Oficina: Machado do Ateliê YuRia",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Esta tem a Singularidade da G Corp. embutida — a Esfera! Funciona assim: você flutua pra cima, aperta o botão no ar e cai com o peso da gravidade. Acerta um golpe sólido, e vai ser... brutal.\""
+    }
+  ]
+}

@@ -243,7 +243,7 @@
         {
             "id": 10001,
             "name": "Egocristal de [Pecador Selecionado] da 1ª Temporada",
-            "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+            "desc": "Para exibição detalhada da probabilidade de aparição da moeda (traduzir apenas o campo name)",
             "flavor": ""
         },
         {
@@ -393,13 +393,13 @@
         {
             "id": 10002,
             "name": "Egocristal de [Pecador Selecionado] da 2ª Temporada",
-            "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+            "desc": "Para exibição detalhada da probabilidade de aparição da moeda (traduzir apenas o campo name)",
             "flavor": ""
         },
         {
             "id": 4,
             "name": "Yisang [Idealidade]",
-            "desc": "천장 재화 표시용(name 만 번역해주세요)",
+            "desc": "Para exibição da moeda do sistema de teto (traduzir apenas o campo name)",
             "flavor": ""
         },
         {
@@ -417,7 +417,7 @@
         {
             "id": 5,
             "name": "Egocristais",
-            "desc": "자판기 재화 표시용(name 만 번역해주세요)",
+            "desc": "Para exibição da moeda da máquina de venda (traduzir apenas o campo name)",
             "flavor": ""
         },
         {
@@ -446,7 +446,7 @@
         },
         {
             "id": 20017,
-            "name": "Pocket Watch",
+            "name": "Relógio de Bolso",
             "desc": "Todos tem seu próprio relógio, com uma escala de tempo que vária.\nO tempo que vai cedo. O tempo que fica tarde.\nAs horas sempre desalinhadas.",
             "flavor": ""
         },
@@ -592,6 +592,30 @@
             "id": 20044,
             "name": "Meada Chamuscada e Separada",
             "desc": "Aparece raramente. Convertido em 20 Fio Cortado imediatamente após a aquisição. ||  || <color=#a16a3b>Para verdadeiramente cortar um fio, deve ser queimado, não cortado. Agudeza é um meio insuficiente para alcançar a aniquilação total que queima e derrete até os remanescentes persistentes de uma conexão de outrora até os fiapos desfiados de fios separados. Deve ser que apenas com determinação resoluta e coração se possa cortar tal conexão. ||  || Se esses fios cortados e chamuscados forem torcidos novamente, talvez o novo fio resultante possa ser usado para conectar corações mais uma vez? Certamente espero que sim, embora não haja como sabermos neste momento.</color>",
+            "flavor": ""
+        },
+        {
+            "id": 238,
+            "name": "Módulo de Impulsionamento - Tecer de E.G.O [ZAYIN]",
+            "desc": "Aumenta o Estágio de Tecelagem de um E.G.O até o Estágio 4. (Utilizável apenas em E.G.Os de nível ZAYIN)\n\n<color=#a16a3b>Acelera enormemente a Tecelagem de um E.G.O de nível [ZAYIN], entrelaçando-o com uma grande quantidade de fragmentos em um curto período de tempo. 'Se o fio daqui estremece, um dia o fio de lá estremece também…' — é o que dizem as pessoas deste lugar. Se tudo estiver mesmo atado por fios, como elas afirmam, então decifrar algo seria o mesmo que ir desatando o fio. Fico me perguntando: o que aconteceria se <i>todos</i> os fios que me envolvem fossem desatados?</color>",
+            "flavor": ""
+        },
+        {
+            "id": 20045,
+            "name": "Lente Queimada",
+            "desc": "Usado para trocar várias recompensas na loja de Troca de Recompensas \"Reflectrial][lairtcelfeR\".\n\n<size=75%><color=#a16a3b>Através do vidro distorcido, aquilo é projetado. Aqueles refletidos nesta lente logo são colados em filmes e, em pouco tempo, descolam-se deles; soltos, tornam-se sombras que bloqueiam o caminho. Infelizmente, toda lente tem uma vida útil: a lente que deixou a luz escaldante atravessar o seu corpo inteiro acaba queimada por completo, e uma lente nova toma o seu lugar para preservar as sombras projetadas. As lentes queimadas são deixadas para trás assim, como se fossem relíquias dos mortos.\n\n\"Será que eles fazem ideia de quão absurdamente caras essas lentes são, para gastá-las desse jeito… Melhoria da capacidade de combate, análise de processo — sim, eu sei que as justificativas são todas válidas, mas usar tanto assim não me entra na cabeça. Essa companhia deve estar mesmo nadando em dinheiro.\"</color></size>\n",
+            "flavor": ""
+        },
+        {
+            "id": 20046,
+            "name": "Fotos",
+            "desc": "Usado para comprar várias recompensas no menu de Troca de Recompensas.\n\n<color=#a16a3b>Clique. Este é o som de um martelo cravando um prego. Mas o que exatamente está sendo cravado? A câmera intercepta e captura a luz de um certo instante, pregando-a em um papel áspero para exibição. A foto foi tirada para registrar, ou para recordar? Talvez o nome de uma fotografia devesse mudar conforme o propósito a que ela serve. Afinal, são dignas de pena as luzes pregadas a marteladas apenas para serem registradas, sem nunca serem lembradas. Nas fotos reveladas, a luz morta grita em desespero, queimada e enegrecida. A luz morta, que pereceu gritando onde foi pregada, registra na foto o sorriso de alguém.</color>",
+            "flavor": ""
+        },
+        {
+            "id": 20047,
+            "name": "Maços de Fotos",
+            "desc": "Aparece raramente. Convertido em 20 Fotos imediatamente após a aquisição.\n\n<color=#a16a3b>'Quantas fotos recuperadas… Ah, sabia disso? Estas fotos são matéria produzida por uma Distorção, e mesmo assim continuam existindo. Alguns subprodutos de Distorção desaparecem junto com a resolução da Distorção, mas outros, como estes, permanecem mesmo depois de tudo terminado. Será que isso depende da natureza da Distorção? Bem, sabemos que esta Distorção queria deixar algo, registrar e recordar… por isso deixou fotos… então talvez seja por essa natureza que estes subprodutos também tenham ficado para trás, como uma espécie de \"registro\". Preciso pesquisar mais a fundo o que exatamente faz essa propriedade variar de uma Distorção para outra. Bom, trabalhando na LCD, em breve devo descobrir… apesar de eu não querer nada de cooperar com a LCE.'</color>",
             "flavor": ""
         }
     ]

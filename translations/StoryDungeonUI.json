@@ -99,6 +99,10 @@
         {
             "id": "formation_ui_ask_to_use_saved_formation",
             "content": "Seu Loadout de Equipe atual será substituído por este novo Loadout. || Você substituirá seu Loadout de Equipe atual por este Loadout? ||  || <size=80%>※ Uma vez que seu Loadout de Equipe tenha sido substituído, você não pode reverter para seu Loadout anterior. || ※ Mudanças de Loadout feitas no meio das Masmorras da História não têm efeito nos Loadouts na Janela de Pecadores.</size>"
+        },
+        {
+            "id": "story_to_be_return_stage_continue_used_warning",
+            "content": "\n※ Recursos gastos pela função Continuar não serão devolvidos ao fim da exploração."
         }
     ]
 }

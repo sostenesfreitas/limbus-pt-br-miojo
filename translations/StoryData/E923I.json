@@ -1,0 +1,602 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Sala de Projeção, Distrito 14",
+      "model": "에즈라먼지",
+      "content": "Hah… Só mais um pouco e acho que a gente consegue arrebentar aquele trambolho de vez, só que…"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘다침",
+      "content": "Até contra aquele espadachim gigante, é só a gente achar que abriu uma brecha que ele some de repente…"
+    },
+    {
+      "id": 2,
+      "model": "이스마엘다침",
+      "content": "Haa… Se desse pra eliminar ao menos <i>um</i> que fosse, acho que já melhorava bastante."
+    },
+    {
+      "id": 3,
+      "content": "Os Pecadores aparentavam estar bem mais exaustos do que de costume."
+    },
+    {
+      "id": 4,
+      "content": "Não era como se estivéssemos enfrentando um inimigo aterrador e avassalador. Além do mais, não estávamos sozinhos: tínhamos a ajuda de Ezra e Aeng-du."
+    },
+    {
+      "id": 5,
+      "content": "Mas…"
+    },
+    {
+      "id": 6,
+      "model": "히스클리프다침2",
+      "content": "Aargh…! Isso aqui, hah… vai acabar quando, hein?!"
+    },
+    {
+      "id": 7,
+      "model": "히스클리프다침2",
+      "content": "E ainda ficam vazando correndo, igual uns ratos…!"
+    },
+    {
+      "id": 8,
+      "model": "그레고르다침",
+      "content": "Pra começo de conversa, hah… será que dominar aquela pessoa que fica brandindo aquela espada absurdamente grande resolve mesmo esta Distorção…?"
+    },
+    {
+      "id": 9,
+      "model": "히스클리프다침2",
+      "content": "E eu é que sei…? Eles vêm pra cima, não dá pra ficar parado só apanhando, né? E a porta pra vazar tá bloqueada por causa daqueles caras…"
+    },
+    {
+      "id": 10,
+      "place": "Rua da Manteiga Distorcida, Distrito 14",
+      "content": "Por causa dos clarões incessantes e do espaço que não parava de alternar entre a N Corp. e a S Corp., os Pecadores não conseguiam dar cabo nem do projetor que jorrava luz, nem da tal Im Gyeong-eop, que brandia uma espada colossal com fúria assustadora — só acumulavam exaustão."
+    },
+    {
+      "id": 11,
+      "place": "Sala de Projeção, Distrito 14",
+      "content": "E, acima de tudo…"
+    },
+    {
+      "id": 12,
+      "model": "뉴김삿갓",
+      "content": "…Hup!"
+    },
+    {
+      "id": 13,
+      "model": "에즈라먼지",
+      "content": "Aeng-du! Cobre direitinho as costas dele também!"
+    },
+    {
+      "id": 14,
+      "model": "뉴앵두",
+      "content": "Acaso haveria dúvida! Assim se fará!"
+    },
+    {
+      "id": 15,
+      "content": "Os funcionários da N Corp. eram numerosos demais."
+    },
+    {
+      "id": 16,
+      "content": "No começo não parecia ser tanto assim… mas, com as baixas constantes de funcionários num lugar colado no Ninho da N Corp., eles pareciam mandar reforços cada vez maiores."
+    },
+    {
+      "id": 17,
+      "content": "…Será que não há uma saída?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<…Faust, Outis. Tenho uma pergunta pra cada uma.>"
+    },
+    {
+      "id": 19,
+      "content": "Decidi ser franco e perguntar aos Pecadores, um a um, sobre o conhecimento que me faltava."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<A primeira: como dar um jeito nesses funcionários que a N Corp. não para de mandar.>"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<E a outra… se derrotar essa tal de Im Gyeong-eop, ou destruir aquele projetor, pode pôr fim a este fenômeno de Distorção.>"
+    },
+    {
+      "id": 22,
+      "model": "오티스다침",
+      "content": "Falando com franqueza, Gerente Executivo: com o ritmo atual de reforços inimigos, dificilmente nosso efetivo conseguirá abrir caminho sozinho."
+    },
+    {
+      "id": 23,
+      "model": "오티스다침",
+      "content": "O quartel-general inimigo está logo ali… E, além disso, o fenômeno causado por aquele objeto sinistro reduz demais a velocidade com que eliminamos cada leva — o que também pesa contra nós."
+    },
+    {
+      "id": 24,
+      "model": "오티스다침",
+      "content": "…Envergonha-me fazer este relato, mas, com uma única entrada e a rota de fuga bloqueada, é difícil esperar qualquer melhora do quadro, a menos que recebamos reforços do nosso lado."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<…É. Pra mim também parece ser esse o caso.>"
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<Se ao menos a gente conseguisse encerrar o fenômeno de Distorção…>"
+    },
+    {
+      "id": 27,
+      "model": "파우스트다침",
+      "content": "…Faust."
+    },
+    {
+      "id": 28,
+      "model": "파우스트다침",
+      "content": "…recomenda romper o impasse por meio da Masmorra das Profundezas. Dante."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Masmorra das Profundezas…? Mas isso só funciona se der pra dialogar com…>"
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<…Ah, espera.>"
+    },
+    {
+      "id": 31,
+      "content": "De repente, veio-me à mente algo que vivemos na LCE."
+    },
+    {
+      "id": 32,
+      "place": "Equipe de Pesquisa da LCE\nAla de Experimentos, Passado",
+      "model": "알리사",
+      "content": "<i>Ele disse que é só ler o que está escrito aí diante do próprio Hohenheim distorcido. Ele disse que é uma espécie de… senha.</i>"
+    },
+    {
+      "id": 33,
+      "place": "Sala de Projeção, Distrito 14",
+      "model": "단테",
+      "content": "<Ah… As palavras-chave!>"
+    },
+    {
+      "id": 34,
+      "content": "Uma Distorção de Tipo Local significa que este espaço inteiro é a própria Distorção… Mesmo quando o clarão branco lampeja e a forma distorcida da S Corp. some sem deixar rastro, continuamos dentro dela."
+    },
+    {
+      "id": 35,
+      "content": "Sendo assim… bastaria dizer as palavras-chave, em qualquer lugar, para invocar a entrada da Masmorra das Profundezas."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<E-então, quais são as palavras-chave desta Distorção?>"
+    },
+    {
+      "id": 37,
+      "content": "O problema é que, daquela vez, foi o próprio Hohenheim quem definiu as palavras-chave de antemão…"
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Bom… \"fotografia\" com certeza deve entrar. Foi o cerne de todo o fenômeno.>"
+    },
+    {
+      "id": 39,
+      "model": "이상다침",
+      "content": "Eu… diria que a palavra \"experiência\" talvez convenha."
+    },
+    {
+      "id": 40,
+      "content": "Yi Sang, que recuara um instante para recobrar o fôlego perto de mim, também deu sua contribuição."
+    },
+    {
+      "id": 41,
+      "model": "이상다침",
+      "content": "A obsessão deste homem por experiências nada tem de ordinária. Por certo serviu de pano de fundo para a razão de sua Distorção."
+    },
+    {
+      "id": 42,
+      "model": "파우스트다침",
+      "content": "\"Experiência\"… por si só, é um tanto leve demais."
+    },
+    {
+      "id": 43,
+      "model": "파우스트다침",
+      "content": "Ele deve ter se obcecado por algo mais essencial… Uma palavra que carregue o sentido de experiência e que, ao mesmo tempo, remeta à tecnologia da N Corp. pela qual ele se obcecou."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<Experiências Enlatadas?>"
+    },
+    {
+      "id": 45,
+      "model": "파우스트다침",
+      "content": "…É provável que sim, pensa Faust."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Então… Fotografia, Experiências Enlatadas…?>"
+    },
+    {
+      "id": 47,
+      "model": "이상다침",
+      "content": "…Nada de especial parece suceder."
+    },
+    {
+      "id": 48,
+      "content": "…Não. Mas dava para sentir."
+    },
+    {
+      "id": 49,
+      "place": "Sala de Revelação, Distrito 14, Passado",
+      "model": "단테",
+      "content": "<i><Será que fotos assim servem de matéria-prima pras Experiências Enlatadas?></i>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Então aquilo de antes era a sensação da Distorção se desestabilizando…>"
+    },
+    {
+      "id": 51,
+      "content": "Mas a impressão era de que ainda faltava um pouco de força para abrir a Masmorra das Profundezas… Quantas mais seriam necessárias?"
+    },
+    {
+      "id": 52,
+      "place": "Sala de Projeção, Distrito 14",
+      "model": "뉴김삿갓",
+      "content": "…Casebre."
+    },
+    {
+      "id": 53,
+      "model": "싱클레어다침",
+      "content": "Como?"
+    },
+    {
+      "id": 54,
+      "model": "뉴김삿갓",
+      "content": "Ué, não era pra gente deduzir por que aquele sujeito se distorceu?"
+    },
+    {
+      "id": 55,
+      "model": "뉴김삿갓",
+      "content": "Vendo todo mundo soltar uma palavra de cada vez, achei que era algum tipo de adivinha zen, sei lá."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어다침",
+      "content": "Ahn… não é bem isso, não… Mas, por que \"casebre\"?"
+    },
+    {
+      "id": 57,
+      "model": "뉴김삿갓",
+      "content": "Quando se mata o serviço como eu, tudo acaba entrando pelos olhos, querendo ou não."
+    },
+    {
+      "id": 58,
+      "model": "뉴김삿갓",
+      "content": "Deve ser porque ele fuçou cada canto desta região com aquela câmera caríssima a tiracolo. Era só eu pegar uma coisinha numa banca e soltar uma pergunta de leve que toda conversa acabava apontando pro mesmo homem."
+    },
+    {
+      "id": 59,
+      "model": "뉴김삿갓",
+      "content": "O falatório corre solto no mercado. Um homem que vivia cheio de brio, jurando que ia subir na vida por mérito próprio e comprar casa no Ninho… até que, possuído por algum demônio esquisito, torrou toda a fortuna nessa mania de fotografia…"
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "content": "…e terminou penando como inquilino de um casebre onde mal cabem duas esteiras. É essa a história."
+    },
+    {
+      "id": 61,
+      "model": "이상다침",
+      "content": "Quer dizer que, perseguindo um ideal, ele acabou por dilapidar todo o patrimônio."
+    },
+    {
+      "id": 62,
+      "model": "뉴김삿갓",
+      "content": "…Entrei naquele quarto decrépito e li algumas linhas que ele havia deixado escritas."
+    },
+    {
+      "id": 63,
+      "model": "뉴김삿갓",
+      "content": "Quando a chuva goteja por cima e a umidade sobe por baixo, o juízo se turva — é a lei das coisas."
+    },
+    {
+      "id": 64,
+      "model": "뉴김삿갓",
+      "content": "Feito louco, feito ébrio. O dono daquele quarto acabou, enfim, perdendo a si mesmo."
+    },
+    {
+      "id": 65,
+      "content": "A expressão de Kim do Chapéu de Bambu estava sombria como nunca."
+    },
+    {
+      "id": 66,
+      "content": "Não… na verdade, era como se eu já a tivesse visto uma vez."
+    },
+    {
+      "id": 67,
+      "content": "Não — seria mais exato dizer que eu a havia <i>ouvido</i>: na voz com que ele recitava o imaginário distorcido pela culpa, aquela expressão sombria parecia transparecer."
+    },
+    {
+      "id": 68,
+      "content": "Talvez fosse natural, então, que dentre toda a multidão presente, esta Distorção estivesse fitando justamente Kim do Chapéu de Bambu."
+    },
+    {
+      "id": 69,
+      "model": "단테",
+      "content": "<Fotografia, Experiências Enlatadas… Casebre.>"
+    },
+    {
+      "id": 70,
+      "content": "Como se a última peça que faltava tivesse se encaixado, o espaço crepitou e se desmanchou por um instante…"
+    },
+    {
+      "id": 71,
+      "content": "…e abriu-se o caminho rumo às profundezas de um certo distorcido."
+    },
+    {
+      "id": 72,
+      "model": "단테",
+      "content": "<Então…>"
+    },
+    {
+      "id": 73,
+      "model": "오티스다침",
+      "content": "Sim, às suas ordens. Gerente."
+    },
+    {
+      "id": 74,
+      "model": "뉴앵두",
+      "content": "Senhorita Ezra, eis aqui o portal que conduz às profundezas, aquele de que falei na outra ocasião."
+    },
+    {
+      "id": 75,
+      "model": "에즈라먼지",
+      "content": "Caraca… Então é isso? Abriram mesmo, hein."
+    },
+    {
+      "id": 76,
+      "model": "에즈라먼지",
+      "content": "Só que…"
+    },
+    {
+      "id": 77,
+      "content": "Ezra, porém, continuava ocupada demais lidando com os que atacavam do lado de fora."
+    },
+    {
+      "id": 78,
+      "content": "Com os Pecadores não era diferente. Alguns haviam recuado para a retaguarda, prontos para atravessar rumo à Masmorra, mas outros, como Hong Lu e Gregor, ainda lutavam arduamente contra os funcionários da N Corp., que não paravam de chegar."
+    },
+    {
+      "id": 79,
+      "model": "그레고르다침",
+      "content": "Urgh… Se a gente entrar ali e deixar esses caras soltos, eles vêm atrás, né?"
+    },
+    {
+      "id": 80,
+      "model": "홍루다침",
+      "content": "Haha… Provavelmente?"
+    },
+    {
+      "id": 81,
+      "model": "홍루다침",
+      "content": "Afinal, não éramos só nós, que estamos ligados ao senhor Dante — outras pessoas também podiam entrar…"
+    },
+    {
+      "id": 82,
+      "model": "그레고르다침",
+      "content": "A gente pode acabar espremido, com inimigo na frente e atrás… é o que parece."
+    },
+    {
+      "id": 83,
+      "model": "뉴김삿갓",
+      "content": "…Eu fico segurando eles."
+    },
+    {
+      "id": 84,
+      "content": "Ao ouvir aquilo, Kim do Chapéu de Bambu falou com serenidade."
+    },
+    {
+      "id": 85,
+      "model": "뉴김삿갓",
+      "content": "Minha espada já não é o que era, mas ainda serve muito bem pra um trabalho desses."
+    },
+    {
+      "id": 86,
+      "model": "뉴김삿갓",
+      "content": "E também não me agrada pisar num lugarejo sinistro que nunca vi e me meter em complicação à toa… sabe? Haa."
+    },
+    {
+      "id": 87,
+      "content": "…Será que ele estava falando aquilo por pensar assim mesmo?"
+    },
+    {
+      "id": 88,
+      "content": "Para quem teria se voluntariado só porque alguém precisava conter os perseguidores, a expressão dele…"
+    },
+    {
+      "id": 89,
+      "model": "뉴료슈담배다침",
+      "content": "Ri. Dí."
+    },
+    {
+      "id": 90,
+      "model": "뉴김삿갓",
+      "content": "Hã?"
+    },
+    {
+      "id": 91,
+      "model": "뉴료슈담배다침",
+      "content": "Falei que isso é ridículo."
+    },
+    {
+      "id": 92,
+      "model": "뉴료슈담배다침",
+      "content": "Mentira, pelo menos, se conta fingindo sinceridade — aí talvez alguém acredite. Achou mesmo que essa desculpa esfarrapada ia colar?"
+    },
+    {
+      "id": 93,
+      "model": "뉴김삿갓",
+      "content": "……."
+    },
+    {
+      "id": 94,
+      "model": "뉴료슈담배다침",
+      "content": "Do que você tá fugindo, espadachim? Esse é o olhar de criança enrolando pra não fazer o dever de casa."
+    },
+    {
+      "id": 95,
+      "model": "뉴김삿갓",
+      "content": "Não disseram que essa tal Masmorra das Profundezas leva pra dentro das profundezas que a Distorção está contemplando?"
+    },
+    {
+      "id": 96,
+      "model": "뉴김삿갓",
+      "content": "Então o que há lá dentro, com certeza… há de ser igualzinho às minhas próprias profundezas, essas que aquela coisa fica espiando."
+    },
+    {
+      "id": 97,
+      "model": "히스클리프다침2",
+      "content": "Então é óbvio que você tem que vir junto."
+    },
+    {
+      "id": 98,
+      "model": "히스클리프다침2",
+      "content": "Se você não guiar a gente direito, vamos ficar rodando perdidos por lá, não vamos?"
+    },
+    {
+      "id": 99,
+      "model": "뉴김삿갓",
+      "content": "Ah, é que…"
+    },
+    {
+      "id": 100,
+      "model": "뉴료슈반담다침",
+      "content": "Melhor você pensar simples, que nem aquele ali."
+    },
+    {
+      "id": 101,
+      "model": "뉴료슈반담다침",
+      "content": "Dever de casa não some só porque você empurra com a barriga. Ele se acumula, se acumula… e transforma o último dia que sobrou das férias de verão num tormento."
+    },
+    {
+      "id": 102,
+      "content": "Como que respondendo às palavras de Ryōshū, um zunido animado ressoou da bainha de Arayashiki."
+    },
+    {
+      "id": 103,
+      "model": "뉴료슈반담다침",
+      "content": "Para de enrolar. Vai lá você mesmo e encara o seu dever de casa."
+    },
+    {
+      "id": 104,
+      "model": "뉴료슈반담다침",
+      "content": "Encare o dever de casa e… salve as férias de verão… era isso?"
+    },
+    {
+      "id": 105,
+      "model": "파우스트다침",
+      "content": "…É \"Encare o pecado… Salve o E.G.O.\"."
+    },
+    {
+      "id": 106,
+      "model": "파우스트다침",
+      "content": "É a recomendação da empresa."
+    },
+    {
+      "id": 107,
+      "model": "뉴김삿갓",
+      "content": "……."
+    },
+    {
+      "id": 108,
+      "model": "에즈라먼지",
+      "content": "…Vai lá, vai?"
+    },
+    {
+      "id": 109,
+      "model": "에즈라먼지",
+      "content": "Vocês também, LCB, podem ir todo mundo. Aqui, eu sozinha dou conta."
+    },
+    {
+      "id": 110,
+      "model": "뉴김삿갓",
+      "content": "…A senhorita, sozinha?"
+    },
+    {
+      "id": 111,
+      "model": "에즈라먼지",
+      "content": "Tá me achando o quê?… Há! Acha que a líder de equipe Moses me mandou junto com vocês à toa?"
+    },
+    {
+      "id": 112,
+      "model": "에즈라먼지",
+      "content": "Na época em que era só eu e a líder trabalhando juntas, uma situação dessas aparecia tipo uma vez por semana~ Eu seguro isso sozinha e ainda sobra."
+    },
+    {
+      "id": 113,
+      "model": "에즈라먼지",
+      "content": "Eu até queria ver de pertinho de que jeito vocês capturam o Ponto de Inflexão~ mas fazer o quê, que pena."
+    },
+    {
+      "id": 114,
+      "model": "에즈라먼지",
+      "content": "Mas os nossos dois novatos vão lá observar tudo direitinho como representantes da equipe de investigação de campo, né?"
+    },
+    {
+      "id": 115,
+      "model": "에즈라먼지",
+      "content": "Pensando bem, acho que é esse tipo de coisa que faz uma boa veterana. Hihi."
+    },
+    {
+      "id": 116,
+      "model": "뉴김삿갓",
+      "content": "…Não que me agrade, mas…"
+    },
+    {
+      "id": 117,
+      "model": "뉴김삿갓",
+      "content": "…enquanto esse crachá estiver pendurado em mim, não tem muito jeito, né…"
+    },
+    {
+      "id": 118,
+      "content": "Com um suspiro, Kim do Chapéu de Bambu balançou a cabeça e veio se arrastando na nossa direção, como quem não tem escolha."
+    },
+    {
+      "id": 119,
+      "model": "뉴앵두",
+      "content": "Pois bem, eu adentrarei primeiro."
+    },
+    {
+      "id": 120,
+      "model": "뉴앵두",
+      "content": "Ah, Mentor. Como a entrada está flutuando no ar, venha com cuidado para não tropeçar."
+    },
+    {
+      "id": 121,
+      "model": "뉴김삿갓",
+      "content": "Isso eu sei, Aeng-du… Se está tão preocupada assim, por que não traz logo uma escada e arma aqui?"
+    },
+    {
+      "id": 122,
+      "model": "뉴앵두",
+      "content": "…O senhor necessita de uma?"
+    },
+    {
+      "id": 123,
+      "model": "뉴김삿갓",
+      "content": "…R-retiro o que eu disse."
+    }
+  ]
+}

@@ -1,0 +1,1224 @@
+{
+  "dataList": [
+    {
+      "id": 144801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aperto das Amarras Ohra",
+          "desc": "[WhenUse] Com 6+ de ([Breath] em si + [Laceration] no alvo), Poder Base +1\n[WhenUse] Recebe +3 de Contagem de [Breath]\n- Se a Velocidade desta unidade for maior que a do alvo, recebe +1 de Contagem de [Breath] adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [ScratchesHurt] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corte dos Tendões",
+          "desc": "[WhenUse] Poder Base +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte a Moeda final em [SuperCoin]\n[WhenUse] Recebe 2 de [Breath] e +3 de Contagem de [Breath]\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, recebe 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ScratchesHurt] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Talho Dilacerante",
+          "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s\n[WhenUse] Recebe 3 de [Breath]\n[WinDuel] Recebe 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ScratchesHurt] no próximo turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [ScratchesHurt] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Marcação a Ferro",
+          "desc": "Prioriza o alvo que tem [TiedRope]\nSe a Velocidade desta unidade for maior que a do alvo, causa +25% de dano para cada 1 de diferença de Velocidade (máx. 100%)\n[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloqueio de Fuga",
+          "desc": "[DuelCounter]\n[WhenUse] Poder Base +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Recebe 3 de [Breath]\n[WinDuel] Recebe +3 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ScratchesHurt] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Subjugação",
+          "desc": "[WhenUse] Com 6+ de ([Breath] em si + [Laceration] no alvo), Poder Base +1\n[WhenUse] Recebe +3 de Contagem de [Breath]\n- Se a Velocidade desta unidade for maior que a do alvo, recebe +1 de Contagem de [Breath] adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estrangulamento",
+          "desc": "[WhenUse] Poder Base +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte a Moeda final em [SuperCoin]\n[WhenUse] Recebe 2 de [Breath] e +2 de Contagem de [Breath]\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, recebe 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Execução da Recaptura",
+          "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s\n[WhenUse] Recebe 3 de [Breath]\n[WinDuel] Recebe 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Binding] neste turno e no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ([Binding] x 20)% de chance de infligir [TiedRope]\n- Se o alvo estiver Atordoado, este efeito é infligido sem falha"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Marcação a Ferro",
+          "desc": "Prioriza o alvo que tem [TiedRope]\nSe a Velocidade desta unidade for maior que a do alvo, causa +25% de dano para cada 1 de diferença de Velocidade (máx. 100%)\n[WhenUse] Poder de Moeda +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloqueio da Retirada",
+          "desc": "[DuelCounter]\n[WhenUse] Poder Base +1 para cada 6 de ([Breath] em si + [Laceration] no alvo) (máx. 2)\n[WhenUse] Recebe 3 de [Breath]\n[WinDuel] Recebe +3 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quinada da Maleta",
+          "desc": "[WhenUse] Recebe 1 de [Agility] no próximo turno (uma vez por turno)\nSe o alvo tiver 6+ de ([Laceration] + [Vibration]), Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pancada com Peso",
+          "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno (uma vez por turno)\nPoder de Moeda +1 para cada 6 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ativa [VibrationExplosion]; depois, reduz a Contagem de [Vibration] do alvo em 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enquadramento do Sujeito",
+          "desc": "Poder de Moeda +1 para cada 6 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa [VibrationExplosion]; depois, reduz a Contagem de [Vibration] do alvo em 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                },
+                {
+                  "desc": "[EndCoin] Inflige 1 de [TakePicture] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Captura do Instante",
+          "desc": "[DuelCounter]\nPoder Base +1 para cada 4 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [AttackDown] no próximo turno"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                },
+                {
+                  "desc": "[EndCoin] Inflige 1 de [TakePicture] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golpe de Chapa de Aço",
+          "desc": "[WhenUse] Recebe 1 de [Agility] no próximo turno (uma vez por turno)\nSe o alvo tiver 6+ de ([Laceration] + [Vibration]), Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golpe na Cabeça do Prego",
+          "desc": "[WhenUse] Recebe 2 de [Agility] no próximo turno (uma vez por turno)\nPoder de Moeda +1 para cada 6 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ativa [VibrationExplosion]; depois, reduz a Contagem de [Vibration] do alvo em 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Correção de Foco",
+          "desc": "Poder de Moeda +1 para cada 6 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa [VibrationExplosion]; depois, reduz a Contagem de [Vibration] do alvo em 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                },
+                {
+                  "desc": "[EndCoin] Inflige [TakePicture] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Captura do Instante",
+          "desc": "[DuelCounter]\nPoder Base +1 para cada 4 de ([Laceration] no alvo + [Vibration] no alvo) (máx. 2)\n[WhenUse] Se a Velocidade desta unidade for maior que a do alvo, converte todas as Moedas em [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [AttackDown] no próximo turno"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Paralysis] no próximo turno"
+                },
+                {
+                  "desc": "[EndCoin] Inflige [TakePicture] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Boi",
+          "desc": "[WhenUse] Recebe 3 de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Urso",
+          "desc": "[WhenUse] Recebe +3 de Contagem de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] Com 6+ de [Breath], converte todas as Moedas em [SuperCoin]s\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Romper o Lombo do Urso",
+          "desc": "[WhenUse] Com 8+ de [Breath], causa +40% de dano em Acerto Crítico\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Com 7+ de [ChoiSwordsmanship], converte todas as Moedas em [SuperCoin]s e causa +20% de dano em Acerto Crítico</color></mark></b></u>\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [SlashResistDown] neste turno e no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +3 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forma de Espada da Pátria - Talho de Sal",
+          "desc": "[WhenUse] Recebe 3 de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Caça ao Tigre",
+          "desc": "[WhenUse] Recebe +3 de Contagem de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] Com 6+ de [Breath], converte todas as Moedas em [SuperCoin]s\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Tigre",
+          "desc": "[WhenUse] Com 8+ de [Breath], causa +40% de dano em Acerto Crítico\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Com 3 ou menos de [ChoiSwordsmanship], converte todas as Moedas em [SuperCoin]s e causa +20% de dano em Acerto Crítico</color></mark></b></u>\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [SlashResistDown] neste turno e no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espada da Pátria [Sal] - Recompor a Postura",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[CantDuel] com Unidades de Assistência\nPrioriza Pecadores\nSe a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], converte em [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Perde 3 de [ChoiSwordsmanship]</color></mark></b></u>\n- Se a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], este efeito não é ativado\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Ao Acertar com um Ataque Sem Oposição, ou Ao Acertar um alvo que usou uma Habilidade Exclusiva de [SupportProtect], recebe 2 de [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espada da Pátria [Sal] - Afiação",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[CantDuel] com Unidades de Assistência\nPrioriza Pecadores\nSe a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], converte em [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Recebe 3 de [ChoiSwordsmanship]</color></mark></b></u>\n- Se a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], este efeito não é ativado\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Ao Acertar com um Ataque Sem Oposição, ou Ao Acertar um alvo que usou uma Habilidade Exclusiva de [SupportProtect], perde 2 de [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arco da Pátria [Sal] - Disparo da Flecha",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Mira o inimigo com mais [Laceration]</color></mark></b></u>\nNão é afetado por [ChoiSwordsmanship]\n[WhenUse] Consome 3 de Potência de [Breath] em si para ganhar Poder Final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +4 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aumenta o Limiar de Atordoamento em 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Defesa",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[StartBattle] Recebe 5 de [Breath] e +5 de Contagem de [Breath]\n[WhenUse] Recebe 2 de [CriticalDamageUp] no próximo turno",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contra-ataque",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[StartBattle] Recebe 5 de [Breath] e +5 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Boi",
+          "desc": "[WhenUse] Recebe 3 de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Urso",
+          "desc": "[WhenUse] Recebe +3 de Contagem de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] Com 6+ de [Breath], converte todas as Moedas em [SuperCoin]s\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Romper o Lombo do Urso",
+          "desc": "[WhenUse] Com 8+ de [Breath], causa +40% de dano em Acerto Crítico\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] Com mais de 6 de [ChoiSwordsmanship], ganha Poder Final para cada Pilha de [ChoiSwordsmanship] excedente (máx. 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Com 7+ de [ChoiSwordsmanship], converte todas as Moedas em [SuperCoin]s e causa +20% de dano em Acerto Crítico</color></mark></b></u>\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [SlashResistDown] neste turno e no próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +3 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Até os Sanguns Hão de Ser Partidos Sob Esta Lâmina",
+          "desc": "Mira o inimigo com mais [Laceration]\n[WhenUse] Não pode ser Atordoado por sofrer dano até esta Habilidade terminar\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 3)\n[WhenUse] Com mais de 6 de [ChoiSwordsmanship], ganha Poder Final +2 para cada Pilha de [ChoiSwordsmanship] excedente (máx. 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Esta Habilidade sempre cai Cara, acerta Criticamente e não consome Contagem de [Breath]</color></mark></b></u>\n[BeforeAttack] Causa +20% de dano em Acerto Crítico para cada 2 de [ChoiSwordsmanship] em si (máx. 80%)\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Causa (([Breath] em si x 10)% do dano final desta Moeda) de dano de Talho (máx. 100%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Causa (([Laceration] no alvo x 10)% do dano final desta Moeda) de dano de Luxúria (máx. 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa o [Laceration] do alvo uma vez. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forma de Espada da Pátria - Talho de Sal",
+          "desc": "[WhenUse] Recebe 3 de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Caça ao Tigre",
+          "desc": "[WhenUse] Recebe +3 de Contagem de [Breath]\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] Com 6+ de [Breath], converte todas as Moedas em [SuperCoin]s\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Partir o Tigre",
+          "desc": "[WhenUse] Com 8+ de [Breath], causa +40% de dano em Acerto Crítico\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Com 3 ou menos de [ChoiSwordsmanship], converte todas as Moedas em [SuperCoin]s e causa +20% de dano em Acerto Crítico</color></mark></b></u>\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] e +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [SlashResistDown] neste turno e no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Carne de Tigre Alguma Restará Sem Talho",
+          "desc": "Mira o inimigo com mais [Laceration]\n<color=#ff6000><mark color=#ff000040><b><u>Pode Embater com esta Habilidade independentemente da Velocidade</color></mark></b></u>\n[WhenUse] Não pode ser Atordoado por sofrer dano até esta Habilidade terminar\n[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Esta Habilidade sempre cai Cara, acerta Criticamente e não consome Contagem de [Breath]</color></mark></b></u>\n[BeforeAttack] Causa +20% de dano em Acerto Crítico para cada 2 de [Breath] em si (máx. 80%)\n[DefeatDuel]\n- Causa -80% de dano\n- Não acerta Criticamente\n- O dano causado por esta Habilidade não pode Atordoar o alvo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa o [Laceration] do alvo uma vez. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa o [Laceration] do alvo uma vez. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ativa o [Laceration] do alvo uma vez. O alvo perde 1 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Se o alvo principal tiver 10+ de [Laceration], inflige +8 de Contagem de [Laceration] nos alvos atingidos por esta Moeda"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +8 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espada da Pátria [Sal] - Recompor a Postura",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[CantDuel] com Unidades de Assistência\nPrioriza Pecadores\nSe a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], converte em [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Perde 3 de [ChoiSwordsmanship]</color></mark></b></u>\n- Se a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], este efeito não é ativado\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Ao Acertar com um Ataque Sem Oposição, ou Ao Acertar um alvo que usou uma Habilidade Exclusiva de [SupportProtect], recebe 2 de [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espada da Pátria [Sal] - Afiação",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[CantDuel] com Unidades de Assistência\nPrioriza Pecadores\nSe a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], converte em [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Recebe 3 de [ChoiSwordsmanship]</color></mark></b></u>\n- Se a Habilidade do alvo for uma Habilidade Exclusiva de [SupportProtect], este efeito não é ativado\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Ao Acertar com um Ataque Sem Oposição, ou Ao Acertar um alvo que usou uma Habilidade Exclusiva de [SupportProtect], perde 2 de [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arco da Pátria [Sal] - Disparo da Flecha",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Mira o inimigo com mais [Laceration]</color></mark></b></u>\nNão é afetado por [ChoiSwordsmanship]\n[WhenUse] Consome 3 de Potência de [Breath] em si para ganhar Poder Final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] e +4 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aumenta o Limiar de Atordoamento em 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Defesa",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[StartBattle] Recebe 5 de [Breath] e +5 de Contagem de [Breath]\n[WhenUse] Recebe 2 de [CriticalDamageUp] no próximo turno",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contra-ataque",
+          "desc": "Não é afetado por [ChoiSwordsmanship]\n[StartBattle] Recebe 5 de [Breath] e +5 de Contagem de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

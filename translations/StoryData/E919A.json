@@ -1,0 +1,638 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "???, Distrito 14",
+      "model": "에즈라",
+      "content": "…Quer dizer então que ele estava aqui até agorinha mesmo, e agora ninguém sabe pra onde foi?"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "É. Sabe-se lá como descobriu esse lugar — apareceu do nada, tagarelou um monte de coisa e sumiu de novo num piscar de olhos."
+    },
+    {
+      "id": 2,
+      "model": "에즈라",
+      "content": "*suspiro*"
+    },
+    {
+      "id": 3,
+      "content": "Ezra apenas soltou um longo suspiro, como se já não tivesse mais forças nem para reclamar."
+    },
+    {
+      "id": 4,
+      "model": "뉴앵두",
+      "content": "Senhorita… Não que eu não compreenda o que sente, porém, na maior parte das vezes, o Mentor não costumava agir com um propósito em mente?"
+    },
+    {
+      "id": 5,
+      "model": "뉴앵두",
+      "content": "Até hoje, ele jamais deixou seu posto sem uma razão…"
+    },
+    {
+      "id": 6,
+      "model": "에즈라",
+      "content": "Não, eu entendo, tá? Mas fala sério… custava avisar antes de sair por aí de novo?"
+    },
+    {
+      "id": 7,
+      "model": "에즈라",
+      "content": "Não é como se a gente fosse proibir, né? O que a gente ia fazer, amarrar ele? Trancar num quartinho? A gente não faz isso, faz?"
+    },
+    {
+      "id": 8,
+      "model": "에즈라",
+      "content": "Lembra da última vez? Todo mundo achando que ele estava quietinho descansando na enfermaria, mas não! Quando aquilo tudo estourou, ele escapuliu sem falar nada e depois voltou como se nada tivesse acontecido. E a líder da equipe nem deu uma bronca nele por isso…"
+    },
+    {
+      "id": 9,
+      "model": "뉴앵두",
+      "content": "…! Senhorita, isso…!"
+    },
+    {
+      "id": 10,
+      "model": "에즈라",
+      "content": "Opa. Era pra eu não ter contado isso… né?"
+    },
+    {
+      "id": 11,
+      "model": "오티스",
+      "content": "…Então, o motivo de Kim do Chapéu de Bambu não ter participado da operação naquela ocasião…"
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "…foi simplesmente uma falha da LCD em supervisionar seu próprio pessoal. É assim que devo entender?"
+    },
+    {
+      "id": 13,
+      "model": "뉴앵두",
+      "content": "…Foi justamente por prever tal mal-entendido que a senhorita Moses nos ordenou guardar silêncio…"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "E que parte disso seria um mal-entendido? Não é fato que esse homem abandonou a área sem autorização?"
+    },
+    {
+      "id": 15,
+      "model": "에즈라",
+      "content": "Acontece que aquele tio, pelo que dizem, estava lá fora dando cabo dos Automanequins do Anel que tinham tomado o elevador que leva ao departamento da LCE."
+    },
+    {
+      "id": 16,
+      "model": "에즈라",
+      "content": "Tá, não é como se ele estivesse enfrentando um inimigo absurdo de forte… Mas a enfermaria não tinha alarme de emergência, e também não tinha ninguém do departamento por perto pra explicar a situação. Como será que ele ficou sabendo…"
+    },
+    {
+      "id": 17,
+      "model": "오티스",
+      "content": "Ora…"
+    },
+    {
+      "id": 18,
+      "model": "에즈라",
+      "content": "Dizem que foi graças a ele que a equipe de manutenção conseguiu restaurar bem mais rápido a comunicação com aquele tal Chefe da LCE — e foi isso que permitiu que a LCA fosse enviada. Se não fosse ele, parece que teriam perdido mais uma ou duas horas ali."
+    },
+    {
+      "id": 19,
+      "model": "에즈라",
+      "content": "Claro que, de tanto lutar com o corpo ainda nem recuperado, ele voltou parecendo um trapo… e aí sim ficou de cama na enfermaria, de verdade."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Khm. Pelo visto, não é alguém que mereça apenas censura."
+    },
+    {
+      "id": 21,
+      "model": "에즈라",
+      "content": "Pois é. Deve ser o tipo que prefere agir a falar."
+    },
+    {
+      "id": 22,
+      "model": "에즈라",
+      "content": "Mas tudo bem, naquela vez a gente estava todo mundo lá dentro, então passa. Só que hoje… quer saber? É sempre assim! Ele sai de fininho e volta do nada dizendo \"já resolvi tal coisa\"."
+    },
+    {
+      "id": 23,
+      "model": "에즈라",
+      "content": "E se um dia uma dessas não sair como ele planejou e ele simplesmente cair morto no meio da rua? Como é que a gente vai poder ajudar?"
+    },
+    {
+      "id": 24,
+      "model": "뉴앵두",
+      "content": "……."
+    },
+    {
+      "id": 25,
+      "model": "에즈라",
+      "content": "Aliás, como é que ele fica sabendo dessas coisas pra começo de conversa, e ainda sai sozinho atrás delas?"
+    },
+    {
+      "id": 26,
+      "model": "히스클리프",
+      "content": "Sei lá… Vai ver é faro, né, não?"
+    },
+    {
+      "id": 27,
+      "model": "에즈라",
+      "content": "Faro…?"
+    },
+    {
+      "id": 28,
+      "model": "히스클리프",
+      "content": "Olha, eu só vi o cara por um instante, então não dá pra cravar nada…"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "Mas, por mais que ele seja um sujeito irritante, não me pareceu o tipo que sai vagando por aí sem pensar."
+    },
+    {
+      "id": 30,
+      "content": "Heathcliff coçou o queixo e continuou falando como se não fosse nada de mais."
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "Olha o caso de hoje: não tem como o cabeça de relógio ter mandado ele vir pra cá… E ele tava zanzando lá fora e entrou aqui por puro acaso? Tem como isso acontecer? Claro que não, né?"
+    },
+    {
+      "id": 32,
+      "model": "이상",
+      "content": "Sendo assim…"
+    },
+    {
+      "id": 33,
+      "model": "히스클리프",
+      "content": "Bom, pode ser que o cara seja só absurdamente inteligente… e tenha deduzido como chegar aqui. Pode ser também."
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Mas comigo tem dessas: às vezes me bate um pressentimento do nada, saca? O chefe Matthew dizia que ouvia uns sons, algo assim… Tipo \"dá pra ouvir as engrenagens girando\", ou \"acho que tô ouvindo barulho de rato\"…"
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "E era sempre nessas horas que ele fazia coisas que ninguém entendia. Uma vez, bem antes de uma briga decisiva, ele disse que estava ouvindo alguma coisa, entrou num pub onde nunca tinha posto os pés e começou a virar copo atrás de copo… Ha. Cheguei a achar que ele tinha perdido o juízo."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "Sinceramente, isso parece mesmo coisa de quem perdeu o juízo…"
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "No navio, tinha gente que bebia antes de enfrentar as Baleias pra afogar o medo na embriaguez… mas esse pessoal vivia cambaleando pelo convés até despencar no lago, sabia?"
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "Bem, o chefe Matthew aguentava bebida como ninguém, isso é verdade… Ainda assim, não é coisa que se faça antes de uma briga de gangues. A gente foi atrás dele fulo da vida…"
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "E adivinha: aquele pub era justamente a base secreta dos inimigos, que a gente nem sabia onde ficava. Eles tavam cercando o chefe, esbravejando que bastava matar ele pros Dead Rabbits acabarem — e aí a gente chegou em peso e cercou eles por fora. Ha."
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Nenhum deles conseguiu fugir; viraram papa na nossa mão. O chefe sabia, e foi por isso que se plantou justo ali."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "Isso mais parece papo de mesa de bar… Não foi só coincidência?"
+    },
+    {
+      "id": 42,
+      "model": "뉴앵두",
+      "content": "Coincidência… é que não deve ter sido."
+    },
+    {
+      "id": 43,
+      "model": "뉴앵두",
+      "content": "Decerto não foi coisa que aconteceu apenas uma ou duas vezes. Não é verdade?"
+    },
+    {
+      "id": 44,
+      "model": "히스클리프",
+      "content": "Pois é. Cada vez que o chefe aprontava uma dessas, nossa organização crescia um pouco mais. Se fosse coincidência, não teria chegado tão longe."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "…Um senso instintivo, ou uma premonição nascida da experiência. Pessoas com esse tipo de sentido apurado, mesmo sem se dar conta, por vezes varrem as informações gravadas no inconsciente e simplesmente chegam à resposta."
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "A análise de Faust indica que o motivo pelo qual o senhor Heathcliff, muito raramente, realiza deduções capazes de surpreender até mesmo Faust é justamente o desenvolvimento de um desses sentidos: o chamado sexto sentido."
+    },
+    {
+      "id": 47,
+      "model": "히스클리프",
+      "content": "Isso era pra ser um elogio…?"
+    },
+    {
+      "id": 48,
+      "model": "뉴앵두",
+      "content": "Ainda que o Mentor não nos explique cada passo que dá…"
+    },
+    {
+      "id": 49,
+      "model": "뉴앵두",
+      "content": "…quando relembro depois que tudo passou, vejo que nenhum de seus passos foi dado em vão."
+    },
+    {
+      "id": 50,
+      "model": "뉴앵두",
+      "content": "Portanto, que tal os senhores também aguardarem um pouco?"
+    },
+    {
+      "id": 51,
+      "model": "뉴앵두",
+      "content": "É claro que, ultimamente, ele anda ainda mais calado do que outrora, o que me desperta certa preocupação…"
+    },
+    {
+      "id": 52,
+      "model": "돈키호테",
+      "content": "Esperar…"
+    },
+    {
+      "id": 53,
+      "content": "Don Quixote hesitou, como se quisesse dizer algo mais, porém logo assentiu com a cabeça, dizendo que compreendia."
+    },
+    {
+      "id": 54,
+      "model": "에즈라",
+      "content": "É, tá… A líder da equipe deve ter os motivos dela pra deixar ele à vontade…"
+    },
+    {
+      "id": 55,
+      "model": "에즈라",
+      "content": "Mesmo que eu continue sem gostar nada disso. Aff."
+    },
+    {
+      "id": 56,
+      "model": "뉴앵두",
+      "content": "Mais uma vez: que tal nos ocuparmos daquilo que está ao nosso alcance?"
+    },
+    {
+      "id": 57,
+      "model": "에즈라",
+      "content": "…Tá bom~ Entendi."
+    },
+    {
+      "id": 58,
+      "content": "Pensando bem… que lugar é esse aqui, afinal?"
+    },
+    {
+      "id": 59,
+      "content": "Não entra nem um fiapo de luz, e tudo aqui é só vermelho…"
+    },
+    {
+      "id": 60,
+      "model": "그레고르",
+      "content": "Agora que parei pra pensar, a gente ficou tagarelando sem nem acender a luz… E com a minha vista cansada, tudo vermelho desse jeito, não consigo enxergar direito nadinha."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "Ah, se é o interruptor da luz que procura, acho que está bem aqui—"
+    },
+    {
+      "id": 62,
+      "content": "Naquele instante."
+    },
+    {
+      "id": 63,
+      "model": "뫼르소",
+      "content": "Não acendam a luz."
+    },
+    {
+      "id": 64,
+      "content": "A voz de Meursault soou de um canto inesperado."
+    },
+    {
+      "id": 65,
+      "model": "싱클레어",
+      "content": "S-senhor Meursault? Onde é que o senhor está?"
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<Ah… acho que ele está ali? O que será que está lavando…?>"
+    },
+    {
+      "id": 67,
+      "model": "뫼르소",
+      "content": "Estou revelando o filme. Se entrar luz, tudo pode ser arruinado, portanto… peço cautela."
+    },
+    {
+      "id": 68,
+      "content": "Eu tinha estranhado não sentir nenhuma presença por perto… então ele estava fazendo isso sozinho esse tempo todo…"
+    },
+    {
+      "id": 69,
+      "model": "그레고르",
+      "content": "Olha só… Você sabe fazer até esse tipo de coisa, parceiro?"
+    },
+    {
+      "id": 70,
+      "model": "뫼르소",
+      "content": "Hum."
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<Mas… por que você está revelando esse filme, afinal?>"
+    },
+    {
+      "id": 72,
+      "model": "뫼르소",
+      "content": "Na ocasião anterior, o Gerente comentou que provavelmente precisaríamos examinar o filme. Lembrei-me disso e estou cumprindo a instrução."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<A-ah… entendi.>"
+    },
+    {
+      "id": 74,
+      "place": "Laboratório de Revelação, Distrito 14",
+      "model": "이상",
+      "content": "Antes um estúdio fotográfico, e agora um laboratório de revelação… Não passa de mera conjectura, mas o cerne desta Distorção há de ter sido alguém que tirava fotografias."
+    },
+    {
+      "id": 75,
+      "model": "뫼르소",
+      "content": "Os números de série dos filmes ou coincidem exatamente com os dos filmes do estúdio fotográfico, ou diferem apenas no último dígito. É certo que este espaço possui uma ligação clara com o estúdio."
+    },
+    {
+      "id": 76,
+      "model": "뉴앵두",
+      "content": "Hum… As fotografias também são todas semelhantes. A mim também parece que este edifício e aquele estúdio guardam uma relação profunda."
+    },
+    {
+      "id": 77,
+      "model": "그레고르",
+      "content": "Opa…? Que fotos são essas?"
+    },
+    {
+      "id": 78,
+      "model": "뉴앵두",
+      "content": "Trouxe comigo algumas das fotografias que estavam no estúdio. Não sei precisar os locais exatos, mas parecem retratar diversos pontos da N Corp. Principalmente edifícios, ao que tudo indica…"
+    },
+    {
+      "id": 79,
+      "model": "에즈라",
+      "content": "Peraí, isso não é aquilo? O pessoal que fornece coisas pra aquela loja de departamentos tira fotos assim pra levar junto."
+    },
+    {
+      "id": 82,
+      "model": "뫼르소",
+      "content": "Conforme dito, presume-se que se tratasse de um Docúgrafo."
+    },
+    {
+      "id": 83,
+      "content": "…Desta vez, Meursault se meteu na conversa segurando um estranho objeto cilíndrico em uma das mãos."
+    },
+    {
+      "id": 84,
+      "content": "Vendo-o sacudir o recipiente de tempos em tempos, aquilo parecia ser uma das etapas do processo de revelação do filme."
+    },
+    {
+      "id": 85,
+      "model": "뫼르소",
+      "content": "Na N Corp., o preço de um filme não é algo facilmente acessível a um cidadão comum."
+    },
+    {
+      "id": 86,
+      "model": "뫼르소",
+      "content": "Portanto, na maioria dos casos, fotografias são tiradas como parte de alguma atividade profissional."
+    },
+    {
+      "id": 87,
+      "model": "뫼르소",
+      "content": "Tenho conhecimento de cerca de 21 profissões no Distrito 14 que fazem uso de fotografia; contudo, apenas uma delas fotografa exclusivamente edifícios específicos seguindo regras fixas."
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<E isso é… o tal de Docúgrafo?>"
+    },
+    {
+      "id": 89,
+      "model": "뫼르소",
+      "content": "Sim. São aqueles que fotografam as informações a serem vertidas na Experiência Enlatada."
+    },
+    {
+      "id": 97,
+      "model": "뉴앵두",
+      "content": "Um Docúgrafo… Como alguém de profissão tão respeitável veio a se Distorcer…"
+    },
+    {
+      "id": 99,
+      "model": "에즈라",
+      "content": "Aposto que não era alguém que vivia de um jeito assim tão respeitável."
+    },
+    {
+      "id": 100,
+      "content": "Diante da dúvida de Aeng-du, Ezra refletiu por um instante e prontamente apresentou uma resposta."
+    },
+    {
+      "id": 101,
+      "model": "홍루",
+      "content": "O que quer dizer com isso?"
+    },
+    {
+      "id": 102,
+      "model": "에즈라",
+      "content": "No estúdio fotográfico onde a gente esteve não tinha uma sala como essa, né?"
+    },
+    {
+      "id": 103,
+      "model": "이스마엘",
+      "content": "É… não tinha, né?"
+    },
+    {
+      "id": 104,
+      "model": "에즈라",
+      "content": "Até já ouvi da detetive que existem outros métodos, mas, na N Corp., é preciso levar o filme a um laboratório de revelação pra conseguir imprimir as fotos."
+    },
+    {
+      "id": 105,
+      "model": "뫼르소",
+      "content": "Correto. Em geral, o filme precisa ser imerso no líquido revelador e depois retirado."
+    },
+    {
+      "id": 106,
+      "model": "에즈라",
+      "content": "Isso. Por isso que esses laboratórios todos vermelhos costumam ficar coladinhos nos estúdios fotográficos, sabia?"
+    },
+    {
+      "id": 107,
+      "model": "에즈라",
+      "content": "Mas aqui? Fica bem longe do estúdio."
+    },
+    {
+      "id": 108,
+      "model": "히스클리프",
+      "content": "Hã? Pois é, né?"
+    },
+    {
+      "id": 109,
+      "model": "에즈라",
+      "content": "E olha isso aqui! As janelas estão cobertas com jornal de qualquer jeito, viu? Suspeito demais. Com o quanto o filme é sensível à luz!"
+    },
+    {
+      "id": 110,
+      "model": "에즈라",
+      "content": "Sabendo quanto custa um filme, quem é que ia revelar fotos num lugar precário desses?!"
+    },
+    {
+      "id": 111,
+      "model": "이스마엘",
+      "content": "Nossa…"
+    },
+    {
+      "id": 112,
+      "model": "에즈라",
+      "content": "Provavelmente isso aqui nem é um laboratório de revelação de verdade. Alguém só trouxe às pressas o essencial pra revelar filme e montou tudo de improviso."
+    },
+    {
+      "id": 113,
+      "model": "에즈라",
+      "content": "Ou seja… alguém estava imprimindo fotos escondido, fugindo de alguém… e aposto que a situação não era nada respeitável."
+    },
+    {
+      "id": 114,
+      "model": "이스마엘",
+      "content": "Nesse caso… faz sentido ter se Distorcido."
+    },
+    {
+      "id": 115,
+      "model": "에즈라",
+      "content": "Né?"
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "content": "…Gerente."
+    },
+    {
+      "id": 119,
+      "content": "Meursault se aproximou de mim em silêncio."
+    },
+    {
+      "id": 120,
+      "content": "…Ainda sacudindo aquele cilindro não identificado."
+    },
+    {
+      "id": 121,
+      "model": "뫼르소",
+      "content": "Para revelar o filme conforme solicitado, poderia lhe fazer um pedido?"
+    },
+    {
+      "id": 122,
+      "model": "단테",
+      "content": "<Hã…? Pode falar.>"
+    },
+    {
+      "id": 123,
+      "model": "뫼르소",
+      "content": "Por favor, garanta que a luz desta sala não seja acesa até que a revelação esteja concluída."
+    },
+    {
+      "id": 124,
+      "model": "단테",
+      "content": "<…? A luz? Mas a gente já não está deixando ela apagada de propósito?>"
+    },
+    {
+      "id": 125,
+      "model": "뫼르소",
+      "content": "Sim. No entanto, durante um combate podem ocorrer imprevistos; por isso, julguei necessário fazer este pedido à parte."
+    },
+    {
+      "id": 126,
+      "content": "Combate?"
+    },
+    {
+      "id": 127,
+      "model": "뫼르소",
+      "content": "Eu, de minha parte, sou capaz de participar do combate enquanto realizo o trabalho de revelação. Não há motivo para grande preocupação."
+    },
+    {
+      "id": 128,
+      "model": "단테",
+      "content": "<Não, peraí…>"
+    },
+    {
+      "id": 129,
+      "model": "뉴앵두",
+      "content": "Um combate, assim tão de repente? Que história é essa, afinal de contas…"
+    },
+    {
+      "id": 130,
+      "model": "뫼르소",
+      "content": "No estúdio fotográfico, os funcionários de reforço chegaram 11 minutos e 34 segundos depois que o funcionário da Equipe de Fixação da N Corp. foi derrubado."
+    },
+    {
+      "id": 131,
+      "model": "뫼르소",
+      "content": "Pelas deduções feitas até agora, tornou-se evidente a relação entre o estúdio fotográfico e este laboratório de revelação."
+    },
+    {
+      "id": 132,
+      "model": "뫼르소",
+      "content": "Além disso, aqui também, a equipe composta pelos Pecadores Heathcliff, Hong Lu e Gregor enfrentou funcionários da Equipe de Fixação da N Corp."
+    },
+    {
+      "id": 133,
+      "content": "…Dá pra ouvir o som de passos apressados subindo as escadas."
+    },
+    {
+      "id": 134,
+      "content": "Acho que já sei aonde Meursault quer chegar, mas pergunto mesmo assim."
+    },
+    {
+      "id": 135,
+      "model": "단테",
+      "content": "<…Ou seja?>"
+    },
+    {
+      "id": 136,
+      "model": "뫼르소",
+      "content": "Restar metade do tempo entre a primeira lavagem e a conclusão da segunda agitação significa que se passaram 11 minutos e 30 segundos desde o início."
+    },
+    {
+      "id": 137,
+      "model": "뫼르소",
+      "content": "Um combate está prestes a começar. Recue para a retaguarda, Gerente."
+    },
+    {
+      "id": 138,
+      "content": "E-esse tipo de coisa…"
+    },
+    {
+      "id": 139,
+      "content": "*estrondo*"
+    },
+    {
+      "id": 140,
+      "model": "단테",
+      "content": "<Era pra ter falado isso desde o começo!!!>"
+    },
+    {
+      "id": 141,
+      "model": "뫼르소",
+      "content": "Sim. Da próxima vez, assim o farei, Gerente."
+    }
+  ]
+}

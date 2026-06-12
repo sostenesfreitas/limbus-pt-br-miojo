@@ -1,0 +1,225 @@
+{
+  "dataList": [
+    {
+      "id": 9105701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Postura de Ataque",
+          "desc": "[WhenUse] Com 6+ de [Breath], Poder Base +1\n[WhenUse] Recebe 2 de [Breath]\n[DefeatDuel] Recebe 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Técnica de Estocada",
+          "desc": "[WhenUse] Com 8+ de [Breath], Poder Base +2\n[DefeatDuel] Recebe 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [SlashDamageUp] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Talhos Consecutivos",
+          "desc": "[WhenUse] Poder Base +1 para cada 4 de [Breath] em si (máx. 5)\n[DefeatDuel] Poder Base -13\n[DefeatDuel] Esta Habilidade não pode Atordoar o alvo\n[EndSkill] Consome todo o [Breath] em si",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Recebe 4 de [Breath] no próximo turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Causa +70% de dano em Acerto Crítico"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contra-ataque",
+          "desc": "[WhenUse] Com 6+ de [Breath], Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Postura de Ataque",
+          "desc": "[WhenUse] Com 6+ de [Breath], Poder Base +1\n[WhenUse] Recebe 2 de [Breath]\n[DefeatDuel] Recebe 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Técnica de Estocada",
+          "desc": "[WhenUse] Com 8+ de [Breath], Poder Base +2\n[DefeatDuel] Recebe 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contagem de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Recebe 1 de [SlashDamageUp] no próximo turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Talhos Consecutivos",
+          "desc": "Se o alvo estiver com menos de 50% de HP, Poder Final +2\n[WhenUse] Poder Base +1 para cada 4 de [Breath] em si (máx. 5)\n[DefeatDuel] Poder Base -13\n[DefeatDuel] Esta Habilidade não pode Atordoar o alvo\n[EndSkill] Consome todo o [Breath] em si",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +2 de Contagem de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aumenta o Limiar de Atordoamento em 20% do dano causado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9105804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contra-ataque",
+          "desc": "[WhenUse] Com 6+ de [Breath], Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Recebe 5 de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

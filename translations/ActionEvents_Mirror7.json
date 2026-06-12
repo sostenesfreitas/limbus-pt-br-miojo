@@ -72,6 +72,7 @@
                     "message": "Gire a roleta.",
                     "messageDesc": "Escolha para ganhar ou perder Custo.",
                     "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço amarelo.\n\n\"Oh, temos um vencedor!\"\n\"Sorte. Sua.\"",
                         "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Perdeu. Vaza.\"\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\nNos fomos jogados para fora da câmara, sem nada."
                     ]
                 },
@@ -93,6 +94,7 @@
                     "message": "Continue girando a roleta.",
                     "messageDesc": "Escolha para ganhar ou perder Custo.",
                     "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço amarelo.\n\n\"Oh, temos um vencedor!\"\n\"Sorte. Sua.\"",
                         "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Perdeu. Vaza.\"\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\nNos fomos jogados para fora da câmara, sem nada."
                     ]
                 },
@@ -121,6 +123,7 @@
                     "message": "Continue girando a roleta.",
                     "messageDesc": "Escolha para ganhar ou perder Custo.",
                     "result": [
+                        "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço amarelo.\n\n\"Uma conclusão impecável!\"\n\"Sua última. Sorte. Nunca. Mais. Jogue.\"\n\nNo momento em que pegamos o pesado saco de dinheiro, a roleta e as criaturas bizarras desaparecem.",
                         "Não conseguimos tirar os olhos da roleta giratória.\n\nA roleta para, por pouco escapando do espaço azul.\n\n\"Que pena, você perdeu. E isso significa que você ficou sem prêmio.\"\n\"Suspeitava. Nunca. Mais. Volte.\"\n\nNos fomos jogados para fora da câmara, sem nada."
                     ]
                 },
@@ -135,30 +138,114 @@
         },
         {
             "id": 971089,
-            "name": "Poultry Memory",
+            "name": "Memória de Galinha",
             "desc": "'Bar & Fritadeira do Eunbong!' || 'Disque 555-0102-0386-2664! Isso é 555-0102-Zero-EUN-BONG!' ||  || Seguimos o estranho e chiclete jingle e nos encontramos diante de uma máquina estranhamente familiar. ||  || \"Ei, é uma máquina de garra. Tem... Huh, esses são...\" || <... Por que tem pelúcias do Bongy aqui?> || \"Aquele cara não disse algo sobre como aquele que ele nos deu era um tesouro inestimável e único? Que não havia nada igual?\" || \"... Tal promessa carrega pouco peso na Masmorra Espelho.\" || \"Mm. Pode ser uma idiossincrasia da experiência que ainda não foi identificada.\" || \"Pessoal, segurem. Olhem aquela pelúcia ali—acabei de ver um brilho dourado pelas suas costuras! Tem que ter dinheiro nessas coisas!\" ||  || Há pelúcias do Bongy de vários designs dentro da máquina de garra. || Qual devemos pegar?",
             "options": [
                 {
-                    "message": "Get the small Bongy plushie.",
-                    "messageDesc": "Choose to gain Cost",
+                    "message": "Pegue a pelúcia pequena do Bongy.",
+                    "messageDesc": "Escolha para ganhar Custo",
                     "result": [
                         "Uma pelúcia pequena do Bongy deve ser uma vitória fácil para nós. ||  || Cuidadosamente manobro a garra sobre as pelúcias e agarro a pequena pelúcia com extrema cautela... e de alguma forma, conseguiu viajar até a calha sem cair no meio do caminho. Um <i>clunk</i> pesado e metálico ecoa do bocal. ||  || \"Soa pesado. Será que tem algo caro aí?\" || \"Duh! Não viu aquele brilho dourado antes? Me dá isso, Dante!\" || \"Que diabos você—\" || \"Vou cortar a barriga dele bem aberta!\" || \"Pequeno Sir Bongy!!!!!!\" ||  || Um dos Pecadores corta a barriga da pelúcia do Bongy aberta, e moedas começam a derramar dele. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
                     ]
                 },
                 {
-                    "message": "Get the medium-sized Bongy plushie.",
-                    "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+                    "message": "Pegue a pelúcia média do Bongy.",
+                    "messageDesc": "Escolha para ganhar Custo (chance de ganhar Custo adicional)",
                     "result": [
                         "Identificamos a Pelúcia média do Bongy em um lugar decente para ser apanhada, e decidimos tentar a sorte. ||  || Cuidadosamente manobro a garra sobre as pelúcias e agarro a pelúcia média com extrema cautela... e de alguma forma, conseguiu viajar até a calha sem cair no meio do caminho. Um <i>clunk</i> pesado e metálico ecoa do bocal. <i>Duas vezes.</i> ||  || \"Ooh... Junto do Bongy selecionado há um Bongy de dimensões menores; de fato, o ditado 'dois pássaros com uma pedrada' seria mais apto aqui. Não apenas as duas aves nos concederam sustento, também nos deram riquezas.\" || <Bem, ouço algo tilintando aí dentro. Moedas, talvez?> || \"Você acha? Me dá isso, Dante!\" || \"Que diabos você—\" || \"Vou cortar as barrigas deles bem abertas!\" || \"Pequeno Sir Bongy! E Pequeníssimo Sir Bongy!!!!!\" ||  || Um dos Pecadores corta as barrigas de ambas as pelúcias do Bongy abertas, e moedas começam a derramar delas. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra.",
                         "Cuidadosamente manobro a garra sobre as pelúcias e agarro a pelúcia média com extrema cautela... mas ela de alguma forma ficou presa na calha. || Felizmente, uma pelúcia pequena bem ao lado dela caiu da calha com um baque. ||  || \"Está rasgada... Deve ter ficado presa antes de sair da calha.\" || \"Hmm? Ei, me dá isso, Dante!\" || \"Que diabos você—\" || \"A pelúcia está recheada de moedas. Sorte!\" ||  || Um dos Pecadores corta a barriga da pelúcia do Bongy aberta, e moedas começam a derramar dele. || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
                     ]
                 },
                 {
-                    "message": "Get the huge Bongy plushie.",
-                    "messageDesc": "Choose to gain Cost (chance to gain additional Cost)",
+                    "message": "Pegue a pelúcia gigante do Bongy.",
+                    "messageDesc": "Escolha para ganhar Custo (chance de ganhar Custo adicional)",
                     "result": [
                         "Aquelas pinças frágeis podiam mesmo levantar aquela pelúcia massiva do Bongy? ||  || Eu não tinha muita certeza, mas cuidadosamente manobrei a garra e fui para o agarro de qualquer forma. ||  || Um baque metálico pesado ressoou da calha de prêmios quando o boneco caiu. ||  || \"F-fie! As costuras do Pequeno Sir Bongy se romperam completamente!\" || \"Não pôde aguentar o impacto da queda.\" || \"Espera, olha aquilo! Algo derramando das costuras~ Ei, é dinheiro!\" ||  || Recolhemos as moedas recheadas dentro do boneco. || Enquanto estávamos ocupados com as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra.",
                         "Aquelas pinças frágeis podiam mesmo levantar aquela pelúcia massiva do Bongy? ||  || Eu não tinha muita certeza, mas cuidadosamente manobrei a garra e fui para o agarro de qualquer forma. ||  || Pudemos ouvir um chocalhar da calha de prêmios quando o boneco caiu. ||  || \"Não vai descer... Acho que está preso.\" || \"As costuras devem ter se soltado—tem moedas caindo.\" || <Vamos ao menos pegá-las.> ||  || Enquanto estávamos ocupados contando as moedas, o jingle lentamente se silenciou, e logo, desapareceu junto com a máquina de garra."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971110,
+            "name": "O Passado de Kim do Chapéu de Bambu 1",
+            "desc": "\"Ahn, com licença…\"\n\nEnquanto percorríamos as vielas da S Corp., um jovem, depois de muito hesitar, criou coragem e nos perguntou se podíamos ajudá-lo.\n\nPela história que contou, ele almejava ascender na vida e fazer um nome para si; por isso, prestou o Exame Real — uma espécie de concurso de contratação pública da S Corp. — e conseguiu uma excelente colocação.\n\nMas, pelo que ele sabia, quem era aprovado com notas tão boas deveria receber as despesas da viagem de volta para casa e um guia para acompanhá-lo. Deve ter havido algum engano, porém: ninguém apareceu para recebê-lo, e ele acabou se perdendo do local do exame e vagando até parar nestes becos.\n\nEle pergunta se por acaso conhecemos os caminhos da região… O que devemos fazer?",
+            "options": [
+                {
+                    "message": "\"Desculpe, nós também nunca estivemos aqui antes.\"",
+                    "messageDesc": "Sem efeito especial",
+                    "result": [
+                        "\"Ah, vocês também não conhecem estas ruas?\"\n\nO jovem se afastou para algum canto, estalando a língua de decepção.\n\n\"… Hummm.\"\n\nAssim que o jovem sumiu de vista, Kim do Chapéu de Bambu, que tinha se esgueirado para trás do grupo fazendo-se de desentendido, soltou um suspiro profundo.\n\n\"Tem algo que deseja dizer, Mentor?\"\n\"Não, é que… aquele ali… era eu.\"\n\n… A revelação repentina deixou os Pecadores em alvoroço por um instante.\n\n\"Era a época em que eu ainda vagava por aí me achando, sem saber o medo que o mundo merece nem o quão ridículo eu parecia.\"\n\"E o tema do exame, veja só, era um certo traidor da S Corp. Empolgado feito um tolo confiante, como sempre, escrevi um longo texto humilhando o desgraçado traidor, para que vergonha igual jamais voltasse a manchar nossa história…\"\n\"… e só fui descobrir ao chegar em casa. Que o tal 'desgraçado traidor' que eu havia destroçado sem dó no exame não era nada menos que um antepassado da minha própria linhagem.\"\n\n\"E-então, a razão de o senhor não ter assumido um cargo oficial, mesmo após passar no Exame Real, foi…\"\n\n\"E como é que eu ousaria, Aeng-du? Por que você acha que nenhum guia se ofereceu para acompanhar aquele tolo do meu passado?\"\n\"Porque todos na S Corp. sabiam da história, menos eu. Espalharam aos quatro ventos que eu era um patife que vendeu o nome do próprio antepassado para passar num exame.\"\n\nKim soltou as palavras com naturalidade, como quem conta uma piada levemente engraçada, e tomou a dianteira no caminho…\n\n\"Bem, mesmo que nada disso tivesse acontecido, eu teria quebrado meu pincel de tanta vergonha de mim mesmo.\"\n\n… enquanto escondia depressa, atrás das costas, a mão que tremia de leve."
+                    ]
+                },
+                {
+                    "message": "\"Vou perguntar ao meu grupo se podemos ajudar.\"",
+                    "messageDesc": "Faça um teste de Vantagem de Gula & Orgulho para receber uma Bênção de E.G.O Sem Palavra-chave.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971111,
+            "name": "O Passado de Kim do Chapéu de Bambu 2",
+            "desc": "Abrindo caminho pelas ruas da S Corp., encontramos um homem sentado de qualquer jeito à beira do caminho, com uma espada presa junto ao peito, fitando o céu com o olhar perdido.\n\n\"… Ah.\"\n\nEle pareceu nos notar; correu os olhos pelos nossos trajes e, em seguida, tornou a se largar onde estava.\n\n\"Sigam seu caminho. Não tenho intenção de fazer mal a vocês.\"\n\nUm pouco diferente, mas… essa voz soa como algo que já ouvi em algum lugar…\n\n\"Não é encarando as nuvens que passam que a resposta vai aparecer.\"\n\nFoi quando, de repente, Kim do Chapéu de Bambu atirou essas palavras.\n… Ah, então aquele homem deve ser…\n\n\"… O senhor me conhece?\"\n\"Preciso conhecer alguém para dar um palpite? Quem passa ao lado de uma partida de baduk desfavorável sempre acaba metendo a colher.\"\n\nO homem arregalou os olhos, surpreso por um instante, e logo começou a falar.\n\n\"Ao menos vejo que o senhor é um jogador de nível bem mais alto que o meu; então, se me permite, deixe-me pedir um conselho.\"\n\"Olhando para trás, as jogadas que fiz foram tão sujas e vergonhosas que pensei em ganhar o pão comendo poeira e vivendo da lâmina.\"\n\"Mas eis que uma pessoa íntegra e justa quis me recolher para usar como sua espada… e temo que minha imundície acabe sujando as mãos dela também.\"\n\"E então? O senhor faria essa jogada? Ou…\"",
+            "options": [
+                {
+                    "message": "Deixe Kim do Chapéu de Bambu responder.",
+                    "messageDesc": "Selecione para receber uma Bênção de E.G.O de Talho",
+                    "result": [
+                        "\"E que as jogadas envergonhem, o que tem isso?\"\n\n\"De toda forma, não parece haver ninguém nesse tabuleiro disposto a deixar você voltar uma pedra. Que remédio há? Continue jogando.\"\n\n\"E se eu seguir com essa jogada e, no fim, me tomarem tudo e eu perder todos os meus territórios?\"\n\n\"Aí é só entregar a partida.\"\n\"Se você foi até o fim e, ainda assim, terminou nesse estado, que jeito? Antes de mais nada, vá até o fim ao menos uma vez.\"\n\"Afinal, você não está apenas jogando conforme o fluxo manda?\"\n\n\"…….\"\n\"Acabamos de nos encontrar e, no entanto, é como se o senhor tivesse enxergado até a medula dos meus ossos, forasteiro.\"\n\"Tome isto como paga pelo seu 'palpite'.\"\n\nO jovem… não, o Kim do Chapéu de Bambu do passado pareceu ter se dado conta de algo: pôs em nossas mãos um objeto que lembrava uma bengala e disparou para algum lugar.\n\n\"… Não que continuar uma jogada já errada vá mudar alguma coisa.\"\nFoi o que me pareceu ouvir Kim murmurar."
+                    ]
+                },
+                {
+                    "message": "Deixe um Pecador responder em vez disso.",
+                    "messageDesc": "Faça um teste de Vantagem de Preguiça & Orgulho para curar a Identidade selecionada.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 971112,
+            "name": "O Passado de Kim do Chapéu de Bambu 3",
+            "desc": "Vislumbro uma silhueta sentada, com o olhar vazio, na escuridão da prisão sem luz.\n\n\"Hah…\"\n\nKim do Chapéu de Bambu deixa escapar um suspiro desolado, mas, antes mesmo que termine de soltá-lo…\n\n\"Quem está aí?!\"\n\nUma voz afiada corta o ar estagnado. Parece que fomos notados por alguém que vigia a prisão.\n\nO que devemos fazer?",
+            "options": [
+                {
+                    "message": "Alegue que somos guardas como eles, de olho no prisioneiro.",
+                    "messageDesc": "Sem efeito especial",
+                    "result": [
+                        "\"Ao menos invente uma mentira que dê para engolir!\"\n\nFingir na cara dura que éramos guardas da prisão, do jeito que estamos, era mesmo uma mentira fácil demais de desmascarar…\n\nFugimos às pressas para outra área, escapando da mulher que, furiosa como fogo, veio para cima de nós com a espada desembainhada."
+                    ]
+                },
+                {
+                    "message": "Saque as armas e prepare-se para a batalha.",
+                    "messageDesc": "Receba uma Bênção de E.G.O de Talho dependendo do resultado da próxima escolha",
+                    "result": [
+                        "\"… Vocês não são carcereiros.\"\n\nA dona da voz nos examinou por um momento, surpreendentemente indiferente às armas que empunhávamos… mas também sem hostilidade alguma, e caminhou em nossa direção a passos calmos.\n\nE então, em vez de falar conosco, dirigiu a palavra a alguém dentro da cela.\n\n\"Explique você. Quem são eles e… o que foi que aconteceu?\"\n\nA conversa de mão única continuou por um tempo; ela tentou de tudo para arrancar uma resposta da figura dentro da cela, mas foi em vão.\n\n\"… Hah. É o mesmo que falar com um cadáver de longa data.\"\n\nSoltando um leve suspiro, ela então se voltou novamente para nós."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97111201,
+            "name": "O Passado de Kim do Chapéu de Bambu 3",
+            "desc": "\"Os senhores também não vieram ver aquele homem? Seriam companheiros que compartilham de seu propósito?\"",
+            "options": [
+                {
+                    "message": "Diga que não.",
+                    "messageDesc": "Sem efeito especial",
+                    "result": [
+                        "\"… O quê?\"\n\"Sendo assim… devo presumir que gentalha se infiltrou na prisão da Corte Real?\"\n\nSem nos dar um segundo sequer para explicações, ela avançou contra nós de arma em punho — e não nos restou senão fugir às pressas para outro lugar."
+                    ]
+                },
+                {
+                    "message": "Diga que sim e explique a situação.",
+                    "messageDesc": "Faça um teste de Vantagem de Luxúria & Orgulho para receber uma Bênção de E.G.O de Talho.",
+                    "result": [
+                        ""
                     ]
                 }
             ]

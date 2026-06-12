@@ -1,0 +1,343 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "*arf* *arf*… Aguente só mais um pouco, jovem. Logo… estaremos nos becos da T Corp.…"
+    },
+    {
+      "id": 1,
+      "teller": "Morador Jovem",
+      "title": "Distrito 19",
+      "content": "E os, *uff*… e os outros? Aonde eles foram?"
+    },
+    {
+      "id": 2,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Haa… Os Ch'unokkuns… aqueles canalhas cruéis levaram todos…"
+    },
+    {
+      "id": 3,
+      "teller": "Morador Jovem",
+      "title": "Distrito 19",
+      "content": "M-moço, atrás! Atrás do senhor!"
+    },
+    {
+      "id": 4,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Argh…!!!"
+    },
+    {
+      "id": 5,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Peguei."
+    },
+    {
+      "id": 6,
+      "content": "Era tarde da noite, pouco depois do fim da Noite dos Becos."
+    },
+    {
+      "id": 7,
+      "content": "Aproveitando essa brecha, a criança lançou uma corda resistente atrás do morador da S Corp. que fugia."
+    },
+    {
+      "id": 8,
+      "content": "Uma corda rubra chamada <i>Ohra</i> — também conhecida como Laço Escarlate."
+    },
+    {
+      "id": 9,
+      "content": "Preso pela corda, o morador não conseguiu oferecer resistência alguma e foi arrastado, impotente, até a criança."
+    },
+    {
+      "id": 10,
+      "teller": "Morador Jovem",
+      "title": "Distrito 19",
+      "content": "Moço!"
+    },
+    {
+      "id": 11,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Fuja, rapaz! <i>Depressa!</i>"
+    },
+    {
+      "id": 12,
+      "content": "O morador gritou, desesperado, tentando ao menos salvar o garoto que ainda não tinha sido capturado, mas…"
+    },
+    {
+      "id": 13,
+      "content": "Acontece que a criança era um Ch'unokkun — e um Ch'unokkun <i>nunca</i> caça Nobis sozinho."
+    },
+    {
+      "id": 14,
+      "content": "Diferente dos Inspetores Reais, que agem sob decreto real, os Ch'unokkuns são Mandatários reunidos cada qual em torno dos próprios interesses."
+    },
+    {
+      "id": 15,
+      "content": "Naturalmente, aqueles que se entendem se juntam e formam bandos para caçar os Nobis."
+    },
+    {
+      "id": 16,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Aquele lado fica por sua conta, certo?"
+    },
+    {
+      "id": 17,
+      "teller": "Colega",
+      "title": "Ch'unokkun",
+      "content": "Pode deixar."
+    },
+    {
+      "id": 18,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "……."
+    },
+    {
+      "id": 19,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "…Julguei tê-lo despistado nas vielas, mas o senhor é deveras tenaz."
+    },
+    {
+      "id": 20,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Haha. Acontece que muita gente escolhe fugir por aqui, sabe?~"
+    },
+    {
+      "id": 21,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Graças a isso, conheço estes becos até de olhos fechados, viu?"
+    },
+    {
+      "id": 22,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "…E diz isso com orgulho?"
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Orgulho? Que nada. Só quis dizer que estou acostumado. A gente acaba decorando os caminhos que vê toda hora, não acha?"
+    },
+    {
+      "id": 24,
+      "content": "Os destinos de quem queria escapar da S Corp. eram óbvios demais."
+    },
+    {
+      "id": 25,
+      "content": "Lugares um pouco mais próximos dos outros Distritos."
+    },
+    {
+      "id": 26,
+      "content": "Em especial os becos escuros, as frestas entre muros desabados e as casas abandonadas por onde quase ninguém passa."
+    },
+    {
+      "id": 27,
+      "content": "Os moradores em fuga também deviam saber: os Ch'unokkuns vasculham cada canto desses lugares."
+    },
+    {
+      "id": 28,
+      "content": "Mas eles não tinham outra escolha."
+    },
+    {
+      "id": 29,
+      "content": "Afinal, não havia nenhum outro lugar para onde fugir."
+    },
+    {
+      "id": 30,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "…Já nem desejo mais que a S Corp. mude."
+    },
+    {
+      "id": 31,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Que façam como sempre fizeram — nós apenas partimos por não suportar ver aquilo. Por que nos perseguir com tamanha obstinação…?"
+    },
+    {
+      "id": 32,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Porque capturar vocês dá dinheiro. E, embora a chance seja mínima, com sorte talvez eu até suba na vida."
+    },
+    {
+      "id": 33,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "……."
+    },
+    {
+      "id": 34,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Tem uma coisa que eu queria perguntar faz tempo."
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Por que vocês tentam fugir? Mesmo que consigam, nada vai mudar."
+    },
+    {
+      "id": 36,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Acha que outra Ala seria melhor? No fim, sem dinheiro e sem poder, vai dar tudo na mesma."
+    },
+    {
+      "id": 37,
+      "content": "Debater-se aqui dentro ou fugir lá para fora — nada disso mudaria coisa alguma."
+    },
+    {
+      "id": 38,
+      "content": "Então por que fugir arriscando a própria vida? Qual seria o motivo?"
+    },
+    {
+      "id": 39,
+      "content": "A criança não conseguia compreender tamanho desespero."
+    },
+    {
+      "id": 40,
+      "content": "E provavelmente jamais compreenderia."
+    },
+    {
+      "id": 41,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "…Um lugar quente e acolhedor. Um lugar seguro. Acha que fugimos em busca disso?"
+    },
+    {
+      "id": 42,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Engano seu. Estamos cansados demais… para viver nutrindo esse tipo de esperança e expectativa."
+    },
+    {
+      "id": 43,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Nós só queremos escapar deste inferno."
+    },
+    {
+      "id": 44,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Queremos sair deste inferno pavoroso… que nos roubou a família, roubou os vizinhos e que, em breve, roubará até a nossa própria vida."
+    },
+    {
+      "id": 45,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Mas e se, no fim desse desejo, vocês toparem com um inferno ainda pior?"
+    },
+    {
+      "id": 46,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Pode ser que sim. Como o senhor diz, talvez uma vida ainda mais terrível nos aguarde do outro lado."
+    },
+    {
+      "id": 47,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "Ainda assim, queremos escapar. E desejo que ao menos mais um, nem que seja um só, consiga escapar daqui."
+    },
+    {
+      "id": 48,
+      "content": "Como se não tivesse gostado da resposta enigmática do morador, a criança se calou…"
+    },
+    {
+      "id": 49,
+      "content": "…e o morador, sem acrescentar mais nada, ficou apenas olhando, em silêncio, para o caminho por onde o outro Nobi havia fugido."
+    },
+    {
+      "id": 50,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "……."
+    },
+    {
+      "id": 51,
+      "content": "Quanto tempo teria se passado naquele silêncio?"
+    },
+    {
+      "id": 52,
+      "content": "Ao ver o colega retornando, a criança estalou a língua, contrariada."
+    },
+    {
+      "id": 53,
+      "content": "Afinal, o outro Ch'unokkun… voltou sozinho, sem trazer ninguém."
+    },
+    {
+      "id": 54,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "…Por que voltou de mãos vazias?"
+    },
+    {
+      "id": 55,
+      "teller": "Colega",
+      "title": "Ch'unokkun",
+      "content": "Uma organização que eu nunca tinha visto me barrou, exigindo pedágio para passar."
+    },
+    {
+      "id": 56,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Fez bem. Isso aqui é um negócio como outro qualquer — não faz sentido sair no prejuízo só para continuar a caçada."
+    },
+    {
+      "id": 57,
+      "content": "Enquanto apressava os Nobis para a volta, a criança franziu o cenho ao ver que o morador sorria."
+    },
+    {
+      "id": 58,
+      "content": "Voltando daquele jeito, ele certamente seria tratado pior do que antes da fuga. O que havia de tão bom para sorrir?"
+    },
+    {
+      "id": 59,
+      "content": "Com um palpite sobre o motivo, a criança puxou o Laço Escarlate e lançou a pergunta."
+    },
+    {
+      "id": 60,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "…Foi uma pessoa só. Um estranho que fugiu — nem da sua família era."
+    },
+    {
+      "id": 61,
+      "model": "홍루",
+      "title": "Ch'unokkun",
+      "content": "Quando voltar, vai ser tratado de um jeito ainda mais cruel do que antes. E mesmo assim consegue sorrir?"
+    },
+    {
+      "id": 62,
+      "teller": "Morador Sereno",
+      "title": "Distrito 19",
+      "content": "……."
+    },
+    {
+      "id": 63,
+      "content": "O morador não respondeu nada às palavras da criança; apenas continuou sorrindo."
+    },
+    {
+      "id": 64,
+      "content": "O que aquele sorriso significava…"
+    },
+    {
+      "id": 65,
+      "content": "…é algo que, provavelmente, a criança deste lugar jamais entenderá."
+    },
+    {}
+  ]
+}

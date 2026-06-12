@@ -77,8 +77,8 @@
         },
         {
             "id": "OnLoseDuelAnyTarget",
-            "add": "Increased by {0} on Clash Lose",
-            "min": "Decreased by {0} on Clash Lose"
+            "add": "Aumentado por {0} em Embate Perdido",
+            "min": "Diminuído por {0} em Embate Perdido"
         },
         {
             "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
@@ -92,8 +92,8 @@
         },
         {
             "id": "OnTakeAttackDamagePerWithMax",
-            "add": "<color=red>Increases when hit by an enemy\n<size=95%>(Base Value is {0}, raised by up to {1} per Turn)</size></color>",
-            "min": "<color=red>Decreases when hit by an enemy\n<size=95%>(Base Value is {0}, raised by up to {1} per Turn)</size></color>"
+            "add": "<color=red>Aumenta ao ser atingido por um inimigo\n<size=95%>(Valor Base é {0}, elevado em até {1} por Turno)</size></color>",
+            "min": "<color=red>Diminui ao ser atingido por um inimigo\n<size=95%>(Valor Base é {0}, elevado em até {1} por Turno)</size></color>"
         },
         {
             "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan",
@@ -107,13 +107,23 @@
         },
         {
             "id": "OnOneSideAttackEnd",
-            "add": "Increase by {0} after Unopposed Attack",
-            "min": "Decrease by {0} after Unopposed Attack"
+            "add": "Aumenta por {0} após Ataque Unilateral",
+            "min": "Diminui por {0} após Ataque Unilateral"
         },
         {
             "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
-            "add": "Turn End: Gain {0} SP if The Prescript's Target was hit by an attack",
-            "min": "Turn End: Lose {0} SP if The Prescript's Target was hit by an attack"
+            "add": "Fim do Turno: Ganha {0} de SP se o Alvo da Prescrição foi atingido por um ataque",
+            "min": "Fim do Turno: Perde {0} de SP se o Alvo da Prescrição foi atingido por um ataque"
+        },
+        {
+            "id": "OnUseSkillMp",
+            "add": "Aumenta por {0} ao Usar Habilidade",
+            "min": "Diminui por {0} ao Usar Habilidade"
+        },
+        {
+            "id": "OnEndAttackMp",
+            "add": "Aumenta por {0} no Fim do Ataque",
+            "min": "Diminui por {0} no Fim do Ataque"
         }
     ]
 }

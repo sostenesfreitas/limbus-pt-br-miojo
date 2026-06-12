@@ -1,0 +1,458 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Rua da Manteiga, Distrito 14",
+      "model": "단테",
+      "content": "<Urgh…!>"
+    },
+    {
+      "id": 1,
+      "content": "Ao ouvir as palavras de Meursault, atirei às pressas ao chão o filme que segurava na mão."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Va-vai ficar tudo bem…? Se a gente violar um Tabu…>"
+    },
+    {
+      "id": 3,
+      "content": "Só de lembrar daquela vez em que Don Quixote quebrou a janela na K Corp. e os Pecadores foram suprimidos em massa, minha vista já começou a escurecer."
+    },
+    {
+      "id": 4,
+      "content": "Pelo menos naquela época o Vergilius estava ao nosso lado, e tudo terminou com apenas os Pecadores sendo suprimidos e depois revividos, mas…"
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Se for um Tabu do Ninho… dependendo da gravidade, a gente já não pode se dar muito mal só de estar carregando isso…?!>"
+    },
+    {
+      "id": 7,
+      "content": "Olhei ao redor para os Pecadores, e vários deles tinham uma expressão aflita no rosto."
+    },
+    {
+      "id": 8,
+      "content": "Outros tantos, por sua vez, diziam que, com tudo o que a gente já aprontou até aqui, não fazia sentido amarelar agora…"
+    },
+    {
+      "id": 9,
+      "model": "싱클레어",
+      "content": "Se-se-senhorita Faust…? Se o Gerente acabar morrendo assim, o que vai ser de nós…?"
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 11,
+      "content": "Eu… vou morrer?"
+    },
+    {
+      "id": 12,
+      "model": "에즈라",
+      "content": "Morrer nada. Acha mesmo que iam matar alguém só por estar com isso?"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "É-é mesmo?"
+    },
+    {
+      "id": 14,
+      "model": "에즈라",
+      "content": "Bom, se o filme tiver mesmo uma gravação de verdade… não dá pra dizer que não é problema nenhum, mas vocês não colaboraram diretamente com nada, né?"
+    },
+    {
+      "id": 15,
+      "model": "에즈라",
+      "content": "Quando o pessoal da N Corp. vier recolher, é só fazer um 'nossa, claro, pois não!' e entregar tudo bonitinho, que não deve dar problema nenhum."
+    },
+    {
+      "id": 16,
+      "model": "뫼르소",
+      "content": "Há margem para problemas."
+    },
+    {
+      "id": 17,
+      "model": "에즈라",
+      "content": "…Hã?"
+    },
+    {
+      "id": 18,
+      "model": "뫼르소",
+      "content": "Porque fui eu quem revelou o filme."
+    },
+    {
+      "id": 19,
+      "model": "에즈라",
+      "content": "Ah…"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "Como não houve dolo, há margem para atenuantes no julgamento; contudo, é certo que será considerado colaboração."
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "É-é sério…?!"
+    },
+    {
+      "id": 22,
+      "model": "에즈라",
+      "content": "Ah, mas mesmo assim…"
+    },
+    {
+      "id": 23,
+      "model": "에즈라",
+      "content": "Nosso líder de equipe disse que a N Corp. classifica as gravações conforme a qualidade da imagem pra determinar a gravidade do Tabu…"
+    },
+    {
+      "id": 24,
+      "model": "에즈라",
+      "content": "Se a qualidade da imagem ou o número de quadros do vídeo ficar abaixo do padrão deles, os Mandatários diretos da N Corp. nem vêm atrás, pra começo de conversa. Aí dá pra ganhar tempo, ou a empresa pode tentar negociar alguma coisa."
+    },
+    {
+      "id": 25,
+      "model": "에즈라",
+      "content": "No fim das contas, o que eles vigiam é o quanto a coisa é idêntica à realidade… se proporciona uma experiência igual à original."
+    },
+    {
+      "id": 26,
+      "model": "에즈라",
+      "content": "Então, mesmo que a gente tenha um azar dos infernos e eles resolvam implicar… se for um vídeo de baixa qualidade, vai ficar tudo bem… acho."
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Hum."
+    },
+    {
+      "id": 28,
+      "model": "오티스",
+      "content": "…O que exatamente significa 'quadros abaixo do padrão'?"
+    },
+    {
+      "id": 29,
+      "model": "에즈라",
+      "content": "Hum… basicamente, que o intervalo entre um quadro e outro não pode ser curto demais."
+    },
+    {
+      "id": 30,
+      "model": "에즈라",
+      "content": "Pensa numa apresentação de slides. Cada foto passa devagar, então não tem sensação de realidade nenhuma, né? Até dá pra chamar de vídeo, mas, como não tem vividez, não chega a ser um problema."
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "Sendo assim… basta analisarmos este filme tomando essa vividez como critério."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "Meursault. Seu conhecimento sobre a N Corp. é vasto, portanto exijo sua cooperação."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Este filme tem margem para ser um problema?"
+    },
+    {
+      "id": 34,
+      "content": "Disse Outis, apanhando o filme do chão e empurrando-o na direção de Meursault."
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Não é possível apurar até esse ponto."
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Seria preciso examinar o filme inteiro, quadro a quadro…"
+    },
+    {
+      "id": 37,
+      "content": "Diante disso, Outis desenrolou o filme e o esticou contra o céu."
+    },
+    {
+      "id": 38,
+      "model": "오티스",
+      "content": "Venham olhar também, vocês. Vejam se há alguma diferença em qualquer coisa."
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "A julgar pelo 'peça experimental' escrito no filme, isto devia ser uma espécie de teste."
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "Um teste para ver até onde algo é considerado Tabu… Talvez isto esteja apenas 'fingindo' ser um vídeo."
+    },
+    {
+      "id": 41,
+      "content": "Os Pecadores se aglomeram, espremidos uns contra os outros, e erguem o olhar para o filme."
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "Aqui. O vaso de flores não parece ter se mexido de leve?"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Se a captura tivesse sido contínua, não haveria como nem o vaso ter se movido."
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "Ahn… pa-pra mim parece… igual…"
+    },
+    {
+      "id": 45,
+      "model": "이상",
+      "content": "Hum… O semblante do sujeito postado ao centro parece-me deveras enrijecido."
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "Não é só um cara que sempre teve essa cara amarrada, não?"
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "Para tanto, vejo nele a tensão de quem se esforça deliberadamente por não mover a expressão."
+    },
+    {
+      "id": 48,
+      "model": "홍루",
+      "content": "Ah~ Se for isso, pode ser que ele esteja mesmo atuando pra fingir que se move continuamente!"
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "content": "É até convincente, mas… pra ficar tranquilo só com isso…"
+    },
+    {
+      "id": 50,
+      "content": "Nesse momento, Kim do Chapéu de Bambu, que continuava rolando pelo chão, recitou em voz baixa."
+    },
+    {
+      "id": 51,
+      "model": "뉴김삿갓",
+      "content": "…Deixa eu ver."
+    },
+    {
+      "id": 52,
+      "model": "뉴김삿갓",
+      "content": "Perto do caixilho da janela, a sombra do quadro."
+    },
+    {
+      "id": 53,
+      "model": "뉴김삿갓",
+      "content": "A cada fotograma, a sombra não está inclinada além da conta?"
+    },
+    {
+      "id": 54,
+      "model": "뉴김삿갓",
+      "content": "Pode-se enganar todo o resto, mas o caminhar do sol… isso um mero morador dos becos não tem como falsificar."
+    },
+    {
+      "id": 55,
+      "model": "오티스",
+      "content": "Então, como suspeitávamos, apenas fizeram o sujeito que servia de modelo mover-se bem devagar e fotografaram tudo como se fosse uma gravação…"
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "Não há como considerar isto um Tabu, então. Correto?"
+    },
+    {
+      "id": 57,
+      "model": "뫼르소",
+      "content": "Hum. Em termos de probabilidade, muito alta."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "…É o que ele afirma, Gerente. Não haverá alvoroço quanto a termos ou não colaborado com um Tabu."
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Ufa…>"
+    },
+    {
+      "id": 60,
+      "model": "오티스",
+      "content": "…Contudo, tratando-se de alguém obstinado a ponto de agir testando a N Corp. dessa maneira, não me parece que teria parado por aqui."
+    },
+    {
+      "id": 61,
+      "model": "오티스",
+      "content": "Tal como aquele ali propôs de início como a hipótese mais provável, o julgamento mais acertado parece ser o de que a pessoa correspondente ao Ponto de Inflexão violou um Tabu e está sendo caçada. Gerente."
+    },
+    {
+      "id": 62,
+      "model": "그레고르",
+      "content": "Por que… alguém iria arrumar uma encrenca dessas por vontade própria?"
+    },
+    {
+      "id": 63,
+      "model": "그레고르",
+      "content": "Quer dizer, não chega a ser um emprego numa Ala, mas uma terceirizada ligada a uma Ala já devia ser um trabalho bem respeitável pros padrões dos becos."
+    },
+    {
+      "id": 64,
+      "model": "그레고르",
+      "content": "Trabalhando com constância, ainda havia a possibilidade de ser transferido pra uma fábrica dentro do Ninho… uma chance de ter uma vida melhor…"
+    },
+    {
+      "id": 65,
+      "model": "이스마엘",
+      "content": "…Vai ver ele simplesmente enjoou de viver desse jeito."
+    },
+    {
+      "id": 66,
+      "model": "이스마엘",
+      "content": "Todo mundo… tem horas em que dá vontade de escapar da rotina entediante e partir pra uma aventura, não tem?"
+    },
+    {
+      "id": 67,
+      "content": "Às palavras de Ishmael, Kim do Chapéu de Bambu de repente se virou para cá e balançou a cabeça em negativa."
+    },
+    {
+      "id": 68,
+      "model": "뉴김삿갓",
+      "content": "Mesmo assim, gente capaz de largar tudo de verdade, assim sem mais, é coisa rara."
+    },
+    {
+      "id": 69,
+      "model": "뉴김삿갓",
+      "content": "A julgar só pelos rastros… não parece mais que ele queria era se equilibrar na corda bamba?"
+    },
+    {
+      "id": 70,
+      "model": "에즈라",
+      "content": "Corda bamba?"
+    },
+    {
+      "id": 71,
+      "model": "뉴김삿갓",
+      "content": "No começo… ele deve ter feito seus testes aos pouquinhos, sem cruzar a linha do Tabu."
+    },
+    {
+      "id": 72,
+      "model": "뉴김삿갓",
+      "content": "Uma vez com esta câmera, outra vez com outra câmera."
+    },
+    {
+      "id": 73,
+      "model": "뉴김삿갓",
+      "content": "E, nessas, pode ser que tenha acabado criando um vídeo de verdade."
+    },
+    {
+      "id": 74,
+      "model": "에즈라",
+      "content": "A questão é o que ele fez com o vídeo depois de pronto…"
+    },
+    {
+      "id": 75,
+      "model": "뉴김삿갓",
+      "content": "Provavelmente, planejava exibi-lo nos becos por meio de um projetor."
+    },
+    {
+      "id": 76,
+      "model": "싱클레어",
+      "content": "O quêêê?! S-se ele fizesse isso, todas as pessoas que moram nos becos…"
+    },
+    {
+      "id": 77,
+      "model": "뉴김삿갓",
+      "content": "Pois é. Virariam violadores do Tabu."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Por que alguém faria uma coisa dessas…>"
+    },
+    {
+      "id": 79,
+      "model": "에즈라",
+      "content": "Mas, peraí: como é que o nosso tiozinho papa-pão sabe disso tudo?"
+    },
+    {
+      "id": 80,
+      "model": "뉴김삿갓",
+      "content": "Perguntei na rua do lado oposto, e parece que alguém andou fazendo encomendas por lá, perguntando quem seria capaz de montar um projetor."
+    },
+    {
+      "id": 81,
+      "model": "뉴김삿갓",
+      "content": "Pelo visto, a maioria das oficinas recusou… mas, considerando que a certa altura ele parou de aparecer, deve ter conseguido um projetor de um jeito ou de outro, não acha?"
+    },
+    {
+      "id": 82,
+      "model": "돈키호테",
+      "content": "Ora… não é Tabu, na N Corp., o assistir a vídeos? Como, pois, um projetor…"
+    },
+    {
+      "id": 83,
+      "model": "히스클리프",
+      "content": "Ué… fabricar um projetor não é Tabu, é? Pagando uma boa grana, não tem nada que o pessoal dos becos não fabrique pra você."
+    },
+    {
+      "id": 84,
+      "model": "단테",
+      "content": "<Então… qual será o melhor jeito de rastrear esse sujeito…?>"
+    },
+    {
+      "id": 85,
+      "model": "뫼르소",
+      "content": "Há diversos indivíduos nas proximidades que aparentam ser da Equipe de Fixação. Todos com a mesma maleta."
+    },
+    {
+      "id": 86,
+      "model": "로쟈",
+      "content": "Oho~ Que ótimo! É tipo aquilo, sabe? Quando tem festival ou feira, basta seguir alguém que tem toda a cara de quem vai pra lá que você chega no lugar!"
+    },
+    {
+      "id": 87,
+      "model": "이상",
+      "content": "Creio compreender o que dizes. Nas exposições de arquitetura, sempre se viam, aos montinhos, apenas sujeitos de camisa quadriculada e suspensórios."
+    },
+    {
+      "id": 88,
+      "model": "그레고르",
+      "content": "…E esses camaradas, por acaso, também ficavam olhando pra trás de relance?"
+    },
+    {
+      "id": 89,
+      "model": "그레고르",
+      "content": "Sacavam fotos de dentro do casaco… pra ficar comparando também?"
+    },
+    {
+      "id": 90,
+      "model": "N사해결사1",
+      "content": "…mos. …com base em… …providências…"
+    },
+    {
+      "id": 91,
+      "model": "그레고르",
+      "content": "E ainda sacavam o rádio pra fazer contato, e ficavam encarando…! Hã?!"
+    },
+    {
+      "id": 92,
+      "model": "이상",
+      "content": "…Como haveriam de fazer tal coisa."
+    },
+    {
+      "id": 93,
+      "content": "…Parece que chegar até lá também não vai ser tarefa fácil."
+    }
+  ]
+}

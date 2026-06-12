@@ -1,0 +1,358 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Rua da Manteiga, Distrito 14",
+      "model": "이스마엘",
+      "content": "*suspiro* A situação só está indo de mal a pior… E o Dante parece estar ocupado ajudando os outros grupos…"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Os comandos da Outis têm encaixado direitinho, isso eu admito. Estamos nos saindo melhor do que o esperado… mas, ainda assim, está sendo bem puxado."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "…!"
+    },
+    {
+      "id": 3,
+      "model": "이스마엘",
+      "content": "Por que você está balançando a mão de repen… Ah. Sinais de mão?"
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "Quê?! S-sinais de mão? O que é que balançar o braço pro lado quer dizer, afinal?!"
+    },
+    {
+      "id": 5,
+      "model": "오티스",
+      "content": "O quê?!"
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "É pra dispersar! Rápido!!!"
+    },
+    {
+      "id": 7,
+      "content": "*estrondo*"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "content": "Q-quase fomos esmagados…"
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Droga… Qualquer um com o mínimo de treinamento militar básico reconheceria um sinal de mão simples como esse…"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "A gente nunca recebeu esse tipo de treinamento!!!!"
+    },
+    {
+      "id": 11,
+      "model": "돈키호테",
+      "content": "Ora, considero deveras galante esse floreio com uma só mão! Porém, quando de súbito agitais o braço, vupt-vupt!, abrindo e fechando a mão umas tantas vezes para então sair em disparada… eu cá não logro compreender patavina do que quereis dizer…!"
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "E pensar que, de todo o pessoal, só a foca tem a disciplina de interpretar um sinal de campo básico…"
+    },
+    {
+      "id": 13,
+      "model": "이스마엘",
+      "content": "Eu só aprendi de tanto ver no navio… Convenhamos, como é que os outros iam entender sinais militares profissionais?"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Tsc… Inadmissível! Com todo o tempo que vocês já passaram em operações sob meu comando, ainda não reconhecem nem esses sinais!"
+    },
+    {
+      "id": 15,
+      "model": "싱클레어",
+      "content": "A-acho que nem o Gerente conheceria esses sinais!?"
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "…Antes morrer que penar."
+    },
+    {
+      "id": 17,
+      "model": "이상",
+      "content": "Acalmemos os ânimos primeiro. Conforme instruiu a senhorita Outis, o melhor seria dispersar e recu—"
+    },
+    {
+      "id": 18,
+      "model": "에즈라",
+      "content": "<i>Aterrissagem Megaton!!!</i>"
+    },
+    {
+      "id": 19,
+      "content": "*baque*"
+    },
+    {
+      "id": 20,
+      "model": "에즈라",
+      "content": "…Opa! Vai dizer que minha entrada não foi das mais estilosas?"
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "Q-que susto!? Você não estava cuidando das Distorções lá de cima?"
+    },
+    {
+      "id": 22,
+      "model": "에즈라",
+      "content": "Hm? Ah… Lá em cima eu já terminei faz tempo."
+    },
+    {
+      "id": 23,
+      "model": "에즈라",
+      "content": "Como vocês não subiam de jeito nenhum, desci pra dar uma mãozinha. E aí, não merece um obrigado?"
+    },
+    {
+      "id": 24,
+      "model": "이상",
+      "content": "O chão inteiro se despedaçou… afundou tanto que bem poderia dar origem a um poço…"
+    },
+    {
+      "id": 25,
+      "model": "에즈라",
+      "content": "Relaxa~ Coisa desse nível, a Equipe Posterior resolve."
+    },
+    {
+      "id": 26,
+      "model": "에즈라",
+      "content": "Enfim… não sobrou mais nenhum, né?"
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Hum. A Distorção que você golpeou ao aterrissar foi a última; os inimigos do lado de fora do prédio estão liquidados."
+    },
+    {
+      "id": 28,
+      "model": "에즈라",
+      "content": "Então, podem verificar os rostos e as roupas dos Distorcidos pra mim?"
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Ahn… Os rostos estão todos retalhados, de dar arrepio. Quanto às roupas…"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Humm… Esta Distorção aparenta ser um Varredor! E aquela acolá traja-se qual um Mandatário comum!"
+    },
+    {
+      "id": 31,
+      "model": "에즈라",
+      "content": "E a Distorção aqui embaixo de mim… Pela moda, devia ser um morador daqui…"
+    },
+    {
+      "id": 32,
+      "model": "에즈라",
+      "content": "Por acaso vocês não viram nada por perto estourando num \"bum!\" cheio de brilho?"
+    },
+    {
+      "id": 33,
+      "model": "이상",
+      "content": "Nem uma única vez."
+    },
+    {
+      "id": 34,
+      "model": "에즈라",
+      "content": "Beleza… Então vamos subir todos juntos. Essa solicitação é meio complicada, então primeiro precisamos montar um plano."
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "Um plano, dizeis…? Não se tratava de uma simples supressão de Distorções?"
+    },
+    {
+      "id": 36,
+      "model": "에즈라",
+      "content": "Hã? Vocês não receberam explicação nenhuma?"
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "content": "Em geral, era assim que trabalhávamos… Cumpríamos o que nos ordenavam e, só então, íamos compreendendo a natureza da tarefa."
+    },
+    {
+      "id": 38,
+      "model": "에즈라",
+      "content": "É? Hum… Bom, cada departamento tem lá seu jeito de trabalhar~ Tranquilo. Subindo, eu explico tudo."
+    },
+    {
+      "id": 39,
+      "model": "에즈라",
+      "content": "Ah, e da última vez vocês só conheceram a nossa caçula, né? Dessa vez, aquele tiozã… quer dizer, o senhor Kim do Chapéu de Bambu também veio~"
+    },
+    {
+      "id": 40,
+      "model": "싱클레어",
+      "content": "Quê?! E-ele está bem?"
+    },
+    {
+      "id": 41,
+      "model": "에즈라",
+      "content": "Hã? Claro que está! E não é só \"bem\", não. Aposto que está bem até demais."
+    },
+    {
+      "id": 42,
+      "model": "싱클레어",
+      "content": "É que, da última vez, disseram que o tratamento dele ainda não tinha acabado…"
+    },
+    {
+      "id": 43,
+      "model": "이상",
+      "content": "Hum… Para ser exato, recordo que a senhorita Aeng-du nos disse que a mente dele ainda não havia sarado por completo."
+    },
+    {
+      "id": 44,
+      "model": "에즈라",
+      "content": "Ah~ Aquilo?"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "…?"
+    },
+    {
+      "id": 46,
+      "model": "에즈라",
+      "content": "Aff~ Vendo com os próprios olhos, vocês vão entender. Se eu contar agora, vou só acabar tendo que explicar tudo duas vezes."
+    },
+    {
+      "id": 47,
+      "content": "*nheeeec…*"
+    },
+    {
+      "id": 48,
+      "place": "Local da Solicitação de Distorção - Prédio Abandonado, Distrito 14",
+      "model": "뉴앵두",
+      "content": "Ah, os senhores chegaram."
+    },
+    {
+      "id": 49,
+      "model": "싱클레어",
+      "content": "Urgh… Que claridade…"
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "Será porque é meio-dia? Tem uma luz absurda entrando aqui."
+    },
+    {
+      "id": 51,
+      "model": "이상",
+      "content": "Hum. Ainda assim, não é deveras acolhedora?"
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "…Não, isto não é luz do sol."
+    },
+    {
+      "id": 53,
+      "model": "뫼르소",
+      "content": "Pois a luz do sol não é apenas cálida assim."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "Então essa luz é o quê, afinal…"
+    },
+    {
+      "id": 55,
+      "model": "에즈라",
+      "content": "Aff, por que isso está ligado de novo? Essa claridade está me matando."
+    },
+    {
+      "id": 56,
+      "model": "뉴앵두",
+      "content": "Perdoe-me, senhorita Ezra. É a primeira vez que ponho as mãos numa engenhoca como esta…"
+    },
+    {
+      "id": 57,
+      "model": "뉴앵두",
+      "content": "Ligou-se por conta própria e, até agora, não descobri o modo de desligá-la."
+    },
+    {
+      "id": 58,
+      "model": "뉴김삿갓",
+      "teller": "???",
+      "title": "???",
+      "content": "Por isso eu disse pra deixar quieto. Mexer no que não se conhece só traz dissabor, sabia? Não dá em nada de bom."
+    },
+    {
+      "id": 59,
+      "model": "뉴앵두",
+      "content": "Mas, Mentor. A Senhorita disse que sempre há pistas ao redor, e que se deve examinar tudo com minúcia."
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "teller": "???",
+      "title": "???",
+      "content": "Mas é preciso ter jeito até pra seguir um conselho…"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Espera. \"Mentor\"…?"
+    },
+    {
+      "id": 62,
+      "model": "뉴앵두",
+      "content": "Ah, ainda não houve ocasião de apresentá-lo devidamente. Este distinto senhor aqui presente é o líder do Pacto da Lâmina e, para esta humilde pessoa, nada menos que um verdadeiro mestre…"
+    },
+    {
+      "id": 63,
+      "model": "뉴김삿갓",
+      "teller": "???",
+      "title": "???",
+      "content": "Precisa mesmo fazer uma apresentação tão pomposa…? Eu já disse que só aceitei porque não tinha mais ninguém pra assumir."
+    },
+    {
+      "id": 64,
+      "model": "에즈라",
+      "content": "O interruptor… Ah, aqui está."
+    },
+    {
+      "id": 65,
+      "content": "*clique*"
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "…?"
+    },
+    {
+      "id": 67,
+      "model": "이상",
+      "content": "Santo céu…"
+    },
+    {
+      "id": 68,
+      "model": "뉴앵두",
+      "content": "…o senhor Kim do Chapéu de Bambu."
+    },
+    {
+      "id": 69,
+      "model": "뉴김삿갓",
+      "content": "Ahn, oi. Muito prazer…? Pessoal."
+    }
+  ]
+}

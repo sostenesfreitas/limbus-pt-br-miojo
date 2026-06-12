@@ -1,0 +1,483 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Distrito 14, Em Frente à Padaria",
+      "model": "빵가게주인",
+      "content": "Ah… já sei de quem estão falando. Conheço bem."
+    },
+    {
+      "id": 1,
+      "content": "A mulher, que segurava uma cesta de vime idêntica à da fotografia, assentiu de pronto e respondeu."
+    },
+    {
+      "id": 2,
+      "model": "빵가게주인",
+      "content": "É alguém que trabalhava aqui do lado… na Fábrica de Enlatados Nº 17. Era cliente fiel daqui."
+    },
+    {
+      "id": 3,
+      "model": "빵가게주인",
+      "content": "Toda manhã ele comprava sanduíches pra dividir com os colegas de trabalho… mas ultimamente não tem aparecido."
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "E esses colegas… vestiam trajes como este?"
+    },
+    {
+      "id": 5,
+      "content": "Outis, que conduzia a conversa em meu lugar, mostrou outra fotografia e tornou a perguntar."
+    },
+    {
+      "id": 6,
+      "model": "빵가게주인",
+      "content": "Provavelmente, né? Ele também usava um igual, então deve ser o uniforme da fábrica, não acha?"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Com isso, está confirmado. Agora basta irmos à fábrica que esta pessoa mencionou e fazermos algumas perguntas para chegarmos à resposta."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<É, ainda bem. Mas…>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Ela é bem ríspida, né… Achei que, sendo a pessoa das fotos que nem foi afetada pela Distorção, ela naturalmente teria uma relação próxima com ele.>"
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Permita-me perguntar, Gerente."
+    },
+    {
+      "id": 11,
+      "model": "오티스",
+      "content": "A senhora sabe o nome desse tal cliente fiel?"
+    },
+    {
+      "id": 12,
+      "model": "빵가게주인",
+      "content": "Hã? Eu deveria saber isso?"
+    },
+    {
+      "id": 13,
+      "content": "Eu já imaginava que ela não soubesse, mas a resposta, ainda mais fria do que eu esperava, chegou a me desconcertar um pouco."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Se ele chegou a tirar uma fotografia sua, seria razoável deduzir que vocês fossem bastante próximos."
+    },
+    {
+      "id": 15,
+      "model": "빵가게주인",
+      "content": "Ah, isso…"
+    },
+    {
+      "id": 16,
+      "content": "Quando Outis insistiu um pouco mais, ela abriu de repente um sorriso estranho e tirou algo do bolso do avental."
+    },
+    {
+      "id": 17,
+      "content": "Algo fino e redondo… parecido com uma latinha."
+    },
+    {
+      "id": 18,
+      "model": "빵가게주인",
+      "content": "É que ele disse que, se eu deixasse tirar a foto, me daria cinco dessas Experiências Enlatadas de graça. Ah, e ainda incluindo o registro do prédio que eu escolhesse."
+    },
+    {
+      "id": 19,
+      "model": "빵가게주인",
+      "content": "Ele… é Docúgrafo de prédios, sabe? Dizem que de vez em quando até vai e volta do Ninho. Então pedi que registrasse pra mim uma mansão luxuosa nos arredores do Ninho — vi uma vez, tempos atrás, e fiquei apaixonada."
+    },
+    {
+      "id": 20,
+      "model": "빵가게주인",
+      "content": "Afinal, não tem a menor chance de eu morar num lugar daqueles um dia… então eu queria pelo menos viver essa experiência… E foi maravilhoso, viu… Hihi…"
+    },
+    {
+      "id": 21,
+      "content": "Havia algo vagamente arrepiante pairando naquele sorriso bobo no rosto dela."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Hum-hum…"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Hum… jovem Meursault."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "São assim tão… portentosas, essas tais Experiências Enlatadas? A ponto de deixar alguém com semblante tão desvairado…?"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소",
+      "content": "Apresentam alta demanda não apenas no Distrito 14, mas também em outros distritos da Cidade."
+    },
+    {
+      "id": 26,
+      "model": "돈키호테",
+      "content": "Quereis dizer então que aquelas pessoas, sem se erguerem de seus assentos, obtêm a experiência de se aventurar pelo Grande Lago… e de saltar de búngui-jampu do alto da torre daquele edifício altaneiro?"
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "É possível. Porém…"
+    },
+    {
+      "id": 28,
+      "model": "돈키호테",
+      "content": "Oh-ho… Uma lata mágica capaz de realizar o sonho que se desejar! Se for verdade, confesso que isso até me tenta um pouco…"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "É diferente… de um sonho."
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Hã?"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "As Experiências Enlatadas de linha popular fornecem memórias adulteradas de forma estimulante e intensa, produzidas misturando-se diversos tipos de informação distorcida sobre uma base de Massa de Experiência. Isso difere do sonho a que Don Quixote se refere."
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Ademais, uma memória refinada ao longo de inúmeros processos também difere de uma experiência. Portanto, a afirmação anterior de que se ‘obtém uma experiência’ igualmente requer correção."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "Adulteradas pra serem estimulantes e intensas… Se é assim, tem mesmo margem pra questionamento."
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "Hum… e seria isso um problema? Ora, relatos de aventura e histórias sempre carregam consigo, por natureza, um tanto de exagero."
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "É porque as memórias fornecidas pelas Experiências Enlatadas são vívidas demais."
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Estatisticamente, muitos usuários de Experiências Enlatadas as julgam experiências autênticas e desenvolvem dependência."
+    },
+    {
+      "id": 37,
+      "model": "뫼르소",
+      "content": "A causa aparente é que elas fazem um sonho impossível de realizar parecer, em sensação, algo que de fato aconteceu."
+    },
+    {
+      "id": 38,
+      "model": "돈키호테",
+      "content": "Quereis dizer que… a pessoa passa a se dar por satisfeita… apenas sonhando sonhos instantâneos, fabricados?"
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Pelo contrário… é bem possível que ela deixe de perseguir tal objetivo na realidade."
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "content": "Pois, quanto mais estimulante for a adulteração, mais impossível o sonho há de parecer."
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "…Mas assim perde-se todo o sentido de se sonhar um belo sonho…! Em vez de servir de motivação, torna-se razão para desistir…"
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "Se há sentido ou não, não me é possível saber."
+    },
+    {
+      "id": 43,
+      "model": "뫼르소",
+      "content": "Mas vendem bem."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "content": "……."
+    },
+    {
+      "id": 45,
+      "model": "빵가게주인",
+      "content": "E então, quantos pães vão levar?"
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Pães? Como assim…?"
+    },
+    {
+      "id": 47,
+      "model": "빵가게주인",
+      "content": "Eu respondi direitinho a tudo que vocês perguntaram, então o mínimo é ajudar no faturamento da loja, não é?"
+    },
+    {
+      "id": 48,
+      "model": "빵가게주인",
+      "content": "Não me digam que vão aparecer aqui em bando, acabar com o movimento da loja e ainda ficar de boca fechada…?"
+    },
+    {
+      "id": 49,
+      "content": "…De fato, com a gente aglomerada em volta da loja, as pessoas passavam ao largo, cochichando entre si."
+    },
+    {
+      "id": 50,
+      "model": "로쟈",
+      "content": "Ah, qual é~ Eu já comprei um monte! Daqui até ali, levei tudo!"
+    },
+    {
+      "id": 51,
+      "model": "히스클리프",
+      "content": "…E onde diabos você enfiou tudo aquilo?"
+    },
+    {
+      "id": 52,
+      "model": "로쟈",
+      "content": "Ué, alguns foram direto pro estômago… e o resto guardei nos bolsos pra gente dividir depois~"
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<Então você já comeu alguns…>"
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Vamos comprar mais um pouco, como ela pediu. No fim das contas, é verdade que os outros clientes não vieram por nossa causa.>"
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "…Entendido. Tratando-se de uma despesa para a fluidez das operações, não deve haver problema."
+    },
+    {
+      "id": 56,
+      "model": "뉴김삿갓",
+      "content": "Oh, então pra mim é um pão de arroz com gergelim."
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<?!>"
+    },
+    {
+      "id": 58,
+      "content": "…E foi num momento completamente inesperado que Kim do Chapéu de Bambu se intrometeu."
+    },
+    {
+      "id": 59,
+      "model": "에즈라",
+      "content": "Tiooo…! Por onde andou esse tempo todo…?!"
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "content": "Calma, calma."
+    },
+    {
+      "id": 61,
+      "model": "에즈라",
+      "content": "…?"
+    },
+    {
+      "id": 62,
+      "model": "뉴김삿갓",
+      "content": "Pode brigar comigo à vontade, mas espera só um instante."
+    },
+    {
+      "id": 63,
+      "content": "Enquanto Ezra esperava sem entender nada…"
+    },
+    {
+      "id": 64,
+      "content": "Kim pegou o pão que a dona lhe entregou, deu uma mordida e…"
+    },
+    {
+      "id": 65,
+      "model": "뉴김삿갓",
+      "content": "…Pronto. Pode começar."
+    },
+    {
+      "id": 66,
+      "model": "에즈라",
+      "content": "Seu traça de pão…!"
+    },
+    {
+      "id": 67,
+      "model": "뉴김삿갓",
+      "content": "Argh…!"
+    },
+    {
+      "id": 68,
+      "content": "O punho de Ezra o acertou em cheio na boca do estômago, e ele rolou pelo chão."
+    },
+    {
+      "id": 69,
+      "content": "…Se continuássemos com aquela baderna na frente da padaria, a dona era capaz de exigir, num acesso de raiva, que comprássemos a loja inteira — então o melhor era sair logo dali."
+    },
+    {
+      "id": 70,
+      "place": "Distrito 14, Rua da Manteiga",
+      "model": "뫼르소",
+      "content": "Gerente."
+    },
+    {
+      "id": 71,
+      "content": "Enquanto eu observava os dois, que continuavam se estranhando mesmo andando pela rua, Meursault veio caminhar ao meu lado."
+    },
+    {
+      "id": 72,
+      "content": "Em uma das mãos… ele segurava algo marrom, enrolado em espiral."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Hã…?>"
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "Conforme a solicitação de ‘verificar o filme’, concluí a revelação."
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<Ah, então este é o filme… É, e… como é que eu faço pra ver?>"
+    },
+    {
+      "id": 76,
+      "model": "뫼르소",
+      "content": "Basta segurá-lo contra a luz do sol ou outra fonte de luz forte. Como é um filme não invertido, o que foi fotografado aparecerá tal como é."
+    },
+    {
+      "id": 77,
+      "content": "…Não faço ideia do que signifique um filme não invertido, mas, de todo modo, fiz como ele disse e estiquei o filme apontado para o céu."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Ah… oh, dá pra ver. É mais impressionante do que eu imaginava!>"
+    },
+    {
+      "id": 79,
+      "model": "이스마엘",
+      "content": "Oh, funcionou? Também fiquei curiosa…"
+    },
+    {
+      "id": 80,
+      "model": "그레고르",
+      "content": "Cadê, cadê? Deixa eu ver também."
+    },
+    {
+      "id": 81,
+      "content": "As imagens vistas contra a luz eram pequenas demais para distinguir os detalhes, mas dava para notar que o filme estava repleto de fotos quase idênticas."
+    },
+    {
+      "id": 82,
+      "model": "싱클레어",
+      "content": "Hum…? É a mesma pessoa em todas as fotos? E sem nem mudar de pose…?"
+    },
+    {
+      "id": 83,
+      "model": "그레고르",
+      "content": "Pois é, né… Hum? Não, peraí."
+    },
+    {
+      "id": 84,
+      "model": "그레고르",
+      "content": "Olha o braço aqui. Parece que, quanto mais pra baixo no filme, mais o braço vai descendo…"
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "É… e a cabeça também parece estar virando pra direita."
+    },
+    {
+      "id": 86,
+      "model": "싱클레어",
+      "content": "…Hã?!"
+    },
+    {
+      "id": 87,
+      "content": "Estávamos todos espremidos uns contra os outros, olhando o filme para o alto, quando tive a impressão de que Sinclair, sozinho, estremeceu de repente."
+    },
+    {
+      "id": 88,
+      "content": "E então… seu rosto foi ficando pálido como cera."
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<…Sinclair?>"
+    },
+    {
+      "id": 90,
+      "model": "싱클레어",
+      "content": "Na escola… eu fiz uma coisa parecida."
+    },
+    {
+      "id": 91,
+      "model": "싱클레어",
+      "content": "Você desenha no cantinho de um bloco de notas ou de um livro grosso… sempre na mesma posição."
+    },
+    {
+      "id": 92,
+      "model": "싱클레어",
+      "content": "Na primeira página, desenha a figura com os dois braços abaixados… na página seguinte, um deles um pouquinho mais pra cima, e na próxima mais ainda… e assim por diante, até a mão estar erguida no ar."
+    },
+    {
+      "id": 93,
+      "model": "싱클레어",
+      "content": "Aí, quando você folheia as páginas bem rápido… o desenho parece ganhar vida e erguer o braço… como se se movesse sozinho."
+    },
+    {
+      "id": 94,
+      "model": "싱클레어",
+      "content": "O nome dessa aula era… ‘Compreensão da Imagem em Movimento.’… Era esse."
+    },
+    {
+      "id": 95,
+      "model": "싱클레어",
+      "content": "Disseram que todos os vídeos que a gente assiste são feitos… da mesma forma… né."
+    },
+    {
+      "id": 96,
+      "model": "단테",
+      "content": "<Então, quer dizer que isto é…>"
+    },
+    {
+      "id": 97,
+      "model": "오티스",
+      "content": "Um conjunto de fotografias tiradas em sequência…"
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "É altamente provável que se trate de um filme contendo imagens em movimento gravadas — o Tabu da N Corp. Gerente."
+    }
+  ]
+}
