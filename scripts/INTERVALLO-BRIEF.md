@@ -46,13 +46,13 @@ general Im Gyeong-eop (임경업).
 - Gesellschaft, WARP (trem WARP), Arayashiki, Sora, Ren, Catherine → manter
 - Clockhead (apelido do Dante) → "cabeça de relógio" / "relógio" (minúsculo, como insulto/apelido)
 - fathoms (of ego) → profundezas (do ego); Aspect (o que Dante busca) → **Aspecto**
-- Star (a Estrela que Dante segue) → Estrela; House of Spiders → Casa das Aranhas
-- Mirror World → Mundo Espelho; K Corp./N Corp./L Corp. → manter
+- Star (a Estrela que Dante segue) → Estrela; House of Spiders → O Lar das Aranhas (CLT v6.51.0)
+- Mirror World → Mundo Espelhado; K Corp./N Corp./L Corp. → manter
 
 ## Registro de fala (consistência com a base CLT / Canto IX já traduzido)
 
 - **Kim do Chapéu de Bambu**: tagarela, brincalhão, preguiçoso assumido, mas poeta eloquente —
-  coloquial fluido com floreios líricos ocasionais. Versão "뉴김삿갓" (Mundo Espelho) é a que fala.
+  coloquial fluido com floreios líricos ocasionais. Versão "뉴김삿갓" (Mundo Espelhado) é a que fala.
 - **Aeng-du**: formal, devotada, fala polida e um pouco arcaica/cerimoniosa ("Sim, Mentor.").
 - **Im Gyeong-eop**: general clássico — fala arcaica/solene (sem chegar ao "vós" do Don Quixote).
 - **Faust**: formalíssima, refere-se a si mesma em 3ª pessoa ("Faust"); jargão técnico.

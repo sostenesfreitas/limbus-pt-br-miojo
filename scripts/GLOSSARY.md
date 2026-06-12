@@ -15,16 +15,16 @@ Termos obrigatórios (consistência com a base CLT da comunidade):
 - Red Gaze → **Olhar Vermelho**
 - Smoke War → **Guerra da Fumaça**
 - core (da Anormalidade) → **núcleo**
-- Mirror Dungeon → **Masmorra Espelho** (Mirror World → **Mundo Espelho**)
+- Mirror Dungeon → **Masmorra Espelhada** (Mirror World → **Mundo Espelhado**) — padrão CLT v6.51.0
 - Grade X Fixer → **Mandatário(a) de Grau X**
 - Distortion → **Distorção**
 - Bloodfiend → **Sanguinário**; Bloodbag → **Saco de Sangue**; Kindred → **Aparentado**
 - Encounter → **Encontro**; Clash → **Embate**; Stagger → **Atordoamento**
 - Identity → **Identidade**; E.G.O → **E.G.O** (mantém)
 - Enkephalin → **Enkephalin** (mantém)
-- The Ring → **O Anel**; The Middle → **O Médio**; The Thumb → **O Polegar**; The Index → **O Indicador**; The Pinky → **O Mindinho**
-- Nursefather → **Pai-Babá**; Hierarch → **Patriarca**
-- House of Spiders → **Casa das Aranhas**
+- The Ring → **O Anel**; The Middle → **O Meio** (CLT v6.51.0; era "O Médio"); The Thumb → **O Polegar**; The Index → **O Indicador**; The Pinky → **O Mindinho**
+- Nursefather → **Padrinho** (fem. **Padrinha**; CLT v6.51.0 aposentou "Pai-Babá"; títulos: Padrinho do Meio/Indicador/Anelar/Mindinho/Polegar); Hierarch → **Patriarca**
+- House of Spiders → **O Lar das Aranhas** (CLT v6.51.0; era "Casa das Aranhas")
 - Corridor → **Corredor**; fathoms of ego → **profundezas do ego**
 - Status: Burn→Queimadura, Bleed→Sangramento, Tremor→Tremor, Rupture→Ruptura, Sinking→Afundamento, Poise→Equilíbrio, Charge→Carga, Breath→[Breath] (manter colchetes de tokens)
 - Tokens entre colchetes `[Combustion]`, `[Laceration]`, `[Burst]` etc. → **manter verbatim**
