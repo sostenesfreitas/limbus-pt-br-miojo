@@ -1,16 +1,19 @@
-// Copia os arquivos de translations/ para a pasta ptbr-CLT do jogo.
+// Copia os arquivos de translations/ (+ config.json e fonte de assets/lang) para Lang/Miojo-PTBR do jogo.
 // Faz backup (.bak) de qualquer arquivo existente antes de sobrescrever.
 // Uso: node scripts/apply-to-game.mjs
 import fs from "node:fs";
 import path from "node:path";
 
 const GAME = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Limbus Company";
-const DEST = path.join(GAME, "LimbusCompany_Data", "Lang", "ptbr-CLT");
+const DEST = path.join(GAME, "LimbusCompany_Data", "Lang", "Miojo-PTBR");
 const SRC = path.join(process.cwd(), "translations");
 
+const LANG = path.join(process.cwd(), "assets", "lang");
 if (!fs.existsSync(DEST)) {
-  console.error(`Pasta de destino não encontrada: ${DEST}`);
-  process.exit(1);
+  fs.mkdirSync(DEST, { recursive: true });
+  fs.copyFileSync(path.join(LANG, "config.json"), path.join(DEST, "..", "config.json"));
+  fs.cpSync(path.join(LANG, "Font"), path.join(DEST, "Font"), { recursive: true });
+  console.log(`criada: ${DEST} (config.json + Font)`);
 }
 
 function walk(base, dir = base, out = []) {
@@ -33,4 +36,4 @@ for (const rel of walk(SRC)) {
   fs.copyFileSync(from, to);
   console.log(`copiado: ${rel}`);
 }
-console.log("\nConcluído. Feche o jogo antes de aplicar; a localização ptbr-CLT já estava selecionada.");
+console.log("\nConcluído. Feche o jogo antes de aplicar; selecione Miojo-PTBR nas opções de idioma se não vier sozinho.");

@@ -1,0 +1,512 @@
+﻿{
+    "dataList": [
+        {
+            "key": "ReturnToMainUiScene",
+            "text": "Voltar para a Vidraça?\n<color=#ff0000>Ao voltar para a Vidraça, o progresso atual da exploração pode não ser salvo.</color>\n\n※ O progresso da exploração é salvo automaticamente ao concluir uma missão / mudar de andar / mudar de área.\nConfira o estado salvo atual antes de voltar para a Vidraça."
+        },
+        {
+            "key": "AskToMoveFloor",
+            "text": "Ir para o andar {0}?"
+        },
+        {
+            "key": "MoveFloorUiDesc",
+            "text": "Para qual andar vamos?"
+        },
+        {
+            "key": "DialogueSkipConfirmDesc",
+            "text": "Pular a história?"
+        },
+        {
+            "key": "DialogueSkipDontShowAgain",
+            "text": "Não mostrar este aviso de novo"
+        },
+        {
+            "key": "AccumulatedExp",
+            "text": "Olhos gastos até agora"
+        },
+        {
+            "key": "RemainExpToNextLevel",
+            "text": "Até o próximo nível"
+        },
+        {
+            "key": "ItemFilterAll",
+            "text": "Todos"
+        },
+        {
+            "key": "ItemFilterKeyItem",
+            "text": "Missão"
+        },
+        {
+            "key": "ItemFilterSurvival",
+            "text": "Sobrevivência"
+        },
+        {
+            "key": "ItemFilterBasicAttack",
+            "text": "Ataque Básico"
+        },
+        {
+            "key": "ItemFilterAdditionalAttack",
+            "text": "Ataque Extra"
+        },
+        {
+            "key": "ItemFilterPrisonerEffect",
+            "text": "Efeitos de Pecador"
+        },
+        {
+            "key": "ItemFilterEtc",
+            "text": "Outros"
+        },
+        {
+            "key": "Item_QuestMark",
+            "text": "Item Importante"
+        },
+        {
+            "key": "Item_Suffix_Disabled",
+            "text": "{0} (inativo)"
+        },
+        {
+            "key": "rpg_quest_tag_dialogue",
+            "text": "Diálogo"
+        },
+        {
+            "key": "rpg_quest_tag_battle",
+            "text": "Combate"
+        },
+        {
+            "key": "rpg_quest_tag_hunt",
+            "text": "Caça"
+        },
+        {
+            "key": "rpg_quest_tag_gather",
+            "text": "Coleta"
+        },
+        {
+            "key": "rpg_quest_tag_shop",
+            "text": "Loja"
+        },
+        {
+            "key": "rpg_quest_tag_move",
+            "text": "Deslocamento"
+        },
+        {
+            "key": "Common_Ok",
+            "text": "Confirmar"
+        },
+        {
+            "key": "Quest_Tag_Progress",
+            "text": "Progresso"
+        },
+        {
+            "key": "Quest_Tag_Reward",
+            "text": "Recompensa"
+        },
+        {
+            "key": "Shop_Title",
+            "text": "Loja"
+        },
+        {
+            "key": "Shop_Category_All",
+            "text": "Todos"
+        },
+        {
+            "key": "Shop_Category_Artifact",
+            "text": "Artefatos"
+        },
+        {
+            "key": "Shop_Category_Etc",
+            "text": "Outros"
+        },
+        {
+            "key": "Shop_Button_Buy",
+            "text": "Comprar"
+        },
+        {
+            "key": "Shop_SelectedItem_None",
+            "text": "Selecione o item que deseja comprar."
+        },
+        {
+            "key": "Shop_Item_Stock",
+            "text": "Restante"
+        },
+        {
+            "key": "Shop_Item_Owned",
+            "text": "Adquirido"
+        },
+        {
+            "key": "Shop_Item_NotForSale",
+            "text": "Indisponível"
+        },
+        {
+            "key": "Shop_Empty_Item_List",
+            "text": "Nenhum produto para exibir."
+        },
+        {
+            "key": "Log_ItemAcquired",
+            "text": "Item obtido: {0} x{1}"
+        },
+        {
+            "key": "Log_ItemAcquiredKeyItem",
+            "text": "Item obtido: <color=#{2}>{0} x{1}</color>"
+        },
+        {
+            "key": "Log_CurrencyEarned",
+            "text": "{0} olhos obtidos"
+        },
+        {
+            "key": "Log_Purchased",
+            "text": "Compra: {0} x{1} ({2} gastos)"
+        },
+        {
+            "key": "Log_PurchasedKeyItem",
+            "text": "Compra: <color=#{3}>{0} x{1}</color> ({2} gastos)"
+        },
+        {
+            "key": "Log_NpcInteracted",
+            "text": "Fim da conversa."
+        },
+        {
+            "key": "Log_ProjectileRemoved",
+            "text": "Projétil removido: {0}"
+        },
+        {
+            "key": "Log_ChoiceSelected",
+            "text": "Escolha: {0}"
+        },
+        {
+            "key": "Log_QuestAcquired",
+            "text": "<color=#{1}>Nova missão: {0}</color>"
+        },
+        {
+            "key": "Log_QuestCompleted",
+            "text": "Missão concluída: {0}"
+        },
+        {
+            "key": "Log_QuestGoalProgress",
+            "text": "Progresso do objetivo: {0}"
+        },
+        {
+            "key": "Log_PlayerHit",
+            "text": "Dano sofrido: {0}"
+        },
+        {
+            "key": "Log_BattleResultSync",
+            "text": "Resultado do combate aplicado ({0}): PV {1}/{2}, PS {3}/{4}"
+        },
+        {
+            "key": "Log_BattleDefeatHp",
+            "text": "Derrota em combate: PV {0}"
+        },
+        {
+            "key": "Log_CheatVitals",
+            "text": "Trapaça: {0}"
+        },
+        {
+            "key": "Log_EventEffectVitals",
+            "text": "Efeito de evento: {0}"
+        },
+        {
+            "key": "Log_RecruitFullRecover",
+            "text": "Aliado recrutado ({0}): PV/PS totalmente recuperados"
+        },
+        {
+            "key": "Log_VitalsNoChange",
+            "text": "Sem alterações"
+        },
+        {
+            "key": "Log_NpcDefeated",
+            "text": "{0} abatido (dano {1})"
+        },
+        {
+            "key": "Log_NpcDefeatedWeakness",
+            "text": "{0} abatido (dano em ponto fraco {1})"
+        },
+        {
+            "key": "Log_DamageDealt",
+            "text": "Dano {1} em {0}"
+        },
+        {
+            "key": "Log_DamageDealtWeakness",
+            "text": "Dano em ponto fraco {1} em {0}"
+        },
+        {
+            "key": "Log_PlayerDead",
+            "text": "Jogador morto"
+        },
+        {
+            "key": "Log_BattleEntered",
+            "text": "Início do combate"
+        },
+        {
+            "key": "Log_BattleWin",
+            "text": "Vitória em combate"
+        },
+        {
+            "key": "Log_BattleLose",
+            "text": "Derrota em combate"
+        },
+        {
+            "key": "Log_RestSpotHealed",
+            "text": "PV totalmente recuperados"
+        },
+        {
+            "key": "Log_EscapeBlocked",
+            "text": "Não dá para sair daqui agora."
+        },
+        {
+            "key": "Log_WardenAppeared",
+            "text": "Um mau presságio gélido se aproxima aos poucos."
+        },
+        {
+            "key": "Log_SuicideBlocked",
+            "text": "Parece que não dá para escapar com isto."
+        },
+        {
+            "key": "ProgressPopup_Title",
+            "text": "Grand Magasin Sisyphe"
+        },
+        {
+            "key": "ProgressPopup_Suicide",
+            "text": "Suicidar-se\ncom a manopla"
+        },
+        {
+            "key": "ProgressPopup_EnemyAttackIndication",
+            "text": "Mostrar prévia de ataque inimigo"
+        },
+        {
+            "key": "ProgressPopup_MyAttackIndication",
+            "text": "Mostrar meu alcance de ataque"
+        },
+        {
+            "key": "ProgressPopup_Restore",
+            "text": "Restaurar salvamento"
+        },
+        {
+            "key": "RestorePopup_Title",
+            "text": "Restaurar salvamento"
+        },
+        {
+            "key": "RestorePopup_Checking",
+            "text": "Verificando…"
+        },
+        {
+            "key": "RestorePopup_FoundNoQuest",
+            "text": "Há um ponto de salvamento automático que pode ser restaurado."
+        },
+        {
+            "key": "RestoreCompare_ColCurrent",
+            "text": "Último salvamento"
+        },
+        {
+            "key": "RestoreCompare_ColBackup",
+            "text": "Restaurar"
+        },
+        {
+            "key": "RestoreCompare_NoQuest",
+            "text": "Nenhum"
+        },
+        {
+            "key": "RestoreCompare_Unknown",
+            "text": "Não verificável"
+        },
+        {
+            "key": "RestoreCompare_SavedAt",
+            "text": "Salvo em: {0}"
+        },
+        {
+            "key": "RestorePopup_None",
+            "text": "Não há ponto de salvamento automático para restaurar."
+        },
+        {
+            "key": "RestorePopup_LoadFailed",
+            "text": "Não foi possível verificar os dados do salvamento automático."
+        },
+        {
+            "key": "RestorePopup_Confirm",
+            "text": "O progresso posterior a este ponto será perdido. Isso não pode ser desfeito.\nRestaurar o salvamento?"
+        },
+        {
+            "key": "RestorePopup_Running",
+            "text": "Restaurando…"
+        },
+        {
+            "key": "RestorePopup_NeedRestart",
+            "text": "Restaurado. O progresso a partir de agora não será salvo; reinicie o jogo."
+        },
+        {
+            "key": "RestorePopup_Close",
+            "text": "Fechar"
+        },
+        {
+            "key": "Inventory_Empty",
+            "text": "Você não possui itens."
+        },
+        {
+            "key": "Inventory_NotSelected",
+            "text": "Nenhum item selecionado."
+        },
+        {
+            "key": "LogPopup_Title",
+            "text": "Registro completo"
+        },
+        {
+            "key": "Setting_Tab_Sisyphus",
+            "text": "Sisyphe"
+        },
+        {
+            "key": "Setting_Sisyphus_UiSetting",
+            "text": "Configurações de UI"
+        },
+        {
+            "key": "Setting_Sisyphus_KeyManual",
+            "text": "Manual de atalhos"
+        },
+        {
+            "key": "Setting_Sisyphus_CensorDeadscene",
+            "text": "Censurar cenas de morte"
+        },
+        {
+            "key": "Setting_Sisyphus_Move",
+            "text": "Mover"
+        },
+        {
+            "key": "Setting_Sisyphus_Interaction",
+            "text": "Interagir"
+        },
+        {
+            "key": "Setting_Sisyphus_Quest",
+            "text": "Diário: Missões"
+        },
+        {
+            "key": "Setting_Sisyphus_GauntletSuicide",
+            "text": "Suicidar-se com a manopla"
+        },
+        {
+            "key": "Setting_Sisyphus_Attack",
+            "text": "Atacar"
+        },
+        {
+            "key": "Setting_Sisyphus_Guard",
+            "text": "Defender"
+        },
+        {
+            "key": "Setting_Sisyphus_Dodge",
+            "text": "Esquivar"
+        },
+        {
+            "key": "Setting_Sisyphus_Run",
+            "text": "Correr"
+        },
+        {
+            "key": "Setting_Sisyphus_LockedNeedItem",
+            "text": "※ Bloqueado, requer compra de item"
+        },
+        {
+            "key": "Setting_Sisyphus_LanternToggle",
+            "text": "Lanterna ON/OFF"
+        },
+        {
+            "key": "Setting_Sisyphus_CloseWindowOrSetting",
+            "text": "Fechar janela aberta / Configurações"
+        },
+        {
+            "key": "Setting_Sisyphus_Inventory",
+            "text": "Inventário"
+        },
+        {
+            "key": "Setting_Sisyphus_DialogueNext",
+            "text": "Avançar / confirmar escolha"
+        },
+        {
+            "key": "Setting_Sisyphus_DialogueChoice",
+            "text": "Selecionar escolha no diálogo"
+        },
+        {
+            "key": "Setting_Sisyphus_DialogueSkip",
+            "text": "Pular diálogo"
+        },
+        {
+            "key": "Setting_Sisyphus_FullLog",
+            "text": "Registro completo"
+        },
+        {
+            "key": "Setting_Sisyphus_CreditFastForward",
+            "text": "Acelerar créditos"
+        },
+        {
+            "key": "Setting_Sisyphus_CreditSkip",
+            "text": "Pular créditos"
+        },
+        {
+            "key": "Setting_Sisyphus_QuestNavigation",
+            "text": "Seta de navegação da missão"
+        },
+        {
+            "key": "Setting_Sisyphus_TabDefault",
+            "text": "Atalhos"
+        },
+        {
+            "key": "Setting_Sisyphus_TabMobile",
+            "text": "Botões"
+        },
+        {
+            "key": "WardenBigNail",
+            "text": "Pregão do Carcereiro"
+        },
+        {
+            "key": "FormationUI_AskToBack",
+            "text": "Sair do combate pelo botão de voltar conta como derrota."
+        },
+        {
+            "key": "Setting_Sisyphus_Manual",
+            "text": "Manual"
+        },
+        {
+            "key": "Setting_Sisyphus_BattleStatus",
+            "text": "Situação no Mundo das Sombras"
+        },
+        {
+            "key": "TheaterTitle",
+            "text": "Sala de Exibição"
+        },
+        {
+            "key": "SettingTitle",
+            "text": "Configurações"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileMenu",
+            "text": "Menu"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileAutoAttack",
+            "text": "Ataque automático"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileInteraction",
+            "text": "Interagir"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileQuestNavigation",
+            "text": "Seta"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileLantern",
+            "text": "Lanterna"
+        },
+        {
+            "key": "Setting_Sisyphus_MobileUnlockNotice",
+            "text": "※ As funções marcadas podem ser desbloqueadas comprando itens."
+        },
+        {
+            "key": "Rpg_Menu_Status_Ego_Resources_Owned",
+            "text": "Recursos de E.G.O"
+        },
+        {
+            "key": "Rpg_Menu_Status_Character_Mental_Status",
+            "text": "Sanidade dos Pecadores"
+        },
+        {
+            "key": "Rpg_Move_Floor_Ui_Current_Floor",
+            "text": "Andar atual"
+        }
+    ]
+}

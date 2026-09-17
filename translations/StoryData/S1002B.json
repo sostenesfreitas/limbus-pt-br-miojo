@@ -1,0 +1,669 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Pavilhão de Beleza, 1º andar",
+            "model": "로쟈",
+            "content": "Por que todo mundo tá obcecado com esse… cadáver que nem dá pra reconhecer a forma? E por que ele brilha tanto assim…? Essa pessoa tava coberta de ouro antes de morrer, é?"
+        },
+        {
+            "id": 1,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "…Antes de morrer?"
+        },
+        {
+            "id": 2,
+            "content": "Ela piscou os olhos como se tivesse ouvido uma palavra completamente estranha."
+        },
+        {
+            "id": 3,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Pahahaha!"
+        },
+        {
+            "id": 4,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Que engraçado. \"Antes de morrer\"… faz um tempão que eu não ouço isso. Aquele ali caiu do 6º andar. Desistiu no meio do caminho pro Centro de Atendimento. Ou então houve alguma briguinha, grande ou pequena, por causa de Pele Dourada."
+        },
+        {
+            "id": 5,
+            "model": "로쟈",
+            "content": "Ã, ãhn? Indo pro Centro de Atendimento e… desistiu? Não, mesmo que dê pra desistir, por que a pessoa cai…?"
+        },
+        {
+            "id": 6,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Também tenho uma pergunta: por que, quando a gente anda, mexe o pé esquerdo e o direito juntos?"
+        },
+        {
+            "id": 7,
+            "model": "로쟈",
+            "content": "Quê…?"
+        },
+        {
+            "id": 8,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "…É o mesmo nível de pergunta que você tá me fazendo. Entenderam?"
+        },
+        {
+            "id": 9,
+            "model": "로쟈",
+            "content": "Não entendi…"
+        },
+        {
+            "id": 10,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "E os clientes não estão obcecados com essa casca que vocês chamam de corpo de quando vivo. Eles procuram os olhos que o sujeito tinha ou… restos de Pele Dourada."
+        },
+        {
+            "id": 11,
+            "model": "단테",
+            "content": "<Pele Dourada… será que ela quer dizer algo tipo o Ramo Dourado?>"
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Isso é delicado até de perguntar. Não é fácil sair falando a palavra \"Ramo Dourado\" à toa…"
+        },
+        {
+            "id": 13,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Porque \"a maioria\" dos clientes da loja considera a Pele Dourada preciosa. Embora cada cliente veja nela um valor diferente."
+        },
+        {
+            "id": 14,
+            "content": "Ainda havia muita coisa nas palavras dela que não fazia sentido."
+        },
+        {
+            "id": 15,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Mas, mudando de assunto, como é que vocês conseguiram sair \"daquele lugar\"?"
+        },
+        {
+            "id": 16,
+            "model": "로쟈",
+            "content": "Aquele lugar… cê tá falando do banheiro?"
+        },
+        {
+            "id": 17,
+            "content": "Rodya não tinha levantado a voz nem dito nada tão especial, mas…"
+        },
+        {
+            "id": 18,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Shh…! Ainda assim… não precisava pronunciar tão claro e alto assim, né? Quer atrair a fúria do Gerente de Andar?"
+        },
+        {
+            "id": 19,
+            "model": "로쟈",
+            "content": "…? Hã? O que foi…?"
+        },
+        {
+            "id": 20,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Até hoje, eu nunca vi um cliente sair andando da Fonte. Em todas as temporadas que já passei aqui, nunca vi aquela porta se abrir."
+        },
+        {
+            "id": 21,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Vocês, que saíram da Fonte… isso, vocês, estrangeiros. Estão maltrapilhos demais agora. Se cruzarem com algum Gerente de Andar mais rígido desse jeito, vai dar problema, viu? Bom, no 3º andar vendem umas roupas bem apresentáveis; fazer compras lá deve ajudar um pouco. O importante é ter bom olho na hora de escolher."
+        },
+        {
+            "id": 22,
+            "model": "단테",
+            "content": "<Prestando atenção, essa mulher, agora…>"
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<parece que tá criticando o nosso jeito de vestir…>"
+        },
+        {
+            "id": 24,
+            "model": "이상",
+            "content": "…?!"
+        },
+        {
+            "id": 25,
+            "content": "Por algum motivo, Yi Sang em particular parecia ter levado um choque tremendo."
+        },
+        {
+            "id": 26,
+            "model": "이상",
+            "content": "É… é isso mesmo? Era uma repreensão ao nosso trajar?"
+        },
+        {
+            "id": 27,
+            "model": "단테",
+            "content": "<Por… por que você tá assim…?>"
+        },
+        {
+            "id": 28,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Ahã! Sobretudo essa jaqueta esquisitíssima já é horrível por si só, mas o jeito de deixá-la meio pendurada no ombro… é cafona demais e não combina com nada."
+        },
+        {
+            "id": 29,
+            "model": "이상",
+            "content": "Objeção! Em minha terra natal, eu era tido como alguém de notável discernimento em matéria de vestimenta…"
+        },
+        {
+            "id": 30,
+            "model": "그레고르",
+            "content": "Primeiro… vamos descobrir onde a gente tá. Uma coisa de cada vez. Tá?"
+        },
+        {
+            "id": 31,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Como vocês podem ver, isto é o andar térreo dessa loja de departamentos enfadonha, o Pavilhão de Beleza, onde perfume e fedor se misturam no ar. É meu segundo lugar favorito. Eu gosto do tapete com estampa Fair Isle, e aqui sempre tem muita coisa pra ver."
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Ãh…"
+        },
+        {
+            "id": 33,
+            "model": "돈키호테",
+            "content": "Eu… continuo sem entender. Que espécie de lugar é este, afinal…?"
+        },
+        {
+            "id": 34,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Qual é! Nunca viram uma loja de departamentos?"
+        },
+        {
+            "id": 35,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Se tiver algo que queiram vestir, fiquem à vontade pra olhar."
+        },
+        {
+            "id": 36,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, será que explicar desse jeito ajuda?"
+        },
+        {
+            "id": 37,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Antigamente, este lugar era assim:"
+        },
+        {
+            "id": 38,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "um lugar onde só dava pra se levantar de novo depois de bater no fundo do poço."
+        },
+        {
+            "id": 39,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Mas agora, como vocês veem… virou um lugar onde bater no fundo do poço é o fim de tudo."
+        },
+        {
+            "id": 40,
+            "model": "돈키호테",
+            "content": "Não compreendi absolutamente nada… nem um grão sequer…"
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "Então… quem é você?"
+        },
+        {
+            "id": 42,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Eu?"
+        },
+        {
+            "id": 43,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Que vergonha me apresentar… Eu sou a Eremita."
+        },
+        {
+            "id": 44,
+            "model": "히스클리프",
+            "content": "…De qualquer ângulo, essa aí tem cara de quem fica de conversa fiada e depois trai. Perguntar o que ela quer dizer só vai dar dor de cabeça; vamos responder qualquer coisa e cair fora, tá?"
+        },
+        {
+            "id": 45,
+            "model": "이스마엘",
+            "content": "Olha, não adianta nada falar isso só pra mim…"
+        },
+        {
+            "id": 46,
+            "model": "오티스",
+            "content": "Você só fala coisa sem sentido desde o início. É melhor… deixar claro se é inimiga ou aliada."
+        },
+        {
+            "id": 47,
+            "model": "오티스",
+            "content": "Se pretende nos ajudar, diga o que quer. E não se atreva a dizer o absurdo de que não espera nada em troca. Nesse caso… vou considerá-la uma inimiga."
+        },
+        {
+            "id": 48,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "O que eu quero é uma coisa só. Desde que a loja abriu até agora, eu sempre desejei uma coisa apenas."
+        },
+        {
+            "id": 49,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Desmontar a existência dessa loja de departamentos. Por completo, a ponto de nunca mais conseguirem construir algo assim de novo!"
+        },
+        {
+            "id": 50,
+            "content": "Ela baixou a voz, como se sussurrasse um segredo."
+        },
+        {
+            "id": 51,
+            "model": "로쟈",
+            "content": "Desmontar…?"
+        },
+        {
+            "id": 52,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Sim. Não há nada que quem sabe esperar com paciência não consiga fazer, se quiser."
+        },
+        {
+            "id": 53,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Não se interessam? Só pra avisar: uma vez que se entra aqui, não dá pra sair até chegar a hora."
+        },
+        {
+            "id": 54,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "No começo, todo mundo fica perdido que nem vocês."
+        },
+        {
+            "id": 55,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Depois, todos se conformam com este lugar e começam a fazer compras. Porque não há mais nada pra fazer aqui."
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "content": "…Quer dizer que, se a gente ficar preso aqui muito tempo, vira que nem aqueles caras revirando cadáver ali?"
+        },
+        {
+            "id": 57,
+            "model": "오티스",
+            "content": "Então por que você não ficou como eles? Privilégio de ser a \"Eremita\"?"
+        },
+        {
+            "id": 58,
+            "model": "크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Hum-hum."
+        },
+        {
+            "id": 59,
+            "model": "오티스",
+            "content": "Não, espere. Você…"
+        },
+        {
+            "id": 60,
+            "content": "Outis, que vinha pressionando a Eremita sem parar, arregalou os olhos como se de repente tivesse percebido algo…"
+        },
+        {
+            "id": 61,
+            "content": "e olhou para Sinclair."
+        },
+        {
+            "id": 62,
+            "model": "싱클레어",
+            "content": "…Eu sei a identidade dela."
+        },
+        {
+            "id": 63,
+            "model": "싱클레어",
+            "content": "Sei quem ela é."
+        },
+        {
+            "id": 64,
+            "content": "Sinclair falou com a voz baixa, mas firme."
+        },
+        {
+            "id": 65,
+            "content": "Com os punhos cerrados e trêmulos, como quem segura a ânsia de vômito."
+        },
+        {
+            "id": 66,
+            "model": "홍루",
+            "content": "Senhor Sinclair, por acaso…"
+        },
+        {
+            "id": 67,
+            "content": "Sinclair continuou, olhando para o chão em vez de olhar para ela."
+        },
+        {
+            "id": 68,
+            "model": "싱클레어",
+            "content": "Eu… eu não sei desde quando ela decidiu nos enganar, mas…"
+        },
+        {
+            "id": 69,
+            "model": "싱클레어",
+            "content": "não podemos… cair na conversa dela…"
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<Do que você tá falando, Sinclair?>"
+        },
+        {
+            "id": 71,
+            "model": "싱클레어",
+            "content": "Eu senti um incômodo desde a hora em que ela falou com a gente…"
+        },
+        {
+            "id": 72,
+            "model": "싱클레어",
+            "content": "Agora tenho certeza."
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "content": "…Inquisidora."
+        },
+        {
+            "id": 74,
+            "model": "싱클레어",
+            "content": "Kromer."
+        },
+        {
+            "id": 75,
+            "content": "Ao pronunciar aquele nome, a expressão de Sinclair ficou gélida."
+        },
+        {
+            "id": 76,
+            "model": "이상",
+            "content": "Não pude ver-lhe a fisionomia, mas aquele frio que se sentia em cada canto de sua fala…"
+        },
+        {
+            "id": 77,
+            "content": "A extremista antiprótese da N Corp. que matou Effie com crueldade, incendiou a mansão de Sinclair e ainda massacrou impiedosamente a família dele."
+        },
+        {
+            "id": 78,
+            "content": "Aquela que, enquanto Sinclair gritava em desespero diante dela, acabou cortada num instante pela mão de Demian."
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 80,
+            "content": "Eu tento me lembrar de novo do rosto e da aparência de Kromer."
+        },
+        {
+            "id": 81,
+            "content": "E olho outra vez para a mulher diante de nós."
+        },
+        {
+            "id": 82,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Esperei até o pescoço doer. Quando é que vocês iam me reconhecer, afinal?!"
+        },
+        {
+            "id": 83,
+            "model": "로쟈",
+            "content": "…É mesmo."
+        },
+        {
+            "id": 84,
+            "model": "로쟈",
+            "content": "Parece. Com ela…"
+        },
+        {
+            "id": 85,
+            "content": "Rodya murmurou baixinho."
+        },
+        {
+            "id": 86,
+            "model": "돈키호테",
+            "content": "Vós…"
+        },
+        {
+            "id": 87,
+            "model": "돈키호테",
+            "content": "Sois do mesmo sangue de Kromer. Acaso…"
+        },
+        {
+            "id": 88,
+            "content": "O olhar de Don Quixote também se tornou frio em seguida."
+        },
+        {
+            "id": 89,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Claro que eu sou a irmã mais velha. Por favor, não me digam que eu pareci a irmã mais nova dela."
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "……."
+        },
+        {
+            "id": 91,
+            "model": "싱클레어",
+            "content": "Aquela desgraçada… matou a minha família inteira… Meu pai, minha mãe, minha irmã… todos… Ela não me deixou nada!"
+        },
+        {
+            "id": 92,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Pois é, ela tinha um vício crônico. Quando gostava de alguma coisa, atormentava por um bom tempo."
+        },
+        {
+            "id": 93,
+            "model": "싱클레어",
+            "content": "Não fale assim, com essa leveza…"
+        },
+        {
+            "id": 94,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Mas, no fim… vocês…"
+        },
+        {
+            "id": 95,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "a mataram direitinho, não? Então tá tudo certo, não tá?"
+        },
+        {
+            "id": 96,
+            "model": "로쟈",
+            "content": "…Você sabia?"
+        },
+        {
+            "id": 97,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Fui informada de que a minha irmãzinha acabou fazendo alguma idiotice e se deu mal."
+        },
+        {
+            "id": 98,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Disseram que os adversários eram funcionários de uma empresa recém-fundada. E que o chefe deles usava uma prótese que faz um som de dar água na boca."
+        },
+        {
+            "id": 99,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Por isso eu esperava o dia em que nos encontraríamos."
+        },
+        {
+            "id": 100,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Eu disse que esperei até o pescoço doer. Segurando o tempo todo a vontade de arrancar esse pescoço aí. Tô curiosa pra saber que som vai fazer."
+        },
+        {
+            "id": 101,
+            "content": "Olhando para a minha cabeça, a mulher chamada de irmã de Kromer estalava os lábios."
+        },
+        {
+            "id": 102,
+            "content": "Diferente de Kromer, a fala dela era calma e um pouco mais arrastada, mas ainda havia, grudado em cada palavra, um incômodo inexplicável."
+        },
+        {
+            "id": 103,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 104,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Mas eu não vou fazer isso. Sou diferente da minha irmãzinha, que não tinha um pingo de paciência."
+        },
+        {
+            "id": 105,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Então, que tal me ajudarem a derrubar esta loja? Sozinha é muito solitário. Assim como fazer compras é mais divertido em grupo."
+        },
+        {
+            "id": 106,
+            "model": "싱클레어",
+            "content": "…Gerente."
+        },
+        {
+            "id": 107,
+            "model": "싱클레어",
+            "content": "Se o senhor permitir, eu posso matar essa desgraçada?"
+        },
+        {
+            "id": 108,
+            "model": "단테",
+            "content": "<Hã?!>"
+        },
+        {
+            "id": 109,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah~ agora entendi por que a minha irmãzinha se interessou. O dia em que você vai mudar de ideia vem logo. O coração de quem olha a vitrine e o de quem passa no caixa são coisas diferentes."
+        },
+        {
+            "id": 110,
+            "model": "맨얼굴크로머언니",
+            "teller": "???",
+            "title": "???",
+            "content": "Podem esperar coisa boa, estrangeiros que mataram a minha irmãzinha. De agora em diante, só vão acontecer coisas espetaculares nesta loja."
+        },
+        {
+            "id": 111,
+            "model": "싱클레어",
+            "content": "Cala a boca."
+        },
+        {
+            "id": 112,
+            "content": "Antes mesmo de ouvir a minha resposta, Sinclair ergueu a alabarda e se lançou à frente, mas…"
+        },
+        {
+            "id": 113,
+            "model": "료슈2",
+            "content": "Não."
+        },
+        {
+            "id": 114,
+            "content": "…foi barrado, com um baque, pela bainha que Ryōshū estendeu discretamente."
+        },
+        {
+            "id": 115,
+            "model": "싱클레어",
+            "content": "Senhorita Ryōshū…?"
+        },
+        {
+            "id": 116,
+            "model": "료슈",
+            "content": "Não é a hora. Esfrie a cabeça."
+        },
+        {
+            "id": 117,
+            "model": "료슈2",
+            "content": "Além disso…"
+        },
+        {
+            "id": 118,
+            "content": "Ryōshū apontou com o queixo para onde a irmã de Kromer estava…"
+        },
+        {
+            "id": 119,
+            "model": "싱클레어",
+            "content": "Ela… sumiu."
+        },
+        {
+            "id": 120,
+            "content": "Ela já tinha desaparecido diante de nós, sem fazer o menor ruído."
+        }
+    ]
+}

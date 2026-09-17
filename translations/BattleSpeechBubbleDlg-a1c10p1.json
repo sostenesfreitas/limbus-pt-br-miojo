@@ -1,0 +1,269 @@
+﻿{
+    "dataList": [
+        {
+            "id": "10SV-004",
+            "desc": "수셰프 스킬4",
+            "dlg": "Tá ficando gostoso, tá ouvindo? O sabor tá absurdo, tá ouvindo?"
+        },
+        {
+            "id": "10SV-005",
+            "desc": "수셰프 스킬5",
+            "dlg": "Vocês também vão contribuir, tá ouvindo?"
+        },
+        {
+            "id": "10SV-006",
+            "desc": "수셰프 스킬6",
+            "dlg": "Anda, anda, mexe logo, tá ouvindo?"
+        },
+        {
+            "id": "10SV-007",
+            "desc": "수셰프 스킬7",
+            "dlg": "Como vocês ajudaram, esse é por conta da casa, tá ouvindo?"
+        },
+        {
+            "id": "10SV-008_a",
+            "desc": "수셰프 스킬8",
+            "dlg": "Quem se contenta com isso não é Sous-chef, tá ouvindo?"
+        },
+        {
+            "id": "10SV-008_b",
+            "desc": "수셰프 스킬8",
+            "dlg": "Esse ingrediente aí também me dá água na boca, tá ouvindo?"
+        },
+        {
+            "id": "10SV-009",
+            "desc": "수셰프 스킬9",
+            "dlg": "O gás tá indo embora… Assim não dá, tá ouvindo…?"
+        },
+        {
+            "id": "10SV-010",
+            "desc": "수셰프 특수 패턴1이 나오는 턴 시작 시 (전투당 1회)",
+            "dlg": "Mmmhmhmhm~ Esse gás na língua… é o melhor, tá ouvindo? O Boucher também vai adorar, tá ouvindo?"
+        },
+        {
+            "id": "10SV-011",
+            "desc": "수셰프 특수 패턴2가 나오는 턴 시작 시 (전투당 1회)",
+            "dlg": "Snif… snif snif… Tá cheirando muito bem, tá ouvindo… Tô com fome, tá ouvindo…"
+        },
+        {
+            "id": "10SV-024-01",
+            "desc": "붉은 신 스킬3",
+            "dlg": "Ti… Taque"
+        },
+        {
+            "id": "10SV-024-02",
+            "desc": "붉은 신 스킬3",
+            "dlg": "Ti… Taque"
+        },
+        {
+            "id": "10SV-026",
+            "desc": "붉은 신 스킬5",
+            "dlg": "Que horrí… lembr… Voz"
+        },
+        {
+            "id": "10SV-029",
+            "desc": "붉은 신 스킬8",
+            "dlg": "Me deix… ouv… canção"
+        },
+        {
+            "id": "10SV-031",
+            "desc": "붉은 신 스킬10",
+            "dlg": "Raiva! Chor… perto!"
+        },
+        {
+            "id": "10SV-032",
+            "desc": "붉은 신 수비 스킬",
+            "dlg": "Cant… semelh… apresenta…"
+        },
+        {
+            "id": "10SV-034",
+            "desc": "붉은 신 스킬13",
+            "dlg": "Julgar… Gerente… julgamen…"
+        },
+        {
+            "id": "10SV-035-a",
+            "desc": "붉은 신 폭식 보유 1턴째 턴 시작",
+            "dlg": "Dorme… dorme… meu nenê…"
+        },
+        {
+            "id": "10SV-035-b",
+            "desc": "붉은 신 폭식 보유 2턴째 턴 시작",
+            "dlg": "Só os fios… mais finos… desfia… desfia…"
+        },
+        {
+            "id": "10SV-035-c",
+            "desc": "붉은 신 폭식 보유 3턴째 턴 시작",
+            "dlg": "Cresce… cresce… forte… e depois…"
+        },
+        {
+            "id": "10SV-036-01",
+            "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+            "dlg": "Hnng… snif… dói… dói…!!"
+        },
+        {
+            "id": "10SV-036-02",
+            "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+            "dlg": "Hnng… snif… dói… dói…!!"
+        },
+        {
+            "id": "10SV-157",
+            "desc": "스테이지 시작시 (개전)",
+            "dlg": "Essa luz profana que perturba a ordem… Eu mesma vou apagá-la."
+        },
+        {
+            "id": "10SV-158",
+            "desc": "3턴 시작시",
+            "dlg": "Sem desculpas. Acha que não percebo só porque enfiou um relógio na cabeça? Esse vermelho… é Le Rouge, sem dúvida!"
+        },
+        {
+            "id": "10SV-159",
+            "desc": "146506스킬 사용시 (가장 강력한 스킬. 전투당 1회)",
+            "dlg": "Pelo descanso eterno! Eu a colherei!"
+        },
+        {
+            "id": "10SV-160",
+            "desc": "5턴 시작시 (르루주가 아닌 것 같은데…)",
+            "dlg": "Hm, hmm… o rastro parece um pouco diferente do da Resina Dourada…"
+        },
+        {
+            "id": "10SV-090",
+            "desc": "바늘이 왕 스테이지 시작 시",
+            "dlg": "Um choro… cheio de vida…! Meu…! Ban…quete!"
+        },
+        {
+            "id": "10SV-091",
+            "desc": "바늘이 왕 1페이즈 3턴 시작 시",
+            "dlg": "Grrrrh!! Um e-co… envelhe… cido… Meu…! Ouro…?"
+        },
+        {
+            "id": "10SV-092",
+            "desc": "바늘이 왕 1페이즈 4턴 시작 시",
+            "dlg": "O som… da respiração… sumindo… não…! O batimento…! Não po-de… parar!"
+        },
+        {
+            "id": "10SV-093",
+            "desc": "바늘이 왕 2페이즈 시작 시",
+            "dlg": "Não! Não aguen… to… mais! Fome… sede…!"
+        },
+        {
+            "id": "10SV-094",
+            "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+            "dlg": "Vá…o…!"
+        },
+        {
+            "id": "10SV-094-01",
+            "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+            "dlg": "Tragam… para mim…!"
+        },
+        {
+            "id": "10SV-094-02",
+            "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+            "dlg": "Mais… mais…! Ainda… não basta…!!"
+        },
+        {
+            "id": "10SV-095",
+            "desc": "바늘이 왕 149607 스킬 사용 시",
+            "dlg": "Bri! Lha… bri… lha!"
+        },
+        {
+            "id": "10SV-096",
+            "desc": "바늘이 왕 짝수 턴 시작 시 (전투당 1회)",
+            "dlg": "Em no? me… do R-ei…!"
+        },
+        {
+            "id": "10SV-097",
+            "desc": "바늘이 왕 149609 스킬 사용 시",
+            "dlg": "Pa-rem…! Riam…! Ha…!"
+        },
+        {
+            "id": "10SV-098",
+            "desc": "바늘이 왕 149610 스킬 사용 시",
+            "dlg": "Aah…! Hmm…"
+        },
+        {
+            "id": "10SV-099",
+            "desc": "바늘이 왕 전투 패배 시",
+            "dlg": "Hhh… ha… Ha! Ha! Ha…!!"
+        },
+        {
+            "id": "10SV-100",
+            "desc": "바늘이 3스킬 적중 시",
+            "dlg": "Quetinho! Quetinho!"
+        },
+        {
+            "id": "10SV-100-01",
+            "desc": "바늘이 3스킬 적중 시",
+            "dlg": "Quetinho! Quetinho!"
+        },
+        {
+            "id": "10SV-100-02",
+            "desc": "바늘이 3스킬 적중 시",
+            "dlg": "Quetinho! Quetinho!"
+        },
+        {
+            "id": "10SV-161",
+            "desc": "포레그 스테이지 시작 시 (개전)",
+            "dlg": "Me derrubem, por favor… para que eu nunca mais pise no chão."
+        },
+        {
+            "id": "10SV-162",
+            "desc": "포레그 148203 스킬 사용시",
+            "dlg": "Por favor! Arranquem! Estas pernas inúteis!"
+        },
+        {
+            "id": "10SV-163",
+            "desc": "포레그 148204 스킬 사용시(전투당 1회)",
+            "dlg": "Aah… pegadas, pegadas por toda parte…"
+        },
+        {
+            "id": "10SV-164",
+            "desc": "원레그 스테이지 시작 시 (개전)",
+            "dlg": "Estrangeiros que não passam de duas-pernas ousam desafiar minha nobre pessoa?"
+        },
+        {
+            "id": "10SV-165",
+            "desc": "원레그 148304 또는 148305 스킬 사용 시 (가장 강력한 스킬. 전투당 1회)",
+            "dlg": "Gravem isto no corpo a cada passo que derem!"
+        },
+        {
+            "id": "10SV-166",
+            "desc": "원레그 148303 스킬 사용 시 (25% 확률 출력)",
+            "dlg": "Despejo!"
+        },
+        {
+            "id": "10SV-145",
+            "desc": "스테이지 시작시 (개전. 일반 상태)",
+            "dlg": "Arrancar as mentiras… e revelar meu verdadeiro eu…"
+        },
+        {
+            "id": "10SV-146",
+            "desc": "고치 상태 패턴 진입시 (전투당 1회)",
+            "dlg": "Ah, que quentinho… Não se repete, não se interrompe… Fale mais, mais…"
+        },
+        {
+            "id": "10SV-147",
+            "desc": "146605스킬 사용시 ",
+            "dlg": "Fixado!"
+        },
+        {
+            "id": "10SV-147-01",
+            "desc": "146605스킬 사용시 ",
+            "dlg": "Pregado!"
+        },
+        {
+            "id": "10SV-148",
+            "desc": "일반 상태 패턴 재 진입시 (전투당 1회)",
+            "dlg": "Mais… mais, mais, mais! Deixe-me ouvir! Essa voz tão quente!"
+        },
+        {
+            "id": "10SV-149",
+            "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+            "dlg": "Anseie! Consuma!"
+        },
+        {
+            "id": "10SV-149-01",
+            "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+            "dlg": "Dilacere! Devore!"
+        }
+    ]
+}

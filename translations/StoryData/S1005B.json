@@ -1,0 +1,877 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor do Tribunal da N Corp.",
+            "model": "넬리2",
+            "content": "Quanto tempo. Desde a mansão a gente não se via, não é?"
+        },
+        {
+            "id": 1,
+            "model": "히스클리프",
+            "content": "… Nelly?"
+        },
+        {
+            "id": 2,
+            "model": "이상",
+            "content": "Esse traje… é igual ao de Gubo. Então entrou para a N Corp."
+        },
+        {
+            "id": 3,
+            "model": "히스클리프",
+            "content": "… Eu até disse pra você fazer o que quisesse… mas não foi pra entrar num lugar desses e ficar atrapalhando a gente a cada passo."
+        },
+        {
+            "id": 4,
+            "model": "히스클리프",
+            "content": "Veio atrapalhar o quê dessa vez?"
+        },
+        {
+            "id": 5,
+            "model": "넬리2",
+            "content": "Heathcliff…"
+        },
+        {
+            "id": 6,
+            "model": "히스클리프",
+            "content": "Mesmo assim, eu… eu te soltei porque te considerava da família! Porque não era como se eu não entendesse o sofrimento que você passou. Mas você… não bastou roubar o Ramo Dourado…!"
+        },
+        {
+            "id": 7,
+            "content": "Sem hesitar, Heathcliff ergueu o taco e avançou contra Nelly…"
+        },
+        {
+            "id": 8,
+            "content": "Nelly sacou uma faca, desviou o taco e recuou, como quem acha aquilo um incômodo."
+        },
+        {
+            "id": 9,
+            "model": "넬리2",
+            "content": "Espera, Heathcliff. Eu vim ajudar, então se acalme."
+        },
+        {
+            "id": 10,
+            "model": "히스클리프",
+            "content": "Veio ajudar…?"
+        },
+        {
+            "id": 11,
+            "content": "Faust assentiu em silêncio à pergunta, e Heathcliff virou-se para ela e perguntou, feroz."
+        },
+        {
+            "id": 12,
+            "model": "히스클리프",
+            "content": "Explica o que tá acontecendo."
+        },
+        {
+            "id": 13,
+            "model": "파우스트",
+            "content": "… A senhorita Nelly é, de fato, colaboradora deste plano. Mais precisamente, decidiu-se unir forças com a Nova Liga dos Nove Literatos da Diretora Hermann."
+        },
+        {
+            "id": 14,
+            "model": "그레고르",
+            "content": "… Hã. Então era por isso que você não contava nada?"
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "… Sim. Porque, se soubessem, certamente ficariam contrariados."
+        },
+        {
+            "id": 16,
+            "model": "히스클리프",
+            "content": "A Nelly… já me traiu duas vezes. Duas vezes."
+        },
+        {
+            "id": 17,
+            "model": "히스클리프",
+            "content": "Mesmo depois que eu dei liberdade pra ela, me traiu de novo! Então com base em que raios você confia na Nelly como colaboradora…"
+        },
+        {
+            "id": 18,
+            "model": "넬리2",
+            "content": "Chega, vamos esquecer o passado, Heathcliff. Eu já esqueci tudo."
+        },
+        {
+            "id": 19,
+            "model": "넬리2",
+            "content": "Lembranças daquela mansão sombria e tempestuosa não servem pra nada além de embaralhar a cabeça."
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "content": "Esquecer? Você sabe… o que é esquecer?"
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "… Eu não esqueço. Mesmo que todo mundo esqueça, eu nunca vou esquecer. Mesmo que a Cathy quisesse ser esquecida."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "Então ninguém pode me obrigar a esquecer, entendeu?"
+        },
+        {
+            "id": 23,
+            "model": "넬리2",
+            "content": "Cathy…? De novo falando coisas sem sentido, como naquele dia."
+        },
+        {
+            "id": 24,
+            "model": "넬리2",
+            "content": "Eu… tenho a sensação de que passei todo esse tempo servindo a um fantasma, Heathcliff. Você não sabe, mas naquela mansão… depois que o senhor Earnshaw morreu, não sobrou nada."
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "… Não era um fantasma que você servia. Aquela mansão tinha uma dona legítima!"
+        },
+        {
+            "id": 26,
+            "model": "넬리2",
+            "content": "… Acho melhor a gente parar essa conversa por aqui."
+        },
+        {
+            "id": 27,
+            "model": "넬리2",
+            "content": "Se continuarmos com esse diálogo desagradável, fica claro quem sai perdendo, não é, senhorita Faust?"
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "Senhor Heathcliff… peço desculpas, mas…"
+        },
+        {
+            "id": 29,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 30,
+            "model": "히스클리프",
+            "content": "… Explica. Como é que você vai ajudar."
+        },
+        {
+            "id": 31,
+            "content": "Heathcliff, que encarava Nelly como se fosse matá-la, recuou devagar e baixou o taco."
+        },
+        {
+            "id": 32,
+            "content": "Claro… o olhar ainda transbordava de um ódio nascido da traição."
+        },
+        {
+            "id": 33,
+            "model": "넬리2",
+            "content": "Já tinha pensado isso na mansão, mas você amansou bastante, hein. Se fosse antigamente…"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Mais uma… mais uma vez que você abrir a boca pra falar besteira, eu arranco a sua cabeça. Igual antigamente, como você mesma disse."
+        },
+        {
+            "id": 35,
+            "model": "료슈9장이후반담배",
+            "content": "Fuu… Vai continuar tagarelando? Então aviso logo. Vou ficar aqui decidindo entre C.F. e M.F."
+        },
+        {
+            "id": 36,
+            "model": "넬리2",
+            "content": "… Aluguei uma sala de reuniões aqui perto. Os outros colaboradores estão esperando, então vamos para lá."
+        },
+        {
+            "id": 37,
+            "model": "넬리2",
+            "content": "Aqui tem olhos demais indo e vindo pra conversar, não acham?"
+        },
+        {
+            "id": 38,
+            "model": "이스마엘",
+            "content": "Outros colaboradores…?"
+        },
+        {
+            "id": 39,
+            "model": "넬리2",
+            "content": "Assim como eu, colaboradores conhecidos que dispensam apresentações."
+        },
+        {
+            "id": 40,
+            "model": "료슈9장이후반담배",
+            "content": "Fuu… Concordo que memória e esquecimento não obedecem à nossa vontade, Ta.Co."
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "content": "……."
+        },
+        {
+            "id": 42,
+            "place": "Uma Sala de Reuniões na N Corp.",
+            "content": "Seguindo Nelly, chegamos a um lugar que parecia a sala de reuniões de algum prédio."
+        },
+        {
+            "id": 43,
+            "content": "Lá, rostos familiares — mas rostos que não queríamos encontrar — nos observavam."
+        },
+        {
+            "id": 44,
+            "model": "이상",
+            "content": "…!"
+        },
+        {
+            "id": 45,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Insisti para que trouxessem mais gente minha… mas isto é uma surpresa."
+        },
+        {
+            "id": 46,
+            "model": "넬리2",
+            "content": "Ué… nós não estávamos todos a par disso de antemão?"
+        },
+        {
+            "id": 47,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "… Só esse amigo aqui ficou de fora na hora da conversa. Disse que estava ocupado com a pesquisa."
+        },
+        {
+            "id": 48,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Compreendam, são muitas as tarefas sob a minha responsabilidade."
+        },
+        {
+            "id": 49,
+            "model": "넬리2",
+            "content": "O plano de resgate do senhor Meursault de que a Diretora Hermann falou… está pronto, certo?"
+        },
+        {
+            "id": 50,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Ah, a infiltração por via indireta pela Máquina Automática de Suicídio. Está tudo preparado. Nem era um preparo que fosse demorar muito."
+        },
+        {
+            "id": 51,
+            "model": "넬리2",
+            "content": "Que bom. Enfim, já que é assim, poderiam se sentar?"
+        },
+        {
+            "id": 52,
+            "content": "Depois que todos se sentaram conforme as indicações de Nelly…"
+        },
+        {
+            "id": 53,
+            "content": "tiquetaqueei para Outis, sentada ao meu lado, o que me intrigava."
+        },
+        {
+            "id": 54,
+            "model": "단테",
+            "content": "<Tem uma coisa que eu queria saber: o que é que eles ganham com isso?>"
+        },
+        {
+            "id": 55,
+            "model": "오티스",
+            "content": "Provavelmente pagaram algum tipo de preço por meio de um acordo."
+        },
+        {
+            "id": 56,
+            "model": "오티스",
+            "content": "Se eu tivesse que supor… acredito que tenha a ver com o Espelho."
+        },
+        {
+            "id": 57,
+            "model": "이상",
+            "content": "Se chegaram a usar o nome \"Liga dos Nove\" para arrebanhar as pessoas de antigamente… a senhorita Outis deve estar certa."
+        },
+        {
+            "id": 58,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Bem, já que são pessoas que sabem o que precisam saber, não há necessidade de me alongar."
+        },
+        {
+            "id": 59,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Ha, quantas vezes já cruzamos com vocês? Seria um problema se não percebessem nem isso."
+        },
+        {
+            "id": 60,
+            "model": "히스클리프",
+            "content": "… Fala direito. Ei, o que vocês vão receber em troca de ajudar a gente?"
+        },
+        {
+            "id": 61,
+            "model": "넬리2",
+            "content": "Isso é segredo, Heathcliff."
+        },
+        {
+            "id": 62,
+            "model": "넬리2",
+            "content": "Mas… não é como da outra vez, não vamos levar o Ramo Dourado. É que só ajudando vocês é que a gente também consegue o que quer."
+        },
+        {
+            "id": 63,
+            "model": "이상",
+            "content": "Querem que causemos tumulto, como em Hongyuan. Para, nessa brecha, levar alguma coisa…"
+        },
+        {
+            "id": 64,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Mesmo sem que se queira, aonde quer que vocês vão não é sempre o caos? Ou será, Yi Sang, que é por ser o lugar a que você pertenceu?"
+        },
+        {
+            "id": 65,
+            "model": "이상",
+            "content": "… Vez ou outra houve momentos de paz."
+        },
+        {
+            "id": 66,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Justificar-se comigo não muda os fatos."
+        },
+        {
+            "id": 67,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 68,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Enfim, explicando o plano… na verdade, não há nada de especial. O lugar para onde o seu companheiro foi enviado chama-se Grand Magasin Sisyphe. E, originalmente, não há como entrar no Grand Magasin Sisyphe a não ser recebendo a Pena de Sisyphe na forca de Sisyphe."
+        },
+        {
+            "id": 69,
+            "model": "돈키호테",
+            "content": "Então nós também… havemos de ser enforcados?"
+        },
+        {
+            "id": 70,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Está sendo literal ou fazendo uma metáfora?"
+        },
+        {
+            "id": 71,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "É que, dependendo do sentido, a pergunta está só meio certa."
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "content": "Ah…"
+        },
+        {
+            "id": 73,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Se era metáfora, está certo. Como devem ter percebido ao assistir à pena, para ir ao Grand Magasin Sisyphe é preciso experimentar a morte."
+        },
+        {
+            "id": 74,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Bem, por sorte, pelo que ouvi, o estado da loja anda nada bom. Basta ver a produção de Massa de Experiência para ficar claro."
+        },
+        {
+            "id": 75,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Tendo os meios, enfiar vocês por essa brecha não é tão difícil para nós."
+        },
+        {
+            "id": 76,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Para vocês, que vivem caindo mortos por aí, é moleza, não é?"
+        },
+        {
+            "id": 77,
+            "model": "그레고르",
+            "content": "Isso… até é verdade, mas…"
+        },
+        {
+            "id": 78,
+            "model": "그레고르",
+            "content": "O caro Gerente… nunca morreu, não é?"
+        },
+        {
+            "id": 79,
+            "model": "로쟈",
+            "content": "O Dante só nunca morreu, mas sente a nossa dor toda vez, como cada um de nós."
+        },
+        {
+            "id": 80,
+            "model": "홍루",
+            "content": "Mesmo assim, é preocupante… A morte traz emoções demais além da dor…"
+        },
+        {
+            "id": 81,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Ha, você se preocupa com cada coisa. Não é a sua lógica que o ser humano está fadado a morrer?"
+        },
+        {
+            "id": 82,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 83,
+            "model": "홍루",
+            "content": "Irmão, o que eu disse naquele dia…"
+        },
+        {
+            "id": 84,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Jia Baoyu."
+        },
+        {
+            "id": 85,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Você já sabe a essa altura, não? O quanto esse pedido de desculpas ridículo que ia sair da sua boca é uma farsa abominável."
+        },
+        {
+            "id": 86,
+            "content": "Hong Lu parou de falar e ficou olhando Jia Huan com uma expressão que misturava pesar e culpa…"
+        },
+        {
+            "id": 87,
+            "content": "e Jia Huan, como se essa expressão o irritasse ainda mais, fez menção de dizer algo… mas logo olhou em volta e encerrou a conversa virando o rosto de supetão."
+        },
+        {
+            "id": 88,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Parece que estou falando sobre gelo fino. Yi Sang, tanto você quanto eu parecemos ter escolhido muito mal os novos amigos."
+        },
+        {
+            "id": 89,
+            "model": "이상",
+            "content": "… Termine logo a explicação."
+        },
+        {
+            "id": 90,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Assim farei. Você ainda tem o mérito de dizer o que eu gosto de ouvir."
+        },
+        {
+            "id": 91,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Voltando ao assunto, não estou dizendo para morrerem de verdade. Eu disse há pouco: é preciso experimentar a morte."
+        },
+        {
+            "id": 92,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Havendo esse processo, podemos contornar a segurança do Grand Magasin Sisyphe e colocar vocês lá dentro."
+        },
+        {
+            "id": 93,
+            "model": "파우스트",
+            "content": "O item que ajudará nesse desvio… será o produto que permitiu à Diretora Hermann consolidar sua posição na N Corp.: a Máquina Automática de Suicídio."
+        },
+        {
+            "id": 94,
+            "model": "그레고르",
+            "content": "Ha… Então foi graças a isso que, mesmo vinda da antiga G Corp., ela conseguiu passar pra N Corp. e virar diretora."
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Máquina Automática de Suicídio…>"
+        },
+        {
+            "id": 96,
+            "model": "이스마엘",
+            "content": "Já li num folheto que apresentava… como o produto novo da N Corp. Comparado às Experiências Enlatadas é um serviço menor, mas é tão chocante que anda se espalhando bem no boca a boca…"
+        },
+        {
+            "id": 97,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "O ser humano, por natureza, é louco por adrenalina, não?"
+        },
+        {
+            "id": 98,
+            "model": "이상",
+            "content": "… Isso também deve ter sido feito a partir da Vidraça ou do Espelho."
+        },
+        {
+            "id": 99,
+            "model": "이상",
+            "content": "Uma sucessão de coisas que eu não fazia questão de ver, por todo lado."
+        },
+        {
+            "id": 100,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Ha, meu caro. Mesmo neste ponto você ainda se apega a sentimentos mesquinhos?"
+        },
+        {
+            "id": 101,
+            "model": "이상",
+            "content": "… Chamou de mesquinho? Você jamais compreenderá o que o irmão Young-ji sentia quando criou a Vidraça."
+        },
+        {
+            "id": 102,
+            "model": "이상",
+            "content": "Era uma tecnologia feita para que as coisas que se vão em vão neste mundo pudessem voar livres de novo. Mas gente vulgar como vocês procura nela a morte."
+        },
+        {
+            "id": 103,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Encontramos uma finalidade mais adequada. O progresso da tecnologia não é exatamente isso?"
+        },
+        {
+            "id": 104,
+            "model": "이상",
+            "content": "… Não ouse…"
+        },
+        {
+            "id": 105,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Calma, calma… Já que decidimos trabalhar juntos, deixemos os rancores de lado por ora. Não vamos passar a noite aqui, não é?"
+        },
+        {
+            "id": 106,
+            "model": "로쟈",
+            "content": "… Então é só entrar, resgatar o Meursault e pronto?"
+        },
+        {
+            "id": 107,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Não vai acabar assim. No ponto mais alto da loja está fincado um daqueles Ramos Dourados de que vocês tanto gostam."
+        },
+        {
+            "id": 108,
+            "model": "히스클리프",
+            "content": "… Até isso você conta? Por quê?"
+        },
+        {
+            "id": 109,
+            "content": "Diferente de quando nos encontramos pela primeira vez… eu sabia que eles não estavam atrás do Ramo Dourado com afinco."
+        },
+        {
+            "id": 110,
+            "content": "Houve vezes em que tomaram o Ramo Dourado, mas houve vezes em que não."
+        },
+        {
+            "id": 111,
+            "content": "Ainda assim, isso não tornava o motivo mais fácil de adivinhar."
+        },
+        {
+            "id": 112,
+            "model": "오티스",
+            "content": "Resumindo, então… nós entramos escondidos no Grand Magasin Sisyphe pela Máquina Automática de Suicídio que vocês fornecem, resgatamos o Pecador nº 5 e saímos em segurança com o Ramo Dourado. É isso."
+        },
+        {
+            "id": 113,
+            "model": "넬리2",
+            "content": "Bom resumo, mas tem uma falha."
+        },
+        {
+            "id": 114,
+            "model": "넬리2",
+            "content": "Não chega a ser… \"em segurança\"."
+        },
+        {
+            "id": 115,
+            "model": "싱클레어",
+            "content": "… O quê?!"
+        },
+        {
+            "id": 116,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Mais precisamente, vão entrar escondidos, mas podem contar que serão descobertos em pouco tempo."
+        },
+        {
+            "id": 117,
+            "model": "돈키호테",
+            "content": "E se formos descobertos… o que sucede?"
+        },
+        {
+            "id": 118,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Os funcionários da N Corp. vão atrás de vocês e atacam a Máquina Automática de Suicídio."
+        },
+        {
+            "id": 119,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "É justamente nesse momento que entra a nossa ajuda."
+        },
+        {
+            "id": 120,
+            "model": "그레고르",
+            "content": "E se a gente for atacado enquanto ainda tá usando a Máquina Automática de Suicídio… o que acontece?"
+        },
+        {
+            "id": 121,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Pra que perguntar de novo? Obviamente não é um final que pareça seguro."
+        },
+        {
+            "id": 122,
+            "model": "단테",
+            "content": "<É perigoso demais…>"
+        },
+        {
+            "id": 123,
+            "model": "파우스트",
+            "content": "A colaboração também está prevista… para essa parte."
+        },
+        {
+            "id": 124,
+            "model": "히스클리프",
+            "content": "Ei… não me diga que…"
+        },
+        {
+            "id": 125,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Isso mesmo: nós mesmos vamos proteger vocês até que saiam."
+        },
+        {
+            "id": 126,
+            "model": "그레고르",
+            "content": "… E a gente confia em quê pra deixar a nossa vida na mão de vocês?"
+        },
+        {
+            "id": 127,
+            "model": "넬리2",
+            "content": "Ora, com o precioso filho dela no meio de vocês, acha que a Diretora ia proteger de qualquer jeito?"
+        },
+        {
+            "id": 128,
+            "model": "그레고르",
+            "content": "Hã. Que coisa tranquilizadora de se ouvir."
+        },
+        {
+            "id": 129,
+            "content": "Gregor soltou uma risada nasal, como quem não acredita no que ouve."
+        },
+        {
+            "id": 130,
+            "model": "오티스",
+            "content": "Sinceramente… não confio muito no poder de fogo de vocês. Ainda mais depois do que houve em Hongyuan."
+        },
+        {
+            "id": 131,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Ha, aquilo foi…!"
+        },
+        {
+            "id": 132,
+            "model": "구보",
+            "teller": "Gubo",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "… Quanto a isso, não se preocupem. Temos E.G.O novos, já testados, e o número de funcionários cresceu bastante."
+        },
+        {
+            "id": 133,
+            "model": "가환",
+            "teller": "Jia Huan",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Fuu. Se não der jeito, usamos até a Capitã. Ela pode odiar terra firme, mas fazer o quê."
+        },
+        {
+            "id": 134,
+            "model": "이스마엘",
+            "content": "… E-espera aí. Essa Capitã… não pode ser a Ahab, pode?"
+        },
+        {
+            "id": 135,
+            "model": "넬리2",
+            "content": "Ora, não sabia? A Capitã deve ter entrado antes de mim."
+        },
+        {
+            "id": 136,
+            "model": "이스마엘",
+            "content": "… O que vocês ofereceram a ela? Prometeram mesmo caçar a Baleia pra Capitã?"
+        },
+        {
+            "id": 137,
+            "model": "넬리2",
+            "content": "As condições do contrato dela são segredo, mas… não deve ser esse o caso, não é?"
+        },
+        {
+            "id": 138,
+            "model": "이스마엘",
+            "content": "E quantas pessoas ela vai arrastar pra morte com aquele fanatismo e aquela teimosia horrenda… claro que vocês nem se importam."
+        },
+        {
+            "id": 139,
+            "model": "넬리2",
+            "content": "A Capitã tem os métodos dela."
+        },
+        {
+            "id": 140,
+            "model": "이스마엘",
+            "content": "… Mas se isso se repetir de novo na minha frente… nem eu garanto o que vou fazer."
+        },
+        {
+            "id": 141,
+            "model": "넬리2",
+            "content": "Hum… Começo a achar que fiz bem em não chamá-la para esta reunião."
+        },
+        {
+            "id": 142,
+            "model": "아세아",
+            "teller": "Aseah",
+            "title": "N Corp. - Nova Liga dos Nove Literatos",
+            "content": "Então, o que dizem? Os preparativos já estão todos concluídos; basta aceitarem, e podemos mandá-los imediatamente para o Grand Magasin Sisyphe."
+        },
+        {
+            "id": 143,
+            "model": "단테",
+            "content": "<O que vocês acham?>"
+        },
+        {
+            "id": 144,
+            "model": "이상",
+            "content": "Para ser franco… não me agrada. Em Tiekansi, a colaboração também acabou rompida e terminou em conflito."
+        },
+        {
+            "id": 145,
+            "model": "오티스",
+            "content": "Não há mesmo outro meio além deste? Francamente, antes cooperar com o Anelar e vagar pelos Corredores do que dar as mãos a esses aí."
+        },
+        {
+            "id": 146,
+            "model": "파우스트",
+            "content": "O Grand Magasin Sisyphe é, em essência, outra dimensão; não é um lugar em que se possa entrar por porta dos fundos, Corredor ou portal. Só resta receber a Pena de Sisyphe ou aceitar a colaboração deles."
+        },
+        {
+            "id": 147,
+            "model": "히스클리프",
+            "content": "Então a gente não pode simplesmente receber a Pena de Sisyphe todo mundo junto? É só fazer um quebra-quebra na fronteira do Ninho, que nem antigamente…"
+        },
+        {
+            "id": 148,
+            "model": "돈키호테",
+            "content": "Cometer um crime… não me agrada muito…"
+        },
+        {
+            "id": 149,
+            "model": "싱클레어",
+            "content": "Senhorita Don Quixote… quem a senhorita acha que foi que fez o quebra-quebra antigamente?"
+        },
+        {
+            "id": 150,
+            "model": "돈키호테",
+            "content": "C-cof, cof…."
+        },
+        {
+            "id": 151,
+            "content": "Enquanto os Pecadores despejavam opiniões negativas, Ryōshū, que só fumava sem parar, abriu a boca ao bater a cinza do cigarro."
+        },
+        {
+            "id": 152,
+            "model": "료슈9장이후반담배",
+            "content": "Fuu… de qualquer jeito, não é V.M.? Em vez de ficar enrolando aqui, é melhor entrar e pensar lá dentro."
+        },
+        {
+            "id": 153,
+            "model": "홍루",
+            "content": "Concordo com a senhorita Ryōshū. Não é que eu confie cegamente na companhia… mas na senhorita Faust eu quero confiar."
+        },
+        {
+            "id": 154,
+            "model": "로쟈",
+            "content": "Eu também não curto muito… mas acho que as duas têm razão. A gente tem que salvar o Meur, né."
+        },
+        {
+            "id": 155,
+            "model": "단테",
+            "content": "<Sim, vamos colaborar.>"
+        },
+        {
+            "id": 156,
+            "model": "넬리2",
+            "content": "Terminaram de deliberar?"
+        },
+        {
+            "id": 157,
+            "model": "이스마엘",
+            "content": "… Nos levem agora mesmo. Até onde está a Máquina Automática de Suicídio."
+        },
+        {
+            "content": "Algum tempo depois…"
+        },
+        {
+            "id": 158,
+            "place": "N Corp., Diante da Máquina Automática de Suicídio",
+            "model": "단테",
+            "content": "<Então isto… é a Máquina Automática de Suicídio.>"
+        },
+        {
+            "id": 159,
+            "content": "Um espaço pequeno, aonde chegamos guiados por Nelly e Aseah."
+        },
+        {
+            "id": 160,
+            "place": "N Corp., Dentro da Máquina Automática de Suicídio",
+            "content": "Não bastasse não se enxergar nada ao redor… nenhum som de fora entra aqui."
+        },
+        {
+            "content": "Passamos entre as máquinas enfileiradas e cada um sentou-se em seu lugar."
+        },
+        {
+            "id": 161,
+            "content": "E então… ligamos o monitor da Máquina Automática de Suicídio."
+        }
+    ]
+}

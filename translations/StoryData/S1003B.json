@@ -1,0 +1,660 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "<color=#293b95>A memória está guardada dentro de uma lata de folha de flandres com um rótulo.</color>"
+        },
+        {
+            "id": 1,
+            "content": "<color=#293b95>A experiência permanece derretida na ponta da língua de alguém, num gosto pungente.</color>"
+        },
+        {
+            "id": 2,
+            "content": "<color=#293b95>Seguindo as instruções pregadas na parede, eu as martelo e embalo,</color>"
+        },
+        {
+            "id": 3,
+            "content": "<color=#293b95>e encaro o ondular uniforme do líquido dentro do contêiner.</color>"
+        },
+        {
+            "id": 4,
+            "content": "<color=#293b95>Nesta vida, o que serve de prova de mim?</color>"
+        },
+        {
+            "id": 5,
+            "content": "<color=#293b95>A memória? A experiência?</color>"
+        },
+        {
+            "id": 6,
+            "content": "<color=#293b95>E se não for nenhuma das duas…</color>"
+        },
+        {
+            "id": 7,
+            "place": "A Bordo do Mephistopheles, Passado",
+            "model": "베르길리우스",
+            "content": "Mais uma pergunta esquisita, pelo que vejo."
+        },
+        {
+            "id": 8,
+            "model": "베르길리우스",
+            "content": "Como em todas as missões, nesta também não haverá uma única coisa que saia conforme o esperado, Dante."
+        },
+        {
+            "id": 9,
+            "content": "Ele até que tem razão."
+        },
+        {
+            "id": 10,
+            "content": "Mas, Vergilius… pelo menos isso você podia ter nos contado."
+        },
+        {
+            "id": 11,
+            "model": "베르길리우스",
+            "content": "Por que a companhia não fornece todas as informações e só nos joga na boca do leão… Ora, parece que estou ouvindo o som insatisfeito de uma mola de relógio recebendo corda."
+        },
+        {
+            "id": 12,
+            "model": "베르길리우스",
+            "content": "Mas um ônibus é assim por natureza, não é mesmo, Dante?"
+        },
+        {
+            "id": 13,
+            "model": "베르길리우스",
+            "content": "Ele leva os passageiros de bom grado até a parada que desejam, mas o trabalho de caminhar até o destino cabe inteiramente a eles."
+        },
+        {
+            "id": 14,
+            "model": "베르길리우스",
+            "content": "Ha, o tiquetaque parece estar acelerando, então paro por aqui com as metáforas de gosto duvidoso."
+        },
+        {
+            "id": 15,
+            "model": "베르길리우스",
+            "content": "Só acrescento uma coisa…"
+        },
+        {
+            "id": 16,
+            "model": "베르길리우스",
+            "content": "Simplesmente recolher um Ramo Dourado deixado bem arrumadinho no meio de todas as variáveis e constantes que a companhia já observou não tem sentido algum, Dante."
+        },
+        {
+            "id": 17,
+            "model": "베르길리우스",
+            "content": "Se isso bastasse, a companhia teria montado desde o início uma equipe de busca competente e calada."
+        },
+        {
+            "id": 18,
+            "model": "카론",
+            "content": "Ônibus quieto. Charon não acha graça."
+        },
+        {
+            "id": 19,
+            "model": "베르길리우스",
+            "content": "Mas isto, ao menos, eu posso dizer."
+        },
+        {
+            "id": 20,
+            "model": "베르길리우스",
+            "content": "O Pecador nº 5… era alguém que, a princípio, jamais deveria voltar para cá."
+        },
+        {
+            "id": 21,
+            "model": "베르길리우스",
+            "content": "Portanto, tudo o que vai acontecer desta vez também será, desde o começo…"
+        },
+        {
+            "id": 22,
+            "model": "베르길리우스",
+            "content": "… coisa impossível de prever."
+        },
+        {
+            "id": 23,
+            "content": "As palavras dele costumam ser carregadas de significado e nada diretas."
+        },
+        {
+            "id": 24,
+            "content": "Por isso, desta vez também resolvi deixar passar o comentário dele sem dar muita importância."
+        },
+        {
+            "id": 25,
+            "content": "Mortes inesperadas de Pecadores já são rotina, e eu tenho a capacidade de revertê-las."
+        },
+        {
+            "id": 26,
+            "model": "베르길리우스",
+            "content": "… Como sempre."
+        },
+        {
+            "id": 27,
+            "content": "Mas que eu mesmo acabaria passando por uma reversão…"
+        },
+        {
+            "id": 28,
+            "content": "Naquele momento, eu não tinha como saber."
+        },
+        {
+            "id": 29,
+            "place": "Rua da Manteiga, Distrito 14",
+            "model": "단테",
+            "content": "<Você sabia, Meursault?!>"
+        },
+        {
+            "id": 30,
+            "content": "Diante da pergunta que saiu sem forças, Meursault assentiu secamente."
+        },
+        {
+            "id": 31,
+            "model": "뫼르소",
+            "content": "Sim, Gerente."
+        },
+        {
+            "id": 32,
+            "content": "A resposta concisa veio de imediato."
+        },
+        {
+            "id": 33,
+            "content": "Nenhum sinal de nervosismo, nem sequer uma desculpa qualquer acrescentada."
+        },
+        {
+            "id": 34,
+            "content": "Pois é, ele era esse tipo de Pecador… o Meursault."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "A não ser que haja uma razão legítima, como um contrato, combates indiscriminados devem ser tratados como tabu."
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "E daí?! Tão levando o cara embora!!!"
+        },
+        {
+            "id": 37,
+            "model": "로쟈",
+            "content": "P-pra onde vocês tão levando ele?"
+        },
+        {
+            "id": 38,
+            "model": "N사해결사1",
+            "content": "Será instaurado um julgamento para a reexecução da sentença de banimento."
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Primeiro, todo mundo se acalma…>"
+        },
+        {
+            "id": 40,
+            "model": "단테",
+            "content": "<… Perguntem a eles com detalhes o que é esse julgamento e o que é essa história de ordem de banimento.>"
+        },
+        {
+            "id": 41,
+            "model": "그레고르",
+            "content": "É que… peraí… como é que eu pergunto… é isso que chamam de ficar sem palavras, é? Caramba…"
+        },
+        {
+            "id": 42,
+            "model": "N사해결사1",
+            "content": "Vamos proceder à execução. Havendo alguma objeção, apresentem posteriormente o direito de negociação e…"
+        },
+        {
+            "id": 43,
+            "content": "Enquanto Gregor escolhia as palavras, Ezra, que ainda assim conhecia um pouco da N Corp., tomou a frente."
+        },
+        {
+            "id": 44,
+            "model": "에즈라먼지",
+            "content": "Não, não é que a gente tenha alguma objeção… é que não fazemos a menor ideia do que tá acontecendo aqui."
+        },
+        {
+            "id": 45,
+            "model": "N사해결사1",
+            "content": "… Vocês não receberam nenhuma explicação do próprio interessado?"
+        },
+        {
+            "id": 46,
+            "content": "Só então surgiu no rosto do funcionário da N Corp. um leve sinal de estranheza."
+        },
+        {
+            "id": 47,
+            "model": "에즈라먼지",
+            "content": "Vocês ouviram alguma coisa?"
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "Nada, nem um pingo."
+        },
+        {
+            "id": 49,
+            "model": "이상",
+            "content": "Lamentavelmente… é verdade…"
+        },
+        {
+            "id": 50,
+            "model": "N사해결사1",
+            "content": "Suspeito Meursault. Recai sobre o senhor a acusação de permanência irregular na N Corp., a despeito de estar em vigor uma ordem de banimento permanente."
+        },
+        {
+            "id": 51,
+            "model": "N사해결사1",
+            "content": "Nos termos da Cláusula Especial 3, quando o objetivo é uma estadia temporária para deslocamento a outro distrito, admite-se uma tolerância de até 6 horas; contudo,"
+        },
+        {
+            "id": 52,
+            "model": "N사해결사1",
+            "content": "as 6 horas já foram excedidas e… após verificação, concluímos que não se tratava de uma entrada para estadia temporária. O réu tem alguma objeção a essa conclusão?"
+        },
+        {
+            "id": 53,
+            "model": "뫼르소",
+            "content": "Não tenho objeção."
+        },
+        {
+            "id": 54,
+            "model": "오티스",
+            "content": "… Espera, mas até agora ele não era o suspeito? Como é que virou réu nesse meio-tempo?"
+        },
+        {
+            "id": 55,
+            "model": "N사해결사1",
+            "content": "Porque, enquanto conversávamos, o processo de denúncia foi concluído."
+        },
+        {
+            "id": 56,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 57,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 58,
+            "content": "Outis, em especial, estava com a cara de quem ia soltar um \"Mas que diabos você…!\" no instante seguinte, mas parecia conter-se a duras penas."
+        },
+        {
+            "id": 59,
+            "model": "뉴김삿갓",
+            "content": "Olha, pelo menos quando o julgamento vai acontecer vocês não podem dizer? Como podem ver, a gente não ouviu na~da desse sujeito."
+        },
+        {
+            "id": 60,
+            "model": "이상",
+            "content": "Também gostaria de perguntar se há alguma condição específica para assistir ao julgamento."
+        },
+        {
+            "id": 61,
+            "model": "N사해결사1",
+            "content": "… O julgamento será daqui a 3 horas."
+        },
+        {
+            "id": 62,
+            "model": "N사해결사1",
+            "content": "Não é um julgamento público, mas… como parecem ser pessoas próximas do réu, se solicitarem agora, deve ser possível ao menos assistir como observadores."
+        },
+        {
+            "id": 63,
+            "model": "오티스",
+            "content": "Se é só assistir… quer dizer que não há nada que possamos fazer durante o julgamento."
+        },
+        {
+            "id": 64,
+            "model": "N사해결사1",
+            "content": "Sim. Em geral, acredito que é mais raro um observador poder fazer alguma coisa… pelo menos nos julgamentos da N Corp. é assim."
+        },
+        {
+            "id": 65,
+            "model": "로쟈",
+            "content": "E-e…! Isso! E o júri? Se a gente participasse como jurado…"
+        },
+        {
+            "id": 66,
+            "model": "N사해결사1",
+            "content": "Não operamos com isso."
+        },
+        {
+            "id": 67,
+            "model": "그레고르",
+            "content": "Aquele negócio… Meursault, o advogado… você arrumou um advogado?"
+        },
+        {
+            "id": 68,
+            "model": "뫼르소",
+            "content": "Não arrumei."
+        },
+        {
+            "id": 69,
+            "model": "이스마엘",
+            "content": "Ele ficou o tempo todo com a gente até ser preso, como é que ia arrumar…!"
+        },
+        {
+            "id": 70,
+            "content": "Ishmael gritou, como quem perde a paciência, para um Gregor que ainda parecia com a cabeça confusa."
+        },
+        {
+            "id": 71,
+            "model": "그레고르",
+            "content": "É, é… é verdade…"
+        },
+        {
+            "id": 72,
+            "model": "로쟈",
+            "content": "Então… quem vai fazer a defesa? Tem aquele negócio, né? Advogado nomeado, dativo!"
+        },
+        {
+            "id": 73,
+            "model": "N사해결사1",
+            "content": "Não operamos com isso."
+        },
+        {
+            "id": 74,
+            "model": "뫼르소",
+            "content": "… Neste julgamento, não havendo advogado à parte, o réu pode defender a si mesmo."
+        },
+        {
+            "id": 75,
+            "content": "Meursault continua seco e calmo, como se falasse da história de outra pessoa."
+        },
+        {
+            "id": 76,
+            "model": "N사해결사1",
+            "content": "Considero que a explicação sobre a situação excepcional já foi suficiente."
+        },
+        {
+            "id": 77,
+            "model": "이스마엘",
+            "content": "Não, ainda…"
+        },
+        {
+            "id": 78,
+            "model": "N사해결사1",
+            "content": "Se restar algo, façam-no após obter, conforme o procedimento, o direito formal de negociação."
+        },
+        {
+            "id": 79,
+            "content": "O funcionário da N Corp. cortou a conversa num tom encharcado de cansaço e começou a arrastar Meursault."
+        },
+        {
+            "id": 80,
+            "content": "Meursault, por sua vez, move os pés no embalo da inércia de quem o conduz."
+        },
+        {
+            "id": 81,
+            "model": "돈키호테",
+            "content": "E-espeerai… senhores…! Onde raios fica esse tal tribunal…!"
+        },
+        {
+            "id": 82,
+            "model": "N사해결사1",
+            "content": "… Haa."
+        },
+        {
+            "id": 83,
+            "content": "Soltando um suspiro de tédio até o último instante, o funcionário da N Corp. foi embora sem sequer responder a Don Quixote."
+        },
+        {
+            "id": 84,
+            "model": "돈키호테",
+            "content": "R-respondei ao menos…!"
+        },
+        {
+            "id": 85,
+            "model": "이스마엘",
+            "content": "Na T Corp. os Coletores de lá também não eram muito gentis, mas… aqui, como dizer… vai além da grosseria, é uma cara de \"que saco\" escancarada demais…"
+        },
+        {
+            "id": 86,
+            "model": "이상",
+            "content": "Na T Corp., tempo se convertia diretamente em patrimônio, e havia o desespero de não se poder desperdiçar um só instante."
+        },
+        {
+            "id": 87,
+            "model": "이상",
+            "content": "Aqui, porém… tudo parece mergulhado em tédio."
+        },
+        {
+            "id": 88,
+            "model": "뉴김삿갓",
+            "content": "Achei melhor observar do que me meter à toa, e por isso fiquei quieto…"
+        },
+        {
+            "id": 89,
+            "model": "뉴김삿갓",
+            "content": "Mas aqueles ali mostravam tanto entusiasmo pelo trabalho quanto um mandarim corrupto; provavelmente, qualquer coisa a mais que disséssemos só ia piorar o resultado."
+        },
+        {
+            "id": 90,
+            "model": "돈키호테",
+            "content": "Poderiam ao menos ter respondido…! É uma questão de cortesia…"
+        },
+        {
+            "id": 91,
+            "model": "에즈라먼지",
+            "content": "Ai, deixa pra lá! Eu sei onde fica o tribunal, vou desenhar um mapinha pra vocês!"
+        },
+        {
+            "id": 92,
+            "model": "뉴앵두",
+            "content": "E-esperai um momento, senhorita Ezra. Deixai antes o desenho do mapa a cargo do Mentor e…"
+        },
+        {
+            "id": 93,
+            "content": "Enquanto o pessoal da LCD desenhava o mapinha até o tribunal, Rodya foi até Faust com uma expressão irada e perguntou, como quem cobra explicações."
+        },
+        {
+            "id": 94,
+            "model": "로쟈",
+            "content": "Eu já imagino o que você vai responder, mas mesmo assim preciso perguntar."
+        },
+        {
+            "id": 95,
+            "model": "로쟈",
+            "content": "Fau, você sabia, né? Que ia dar essa merda toda…"
+        },
+        {
+            "id": 96,
+            "model": "파우스트",
+            "content": "… Sim."
+        },
+        {
+            "id": 97,
+            "model": "로쟈",
+            "content": "Se sabia, podia ter avisado antes! Ainda mais sabendo que o Meur não é de puxar assunto…!"
+        },
+        {
+            "id": 98,
+            "model": "파우스트",
+            "content": "Faust tomar a iniciativa de contar não serve de nada."
+        },
+        {
+            "id": 99,
+            "model": "파우스트",
+            "content": "Como sempre foi até agora, e como sempre será."
+        },
+        {
+            "id": 100,
+            "model": "로쟈",
+            "content": "Você…! Haa, deixa quieto."
+        },
+        {
+            "id": 101,
+            "content": "Rodya encerrou a conversa com um suspiro que mais parecia uma tempestade, talvez por achar que não adiantava insistir."
+        },
+        {
+            "id": 102,
+            "model": "이스마엘",
+            "content": "… Se o resultado do julgamento não for bom, o que vai acontecer com o senhor Meursault?"
+        },
+        {
+            "id": 103,
+            "model": "돈키호테",
+            "content": "Eu tenho um plano."
+        },
+        {
+            "id": 104,
+            "model": "오티스",
+            "content": "… Que plano?"
+        },
+        {
+            "id": 105,
+            "model": "돈키호테",
+            "content": "Todos juntos, derrubamos os guardas armados que vigiam o lugar… e, enquanto a jovem Ishmael fica de vigia, eu mesma me infiltro na masmorra subterrânea! Basta que o jovem Heathcliff surrupie a chave de um guarda…"
+        },
+        {
+            "id": 106,
+            "model": "싱클레어",
+            "content": "Isso… não é o enredo do gibi que a senhorita estava lendo ontem no ônibus?"
+        },
+        {
+            "id": 107,
+            "model": "이스마엘",
+            "content": "E de onde veio a informação de que a N Corp. tem uma masmorra subterrânea?"
+        },
+        {
+            "id": 108,
+            "model": "돈키호테",
+            "content": "Ec… é que… fortalezas normalmente têm masmorras…"
+        },
+        {
+            "id": 109,
+            "model": "오티스",
+            "content": "Como eu esperava, perguntei à toa."
+        },
+        {
+            "id": 110,
+            "model": "에즈라먼지",
+            "content": "Bom… eu vou tentar falar com a chefe de equipe, e o Kim e a Aeng-du podiam sair procurando um advogado."
+        },
+        {
+            "id": 111,
+            "model": "그레고르",
+            "content": "Ah, se puderem fazer isso, a gente agradece demais!"
+        },
+        {
+            "id": 112,
+            "model": "파우스트",
+            "content": "… Não, isso seria inconveniente."
+        },
+        {
+            "id": 113,
+            "model": "파우스트",
+            "content": "A LCD deve ter outro serviço para resolver ainda hoje."
+        },
+        {
+            "id": 114,
+            "model": "에즈라먼지",
+            "content": "Ugh… isso é verdade, mas… mesmo assim, a situação de vocês…"
+        },
+        {
+            "id": 115,
+            "model": "뉴김삿갓",
+            "content": "Hum…? Será?"
+        },
+        {
+            "id": 116,
+            "model": "뉴김삿갓",
+            "content": "Se ela diz, vamos voltando."
+        },
+        {
+            "id": 117,
+            "model": "뉴앵두",
+            "content": "Mas…"
+        },
+        {
+            "id": 118,
+            "model": "뉴김삿갓",
+            "content": "Aeng-du, ela não disse que seria inconveniente? Não entendo bem, mas parece uma situação em que não cabe a nós dar palpite na jogada."
+        },
+        {
+            "id": 119,
+            "model": "뉴앵두",
+            "content": "É mesmo esse o motivo, Mentor?"
+        },
+        {
+            "id": 120,
+            "model": "파우스트",
+            "content": "……."
+        },
+        {
+            "id": 121,
+            "content": "Diante das palavras de Kim, Ezra franziu a testa, pensou um bocado… e logo soltou um suspiro fundo e balançou a cabeça."
+        },
+        {
+            "id": 122,
+            "model": "에즈라먼지",
+            "content": "… Tá, daqui pra frente é território da LCB, é isso? A gente vai, mas se der algum problema, liguem pra gente sem falta."
+        },
+        {
+            "id": 123,
+            "model": "파우스트",
+            "content": "… Sim, faremos isso."
+        },
+        {
+            "id": 124,
+            "content": "E assim, depois que a LCD partiu para cumprir seu outro serviço…"
+        },
+        {
+            "id": 125,
+            "content": "Sob os olhares afiados dos Pecadores, Faust abriu a boca com calma."
+        },
+        {
+            "id": 126,
+            "model": "파우스트",
+            "content": "… Faust tem um plano."
+        },
+        {
+            "id": 127,
+            "model": "이스마엘",
+            "content": "Aquele plano de que a gente não faz a menor ideia, né."
+        },
+        {
+            "id": 128,
+            "model": "이스마엘",
+            "content": "Haa… De novo é por causa daquela cláusula? Aquela de que a senhorita Faust não pode tomar a iniciativa de contar o passado dos Pecadores."
+        },
+        {
+            "id": 129,
+            "model": "파우스트",
+            "content": "Sim, parece que sim."
+        },
+        {
+            "id": 130,
+            "model": "오티스",
+            "content": "Por que recusou a cooperação da LCD?"
+        },
+        {
+            "id": 131,
+            "model": "파우스트",
+            "content": "Pela natureza deste julgamento, eles não poderiam oferecer nenhuma ajuda significativa. Pelo contrário, a avaliação de Faust é que há grande chance de acabarem atrapalhando."
+        },
+        {
+            "id": 132,
+            "model": "단테",
+            "content": "<E a explicação do plano…>"
+        },
+        {
+            "id": 133,
+            "model": "파우스트",
+            "content": "… Parece que não há tempo para nos demorarmos com explicações."
+        },
+        {
+            "id": 134,
+            "model": "돈키호테",
+            "content": "Disseram daqui a três horas… Urgh, resta mesmo muito pouco."
+        },
+        {
+            "id": 135,
+            "model": "파우스트",
+            "content": "Primeiro… vamos ao tribunal. Mesmo sem explicar o plano…"
+        },
+        {
+            "id": 136,
+            "model": "파우스트",
+            "content": "vocês perceberão de imediato, no tribunal."
+        }
+    ]
+}

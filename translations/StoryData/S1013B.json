@@ -1,0 +1,123 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Ninho de Novelos, Subsolo 2",
+            "model": "오티스",
+            "content": "É você a Gerente de Andar do Subsolo 2?"
+        },
+        {
+            "id": 1,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Sou. Administro este andar e fio a linha."
+        },
+        {
+            "id": 2,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Diga o que deseja."
+        },
+        {
+            "id": 3,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Se não contrariar a voz do destino, eu concederei."
+        },
+        {
+            "id": 4,
+            "model": "뫼르소",
+            "content": "Viemos a pedido dos Le Noir, para produzir um Novelo Dourado."
+        },
+        {
+            "id": 5,
+            "content": "A Gerente de Andar olhou com indiferença para o certificado de avaliação e a receita que Meursault tirou, mas, ao ver o casulo, um sorriso lhe surgiu nos lábios."
+        },
+        {
+            "id": 6,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Um Casulo Dourado… Você trouxe um material precioso, de um ser antigo."
+        },
+        {
+            "id": 7,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Mas… falta uma coisa."
+        },
+        {
+            "id": 8,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Dá para fiar uma linha boa… mas só com isto não se faz um Novelo Dourado."
+        },
+        {
+            "id": 9,
+            "model": "단테",
+            "content": "<A receita não listava outro material… precisa de mais alguma coisa?>"
+        },
+        {
+            "id": 10,
+            "model": "료슈",
+            "content": "…Do que precisa? Tem que ter um R.D. ou algo assim?"
+        },
+        {
+            "id": 11,
+            "model": "뫼르소",
+            "content": "Ela pergunta se é necessário um Ramo Dourado, Gerente."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "Tsc… R.D. não é Ramo Dourado, é Retalho Dourado."
+        },
+        {
+            "id": 13,
+            "model": "뫼르소",
+            "content": "…Entendo."
+        },
+        {
+            "id": 14,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Se está falando da Pele Dourada, ela não tem a forma adequada para tingir a linha."
+        },
+        {
+            "id": 15,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Vá buscar a Tintura Dourada na Tinturaria."
+        },
+        {
+            "id": 16,
+            "model": "B2층플로어매니저",
+            "title": "Grand Magasin Sisyphe",
+            "content": "Palette a vem juntando com todo o cuidado, gota a gota."
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "…Se é algo tão precioso, vai custar de novo uma montanha de olhos."
+        },
+        {
+            "id": 18,
+            "model": "단테",
+            "content": "<Mas, quanto mais a gente gasta, mais sobe o nosso nível na loja.>"
+        },
+        {
+            "id": 19,
+            "model": "단테",
+            "content": "<Se continuarmos gastando assim, uma hora vamos poder subir para os andares de cima…>"
+        },
+        {
+            "id": 20,
+            "model": "뫼르소",
+            "content": "……."
+        },
+        {
+            "id": 21,
+            "model": "단테",
+            "content": "<Vamos para a Tinturaria.>"
+        }
+    ]
+}

@@ -11,7 +11,10 @@ if (!id) { console.error("Uso: node scripts/build-story.mjs <ID>"); process.exit
 const PT = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Limbus Company\\LimbusCompany_Data\\Lang\\ptbr-CLT\\StoryData";
 const rd = (p) => JSON.parse(fs.readFileSync(p, "utf8").replace(/^﻿/, ""));
 
-const base = rd(path.join(PT, id + ".json"));
+const EN_DIR = "C:/Program Files (x86)/Steam/steamapps/common/Limbus Company/LimbusCompany_Data/Assets/Resources_moved/Localize/en/StoryData";
+// base: ptbr-CLT se existir; senão o EN oficial (pacote independente desde v2.0.0)
+const basePath = fs.existsSync(path.join(PT, id + ".json")) ? path.join(PT, id + ".json") : path.join(EN_DIR, "EN_" + id + ".json");
+const base = rd(basePath);
 const raw = rd(path.join(process.cwd(), "scripts", "story", id + ".json"));
 const labels = raw.labels ?? {};
 const content = {};

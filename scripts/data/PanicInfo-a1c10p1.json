@@ -1,0 +1,9 @@
+{"dataList":[
+{"id":1098,"panicName":"Fora do Couro!","lowMoraleDescription":"Nível Defensivo -3, Nível Ofensivo +1","panicDescription":"Nível Defensivo -5, Nível Ofensivo +2"},
+{"id":1099,"panicName":"De Volta pra Casca…","lowMoraleDescription":"Velocidade Máx. -1, Nível Defensivo +1","panicDescription":"Velocidade Máx. -5, Nível Defensivo +3"},
+{"id":1102,"panicName":"Anseio Culinário","lowMoraleDescription":"Nível Ofensivo +1 e recebe +3% de dano para cada 1 de [SapsareeHungry] em si","panicDescription":"Nível Ofensivo +2 e recebe +5% de dano para cada 1 de [SapsareeHungry] em si"},
+{"id":1104,"panicName":"FOMO","lowMoraleDescription":"Nível Ofensivo +1 para cada 20% de PV perdido (máx. 2)\nRecebe 1 de [Vulnerable]","panicDescription":"Nível Ofensivo +1 para cada 20% de PV perdido (máx. 2)\nRecebe 1 de [Vulnerable]"},
+{"id":1105,"panicName":"Costura Desalinhada","lowMoraleDescription":"Início de Turno: Recebe 1 de [Reduction]","panicDescription":"Início de Turno: Recebe 1 de [Reduction] e 1 de [AttackDmgDown]"},
+{"id":1109,"panicName":"Morte Repetida","lowMoraleDescription":"Recebe 3 de [Protection]","panicDescription":"Recebe 5 de [Protection]"},
+{"id":1121,"panicName":"Cisão","lowMoraleDescription":"Nível Defensivo -3, Nível Ofensivo +3\nEm Embates contra alvos com 5 de [BloodyMucus], Poder de Embate +2","panicDescription":"Nível Defensivo -5, Nível Ofensivo +3\nCausa +10% de dano\nEm Embates contra alvos com 3+ de [BloodyMucus], Poder de Embate +3"}
+]}

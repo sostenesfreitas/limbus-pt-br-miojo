@@ -26,10 +26,13 @@ O Médio vai saber. **O Médio sempre sabe.**
 
 ## 📦 O que tem no pacote
 
-- **A HISTÓRIA** (`StoryData/`): Cantos VII, VIII e IX completos, Arco E inteiro,
-  Intervallos — incluindo o mais recente, **o Intervallo do Kim do Chapéu de Bambu**
-  (update de 10–11/06), com as histórias das Identidades novas (Hong Lu S Corp.,
-  Ishmael LCD, Meursault).
+- **A HISTÓRIA** (`StoryData/`): **Canto X (parte 1, update de 17/09)** — o julgamento
+  do Meursault e o Grand Magasin Sisyphe —, Cantos VII, VIII e IX completos, Arco E inteiro,
+  Intervallos — incluindo **o Intervallo do Kim do Chapéu de Bambu** (update de 10–11/06),
+  com as histórias das Identidades novas (Hong Lu S Corp., Ishmael LCD, Meursault).
+- **Canto X inteiro, não só a história**: exploração do Grand Magasin (itens, diálogos e
+  interface do modo de exploração), palavras-chave de combate, buffs, skills e passivas de
+  inimigos e Anormalidades, balões de fala, dicas de batalha, nomes de fase e de inimigos.
 - **Combate e eventos do conteúdo recente**: skills, buffs, presentes E.G.O da
   Masmorra Espelhada, announcer do Kim & Aeng-du, vozes, letras de BGM, anotações do
   Dante no Teatro da História.
@@ -66,8 +69,13 @@ O Médio vai saber. **O Médio sempre sabe.**
 translations/          A tradução pronta (espelha o conteúdo de Miojo-PTBR/)
 scripts/
   GLOSSARY.md          Glossário de termos da tradução
-  INTERVALLO-BRIEF.md  Brief de tradução do Intervallo atual
-  apply-to-game.mjs    Instala translations/ na pasta do jogo (faz backup .bak)
+  CANTO-X-BRIEF.md     Brief de tradução do Canto X (história) + CANTO-X-COMBAT.md (combate/UI)
+  INTERVALLO-BRIEF.md  Brief de tradução do Intervallo do Kim
+  story/<ID>.json      Fonte PT de cada arquivo de história  → node scripts/build-story.mjs <ID>
+  data/<nome>.json     Fonte PT dos demais arquivos (overlay) → node scripts/build-file.mjs <nome>
+  apply-to-game.mjs    Instala translations/ em Lang/Miojo-PTBR do jogo (faz backup .bak)
+  pack-release.ps1     Gera dist/Lang-Miojo-PTBR-v<versão>.zip (Lang/config.json + Miojo-PTBR + fonte)
+assets/lang/           config.json e fonte Noto Sans (OFL) que vão no pacote
 ```
 
 Com [Node.js](https://nodejs.org) instalado e o jogo no caminho padrão da Steam:

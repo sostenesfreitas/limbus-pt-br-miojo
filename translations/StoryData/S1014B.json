@@ -1,0 +1,228 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Tinturaria, Subsolo 2",
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Querem comprar Tintura Dourada?"
+        },
+        {
+            "id": 1,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "O nível de vocês… está no limite, mas não a ponto de eu não poder vender."
+        },
+        {
+            "id": 2,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Aqui, a senha de atendimento."
+        },
+        {
+            "id": 3,
+            "model": "료슈",
+            "content": "1217… O que isso significa?"
+        },
+        {
+            "id": 4,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Significa que tem 1216 pessoas na frente de vocês, ora. O que mais seria? É esperar que o número vai baixando devagarinho."
+        },
+        {
+            "id": 5,
+            "model": "단테",
+            "content": "<Ryōshū, espera! Nada de C.F.!>"
+        },
+        {
+            "id": 6,
+            "model": "단테",
+            "content": "<Mas, afinal, quanto tempo a gente teria que esperar?>"
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "Se a senha está na casa dos mil, quanto tempo leva até a nossa vez?"
+        },
+        {
+            "id": 8,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Menos do que vocês imaginam. Uns cem trocas de temporada e chega a vez de vocês, sabe?"
+        },
+        {
+            "id": 9,
+            "model": "오티스",
+            "content": "…Não podemos esperar tanto. Não há outro jeito?"
+        },
+        {
+            "id": 10,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Não tem, não tem. Se queriam tanto assim, era pra ter madrugado na fila antes de abrir."
+        },
+        {
+            "id": 11,
+            "model": "퍼티",
+            "teller": "Putty",
+            "title": "Tinturaria",
+            "content": "……."
+        },
+        {
+            "id": 12,
+            "model": "료슈",
+            "content": "……."
+        },
+        {
+            "id": 13,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Putty, mana, eu já falei pra não ficar encarando os clientes desse jeito."
+        },
+        {
+            "id": 14,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Esses aí nem são tão folgados assim. Abaixa a perna."
+        },
+        {
+            "id": 15,
+            "model": "단테",
+            "content": "<Ryōshū, você também, para de pensar onde vai cortar e me ajuda a achar outro jeito de conseguir a tintura…>"
+        },
+        {
+            "id": 16,
+            "content": "Quando Ryōshū tirou a mão da bainha, a tal Putty também baixou a perna de aspecto pontiagudo."
+        },
+        {
+            "id": 17,
+            "model": "료슈",
+            "content": "*baforada* Tem o que pensar?"
+        },
+        {
+            "id": 18,
+            "model": "료슈",
+            "content": "É só cortar todos os que estão com senha antes da nossa, e a gente vira o primeiro."
+        },
+        {
+            "id": 19,
+            "content": "A bainha chacoalhou, como se balançasse a cabeça em negativa."
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "…Uma opinião cheia de segundas intenções. Se fosse assim, não bastaria cortar quem está em primeiro na fila e tomar a senha dele?"
+        },
+        {
+            "id": 21,
+            "model": "료슈",
+            "content": "Heh. É a estética do irracional."
+        },
+        {
+            "id": 22,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Não dá só pra comprar a tintura de quem tá em primeiro na fila…?"
+        },
+        {
+            "id": 23,
+            "model": "단테",
+            "content": "<…Concordo. Meursault, pergunta quem tem a senha mais adiantada.>"
+        },
+        {
+            "id": 24,
+            "model": "뫼르소",
+            "content": "Quero saber quem é o portador da senha mais adiantada."
+        },
+        {
+            "id": 25,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Naked, dos Le Noir. É um dos que chegaram bem antes e madrugaram na fila."
+        },
+        {
+            "id": 26,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Daqui a pouco o balde de tintura enche com o Pus Dourado que pinga da Resina Dourada… Ele já deve estar lá embaixo no corredor, esperando na hora certa."
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "Na situação atual, o melhor seria comprar a Tintura Dourada desse sujeito."
+        },
+        {
+            "id": 28,
+            "model": "단테",
+            "content": "<Com os olhos que a gente tem, não vai chegar nem perto…>"
+        },
+        {
+            "id": 29,
+            "model": "뫼르소",
+            "content": "Caso os olhos sejam insuficientes, existe a alternativa de trocar por outro item de valor equivalente."
+        },
+        {
+            "id": 30,
+            "model": "단테",
+            "content": "<…Que tal a gente dar uma olhada no que temos agora?>"
+        },
+        {
+            "id": 31,
+            "content": "Meursault tirou e mostrou, um a um, os itens que comprara ou obtivera até então."
+        },
+        {
+            "id": 32,
+            "model": "오티스",
+            "content": "…É bastante coisa variada."
+        },
+        {
+            "id": 33,
+            "model": "오티스",
+            "content": "Se vendermos tudo isso, acha que dá para comprar essa tal Tintura Dourada?"
+        },
+        {
+            "id": 34,
+            "model": "B2층염색실주인",
+            "teller": "Palette",
+            "title": "Tinturaria",
+            "content": "Nem de longe. A não ser que vendam tudo isso cobrando o olho da cara de algum otário."
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<Complicado… Será que a gente vai ter que ir no 3º andar pedir mais olhos?>"
+        },
+        {
+            "id": 36,
+            "model": "오티스",
+            "content": "Eles já forneceram um financiamento considerável. Sem nenhum resultado, talvez seja difícil obter um novo aporte."
+        },
+        {
+            "id": 37,
+            "model": "오티스",
+            "content": "Naturalmente, se o Gerente assim desejar, esta Outis, com técnicas de negociação afiadas, extorquirá até o último olho que eles possuem."
+        },
+        {
+            "id": 38,
+            "model": "단테",
+            "content": "<N-não precisa… Esse tal Naked também é dos Le Noir… Se a gente mostrar aquele certificado de avaliação, talvez ele dê um desconto.>"
+        },
+        {
+            "id": 39,
+            "model": "단테",
+            "content": "<Primeiro vamos atrás dele e ouvir o que tem a dizer. Se é dos Le Noir… a roupa também deve chamar atenção.>"
+        }
+    ]
+}

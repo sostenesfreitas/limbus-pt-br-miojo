@@ -1,0 +1,37 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "판사",
+            "content": "Réu Meursault, quando você matou a sua mãe?"
+        },
+        {
+            "id": 1,
+            "model": "뫼르소",
+            "title": "Réu",
+            "content": "Hoje, matei minha mãe. Ou talvez tenha sido ontem."
+        },
+        {
+            "id": 2,
+            "model": "판사",
+            "content": "Réu Meursault, por que matou a sua mãe?"
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "title": "Réu",
+            "content": "……."
+        },
+        {
+            "id": 4,
+            "model": "판사",
+            "content": "Responda!"
+        },
+        {
+            "id": 5,
+            "model": "뫼르소",
+            "title": "Réu",
+            "content": "A luz do sol… me ofuscava…"
+        }
+    ]
+}

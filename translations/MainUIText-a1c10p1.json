@@ -1,0 +1,56 @@
+﻿{
+    "dataList": [
+        {
+            "id": "main_ui_rpg_battle_defeated_title",
+            "content": "Derrota em Combate"
+        },
+        {
+            "id": "main_ui_rpg_battle_defeated_desc",
+            "content": "<color=#990000>Todos os Pecadores foram derrotados.</color>\nEscolha como deseja prosseguir."
+        },
+        {
+            "id": "main_ui_rpg_retry",
+            "content": "Tentar de Novo"
+        },
+        {
+            "id": "main_ui_rpg_retry_desc",
+            "content": "Reinicia este combate do começo"
+        },
+        {
+            "id": "main_ui_rpg_accept_defeat",
+            "content": "Desistir"
+        },
+        {
+            "id": "main_ui_rpg_accept_defeat_desc",
+            "content": "Retorna à Fonte do último estado salvo"
+        },
+        {
+            "id": "ContinueConfirm_Desc_Rpg_Stage",
+            "content": "Mesmo que a função Continuar seja usada durante o combate,\na conclusão da Fase 10-4 será registrada como Conclusão EX.\n\nPorém, se após usar Continuar você <color=#990000>vencer o combate sem Tentar de Novo, Derrota ou Desistir e o progresso for salvo</color>,\n<color=#990000>os recursos gastos com Continuar não serão devolvidos, mesmo que você desista da Fase 10-4 no meio.</color>\nAlém disso, a Loucura consumida não pode ser reembolsada."
+        },
+        {
+            "id": "formation_ego_resource_popup_current_owned_desc",
+            "content": "Quantidade de Recursos de E.G.O que você possui atualmente."
+        },
+        {
+            "id": "formation_ego_resource_popup_current_owned",
+            "content": "Recursos de E.G.O"
+        },
+        {
+            "id": "9128_chapter_notice_button_title",
+            "content": "Avisos do Capítulo"
+        },
+        {
+            "id": "9128_chapter_notice_popup_title",
+            "content": "Você está jogando o capítulo <color=#3246AB>[Canto {0} - {1}]</color>."
+        },
+        {
+            "id": "9128_chapter_notice_enter_title",
+            "content": "Entrar em <color=#3246AB>[Canto {0} - {1}]</color>?"
+        },
+        {
+            "id": "9128_chapter_notice_popup_desc",
+            "content": "◆ <color=#ff6000><mark color=#ff000040><b><u>É possível jogar o Canto 10 da história principal</color></mark></b></u> mesmo sem concluir os capítulos anteriores.\n◆ Contém <color=#ff6000><mark color=#ff000040><b><u>spoilers até o capítulo 9.5</color></mark></b></u>.\n◆ Se você concluir o Canto 10 sem ter concluído os capítulos anteriores, <color=#ff6000><mark color=#ff000040><b><u>não poderá usar os conteúdos que exigem a conclusão desses capítulos</color></mark></b></u>, como Masmorra Espelhada, Ferrovia de Refração, Luxcavação e Combate de Reflexão. Cumpra os requisitos de desbloqueio para acessar todo o conteúdo.\n◆ Para conteúdos que exigem a conclusão do Canto 10 (a serem lançados em atualizações futuras), <color=#ff6000><mark color=#ff000040><b><u>conclua o Canto 10 e a Fase 9.5-26</color></mark></b></u>.\n◆ Durante o Canto 10, <color=#ff6000><mark color=#ff000040><b><u>algumas Identidades de Meursault serão fornecidas como suporte</color></mark></b></u>. (As Identidades e E.G.O de suporte vêm com Sincronização/Interpretação Fantasmagórica de nível 4.)\n◆ Durante o Canto 10, <color=#ff6000><mark color=#ff000040><b><u>todas as Identidades aliadas terão Sincronização 3 garantida</color></mark></b></u>. A Interpretação Fantasmagórica dos E.G.O não é ajustada."
+        }
+    ]
+}

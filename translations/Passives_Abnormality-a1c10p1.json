@@ -1,0 +1,266 @@
+﻿{
+    "dataList": [
+        {
+            "id": 146501,
+            "name": "Le Noir: Tecido",
+            "desc": "Início do Encontro: Recebe 5 de [NoirBindArmor]\nInício de Turno: Recebe Escudo igual a (Acúmulo de [NoirBindArmor])% do PV máximo desta unidade",
+            "flavor": "O tecido worsted da Le Noir molda o corpo do cliente como uma armadura, sob uma silhueta firme e fixa."
+        },
+        {
+            "id": 146502,
+            "name": "Orientação ao Cliente",
+            "desc": "Causa +10% de dano ao alvo e recebe +10% de dano dele para cada [NoirNoComply] no alvo\nCausa +200% de dano a alvos com 3 de [NoirNoComply]",
+            "flavor": "Na Le Noir, os clientes são atendidos conforme o rigoroso manual de gestão da matriz."
+        },
+        {
+            "id": 146503,
+            "name": "Preservação",
+            "desc": "A cada 3 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de [NoirBindArmor]\nA cada 10 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de [ChargeNoir]",
+            "flavor": "Condensar a força, reuni-la e fixá-la. Às vezes, não mudar exige mais força do que mudar."
+        },
+        {
+            "id": 146603,
+            "name": "Metabolismo",
+            "desc": "Ao entrar no Encontro pela primeira vez, recebe 10 Contagem de [ChargeRouge]\n\nA cada 10 Contagem de [ChargeRouge] consumida cumulativamente neste Encontro, recebe 1 de [ChargeRouge]"
+        },
+        {
+            "id": 149401,
+            "name": "Le Rouge: Jaqueta",
+            "desc": "Fim de Turno: Ganha ou perde até 10 Contagem de [ChargeRouge]\n\nAo ser atingido, se o atacante usou uma Habilidade que ganha [Charge], transfere 1 Contagem de [ChargeRouge] ao atacante como Contagem de [Charge] (uma vez por Habilidade do atacante)\nRecebe 1 de [AttackUp] toda vez que o efeito acima ativa\nInício de Turno: Consome até 5 Contagem de [ChargeRouge] acima de 15 para recuperar (valor consumido)% do PV máximo"
+        },
+        {
+            "id": 149402,
+            "name": "Denim de Fibra Muscular",
+            "desc": "Habilidades causam +1% de dano para cada Potência de [ChargeRouge] em si (máx. 10%)\n\nAo usar Habilidade com menos de 50% de PV, essa Habilidade ganha +2 Contagem de [ChargeRouge]\nHabilidades causam +1% de dano para cada 1% de PV perdido"
+        },
+        {
+            "id": 149301,
+            "name": "Le Rouge: Jaqueta",
+            "desc": "Fim de Turno: Ganha ou perde até 10 Contagem de [ChargeRouge]\n\nAo ser atingido, se o atacante usou uma Habilidade que ganha [Charge], transfere 1 Contagem de [ChargeRouge] ao atacante como Contagem de [Charge] (uma vez por Habilidade do atacante)\nRecebe 1 de [AttackUp] toda vez que o efeito acima ativa"
+        },
+        {
+            "id": 149302,
+            "name": "Desespero",
+            "desc": "Início de Turno: Com 3+ de Potência de [ChargeRouge] e 10+ Contagem de [ChargeRouge], usa 'Marketing Agressivo'\n\nHabilidades causam +1% de dano para cada 1% de PV perdido"
+        },
+        {
+            "id": 149303,
+            "name": "Eu ouço… a Voz de um outro deus…!",
+            "desc": "Início do Encontro: Recebe [RisingMadnessRouge]\n- Início de Turno: Quando o PV desta unidade cair a 50% ou menos pela primeira vez neste Encontro,\n[RisingMadnessRouge] vira [RisingMadnessRouge2nd]\n\nAo perder um Embate, recebe +2 Contagem de [ChargeRouge]",
+            "flavor": "Ouviram a Voz cálida, mas não conseguiram mudar mais. Com a mente presa na carne, cindiram-se e caíram na loucura."
+        },
+        {
+            "id": 146601,
+            "name": "Lookbook de Lançamentos da Boutique Le Rouge",
+            "desc": "Padrão [RougeThreeNormal]\n\nRemove [RougeThreeCocoon] e [RougeThreeCocoonShield] em si e recebe [RougeThreeNormal]\n<color=#ff6000><mark=#ff000040><b><u>Ao ser atingida, recebe 1 de [RougeThreeNormal]\nFim de Turno: Com 20 de [RougeThreeNormal], muda para o padrão [RougeThreeCocoon] no próximo turno</u></b></mark></color>\n\nNo estado [RougeThreeNormal], ao receber dano que reduziria o PV a menos de 10, anula esse dano, recupera 30% do PV máximo e encerra o turno. Em seguida, muda para o estado [RougeThreeCocoon] e recebe 2 de [Enhancement] pelo resto deste Encontro (uma vez por Encontro)"
+        },
+        {
+            "id": 146602,
+            "name": "Para Dentro do Provador",
+            "desc": "Padrão [RougeThreeCocoon]\n\nRemove [RougeThreeNormal] em si e recebe 1 de [RougeThreeCocoon] e 500 de [RougeThreeCocoonShield]\n\n<color=#ff6000><mark=#ff000040><b><u>Ao ser atingida, recebe [RougeThreeCocoonHit]</u></b></mark></color>\nCom 0 de [RougeThreeCocoonShield] ou 3 de [RougeThreeCocoon], perde 20 de PS e encerra o turno. No próximo turno, muda para o padrão [RougeThreeNormal] e recebe 1 de [AttackDmgUp] pelo resto deste Encontro (se estava Atordoada, recupera-se do Atordoamento)"
+        },
+        {
+            "id": 147401,
+            "name": "Sous-chef",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Ao abater um alvo com Habilidade de ataque, recebe 1 de [SapsareeCooking]</u></b></mark></color>\n- Ao usar Habilidade, recebe +1 de [SapsareeCooking] para cada 3 efeitos que o alvo tinha (máx. 2)",
+            "flavor": "Carrega o título de chef, mas o restaurante do 5º andar jamais a reconheceria."
+        },
+        {
+            "id": 147402,
+            "name": "Eu cozinho bem, tá ouvindo?",
+            "desc": "<color=#ff6000><mark=#ff000040><b><u>Se tiver [SapsareeCooking], usa a Habilidade 'Opa! Hora da minha refeição, tá ouvindo?' na última ordem do turno</u></b></mark></color>\n(não ativa se todos os outros alvos morreram ou se está Atordoada)\nFim de Turno: Se não conseguiu usar 'Opa! Hora da minha refeição, tá ouvindo?', recebe 1 de [SapsareeHungry]",
+            "flavor": "No restaurante do 5º andar, isso nem seria chamado de cozinha."
+        },
+        {
+            "id": 147403,
+            "name": "Anseio Culinário",
+            "desc": "A cada 4 turnos, usa uma Habilidade poderosa de Gula\n(se não ativou por Atordoamento, ativa no próximo turno)\n- Fim de Turno: Com 5+ de [SapsareeYammi], usa uma Habilidade poderosa de Gula no próximo turno\n\nFim de Turno: Com 3+ de [SapsareeHungry], usa uma Habilidade poderosa de Ira no próximo turno",
+            "flavor": "Fazer algo comestível e cozinhar são coisas diferentes. Você só… deixa comestível, e nada mais."
+        },
+        {
+            "id": 147404,
+            "name": "Que delícia, tá ouvindo?!!!",
+            "desc": "Início de Turno: Recupera 3 de PS para cada [SapsareeYammi] em si",
+            "flavor": "Será que as coisas de uma praça de alimentação podem sequer discutir sabor?"
+        },
+        {
+            "id": 147405,
+            "name": "Vou fugir, tá ouvindo?!",
+            "desc": "Quando o PV da Sous-chef cai abaixo de 30%, o Encontro termina",
+            "flavor": "Não quero morrer."
+        },
+        {
+            "id": 147501,
+            "name": "Ingrediente saboroso.",
+            "desc": "Se esta unidade tiver 5+ efeitos, Nível Ofensivo +3 e Nível Defensivo +3",
+            "flavor": "Isso nem é ingrediente."
+        },
+        {
+            "id": 147502,
+            "name": "Amaciamento",
+            "desc": "Ao ser atingida, recebe 1 de Nível Defensivo reduzido e 1 de Nível Ofensivo aumentado no próximo turno (máx. 3 por turno)",
+            "flavor": "De nada adianta o couro duro da carteira ficar macio."
+        },
+        {
+            "id": 147503,
+            "name": "Fome…",
+            "desc": "Fim de Turno: Se a Sous-chef não conseguiu usar a Habilidade 'Opa! Hora da minha refeição, tá ouvindo?', recebe 1 de [SapsareeHungry]",
+            "flavor": "Carteira que não foi feita para ser ingrediente, mas é criada como ingrediente. Só pode ter fome."
+        },
+        {
+            "id": 148101,
+            "name": "Patchwork",
+            "desc": "Início do Encontro: Recebe 30 de [UnresolvedFeelings]\nCom 50% ou menos de PV, a Habilidade usada em certo padrão é trocada por uma Habilidade poderosa",
+            "flavor": "Retalhos de tecido que sobraram dos consertos e seriam descartados, costurados em camadas e mais camadas. Cada retalho, sozinho, não vale nada, mas a materialidade do tecido permanece; por isso o Gerente de Andar os junta."
+        },
+        {
+            "id": 148102,
+            "name": "Checagem de Cautela",
+            "desc": "Início de Turno: Ativa os efeitos abaixo\n<color=#ff6000><mark=#ff000040><b><u>- Se 1+ Pecador tiver 10 de [Wariness], ganha um Espaço de Ataque e equipa nele a Habilidade 'Anúncio de Advertência'</u></b></mark></color>\n- Inflige 1 de [Wariness] em todos os Pecadores sem [ReliefSense]\n- Recebe 1 de [HorribleEat] para cada Identidade com [HorribleTerror]\n\n<color=#ff6000><mark=#ff000040><b><u>Ao ser atingido pela Habilidade de um Pecador,</u></b></mark></color> no fim do ataque dessa Habilidade, <color=#ff6000><mark=#ff000040><b><u>inflige [Wariness]</u></b></mark></color> nesse Pecador igual ao número de acertos daquela Habilidade",
+            "flavor": "Para ouvir a Voz, é preciso abrir o coração antes dos ouvidos."
+        },
+        {
+            "id": 148103,
+            "name": "Gratidão",
+            "desc": "Início de Turno: <color=#ff6000><mark=#ff000040><b><u>Se 1+ Pecador tiver 3 de [ReliefSense], ganha um Espaço de Ataque e equipa nele a Habilidade 'Obrigado… por ouvir…'</u></b></mark></color>",
+            "flavor": "Tantos clientes deixavam os anúncios entrar por um ouvido e sair pelo outro… Obrigado por ouvir…"
+        },
+        {
+            "id": 148104,
+            "name": "Abate em Pânico",
+            "desc": "Causa +200% de dano a alvos em Pânico",
+            "flavor": "Quando a mente desmorona, há técnicas que fazem o corpo desmoronar com a mesma facilidade."
+        },
+        {
+            "id": 149201,
+            "name": "Le Noir: Tecido",
+            "desc": "Início do Encontro: Recebe 5 de [NoirBindArmor]\n\nInício de Turno: Recebe Escudo igual a (Acúmulo de [NoirBindArmor] / 2)% do PV máximo desta unidade\n\nAo ser Atordoada, perde todo o [NoirBindArmor]\nInício de Turno: Ao se recuperar do Atordoamento, recebe 5 de [NoirBindArmor]",
+            "flavor": "O tecido worsted da Le Noir molda o corpo do cliente como uma armadura, sob uma silhueta firme e fixa."
+        },
+        {
+            "id": 149202,
+            "name": "Preservação",
+            "desc": "A cada 5 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de [NoirBindArmor]\nA cada 10 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de [ChargeNoir]",
+            "flavor": "Condensar a força, reuni-la e fixá-la. Às vezes, não mudar exige mais força do que mudar."
+        },
+        {
+            "id": 149203,
+            "name": "Mudança pela Imobilidade",
+            "desc": "Início de Turno: Com 10+ Contagem de [ChargeNoir], usa uma Habilidade poderosa\n\nAo usar Habilidade, com 15+ Contagem de [ChargeNoir], consome 3 Contagem de [ChargeNoir] para causar +20% de dano",
+            "flavor": "Esta nova Voz me diz que vai me mudar… para que eu nunca mais precise mudar."
+        },
+        {
+            "id": 149204,
+            "name": "Eu ouço… a Voz de um outro deus…!",
+            "desc": "Início do Encontro: Recebe 2 de [RisingMadnessNoir]\n- Início de Turno: Quando o PV desta unidade cair a 50% ou menos pela primeira vez neste Encontro,\n[RisingMadnessNoir] vira [RisingMadnessNoir2nd]\n\nAo perder um Embate, recebe +2 Contagem de [ChargeNoir]",
+            "flavor": "Ouviram a Voz cálida, mas não conseguiram mudar mais. Com a mente presa na carne, cindiram-se e caíram na loucura."
+        },
+        {
+            "id": 148201,
+            "name": "Le Noir: Tecido",
+            "desc": "Início do Encontro: Recebe 3 de [NoirBindArmor]\n\nInício de Turno: Recebe Escudo igual a (Acúmulo de [NoirBindArmor])% do PV máximo desta unidade (exceto se Atordoado)",
+            "flavor": "O tecido worsted da Le Noir molda o corpo do cliente como uma armadura, sob uma silhueta firme e fixa."
+        },
+        {
+            "id": 148202,
+            "name": "Preservação",
+            "desc": "A cada 3 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de [NoirBindArmor]\nA cada 10 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro, recebe 1 de Potência de [ChargeNoir]\n\nCom 3+ de Potência de [ChargeNoir], Contagem máxima de [ChargeNoir] +5",
+            "flavor": "Condensar a força, reuni-la e fixá-la. Às vezes, não mudar exige mais força do que mudar."
+        },
+        {
+            "id": 148203,
+            "name": "Liberação do Condensado",
+            "desc": "Início de Turno: Com 3+ de Potência de [ChargeNoir] e 10+ Contagem de [ChargeNoir], usa uma Habilidade poderosa",
+            "flavor": "A força reunida num só ponto para impor imobilidade um dia irrompe."
+        },
+        {
+            "id": 148204,
+            "name": "Paradoxo da Conversão Conservativa",
+            "desc": "Se tiver Escudo, ao ser atingido por um Pecador,\nrecebe +1 Contagem de [ChargeNoir] (uma vez por Habilidade, 3 vezes por turno)\n- Com 3+/5+ de Potência de [ChargeNoir], recebe +2/+3 Contagem de [ChargeNoir] em vez disso\n\nFim de Turno: Se ainda tiver Escudo,\nno próximo turno recebe +1 Contagem de [ChargeNoir] e 1 de [DefenseUp] para cada Potência de [ChargeNoir] em si (máx. 3 cada)",
+            "flavor": "Converte a força externa que tenta mudá-lo em força para preservar a si mesmo.\n\nUm mundo em que, por mais que se rejeite a mudança e se busque a imobilidade, algo sempre precisa ser mudado."
+        },
+        {
+            "id": 148301,
+            "name": "Le Noir: Tecido de Gabardine",
+            "desc": "Início do Encontro: Recebe 30 de [NoirSuit]\n\nInício de Turno:\n- Recebe Escudo igual a ([NoirSuit] / 5)% do PV máximo desta unidade (exceto se Atordoado)",
+            "flavor": "O tecido de ponta da Le Noir, que busca ao mesmo tempo a formalidade e a firmeza."
+        },
+        {
+            "id": 148302,
+            "name": "Preservação",
+            "desc": "A cada 10 Contagem de [ChargeNoir] consumida cumulativamente neste Encontro,\nrecebe 1 de Potência de [ChargeNoir]\n\nCom 3+ de Potência de [ChargeNoir], Contagem máxima de [ChargeNoir] +5",
+            "flavor": "Condensar a força, reuni-la e fixá-la. Às vezes, não mudar exige mais força do que mudar."
+        },
+        {
+            "id": 148303,
+            "name": "Retroalimentação",
+            "desc": "Início de Turno: Se tiver [Realisation], 'Chute Único' é aplicado como 'Chute Único - Couture Multiple'\n\nAo ativar [VibrationExplosion], dano de Atordoamento de [VibrationExplosion] +20%\n- Com 12+ Contagem de [ChargeNoir], em vez disso, ao ativar [VibrationExplosion], consome 1 Contagem de [ChargeNoir]\npara dano de Atordoamento de [VibrationExplosion] +40% (aplicado por alvo)\n\nAo ativar [VibrationExplosion], se o alvo não tiver limiar de Atordoamento,\ncausa dano fixo igual ao Acúmulo de [DefenseUp] em si (máx. 20)",
+            "flavor": "A Le Noir acredita que pode ruir o valor do oponente submetendo-o a fortes vibrações que o façam tremer.\n\nPois, quanto mais violentamente o alvo vibra, mais mudanças ele sofre a cada instante.\n\nSobre essa crença se erguem as técnicas de combate da Le Noir."
+        },
+        {
+            "id": 148304,
+            "name": "Paradoxo do Paradoxo da Conversão Conservativa",
+            "desc": "Se tiver Escudo, ao ser atingido por um Pecador,\n- Inflige 1 de [Vibration] nesse Pecador (uma vez por Habilidade)\n- Recebe +1 Contagem de [ChargeNoir] (uma vez por Habilidade, 3 vezes por turno)\n· Com 3+/5+ de Potência de [ChargeNoir], recebe +2/+3 Contagem de [ChargeNoir] em vez disso\n\nFim de Turno: Se ainda tiver Escudo,\nno próximo turno recebe +1 Contagem de [ChargeNoir] e 2 de [DefenseUp] para cada Potência de [ChargeNoir] (máx. 3 e máx. 6, respectivamente)",
+            "flavor": "Quanto mais se esforça para não mudar, mais a existência ruma ao estado de mudança.\n\nO que existe está sempre indo a algum lugar, e enquanto vai a algum lugar, a mudança há de segui-lo."
+        },
+        {
+            "id": 149601,
+            "name": "Início da Costura",
+            "desc": "Início de Turno: Inflige [NiddleExpected] em 2 inimigos aleatórios"
+        },
+        {
+            "id": 149602,
+            "name": "Feito à Mão",
+            "desc": "Poder Final das Habilidades +1 para cada Agulhinha em campo",
+            "flavor": "Na costura à mão, o que dá vida é o número de artesãos experientes."
+        },
+        {
+            "id": 149603,
+            "name": "Reclamações que se Veem Mesmo Tapando os Ouvidos",
+            "desc": "A cada turno múltiplo de 3, ouve-se o 'Choro do Casulo'\nAo entrar na Fase 2, o 'Choro do Casulo' passa a ser ouvido todo turno\n\nNos turnos em que o 'Choro do Casulo' é ouvido, imune a incapacitação\n\nAo ultrapassar o limiar de Atordoamento, recebe 2 de [Vulnerable] no próximo turno",
+            "flavor": "Vozes vazam do casulo.\n'Abaixo de 80 fios em dois cabos nem conta como tecido.' 'Por que a casa de botão não é horizontal?'\n'Isso é jérsei em tear industrial?' 'Por que a ourela não é vermelha?'\n'Isso não passou por sanforização.' 'Abaixo de Super 150 é tecido vagabundo.'\n'Super é só a espessura do fio? Diâmetro e título não são a mesma coisa, nem isso você sabe.'\n'A barra é feita na Union Special, né? Óbvio.' 'Isso é rígido? Ah, é ourela?'\n'Olhando bem, os pontos estão uniformes demais. Usou máquina, né?' 'Se não é à mão, não é bespoke.'\n'Ah, isso não é caseado milanês.' 'Camisaria tem que passar de 200 fios.'\n'Ah, dá pra ver o pesponto por fora.' 'Duas fileiras de pesponto à vista. Reprovado.'\n'Que acabamento de costura é esse.' 'Tem que ser três cabos, no mínimo.'"
+        },
+        {
+            "id": 148401,
+            "name": "O Deus Vermelho Prematuro",
+            "desc": "Fim de Turno: Não perde Contagem de [ChargeRouge]\n<color=#ff6000><mark=#ff000040><b><u>Durante o Embate, toda vez que o [Laceration] do alvo ativa</u></b></mark></color>, recebe +1 Contagem de [ChargeRouge]\nAo abater um alvo, recebe Contagem de [ChargeRouge] igual a (Potência de [Laceration] + Contagem de [Laceration]) do alvo\nInício de Turno: Recupera 3 de PS para cada Contagem de [ChargeRouge] em si",
+            "flavor": "Um deus que nasceu do anseio. Nem mesmo o nascimento foi completo."
+        },
+        {
+            "id": 148402,
+            "name": "Músculos Pulsando em Tom Rosado",
+            "desc": "Início de Turno: Se não tiver [Gourmandise] e <color=#ff6000><mark=#ff000040><b><u>tiver 15+ Contagem de [ChargeRouge], consome toda a Contagem de [ChargeRouge] e recebe [Gourmandise]</u></b></mark></color>\n\nEnquanto tiver [Gourmandise], recebe os efeitos abaixo\n- Ao usar Habilidade, recebe +3 Contagem de [Laceration]\n- Ao acertar uma Habilidade, recebe 1 de [Laceration]\n- Ao ser atingido numa Parte, recebe 1 de [BuffetSick]\n- Ao perder um Embate, recebe 3 de [BuffetSick]\n- Ao abater um alvo com 3+ de [BloodyMucus], gera 'Carne Arrancada do Deus Vermelho' no próximo turno\n- Fim do Combate: Recupera 3 de PS para cada inimigo com [BloodyMucus]\n\nFim de Turno: Quando o efeito [Gourmandise] expira, <color=#ff6000><mark=#ff000040><b><u>se o total de [BuffetSick] em si for 30+</u></b></mark></color>, o padrão enfraquece no próximo turno e as 'Carnes Arrancadas do Deus Vermelho' em campo ficam Atordoadas\n\n※ O Acúmulo de [BloodyMucus] pode ser reduzido com <color=#ff6000><mark=#ff000040><b><u>uso de Habilidade de E.G.O ou de Habilidade de defesa</u></b></mark></color>\n※ 'Carne Arrancada do Deus Vermelho' recebe [DeterioratingBody] igual ao [BloodyMucus] do alvo morto\n※ 'Carne Arrancada do Deus Vermelho' com [DeterioratingBody] não morre\n※ Até 3 'Carnes Arrancadas do Deus Vermelho' podem ser geradas em campo",
+            "flavor": "Braços e pernas se debatem feito loucos. Como se nunca tivessem pertencido ao próprio corpo."
+        },
+        {
+            "id": 148403,
+            "name": "Disparidade",
+            "desc": "Causa +50% de dano a alvos mais lentos que si",
+            "flavor": "Tudo o que se vê se move em velocidades diferentes."
+        },
+        {
+            "id": 148404,
+            "name": "Instinto de Sobrevivência",
+            "desc": "Início de Turno: Recebe 1 de [SavePlacenta] e inflige 5 de [Protection] na Parte Cordão Vital\nSe tiver [Gourmandise] ou estiver Atordoado, este Passivo não ativa",
+            "flavor": "O corpo se debate para se proteger, alheio à consciência. Sem nem saber até onde vai o próprio corpo."
+        },
+        {
+            "id": 148405,
+            "name": "Cordão Vital Rompido",
+            "desc": "Se a Parte Cordão Vital estiver destruída, no Fim de Turno a Parte Corpo recebe 3 de [Vulnerable] no próximo turno",
+            "flavor": "Essas coisas presas ao corpo, essas coisas balançando… é difícil calcular até onde sou eu."
+        },
+        {
+            "id": 148406,
+            "name": "Descontrole de um Nascimento Violento",
+            "desc": "Se a Parte Cordão Vital não estiver destruída, no Fim de Turno com menos de 50% de PV do Núcleo, recebe [Gourmandise]\nDepois, não perde Acúmulo de [Gourmandise] até a Parte Cordão Vital ser destruída",
+            "flavor": "O corpo, do lugar quente para o frio. A consciência, do lugar fresco para o quente. E assim tudo, à força."
+        },
+        {
+            "id": 149701,
+            "name": "Pulsação sem Intelecto",
+            "desc": "- Ao ser gerada, recebe [DeterioratingBody] igual ao Acúmulo de [BloodyMucus] do alvo que morreu\n\nMorre quando [DeterioratingBody] expira",
+            "flavor": "Isto está vivo. Mas não tem cérebro. Será que a consciência pode vir também do músculo que pulsa, e não do cérebro?"
+        }
+    ]
+}

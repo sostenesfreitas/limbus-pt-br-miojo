@@ -1,0 +1,261 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Corredor, 3º andar",
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Então, não seria bom mostrar um pouco mais de alegria? Eu quase nunca deixo que ouçam a minha voz, sabe? Muita gente aqui passa a vida inteira procurando uma voz e some antes de ouvir alguma.</color>"
+        },
+        {
+            "id": 1,
+            "model": "오티스",
+            "content": "Pelo visto, você não sabe que mostrar o rosto ao conversar é o mínimo da educação."
+        },
+        {
+            "id": 2,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Uma pena, né? Se vocês não tivessem entrado na loja, eu apresentaria um café maravilhoso que conheço.</color>"
+        },
+        {
+            "id": 3,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Só pra constar, eu não sou cliente da loja como vocês. Sou um dos Gigantes que sustentam este lugar.</color>"
+        },
+        {
+            "id": 4,
+            "model": "오티스",
+            "content": "Gigante… Foi um nome que também ouvimos no tribunal, há pouco."
+        },
+        {
+            "id": 5,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Também é a identidade daquilo que as pessoas da loja chamam de Voz. A loja gira e funciona graças a nós, os Gigantes. Por isso nem dá pra tirar férias quando a gente quer. Meursault, você deve saber bem disso, não?</color>"
+        },
+        {
+            "id": 6,
+            "model": "싱클레어",
+            "content": "M… mas…"
+        },
+        {
+            "id": 7,
+            "content": "Sinclair se intrometeu com cautela."
+        },
+        {
+            "id": 8,
+            "model": "싱클레어",
+            "content": "O que quer dizer com… uma relação absurdamente ardente?"
+        },
+        {
+            "id": 9,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Já estava me perguntando se ninguém ia perguntar. Obrigada.</color>"
+        },
+        {
+            "id": 10,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>É literalmente isso. Éramos um casal que se desejava ardentemente, sem desperdiçar um segundo sequer.</color>"
+        },
+        {
+            "id": 11,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Não é, ma puce?</color>"
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Bobagem. Aquele sujeito, com algo tão indecente…"
+        },
+        {
+            "id": 13,
+            "model": "뫼르소",
+            "content": "É verdade."
+        },
+        {
+            "id": 14,
+            "model": "뫼르소",
+            "content": "No passado, nós tivemos um relacionamento."
+        },
+        {
+            "id": 15,
+            "model": "오티스",
+            "content": "O quê?!"
+        },
+        {
+            "id": 16,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Nossa, você fala como se tudo tivesse acabado de vez. Enquanto eu corri para assistir ao julgamento assim que soube que você tinha voltado à N Corp.</color>"
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<Então a pessoa que a gente viu naquela hora talvez…>"
+        },
+        {
+            "id": 18,
+            "content": "Um lugar em especial entre os espectadores que fitavam Meursault. Só então me lembrei daquele olhar que, em silêncio, nos observou por tanto tempo."
+        },
+        {
+            "id": 19,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Você sabia que ia acabar assim, não sabia?</color>"
+        },
+        {
+            "id": 20,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Por favor, não me diga que não sabia o quanto eu ajudei pra não mandarem você pra cá.</color>"
+        },
+        {
+            "id": 21,
+            "model": "뫼르소",
+            "content": "Sim, não foi algo inesperado."
+        },
+        {
+            "id": 22,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Então, não me diga que veio porque queria me ver?</color>"
+        },
+        {
+            "id": 23,
+            "model": "뫼르소",
+            "content": "Não."
+        },
+        {
+            "id": 24,
+            "content": "Foi uma resposta sem um pingo de hesitação. A voz de Jeanne prendeu a respiração por um instante e logo riu de leve."
+        },
+        {
+            "id": 25,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Pessoal, ele não mudou nadinha. E eu achando que, convivendo com outras pessoas, ele teria amolecido, nem que fosse um pouco.</color>"
+        },
+        {
+            "id": 26,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>A maioria diz, pelo menos, que sentiu saudade. Não é o básico da boa educação diante de um antigo amor?</color>"
+        },
+        {
+            "id": 27,
+            "model": "뫼르소",
+            "content": "…Da próxima vez, farei isso."
+        },
+        {
+            "id": 28,
+            "model": "뫼르소",
+            "content": "E eu sabia. Que, naquela época, você fez o máximo por mim."
+        },
+        {
+            "id": 29,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Pff… Tá, isso já basta. Você não é de esquecer.</color>"
+        },
+        {
+            "id": 30,
+            "model": "오티스",
+            "content": "Deixando de lado o fato de não ter compartilhado a informação importante de que sua ex-namorada é administradora desta loja…"
+        },
+        {
+            "id": 31,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Nem uma palavra? Isso é um pouco demais.</color>"
+        },
+        {
+            "id": 32,
+            "model": "오티스",
+            "content": "Por mais incômoda que a situação seja, não pretendemos ficar aqui por tempo indeterminado. Sendo administradora daqui, a conversa fica mais rápida. Sabe como nos tirar daqui?"
+        },
+        {
+            "id": 33,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Uma coisa dessas, mesmo se o interessado pedisse em pessoa, eu ainda pensaria duas vezes. Então, Meursault, que tal você mesmo pedir? Com fervor, de todo o coração.</color>"
+        },
+        {
+            "id": 34,
+            "model": "뫼르소",
+            "content": "Posso fazer o que ela diz, Gerente?"
+        },
+        {
+            "id": 35,
+            "model": "단테",
+            "content": "<…Tá, na dúvida, vale tentar…>"
+        },
+        {
+            "id": 36,
+            "model": "뫼르소",
+            "content": "Eu peço."
+        },
+        {
+            "id": 37,
+            "model": "뫼르소",
+            "content": "Pode me dizer como sair daqui, Jeanne?"
+        },
+        {
+            "id": 38,
+            "content": "Como se achasse graça daquelas palavras sem um grão sequer de fervor, a voz volta a rir, aos risinhos."
+        },
+        {
+            "id": 39,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Haha… Estão te usando bem.</color>"
+        },
+        {
+            "id": 40,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Foi um espetáculo divertido. E, infelizmente, eu não posso deixar você sair.</color>"
+        },
+        {
+            "id": 41,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>É como me colocar num criadouro com centenas de milhões de pulgas pulando e me pedir pra pescar uma única pulga com desenho dourado. As pulgas vão continuar entrando sem parar, e todas vão pular do mesmo jeito.</color>"
+        },
+        {
+            "id": 42,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Além disso, eu sou um dos Gigantes com o dever de proteger esta loja. Se eu tirasse você daqui, talvez eu mesma acabasse presa aqui por esse crime.</color>"
+        },
+        {
+            "id": 43,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Aí nós dois ficaríamos juntos aqui pra sempre. É um final que me agrada.</color>"
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "Nada agradável. Quer dizer que, mesmo aqui, há olhos nos seguindo."
+        },
+        {
+            "id": 45,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Não seria ruim, mas eu não posso ficar só vigiando vocês. Administrar o Grand Magasin Sisyphe não é tarefa fácil.</color>"
+        },
+        {
+            "id": 46,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Então não fiquem muito magoados se, de vez em quando, não ouvirem a minha voz. Nesta loja há uma quantidade enorme de coisas que exigem mais atenção do que vocês.</color>"
+        },
+        {
+            "id": 47,
+            "model": "싱클레어",
+            "content": "Se não pretende ajudar, nem aparecer… por que falou com a gente?"
+        },
+        {
+            "id": 48,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Aqui, o tempo está razoavelmente bom.</color>"
+        },
+        {
+            "id": 49,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Lembra do Café de Flore? Quando eu tomava um café forte lá, de repente pensava em você. E pensar que nunca mais o veria só piorava as coisas.</color>"
+        },
+        {
+            "id": 50,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>E o que você fez, ao voltar à N Corp. com as próprias pernas, foi se atirar de propósito numa pena no Grand Magasin Sisyphe.</color>"
+        },
+        {
+            "id": 51,
+            "model": "잔느",
+            "content": "<color=#a5ab8e>Como é que eu conseguiria não pousar os olhos aqui?</color>"
+        }
+    ]
+}

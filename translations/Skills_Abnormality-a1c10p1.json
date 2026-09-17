@@ -1,0 +1,2311 @@
+﻿{
+    "dataList": [
+        {
+            "id": 146501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "As camisas ficam aqui.",
+                    "desc": "[WhenUse] Recebe +7 Contagem de [ChargeNoir]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [ChargeNoir] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "As calças sociais estão expostas aqui.",
+                    "desc": "[WhenUse] Recebe +4 Contagem de [ChargeNoir]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [ChargeNoir] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Reduction] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Este produto não pode ser provado, prezado cliente.",
+                    "desc": "[CantChangeTarget]\n<color=#ff6000><mark=#ff000040><b><u>Se o alvo tiver equipado uma Habilidade de Defesa, esta Habilidade é cancelada</u></b></mark></color>\n[WhenUse] Causa +10% de dano para cada [ChargeNoir] em si (máx. 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [NoirNoComply]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 5 Contagem de [Charge] para acionar [VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fique à vontade para provar o que quiser, prezado cliente.",
+                    "desc": "[CantChangeTarget]\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se o alvo tiver equipado uma Habilidade de Defesa, todas as Moedas desta Habilidade viram [SuperCoin] e Poder Final +5</u></b></mark></color>\n[WhenUse] Causa +10% de dano para cada [ChargeNoir] em si (máx. 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [NoirNoComply]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 5 Contagem de [Charge] para acionar [VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Por favor, não danifique os produtos.",
+                    "desc": "[CantChangeTarget]\n[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Se o alvo tiver equipado uma Habilidade de Ataque, todas as Moedas desta Habilidade viram [SuperCoin] e Poder Final +5</u></b></mark></color>\n[WhenUse] Causa +10% de dano para cada [ChargeNoir] em si (máx. 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver equipado uma Habilidade de Ataque, inflige 1 de [NoirNoComply]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 5 Contagem de [ChargeNoir] para acionar [VibrationExplosion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146506,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cliente! Por favor, não amasse os produtos!",
+                    "desc": "[StartBattle] Causa +([NoirNoComply] de cada alvo x 100)% de dano a alvos sem Habilidade de Defesa equipada",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se o alvo tiver equipado uma Habilidade de Defesa, o alvo perde 1 de [NoirNoComply]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146507,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Não temos esse produto no seu tamanho. Vou verificar o estoque com a matriz.",
+                    "desc": "[StartBattle] Se o espaço que usa esta Habilidade for o alvo principal de 3 ou mais Habilidades, perde 3 de [NoirBindArmor] e recebe 2 de [Enhancement] no próximo turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Costura",
+                    "desc": "[WhenUse] Recebe +6 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Estampagem",
+                    "desc": "[WhenUse] Recebe +4 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Costura Tripla",
+                    "desc": "[StartBattle] Se o PV atual for menor que 50% do PV máx., todas as Moedas desta Habilidade viram [SuperCoin]\n[DefeatDuel] O dano desta Habilidade não Atordoa o alvo\n[EndSkill] Consome 3 Contagem de [ChargeRouge] para curar 30 de PV",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura PV igual ao dano final desta Moeda"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura PV igual ao dano final desta Moeda"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura PV igual ao dano final desta Moeda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Marketing Agressivo",
+                    "desc": "[StartBattle] Se o PV atual for menor que 50% do PV máx., todas as Moedas desta Habilidade viram [SuperCoin] e recebe 3 de [DefenseDown] e +6 Contagem de [ChargeRouge]\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo\n[WhenUse] Esta Habilidade causa +10% de dano para cada [ChargeRouge] em si (máx. 30%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Laceration] e +2 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Cura PV igual ao dano final desta Moeda (máx. 100 por Habilidade)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 3 Contagem de [ChargeRouge] para Reutilizar esta Moeda (máx. 3 vezes)"
+                                },
+                                {
+                                    "desc": "[ReUseOnSucceedAttack] Aciona [Laceration] no alvo. O alvo perde 1 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tô fatiando, tá ouvindo?",
+                    "desc": "[WhenUse] Se o alvo tiver [SapsareeSpices], Poder Final +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tô cortando em pedaços grandes, tá ouvindo?",
+                    "desc": "[WhenUse] Poder Final +1 para cada [SapsareeSpices] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tô retalhando tudo, tá ouvindo?",
+                    "desc": "[WhenUse] Se o alvo tiver [SapsareeSpices], Poder de Moeda +1\n[WhenUse] Poder de Moeda +1 para cada 6 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "É o meu prato assinatura, tá ouvindo?",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 2 de [SapsareeYammi] em si\n[WhenUse] Se o alvo principal tiver [SapsareeSpices], Poder Final +3\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo\n[EndSkill] Consome todo o [SapsareeYammi] que possui",
+                    "flavor": "Dizem que foi ao dominar esta técnica que ela finalmente foi promovida a Sous-chef.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tô pegando os ingredientes, tá ouvindo?",
+                    "desc": "[CantDuel][CantChangeTarget]\nPrioriza o aliado com mais efeitos\nEnquanto usa esta Habilidade, desativa as condições base de perda de PS dos aliados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Abate o aliado alvo</u></b></mark></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Todo mundo aqui, tá ouvindo?!",
+                    "desc": "[CanDuelGuard]\nNo próximo turno, invoca ao campo tantas Carteiras de Couro quanto possível",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147407,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Come essa delícia logo, tá ouvindo?",
+                    "desc": "Habilidade que designa aliados como alvo principal e secundário\nSe o alvo for aliado, o dano é sempre 0",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se for inimigo, inflige 1 de [SapsareeSpices]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se for aliado, concede 2 de [AttackUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se for inimigo, inflige 1 de [SapsareeSpices]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se for aliado, concede 2 de [DefenseUp] no próximo turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Se for inimigo, inflige 1 de [SapsareeSpices]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se for aliado, concede 1 de [ParryingResultUp] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147408,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Opa! É a minha hora de comer, tá ouvindo?",
+                    "desc": "[CantIdentify]\nEsta Habilidade não acerta e o dano é sempre 0\n[EndSkill] Para cada [SapsareeCooking] em si, cura 1% do PV máx. e recebe 1 de [SapsareeYammi]\n[EndSkill] Para cada [SapsareeCooking] em si, todos os outros aliados curam 20% do PV máx. e recebem 1 de [SapsareeYammi]\n[EndSkill] Consome todo o [SapsareeCooking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147409,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cozinhar!!! Me deixa cozinhar, tá ouvindo?!",
+                    "desc": "[CantIdentify]\nNo próximo turno, invoca ao campo tantas Carteiras de Couro quanto possível\n[EndSkill] Consome todo o [SapsareeHungry] e não recebe [SapsareeHungry] durante este turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nhac Nhac",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mastiga Mastiga",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de [Laceration] no alvo (máx. 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Arrooooto",
+                    "desc": "[WhenUse] Poder Final +2 para cada 4 de [Laceration] no alvo (máx. 4)\n[WhenUse] Com 3+ de [SapsareeYammi], todas as Moedas desta Habilidade viram [SuperCoin]\n[WhenUse] Com 5+ de [SapsareeYammi], Peso de Ataque +2\n[WhenUse] Consome todo o [SapsareeYammi] em si",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 10 de dano de PS"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [SapsareeSpices]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Espera na Praça de Alimentação",
+                    "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Recebe 1 de [SapsareeShield]</u></b></mark></color>\n[WhenUse] Recebe Escudo igual a (Potência de [Laceration] do alvo x 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 147505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Não quero ser cozinhada.",
+                    "desc": "Habilidade exclusiva de [SupportProtect]\n[DefeatDuel] Recebe 5 de [Vulnerable]\n<color=#ff6000><mark=#ff000040><b><u>[EndSkillAll] Se esta unidade estiver viva, a Sous-chef usa 'Tô pegando os ingredientes, tá ouvindo?' nela</u></b></mark></color>\n(Não aciona se a Sous-chef estiver Atordoada)",
+                    "flavor": "Hora de a carne cumprir seu papel.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Arroto de Estômago Vazio",
+                    "desc": "[WhenUse] Poder Final +2 para cada 4 de [Laceration] no alvo (máx. 4)\n[WhenUse] Com 3+ tipos de efeitos em si, todas as Moedas desta Habilidade viram [SuperCoin]\n[WhenUse] Com 5+ tipos de efeitos em si, Peso de Ataque +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Causa 10 de dano de PS"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enrolação",
+                    "desc": "[WhenUse] Recebe Escudo igual a (Potência de [Laceration] do alvo x 5)",
+                    "flavor": "Quando não têm o que fazer, os Kaki costumam só ficar parados, aéreos.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Anúncio aos Clientes",
+                    "desc": "Em Embate contra Habilidades de Defesa embatíveis, Poder de Embate +20\nEsta Habilidade não aciona a Habilidade de Defesa do alvo\nO dano desta Habilidade é sempre 0\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Inflige 10 de [Wariness] no alvo</u></b></mark></color>",
+                    "flavor": "Ouça… Ouça a Voz….",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Remove todo o [Wariness] do alvo e concede 1 de [ReliefSense] (uma vez por turno por Pecador)</u></b></mark></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Anúncio de Advertência",
+                    "desc": "[CantChangeTarget]\n- Pecadores com o mesmo Acúmulo de [Wariness] do Pecador designado podem redirecionar esta Habilidade independentemente da Velocidade\nPrioriza o alvo com mais [Wariness]\nEsta Habilidade não aciona a Habilidade de Defesa do alvo\n[EndSkill] Consome todo o [Wariness] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Causa dano de PS igual a (PS do alvo + 45) e inflige 1 de [HorribleTerror] no próximo turno</u></b></mark></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Obrigado… por ouvir…",
+                    "desc": "[CantChangeTarget]\n- Pecadores com o mesmo Acúmulo de [ReliefSense] do Pecador designado podem redirecionar esta Habilidade independentemente da Velocidade\nPrioriza o alvo com mais [ReliefSense]\n[DefeatDuel] Recebe +150% de dano da Habilidade que Embateu com esta\n[EndSkill] Remove todo o [ReliefSense] do alvo",
+                    "flavor": "Há vários tipos de fascínio. Os resultados diferem, e os processos também. Mas o estado de fascínio é o mesmo: a mente se abre e fica vulnerável.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Investida",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de ([Vibration] + [Sinking]) no alvo (máx. 3)\n[WhenUse] Com 50% ou menos de PV, aplica os seguintes efeitos:\n- Esta Habilidade inflige +2 de Potência e Contagem de [Vibration]\n- A última Moeda vira [SuperCoin] e, ao acertar, aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Investida Esmagadora",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de ([Vibration] + [Sinking]) no alvo (máx. 3)\n[WhenUse] Com 50% ou menos de PV, aplica os seguintes efeitos:\n- Esta Habilidade inflige +2 de Potência e Contagem de [Vibration]\n- A segunda e a terceira Moedas viram [SuperCoin] e, ao acertar com a segunda, aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148106,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Estrondo no Andar",
+                    "desc": "[CantChangeTarget]\nPrioriza alvos em Pânico\nPecadores com [ReliefSense] podem redirecionar esta Habilidade\n[WhenUse] Se o alvo não tiver [ReliefSense], Peso de Ataque +2\n[WhenUse] Poder Final +1 para cada 4 de ([Vibration] + [Sinking]) no alvo principal (máx. 4)\n[DefeatDuel] Aplica os seguintes efeitos:\n- Causa -50% de dano\n- O dano desta Habilidade não Atordoa o alvo e, ao acertar, não aciona o efeito de [Sinking] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige [Sinking] igual a [UnresolvedFeelings] (máx. 15)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148107,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "BUM! BUM! BUUUM!",
+                    "desc": "É possível Embater esta Habilidade independentemente da Velocidade\n[StartBattle] Recebe 100 de Escudo\n- Recebe +4 de Escudo para cada 1% de PV perdido (máx. 200)\n- Se o Escudo não for quebrado antes do ataque, Reutiliza a última Moeda uma vez para cada 100 de Escudo restante (máx. 2 vezes)\n[WhenUse] Poder Final +1 e Poder de Moeda +1 para cada 6 de ([Vibration] + [Sinking]) no alvo principal (máx. 4 cada)\n[DefeatDuel] Aplica os seguintes efeitos:\n- Causa -75% de dano\n- O dano desta Habilidade não Atordoa o alvo e, ao acertar, não aciona o efeito de [Sinking] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige [Sinking] igual a ([UnresolvedFeelings]/3) (máx. 10)"
+                                },
+                                {
+                                    "desc": "[ReUseOnSucceedAttack] Se o alvo não tiver [ReliefSense], inflige 1 de [Wariness]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148108,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Estrondo no Andar",
+                    "desc": "[CantChangeTarget]\nPrioriza alvos em Pânico\nPecadores com [ReliefSense] podem redirecionar esta Habilidade\nEsta Habilidade não aciona a Habilidade de Defesa do alvo\nÉ possível Embater esta Habilidade independentemente da Velocidade\n[WhenUse] Peso de Ataque +3\n- Para cada 1 de [ReliefSense] no alvo principal, o Peso de Ataque adicional diminui em 1\n[WhenUse] Aplica os seguintes efeitos:\n- Poder Final +1 para cada 4 de ([Vibration] + [Sinking]) no alvo principal (máx. 4)\n- Poder de Embate +1 para cada 3 de [Wariness] no alvo principal (máx. 3)\n- Causa +([Wariness] do alvo x 10)% de dano (máx. 100%, calculado por alvo)\n[DefeatDuel] Aplica os seguintes efeitos:\n- Causa -50% de dano\n- O dano desta Habilidade não Atordoa o alvo e, ao acertar, não aciona o efeito de [Sinking] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contagem de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige [Sinking] igual a [UnresolvedFeelings] (máx. 15)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige [Sinking] igual a [UnresolvedFeelings] (máx. 15)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148109,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "BUM! BUM! BUUUM! CABRUUUM!!!",
+                    "desc": "Esta Habilidade não aciona a Habilidade de Defesa do alvo\nÉ possível Embater esta Habilidade independentemente da Velocidade\n[StartBattle] Recebe 100 de Escudo\n- Recebe +4 de Escudo para cada 1% de PV perdido (máx. 400)\n- Se o Escudo não for quebrado antes do ataque, Reutiliza a última Moeda uma vez para cada 100 de Escudo restante (máx. 3 vezes)\n[WhenUse] Aplica os seguintes efeitos:\n- Poder Final +1 e Poder de Moeda +1 para cada 6 de ([Vibration] + [Sinking]) no alvo principal (máx. 4 cada)\n- Poder de Embate +1 para cada 2 de [Wariness] no alvo principal (máx. 5)\n- Causa +([Wariness] do alvo x 10)% de dano (máx. 100%, calculado por alvo)\n[DefeatDuel] Aplica os seguintes efeitos:\n- Causa -75% de dano\n- O dano desta Habilidade não Atordoa o alvo e, ao acertar, não aciona o efeito de [Sinking] do alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [Sinking] igual a ([UnresolvedFeelings]/2) (máx. 15)"
+                                },
+                                {
+                                    "desc": "[ReUseOnSucceedAttack] Se o alvo não tiver [ReliefSense], inflige 1 de [Wariness]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Estou ouvindo! Eu ouço!",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pude trocar de roupa mais uma vez!",
+                    "desc": "[WhenUse] Recebe +5 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeRouge]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Minha fé não foi em vão!",
+                    "desc": "[WhenUse] Causa +10% de dano para cada [ChargeRouge] em si (máx. 50%)\n[WhenUse] Consome 5 Contagem de [ChargeRouge] para Poder Final +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Raspa! Arranca! Descasca!",
+                    "desc": "[StartBattle] Se o PV atual for menor que 50% do PV máx., todas as Moedas desta Habilidade viram [SuperCoin]\n[WhenUse] Causa +10% de dano para cada [ChargeRouge] em si (máx. 50%)\n[WhenUse] Causa +3% de dano para cada Contagem de [ChargeRouge] em si (máx. 60%)\n\n[BeforeAttack] Poder Base -2 para cada Moeda quebrada",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Este mundo tinha um sentido, afinal!",
+                    "desc": "[StartBattle] Esta Habilidade causa -10% de dano para cada alvo com Habilidade de Defesa equipada\n[StartBattle] Recebe 1 de [DefenseDown] no próximo turno para cada alvo com Habilidade de Ataque equipada\n\n[BeforeAttack] Poder Base -1 para cada Moeda quebrada",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "A Voz está comigo, tenho certeza!",
+                    "desc": "[OnDirectAttack] Esta Habilidade causa -80% de dano",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[DefeatDuelAttack] Cura PV igual ao dano final desta Habilidade"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 146607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mais eu mesma… Mais uma vez, eu mesma…!",
+                    "desc": "[DuelCounter]\nHabilidade exclusiva de [RougeThreeCocoon]\n\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Com 10+ de [RougeThreeCocoonHit] em si, Reutiliza esta Moeda (uma vez por Habilidade)</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Com 20+ de [RougeThreeCocoonHit] em si, Reutiliza esta Moeda (uma vez por Habilidade)</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[ReUseOnSucceedAttack] Recebe +1 Contagem de [ChargeRouge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Toc-toc",
+                    "desc": "[WhenUse]\n- Poder Final +1 para cada 4 de [Vibration] no alvo (máx. 3)\n- Com 8+ Contagem de [ChargeNoir] em si, Poder de Moeda +1\n[WhenUse] Com menos de 15 Contagem de [ChargeNoir] em si, recebe +2 Contagem de [ChargeNoir]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Toc-toc, tum!",
+                    "desc": "[WhenUse]\n- Poder Final +1 para cada 4 de [Vibration] no alvo (máx. 3)\n- Com 8+ Contagem de [ChargeNoir] em si, Poder de Moeda +1\n[WhenUse]\n- Recebe +3 Contagem de [ChargeNoir]\n- Com 3+ de [ChargeNoir] em si, a última Moeda vira [SuperCoin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] e +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +3 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeNoir]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Com 15+ Contagem de [ChargeNoir] em si, consome 3 Contagem de [ChargeNoir] para acionar [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corta, por favor! Eu imploro!",
+                    "desc": "É possível Embater esta Habilidade independentemente da Velocidade\n[WhenUse]\n- Com 10+ Contagem de [ChargeNoir] em si, consome 10 Contagem de [ChargeNoir] para Poder Base +1 e Poder de Moeda +1\n- Com menos de 10 Contagem de [ChargeNoir] em si, recebe +5 Contagem de [ChargeNoir]\n- Com 3+ de [ChargeNoir] em si, todas as Moedas desta Habilidade viram [SuperCoin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se esta Habilidade consumiu Contagem de [ChargeNoir], aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Esse toc-toc, que som horrível…",
+                    "desc": "[WideAreaRampage]\nCausa +3% de dano para cada [ChargeNoir] em si (máx. 15%)\nA cada acerto desta Habilidade, aciona [VibrationExplosion] no alvo; depois, -1 Contagem de [Vibration] no alvo\n[StartBattle] Recebe [NoirBindArmor] igual a ([ChargeNoir] em si - 2) (máx. 3)\n[WhenUse]\n- Inflige 3 de [Vibration] e +3 Contagem de [Vibration] em todos os alvos\n- Com 10+ Contagem de [ChargeNoir] em si, consome 10 Contagem de [ChargeNoir] para Poder Base +2 e Poder de Moeda +2\n[DefeatDuel]\n- Causa -50% de dano\n- O dano e os efeitos desta Habilidade não Atordoam o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Coisa imunda!",
+                    "desc": "[WhenUse] Com 50+ de [NoirSuit], recebe 1 de Aumento de Nível Defensivo\n[WhenUse] Se tiver [Realisation]:\n- Causa +(Potência de [ChargeNoir] em si x 8)% de dano (máx. 40%)\n- Consome 4 de [Realisation]\n[WhenUse] Com 12+ Contagem de [ChargeNoir] em si,\nconsome 2 Contagem de [ChargeNoir] para Poder de Embate +1\n[WhenUse] Com menos de 10 Contagem de [ChargeNoir] em si, recebe +2 Contagem de [ChargeNoir]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vibration] e +1 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Não tem vergonha de ter mais de uma perna?",
+                    "desc": "[WhenUse] Se tiver [NoirSuit],\nrecebe 1 de [DefenseUp] para cada 40 de Acúmulo (máx. 2)\n[WhenUse] Se tiver [Realisation]:\n- Causa +(Potência de [ChargeNoir] em si x 6)% de dano (máx. 30%)\n- Consome 6 de [Realisation]\n[WhenUse] Com 12+ Contagem de [ChargeNoir] em si,\nconsome 2 Contagem de [ChargeNoir] para Poder Final +1\n[WhenUse] Com menos de 15 Contagem de [ChargeNoir] em si, recebe +3 Contagem de [ChargeNoir]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Vibration] e +2 Contagem de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +2 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Recebe +1 Contagem de [ChargeNoir]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Com 3+ de Potência de [ChargeNoir], aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Por misericórdia, vou arrancar essa uma.",
+                    "flavor": "Não fica curioso pra saber como este aqui reagiria se um dia encontrasse o Gerente de Marca da Le Noir?",
+                    "desc": "É possível Embater esta Habilidade independentemente da Velocidade\n[WhenUse] Se tiver [NoirSuit], Poder de Embate +1 para cada 30 de Acúmulo (máx. 3)\n[WhenUse] Se tiver [Realisation], causa +1% de dano para cada 2 de Acúmulo (máx. 50%)\n[WhenUse]\n- Com 10+ Contagem de [ChargeNoir] em si, consome 10 Contagem de [ChargeNoir] para Poder de Moeda +2\n- Com menos de 10 Contagem de [ChargeNoir] em si, recebe +5 Contagem de [ChargeNoir]\n[DefeatDuel]\n- Causa -50% de dano\n- Sofre dano de Atordoamento igual ao próprio Acúmulo de [DefenseUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de Vibração"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de Vibração"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Se esta Habilidade consumiu Contagem de [ChargeNoir], aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Um Chute",
+                    "desc": "[WhenUse] Se tiver [NoirSuit]:\n- Causa +1% de dano para cada 3 de Acúmulo (máx. 30%)\n- Recebe 1 de [DefenseUp] para cada 15 de Acúmulo (máx. 5)\n[WhenUse] Com 10+ Contagem de [ChargeNoir] em si,\nconsome 10 Contagem de [ChargeNoir] para Poder de Moeda +2\n- Com 50% ou menos de PV, consome adicionalmente até 10 Contagem de [ChargeNoir] restante e causa +(Contagem de [ChargeNoir] consumida adicionalmente x 2,5)% de dano (máx. 25%)\n[WhenUse] Com 3+/5+ de Potência de [ChargeNoir] em si, Poder de Moeda +1/+2\n[DefeatDuel]\n- Causa -75% de dano\n- O dano e os efeitos desta Habilidade não Atordoam o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Causa +5% de dano para cada 1 de [DefenseUp] em si (máx. 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Com 3+/5+ de Potência de [ChargeNoir] em si, aciona [VibrationExplosion] 1/2 vez(es); depois, -1/-2 Contagem de [Vibration] no alvo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Um Chute - Couture Multiple",
+                    "desc": "[WhenUse] Se tiver [Realisation]:\n- Causa +1% de dano para cada 2 de Acúmulo (máx. 50%)\n- Causa +(Potência de [ChargeNoir] em si x 6)% de dano (máx. 30%)\n- Consome 15 de [Realisation]\n[WhenUse] Com 10+ Contagem de [ChargeNoir] em si,\nconsome 10 Contagem de [ChargeNoir] para Poder Final +2 e Poder de Moeda +1\n[WhenUse] Com 3+/5+ de Potência de [ChargeNoir] em si, Poder de Moeda +1/+2\n[DefeatDuel]\n- Causa -75% de dano\n- O dano e os efeitos desta Habilidade não Atordoam o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aciona [VibrationExplosion]; depois, -1 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Com 3+/5+ de Potência de [ChargeNoir] em si, aciona [VibrationExplosion] 1/2 vez(es); depois, -1/-2 Contagem de [Vibration] no alvo"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa dano Perfurante igual a 20% do dano final desta Moeda"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blá-blá urdume blá",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nhé-nhé trama nhé",
+                    "desc": "[WideAreaRampage]\n\nCausa +5% de dano para cada 1 de [NiddlePin] no alvo (máx. 25%)\n\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pontos! Pontos! Pontos!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No mínimo 20 pontos por polegada!!!",
+                    "desc": "[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [NiddlePin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pontos uniformes demais? Não é pesponto à mão? Reunir!!!",
+                    "desc": "[StartBattle] No próximo turno, invoca 3 Agulhinhas",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 149606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "É pra costurar À MÃO!!!",
+                    "desc": "Prioriza aliados não Atordoados; o dano é sempre 0\nNão aciona a Habilidade de Defesa do alvo\n\n[EndSkill] A Agulhinha alvo aciona uma Habilidade de Ataque aleatória (ignora Atordoamento)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Concede 1 de Aumento de Poder de Ataque neste turno e no próximo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149607,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Duas carreiras de costura fora da lateral? Agulha dupla. Reprovado!",
+                    "desc": "[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Causa +50% de dano para cada Agulhinha em campo\n • Se não houver Agulhinhas em campo, a Habilidade é cancelada</u></b></mark></color>\n\n[EndSkill] Abate todas as Agulhinhas\n • Recebe 1 de [Enhancement] no próximo turno para cada lacaio abatido por este efeito",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Causa +100% de dano a alvos [NiddlePinned]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149608,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Botão sem costura em X? Reprovado!",
+                    "desc": "[DefeatDuel] O alvo perde 2 de [NiddlePin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 1 de [NiddlePin] do alvo para causar 5 de dano fixo"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consome 1 de [NiddlePin] do alvo para causar 5 de dano fixo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149609,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cravou o pesponto de propósito pra aparecer?! Então eu cravo em você!",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Inflige 2 de [NiddlePinned] em alvos com 5+ de [NiddlePin]</u></b></mark></color>"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149610,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Só… come logo!!!",
+                    "desc": "Prioriza inimigos [NiddlePinned]\n- Prioriza o alvo com mais Acúmulo de [NiddlePin]\nAlvos com 5+ de [NiddlePin] não podem redirecionar este ataque\n\nCausa +10% de dano para cada 1 de [NiddlePin] no alvo (máx. 50%)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Se o alvo estiver [NiddlePinned], causa dano fixo igual a 99% do PV máx. dele</u></b></mark></color>"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Cura 5% do próprio PV máx."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Argh…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Se o alvo não tiver [Laceration], causa -80% de dano e todas as Moedas desta Habilidade viram [SuperCoin]</u></b></mark></color>\n[WinDuel] Remove 1 efeito positivo aleatório do alvo (exceto Carga e Equilíbrio) e recebe 1 de [Nutrition]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nngh…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Se o alvo não tiver [Laceration], causa -80% de dano e todas as Moedas desta Habilidade viram [SuperCoin]</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove 1 efeito positivo aleatório do alvo (exceto Carga e Equilíbrio) e recebe 1 de [Nutrition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pu… fê…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo principal (máx. 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Se o alvo principal não tiver [Laceration], causa -80% de dano e todas as Moedas desta Habilidade viram [SuperCoin]</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Remove 1 efeito positivo aleatório do alvo (exceto Carga e Equilíbrio) e recebe 1 de [Nutrition]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fri… o…",
+                    "desc": "Prioriza o alvo com menos PV\nCausa +5% de dano para cada 1% de PV perdido do alvo (máx. 250%)\n[WhenUse] Poder Final +2 para cada 4 de [Laceration] no alvo (máx. 4)\n[WhenUse] Se o PV atual do alvo for menor que 50%, Poder Base +3\n[WinDuel] Remove 1 efeito positivo aleatório do alvo (exceto Carga e Equilíbrio) e recebe 2 de [Nutrition]\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dói…! Meu corpo… não obedece…!!!",
+                    "desc": "Prioriza o alvo com menos PV como alvo principal\nCausa +5% de dano para cada 3% de PV perdido do alvo (máx. 50%)\n[WhenUse] Poder Final +2 para cada 4 de [Laceration] no alvo principal (máx. 4)\n[WhenUse] Se o PV atual do alvo principal for menor que 50%, Poder Base +2\n[WinDuel] Remove 1 efeito positivo aleatório do alvo principal (exceto Carga e Equilíbrio) e recebe 2 de [Nutrition]\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148406,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fome… frio… dor…!",
+                    "desc": "Prioriza o alvo com menos PV como alvo principal\nCausa +1% de dano para cada 1% de PV perdido do alvo (máx. 30%)\n[WhenUse] Poder de Moeda +1 para cada 6 de [Laceration] no alvo principal (máx. 2)\n[WhenUse] Se o PV atual do alvo principal for menor que 50%, Poder Base +2\n[WhenUse] Com 10+ Contagem de [ChargeRouge] em si, consome toda a Contagem de [ChargeRouge] para Poder de Moeda +2 e Peso de Ataque +2\n[DefeatDuel] Causa -95% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 6 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aciona [Laceration] no alvo uma vez. O alvo perde 1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aciona [Laceration] no alvo uma vez. O alvo perde 1 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Aciona [Laceration] no alvo uma vez. O alvo perde 1 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148407,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vai… embora…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WinDuel] Recebe +3 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148408,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Fo… me…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo (máx. 2)\n[WinDuel] Recebe +3 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148409,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quero… comer… qualquer coisa…",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo principal (máx. 2)\n[WinDuel] Recebe +3 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148410,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ouço… a Voz…",
+                    "desc": "[WhenUse] Poder de Moeda +1 para cada 6 de [Laceration] no alvo principal (máx. 2)\n[WhenUse] Com menos de 15 Contagem de [ChargeRouge] em si, aumenta até 15 e, para cada 5 de aumento, recebe 1 de [BuffetFailed] no próximo turno\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "flavor": "Há muitas Vozes no Grand Magasin. De quem será esta?",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contagem de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148411,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Não… faz isso…",
+                    "desc": "[CanDuelGuard]\nHabilidade exclusiva de [SupportProtect]\n[WhenUse] Recebe Escudo igual a (Contagem de [ChargeRouge] em si x 10)\n[WinDuel] Recebe +3 Contagem de [ChargeRouge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148412,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Que… ro… fazer",
+                    "desc": "Com 6+ de [Laceration] em si, Poder de Moeda +1\n[WhenUse] Poder Final +2 para cada 4 de [Laceration] no alvo principal (máx. 4)\n[DefeatDuel] Perde 2 Contagem de [ChargeRouge]\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contagem de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 148413,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "O que… eu sou…?",
+                    "desc": "[WhenUse] Poder Final +1 para cada 4 de [Laceration] no alvo principal (máx. 3)\n[WhenUse] Com 10+ Contagem de [ChargeRouge] em si, consome 10 Contagem de [ChargeRouge] para Poder de Moeda +2\n[DefeatDuel] Causa -80% de dano e o dano desta Habilidade não Atordoa o alvo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 4 de [Binding] no próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 149701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aceno Lânguido",
+                    "desc": "",
+                    "flavor": "…Segura minha mão",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 1 de [BloodyMucus]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

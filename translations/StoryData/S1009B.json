@@ -1,0 +1,114 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Ateliê de Costura, 3º andar",
+            "content": "Por toda parte pendiam novelos de linha e retalhos de tecido recortado, e bem no meio alguém subia e descia os braços num ritmo regular, remendando alguma coisa."
+        },
+        {
+            "id": 1,
+            "model": "싱클레어",
+            "content": "Ah… olá."
+        },
+        {
+            "id": 2,
+            "model": "3층가위",
+            "teller": "???",
+            "title": "???",
+            "content": "…A linha do ombro caiu um pouco, e a manga está um palmo curta. Sim, um estrangeiro com muita coisa para consertar. O que você veio ajustar?"
+        },
+        {
+            "id": 3,
+            "model": "싱클레어",
+            "content": "Não trouxemos nada para consertar, na verdade. Só seguimos o som de tesoura que vinha daqui."
+        },
+        {
+            "id": 4,
+            "model": "3층가위",
+            "teller": "???",
+            "title": "???",
+            "content": "Então vieram atrás do som de algo sendo cortado. Se não há nada para remendar, não teriam motivo para me procurar…"
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "…Quem é você?"
+        },
+        {
+            "id": 6,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Eu sou Annette, a costureira Annette. E vocês… nem preciso perguntar, são estrangeiros."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "…Esta também nos chama de estrangeiros."
+        },
+        {
+            "id": 8,
+            "model": "단테",
+            "content": "<Hum… será que ela é diferente dos outros funcionários da loja?>"
+        },
+        {
+            "id": 9,
+            "model": "뫼르소",
+            "content": "Estamos comprando roupas para subir de nível. Gostaria de saber se aqui também há roupas à venda."
+        },
+        {
+            "id": 10,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Aqui não é como as outras lojas, que vendem roupas vistosas. Não é um lugar para exibir peças prontas."
+        },
+        {
+            "id": 11,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Eu só remendo o tecido em silêncio e dou os ajustes."
+        },
+        {
+            "id": 12,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Mas tenho algo que pode ser útil para vocês. Que tal um tecido grosso e resistente, que quase não desfia?"
+        },
+        {
+            "id": 13,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Para proteger o corpo, é melhor que essas roupas justas. O que gruda no corpo é agressivo, mas difícil de manejar, e não serve para a defesa."
+        },
+        {
+            "id": 14,
+            "model": "단테",
+            "content": "<O tecido até que não é ruim… mas tem pouca coisa… E por que aquela tesoura é tão cara?>"
+        },
+        {
+            "id": 15,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Quando precisarem de um remendo, venham a mim. Não existe nesta loja um tecido que meus dedos não consigam tecer."
+        },
+        {
+            "id": 16,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Claro… agora preciso cuidar primeiro do pedido enorme de tecido que os Noir fizeram."
+        },
+        {
+            "id": 17,
+            "model": "3층가위",
+            "teller": "Annette",
+            "title": "Costureira",
+            "content": "Mas um pedidinho de vocês eu consigo atender nas horas vagas."
+        }
+    ]
+}

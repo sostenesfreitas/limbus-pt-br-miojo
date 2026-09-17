@@ -1,0 +1,543 @@
+﻿{
+    "dataList": [
+        {
+            "key": "I104002",
+            "displayName": "Roupa do Armário Feliz",
+            "description": "Roupa cedida pelo Armário Feliz. Vamos vesti-la na Luminária Curvada."
+        },
+        {
+            "key": "I104003",
+            "displayName": "Pedaço de Papel",
+            "description": "Pedaço de papel encontrado nos restos do Armário Feliz. Está escrito \"felicidade\". Estruturalmente não servia para nada, mas ajudava o Armário Feliz a continuar existindo."
+        },
+        {
+            "key": "I1201",
+            "displayName": "Fita Cassete",
+            "description": "A velha Voz que o Deus Vermelho recitava outrora se repete. A Voz que os Rouge ouviam. Alguém de fé mais firme conseguiria ouvir uma história mais profunda."
+        },
+        {
+            "key": "I1206",
+            "displayName": "Tesoura de Costura Bem Afiada",
+            "description": "A tesoura divide a existência pela união dos opostos."
+        },
+        {
+            "key": "I1207",
+            "displayName": "Certificado de Avaliação Le Noir",
+            "description": "Atesta-se que o presente cliente, como excelente cliente da Le Noir, empenhou-se na preservação do valor da marca."
+        },
+        {
+            "key": "I1208",
+            "displayName": "Fio Preto e Vermelho",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +1\n\n<color=#fe4b48>Attack Speed</color> +10% in the Symbolic\n\n<color=#F8C200>Movement Speed</color> +5% in the Symbolic\n\nAgainst Le Noir Sales Associate [Sunshone] and Le Rouge Sales Associate [Sunshone]-type enemies in the Symbolic:\n- <color=#fe4b48>Damage</color> Taken -1\n- <color=#fe4b48>Damage</color> Dealt +1",
+            "description": "Quando a luz vazou pelas rachaduras e tocou todas as pessoas do Grand Magasin, elas começaram a mudar aos poucos. Tomaram a forma dos valores que perseguiam, a forma dos valores que as marcas que seguiam perseguiam. Quem perdeu a razão nessa mudança passou a ser chamado de Manequim, mas, na essência, não há diferença alguma."
+        },
+        {
+            "key": "I990001",
+            "displayName": "Prego",
+            "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1\nWeakpoint Attack: Triggers when attacking an enemy from behind (excluding certain enemies)",
+            "description": "Um prego. O prego fixa o alvo no lugar. Sem martelo, não se crava. Mas, mesmo sem martelo, quem se joga sobre um prego acaba pregado por conta própria."
+        },
+        {
+            "key": "I990006",
+            "displayName": "Tesoura de Costura Cega",
+            "description": "Você pergunta se a Costureira não deveria ser neutra? A Le Noir gosta de tecido e a Le Rouge gosta de pele. Então, de quem a Costureira precisa mais, e a quem ela estaria mais disposta a entregar a tesoura?"
+        },
+        {
+            "key": "I990101",
+            "displayName": "Cardigã Contemporâneo Le Noir",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +2",
+            "description": "Você se lembra de quando a primeira rachadura surgiu na parede do Grand Magasin?"
+        },
+        {
+            "key": "I990102",
+            "displayName": "Chapéu Contemporâneo Le Noir",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +2",
+            "description": "O Grand Magasin deve ser preservado."
+        },
+        {
+            "key": "I990103",
+            "displayName": "Chapéu de Cavalheiro Contemporâneo Le Noir",
+            "statText": "If no player inputs are made, <color=#00ff9c>heals</color> 1 Symbolic <color=#00ff9c>HP</color> every 5 seconds (3 times)\n- Rest at the Fount to recharge",
+            "description": "As rachaduras cresceram e se multiplicaram. Por quê?"
+        },
+        {
+            "key": "I990104",
+            "displayName": "Moletom com Zíper Casual Le Rouge",
+            "statText": "<color=#fe4b48>Damage</color> Dealt +1 in the Symbolic",
+            "description": "Para onde foi o nosso deus…"
+        },
+        {
+            "key": "I990105",
+            "displayName": "Saia Casual Le Rouge",
+            "statText": "<color=#F8C200>Movement Speed</color> +5% in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "A Voz do Deus Vermelho… já não se ouve mais…"
+        },
+        {
+            "key": "I990106",
+            "displayName": "Zíper Contemporâneo Le Rouge",
+            "statText": "Unlocks <color=#F8C200>Sprint</color> in the Symbolic\n- Sprint: <color=#F8C200>Movement Speed</color> +30%",
+            "description": "A Le Rouge dá valor e significado à vida e à sua pulsação. E espera pela experiência."
+        },
+        {
+            "key": "I990107",
+            "displayName": "Meias Contemporâneas Le Rouge",
+            "statText": "Upon entering battle in the Shadowed, inflicts 2 <color=#F8C200>Bleed</color> Potency and +2 <color=#F8C200>Bleed</color> Count on all enemies\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "Vermelho é sangue, carne e pele."
+        },
+        {
+            "key": "I990108",
+            "displayName": "Prego Enorme e Afiado de 43 cm",
+            "description": "Seres que ouviram a Voz calorosa e viraram Manequins. Entre esses Manequins, os que se aninharam mais fundo na Voz dão um passo além."
+        },
+        {
+            "key": "I990110",
+            "displayName": "Energético",
+            "statText": "In the Symbolic, if 5 seconds have elapsed without attacking after landing a hit on the enemy, <color=#fe4b48>Damage</color> Dealt +3 on the next attack",
+            "description": "No Grand Magasin Sisyphe, não se come por calorias nem por sobrevivência. Ingere-se apenas para preencher o coração faminto."
+        },
+        {
+            "key": "I990303",
+            "displayName": "Tecido do Ateliê de Costura",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +1",
+            "description": "Não sou Le Rouge nem Le Noir; busco um valor neutro. Qualquer marca que queira tecido, negocio de bom grado."
+        },
+        {
+            "key": "I990304",
+            "displayName": "Óculos Escuros da Boutique Le Rouge",
+            "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "A luz ofusca, então ponho os óculos escuros. E olho de novo para o sol. Óculos escuros não servem para não ver a luz do sol, e sim para vê-la melhor."
+        },
+        {
+            "key": "I990305",
+            "displayName": "Camiseta da Boutique Le Rouge",
+            "statText": "In the Symbolic, <color=#F8C200>Movement Speed</color> +5% upon landing an attack\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "Quando o nosso deus silenciou e as rachaduras se abriram mais… alguém voltou a ouvir a Voz."
+        },
+        {
+            "key": "I990306",
+            "displayName": "Jeans da Boutique Le Rouge",
+            "statText": "<color=#fe4b48>Attack Speed</color> +10% in the Symbolic",
+            "description": "A Le Rouge preza o corte justo. Revelar as linhas do corpo é o verdadeiro valor da moda."
+        },
+        {
+            "key": "I990307",
+            "displayName": "Gravata da Maison Le Noir",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +2",
+            "description": "As roupas da Le Noir cobrem o corpo do cliente e corrigem a silhueta. Cobrir o corpo é o verdadeiro valor da moda."
+        },
+        {
+            "key": "I990308",
+            "displayName": "Calça Social da Maison Le Noir",
+            "statText": "In the Symbolic, <color=#F8C200>Invul. Frame</color> +0.05 seconds when hit",
+            "description": "Le Noir ou Le Rouge… começaram a aparecer uns que ouvem a voz de alguém e vão enlouquecendo."
+        },
+        {
+            "key": "I990309",
+            "displayName": "Camisa da Maison Le Noir",
+            "statText": "Upon entering battle in the Shadowed, inflicts 2 <color=#F8C200>Tremor</color> Potency and +2 <color=#F8C200>Tremor</color> Count on all enemies\n\nDuring battle in the Shadowed: When an ally takes a hit, the ally gains +2 <color=#F8C200>Charge</color> Count (5 times per turn)",
+            "description": "O Grand Magasin está cheio de Manequins. Antes de a luz vazar pelas rachaduras, todos tinham dois braços e duas pernas, e as roupas eram feitas para essa forma."
+        },
+        {
+            "key": "I990310",
+            "displayName": "Gaiola",
+            "statText": "In the Symbolic, 20% chance of <color=#fe4b48>Damage</color> Taken -20% when hit (rounded down)\n\nUpon entering battle in the Shadowed, all Sinners gain +4 <color=#F8C200>Charge</color> Count",
+            "description": "Só com uma gaiola é que nasce a liberdaaaade. Onde não há gaiola, nem o sentido de liberdade pode existiiiir…"
+        },
+        {
+            "key": "I990312",
+            "displayName": "Prego Dourado",
+            "description": "Prego dourado feito ao envolver a mais primitiva das vértebras com o material mais nobre da civilização. Esta agulha atravessa qualquer fronteira, do mais baixo ao mais alto. E rasga."
+        },
+        {
+            "key": "I990401",
+            "displayName": "Sapato Boneca Le Noir",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +3",
+            "description": "No Grand Magasin Sisyphe, os nomes desbotam. Só restam os nomes dos produtos e das marcas. Por isso é preciso vestir ainda mais camadas."
+        },
+        {
+            "key": "I990402",
+            "displayName": "Bota Jodhpur Le Noir",
+            "statText": "<color=#F8C200>Hitstun</color> +0.1 seconds for attacks in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +2",
+            "description": "Me fixe. Me aperte. Dê forma a este eu instável. Ofereço a minha liberdade."
+        },
+        {
+            "key": "I990403",
+            "displayName": "Fôrma Conservadora Le Noir",
+            "statText": "In the Symbolic, upon taking <color=#fe4b48>Damage</color> that would result in death, <color=#00ff9c>survive with 1 HP</color> (once)\n- Rest at the Fount to recharge\n- Excluding certain damages such as Instant Death",
+            "description": "O mundo não deve mudar. O mundo tem que ficar assim, nesse mesmo lugar. Para sempre."
+        },
+        {
+            "key": "I990404",
+            "displayName": "Sapatilha Le Rouge",
+            "statText": "In the Symbolic, <color=#F8C200>Movement Speed</color> +30% upon killing an enemy\n\nSymbolic <color=#00ff9c>HP</color> +3",
+            "description": "Há muitas roupas, mas a mais importante é o sapato. O sapato é a primeira roupa a tocar o mundo."
+        },
+        {
+            "key": "I990405",
+            "displayName": "Bota Chelsea Le Rouge",
+            "statText": "Unlocks <color=#F8C200>Avant</color> in the Symbolic\n- Avant: Press the Attack button once more after the last Attack to activate <color=#F8C200>Avant</color>\n- Upon activating Avant, performs a wide front sweep to <color=#F8C200>Knockback</color> enemies hit\n- When activated during <color=#F8C200>Garde</color>, <color=#F8C200>Attack Range</color> and <color=#F8C200>Knockback Distance</color> increase based on Garde level",
+            "description": "O sapato precisa respirar. Não pode ficar só fechado, como os sapatos da Le Noir. É preciso que o sapato seja flexível e respire para eu conseguir ficar de pé neste chão. Senão, eu só fico pousada em cima dele, separada."
+        },
+        {
+            "key": "I990406",
+            "displayName": "Poltrona Reclinável",
+            "statText": "<color=#00ff9c>Heals</color> 1 Symbolic <color=#00ff9c>HP</color> every 15 seconds since last taking <color=#fe4b48>Damage</color> (max 4)\n- Rest at the Fount to recharge",
+            "description": "A que você acha que o móvel pertence: comida, roupa ou moradia? É algo em que se habita? Ou algo que se veste, como uma roupa?\nNenhum dos dois. O móvel é a ponte que liga a roupa à casa."
+        },
+        {
+            "key": "I990407",
+            "displayName": "Colchão",
+            "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Taken -1 when hit while standing still (min 1)\n\nSymbolic <color=#00ff9c>HP</color> +2",
+            "description": "No Grand Magasin Sisyphe, os clientes e atendentes que quiseram parar de pensar viraram móveis. Um dia as rachaduras cresceram e, quando a luz intensa vazou pelas frestas e sussurrou, os móveis foram forçados a acordar e a se mover."
+        },
+        {
+            "key": "I990408",
+            "displayName": "Mesa de Madeira Maciça",
+            "statText": "In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
+            "description": "Um zé-ninguém da Le Rouge me perguntou por que a gente senta na cadeira e come com a comida em cima da mesa. Passar por todo esse ritual em vez de comer no chão serve, é claro, para comer melhor. Quanto mais paciência e esforço custa uma coisa, mais doce e valiosa ela é. Então, quanto mais desconfortáveis a mesa e a cadeira, mais civilizado é quem come, não acha?"
+        },
+        {
+            "key": "I990409",
+            "displayName": "Língua",
+            "description": "Órgão que permitia ao Armário Feliz sentir sabores."
+        },
+        {
+            "key": "I990410",
+            "displayName": "Feixe de Ossos",
+            "description": "Ossos que permitiam ao Armário Feliz se sustentar."
+        },
+        {
+            "key": "I990411",
+            "displayName": "Canela",
+            "description": "Objeto que ajudava o Armário Feliz a dar passos."
+        },
+        {
+            "key": "I990412",
+            "displayName": "Tripas Emaranhadas",
+            "description": "Órgão que permitia ao Armário Feliz digerir a comida."
+        },
+        {
+            "key": "I990413",
+            "displayName": "Um Olho",
+            "description": "Órgão que permitia ao Armário Feliz ver a beleza do mundo."
+        },
+        {
+            "key": "I990414",
+            "displayName": "Dois Olhos",
+            "description": "Órgãos que permitiam ao Armário Feliz ver a feiura do mundo."
+        },
+        {
+            "key": "I990415",
+            "displayName": "Pele do Rosto",
+            "description": "Aquilo que permitia ao Armário Feliz mostrar as emoções em expressões."
+        },
+        {
+            "key": "I990416",
+            "displayName": "Rede de Veias",
+            "description": "Mecanismo que ajudava os órgãos, ossos, objetos e vísceras do Armário Feliz a se encaixarem e funcionarem juntos."
+        },
+        {
+            "key": "I990801",
+            "displayName": "Refrigerante",
+            "statText": "If Symbolic <color=#00ff9c>HP</color> drops to 5 or lower, <color=#00ff9c>heals</color> 5 Symbolic <color=#00ff9c>HP</color> (once)\n- Rest at the Fount to recharge",
+            "description": "Houve um ataque no Pavilhão de Luxo! A Le Rouge invadiu de surpresa o Pavilhão de Luxo que a Le Noir ocupava e está fazendo um banquete!"
+        },
+        {
+            "key": "I990802",
+            "displayName": "Canudo",
+            "statText": "In the Symbolic, 10% chance to <color=#00ff9c>heal</color> 1 Symbolic <color=#00ff9c>HP</color> upon landing an attack\n\nSymbolic <color=#00ff9c>HP</color> +2",
+            "description": "Para ingerir, é preciso um caminho daqui até ali. Ingerir é puxar algo do alvo para dentro de mim, e por isso vem acompanhado de prazer."
+        },
+        {
+            "key": "I990803",
+            "displayName": "\"Tá ouvindo?\"",
+            "statText": "In the Symbolic, 30% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack\n- Deals 3 <color=#fe4b48>Damage</color> to 1 random enemy within 4 tiles of the enemy hit",
+            "description": "O que se faz na Praça de Alimentação é um prato saboroso, mas ele deixa de ser uma refeição. Não é problema da comida, e sim da estrutura: onde se come."
+        },
+        {
+            "key": "I990804",
+            "displayName": "Guarda-chuva Dobrável",
+            "statText": "In the Symbolic, upon landing an attack on a destructible projectile, <color=#F8C200>destroys the projectile</color>\n\nSymbolic <color=#00ff9c>HP</color> +2",
+            "description": "Produto principal da Le Kaki. Para a Le Kaki, que penava para criar moda, o guarda-chuva é uma das poucas criações próprias."
+        },
+        {
+            "key": "I990805",
+            "displayName": "Uma Folha de Lenço de Papel",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +1",
+            "description": "Não se sabe o que dá para fazer com uma única folha fina de lenço de papel, mas dizem que em algum lugar existe alguém capaz de resolver o que fez na Fonte só com uma folha."
+        },
+        {
+            "key": "I990806",
+            "displayName": "Botão do Cadáver da Sous-chef",
+            "statText": "In the Symbolic, upon triggering \"You Hear?\" <color=#F8C200>Extra Attack</color>, number of projectile +1\n\nDuring battle in the Shadowed, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and 10 SP for the ally that killed an enemy",
+            "description": "Os estrangeiros querem me matar, tá ouvindo? Dava pra resolver na conversa, mas eles querem me matar, tá ouvindo?!"
+        },
+        {
+            "key": "I990901",
+            "displayName": "Almofada de Alfinetes",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +3",
+            "description": "Para costurar, é preciso uma agulha. E a agulha não é diferente do prego. Costurar é fixar, a agulha serve para isso, e o prego cumpre o mesmo papel."
+        },
+        {
+            "key": "I990902",
+            "displayName": "Prego de Agulhinha",
+            "statText": "Hitstun +0.2 seconds for Attacks in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "As Agulhinhas servem a um rei. O rei quer iguarias e quer espetar sem parar. Porque, ao espetar, dá para estimar o valor do alvo pelos gemidos e pelos gritos. As Agulhinhas espetam seguindo o rei e lambem em silêncio o suco que escorre."
+        },
+        {
+            "key": "I990904",
+            "displayName": "Raspador de Língua",
+            "statText": "In the Symbolic, upon killing an enemy, <color=#fe4b48>Damage</color> Dealt +2 on the next attack",
+            "description": "Antes de vestir a roupa, tem que se lavar. E pra lavar direito tem que esfregar com força, assim, raspando."
+        },
+        {
+            "key": "I990905",
+            "displayName": "Dedal de Naked",
+            "statText": "In the Symbolic, <color=#fe4b48>Damage</color> Taken -2 when hit (10 seconds cooldown)",
+            "description": "Essas agulhas idiotas com certeza enlouqueceram. Se não gostam de algo, espetam sem pensar. Espetam, espetam de novo e, se sai alguma coisa, provam. Ainda bem que tenho um dedal. Andar por aqui sem dedal seria bem complicado."
+        },
+        {
+            "key": "I990906",
+            "displayName": "Paleta",
+            "statText": "When hit in the Symbolic, creates <color=#F8C200>Red-Dyed Tiles</color> within 1 tile of Meursault.\n- Enemies standing on these tiles take 1 <color=#fe4b48>Damage</color> every 2 seconds",
+            "description": "Uma placa com vários tipos de tintura. Sobre ela, misturam-se as tinturas básicas para criar a cor desejada. Para fazer o que se quer, a proporção e a velocidade certas são importantes. O cheiro do pus assim misturado é bem colorido."
+        },
+        {
+            "key": "I990907",
+            "displayName": "Pincel Longo",
+            "statText": "In the Symbolic, landing <color=#F8C200>Garde</color> on an enemy extends the attack 1 tile behind the enemy hit",
+            "description": "Para misturar lágrimas, é preciso um pincel longo. Se o pincel for curto, o braço afunda nas lágrimas e pode ser sugado. Quem afunda nas lágrimas chora sem parar até a cor sair."
+        },
+        {
+            "key": "I990908",
+            "displayName": "Pincel Grande",
+            "statText": "Unlocks <color=#F8C200>Garde</color> in the Symbolic\n- Hold the Attack button for a set duration, then release to perform a high-damage <color=#F8C200>Garde</color>\n- Garde Charge Time: 2 seconds\n- Garde Damage: Attack <color=#fe4b48>Damage</color> +1 in the Symbolic\n- <color=#F8C200>Movement Speed</color> is reduced to 50% during Garde",
+            "description": "Para pintar lágrimas de várias cores, é preciso um pincel grande. Se o pincel não for grande o bastante, são necessárias muitas pinceladas. Mas é melhor pincelar o mínimo possível. A cada pincelada as lágrimas respingam, o cheiro impregna o corpo e se derramam ainda mais lágrimas. Por alguém que já não consegue chorar nem sentir dor, eu continuo pincelando até hoje."
+        },
+        {
+            "key": "I990909",
+            "displayName": "Duas Folhas de Lenço de Papel",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +3",
+            "description": "Neste andar, o lenço de papel é usado por dois motivos: para ser perfurado ou para absorver lágrimas. Ele é fino, fácil de furar, e cheio de poros, capaz de absorver muito pus."
+        },
+        {
+            "key": "I990910",
+            "displayName": "Suco",
+            "statText": "In the Symbolic, changes the <color=#F8C200>Movement Speed</color> reduction during <color=#F8C200>Garde</color> to 25%\n\nSymbolic <color=#00ff9c>HP</color> +1",
+            "description": "Tudo o que sai quando se espeta é suco. É só beber. Espeta-se a lágrima acumulada, estoura-se e bebe-se. Ou pode-se espetar alguém e fazê-lo derramar lágrimas como pus. O sabor segue o gosto da tristeza."
+        },
+        {
+            "key": "I990911",
+            "displayName": "Escova de Dentes do Rei da Costura",
+            "statText": "In the Symbolic, triggers an <color=#F8C200>Extra Attack</color> every 1 second against enemies pursuing Meursault\n- Deals 2 <color=#fe4b48>Damage</color> to 1 random pursuing enemy within 5 tiles\n- Does not target enemies that are patrolling or fleeing\n- Does not trigger while <color=#F8C200>Sprinting</color>\n",
+            "description": "Uma escova de dentes com pregos finos cravados bem juntos. Esses pregos varrem a carne, raspam e furam o que está cravado e fazem o que há dentro escorrer. E o rei prova."
+        },
+        {
+            "key": "I992701",
+            "displayName": "Azul do Meio-dia",
+            "description": "Ao meio-dia o sol chega ao ponto mais alto. O sol mais alto faz a sombra mais curta. Quando a sombra encurta tanto que deixa de ser vista, a luz do sol é azul."
+        },
+        {
+            "key": "I992702",
+            "displayName": "Reflexão da Presa",
+            "description": "Com este prato, é possível viver a experiência de quem já foi completamente devorado. Ao prová-lo, morre-se, pois foi devorado."
+        },
+        {
+            "key": "I992704",
+            "displayName": "Casulo Dourado",
+            "statText": "Unlocks <color=#F8C200>Lantern</color> in the Symbolic\n- Press the Lantern button (F on keyboard) to toggle the <color=#F8C200>Lantern</color> that illuminates the direction the character is facing",
+            "description": "O casulo geme como se chamasse alguém. De um passado que já não existe, a criança foi arrastada até a praia, escorreu até a Praça de Alimentação e agora virou este prato."
+        },
+        {
+            "key": "I990934",
+            "displayName": "Avental Sujo",
+            "statText": "In the Symbolic, changes the HP threshold for displaying enemy HP bars to 100%\n- While owned, enemy HP bars are displayed from the first hit onward",
+            "description": "Ao que não se vê, cobre-se de cor para traçar o contorno. Depois de borrifar cor em tantas coisas para lhes medir o contorno, o próprio corpo acaba manchado."
+        },
+        {
+            "key": "I992806",
+            "displayName": "Tintura do Mar Profundo",
+            "description": "Às vezes há uma lágrima que incha, içada de um lugar muito profundo. Depois de mexer e refinar o fedor podre e as manchas negras borbulhantes… a lágrima recupera uma cor mais que transparente. A tintura do mar profundo é feita com as lágrimas desses seres antigos."
+        },
+        {
+            "key": "I992807",
+            "displayName": "Tintura Dourada",
+            "description": "Mistura-se ao pus o suco extraído da Resina Dourada. O significado e o valor do ouro são tão elevados que tornam dourada qualquer tintura. Difícil mesmo é conseguir o suco."
+        },
+        {
+            "key": "I992808",
+            "displayName": "Novelo Dourado",
+            "description": "Enrola-se o fio para transportá-lo. O fio precisa girar e girar, tanto ao ser feito quanto ao ser levado."
+        },
+        {
+            "key": "I993002",
+            "displayName": "Lágrimas Amarelas",
+            "description": "Sobem lágrimas que parecem pus amarelo."
+        },
+        {
+            "key": "I993003",
+            "displayName": "Lágrimas Vermelhas",
+            "description": "As lágrimas vermelhas acumuladas estouram como pus."
+        },
+        {
+            "key": "I993004",
+            "displayName": "Lágrimas Azuis",
+            "description": "A tintura azul cheira a pus."
+        },
+        {
+            "key": "I990925",
+            "displayName": "Serragem",
+            "statText": "<color=#F8C200>Hitstun</color> +0.2 seconds for Attacks in the Symbolic",
+            "description": "Que sentido há em procurar no escuro migalhas com significado? Encontra-se o significado nas migalhas, ou é o procurar que acaba lhes dando significado?"
+        },
+        {
+            "key": "I990924",
+            "displayName": "Tintura Azul-celeste",
+            "statText": "During battle in the Shadowed:\nAfter winning an Encounter, <color=#00ff9c>heal</color> 10% Symbolic <color=#00ff9c>HP</color>",
+            "description": "No Grand Magasin Sisyphe ninguém consegue ver o céu, então não é engraçado chamarem esta tintura de azul-celeste? O céu de verdade muda de cor conforme a hora, o tempo ou o coração de quem olha."
+        },
+        {
+            "key": "I990923",
+            "displayName": "Fio",
+            "statText": "In the Symbolic, for 5 seconds upon landing an attack:\n- Target's <color=#F8C200>Movement Speed</color> -10%\n- Target's <color=#fe4b48>Damage</color> Dealt -2 \n\n(15 second cooldown)",
+            "description": "Fio fiado a partir de Meursault, puxado bem fino e torcido. A cor é familiar."
+        },
+        {
+            "key": "I990922",
+            "displayName": "\"Pahaha\"",
+            "statText": "During battle in the Shadowed:\nAllies deal +5% <color=#fe4b48>damage</color> against Sisyphe enemies",
+            "description": "Do que você acha que são feitas as paredes do Grand Magasin Sisyphe?"
+        },
+        {
+            "key": "I990815",
+            "displayName": "Restos de Comida",
+            "statText": "During battle in the Shadowed:\nTurn Start: Ally that has lower than 50% <color=#00ff9c>HP</color> gains 1 <color=#00ff9c>HP Healing</color> Boost (4 times per Encounter)",
+            "description": "Sabe qual é a fronteira que define um resto? Basta dar uma mordida e jogar fora que a comida vira resto, e tem quem trate esse resto como ingrediente raro e coma com gosto. Por isso, o que conta como resto é uma questão muito importante na Praça de Alimentação… e, agora, tudo o que não é Le Noir é resto."
+        },
+        {
+            "key": "I990814",
+            "displayName": "Pedaço de Mapa",
+            "statText": "Upon entering battle in the Shadowed, gain 1 <color=#F8C200>E.G.O Resource Amp</color> for 1 turn",
+            "description": "Mapa com o caminho do andar que permite invadir até o Pavilhão de Luxo. Mas já foi usado e está ilegível. O sistema Sisyphe se sobrepõe em várias camadas, e é por essa estrutura de muitos níveis que tantos clientes dormem aqui. Este mapa, feito pelos pouquíssimos capazes de analisar essa estrutura, tem valor astronômico. A Le Rouge o obteve."
+        },
+        {
+            "key": "I990320",
+            "displayName": "Tecido Dourado",
+            "description": "Uma roupa feita do material mais valioso e significativo será tão nobre quanto o material?"
+        },
+        {
+            "key": "I990008",
+            "displayName": "Yi Sang",
+            "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, upon landing an attack, target's <color=#fe4b48>Damage</color> Dealt -1 for 5 seconds (10 seconds cooldown)",
+            "description": "Símbolo das asas. Torna-se livre."
+        },
+        {
+            "key": "I990009",
+            "displayName": "Faust",
+            "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +2",
+            "description": "Símbolo do conhecimento. Torna-se astuto."
+        },
+        {
+            "key": "I990010",
+            "displayName": "Don Quixote",
+            "statText": "In the Symbolic, <color=#00ff9c>heals</color> 5% Symbolic <color=#00ff9c>HP</color> upon killing an enemy (10 seconds cooldown)",
+            "description": "Símbolo da ação. Torna-se vigoroso."
+        },
+        {
+            "key": "I990011",
+            "displayName": "Ryōshū",
+            "statText": "In the Symbolic, 20% chance to inflict 1 <color=#F8C200>Fragile Mark</color> upon landing an attack\n(<color=#F8C200>Fragile Mark</color>: <color=#fe4b48>Damage</color> Taken +10%)",
+            "description": "Símbolo do amor e do ódio. <s>Corta.</s>Entrelaça."
+        },
+        {
+            "key": "I990012",
+            "displayName": "Hong Lu",
+            "statText": "Upon entering battle in the Shadowed via Meursault's Attack, all allies on the field <color=#F8C200>heal 5~10 SP</color>",
+            "description": "Símbolo da percepção. Observa."
+        },
+        {
+            "key": "I990013",
+            "displayName": "Heathcliff",
+            "statText": "<color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, Attack <color=#fe4b48>Damage</color> Dealt +2 for 20 seconds upon killing an enemy (30 seconds cooldown)",
+            "description": "Símbolo da tempestade. Lembra-se de !@#!$."
+        },
+        {
+            "key": "I990014",
+            "displayName": "Ishmael",
+            "statText": "In the Symbolic, upon landing an attack, reduce target's <color=#F8C200>Movement Speed</color> by 20% for 10 seconds (13 seconds cooldown)",
+            "description": "Símbolo da aventura. Navega."
+        },
+        {
+            "key": "I990015",
+            "displayName": "Rodion",
+            "statText": "If target has 50%+ Symbolic <color=#00ff9c>HP</color>, Attack <color=#fe4b48>Damage</color> Dealt +1",
+            "description": "Símbolo do herói. Espera."
+        },
+        {
+            "key": "I990016",
+            "displayName": "Sinclair",
+            "statText": "In the Symbolic:\n- <color=#fe4b48>Damage</color> Dealt +2 against enemies in the front\n- <color=#fe4b48>Damage</color> Taken -2 from enemies behind",
+            "description": "Símbolo do despertar. Desperta."
+        },
+        {
+            "key": "I990017",
+            "displayName": "Outis",
+            "statText": "If the target has lower than 50% Symbolic <color=#00ff9c>HP</color>, <color=#fe4b48>Damage</color> Dealt +1",
+            "description": "Símbolo da astúcia. Vagueia."
+        },
+        {
+            "key": "I990018",
+            "displayName": "Gregor",
+            "statText": "At lower than 25% Symbolic HP, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and <color=#fe4b48>Damage</color> Taken -20% for the next 10 seconds (19 seconds cooldown)",
+            "description": "Símbolo da metamorfose. Ingere."
+        },
+        {
+            "key": "I990432",
+            "displayName": "Cordão de Luminária",
+            "statText": "If player did not move for 3 seconds in the Symbolic, <color=#fe4b48>Damage</color> Dealt +2 for the next attack (10 seconds cooldown)",
+            "description": "Puxa-se o cordão e a luz acende. Puxa-se de novo e a luz apaga. Porque está presa ao cordão. É isso que o cordão e o prego têm em comum, e também o que os diferencia."
+        },
+        {
+            "key": "I990117",
+            "displayName": "Roupa Le Rouge Fora de Moda",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +4",
+            "description": "Um prego de temporada passada, cravado no tijolo. Um dia deve ter sido um prego na moda, mas hoje é cafona."
+        },
+        {
+            "key": "I990321",
+            "displayName": "Gravador Velho",
+            "statText": "Upon entering battle in the Shadowed, all allies on the field <color=#F8C200>heal 4 SP</color>",
+            "description": "Do gravador sai a voz gravada. Ela sai, mas continua presa. Até uma Voz pode ser pregada."
+        },
+        {
+            "key": "I990322",
+            "displayName": "Pássaro Morto",
+            "statText": "In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1",
+            "description": "O pássaro que passou a vida cantando para dentro de uma corneta um dia enfiou a cabeça nela e cantou até morrer. O pássaro novo que veio depois foi posto a cantar preso numa gaiola."
+        },
+        {
+            "key": "I990323",
+            "displayName": "Meias",
+            "statText": "Symbolic <color=#00ff9c>HP</color> +4",
+            "description": "É estranho ter que pôr meia para calçar sapato. Já se calça o sapato para proteger o pé, e ainda se enfia outra coisa entre o sapato e o pé.\nNão, mas é aí que está a dignidade da meia. O sapato é do domínio do instinto, procurado porque o pé dói; a meia é do domínio da civilização, procurada pelo conforto."
+        },
+        {
+            "key": "I102023",
+            "displayName": "Espólio da Diretora de Marca",
+            "statText": "When hit in the Symbolic, 10% chance to return 3 <color=#fe4b48>Damage</color> against the attacker",
+            "description": "A Diretora de Marca da Le Rouge. Todo significado e direção que a marca Le Rouge deve ter são definidos sob as ordens da Diretora de Marca. Ela ouvia a Voz do Deus Vermelho melhor do que ninguém. E, louvável, mesmo quando a Voz do Deus Vermelho desapareceu, tentou moldar um novo ser que fizesse a Voz ser ouvida. Embora, na verdade, a ausência do Deus Vermelho fosse um fato que ela poderia ter escondido quanto quisesse."
+        },
+        {
+            "key": "I990919",
+            "displayName": "Repetição",
+            "statText": "Unlocks <color=#F8C200>Auto-attack</color> in the Symbolic.\n\nPress the Auto-attack (T on keyboard) button to toggle ON/OFF. Detects enemies based on character orientation and <color=#F8C200>automatically uses the Basic Attack</color>\n- Detection Range: 4 tiles ahead, 1 tile each left & right\n- Prioritizes other actions such as Move or Block; resumes Auto-attack when other actions are completed\n- Removes post-attack movement delay regardless of toggling\n- Automatically toggled OFF when:\n  - Moving between floors\n  - Entering a battle in the Shadowed",
+            "description": "Repete automaticamente. Apenas executa. Que esta repetição, ao menos, lhe seja conveniente."
+        },
+        {
+            "key": "I1209",
+            "displayName": "Tesoura de Costura Temperada",
+            "statText": "In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies Bleed Count equal to the number of times they were struck by this effect (max 5)",
+            "description": "A Costureira corta o tecido e o une seguindo o molde. Ultimamente o som da tesoura ficou bem mais alto. Parece que veio uma encomenda enorme da Le Noir. Será que vai estourar alguma briga grande?"
+        }
+    ]
+}
