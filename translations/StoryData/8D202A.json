@@ -1,0 +1,390 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção, Subsolo 1",
+            "model": "로쟈",
+            "content": "Opa~ Que sorte grande, hein?"
+        },
+        {
+            "id": 1,
+            "model": "로쟈",
+            "content": "Essas moedas, vou dar bom uso a elas, tá~?"
+        },
+        {
+            "id": 2,
+            "model": "다친사사정",
+            "content": "As… as minhas moedas… pra um sujeito daqueles…"
+        },
+        {
+            "id": 3,
+            "model": "다친사사정",
+            "content": "Eu… desisto! Eu desisto da disputa!"
+        },
+        {
+            "id": 4,
+            "model": "사회자",
+            "content": "Ah~ O candidato da Família Shi acaba de pedir desistência."
+        },
+        {
+            "id": 5,
+            "model": "사회자",
+            "content": "Ah, e a quantidade de moedas que ele tinha na hora da desistência será considerada na classificação final!"
+        },
+        {
+            "id": 6,
+            "model": "로쟈",
+            "content": "Quê? Como assim?! Essa regra não existia!"
+        },
+        {
+            "id": 7,
+            "model": "이스마엘",
+            "content": "Com tantos eliminados, o número pode cair abaixo de dez. Devem precisar de um critério."
+        },
+        {
+            "id": 8,
+            "model": "오티스",
+            "content": "Devíamos tê-lo deixado desacordado. Que sujeitinho esperto."
+        },
+        {
+            "id": 9,
+            "model": "다친사사정",
+            "content": "Pai, me desculpe… eu devia ter feito melhor…"
+        },
+        {
+            "id": 10,
+            "model": "오티스",
+            "content": "Pare de choramingar, que vergonhoso!"
+        },
+        {
+            "id": 11,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 12,
+            "place": "Passado, Prédio da Família Kong",
+            "model": "어린임대옥",
+            "content": "Que vergonha, irmão!"
+        },
+        {
+            "id": 13,
+            "model": "어린임대옥",
+            "content": "Ultimamente você já vivia de cara amarrada, e agora anda com cara de choro o tempo todo!"
+        },
+        {
+            "id": 14,
+            "model": "어린임대옥",
+            "content": "O que foi que aconteceu, afinal?"
+        },
+        {
+            "id": 15,
+            "model": "어린가환",
+            "content": "Eu sei o motivo."
+        },
+        {
+            "id": 16,
+            "model": "어린홍루",
+            "content": "…!"
+        },
+        {
+            "id": 17,
+            "model": "어린홍루",
+            "content": "Como… você sabe?"
+        },
+        {
+            "id": 18,
+            "model": "어린가환",
+            "content": "É porque ontem ele perdeu pra irmã Daiyu na brincadeira de arco e flecha~"
+        },
+        {
+            "id": 19,
+            "model": "어린가환",
+            "content": "Então hoje pega leve com ele, irmã."
+        },
+        {
+            "id": 20,
+            "model": "어린임대옥",
+            "content": "Não~ Nada de pegar leve!"
+        },
+        {
+            "id": 21,
+            "model": "어린홍루",
+            "content": "Eu… eu vou indo. A Vovó deve me chamar logo."
+        },
+        {
+            "id": 22,
+            "model": "어린가환",
+            "content": "……."
+        },
+        {
+            "id": 23,
+            "model": "어린가환",
+            "content": "Que sorte a dele."
+        },
+        {
+            "id": 24,
+            "model": "어린가환",
+            "content": "Se eu fosse o irmão Baoyu, ia achar uma honra enorme poder ver aquele experimento de perto."
+        },
+        {
+            "id": 25,
+            "place": "Passado, Laboratório de Hongyuan",
+            "model": "어린홍루",
+            "content": "Vovó…"
+        },
+        {
+            "id": 26,
+            "model": "어린홍루",
+            "content": "Esse experimento… é mesmo… pra criar um novo Heishou?"
+        },
+        {
+            "id": 27,
+            "model": "과거가모",
+            "content": "Até que enfim você faz uma pergunta que tem sentido."
+        },
+        {
+            "id": 28,
+            "model": "어린홍루",
+            "content": "Eu ouvi dizer… que só o Xianren de cada Heishou conhece a receita do Bólus que cria o seu Heishou… e que nem o Patriarca pode saber."
+        },
+        {
+            "id": 29,
+            "model": "과거가모",
+            "content": "Sim. Desde o início, criar um décimo terceiro Heishou… era impossível."
+        },
+        {
+            "id": 30,
+            "model": "과거가모",
+            "content": "Bastava pensar com um pouco de calma e todos teriam percebido."
+        },
+        {
+            "id": 31,
+            "model": "과거가모",
+            "content": "Mas eles preferiram confiar em mim sem a menor sombra de dúvida. Fui eu quem atraiu a Família Kong, mas o que turvou o julgamento deles foi a ganância que não souberam expulsar do coração."
+        },
+        {
+            "id": 32,
+            "model": "과거가모",
+            "content": "Que tolice. Achar que conseguiriam um novo Heishou por um caminho tão fácil, sem pagar qualquer sacrifício árduo."
+        },
+        {
+            "id": 33,
+            "model": "어린홍루",
+            "content": "Então… se nunca ia dar pra criar… por que a senhora vai tão longe assim…"
+        },
+        {
+            "id": 34,
+            "model": "과거가모",
+            "content": "Baoyu, aqueles ali agem com insolência, como se o poder que apenas tomaram emprestado tivesse sido conquistado por mérito honesto."
+        },
+        {
+            "id": 35,
+            "model": "과거가모",
+            "content": "Hongyuan, originalmente… não era um lugar que gente daquela pudesse revirar a seu bel-prazer."
+        },
+        {
+            "id": 36,
+            "model": "과거가모",
+            "content": "Se não têm intenção de entregá-la a quem é o seu legítimo senhor… eu mesma hei de tomá-la."
+        },
+        {
+            "id": 37,
+            "model": "어린홍루",
+            "content": "Vovó…"
+        },
+        {
+            "id": 38,
+            "model": "어린홍루",
+            "content": "Eu… tô com medo. Não quero ver… uma cena dessas. Me ajuda…"
+        },
+        {
+            "id": 39,
+            "model": "과거가모",
+            "content": "Baoyu. Neste plano sagrado, você é um tesouro indispensável."
+        },
+        {
+            "id": 40,
+            "model": "과거가모",
+            "content": "Por isso é melhor não abrir a boca à toa diante dos mortais mundanos, que só confundem o coração."
+        },
+        {
+            "id": 41,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 42,
+            "model": "과거가모",
+            "content": "Xiren sempre foi uma menina inteligente, desde pequena."
+        },
+        {
+            "id": 43,
+            "model": "과거가모",
+            "content": "Mas parece que não tinha muito discernimento."
+        },
+        {
+            "id": 44,
+            "model": "어린홍루",
+            "content": "Hã… o que… como assim…"
+        },
+        {
+            "id": 45,
+            "model": "과거가모",
+            "content": "Assim vai ser melhor para você."
+        },
+        {
+            "id": 46,
+            "place": "Passado, Interior de Yihongyuan",
+            "model": "습인과거",
+            "content": "Bem-vindo de volta, jovem senhor."
+        },
+        {
+            "id": 47,
+            "model": "어린홍루",
+            "content": "Xiren…!"
+        },
+        {
+            "id": 48,
+            "model": "어린홍루",
+            "content": "Que alívio. A Vovó disse uma coisa que…"
+        },
+        {
+            "id": 49,
+            "model": "어린홍루",
+            "content": "Ela… disse…"
+        },
+        {
+            "id": 50,
+            "model": "습인과거",
+            "content": "Jovem senhor."
+        },
+        {
+            "id": 51,
+            "model": "어린홍루",
+            "content": "…Xiren?"
+        },
+        {
+            "id": 52,
+            "model": "어린홍루",
+            "content": "Aconteceu alguma coisa?"
+        },
+        {
+            "id": 53,
+            "model": "습인과거",
+            "content": "Um Heishou veio até mim."
+        },
+        {
+            "id": 54,
+            "model": "습인과거",
+            "content": "Por causa da minha conduta atrevida, fui açoitada e tive a cabeça cortada."
+        },
+        {
+            "id": 55,
+            "model": "어린홍루",
+            "content": "Quê…? Como é que é?"
+        },
+        {
+            "id": 56,
+            "model": "습인과거",
+            "content": "Felizmente, pela graça da Matriarca, fui restaurada ao estado original, então não precisa se preocupar."
+        },
+        {
+            "id": 57,
+            "model": "습인과거",
+            "content": "O senhor está tremendo. Quer que eu sirva um chá?"
+        },
+        {
+            "id": 58,
+            "model": "어린홍루",
+            "content": "Xiren… eu… eu… tô com medo… hoje também… sem parar…"
+        },
+        {
+            "id": 59,
+            "model": "습인과거",
+            "content": "Não há o que fazer, jovem senhor."
+        },
+        {
+            "id": 60,
+            "model": "어린홍루",
+            "content": "Então… o que eu devo fazer?"
+        },
+        {
+            "id": 61,
+            "model": "습인과거",
+            "content": "Apenas…"
+        },
+        {
+            "id": 62,
+            "model": "습인과거",
+            "content": "Apenas observar em silêncio seria o mais sensato."
+        },
+        {
+            "id": 63,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 64,
+            "model": "습인과거",
+            "content": "Jovem senhor, está na hora de ir prestar as saudações aos Xianren."
+        },
+        {
+            "id": 65,
+            "model": "습인과거",
+            "content": "Cabelo bem penteado, roupa bem alinhada e postura reverente. Vá com cuidado."
+        },
+        {
+            "id": 66,
+            "model": "어린홍루",
+            "content": "…Tá."
+        },
+        {
+            "id": 67,
+            "place": "Passado, Laboratório de Hongyuan",
+            "model": "죄수과거",
+            "content": "Perdoe-me, perdoe-me…"
+        },
+        {
+            "id": 68,
+            "model": "죄수과거",
+            "content": "Nunca mais vou pecar, nunca mais vou cobiçar o quarto de outro. Nunca mais vou cobiçar a comida de outro. Nunca mais vou cobiçar a sorte de outro."
+        },
+        {
+            "id": 69,
+            "place": "Passado, Prédio da Família Kong",
+            "model": "어린임대옥",
+            "content": "Eu tô perguntando, irmão! O que foi que aconteceu?!"
+        },
+        {
+            "id": 70,
+            "model": "어린임대옥",
+            "content": "…Fala."
+        },
+        {
+            "id": 71,
+            "model": "어린임대옥",
+            "content": "Se for segredo, pode falar no meu ouvido."
+        },
+        {
+            "id": 72,
+            "model": "어린홍루",
+            "content": "…Ah…"
+        },
+        {
+            "id": 73,
+            "model": "어린홍루",
+            "content": "Não é… nada. Dai… yu."
+        },
+        {
+            "id": 74,
+            "model": "어린홍루",
+            "content": "Ainda… "
+        },
+        {
+            "id": 75,
+            "model": "어린홍루",
+            "content": "ainda ouço o som das pessoas caindo…"
+        }
+    ]
+}

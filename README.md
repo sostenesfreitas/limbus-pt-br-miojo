@@ -27,7 +27,8 @@ O Médio vai saber. **O Médio sempre sabe.**
 ## 📦 O que tem no pacote
 
 - **A HISTÓRIA** (`StoryData/`): **Canto X (parte 1, update de 17/09)** — o julgamento
-  do Meursault e o Grand Magasin Sisyphe —, Cantos VII, VIII e IX completos, Arco E inteiro,
+  do Meursault e o Grand Magasin Sisyphe —, Cantos VII, VIII e IX completos — **incluindo a
+  masmorra do Canto VIII** (a 2ª seleção do Patriarca: 26 cenas, nós, áreas e artefatos) —, Arco E inteiro,
   Intervallos — incluindo **o Intervallo do Kim do Chapéu de Bambu** (update de 10–11/06),
   com as histórias das Identidades novas (Hong Lu S Corp., Ishmael LCD, Meursault).
 - **Canto X inteiro, não só a história**: exploração do Grand Magasin (itens, diálogos e

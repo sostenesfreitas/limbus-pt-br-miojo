@@ -1,0 +1,717 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção, 1º andar",
+            "model": "이스마엘",
+            "content": "De agora em diante, é importante não deixar os candidatos que cruzarmos tomarem nossas moedas, mas…"
+        },
+        {
+            "id": 1,
+            "model": "이스마엘",
+            "content": "…pensando ao contrário… isso também quer dizer que nós é que temos que tomar as moedas deles."
+        },
+        {
+            "id": 2,
+            "model": "오티스",
+            "content": "Sim. A menos que anunciem outra regra, o importante será saquear as moedas do máximo de candidatos possível."
+        },
+        {
+            "id": 3,
+            "model": "이스마엘",
+            "content": "Isso. Disseram que a classificação é definida por quem tiver mais moedas."
+        },
+        {
+            "id": 4,
+            "model": "파우스트",
+            "content": "O tema da 1ª Seleção do Patriarca era de conhecimento público havia muito tempo."
+        },
+        {
+            "id": 5,
+            "model": "파우스트",
+            "content": "Encontrar uma pista da imortalidade."
+        },
+        {
+            "id": 6,
+            "model": "파우스트",
+            "content": "Mas sobre esta 2ª seleção não havia informação nenhuma, além de que seria uma disputa de força."
+        },
+        {
+            "id": 7,
+            "model": "파우스트",
+            "content": "Mesmo que existam regras ocultas, ou que o apresentador não tenha anunciado… é bem provável que todos tenham entrado igualmente sem saber delas."
+        },
+        {
+            "id": 8,
+            "model": "파우스트",
+            "content": "Portanto, se seguirmos com a nossa habitual confusão improvisada e irrefletida…"
+        },
+        {
+            "id": 9,
+            "model": "파우스트",
+            "content": "Dá para prever que ficaremos… no meio da tabela."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Ai, Fau, não fala assim! A gente precisa chegar pelo menos em 2º pra conseguir o que viemos buscar~"
+        },
+        {
+            "id": 11,
+            "model": "싱클레어",
+            "content": "Mesmo assim, parece que ainda não houve nenhum ataque, por enquanto…"
+        },
+        {
+            "id": 12,
+            "content": "Sinclair falou olhando ao redor, inquieto, como se a qualquer momento outro participante fosse brotar do chão para tomar as moedas."
+        },
+        {
+            "id": 13,
+            "model": "오티스",
+            "content": "Nenhuma atividade inimiga detectada ainda. Ainda…"
+        },
+        {
+            "id": 14,
+            "content": "Outis disse algo parecido e seguiu em frente, grudada ao lado do cordão de Hong Lu, em alerta máximo."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "Não sei se é um alívio, mas… o prédio é tão grande que acho que não vamos esbarrar com outros candidatos tão cedo."
+        },
+        {
+            "id": 16,
+            "model": "료슈",
+            "content": "…Tem um monte delas por toda parte. Máquinas de bisbilhotar."
+        },
+        {
+            "id": 17,
+            "model": "사회자",
+            "content": "Hum~ Vejo não poucas pessoas fazendo poses ameaçadoras para as câmeras… mas atenção: há uma regra que diz que cada câmera quebrada custa uma moeda!"
+        },
+        {
+            "id": 18,
+            "model": "그레고르",
+            "content": "…Essa regra ele inventou agora, com certeza."
+        },
+        {
+            "id": 19,
+            "model": "홍루",
+            "content": "Ah, acho que o caminho continua seguindo por este corredor."
+        },
+        {
+            "id": 20,
+            "content": "Entre todos, só Hong Lu ainda mantinha a serenidade."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "Senhor Hong Lu. Você já esteve aqui antes, não é…?"
+        },
+        {
+            "id": 22,
+            "model": "홍루",
+            "content": "Sim, mas os outros candidatos provavelmente não. Bom, o irmão Qiu talvez tenha vindo."
+        },
+        {
+            "id": 23,
+            "model": "홍루",
+            "content": "E quem já pôs os pés aqui já…"
+        },
+        {
+            "id": 24,
+            "content": "Hong Lu parou por um instante."
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "content": "Hum, mas pelo menos não há risco de nos perdermos, que bom~"
+        },
+        {
+            "id": 26,
+            "model": "그레고르",
+            "content": "Ele acabou de engolir o que ia dizer, e nem disfarçou, né?"
+        },
+        {
+            "id": 27,
+            "model": "로쟈",
+            "content": "Mas, gente… por mais que eu pense, tem algo estranho…"
+        },
+        {
+            "id": 28,
+            "model": "로쟈",
+            "content": "O Grande Jardim onde a gente foi… era absurda, absurdamente enorme, né?"
+        },
+        {
+            "id": 29,
+            "model": "로쟈",
+            "content": "A ponto de a gente ter batido um papo longo no palanquim até chegar no quarto onde o Hong Lu morava."
+        },
+        {
+            "id": 30,
+            "model": "이스마엘",
+            "content": "Tinha cervo, ou sei lá o quê, correndo solto, e até um lago…"
+        },
+        {
+            "id": 31,
+            "model": "로쟈",
+            "content": "Com todo aquele espaço à disposição, por que fazer a disputa pelo Patriarca num lugar sinistro desses?"
+        },
+        {
+            "id": 32,
+            "model": "료슈",
+            "content": "Nem isso você sabe. Obras de arte são expostas em lugares à altura."
+        },
+        {
+            "id": 33,
+            "model": "로쟈",
+            "content": "Mas por que se dar ao trabalho de nos chamar pra um lugar assim… É como se quisessem que a gente apreciasse alguma coisa."
+        },
+        {
+            "id": 34,
+            "model": "그레고르",
+            "content": "O quê?"
+        },
+        {
+            "id": 35,
+            "model": "왕자우",
+            "teller": "???",
+            "title": "???",
+            "content": "O orgulho e a glória do Grande Jardim. E a lição que a Família Kong deixou."
+        },
+        {
+            "id": 36,
+            "model": "왕자우",
+            "teller": "???",
+            "title": "???",
+            "content": "Assim dá para divulgar bem, tanto para quem vai ser o futuro Patriarca quanto para os outros candidatos."
+        },
+        {
+            "id": 37,
+            "model": "오티스",
+            "content": "……."
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "Não era a um intruso que vem nos atacar que fazíamos a pergunta."
+        },
+        {
+            "id": 39,
+            "content": "Com o surgimento repentino de outro candidato, os Pecadores assumiram postura de alerta ao mesmo tempo."
+        },
+        {
+            "id": 40,
+            "model": "왕자우",
+            "teller": "???",
+            "title": "???",
+            "content": "Ah, não me entendam mal. Não vim aqui pra brigar com vocês."
+        },
+        {
+            "id": 41,
+            "model": "왕자우",
+            "teller": "???",
+            "title": "???",
+            "content": "Vi vocês na primeira rodada."
+        },
+        {
+            "id": 42,
+            "model": "왕자우",
+            "teller": "???",
+            "title": "???",
+            "content": "Curavam com uma técnica curiosa, não? Deve ter sido assim que passaram da 1ª rodada."
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "…Senhor Hong Lu, sabe quem é?"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Hã… não. Mas parece ser da Família Wang. Nunca conversei muito com ele."
+        },
+        {
+            "id": 45,
+            "model": "왕자우",
+            "content": "Wang Zhao. Normal que não saiba."
+        },
+        {
+            "id": 46,
+            "model": "왕자우",
+            "content": "A gente mal se cruzava… Meu único passatempo era ficar trancado num quartinho lendo livros."
+        },
+        {
+            "id": 47,
+            "model": "단테",
+            "content": "<Se não veio pra lutar… será que quer propor uma aliança?>"
+        },
+        {
+            "id": 48,
+            "model": "그레고르",
+            "content": "Hah… Falo por longa experiência: a gente não faz amigos."
+        },
+        {
+            "id": 49,
+            "model": "왕자우",
+            "content": "Ahh, não. Aqui também ninguém está propondo virar aliado. Só achei que o que cada um quer não vai bater de frente, então que tal só andarmos juntos?"
+        },
+        {
+            "id": 50,
+            "model": "왕자우",
+            "content": "Não é que eu queira muito virar Patriarca, é mais tipo…"
+        },
+        {
+            "id": 51,
+            "model": "왕자우",
+            "content": "Quero ser como o canhão (砲) do xiangqi, sabe? O carro (車) já seria grandeza demais."
+        },
+        {
+            "id": 52,
+            "model": "왕자우",
+            "content": "Que tal um exemplo prático?"
+        },
+        {
+            "id": 53,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 54,
+            "content": "Meursault agarrou com uma só mão a moeda que veio voando sem aviso."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Uau, belo pega, Meur!"
+        },
+        {
+            "id": 56,
+            "model": "뫼르소",
+            "content": "Hum."
+        },
+        {
+            "id": 57,
+            "model": "단테",
+            "content": "<Isso é…>"
+        },
+        {
+            "id": 58,
+            "model": "싱클레어",
+            "content": "I-isso é uma moeda de verdade? Daquelas, o… preço da vida…"
+        },
+        {
+            "id": 59,
+            "model": "왕자우",
+            "content": "Bom, pode até morder pra ver."
+        },
+        {
+            "id": 60,
+            "model": "히스클리프",
+            "content": "Ei, morde logo!"
+        },
+        {
+            "id": 61,
+            "model": "파우스트",
+            "content": "…A menos que seja um metal macio como o ouro, esse método de verificação é inútil."
+        },
+        {
+            "id": 62,
+            "model": "싱클레어",
+            "content": "Por que… dar isso… pra gente…"
+        },
+        {
+            "id": 63,
+            "model": "싱클레어",
+            "content": "Pode mesmo dar?"
+        },
+        {
+            "id": 64,
+            "model": "왕자우",
+            "content": "Bem, isso agora…"
+        },
+        {
+            "id": 65,
+            "model": "왕자우",
+            "content": "O apresentador logo vai explicar."
+        },
+        {
+            "id": 66,
+            "content": "Pouco depois de Wang Zhao terminar de falar, ouviu-se a voz do apresentador."
+        },
+        {
+            "id": 67,
+            "model": "사회자",
+            "content": "Acaba de surgir um candidato que entregou uma moeda por vontade própria!"
+        },
+        {
+            "id": 68,
+            "model": "사회자",
+            "content": "Isso mesmo. Os candidatos podem trocar moedas entre si, em vez de apenas saqueá-las. Pode-se usá-las como pagamento para cooptar alguém, ou para as mais diversas manobras estratégicas."
+        },
+        {
+            "id": 69,
+            "model": "뫼르소",
+            "content": "Um motivo razoável para adotar o símbolo da moeda."
+        },
+        {
+            "id": 70,
+            "model": "단테",
+            "content": "<Foi assim também quando Ryōshū parou na frente da câmera… Não parece que ele sempre avisa um passo atrasado?>"
+        },
+        {
+            "id": 71,
+            "model": "오티스",
+            "content": "Observação precisa, Gerente. Parece que ele acrescenta explicações sobre as regras conforme as ações dos candidatos."
+        },
+        {
+            "id": 72,
+            "model": "파우스트",
+            "content": "…Deve ser para comentar as ações para a plateia."
+        },
+        {
+            "id": 73,
+            "model": "왕자우",
+            "content": "Eu sabia."
+        },
+        {
+            "id": 74,
+            "model": "왕자우",
+            "content": "Não havia necessidade de tomar à força."
+        },
+        {
+            "id": 75,
+            "content": "Ao ouvir o apresentador, Wang Zhao murmurou com satisfação."
+        },
+        {
+            "id": 76,
+            "model": "싱클레어",
+            "content": "Então… isto… eu tenho que devolver?"
+        },
+        {
+            "id": 77,
+            "model": "왕자우",
+            "content": "Não precisa. Considere o pagamento por me ajudarem a conseguir informação."
+        },
+        {
+            "id": 78,
+            "model": "이스마엘",
+            "content": "Se está dando… a gente aceita… mas pode mesmo dar assim, sem pensar duas vezes?"
+        },
+        {
+            "id": 79,
+            "model": "왕자우",
+            "content": "Se a meta fosse o 1º lugar, eu ia me afligir com cada moeda… mas, como disse, sou mais presa do que predador."
+        },
+        {
+            "id": 80,
+            "model": "왕자우",
+            "content": "E a presa, sabe, precisa observar bem ao redor. Fazendo isso… dá pra saber quem é a pessoa que deveria juntar mais moedas."
+        },
+        {
+            "id": 81,
+            "model": "왕자우",
+            "content": "Essa é a minha estratégia."
+        },
+        {
+            "id": 82,
+            "model": "로쟈",
+            "content": "Oh… e esse alguém somos nós? Quem deveria juntar mais moedas?"
+        },
+        {
+            "id": 83,
+            "model": "로쟈",
+            "content": "Hum-hum… hum… Depois de só receber olhar torto esse tempo todo, ganhar um elogio desses… não é nada mal, hein?"
+        },
+        {
+            "id": 84,
+            "model": "오티스",
+            "content": "Bajulação. Esse tipo de velhaco se encontra em qualquer lugar."
+        },
+        {
+            "id": 85,
+            "model": "그레고르",
+            "content": "Mesmo assim… já juntamos 4 logo de cara. Não é um começo bem tranquilo?"
+        },
+        {
+            "id": 86,
+            "model": "싱클레어",
+            "content": "Nesse ritmo, não sei se a gente não acaba chegando em 1º de verdade."
+        },
+        {
+            "id": 87,
+            "model": "왕자우",
+            "content": "E então… que tal? No começo, a diferença de informação pode decidir a disputa."
+        },
+        {
+            "id": 88,
+            "model": "왕자우",
+            "content": "Eu sondo o jogo pelo que vocês fazem, e vocês ganham informação."
+        },
+        {
+            "id": 89,
+            "model": "왕자우",
+            "content": "Cada um tira o que puder do outro e, na hora certa, cada um pro seu lado."
+        },
+        {
+            "id": 90,
+            "model": "싱클레어",
+            "content": "O-o que a gente faz? Pra trair a gente e fugir com as moedas… ele não parece ágil o bastante."
+        },
+        {
+            "id": 91,
+            "content": "Perguntou Sinclair, olhando Wang Zhao de esguelha."
+        },
+        {
+            "id": 92,
+            "model": "이스마엘",
+            "content": "Não é uma proposta de aliança às cegas… Tirar proveito mútuo por um tempo e depois cada um seguir seu caminho não parece ruim."
+        },
+        {
+            "id": 93,
+            "model": "오티스",
+            "content": "O que deseja fazer, Gerente? Não parece estar tramando nada… mas também é possível usar nossa superioridade numérica para exigir mais moedas."
+        },
+        {
+            "id": 94,
+            "model": "뫼르소",
+            "content": "Já garantimos o lucro de uma moeda. Se a companhia incomoda, a escolha racional é seguir adiante sem ele."
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Hum…>"
+        },
+        {
+            "id": 96,
+            "content": "Todas as propostas dos Pecadores pareciam razoáveis, então olhei de soslaio para Hong Lu, o verdadeiro candidato da disputa pelo Patriarca, mas…"
+        },
+        {
+            "id": 97,
+            "model": "단테",
+            "content": "<Hong Lu. O que você acha?>"
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Qualquer uma das opções me parece boa!"
+        },
+        {
+            "id": 99,
+            "content": "Uma resposta leve, sem um segundo sequer de hesitação."
+        },
+        {
+            "id": 100,
+            "content": "…Hong Lu continuava sem a menor intenção de fazer qualquer escolha."
+        },
+        {
+            "id": 101,
+            "model": "단테",
+            "content": "<…Vamos juntos. Outis, fique de olho em qualquer sinal de traição.>"
+        },
+        {
+            "id": 102,
+            "model": "오티스",
+            "content": "Deixe comigo, Gerente!"
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "Conto com você, senhor Wang Zhao."
+        },
+        {
+            "id": 104,
+            "model": "왕자우",
+            "content": "Certo, conto com você. Jia Baoyu."
+        },
+        {
+            "id": 105,
+            "model": "왕자우",
+            "content": "…Continua recebendo sozinho todo o carinho do Grande Jardim?"
+        },
+        {
+            "id": 106,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 107,
+            "place": "Passado, Prédio da Família Kong",
+            "model": "어린홍루",
+            "content": "E… eu… Jia Baoyu… apresenta seus cumprimentos…"
+        },
+        {
+            "id": 108,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Ah… sim, o Baoyu chegou."
+        },
+        {
+            "id": 109,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Quanto tempo, Baoyu."
+        },
+        {
+            "id": 110,
+            "model": "과거가모",
+            "content": "Baoyu, um bom menino responde direitinho, não é?"
+        },
+        {
+            "id": 111,
+            "model": "어린홍루",
+            "content": "…Sim."
+        },
+        {
+            "id": 112,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Continua lindo e radiante como sempre."
+        },
+        {
+            "id": 113,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "É mesmo o jade imutável do Grande Jardim. A senhora deve estar muito feliz~ Matriarca."
+        },
+        {
+            "id": 114,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Ah… é aquele o tal Jia Baoyu?"
+        },
+        {
+            "id": 115,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Quê? Achei que ele fosse incrível… mas, vendo de perto, não parece grande coisa."
+        },
+        {
+            "id": 116,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Ah, a mamãe me contou sobre ele."
+        },
+        {
+            "id": 117,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Shh, quietos. Não vão falar com ele sem mais nem menos."
+        },
+        {
+            "id": 118,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Eita, acho que nossos olhos se cruzaram agora."
+        },
+        {
+            "id": 119,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Mas por que todo mundo gosta tanto dele?"
+        },
+        {
+            "id": 120,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Sei lá, deve ter ouro por dentro."
+        },
+        {
+            "id": 121,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Que sorte. Também queria ser mimado assim desde que nasci."
+        },
+        {
+            "id": 122,
+            "teller": "Criança Parente",
+            "title": "Grande Jardim",
+            "content": "Mas… que cara é essa dele?"
+        },
+        {
+            "id": 123,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Aquele menino vai viver tranquilo, sem uma preocupação, até o dia em que morrer."
+        },
+        {
+            "id": 124,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Pois é, dá até inveja, mas… sei lá…"
+        },
+        {
+            "id": 125,
+            "teller": "Parente",
+            "title": "Grande Jardim",
+            "content": "Por que será que não há um sorriso sequer no rosto dele…"
+        },
+        {
+            "id": 126,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 127,
+            "place": "Local de Seleção, 1º andar",
+            "model": "히스클리프",
+            "content": "Isso aí… não é daquelas memórias que só o Relógio vê? Por que a gente também tá vendo?"
+        },
+        {
+            "id": 128,
+            "model": "단테",
+            "content": "<Ué… hã? Vocês também viram?>"
+        },
+        {
+            "id": 129,
+            "model": "파우스트",
+            "content": "Com a restauração gradual do Ramo Dourado, a capacidade de Dante de enxergar as profundezas também parece estar se expandindo aos poucos."
+        },
+        {
+            "id": 130,
+            "model": "단테",
+            "content": "<Se… rá? Eu não sei bem.>"
+        },
+        {
+            "id": 131,
+            "model": "파우스트",
+            "content": "Por ora, isso basta, Dante."
+        },
+        {
+            "id": 132,
+            "model": "파우스트",
+            "content": "…Talvez, mais tarde, você passe a ter consciência dessas habilidades e consiga controlá-las como quiser."
+        },
+        {
+            "id": 133,
+            "model": "홍루",
+            "content": "Hehe. Não imaginei que mostraria minha infância a vocês desta forma."
+        },
+        {
+            "id": 134,
+            "content": "De fato… se Wang Zhao também tivesse entrado na Masmorra das Profundezas, teria visto o passado de agora há pouco…"
+        },
+        {
+            "id": 135,
+            "model": "왕자우",
+            "content": "Por que estão todos aí parados, de boca aberta? Não vão me dizer que pretendem ficar enfurnados aqui, né?"
+        },
+        {
+            "id": 136,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 137,
+            "content": "Pelo visto, as cenas que acabaram de se desenrolar não foram vistas por ele."
+        },
+        {
+            "id": 138,
+            "content": "Diferente de agora, o Hong Lu de criança…"
+        },
+        {
+            "id": 139,
+            "content": "…não sorria nem um pouco. Seus olhos apenas fitavam o chão, em silêncio."
+        }
+    ]
+}

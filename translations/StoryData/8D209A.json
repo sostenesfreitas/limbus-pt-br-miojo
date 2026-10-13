@@ -1,0 +1,918 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Sala Final da Seleção do Patriarca",
+            "model": "에고가환",
+            "content": "Ha…"
+        },
+        {
+            "id": 1,
+            "content": "Jia Huan soltou um lamento que mais parecia um suspiro de impaciência."
+        },
+        {
+            "id": 2,
+            "model": "에고가환",
+            "content": "Isso é insuportável de assistir. Um debate sem sentido."
+        },
+        {
+            "id": 3,
+            "model": "에고가환",
+            "content": "Como já disse… o que Hongyuan precisa é de interesse prático. Nada mais, nada menos. Por que não entendem?"
+        },
+        {
+            "id": 4,
+            "model": "에고가환",
+            "content": "Quem só pensa em viver e morrer precisa do ganho que está bem na frente dos olhos."
+        },
+        {
+            "id": 5,
+            "model": "에고가환",
+            "content": "E não importa se for ilusão. Se podem enxergar seus desejos e sonhos, isso é tudo de que mais precisam."
+        },
+        {
+            "id": 6,
+            "model": "돈키호테다침",
+            "content": "……."
+        },
+        {
+            "id": 7,
+            "model": "이상다침",
+            "content": "Isso é…"
+        },
+        {
+            "id": 8,
+            "model": "가치우",
+            "content": "Não está errado."
+        },
+        {
+            "id": 9,
+            "model": "가치우",
+            "content": "Mas, Jia Huan, por mais que o seu Caminho faça sentido, falta nele o que deveria haver dentro."
+        },
+        {
+            "id": 10,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 11,
+            "model": "다친홍루",
+            "content": "Então, o Caminho do irmão Qiu seria…"
+        },
+        {
+            "id": 12,
+            "model": "다친홍루",
+            "content": "…a benevolência e a retidão?"
+        },
+        {
+            "id": 13,
+            "model": "가치우",
+            "content": "E aos seus olhos, como parece o meu Caminho?"
+        },
+        {
+            "id": 14,
+            "model": "다친홍루",
+            "content": "…Para mim, parece um pouco quente."
+        },
+        {
+            "id": 15,
+            "model": "다친홍루",
+            "content": "Parecia um fogo que derrete muitas coisas."
+        },
+        {
+            "id": 16,
+            "model": "가치우",
+            "content": "Um fogo que derrete."
+        },
+        {
+            "id": 17,
+            "model": "가치우",
+            "content": "Então é assim que você o vê."
+        },
+        {
+            "id": 18,
+            "model": "다친홍루",
+            "content": "Benevolência e retidão… O que significa ser benevolente?"
+        },
+        {
+            "id": 19,
+            "model": "가치우",
+            "content": "Você acabou de dizer com a própria boca."
+        },
+        {
+            "id": 20,
+            "model": "가치우",
+            "content": "Anos de maldades, e as deformações que elas geraram, cobriram as pessoas; uma ordem torta passou a ser aceita como lei natural."
+        },
+        {
+            "id": 21,
+            "model": "가치우",
+            "content": "Aquilo que consegue derreter os corações endurecidos nesse meio. Isso é a benevolência e a retidão."
+        },
+        {
+            "id": 22,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 23,
+            "model": "가치우",
+            "content": "Todos no Grande Jardim exigiam de mim silêncio."
+        },
+        {
+            "id": 24,
+            "model": "가치우",
+            "content": "Não pergunte sobre aquele dia, nem tente saber."
+        },
+        {
+            "id": 25,
+            "model": "가치우",
+            "content": "Pois foi o destino lamentável, mas merecido, trazido por uma cobiça que jamais deveria ter sido nutrida."
+        },
+        {
+            "id": 26,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 27,
+            "model": "가치우",
+            "content": "Você não foi o único obrigado a deixar tudo ir embora, Jia Baoyu."
+        },
+        {
+            "id": 28,
+            "model": "가치우",
+            "content": "Mas eu não soltei."
+        },
+        {
+            "id": 29,
+            "model": "다친홍루",
+            "content": "…Nada."
+        },
+        {
+            "id": 30,
+            "place": -1,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 31,
+            "model": "다친홍루",
+            "content": "Nada me vinha à cabeça."
+        },
+        {
+            "id": 32,
+            "place": "Caminho até os Xianren",
+            "model": "다친홍루",
+            "content": "Só pensava que queria que alguém, qualquer um, me segurasse e dissesse que estava tudo bem."
+        },
+        {
+            "id": 33,
+            "model": "다친홍루",
+            "content": "Os anciãos às vezes eram severos, mas…"
+        },
+        {
+            "id": 34,
+            "model": "다친홍루",
+            "content": "…eram quem mais me estimava em todo o Grande Jardim."
+        },
+        {
+            "id": 35,
+            "model": "과거가모",
+            "content": "Entre, Baoyu."
+        },
+        {
+            "id": 36,
+            "model": "과거가모",
+            "content": "Os Xianren o aguardam."
+        },
+        {
+            "id": 37,
+            "model": "다친홍루",
+            "content": "Eu queria desabafar tudo."
+        },
+        {
+            "id": 38,
+            "model": "다친홍루",
+            "content": "Sobre o que eu tinha visto, mas nunca deveria ter visto."
+        },
+        {
+            "id": 39,
+            "model": "다친홍루",
+            "content": "O êxtase de coisas desconhecidas uivando umas para as outras, o rancor dos que morriam, o choro de tudo."
+        },
+        {
+            "id": 40,
+            "model": "다친홍루",
+            "content": "Risadas, gritos, exclamações, e depois o som que se tornava silêncio."
+        },
+        {
+            "id": 41,
+            "model": "다친홍루",
+            "content": "Depois de hoje, nada de bom vai acontecer comigo nunca mais."
+        },
+        {
+            "id": 42,
+            "model": "다친홍루",
+            "content": "Toda manhã, este momento vai me acordar,"
+        },
+        {
+            "id": 43,
+            "model": "다친홍루",
+            "content": "e toda noite vai me atormentar sem me deixar dormir."
+        },
+        {
+            "id": 44,
+            "model": "다친홍루",
+            "content": "Então, por favor, me consolem."
+        },
+        {
+            "id": 45,
+            "model": "다친홍루",
+            "content": "Digam que está tudo bem, que não preciso ter medo."
+        },
+        {
+            "id": 46,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 47,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Você veio, Baoyu."
+        },
+        {
+            "id": 48,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Foi a cena mais empolgante que vi em séculos."
+        },
+        {
+            "id": 49,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Eu gostei mais do começo. Aquela que, com o tornozelo já torcido, não largava o apego e continuava tentando rastejar para a frente."
+        },
+        {
+            "id": 50,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "A coisa da Periferia, nascida da mãe Kong, cresceu por conta própria… e o olhar dela, quando enfim despertou o instinto de reprodução, foi o mais espantoso."
+        },
+        {
+            "id": 51,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Viu a cara daquela que se dizia mãe? Assim que soube o que tinha saído do próprio ventre, enlouqueceu na hora."
+        },
+        {
+            "id": 52,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "E as Garras chegando na hora certa foi um desfecho ainda mais perfeito do que desejávamos. Como diziam, não deixaram nada para trás."
+        },
+        {
+            "id": 53,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Não haverá tédio por alguns meses. Vamos saborear o paraíso de hoje, que jamais se repetirá."
+        },
+        {
+            "id": 54,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Baoyu, Jia Baoyu… você…"
+        },
+        {
+            "id": 55,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "…é, de fato, o jade incomparável da nossa família. E como ele brilha! Como um espelho, como uma janela de vidro que nos mostra o que há além de Tiekansi!"
+        },
+        {
+            "id": 56,
+            "teller": "Os Anciãos",
+            "title": "Grande Jardim",
+            "content": "Continue a polir e a lapidá-lo, para que não haja turvação alguma nesse brilho."
+        },
+        {
+            "id": 57,
+            "place": -1,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 58,
+            "model": "어린임대옥",
+            "content": "Irmão, o que você está fazendo?"
+        },
+        {
+            "id": 59,
+            "model": "어린임대옥",
+            "content": "Por que não tenta pegar a pipa que está voando embora?"
+        },
+        {
+            "id": 60,
+            "model": "어린홍루",
+            "content": "…Pegar para quê?"
+        },
+        {
+            "id": 61,
+            "model": "어린홍루",
+            "content": "Ela vai voar para onde tiver que ir."
+        },
+        {
+            "id": 62,
+            "model": "다친홍루",
+            "content": "Lá no canto daquele pedacinho de terra, eu fiz um túmulo de flores."
+        },
+        {
+            "id": 63,
+            "model": "다친홍루",
+            "content": "Juntei todas as pétalas numa bolsinha de flores e as enterrei direitinho na terra."
+        },
+        {
+            "id": 64,
+            "model": "다친홍루",
+            "content": "Assim, mesmo que um dia virem pó… vão ficar limpas, como se nunca tivessem existido, não é?"
+        },
+        {
+            "id": 65,
+            "model": "다친홍루",
+            "content": "Depois de enterrar as pétalas desse jeito…"
+        },
+        {
+            "id": 66,
+            "model": "다친홍루",
+            "content": "…não precisei mais me afogar nessas cores sem fim."
+        },
+        {
+            "id": 67,
+            "model": "다친홍루",
+            "content": "E assim, enfim,"
+        },
+        {
+            "id": 68,
+            "model": "다친홍루",
+            "content": "consegui sorrir."
+        },
+        {
+            "id": 69,
+            "place": "Sala Final da Seleção do Patriarca",
+            "model": "가치우",
+            "content": "Jia Baoyu. Você abandonou o seu Caminho no Grande Jardim."
+        },
+        {
+            "id": 70,
+            "model": "가치우",
+            "content": "E o Caminho que eu encontrei fora do Grande Jardim…"
+        },
+        {
+            "id": 71,
+            "model": "가치우",
+            "content": "…me ensinou paciência e me deu horas de quietude."
+        },
+        {
+            "id": 72,
+            "model": "가치우",
+            "content": "O desejo sem benevolência e retidão consome o próprio corpo."
+        },
+        {
+            "id": 73,
+            "model": "가치우",
+            "content": "Mas o desejo que segue o Caminho guarda a brasa naturalmente."
+        },
+        {
+            "id": 74,
+            "model": "가치우",
+            "content": "Se não arder na hora certa para iluminar a escuridão, toda vontade acaba em vazio."
+        },
+        {
+            "id": 75,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 76,
+            "model": "가치우",
+            "content": "O que há aí dentro, Jia Baoyu?"
+        },
+        {
+            "id": 77,
+            "model": "가치우",
+            "content": "Aquilo que você guarda desde muito tempo atrás."
+        },
+        {
+            "id": 78,
+            "model": "다친홍루",
+            "content": "Eu enterrei, irmão…"
+        },
+        {
+            "id": 79,
+            "model": "다친홍루",
+            "content": "Naquele dia em que as pétalas de pessegueiro rodopiavam no ar."
+        },
+        {
+            "id": 80,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 81,
+            "model": "가치우",
+            "content": "No fim, só eu mesmo entro na cova."
+        },
+        {
+            "id": 82,
+            "model": "가치우",
+            "content": "Logo, só eu mesmo posso me tirar dela."
+        },
+        {
+            "id": 83,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 84,
+            "model": "다친홍루",
+            "content": "O que Hongyuan precisa é…"
+        },
+        {
+            "id": 85,
+            "place": "Passado, Hongyuan",
+            "model": "과거가모",
+            "content": "Baoyu. Você não vai conseguir salvar todos eles."
+        },
+        {
+            "id": 86,
+            "model": "어린홍루",
+            "content": "Eu sei, não dá para salvar todo mundo. Mesmo assim…"
+        },
+        {
+            "id": 87,
+            "model": "어린홍루",
+            "content": "Pelo menos aquela pessoa que está caindo bem na minha frente…"
+        },
+        {
+            "id": 88,
+            "place": "Sala Final da Seleção do Patriarca",
+            "model": "다친홍루",
+            "content": "…de gentileza."
+        },
+        {
+            "id": 89,
+            "model": "다친홍루",
+            "content": "Gentileza é se importar e, ao mesmo tempo, acolher."
+        },
+        {
+            "id": 90,
+            "model": "다친홍루",
+            "content": "Se há um amigo chorando bem ao seu lado, é chorar junto com ele, e se alegrar junto também."
+        },
+        {
+            "id": 91,
+            "model": "다친홍루",
+            "content": "Com gentileza e com calor."
+        },
+        {
+            "id": 92,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 93,
+            "model": "가치우",
+            "content": "Essas palavras…"
+        },
+        {
+            "id": 94,
+            "model": "가치우",
+            "content": "…são como um rio largo que corre tentando abraçar todas as coisas."
+        },
+        {
+            "id": 95,
+            "model": "가치우",
+            "content": "Mas a gentileza só ilumina o que está em volta. Não consegue abraçar a todos."
+        },
+        {
+            "id": 96,
+            "model": "가치우",
+            "content": "Além disso, quem governa Hongyuan não pode se abalar com cada pequena alegria ou tristeza."
+        },
+        {
+            "id": 97,
+            "model": "다친홍루",
+            "content": "Não é verdade."
+        },
+        {
+            "id": 98,
+            "content": "Hong Lu falou com um pouco mais de convicção na voz do que antes."
+        },
+        {
+            "id": 99,
+            "model": "다친홍루",
+            "content": "Se as pessoas puderem ver, sentir e expressar a tristeza e a alegria que têm diante dos olhos…"
+        },
+        {
+            "id": 100,
+            "model": "다친홍루",
+            "content": "…e, com isso, puderem abraçar a única pessoa que está ao seu lado…"
+        },
+        {
+            "id": 101,
+            "model": "다친홍루",
+            "content": "…se cada um puder abraçar o outro assim, então, mesmo que eu não consiga abraçar a todos, todos poderão abraçar a todos."
+        },
+        {
+            "id": 102,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 103,
+            "model": "가치우",
+            "content": "Para uma espera tão longa, foi uma resposta insuficiente."
+        },
+        {
+            "id": 104,
+            "model": "가치우",
+            "content": "Mas…"
+        },
+        {
+            "id": 105,
+            "model": "가치우",
+            "content": "Basta."
+        },
+        {
+            "id": 106,
+            "model": "가치우",
+            "content": "No vazio, tudo se torna insípido; mas um espaço em branco é algo que se pode preencher."
+        },
+        {
+            "id": 107,
+            "model": "에고가환",
+            "content": "Jia Qiu, a resposta que você tanto esperou era só esse devaneio?"
+        },
+        {
+            "id": 108,
+            "model": "에고가환",
+            "content": "Não consigo entender."
+        },
+        {
+            "id": 109,
+            "model": "에고가환",
+            "content": "O que esse aí tagarela está a léguas de distância do que é governar."
+        },
+        {
+            "id": 110,
+            "model": "에고가환",
+            "content": "Gentileza não dá satisfação a ninguém. Não salva uma vida sequer nem enche barriga vazia."
+        },
+        {
+            "id": 111,
+            "model": "에고가환",
+            "content": "Não se muda Hongyuan com uma coisa dessas."
+        },
+        {
+            "id": 112,
+            "model": "가치우",
+            "content": "Jia Huan, você só precisa seguir o caminho que considera certo."
+        },
+        {
+            "id": 113,
+            "model": "가치우",
+            "content": "Mas, nesta sala, eu seguirei a minha benevolência. E não haverá recuo."
+        },
+        {
+            "id": 114,
+            "model": "에고가환",
+            "content": "…Que jogo é esse?"
+        },
+        {
+            "id": 115,
+            "model": "가치우",
+            "content": "Agora, nesta Seleção do Patriarca, eu…"
+        },
+        {
+            "id": 116,
+            "model": "가치우",
+            "content": "…desisto."
+        },
+        {
+            "id": 117,
+            "model": "사회자",
+            "content": "…!"
+        },
+        {
+            "id": 118,
+            "model": "단테",
+            "content": "<O-o quê?!>"
+        },
+        {
+            "id": 119,
+            "content": "Do outro lado dos alto-falantes escapou um som de alguém prendendo a respiração de espanto."
+        },
+        {
+            "id": 120,
+            "model": "에고가환",
+            "content": "……."
+        },
+        {
+            "id": 121,
+            "model": "가치우",
+            "content": "Com isso, os únicos a permanecer nesta sala devem ser Jia Baoyu e sua Casa."
+        },
+        {
+            "id": 122,
+            "model": "가치우",
+            "content": "Se você não fizer a mesma escolha que eu, muito sangue terá de correr aqui."
+        },
+        {
+            "id": 123,
+            "model": "가치우",
+            "content": "Mas você também não chegou até aqui de olho no posto de Patriarca."
+        },
+        {
+            "id": 124,
+            "model": "에고가환",
+            "content": "…Ha!"
+        },
+        {
+            "id": 125,
+            "model": "에고가환",
+            "content": "Você me conhece bem. Sim. Meu objetivo não é algo tão pequeno quanto o Patriarcado de Hongyuan."
+        },
+        {
+            "id": 126,
+            "model": "에고가환",
+            "content": "Mas me irrita bastante ter de agir conforme o que você diz, como se fosse uma marionete."
+        },
+        {
+            "id": 127,
+            "model": "가치우",
+            "content": "Por fora você se faz de vil e de escravo das emoções, mas por dentro é alguém que persegue apenas a razão, até o fim."
+        },
+        {
+            "id": 128,
+            "model": "가치우",
+            "content": "Por isso… não lhe resta senão recuar aqui, Jia Huan."
+        },
+        {
+            "id": 129,
+            "model": "에고가환",
+            "content": "Você sabe de alguma coisa…?"
+        },
+        {
+            "id": 130,
+            "model": "에고가환",
+            "content": "Você e aquele fedelho! Os dois fedem! É o fedor podre das palavras vazias de um hipócrita."
+        },
+        {
+            "id": 131,
+            "model": "에고가환",
+            "content": "…Gubo. Vamos voltar."
+        },
+        {
+            "id": 132,
+            "model": "에고가환",
+            "content": "Desisto."
+        },
+        {
+            "id": 133,
+            "model": "에고가환",
+            "content": "Já juntei moedas de sobra, de qualquer jeito."
+        },
+        {
+            "id": 134,
+            "model": "다친홍루",
+            "content": "…Irmão Qiu?"
+        },
+        {
+            "id": 135,
+            "model": "가치우",
+            "content": "Agora você é uma nuvem, flutuando no céu."
+        },
+        {
+            "id": 136,
+            "model": "가치우",
+            "content": "Quando uma nuvem pisa, nem a árvore nem a terra sentem dor."
+        },
+        {
+            "id": 137,
+            "content": "Era estranho."
+        },
+        {
+            "id": 138,
+            "content": "Jia Qiu passou por nós e saía da sala por sua própria vontade."
+        },
+        {
+            "id": 139,
+            "model": "가치우",
+            "content": "Mas é só isso. Para abraçar alguém bem à sua frente, segundo a benevolência e a retidão de que você falou, é preciso pisar na terra como pessoa, não como nuvem."
+        },
+        {
+            "id": 140,
+            "model": "가치우",
+            "content": "Tenha isso em mente ao abrir o seu caminho."
+        },
+        {
+            "id": 141,
+            "content": "Ao terminar, Jia Qiu desatou o cordão preso à cintura e o colocou nas mãos de Hong Lu."
+        },
+        {
+            "id": 142,
+            "content": "Nele… pendiam, em cachos, moedas que pareciam ser várias vezes tudo o que havíamos juntado até então."
+        },
+        {
+            "id": 143,
+            "model": "이스마엘",
+            "content": "Es… espera…! Por quê…?"
+        },
+        {
+            "id": 144,
+            "model": "다친홍루",
+            "content": "……."
+        },
+        {
+            "id": 145,
+            "content": "Jia Qiu saiu da sala e logo sumiu de vista."
+        },
+        {
+            "id": 146,
+            "model": "사회자",
+            "content": "……."
+        },
+        {
+            "id": 147,
+            "model": "사회자",
+            "content": "Jia Qiu e Jia Huan, da família Jia, desistiram ao mesmo tempo e estão eliminados!"
+        },
+        {
+            "id": 148,
+            "model": "로쟈",
+            "content": "…E-espera aí. Isso não nos coloca em primeiro lugar…?"
+        },
+        {
+            "id": 149,
+            "model": "히스클리프",
+            "content": "E não é bom? Primeiro é melhor que segundo."
+        },
+        {
+            "id": 150,
+            "model": "이스마엘",
+            "content": "Não é essa a questão! A gente precisa do Ramo Dourado que está no depósito, não do posto de Patriarca…!"
+        },
+        {
+            "id": 151,
+            "content": "Enquanto os Pecadores se perdiam na confusão daquela situação inesperada…"
+        },
+        {
+            "id": 152,
+            "model": "싱클레어",
+            "content": "Existe, né? Uma pessoa que quer desesperadamente se tornar Patriarca."
+        },
+        {
+            "id": 153,
+            "model": "싱클레어",
+            "content": "E que ainda não desistiu."
+        },
+        {
+            "id": 154,
+            "model": "사회자",
+            "content": "A Seleção do Patriarca já parece ter seu primeiro lugar definido. Faltam dez minutos para o encerramento!"
+        },
+        {
+            "id": 155,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 156,
+            "model": "단테",
+            "content": "<Pessoal…>"
+        },
+        {
+            "id": 157,
+            "model": "단테",
+            "content": "<…que tal a gente…?>"
+        },
+        {
+            "id": 158,
+            "content": "Pouco depois…"
+        },
+        {
+            "id": 159,
+            "place": "Grande Jardim — Salão de Banquetes de Aojingguan",
+            "model": "가원춘",
+            "content": "A Seleção do Patriarca chegou ao fim. A todos os candidatos e Casas que participaram, quero dizer que se saíram bem até o final."
+        },
+        {
+            "id": 160,
+            "model": "가시춘",
+            "content": "Eh… alguém… pode me explicar o que está acontecendo?"
+        },
+        {
+            "id": 161,
+            "model": "가원춘",
+            "content": "Que todos aceitem e acatem o precioso resultado que enfim se revelou."
+        },
+        {
+            "id": 162,
+            "model": "가원춘",
+            "content": "O vencedor final deverá prestar suas reverências aos Anciãos em Tiekansi; depois, ao subir à superfície e adentrar o 1º andar do Grande Jardim, se tornará enfim o Patriarca de Hongyuan."
+        },
+        {
+            "id": 163,
+            "model": "로쟈",
+            "content": "Então… a gente também ainda está tentando entender a situação…"
+        },
+        {
+            "id": 164,
+            "model": "가원춘",
+            "content": "Resultado final da disputa pelo Patriarcado."
+        },
+        {
+            "id": 165,
+            "model": "가원춘",
+            "content": "3º lugar: Huan, da família Jia."
+        },
+        {
+            "id": 166,
+            "model": "웨이",
+            "content": "Senhorita, não se exalte… há muitos olhos aqui, a compostura…"
+        },
+        {
+            "id": 167,
+            "model": "가원춘",
+            "content": "2º lugar: Baoyu, da família Jia."
+        },
+        {
+            "id": 168,
+            "model": "이상",
+            "content": "…Tendes alguma ideia do motivo que o levou a agir assim… Hong Lu?"
+        },
+        {
+            "id": 169,
+            "model": "홍루",
+            "content": "Hum… não."
+        },
+        {
+            "id": 170,
+            "model": "홍루",
+            "content": "Eu não saberia dizer."
+        },
+        {
+            "id": 171,
+            "model": "가시춘",
+            "content": "Não, do que vocês estão falando…"
+        },
+        {
+            "id": 172,
+            "model": "그레고르",
+            "content": "Bom, enfim… dá pra dizer que acabou bem, né?"
+        },
+        {
+            "id": 173,
+            "model": "가시춘",
+            "content": "Não é isso… Por que, eu…"
+        },
+        {
+            "id": 174,
+            "model": "가원춘",
+            "content": "E quem conquistou o posto de Patriarca… o 1º lugar. A vencedora final da Seleção do Patriarca…"
+        },
+        {
+            "id": 175,
+            "model": "가시춘",
+            "content": "Então… eu…"
+        },
+        {
+            "id": 176,
+            "model": "가원춘",
+            "content": "Xichun, da família Jia."
+        },
+        {
+            "id": 177,
+            "model": "가시춘",
+            "content": "Eu vou mesmo… ser a Patriarca?"
+        },
+        {
+            "id": 178,
+            "content": "Foi um encerramento frio e silencioso, sem sequer os aplausos de praxe."
+        },
+        {
+            "id": 179,
+            "content": "Jia Xichun, com a cara de quem ainda não entendia nada daquela situação."
+        },
+        {
+            "id": 180,
+            "content": "E Hong Lu, de quem ainda não se sabia para onde olhava."
+        },
+        {
+            "id": 181,
+            "content": "A disputa pelo Patriarcado… chegou assim ao fim."
+        }
+    ]
+}

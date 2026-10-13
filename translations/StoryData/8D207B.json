@@ -1,0 +1,43 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção, Subsolo 2",
+            "model": "사회자",
+            "content": "Agora falta mesmo muito pouco."
+        },
+        {
+            "id": 1,
+            "model": "사회자",
+            "content": "Enquanto eu falava, dois candidatos foram eliminados em sequência!"
+        },
+        {
+            "id": 2,
+            "model": "사회자",
+            "content": "Assim que o da Família Wang perdeu as moedas, o da Família Shi esmagou a cabeça dele de uma vez. Que fim digno de se ver, os dois caindo juntos!"
+        },
+        {
+            "id": 3,
+            "model": "사회자",
+            "content": "E em 1º lugar continua… Jia Qiu, da Família Jia!"
+        },
+        {
+            "id": 4,
+            "model": "사씨사병1",
+            "teller": "Membro Frio da Facção",
+            "content": "Ali está ele, peguem!"
+        },
+        {
+            "id": 5,
+            "model": "사씨사병2",
+            "teller": "Membro Ansioso da Facção",
+            "content": "Q-quem é? Aquele ali não é da Família Jia…?"
+        },
+        {
+            "id": 6,
+            "model": "사씨사병1",
+            "teller": "Membro Frio da Facção",
+            "content": "Jia Qiu está fora do nosso alcance mesmo; pelo menos peguem o Jia Baoyu!"
+        }
+    ]
+}

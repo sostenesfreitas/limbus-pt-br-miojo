@@ -1,0 +1,655 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção, Subsolo 1",
+            "model": "사회자",
+            "content": "Muito bem, o espaço continua encolhendo!"
+        },
+        {
+            "id": 1,
+            "model": "사회자",
+            "content": "Que escolhas estarão fazendo os nossos candidatos?"
+        },
+        {
+            "id": 2,
+            "model": "사회자",
+            "content": "No momento, em primeiro lugar está Jia Qiu, da Família Jia, varrendo as moedas dos outros candidatos num ritmo assustador."
+        },
+        {
+            "id": 3,
+            "model": "임대옥",
+            "content": "A Cabeça…"
+        },
+        {
+            "id": 4,
+            "model": "임대옥",
+            "content": "A Matriarca… foi quem fez com que viesse?"
+        },
+        {
+            "id": 5,
+            "model": "임대옥",
+            "content": "Mas… como…?"
+        },
+        {
+            "id": 6,
+            "model": "이스마엘",
+            "content": "Espera. Não estão ouvindo um barulho vindo daquele corredor ali?"
+        },
+        {
+            "id": 7,
+            "model": "설보차",
+            "content": "Já falei… não resta muito tempo!"
+        },
+        {
+            "id": 8,
+            "model": "설보차",
+            "content": "E se o Baoyu se machucar nesse meio-tempo, o que você vai fazer?!"
+        },
+        {
+            "id": 9,
+            "model": "설씨사병1",
+            "content": "Senhorita Baochai… acalme-se… Parece que o jovem senhor Pan também foi eliminado, então é melhor reforçarmos as tropas antes… O que a senhorita vai fazer se topar com o tal Jia Qiu assim…?"
+        },
+        {
+            "id": 10,
+            "model": "설보차",
+            "content": "Não quero! Eu preciso ver se o Baoyu está bem. Já fiquei chateada por ter perdido a Daiyu de vista…"
+        },
+        {
+            "id": 11,
+            "model": "설씨사병1",
+            "content": "Falando nisso, além da guarda-costas Daiyu, cinco dos nossos também sumiram…"
+        },
+        {
+            "id": 12,
+            "model": "설보차",
+            "content": "Não é a mesma coisa?!"
+        },
+        {
+            "id": 13,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 14,
+            "model": "임대옥",
+            "content": "Senhorita Baochai."
+        },
+        {
+            "id": 15,
+            "model": "설보차",
+            "content": "……."
+        },
+        {
+            "id": 16,
+            "model": "설보차",
+            "content": "Daiyu…"
+        },
+        {
+            "id": 17,
+            "model": "설보차",
+            "content": "E do lado dela…"
+        },
+        {
+            "id": 18,
+            "model": "설보차",
+            "content": "É o Baoyu!"
+        },
+        {
+            "id": 19,
+            "model": "설보차",
+            "content": "Então foram vocês que encontraram o irmão Pan mais cedo! Ufa, fiquei preocupada, Baoyu."
+        },
+        {
+            "id": 20,
+            "model": "로쟈",
+            "content": "Mas é que… o seu Xue Pan não tá lá muito bem…? Tipo, ele não tá respirando…"
+        },
+        {
+            "id": 21,
+            "model": "오티스",
+            "content": "É o preço da imprudência."
+        },
+        {
+            "id": 22,
+            "model": "설보차",
+            "content": "Tudo bem~ A gente não morre com tão pouco."
+        },
+        {
+            "id": 23,
+            "model": "설보차",
+            "content": "Mas talvez desta vez o procedimento mude um pouco. Se for assim, que ele volte mais obediente à mamãe~"
+        },
+        {
+            "id": 24,
+            "model": "설보차",
+            "content": "Será que é porque cada um tem seu temperamento? O irmão Pan não fica manso tão fácil quanto os outros, sabe?"
+        },
+        {
+            "id": 25,
+            "model": "싱클레어",
+            "content": "E-entendi."
+        },
+        {
+            "id": 26,
+            "model": "설보차",
+            "content": "Baoyu, você não se machucou?"
+        },
+        {
+            "id": 27,
+            "model": "홍루",
+            "content": "Não, estou bem."
+        },
+        {
+            "id": 28,
+            "model": "설보차",
+            "content": "Ufa… que bom. Mas…"
+        },
+        {
+            "id": 29,
+            "content": "O rosto de Xue Baochai ficou um pouco emburrado."
+        },
+        {
+            "id": 30,
+            "model": "설보차",
+            "content": "Por que a Daiyu está do seu lado?"
+        },
+        {
+            "id": 31,
+            "model": "임대옥",
+            "content": "…Senhorita Baochai, não entenda mal."
+        },
+        {
+            "id": 32,
+            "model": "임대옥",
+            "content": "Eu me perdi por um instante e o irmão me encontrou. Devo-lhe apenas esse favor, nada mais."
+        },
+        {
+            "id": 33,
+            "model": "설보차",
+            "content": "Encontraram muitos outros candidatos?"
+        },
+        {
+            "id": 34,
+            "model": "임대옥",
+            "content": "Sim. Felizmente, até agora consegui me manter em segurança."
+        },
+        {
+            "id": 35,
+            "model": "설보차",
+            "content": "……."
+        },
+        {
+            "id": 36,
+            "model": "설보차",
+            "content": "Baoyu… sabe…"
+        },
+        {
+            "id": 37,
+            "model": "설보차",
+            "content": "Que tal encerrarmos a 2ª seleção por aqui?"
+        },
+        {
+            "id": 38,
+            "model": "설보차",
+            "content": "Se houver algum acordo de dinheiro te prendendo, eu posso pagar tudo."
+        },
+        {
+            "id": 39,
+            "model": "설보차",
+            "content": "E vocês também, se receberam alguma proposta, posso acrescentar uns três zeros à quantia."
+        },
+        {
+            "id": 40,
+            "model": "로쟈",
+            "content": "N-nós…"
+        },
+        {
+            "id": 41,
+            "model": "로쟈",
+            "content": "…não estamos presos por esse tipo de coisa…"
+        },
+        {
+            "id": 42,
+            "model": "그레고르",
+            "content": "Ô, criatura… não dá pra vacilar por dinheiro aqui."
+        },
+        {
+            "id": 43,
+            "content": "Rodya, engolindo em seco e negando a muito custo, parecia um tanto digna de pena…"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Irmã Baochai."
+        },
+        {
+            "id": 45,
+            "model": "홍루",
+            "content": "Por que está dizendo isso?"
+        },
+        {
+            "id": 46,
+            "model": "설보차",
+            "content": "Você sabe o que está acontecendo ali na frente?"
+        },
+        {
+            "id": 47,
+            "model": "설보차",
+            "content": "Jia Qiu… ele…"
+        },
+        {
+            "id": 48,
+            "model": "설보차",
+            "content": "…está surrando todo mundo, não importa de que família."
+        },
+        {
+            "id": 49,
+            "model": "설보차",
+            "content": "Mais cedo, três candidatos partiram pra cima dele ao mesmo tempo, e nenhum deu conta!"
+        },
+        {
+            "id": 50,
+            "model": "설보차",
+            "content": "O espaço vai continuar encolhendo… e aí você também vai acabar topando com o Jia… com o irmão Qiu."
+        },
+        {
+            "id": 51,
+            "model": "설보차",
+            "content": "Ah, é. Disseram que o irmão Huan também não é fácil."
+        },
+        {
+            "id": 52,
+            "model": "홍루",
+            "content": "…É, imagino que não."
+        },
+        {
+            "id": 53,
+            "model": "설보차",
+            "content": "……."
+        },
+        {
+            "id": 54,
+            "model": "설보차",
+            "content": "Baoyu, lembra do que você me disse quando eu estava chorando?"
+        },
+        {
+            "id": 55,
+            "place": "Um Dia, em Algum Lugar do Grande Jardim",
+            "model": "하인2",
+            "content": "Senhorita… acalme-se."
+        },
+        {
+            "id": 56,
+            "model": "하인2",
+            "content": "Vou ao mercado comprar para a senhorita o que cantar melhor e tiver as penas mais bonitas."
+        },
+        {
+            "id": 57,
+            "model": "설보차",
+            "content": "Eu… gostava do pássaro que estava na minha gaiola…"
+        },
+        {
+            "id": 58,
+            "model": "과거홍루",
+            "content": "……."
+        },
+        {
+            "id": 59,
+            "model": "하인2",
+            "content": "Ah, é o jovem senhor Baoyu."
+        },
+        {
+            "id": 60,
+            "model": "설보차",
+            "content": "Baoyu? O que a joia preciosa do Grande Jardim, a que a Matriarca mais preza, está fazendo aqui?"
+        },
+        {
+            "id": 61,
+            "model": "과거홍루",
+            "content": "…Você está brava, irmã."
+        },
+        {
+            "id": 62,
+            "model": "설보차",
+            "content": "Não estou brava. Estou triste."
+        },
+        {
+            "id": 63,
+            "model": "설보차",
+            "content": "O pássaro de que eu tanto gostava voou. Foi só eu abrir a gaiola um instante para dar água…"
+        },
+        {
+            "id": 64,
+            "model": "과거홍루",
+            "content": "Tudo bem. Quando as flores de damasqueiro desabrocharem de novo no ano que vem, ele vai se lembrar de ter vindo aqui…"
+        },
+        {
+            "id": 65,
+            "model": "과거홍루",
+            "content": "…e vai voltar para ver as flores."
+        },
+        {
+            "id": 66,
+            "model": "설보차",
+            "content": "……."
+        },
+        {
+            "id": 67,
+            "model": "과거홍루",
+            "content": "…Então não precisa ficar zangada. Seria um desperdício do perfume bom que vem de você, irmã."
+        },
+        {
+            "id": 68,
+            "place": "Local de Seleção, Subsolo 1",
+            "model": "설보차",
+            "content": "E aí você sorriu, com o olhar brilhando como uma joia de verdade."
+        },
+        {
+            "id": 69,
+            "model": "설보차",
+            "content": "Antes disso, você parecia sombrio e sem energia… mas, estranhamente, gostei muito de ouvir aquilo."
+        },
+        {
+            "id": 70,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 71,
+            "model": "설보차",
+            "content": "Baoyu, a Matriarca e a minha mãe disseram que, se você voltasse ao Grande Jardim, iam arranjar o nosso noivado, lembra?"
+        },
+        {
+            "id": 72,
+            "model": "설보차",
+            "content": "Por isso, já deixei o quarto onde você vai morar todo arrumadinho. Todo dia eu dou uma olhada lá e sonho com o Grande Jardim ao seu lado."
+        },
+        {
+            "id": 73,
+            "model": "설보차",
+            "content": "Depois eu te mostro o formato do lago e como arrumei os móveis. Comigo, só vão acontecer coisas boas."
+        },
+        {
+            "id": 74,
+            "model": "설보차",
+            "content": "Então vamos voltar."
+        },
+        {
+            "id": 75,
+            "model": "홍루",
+            "content": "…Desculpa, irmã."
+        },
+        {
+            "id": 76,
+            "model": "홍루",
+            "content": "Ainda tenho uma promessa a cumprir."
+        },
+        {
+            "id": 77,
+            "model": "설보차",
+            "content": "Isso… você pode largar e vir, não pode?"
+        },
+        {
+            "id": 78,
+            "model": "설보차",
+            "content": "Uma joia como você deve ficar num lugar onde possa brilhar ainda mais."
+        },
+        {
+            "id": 79,
+            "model": "홍루",
+            "content": "Eu…"
+        },
+        {
+            "id": 80,
+            "model": "히스클리프",
+            "content": "Ô… tu vai se casar?"
+        },
+        {
+            "id": 81,
+            "content": "Talvez tenha se lembrado de Catherine."
+        },
+        {
+            "id": 82,
+            "content": "Heathcliff olhou alternadamente para Hong Lu, Xue Baochai e Lin Daiyu com um olhar complicado, e mergulhou em silêncio nos próprios pensamentos."
+        },
+        {
+            "id": 83,
+            "model": "왕대위",
+            "content": "…<i>Tanglang bu chan, huangque zai hou</i> (螳螂捕蟬, 黃雀在后)."
+        },
+        {
+            "id": 84,
+            "model": "왕대위",
+            "content": "O louva-a-deus caça a cigarra, sem saber que um pardal o espreita logo atrás."
+        },
+        {
+            "id": 85,
+            "model": "왕대위",
+            "content": "Acho que é exatamente para momentos como este que se diz isso."
+        },
+        {
+            "id": 86,
+            "model": "히스클리프",
+            "content": "Aff… quem é o infeliz dessa vez?!"
+        },
+        {
+            "id": 87,
+            "model": "왕대위",
+            "content": "Um candidato sábio, que busca o máximo de lucro em meio à confusão. Chamo-me Wang Dawei."
+        },
+        {
+            "id": 88,
+            "model": "왕대위",
+            "content": "A chave desta disputa pelo Patriarca era com qual candidato forte se aliar e que estratégia tramar."
+        },
+        {
+            "id": 89,
+            "model": "왕대위",
+            "content": "Por isso, este Wang Dawei se aliou a outro candidato que, embora não tenha podido participar por conta de um trágico acidente…"
+        },
+        {
+            "id": 90,
+            "model": "왕대위",
+            "content": "…dedicou-se a esta disputa com mais fervor do que qualquer um."
+        },
+        {
+            "id": 91,
+            "model": "사이화부활",
+            "content": "Ajoelhem-se e curvem a cabeça!"
+        },
+        {
+            "id": 92,
+            "model": "사이화부활",
+            "content": "Pois eu… estou de volta!"
+        },
+        {
+            "id": 93,
+            "model": "이스마엘",
+            "content": "Esse… de novo? Depois de tudo o que passou?"
+        },
+        {
+            "id": 94,
+            "model": "오티스",
+            "content": "Quando é que você vai tomar juízo, moleque?!"
+        },
+        {
+            "id": 95,
+            "model": "사이화부활",
+            "content": "Haha! Juízo? Não sei o que é isso, mas hoje é o melhor dia da minha vida!"
+        },
+        {
+            "id": 96,
+            "model": "왕대위",
+            "content": "Usando uma receita secreta passada só na Família Wang, fiz uma pílula um pouco diferente, a partir do seguro de vida convencional."
+        },
+        {
+            "id": 97,
+            "model": "왕대위",
+            "content": "Aliás, é uma pílula que ainda não está à venda no mercado. É uma honra poder apresentá-la hoje."
+        },
+        {
+            "id": 98,
+            "model": "싱클레어",
+            "content": "Esse cara… fica falando olhando pra onde…?"
+        },
+        {
+            "id": 99,
+            "model": "돈키호테",
+            "content": "Parece-me que para uma câmera…"
+        },
+        {
+            "id": 100,
+            "model": "사회자",
+            "content": "Sim~ Que cena empolgante! A plateia está adorando!"
+        },
+        {
+            "id": 101,
+            "model": "사회자",
+            "content": "Opa? Parece que um espectador, impressionado com tamanha ousadia, vai conceder uma graça!"
+        },
+        {
+            "id": 102,
+            "model": "사회자",
+            "content": "Uma recompensa especial: a chance de levar um montão de moedas do candidato que quiser!"
+        },
+        {
+            "id": 103,
+            "model": "사회자",
+            "content": "Basta dizer o nome do candidato!"
+        },
+        {
+            "id": 104,
+            "model": "왕대위",
+            "content": "…Hm, então as moedas de Jia Qiu, da Família Jia…"
+        },
+        {
+            "id": 105,
+            "model": "사회자",
+            "content": "Só não se esqueça das represálias que podem vir do candidato que perder as moedas."
+        },
+        {
+            "id": 106,
+            "model": "왕대위",
+            "content": "…não, melhor, de Jia Baoyu…"
+        },
+        {
+            "id": 107,
+            "model": "이스마엘",
+            "content": "O… o quê?"
+        },
+        {
+            "id": 108,
+            "model": "홍루",
+            "content": "Ele é rápido de raciocínio."
+        },
+        {
+            "id": 109,
+            "model": "사회자",
+            "content": "Sim, o escolhido é Baoyu, da Família Jia!"
+        },
+        {
+            "id": 110,
+            "content": "Mal o apresentador terminou de falar…"
+        },
+        {
+            "id": 111,
+            "model": "홍루",
+            "content": "Ué…"
+        },
+        {
+            "id": 112,
+            "content": "Parte das moedas penduradas na roupa de Hong Lu escorregou pelo cordão e caiu no chão com um tilintar."
+        },
+        {
+            "id": 113,
+            "model": "그레고르",
+            "content": "Que isso… como é que elas saíram?"
+        },
+        {
+            "id": 114,
+            "model": "이스마엘",
+            "content": "N-não…! A gente… deu tanto trabalho pra juntar…"
+        },
+        {
+            "id": 115,
+            "model": "히스클리프",
+            "content": "…Não dá pra só catar de volta?"
+        },
+        {
+            "id": 116,
+            "model": "돈키호테",
+            "content": "Bastaria limpar o pó e ficariam como novas…"
+        },
+        {
+            "id": 117,
+            "content": "Don Quixote olhava, com olhos chorosos, as moedas rolando."
+        },
+        {
+            "id": 118,
+            "model": "사회자",
+            "content": "Como se trata de uma recompensa especial concedida pela plateia~ as moedas caídas perdem o dono!"
+        },
+        {
+            "id": 119,
+            "model": "사회자",
+            "content": "Ou seja, não adianta assoprar!"
+        },
+        {
+            "id": 120,
+            "model": "왕대위",
+            "content": "Hehe… irmão Yihua, nossa parte aqui está feita. Vamos indo para outro lugar…"
+        },
+        {
+            "id": 121,
+            "model": "사이화부활",
+            "content": "Como assim? Eu só estou começando!"
+        },
+        {
+            "id": 122,
+            "model": "왕대위",
+            "content": "…Não, ainda temos mais o que fazer. Precisamos nos mover logo."
+        },
+        {
+            "id": 123,
+            "model": "사이화부활",
+            "content": "Não! Não! Não!"
+        },
+        {
+            "id": 124,
+            "model": "사이화부활",
+            "content": "Não volto enquanto não tiver nas minhas mãos a cabeça daquele Jia Baoyu e do Jia Qiu!"
+        },
+        {
+            "id": 125,
+            "model": "사이화부활",
+            "content": "Isso, se eu levar a cabeça do irmão Qiu… a mãe vai me perdoar agora."
+        },
+        {
+            "id": 126,
+            "model": "왕대위",
+            "content": "…Ficou ainda mais burro por efeito colateral? Não, minha pílula não faria isso…"
+        },
+        {
+            "id": 127,
+            "model": "사이화부활",
+            "content": "Aah… imortalidade… que palavra deslumbrante!"
+        },
+        {
+            "id": 128,
+            "model": "사이화부활",
+            "content": "Algo com que humanos comuns como vocês nem podem sonhar…"
+        },
+        {
+            "id": 129,
+            "model": "사이화부활",
+            "content": "Depois de experimentar isso na pele, vi que a cadeira de Patriarca não tinha importância nenhuma."
+        },
+        {
+            "id": 130,
+            "model": "사이화부활",
+            "content": "Mostrem respeito! Pois eu alcancei a imortalidade que vermes como vocês tanto almejam!"
+        }
+    ]
+}

@@ -1,0 +1,844 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção, 1º andar",
+            "model": "히스클리프",
+            "content": "Eu… arf… juro que antes de a gente sair daqui… arf… eu ainda meto a mão na fuça daquela ali…"
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Arf… eu devia… ter feito… exercício… junto com vocês… arf… arf…>"
+        },
+        {
+            "id": 2,
+            "content": "Eu queria sentar e descansar ali mesmo… mas agora já não dava mais pra ficar muito tempo parado num lugar só."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Só nos resta seguir em frente…>"
+        },
+        {
+            "id": 4,
+            "model": "이상",
+            "content": "Hong Lu… Imagino que, aos olhos de uma criança, este lugar não fosse lá muito interessante outrora…"
+        },
+        {
+            "id": 5,
+            "model": "이상",
+            "content": "Não o achava enfadonho?"
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "A Vovó era uma pessoa que entendia muitíssimo de Bólus."
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "Ela comandava este lugar sem descanso, dando ordens aos pesquisadores."
+        },
+        {
+            "id": 8,
+            "model": "홍루",
+            "content": "Então acho que, só de olhar, eu não ficava entediado. E…"
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 10,
+            "model": "이상",
+            "content": "Hong Lu?"
+        },
+        {
+            "id": 11,
+            "model": "홍루",
+            "content": "…Pensando bem, toda vez que a Vovó dizia que íamos vir pra cá…"
+        },
+        {
+            "id": 12,
+            "model": "홍루",
+            "content": "acho que eu ficava um pouquinho contente."
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "Por quê?"
+        },
+        {
+            "id": 14,
+            "model": "홍루",
+            "content": "É que…"
+        },
+        {
+            "id": 15,
+            "content": "Foi então que Outis, que ia à frente, parou de andar, cerrou o punho e o sacudiu na nossa direção."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "Ei, ei, parem todos. Parece que tem alguma coisa lá na frente."
+        },
+        {
+            "id": 17,
+            "model": "오티스",
+            "content": "Parece ser só uma pessoa."
+        },
+        {
+            "id": 18,
+            "model": "오티스",
+            "content": "Tomara que seja uma candidata separada da própria Casa. Sozinha, vai ser fácil tirar as moedas dela."
+        },
+        {
+            "id": 19,
+            "content": "Outis, que se movia com mais naturalidade do que qualquer um de nós, como se estivesse acostumada a esse tipo de lugar, falou num tom esperançoso, mas…"
+        },
+        {
+            "id": 20,
+            "model": "홍루",
+            "content": "Tudo bem, Outis."
+        },
+        {
+            "id": 21,
+            "model": "홍루",
+            "content": "É alguém que eu conheço."
+        },
+        {
+            "id": 22,
+            "content": "Ao contrário do que Outis esperava, aquela pessoa não era uma candidata."
+        },
+        {
+            "id": 23,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "A guarda-costas da Família Xue… não era isso?"
+        },
+        {
+            "id": 25,
+            "model": "홍루",
+            "content": "Daiyu, por que você ficou aqui sozinha?"
+        },
+        {
+            "id": 26,
+            "model": "홍루",
+            "content": "Que coincidência, eu estava pensando em você agorinha mesmo."
+        },
+        {
+            "id": 27,
+            "model": "임대옥",
+            "content": "Irmão Baoyu…?"
+        },
+        {
+            "id": 28,
+            "content": "Daiyu olhou para Hong Lu com olhos incrédulos por um instante, mas logo o encarou com o rosto endurecido."
+        },
+        {
+            "id": 29,
+            "model": "임대옥",
+            "content": "Ah… Parece que deixei vocês em alerta. Peço desculpas."
+        },
+        {
+            "id": 30,
+            "model": "임대옥",
+            "content": "As paredes surgiram de repente e… não, foi por descuido meu que acabei separada da Casa."
+        },
+        {
+            "id": 31,
+            "model": "이스마엘",
+            "content": "Então… você também não sabe onde está o pessoal da Casa, nem a candidata que você seguia?"
+        },
+        {
+            "id": 32,
+            "model": "임대옥",
+            "content": "…Não."
+        },
+        {
+            "id": 33,
+            "model": "싱클레어",
+            "content": "Mas se você ficar aqui e topar com outros candidatos…"
+        },
+        {
+            "id": 34,
+            "model": "임대옥",
+            "content": "Vão tentar me eliminar, mesmo eu sendo só uma integrante da Casa. É o mais vantajoso pra eles, afinal."
+        },
+        {
+            "id": 35,
+            "model": "홍루",
+            "content": "Daiyu, então… você pretendia ficar aqui esperando por quem você segue?"
+        },
+        {
+            "id": 36,
+            "model": "임대옥",
+            "content": "…Sim."
+        },
+        {
+            "id": 37,
+            "model": "임대옥",
+            "content": "Acho que, sem perceber, eu quis acreditar. Que, se ficasse quietinha esperando no lugar onde nos perdemos… uma hora voltariam pra me buscar."
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "Impossível. O espaço está encolhendo cada vez mais; ninguém vai correr o risco de voltar só pra buscar uma única pessoa."
+        },
+        {
+            "id": 39,
+            "model": "임대옥",
+            "content": "…Entendo. A senhora tem razão."
+        },
+        {
+            "id": 40,
+            "content": "Um clima constrangedor pairou no ar por um instante."
+        },
+        {
+            "id": 41,
+            "model": "임대옥",
+            "content": "O irmão… talvez tenha uma certa vantagem sobre os outros candidatos."
+        },
+        {
+            "id": 42,
+            "model": "임대옥",
+            "content": "Afinal, conhece este lugar melhor do que ninguém. Não é verdade?"
+        },
+        {
+            "id": 43,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 44,
+            "model": "임대옥",
+            "content": "Antigamente também… assim como agora, você não me contou nada até o fim."
+        },
+        {
+            "id": 45,
+            "model": "임대옥",
+            "content": "Nem durante todos aqueles longos anos em que tive que servir ao irmão, depois do Dia da Extinção…"
+        },
+        {
+            "id": 46,
+            "place": "Passado, Prédio da Família Kong",
+            "model": "어린임대옥",
+            "content": "Irmão Baoyu! Aqui, vem aqui!"
+        },
+        {
+            "id": 47,
+            "model": "어린임대옥",
+            "content": "Aff, por que essa cara de choro de novo hoje? A gente combinou de brincar da brincadeira que você gosta, lembra?"
+        },
+        {
+            "id": 48,
+            "model": "어린임대옥",
+            "content": "Ou tem gente sendo má com você de novo? Ontem eu aprendi um golpe novo com o professor, e com ele eu…"
+        },
+        {
+            "id": 49,
+            "model": "어린홍루",
+            "content": "Não, tá tudo bem, Daiyu."
+        },
+        {
+            "id": 50,
+            "model": "어린홍루",
+            "content": "Eu ainda não entendo por que todo mundo fala essas coisas pra mim, mas…"
+        },
+        {
+            "id": 51,
+            "model": "어린홍루",
+            "content": "mesmo assim… um dia a gente ainda pode se dar bem."
+        },
+        {
+            "id": 52,
+            "model": "대관원사람",
+            "content": "Jovem senhor Baoyu… por acaso sabe onde está a Matriarca?"
+        },
+        {
+            "id": 53,
+            "model": "어린홍루",
+            "content": "Ela disse que ia ficar mais um pouco no laboratório."
+        },
+        {
+            "id": 54,
+            "model": "대관원사람",
+            "content": "Ah, e agora… Eu preciso falar com a Matriarca… é um pouco urgente…"
+        },
+        {
+            "id": 55,
+            "model": "대관원사람",
+            "content": "Eu preciso de mais Bólus pra manter este corpo… mas a Matriarca não me responde nunca… então pensei em vir falar pessoalmente e…"
+        },
+        {
+            "id": 56,
+            "model": "대관원사람",
+            "content": "Argh…"
+        },
+        {
+            "id": 57,
+            "model": "어린홍루",
+            "content": "…!"
+        },
+        {
+            "id": 58,
+            "model": "어린홍루",
+            "content": "A… A senhora está bem?"
+        },
+        {
+            "id": 59,
+            "model": "어린임대옥",
+            "content": "Irmão… f-fica atrás de mim…!"
+        },
+        {
+            "id": 60,
+            "model": "어린임대옥",
+            "content": "Essa pessoa… não é de Hongyuan…"
+        },
+        {
+            "id": 61,
+            "model": "발톱",
+            "content": "……."
+        },
+        {
+            "id": 62,
+            "model": "과거가모",
+            "content": "Pelo visto, faz mais de uma semana que ela não descarta o próprio corpo clonado."
+        },
+        {
+            "id": 63,
+            "model": "과거가모",
+            "content": "Que tolice. Eu avisei tantas vezes que, quando o cérebro também é clonado, é preciso descartar um dos corpos dentro de uma semana, para que reste apenas um."
+        },
+        {
+            "id": 64,
+            "model": "과거가모",
+            "content": "No fim das contas, não conseguiu abrir mão de viver num corpo sem doença alguma e com a mente limpa."
+        },
+        {
+            "id": 65,
+            "model": "어린홍루",
+            "content": "V… Vovó… e ela… o que a gente faz?"
+        },
+        {
+            "id": 66,
+            "model": "과거가모",
+            "content": "A Cabeça… jamais deixa vivo quem viola um tabu."
+        },
+        {
+            "id": 67,
+            "model": "과거가모",
+            "content": "Eles são temíveis justamente porque observam tudo e aparecem a qualquer hora, em qualquer lugar."
+        },
+        {
+            "id": 68,
+            "model": "과거가모",
+            "content": "Enquanto se come, no instante em que se adormece, até no meio de um casamento."
+        },
+        {
+            "id": 69,
+            "model": "과거가모",
+            "content": "Se um tabu foi violado, eles vêm e executam a sentença sem se importar com as circunstâncias. Como se fossem… um fenômeno da natureza."
+        },
+        {
+            "id": 70,
+            "model": "과거가모",
+            "content": "…Vamos embora, Baoyu."
+        },
+        {
+            "id": 71,
+            "model": "어린임대옥",
+            "content": "Irmão, não vai tocando nela assim!"
+        },
+        {
+            "id": 72,
+            "model": "어린임대옥",
+            "content": "Acho que… ela já não está respirando."
+        },
+        {
+            "id": 73,
+            "model": "어린홍루",
+            "content": "M-mas… ela ainda está de olhos abertos."
+        },
+        {
+            "id": 74,
+            "model": "어린홍루",
+            "content": "Eu queria… fechar os olhos dela… É triste demais… ficar olhando pra este lugar vazio, sem ninguém, até o fim…"
+        },
+        {
+            "id": 75,
+            "model": "어린임대옥",
+            "content": "Irmão…"
+        },
+        {
+            "id": 76,
+            "model": "어린임대옥",
+            "content": "…Vem aqui amanhã de novo, e depois de amanhã também."
+        },
+        {
+            "id": 77,
+            "model": "어린홍루",
+            "content": "A Vovó vai me trazer aqui todo dia de qualquer jeito…"
+        },
+        {
+            "id": 78,
+            "model": "어린홍루",
+            "content": "Vai acontecer mesmo sem eu querer. Por que você diz isso, Daiyu?"
+        },
+        {
+            "id": 79,
+            "model": "어린임대옥",
+            "content": "Porque… quando eu olho pra você, parece que…"
+        },
+        {
+            "id": 80,
+            "model": "어린임대옥",
+            "content": "você está com uma cara de quem vai sumir deste mundo a qualquer momento."
+        },
+        {
+            "id": 81,
+            "model": "어린임대옥",
+            "content": "Tá bom? Você não pode me deixar sozinha aqui."
+        },
+        {
+            "id": 82,
+            "model": "어린임대옥",
+            "content": "Eu também tenho medo deste lugar, é tudo tão grande e sem fim… Mas… quando eu penso em empinar pipa com você… mesmo assim…"
+        },
+        {
+            "id": 83,
+            "model": "어린임대옥",
+            "content": "eu consigo me sentir um pouquinho melhor."
+        },
+        {
+            "id": 84,
+            "place": "Passado, Interior do Palanquim",
+            "model": "과거가모",
+            "content": "É o Dia do Recadastramento, pelo visto."
+        },
+        {
+            "id": 85,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 86,
+            "model": "어린홍루",
+            "content": "Eu não gosto… dos Dias do Recadastramento… Nem do som dos sinos…"
+        },
+        {
+            "id": 87,
+            "model": "과거가모",
+            "content": "Baoyu, nós nada temos a ver com o Dia do Recadastramento. No Grande Jardim, os cômodos só se alargam; jamais encolhem como os deles."
+        },
+        {
+            "id": 88,
+            "model": "어린홍루",
+            "content": "Vovó…"
+        },
+        {
+            "id": 89,
+            "model": "어린홍루",
+            "content": "Um dia… o Grande Jardim poderia mudar?"
+        },
+        {
+            "id": 90,
+            "model": "과거가모",
+            "content": "…Por que razão você diz uma coisa dessas?"
+        },
+        {
+            "id": 91,
+            "model": "어린홍루",
+            "content": "Porque… eu…"
+        },
+        {
+            "id": 92,
+            "model": "어린홍루",
+            "content": "Este Grande Jardim…"
+        },
+        {
+            "id": 93,
+            "model": "어린홍루",
+            "content": "…! Ah…!"
+        },
+        {
+            "id": 94,
+            "teller": "Morador Caindo",
+            "title": "Hongyuan",
+            "content": "Ugh… Argh…"
+        },
+        {
+            "id": 95,
+            "model": "어린홍루",
+            "content": "V-você está bem?"
+        },
+        {
+            "id": 96,
+            "model": "어린홍루",
+            "content": "Parem um pouco, por favor!"
+        },
+        {
+            "id": 97,
+            "model": "어린홍루",
+            "content": "Segurem esse homem, por favor! Desse jeito ele vai cair. "
+        },
+        {
+            "id": 98,
+            "model": "가마꾼",
+            "content": "Co… Como é?"
+        },
+        {
+            "id": 99,
+            "model": "가마꾼",
+            "content": "Pra ele já não tem mais jeito, jovem senhor."
+        },
+        {
+            "id": 100,
+            "model": "가마꾼",
+            "content": "Mesmo que a gente ajude, não vai adiantar…"
+        },
+        {
+            "id": 101,
+            "model": "어린홍루",
+            "content": "Como é que eu vou passar direto com ele sofrendo desse jeito?"
+        },
+        {
+            "id": 102,
+            "model": "어린홍루",
+            "content": "Ajudem, por favor. Eu imploro. "
+        },
+        {
+            "id": 103,
+            "model": "과거가모",
+            "content": "Baoyu, você não vai conseguir salvar todos eles."
+        },
+        {
+            "id": 104,
+            "model": "과거가모",
+            "content": "E, nesses casos, é melhor nem tentar salvar pela metade."
+        },
+        {
+            "id": 105,
+            "model": "어린홍루",
+            "content": "Eu sei, não dá pra salvar todo mundo. Mas…"
+        },
+        {
+            "id": 106,
+            "model": "어린홍루",
+            "content": "pelo menos esse homem que está caindo bem na minha frente…"
+        },
+        {
+            "id": 107,
+            "model": "과거가모",
+            "content": "No último Dia do Recadastramento você também não conseguiu passar direto por aqui."
+        },
+        {
+            "id": 108,
+            "model": "과거가모",
+            "content": "E então? Houve alguém cuja vida você salvou com isso?"
+        },
+        {
+            "id": 109,
+            "model": "어린홍루",
+            "content": "…Não."
+        },
+        {
+            "id": 110,
+            "model": "어린홍루",
+            "content": "Mesmo assim, Vovó… mesmo assim…"
+        },
+        {
+            "id": 111,
+            "model": "과거가모",
+            "content": "……."
+        },
+        {
+            "id": 112,
+            "model": "과거가모",
+            "content": "Pois faça."
+        },
+        {
+            "id": 113,
+            "model": "과거가모",
+            "content": "Quanto mais cedo você entender, melhor."
+        },
+        {
+            "id": 114,
+            "model": "과거가치우",
+            "content": "……."
+        },
+        {
+            "id": 115,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 116,
+            "model": "과거가모",
+            "content": "O que foi, Baoyu?"
+        },
+        {
+            "id": 117,
+            "model": "어린홍루",
+            "content": "Ah…"
+        },
+        {
+            "id": 118,
+            "model": "어린홍루",
+            "content": "Acho que… vi errado. Parecia que alguém tinha cruzado o olhar comigo…"
+        },
+        {
+            "id": 119,
+            "place": "Local de Seleção, 1º andar",
+            "content": "Quando a cena que se repetia em nossas mentes desapareceu, Lin Daiyu cambaleou e se apoiou na parede."
+        },
+        {
+            "id": 120,
+            "model": "임대옥",
+            "content": "O que… foi isso? Por que cenas do passado que eu não queria rever…"
+        },
+        {
+            "id": 121,
+            "model": "단테",
+            "content": "<…?! Ela também…>"
+        },
+        {
+            "id": 122,
+            "model": "로쟈",
+            "content": "O que a gente acabou de ver… você viu também?"
+        },
+        {
+            "id": 123,
+            "model": "임대옥",
+            "content": "Vocês… o que…"
+        },
+        {
+            "id": 124,
+            "model": "파우스트",
+            "content": "…Dante. Talvez isso também faça parte da expansão de habilidades que Faust mencionou há pouco."
+        },
+        {
+            "id": 125,
+            "model": "단테",
+            "content": "<…Então agora eu consigo mostrar o passado de um Pecador até pra quem não é Pecador?>"
+        },
+        {
+            "id": 126,
+            "model": "단테",
+            "content": "<E ainda por cima sem eu querer…?>"
+        },
+        {
+            "id": 127,
+            "model": "파우스트",
+            "content": "Não dá para descartar a possibilidade por completo, mas é improvável que funcione de forma totalmente aleatória. Deve haver uma condição."
+        },
+        {
+            "id": 128,
+            "model": "싱클레어",
+            "content": "Qual seria o critério? Aquele Wang Zhao de antes não reagiu a nada…"
+        },
+        {
+            "id": 129,
+            "model": "파우스트",
+            "content": "…Uma hipótese possível é a ligação com a intensidade das emoções. As habilidades que se manifestavam nos Pecadores também não ocorriam em estado de calma."
+        },
+        {
+            "id": 130,
+            "model": "파우스트",
+            "content": "Nesse caso… uma pessoa presente numa memória forte o bastante para abalar as emoções do Pecador poderia provocar uma reação de ressonância."
+        },
+        {
+            "id": 131,
+            "model": "단테",
+            "content": "<O Hong Lu…?>"
+        },
+        {
+            "id": 132,
+            "model": "홍루",
+            "content": "Daiyu…"
+        },
+        {
+            "id": 133,
+            "model": "홍루",
+            "content": "Mesmo depois do que você me pediu, acabei deixando você sozinha no Grande Jardim."
+        },
+        {
+            "id": 134,
+            "model": "홍루",
+            "content": "Então o seu ressentimento é justo."
+        },
+        {
+            "id": 135,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 136,
+            "model": "임대옥",
+            "content": "O irmão sabe que não é isso que eu quero ouvir."
+        },
+        {
+            "id": 137,
+            "model": "임대옥",
+            "content": "Aquele dia. Você não me contou nada do que aconteceu aqui… só sorriu."
+        },
+        {
+            "id": 138,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 139,
+            "model": "임대옥",
+            "content": "…Exatamente como agora."
+        },
+        {
+            "id": 140,
+            "content": "Se houve algum pequeno prazer nas visitas ao laboratório, que Hong Lu certamente não desejava…"
+        },
+        {
+            "id": 141,
+            "content": "…esse prazer, provavelmente, era encontrar Lin Daiyu."
+        },
+        {
+            "id": 142,
+            "model": "임대옥",
+            "content": "Depois daquele dia, você passou quase todo o tempo trancado no Grande Jardim… sem nem sair…"
+        },
+        {
+            "id": 143,
+            "model": "임대옥",
+            "content": "Às minhas perguntas, respondia só com um sorriso conveniente, escapando delas…"
+        },
+        {
+            "id": 144,
+            "model": "임대옥",
+            "content": "E então, de repente, disse que ia deixar o Grande Jardim…"
+        },
+        {
+            "id": 145,
+            "model": "임대옥",
+            "content": "O irmão não foi… o único que perdeu pessoas queridas no Dia da Extinção…"
+        },
+        {
+            "id": 146,
+            "model": "임대옥",
+            "content": "Não. Pra começar… o irmão chegou a ter alguém que realmente lhe fosse querido?"
+        },
+        {
+            "id": 147,
+            "content": "Fez-se um breve silêncio. Mesmo diante daquelas palavras afiadas como espinhos, Hong Lu não ofereceu explicação nem negativa alguma."
+        },
+        {
+            "id": 148,
+            "model": "홍루",
+            "content": "…É verdade, Daiyu. A sua dor deve ser muito maior que a minha. Grande demais pra eu sequer imaginar."
+        },
+        {
+            "id": 149,
+            "model": "홍루",
+            "content": "Mas, mesmo que você viesse a saber de tudo… o que esse conhecimento faria pela sua dor?"
+        },
+        {
+            "id": 150,
+            "model": "홍루",
+            "content": "Tanto o sofrimento quanto a alegria são só instantes. Eles apenas passaram; tentar agarrar o que já passou é impossível, e só faria o coração sofrer mais."
+        },
+        {
+            "id": 151,
+            "model": "임대옥",
+            "content": "Eu sei."
+        },
+        {
+            "id": 152,
+            "model": "임대옥",
+            "content": "Mas o que eu não conseguia suportar, acima de tudo… era não saber o que fez o irmão…!"
+        },
+        {
+            "id": 153,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 154,
+            "model": "임대옥",
+            "content": "Perdão, me exaltei um pouco."
+        },
+        {
+            "id": 155,
+            "model": "임대옥",
+            "content": "Demonstrar esses sentimentos a um candidato que nem sequer é meu mestre… não foi correto. Perdoe a minha indelicadeza, irmão."
+        },
+        {
+            "id": 156,
+            "model": "그레고르",
+            "content": "Então… desculpa interromper uma conversa importante, mas… não acham que já tá na hora de sair daqui?"
+        },
+        {
+            "id": 157,
+            "model": "파우스트",
+            "content": "Perdemos bastante tempo. Em breve… as paredes vão subir aqui também."
+        },
+        {
+            "id": 158,
+            "model": "홍루",
+            "content": "Daiyu…"
+        },
+        {
+            "id": 159,
+            "model": "홍루",
+            "content": "Se você não se importar, quer vir com a gente?"
+        },
+        {
+            "id": 160,
+            "model": "홍루",
+            "content": "Pelo menos até encontrarmos a irmã Baochai."
+        },
+        {
+            "id": 161,
+            "model": "임대옥",
+            "content": "Isso é uma esmola de compaixão, irmão?"
+        },
+        {
+            "id": 162,
+            "model": "홍루",
+            "content": "Não. É que aqui é perigoso ficar sozinha."
+        },
+        {
+            "id": 163,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 164,
+            "model": "임대옥",
+            "content": "Se eu for com o irmão… vou ver de novo aquelas visões estranhas de antes?"
+        },
+        {
+            "id": 165,
+            "model": "홍루",
+            "content": "Bom, isso… não é poder meu, é do Gerente…"
+        },
+        {
+            "id": 166,
+            "model": "홍루",
+            "content": "Não quero recomendar que você continue vendo, mas também não vou impedir."
+        },
+        {
+            "id": 167,
+            "model": "임대옥",
+            "content": "…Então, com licença."
+        },
+        {
+            "id": 168,
+            "model": "임대옥",
+            "content": "Vou me esforçar… pra não ser um estorvo… na jornada."
+        }
+    ]
+}

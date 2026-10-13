@@ -1,0 +1,28 @@
+﻿{
+    "dataList": [
+        {
+            "id": "GetConfirmedObject",
+            "content": "<color=#ebcaa2>Artefato {reward} obtido!</color>"
+        },
+        {
+            "id": "GetConfirmedCoin",
+            "content": "<color=#ebcaa2>{stack}x Artefato {reward} obtido(s)!</color>"
+        },
+        {
+            "id": "LoseConfirmedCoin",
+            "content": "<color=#ebcaa2>{stack}x Artefato {reward} perdido(s)!</color>"
+        },
+        {
+            "id": "DestroyObject",
+            "content": "<color=#ebcaa2>Artefato {reward}</color> <color=#e30000>perdido!</color>"
+        },
+        {
+            "id": "GetConfirmedObjectOnWinBattle",
+            "content": "<color=#ebcaa2>Vença a próxima batalha para obter o Artefato {reward}!</color>"
+        },
+        {
+            "id": "HiddenGiftUnlockHiddenRoute",
+            "content": "<color=#ebcaa2>Um novo caminho se abriu no mapa!</color>"
+        }
+    ]
+}

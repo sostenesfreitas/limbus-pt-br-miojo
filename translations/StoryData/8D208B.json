@@ -1,0 +1,562 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Sala Final da Seleção do Patriarca",
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 1,
+            "content": "Como Hong Lu previra, Jia Qiu nos esperava ali."
+        },
+        {
+            "id": 2,
+            "content": "Não sabíamos desde quando. Ele não demonstrava cansaço nem raiva…"
+        },
+        {
+            "id": 3,
+            "content": "Apenas nos observava entrar, em silêncio, com o mesmo semblante sereno do dia em que o conhecemos."
+        },
+        {
+            "id": 4,
+            "model": "에고가환",
+            "content": "Que gentileza a deles."
+        },
+        {
+            "id": 5,
+            "model": "에고가환",
+            "content": "Reunir os que sobraram numa sala só, cara a cara…"
+        },
+        {
+            "id": 6,
+            "model": "에고가환",
+            "content": "Não parece um convite para disputar o primeiro lugar sem o trabalho de procurar uns aos outros?"
+        },
+        {
+            "id": 7,
+            "model": "가치우",
+            "content": "Contenha essa língua insolente, Jia Huan. Você não enxerga um palmo do caminho à sua frente."
+        },
+        {
+            "id": 8,
+            "model": "가치우",
+            "content": "Você não tomou aquele nome para si apenas para carregar nas costas uma soberba tão desprovida de juízo, ou tomou?"
+        },
+        {
+            "id": 9,
+            "content": "Ninguém ousava fazer o primeiro movimento, nem dizer a primeira palavra."
+        },
+        {
+            "id": 10,
+            "content": "De um lado, Jia Huan, que desde o início mostrava forte hostilidade contra Hong Lu e contra nós."
+        },
+        {
+            "id": 11,
+            "content": "Do outro, Jia Qiu, cujos pensamentos não conseguíamos decifrar… mas que talvez ainda guardasse rancor de Hong Lu e sede de vingança pela ruína de sua família."
+        },
+        {
+            "id": 12,
+            "model": "이스마엘",
+            "content": "Olhem… tem algo escrito ali…"
+        },
+        {
+            "id": 13,
+            "content": "Ishmael sussurrou."
+        },
+        {
+            "id": 14,
+            "content": "Uma frase enorme, em letras vermelhas, estava gravada na parede da sala."
+        },
+        {
+            "id": 15,
+            "content": "‘Qual é a virtude necessária a um Patriarca?’"
+        },
+        {
+            "id": 16,
+            "model": "사회자",
+            "content": "Temos aqui reunidos os três primeiros colocados. Quem sabe o primeiro lugar não se decide nesta sala, daqui a pouco?"
+        },
+        {
+            "id": 17,
+            "model": "사회자",
+            "content": "Por isso… preparamos aqui um evento novo, diferente de tudo até agora. Afinal, quem for ser Patriarca precisa, ao menos uma vez, mostrar a Hongyuan o que tem a oferecer."
+        },
+        {
+            "id": 18,
+            "model": "사회자",
+            "content": "Darei aos finalistas um tempo para conversar livremente sobre a pergunta na parede — a questão que está na raiz desta Seleção do Patriarca!"
+        },
+        {
+            "id": 19,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 20,
+            "model": "이상",
+            "content": "…Está a nos pedir um debate?"
+        },
+        {
+            "id": 21,
+            "model": "에고가환",
+            "content": "Que piada. Já se fartaram de sangue e agora querem encerrar ouvindo uma conversa elevada?"
+        },
+        {
+            "id": 22,
+            "model": "사회자",
+            "content": "Se o adversário se convencer… a 2ª seleção pode até terminar só na conversa… Mas e se não chegarem a um acordo?"
+        },
+        {
+            "id": 23,
+            "model": "사회자",
+            "content": "Nada muda! É só continuar a disputa de moedas como até agora — tomar e ser tomado!"
+        },
+        {
+            "id": 24,
+            "content": "Mas aquilo era, literalmente, apenas uma sugestão do apresentador…"
+        },
+        {
+            "id": 25,
+            "content": "Se Jia Qiu ou Jia Huan preferissem simplesmente eliminar todo mundo, teríamos que reagir à altura."
+        },
+        {
+            "id": 26,
+            "model": "단테",
+            "content": "<O que a gente faz…?>"
+        },
+        {
+            "id": 27,
+            "content": "Mas Jia Qiu continuava…"
+        },
+        {
+            "id": 28,
+            "content": "…apenas olhando em silêncio para aquela frase enigmática na parede."
+        },
+        {
+            "id": 29,
+            "model": "홍루",
+            "content": "O que vão fazer, irmãos?"
+        },
+        {
+            "id": 30,
+            "content": "Hong Lu perguntou com toda a calma."
+        },
+        {
+            "id": 31,
+            "content": "Ao mesmo tempo, inúmeras possibilidades passavam pela minha cabeça."
+        },
+        {
+            "id": 32,
+            "content": "E se ele se aliasse a Jia Huan para nos tirar primeiro? Não, alguém do nível de Jia Qiu talvez nem precisasse de aliança para nos derrotar."
+        },
+        {
+            "id": 33,
+            "content": "Ou seja: para ficar em segundo, precisávamos eliminar ao menos um deles."
+        },
+        {
+            "id": 34,
+            "model": "파우스트",
+            "content": "Se desistirmos agora, ainda é possível garantir o terceiro lugar."
+        },
+        {
+            "id": 35,
+            "model": "파우스트",
+            "content": "Contudo, é preciso considerar que, fora desta sala, ainda há candidatos com um número de moedas parecido com o nosso, e que a disputa entre eles pode alterar a classificação…"
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "São variáveis pequenas, mas existem."
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "…O problema é que a única facção que sabe com certeza do Ramo Dourado… está à nossa frente na classificação."
+        },
+        {
+            "id": 38,
+            "model": "오티스",
+            "content": "E não é só saber. Eles teriam motivo até para tomá-lo à força, como daquela vez. Se podem sair com ele sem derramar sangue, não vão recusar."
+        },
+        {
+            "id": 39,
+            "model": "오티스",
+            "content": "O melhor cenário seria… os sujeitos da N Corp. perderem todas as moedas para Jia Qiu e serem eliminados, mas…"
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "Droga… sem saber o que ele pensa, não dá para montar plano nenhum."
+        },
+        {
+            "id": 41,
+            "content": "O suspiro de Outis dizia tudo. Nossa operação estava à beira do fracasso."
+        },
+        {
+            "id": 42,
+            "model": "그레고르",
+            "content": "O sujeito fala pouco… e parece do tipo que prefere botar tudo abaixo a brincar de casinha…"
+        },
+        {
+            "id": 43,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 44,
+            "model": "가치우",
+            "content": "Prepararam-nos este espaço. O correto é que continuemos a conversa."
+        },
+        {
+            "id": 45,
+            "model": "단테",
+            "content": "<…!>"
+        },
+        {
+            "id": 46,
+            "content": "Jia Qiu, porém, começou a dizer algo que ninguém esperava."
+        },
+        {
+            "id": 47,
+            "model": "에고가환",
+            "content": "Isso é inesperado. Pretende mesmo participar desta brincadeira inútil, Jia Qiu?"
+        },
+        {
+            "id": 48,
+            "model": "에고가환",
+            "content": "Pelo visto você levou uma vida bem tranquila nesses longos anos sem dar notícias."
+        },
+        {
+            "id": 49,
+            "model": "가치우",
+            "content": "Foi solitária e pobre; ainda assim, tranquila."
+        },
+        {
+            "id": 50,
+            "model": "가치우",
+            "content": "Por carecer de virtude, não restou ninguém ao meu lado. Então busquei por conta própria o novo, o acolhi e aprendi."
+        },
+        {
+            "id": 51,
+            "model": "에고가환",
+            "content": "Não sei quem você encontrou nem o que acumulou por lá… mas suas ambições cresceram bastante."
+        },
+        {
+            "id": 52,
+            "model": "에고가환",
+            "content": "No caminho para cá, topei com um tal de Zhao, da família Wang…"
+        },
+        {
+            "id": 53,
+            "model": "에고가환",
+            "content": "Esse sujeito, que todos diziam tão esperto, estava sentado sem uma moeda sequer, esperando a eliminação."
+        },
+        {
+            "id": 54,
+            "model": "에고가환",
+            "content": "Quando perguntei o que tinha acontecido, o Wang me disse…"
+        },
+        {
+            "id": 55,
+            "model": "에고가환",
+            "content": "…que havia entregado todas as suas moedas a quem merecia tê-las."
+        },
+        {
+            "id": 56,
+            "model": "에고가환",
+            "content": "Que, por tê-las passado ao homem certo antes que caíssem nas mãos erradas, já era como se tivesse vencido esta disputa… e outras tolices do gênero."
+        },
+        {
+            "id": 57,
+            "model": "에고가환",
+            "content": "Falava com tanta petulância que pensei em cortar-lhe a garganta… mas os Heishou do Local de Seleção me impediram."
+        },
+        {
+            "id": 58,
+            "model": "에고가환",
+            "content": "Por que resolveu cooptar a família Wang justo agora, Jia Qiu?"
+        },
+        {
+            "id": 59,
+            "model": "가치우",
+            "content": "Cooptar é uma palavra grande demais para isso."
+        },
+        {
+            "id": 60,
+            "model": "가치우",
+            "content": "Apenas entendi o que ele considerava benéfico e disse que o faria acontecer."
+        },
+        {
+            "id": 61,
+            "model": "에고가환",
+            "content": "Benéfico, é…"
+        },
+        {
+            "id": 62,
+            "model": "에고가환",
+            "content": "Você praticamente rompeu com o Grande Jardim… Fico curioso para saber que benefício poderia oferecer à família Wang."
+        },
+        {
+            "id": 63,
+            "model": "에고가환",
+            "content": "Está bem… vou acompanhar o jogo por um tempo. Se tem algo a dizer, diga agora."
+        },
+        {
+            "id": 64,
+            "content": "Jia Huan soltou um riso de escárnio e encostou-se na parede, encarando Jia Qiu."
+        },
+        {
+            "id": 65,
+            "model": "가치우",
+            "content": "Perguntar qual é a virtude necessária a um Patriarca…"
+        },
+        {
+            "id": 66,
+            "model": "가치우",
+            "content": "…é o mesmo que perguntar do que precisa Hongyuan, a terra que o Patriarca irá governar."
+        },
+        {
+            "id": 67,
+            "model": "가치우",
+            "content": "Crescendo nesta sala imensa chamada Hongyuan, vi apenas duas coisas."
+        },
+        {
+            "id": 68,
+            "model": "가치우",
+            "content": "Os que matam e os que morrem."
+        },
+        {
+            "id": 69,
+            "model": "가치우",
+            "content": "Para derrubar essa distinção e devolver ao seu lugar uma história em que as pessoas se feriram umas às outras seguindo seus desejos… são necessárias a ‘benevolência’ e o ‘decoro’."
+        },
+        {
+            "id": 70,
+            "model": "에고가환",
+            "content": "Conversa fiada. De que serve isso para gente que, a cada Dia do Recadastramento, se mata para garantir um quarto onde morar?"
+        },
+        {
+            "id": 71,
+            "model": "에고가환",
+            "content": "O que Hongyuan precisa é de poder forte e administração competente. Se quiser acrescentar algo, novas tecnologias que não fiquem atrás das outras Alas."
+        },
+        {
+            "id": 72,
+            "content": "Ao contrário dos dois, que entraram na discussão mais a sério do que eu esperava…"
+        },
+        {
+            "id": 73,
+            "content": "…Hong Lu não disse uma palavra, como se nada daquilo lhe interessasse."
+        },
+        {
+            "id": 74,
+            "content": "Talvez isso o tenha incomodado… O olhar de Jia Qiu voltou-se para Hong Lu."
+        },
+        {
+            "id": 75,
+            "model": "가치우",
+            "content": "…Jia Baoyu."
+        },
+        {
+            "id": 76,
+            "model": "가치우",
+            "content": "Atreva-se a falar você também. Do que Hongyuan mais precisa?"
+        },
+        {
+            "id": 77,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 78,
+            "model": "에고가환",
+            "content": "É melhor não medir aquele ali com a sua régua, Jia Qiu."
+        },
+        {
+            "id": 79,
+            "model": "에고가환",
+            "content": "Perguntar do que Hongyuan precisa a alguém que nem sabe do que <i>ele mesmo</i> precisa."
+        },
+        {
+            "id": 80,
+            "model": "에고가환",
+            "content": "Esse aí não tem nem ambição para enfileirar belas palavras."
+        },
+        {
+            "id": 81,
+            "model": "홍루",
+            "content": "…Sim, o irmão Huan tem razão. Como alguém como eu poderia responder a uma pergunta… sobre grandes causas?"
+        },
+        {
+            "id": 82,
+            "model": "가치우",
+            "content": "Não vou julgá-lo pelas conclusões de Jia Huan ou de qualquer outro de Hongyuan. Ouço o que há para ouvir, mas só a resposta que nasce da minha própria reflexão forma o meu Caminho."
+        },
+        {
+            "id": 83,
+            "model": "가치우",
+            "content": "Por isso, Jia Baoyu, você também não deve responder deixando-se levar pelas conclusões dos outros."
+        },
+        {
+            "id": 84,
+            "content": "Jia Qiu corta a conversa com firmeza. Hong Lu baixa os olhos para o chão, meio sem jeito, e depois volta a encarar Jia Qiu."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Não seria melhor… o irmão nos contar seus pensamentos em detalhe?"
+        },
+        {
+            "id": 86,
+            "model": "에고가환",
+            "content": "Ha… olha só isso."
+        },
+        {
+            "id": 87,
+            "model": "자로",
+            "content": "Responder a uma pergunta com outra, numa situação dessas, significa que ele não lê o cenário."
+        },
+        {
+            "id": 88,
+            "model": "히스클리프",
+            "content": "Ei… acha que uma resposta dessas sai na hora? Dá um tempo pro cara…!"
+        },
+        {
+            "id": 89,
+            "model": "자로",
+            "content": "Quem é que segura o cabo da espada aqui, agora?"
+        },
+        {
+            "id": 90,
+            "model": "자로",
+            "content": "Não entender o que significa, em tempos de caos, o poderoso oferecer uma chance em vez de impor a paz pela força… É lamentável."
+        },
+        {
+            "id": 91,
+            "model": "가치우",
+            "content": "Basta, Zilu."
+        },
+        {
+            "id": 92,
+            "model": "가치우",
+            "content": "Pergunto de novo. O que é preciso para ser Patriarca, do que Hongyuan mais precisa hoje — diga a sua resposta."
+        },
+        {
+            "id": 93,
+            "content": "…Os lábios de Hong Lu pareceram se abrir por um instante."
+        },
+        {
+            "id": 94,
+            "place": -1,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 95,
+            "model": "과거가치우",
+            "content": "……."
+        },
+        {
+            "id": 96,
+            "place": "Sala Final da Seleção do Patriarca",
+            "model": "홍루",
+            "content": "Eu…"
+        },
+        {
+            "id": 97,
+            "content": "Mas, como se tudo não passasse de ilusão, Hong Lu engoliu o ar e fechou a boca."
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "Não sei bem que tipo de resposta o irmão espera de mim."
+        },
+        {
+            "id": 99,
+            "model": "가치우",
+            "content": "……."
+        },
+        {
+            "id": 100,
+            "model": "가치우",
+            "content": "Esta foi a primeira gentileza que lhe ofereci… e talvez seja a última chance que poderei lhe dar."
+        },
+        {
+            "id": 101,
+            "model": "가치우",
+            "content": "Vai desperdiçá-la sem conhecer o seu valor?"
+        },
+        {
+            "id": 102,
+            "model": "홍루",
+            "content": "O irmão…"
+        },
+        {
+            "id": 103,
+            "model": "홍루",
+            "content": "…deve esperar alguma coisa de mim."
+        },
+        {
+            "id": 104,
+            "model": "가치우",
+            "content": "Esperar…"
+        },
+        {
+            "id": 105,
+            "model": "가치우",
+            "content": "Quando se espera de forma errada, só resta um coração vão e vazio."
+        },
+        {
+            "id": 106,
+            "model": "가치우",
+            "content": "Mesmo assim… dediquei meu precioso tempo à mínima possibilidade que vi em você."
+        },
+        {
+            "id": 107,
+            "model": "가치우",
+            "content": "Correndo o risco de atrasar tudo o que preparei por tanto tempo."
+        },
+        {
+            "id": 108,
+            "model": "가치우",
+            "content": "E você… está apenas fugindo de me responder."
+        },
+        {
+            "id": 109
+        },
+        {
+            "id": 110,
+            "model": "가치우",
+            "content": "Calar o que se deve dizer quando chega a sua vez de falar é esconder."
+        },
+        {
+            "id": 111,
+            "model": "가치우",
+            "content": "Como você insiste em parar de pensar e em se esconder, também não posso agir como um homem nobre agiria."
+        },
+        {
+            "id": 112,
+            "model": "가치우",
+            "content": "Zilu. Hoje terei de tomar emprestado o seu método."
+        },
+        {
+            "id": 113,
+            "model": "자로",
+            "content": "Como ordenar meu senhor."
+        },
+        {
+            "id": 114,
+            "model": "가치우",
+            "content": "Vou pressioná-lo sem lhe dar sequer uma brecha para esconder os pensamentos."
+        },
+        {
+            "id": 115,
+            "model": "가치우",
+            "content": "Encontre a resposta e ponha-a na boca."
+        },
+        {
+            "id": 116
+        }
+    ]
+}

@@ -1,0 +1,614 @@
+﻿{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Local de Seleção — Sala dos Condenados, 1º andar",
+            "content": "Com um clique, as moedas penduradas no pescoço dos condenados caíram no chão."
+        },
+        {
+            "id": 1,
+            "model": "사회자",
+            "content": "A esta altura, muitos candidatos já devem ter percebido…"
+        },
+        {
+            "id": 2,
+            "model": "사회자",
+            "content": "mas as moedas podem ser obtidas de várias maneiras, circulando pelo Local de Seleção!"
+        },
+        {
+            "id": 3,
+            "model": "사회자",
+            "content": "Pode ser num combate preparado em alguma sala~ Ah! E justo agora, mais um candidato acaba de conquistar moedas!"
+        },
+        {
+            "id": 4,
+            "content": "Mas havia algo mais inquietante do que a conquista das moedas."
+        },
+        {
+            "id": 5,
+            "model": "이상",
+            "content": "Os condenados de Hongyuan… O que quis dizer com isso, meu caro Hong Lu?"
+        },
+        {
+            "id": 6,
+            "model": "홍루",
+            "content": "Antigamente, os anciãos me contaram várias histórias antigas."
+        },
+        {
+            "id": 7,
+            "model": "홍루",
+            "content": "'E assim… sobre o rosto prendeu-se a crista de um galo, sob as pernas moviam-se os cascos de um bode e nos braços brotaram árvores velhas; e, desse modo, o Grande Jardim deu mais um passo rumo à eternidade sem fim.'"
+        },
+        {
+            "id": 8,
+            "model": "이상",
+            "content": "……."
+        },
+        {
+            "id": 9,
+            "model": "이상",
+            "content": "…Refere-se aos experimentos com Bólus?"
+        },
+        {
+            "id": 10,
+            "model": "홍루",
+            "content": "Nunca vi com os meus olhos, mas já ouvi dizer que em algum lugar sob o Grande Jardim… existe um laboratório para Bólus secretos e valiosos."
+        },
+        {
+            "id": 11,
+            "model": "오티스",
+            "content": "E esses experimentos… foram feitos nos condenados."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Não é algo raro de se ver em boa parte das Alas."
+        },
+        {
+            "id": 13,
+            "model": "임대옥",
+            "content": "Toda desgraça… parece começar de um grão de ganância."
+        },
+        {
+            "id": 14,
+            "model": "임대옥",
+            "content": "A imortalidade que Hongyuan desejava… com certeza não começou almejando algo assim."
+        },
+        {
+            "id": 15,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 16,
+            "place": "Passado, Prédio da Família Kong",
+            "model": "어린임대옥",
+            "content": "Irmão Baoyu, por que demorou tanto?"
+        },
+        {
+            "id": 17,
+            "model": "어린홍루",
+            "content": "Desculpa… hoje o experimento da Matriarca acabou tarde."
+        },
+        {
+            "id": 18,
+            "model": "어린가환",
+            "teller": "???",
+            "title": "???",
+            "content": "Que sorte, eu também queria ver os experimentos que fazem lá dentro."
+        },
+        {
+            "id": 19,
+            "model": "어린가환",
+            "teller": "???",
+            "title": "???",
+            "content": "Por que só o irmão entra? Eu também aprenderia direitinho."
+        },
+        {
+            "id": 20,
+            "model": "어린홍루",
+            "content": "Eu não… vou lá pra aprender."
+        },
+        {
+            "id": 21,
+            "model": "어린가환",
+            "teller": "???",
+            "title": "???",
+            "content": "Então pra quê?"
+        },
+        {
+            "id": 22,
+            "model": "어린홍루",
+            "content": "Não sei. Eu só…"
+        },
+        {
+            "id": 23,
+            "model": "어린홍루",
+            "content": "só fico olhando."
+        },
+        {
+            "id": 24,
+            "model": "어린가환",
+            "teller": "???",
+            "title": "???",
+            "content": "Que estranho. Diferente da gente, o irmão nem precisa se esforçar pra viver sem preocupação."
+        },
+        {
+            "id": 25,
+            "model": "어린가환",
+            "teller": "???",
+            "title": "???",
+            "content": "Será que é por ser o jade da família?"
+        },
+        {
+            "id": 26,
+            "model": "어린임대옥",
+            "content": "Ei, Jia Huan! Eu já disse que não é legal falar desse jeito! Quer ver o treino que eu fiz ontem?!"
+        },
+        {
+            "id": 27,
+            "model": "어린가환",
+            "content": "Aaah, desculpa… Não faço mais…"
+        },
+        {
+            "id": 28,
+            "model": "어린임대옥",
+            "content": "Enfim, hoje… vamos brincar de bola!"
+        },
+        {
+            "id": 29,
+            "model": "어린임대옥",
+            "content": "A gente chuta a bola um pro outro, e quem não deixar ela cair no chão ganha."
+        },
+        {
+            "id": 30,
+            "model": "어린홍루",
+            "content": "Por que… brincar disso…?"
+        },
+        {
+            "id": 31,
+            "model": "어린임대옥",
+            "content": "…? Porque é divertido, ué."
+        },
+        {
+            "id": 32,
+            "model": "어린가환",
+            "content": "Eu queria brincar de fazer Bólus!"
+        },
+        {
+            "id": 33,
+            "model": "어린가환",
+            "content": "Mistura areia, pedrinha, folha e semente, e quem fizer o melhor Bólus vence!"
+        },
+        {
+            "id": 34,
+            "model": "어린임대옥",
+            "content": "Não pode~"
+        },
+        {
+            "id": 35,
+            "model": "어린임대옥",
+            "content": "Crianças da Família Lin e da Família Jia têm que brincar de coisa grandiosa."
+        },
+        {
+            "id": 36,
+            "model": "어린가환",
+            "content": "Irmão! Irmão, quer entrar também?"
+        },
+        {
+            "id": 37,
+            "model": "과거가환",
+            "content": "Huan, infelizmente não estou em posição de entrar numa partida tão solene."
+        },
+        {
+            "id": 38,
+            "model": "과거가환",
+            "content": "Se eu entrar, a Daiyu vai reclamar que é contra as regras, não vai?"
+        },
+        {
+            "id": 39,
+            "model": "어린임대옥",
+            "content": "Jia Huan, você tá querendo escapar de propósito, né?"
+        },
+        {
+            "id": 40,
+            "model": "어린임대옥",
+            "content": "Tá bom, depois da brincadeira de bola a gente brinca de fazer Bólus."
+        },
+        {
+            "id": 41,
+            "model": "어린임대옥",
+            "content": "E amanhã a gente brinca da brincadeira que o irmão Baoyu gosta."
+        },
+        {
+            "id": 42,
+            "model": "어린홍루",
+            "content": "Eu…"
+        },
+        {
+            "id": 43,
+            "model": "어린홍루",
+            "content": "Gosto de tudo…"
+        },
+        {
+            "id": 44,
+            "model": "어린임대옥",
+            "content": "Mas deve ter pelo menos uma coisa que você gosta, né? Pensa nisso até amanhã. Tá bom?"
+        },
+        {
+            "id": 45,
+            "place": "Passado, Laboratório de Hongyuan",
+            "model": "공우진",
+            "content": "Sei que… isso pode ser impaciência da minha parte…"
+        },
+        {
+            "id": 46,
+            "model": "공우진",
+            "content": "mas aquele plano que mencionou da outra vez… sobre o décimo terceiro Heishou… tem mesmo certeza disso?"
+        },
+        {
+            "id": 47,
+            "model": "과거가모",
+            "content": "Alguma vez me viu fracassar?"
+        },
+        {
+            "id": 48,
+            "model": "과거가모",
+            "content": "A força de uma família vem dos Heishou. Mas, desde os tempos antigos, só existem doze bandos de Heishou, e, por esse número ser limitado… o equilíbrio entre as famílias dificilmente se rompe."
+        },
+        {
+            "id": 49,
+            "model": "과거가모",
+            "content": "Os Heishou são, sem dúvida, a sombra do Grande Jardim e seus braços mais hábeis, mas… você também sabe que não são perfeitos. Por trás daquela força explosiva vem um preço físico igualmente enorme."
+        },
+        {
+            "id": 50,
+            "model": "과거가모",
+            "content": "Mesmo que se possua um bando de Heishou por um tempo, é difícil aumentar seu número. A quantidade é rigidamente controlada pelos Xianren de cada bando."
+        },
+        {
+            "id": 51,
+            "model": "과거가모",
+            "content": "Pois é… O motivo de ninguém sequer ter tentado criar um novo Heishou… é que os Xianren dos Heishou escondem a receita dos seus Bólus."
+        },
+        {
+            "id": 52,
+            "model": "과거가모",
+            "content": "Mas eu tenho um vasto conhecimento sobre Bólus e a clarividência que os Xianren me legaram. Com o apoio da Família Kong, é um campo em que vale a pena se arriscar."
+        },
+        {
+            "id": 53,
+            "model": "과거가모",
+            "content": "A Família Kong já impôs seu prestígio por toda a Cidade com a bioengenharia aliada aos Bólus, mas… e agora?"
+        },
+        {
+            "id": 54,
+            "model": "과거가모",
+            "content": "Singularidades que permitem tratamentos e modificações superiores são descobertas por toda parte, pesquisadas e, após aplicação, chegam à fase de comercialização."
+        },
+        {
+            "id": 55,
+            "model": "과거가모",
+            "content": "Se continuar assim, a H Corp. vai ficar para trás… e ninguém sabe quando será visada como presa numa guerra entre Alas."
+        },
+        {
+            "id": 56,
+            "model": "과거가모",
+            "content": "Hongyuan guarda muitos segredos passados de geração em geração, e algumas regiões se ligam até às Ruínas; somos como um baú de tesouros que as Alas de todo canto cobiçam."
+        },
+        {
+            "id": 57,
+            "model": "과거가모",
+            "content": "Nessa situação, se conseguirmos produzir Heishou em massa e tomar o poder absoluto pela força, quem na Cidade ousaria se meter com a Família Kong e com Hongyuan?"
+        },
+        {
+            "id": 58,
+            "model": "공우진",
+            "content": "Poderia… manter isso em segredo da minha esposa?"
+        },
+        {
+            "id": 59,
+            "model": "공우진",
+            "content": "Se o experimento der certo, quero fazer uma surpresa pra ela."
+        },
+        {
+            "id": 60,
+            "model": "공우진",
+            "content": "Na verdade, há alguns meses, o médico nos deu a notícia de que ela está grávida…"
+        },
+        {
+            "id": 61,
+            "model": "공우진",
+            "content": "Se, na época do nascimento da criança, pudéssemos mostrar que demos um passo nesse campo que parecia impossível…"
+        },
+        {
+            "id": 62,
+            "model": "공우진",
+            "content": "não seria uma notícia digna de celebração não só para o Grande Jardim, mas para todos de Hongyuan?"
+        },
+        {
+            "id": 63,
+            "model": "공우진",
+            "content": "Se há algo que a nossa Família Kong possa oferecer, faremos o que for preciso."
+        },
+        {
+            "id": 64,
+            "model": "공우진",
+            "content": "Então, que tal deixarmos isso como um segredo entre nós dois por enquanto?"
+        },
+        {
+            "id": 65,
+            "model": "과거가모",
+            "content": "Fica combinado. Vou precisar preparar um Bólus especial para celebrar a nova vida também."
+        },
+        {
+            "id": 66,
+            "model": "과거가모",
+            "content": "……."
+        },
+        {
+            "id": 67,
+            "model": "과거가모",
+            "content": "Por hoje vamos voltar, Baoyu."
+        },
+        {
+            "id": 68,
+            "model": "어린홍루",
+            "content": "Vovó… por que a senhora parece tão de bom humor?"
+        },
+        {
+            "id": 69,
+            "model": "과거가모",
+            "content": "É que o grande peixe tolo mordeu direitinho a isca que preparei com tanto esmero."
+        },
+        {
+            "id": 70,
+            "model": "과거가모",
+            "content": "Minha proposta devia ser tentadora demais para fingir que não viu."
+        },
+        {
+            "id": 71,
+            "model": "과거가모",
+            "content": "Por mais que se enfeite de benevolência, a arrogância da Família Kong decerto permanece como herança de sangue."
+        },
+        {
+            "id": 72,
+            "model": "어린홍루",
+            "content": "……."
+        },
+        {
+            "id": 73,
+            "model": "과거가모",
+            "content": "Vamos, apressemos o passo."
+        },
+        {
+            "id": 74,
+            "model": "과거가모",
+            "content": "Os Xianren devem estar à espera."
+        },
+        {
+            "id": 75,
+            "place": "Local de Seleção — Sala dos Condenados, 1º andar",
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 76,
+            "content": "…Lin Daiyu, pelo visto, tinha olhado para dentro da memória junto conosco mais uma vez."
+        },
+        {
+            "id": 77,
+            "model": "임대옥",
+            "content": "A brincadeira de bola…"
+        },
+        {
+            "id": 78,
+            "content": "Como se uma lembrança esquecida por um tempo tivesse voltado, Lin Daiyu ficou absorta em pensamentos."
+        },
+        {
+            "id": 79,
+            "model": "임대옥",
+            "content": "Naquele dia…"
+        },
+        {
+            "id": 80,
+            "model": "임대옥",
+            "content": "o irmão venceu."
+        },
+        {
+            "id": 81,
+            "model": "임대옥",
+            "content": "Foi a primeira vez que perdi… pro irmão numa brincadeira de esforço físico… por isso me lembro."
+        },
+        {
+            "id": 82,
+            "model": "임대옥",
+            "content": "A areia… grudada no corpo inteiro…"
+        },
+        {
+            "id": 83,
+            "model": "임대옥",
+            "content": "O Jia Huan… fazendo cara de choro porque o arranhão na palma da mão ardia…"
+        },
+        {
+            "id": 84,
+            "model": "홍루",
+            "content": "……."
+        },
+        {
+            "id": 85,
+            "model": "홍루",
+            "content": "Ah, foi isso mesmo."
+        },
+        {
+            "id": 86,
+            "content": "Hong Lu respondeu como quem fala de algo acontecido há muitíssimo tempo."
+        },
+        {
+            "id": 87,
+            "content": "Daiyu logo sacudiu a cabeça, como que saindo de um devaneio."
+        },
+        {
+            "id": 88,
+            "model": "임대옥",
+            "content": "O décimo terceiro Heishou… o que é isso? Tem a ver com um tabu, não é?"
+        },
+        {
+            "id": 89,
+            "model": "홍루",
+            "content": "Daiyu. Já era assim há muito tempo, mas…"
+        },
+        {
+            "id": 90,
+            "model": "홍루",
+            "content": "não importa o que você pergunte, nem o que eu responda… não vai ser a resposta que você quer."
+        },
+        {
+            "id": 91,
+            "model": "임대옥",
+            "content": "Isso é apenas o julgamento do irmão…"
+        },
+        {
+            "id": 92,
+            "model": "홍루",
+            "content": "Se o resultado que você quer não está esperando lá no fim, pra que buscar?"
+        },
+        {
+            "id": 93,
+            "model": "홍루",
+            "content": "Eu respondi que essa pergunta não tinha sentido. Por isso só observo."
+        },
+        {
+            "id": 94,
+            "model": "임대옥",
+            "content": "……."
+        },
+        {
+            "id": 95,
+            "model": "단테",
+            "content": "<Hong Lu… tudo bem pra você ficar vendo essas coisas?>"
+        },
+        {
+            "id": 96,
+            "content": "Hong Lu inclinou a cabeça de leve diante das minhas palavras. Como se não entendesse bem a pergunta."
+        },
+        {
+            "id": 97,
+            "model": "홍루",
+            "content": "Hum… Mais do que bom ou ruim, é uma sensação estranha. Não era uma lembrança que eu tentei esquecer, mas também não era uma que eu quisesse rever."
+        },
+        {
+            "id": 98,
+            "model": "홍루",
+            "content": "…Os sentimentos e sensações que eu tive naquela época ficaram todos distantes."
+        },
+        {
+            "id": 99,
+            "model": "홍루",
+            "content": "Agora é como se eu estivesse olhando de cima."
+        },
+        {
+            "id": 100,
+            "model": "홍루",
+            "content": "Por isso, não sei o que responder quando perguntam se tá tudo bem."
+        },
+        {
+            "id": 101,
+            "model": "홍루",
+            "content": "Porque, pra mim, não há mais nada a mudar."
+        },
+        {
+            "id": 102,
+            "model": "단테",
+            "content": "<…….>"
+        },
+        {
+            "id": 103,
+            "model": "이상",
+            "content": "A julgar pelas memórias de Hong Lu…"
+        },
+        {
+            "id": 104,
+            "model": "이상",
+            "content": "foi a tal Matriarca quem primeiro propôs o experimento do décimo terceiro Heishou, ao que parece."
+        },
+        {
+            "id": 105,
+            "model": "뫼르소",
+            "content": "Mas a Família Kong também parecia desejar o experimento."
+        },
+        {
+            "id": 106,
+            "model": "이스마엘",
+            "content": "…Não me pareceu que eles estavam loucos de ganância, como dizia a placa na porta. Que tinham ambição, isso não dá pra negar, mas…"
+        },
+        {
+            "id": 107,
+            "model": "싱클레어",
+            "content": "É-é verdade. É só uma impressão, mas… eles pareciam se importar de verdade com Hongyuan."
+        },
+        {
+            "id": 108,
+            "model": "임대옥",
+            "content": "O que senti vivendo aqui por quase trinta anos…"
+        },
+        {
+            "id": 109,
+            "model": "임대옥",
+            "content": "é que não é fácil encontrar um líder de caráter e índole generosos."
+        },
+        {
+            "id": 110,
+            "model": "임대옥",
+            "content": "A maioria das pessoas não quer dar oportunidade a ninguém; só agarra com mais força o que tem diante dos olhos."
+        },
+        {
+            "id": 111,
+            "model": "임대옥",
+            "content": "Mas as pessoas da Família Kong de que me lembro… ao menos tentavam dar oportunidades."
+        },
+        {
+            "id": 112,
+            "model": "임대옥",
+            "content": "Se a nossa Família Lin, que não tinha posição alguma, conseguiu ao menos chegar a família de guarda-costas… foi porque escolhiam os guardas só pela competência, não pela origem."
+        },
+        {
+            "id": 113,
+            "model": "임대옥",
+            "content": "Mas, depois que a Família Kong foi extinta, fora as sólidas 4 Grandes Famílias, até as poucas oportunidades que havia foram tomadas."
+        },
+        {
+            "id": 114,
+            "model": "임대옥",
+            "content": "Por isso, quando ouvi dizer que eles acabaram cegos pela ganância e que tudo terminou…"
+        },
+        {
+            "id": 115,
+            "model": "임대옥",
+            "content": "embora eu ainda fosse criança, o que senti naquela hora continua nítido."
+        },
+        {
+            "id": 116,
+            "model": "임대옥",
+            "content": "Devastação."
+        },
+        {
+            "id": 117,
+            "model": "임대옥",
+            "content": "Porque, a partir dali, não restava mais lugar nenhum pra onde eu voltar."
+        },
+        {
+            "id": 118,
+            "model": "그레고르",
+            "content": "Puxa… você também passou por poucas e boas, hein. Foi difícil."
+        },
+        {
+            "id": 119,
+            "content": "Mesmo numa situação dessas… a disputa pelo Patriarca seguia em andamento."
+        },
+        {
+            "id": 120,
+            "content": "Com a palavra de consolo de Gregor como despedida, seguimos para um ponto mais fundo, aonde as paredes não subiriam."
+        }
+    ]
+}
